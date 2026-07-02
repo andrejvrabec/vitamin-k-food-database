@@ -1,0 +1,613 @@
+{
+  "data": [
+    {
+      "id": "garlic_raw",
+      "category": "herbs_spices",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.3,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "parsley_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "herbs",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1350.0
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "gram_equivalent": 2,
+          "vitamin_k_mcg": 27.0
+        }
+      ],
+      "source": "USDA FoodData Central (FDC ID: 170932)",
+      "relations": {
+        "group": "parsley",
+        "related_ids": [
+          "parsley_fresh"
+        ]
+      }
+    },
+    {
+      "id": "parsley_fresh",
+      "category": "herbs_spices",
+      "tags": [
+        "herbs",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1640.0
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "gram_equivalent": 4,
+          "vitamin_k_mcg": 65.6
+        }
+      ],
+      "source": "USDA FoodData Central (FDC ID: 170416)",
+      "relations": {
+        "group": "parsley",
+        "related_ids": [
+          "parsley_dried"
+        ]
+      }
+    },
+    {
+      "id": "spices_cinnamon_ground",
+      "category": "herbs_spices",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 5
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1"
+      ]
+    },
+    {
+      "id": "spices_curry_powder",
+      "category": "herbs_spices",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 40.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 5
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1"
+      ]
+    },
+    {
+      "id": "spices_marjoram_dried",
+      "category": "herbs_spices",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 74.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 3.7,
+          "gram_equivalent": 5
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1"
+      ]
+    },
+    {
+      "id": "spices_mustard_seed_ground",
+      "category": "herbs_spices",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 5
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "seeds"
+      ]
+    },
+    {
+      "id": "spices_thyme_dried",
+      "category": "herbs_spices",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 17.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 17.1,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1"
+      ]
+    },
+    {
+      "id": "spices_turmeric_ground",
+      "category": "herbs_spices",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 5
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1"
+      ]
+    },
+    {
+      "id": "thyme_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "herbs",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1710.0
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "gram_equivalent": 1,
+          "vitamin_k_mcg": 17.1
+        }
+      ],
+      "source": "USDA FDC (derived from PDF page 2)"
+    },
+    {
+      "id": "spices_basil_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1714.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 12.0,
+          "gram_equivalent": 0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 36.0,
+          "gram_equivalent": 2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02003)"
+    },
+    {
+      "id": "cinnamon_ground",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 31.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 2.5,
+          "gram_equivalent": 7
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02010)"
+    },
+    {
+      "id": "curry_powder",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 99.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 6.3,
+          "gram_equivalent": 6
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02015)"
+    },
+    {
+      "id": "garlic_powder",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 9
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 3
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02020)"
+    },
+    {
+      "id": "marjoram_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 621.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 10.6,
+          "gram_equivalent": 1
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 3.7,
+          "gram_equivalent": 0
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02023)"
+    },
+    {
+      "id": "spices_mustard_sd_ground",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 6
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02024)"
+    },
+    {
+      "id": "spices_oregano_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 621.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 6.2,
+          "gram_equivalent": 1
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 11.2,
+          "gram_equivalent": 1
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02027)"
+    },
+    {
+      "id": "sage_ground",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1714.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 34.3,
+          "gram_equivalent": 2
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 12.0,
+          "gram_equivalent": 0
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02038)"
+    },
+    {
+      "id": "turmeric_ground",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 6
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02043)"
+    },
+    {
+      "id": "basil_fresh",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 414.8
+        },
+        {
+          "amount": 2.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 22.0,
+          "gram_equivalent": 5
+        },
+        {
+          "amount": 5.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 10.4,
+          "gram_equivalent": 2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02044)"
+    },
+    {
+      "id": "parsley_frsh",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1640.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 984.0,
+          "gram_equivalent": 60
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 62.3,
+          "gram_equivalent": 3
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 11297)"
+    },
+    {
+      "id": "english_muffins_raisin_cinnamon",
+      "category": "herbs_spices",
+      "tags": [
+        "bakery",
+        "fast_food",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.4,
+          "gram_equivalent": 57
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 18262)"
+    },
+    {
+      "id": "english_muffins_raisin_cinnamon_tstd",
+      "category": "herbs_spices",
+      "tags": [
+        "bakery",
+        "fast_food",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 52
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 18263)"
+    },
+    {
+      "id": "cinnamon_buns_frstd",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.3,
+          "gram_equivalent": 65
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 18964)"
+    }
+  ]
+}

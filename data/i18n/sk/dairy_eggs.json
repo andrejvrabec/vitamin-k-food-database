@@ -1,0 +1,1122 @@
+{
+  "beverages_whey_protein_powder_isolate": {
+    "name": "Nápoje, Srvátkový proteínový práškový izolát",
+    "alternative_names": [],
+    "description": "Nápoje, Srvátkový proteínový práškový izolát podľa databázy USDA."
+  },
+  "cheese_blue": {
+    "name": "Syr, modrý",
+    "alternative_names": [],
+    "description": "Syr, modrý podľa databázy USDA."
+  },
+  "cheese_camembert": {
+    "name": "Syr, hermelín",
+    "alternative_names": [],
+    "description": "Syr, hermelín podľa databázy USDA."
+  },
+  "cheese_cheddar": {
+    "name": "Syr, čedar (zahŕňa potraviny pre program distribúcie potravín USDA)",
+    "alternative_names": [],
+    "description": "Syr, čedar (zahŕňa potraviny pre program distribúcie potravín USDA) podľa databázy USDA."
+  },
+  "cheese_cottage_creamed_with_fruit": {
+    "name": "Syrové, cottage, smotanové, s ovocím",
+    "alternative_names": [],
+    "description": "Syrové, cottage, smotanové, s ovocím podľa databázy USDA."
+  },
+  "cheese_cottage_lowfat_1_milkfat": {
+    "name": "Syr, cottage, nízkotučný, 1% mliečny tuk",
+    "alternative_names": [],
+    "description": "Syr, cottage, nízkotučný, 1% mliečny tuk podľa databázy USDA."
+  },
+  "cheese_cream": {
+    "name": "Syr, smotana",
+    "alternative_names": [],
+    "description": "Syr, smotana podľa databázy USDA."
+  },
+  "cheese_feta": {
+    "name": "Syr, feta",
+    "alternative_names": [],
+    "description": "Syr, feta podľa databázy USDA."
+  },
+  "cheese_food_pasteurized_process_american": {
+    "name": "Syrové jedlo, pasterizované, americké, vitamín D",
+    "alternative_names": [],
+    "description": "Syrové jedlo, pasterizované, americké, vitamín D podľa databázy USDA."
+  },
+  "cheese_mexican_queso_chihuahua": {
+    "name": "Syr, mexický, queso čivava",
+    "alternative_names": [],
+    "description": "Syr, mexický, queso čivava podľa databázy USDA."
+  },
+  "cheese_mozzarella_low_moisture_part_skim": {
+    "name": "Syr, mozzarella, nízka vlhkosť, čiastočne odtučnený",
+    "alternative_names": [],
+    "description": "Syr, mozzarella, nízka vlhkosť, čiastočne odtučnený podľa databázy USDA."
+  },
+  "cheese_mozzarella_whole_milk": {
+    "name": "Syr, mozzarella, plnotučné mlieko",
+    "alternative_names": [],
+    "description": "Syr, mozzarella, plnotučné mlieko podľa databázy USDA."
+  },
+  "cheese_muenster": {
+    "name": "Syr, muenster",
+    "alternative_names": [],
+    "description": "Syr, muenster podľa databázy USDA."
+  },
+  "cheese_neufchatel": {
+    "name": "Syr, neufchatel",
+    "alternative_names": [],
+    "description": "Syr, neufchatel podľa databázy USDA."
+  },
+  "cheese_parmesan_grated": {
+    "name": "Syr, parmezán, strúhaný",
+    "alternative_names": [],
+    "description": "Syr, parmezán, strúhaný podľa databázy USDA."
+  },
+  "cheese_pasteurized_process_american_fort": {
+    "name": "Syr, pasterizovaný proces, americký, obohatený o",
+    "alternative_names": [],
+    "description": "Syr, pasterizovaný proces, americký, obohatený o podľa databázy USDA."
+  },
+  "cheese_pasteurized_process_swiss": {
+    "name": "Syr, pasterizovaný proces, švajčiarsky",
+    "alternative_names": [],
+    "description": "Syr, pasterizovaný proces, švajčiarsky podľa databázy USDA."
+  },
+  "cheese_provolone": {
+    "name": "Syr, provolón",
+    "alternative_names": [],
+    "description": "Syr, provolón podľa databázy USDA."
+  },
+  "cheese_ricotta_part_skim_milk": {
+    "name": "Syr, ricotta, časť odstredeného mlieka",
+    "alternative_names": [],
+    "description": "Syr, ricotta, časť odstredeného mlieka podľa databázy USDA."
+  },
+  "cheese_ricotta_whole_milk": {
+    "name": "Syr, ricotta, plnotučné mlieko",
+    "alternative_names": [],
+    "description": "Syr, ricotta, plnotučné mlieko podľa databázy USDA."
+  },
+  "cheese_substitute_mozzarella": {
+    "name": "Náhradka syra, mozzarella",
+    "alternative_names": [],
+    "description": "Náhradka syra, mozzarella podľa databázy USDA."
+  },
+  "cheese_swiss": {
+    "name": "Syr, švajčiarsky",
+    "alternative_names": [],
+    "description": "Syr, švajčiarsky podľa databázy USDA."
+  },
+  "crackers_cheese_regular": {
+    "name": "Krekry, syrové, obyčajné",
+    "alternative_names": [],
+    "description": "Krekry, syrové, obyčajné podľa databázy USDA."
+  },
+  "crackers_cream_gamesa_sabrosas": {
+    "name": "Krekry, smotana, Gamesa Sabrosas",
+    "alternative_names": [],
+    "description": "Krekry, smotana, Gamesa Sabrosas podľa databázy USDA."
+  },
+  "cream_fluid_half_and_half": {
+    "name": "Krém, fluid, pol na pol",
+    "alternative_names": [],
+    "description": "Krém, fluid, pol na pol podľa databázy USDA."
+  },
+  "cream_fluid_heavy_whipping": {
+    "name": "Krém, tekutina, silné šľahanie",
+    "alternative_names": [],
+    "description": "Krém, tekutina, silné šľahanie podľa databázy USDA."
+  },
+  "cream_fluid_light": {
+    "name": "Krém, tekutý, ľahký (krém do kávy alebo stolový krém)",
+    "alternative_names": [],
+    "description": "Krém, tekutý, ľahký (krém do kávy alebo stolový krém) podľa databázy USDA."
+  },
+  "cream_fluid_light_whipping": {
+    "name": "Krém, fluid, ľahké šľahanie",
+    "alternative_names": [],
+    "description": "Krém, fluid, ľahké šľahanie podľa databázy USDA."
+  },
+  "cream_puff_eclair_custard_or_cream_fille": {
+    "name": "Smotanová bábovka, eclair, puding alebo smotana plnená, ľadová",
+    "alternative_names": [],
+    "description": "Smotanová bábovka, eclair, puding alebo smotana plnená, ľadová podľa databázy USDA."
+  },
+  "cream_sour_cultured": {
+    "name": "Smotanové, kyslé, kultivované",
+    "alternative_names": [],
+    "description": "Smotanové, kyslé, kultivované podľa databázy USDA."
+  },
+  "croissants_cheese": {
+    "name": "Croissanty, syry",
+    "alternative_names": [],
+    "description": "Croissanty, syry podľa databázy USDA."
+  },
+  "egg_whole_cooked_omelet": {
+    "name": "Vajcia, celé, varené, omeleta",
+    "alternative_names": [],
+    "description": "Vajcia, celé, varené, omeleta podľa databázy USDA."
+  },
+  "egg_yolk_raw": {
+    "name": "Vaječný žĺtok, surový",
+    "alternative_names": [
+      "surový žĺtok"
+    ],
+    "description": "Žĺtok čerstvého slepačieho vajca, obsahujúci dobre vstrebateľný vitamín K2."
+  },
+  "egg_yolk_raw_frozen_sugared_pasteurized": {
+    "name": "Vajcia, žĺtok, surové, mrazené, s cukrom, pasterizované",
+    "alternative_names": [],
+    "description": "Vajcia, žĺtok, surové, mrazené, s cukrom, pasterizované podľa databázy USDA."
+  },
+  "eggnog": {
+    "name": "Vaječný likér",
+    "alternative_names": [],
+    "description": "Vaječný likér podľa databázy USDA."
+  },
+  "fast_foods_biscuit_with_egg_and_bacon": {
+    "name": "Rýchle občerstvenie, sušienka, s vajcom a slaninou",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, sušienka, s vajcom a slaninou podľa databázy USDA."
+  },
+  "fast_foods_biscuit_with_egg_and_sausage": {
+    "name": "Rýchle občerstvenie, sušienky, s vajcom a klobásou",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, sušienky, s vajcom a klobásou podľa databázy USDA."
+  },
+  "gouda_cheese": {
+    "name": "Syr Gouda",
+    "alternative_names": [
+      "Gouda",
+      "zrejúca Gouda"
+    ],
+    "description": "Polotvrdý syr pôvodom z Holandska, bohatý na vitamín K2 (najmä MK-4 a dlhšie menachinóny produkované mliečnymi baktériami)."
+  },
+  "milk_buttermilk_dried": {
+    "name": "Mlieko, cmar, sušené",
+    "alternative_names": [],
+    "description": "Mlieko, cmar, sušené podľa databázy USDA."
+  },
+  "milk_canned_condensed_sweetened": {
+    "name": "Mlieko, konzervované, kondenzované, sladené",
+    "alternative_names": [],
+    "description": "Mlieko, konzervované, kondenzované, sladené podľa databázy USDA."
+  },
+  "milk_canned_evaporated_with_added_vitami": {
+    "name": "Mlieko, konzervované, odparené, s pridaným vitamínom D a bez pridaného vitamínu A",
+    "alternative_names": [],
+    "description": "Mlieko, konzervované, odparené, s pridaným vitamínom D a bez pridaného vitamínu A podľa databázy USDA."
+  },
+  "potatoes_mashed_dehydrated_flakes_withou": {
+    "name": "Zemiaky, kaše, dehydrované, vločky bez mlieka, suché",
+    "alternative_names": [],
+    "description": "Zemiaky, kaše, dehydrované, vločky bez mlieka, suché podľa databázy USDA."
+  },
+  "whey_sweet_dried": {
+    "name": "Srvátka, sladká, sušená",
+    "alternative_names": [],
+    "description": "Srvátka, sladká, sušená podľa databázy USDA."
+  },
+  "cheese_brick": {
+    "name": "Syr, tehla",
+    "alternative_names": [],
+    "description": "Syr, tehla z databázy USDA."
+  },
+  "cheese_brie": {
+    "name": "Syr, brie",
+    "alternative_names": [],
+    "description": "Syr, brie z databázy USDA."
+  },
+  "cheese_colby": {
+    "name": "Syr, colby",
+    "alternative_names": [],
+    "description": "Syr, colby z databázy USDA."
+  },
+  "cheese_cottage_crmd_wfruit": {
+    "name": "Syr, cottage, crmd, s ovocím",
+    "alternative_names": [],
+    "description": "Syr, cottage, crmd, s ovocím z databázy USDA."
+  },
+  "cheese_edam": {
+    "name": "Syr, eidam",
+    "alternative_names": [],
+    "description": "Syr, eidam z databázy USDA."
+  },
+  "cheese_fontina": {
+    "name": "Syr, fontina",
+    "alternative_names": [],
+    "description": "Syr, fontina z databázy USDA."
+  },
+  "cheese_gouda": {
+    "name": "Syr, gouda",
+    "alternative_names": [],
+    "description": "Syr, gouda z databázy USDA."
+  },
+  "cheese_gruyere": {
+    "name": "Syr, gruyere",
+    "alternative_names": [],
+    "description": "Syr, gruyere z databázy USDA."
+  },
+  "cheese_limburger": {
+    "name": "Syr, limburger",
+    "alternative_names": [],
+    "description": "Syr, limburger z databázy USDA."
+  },
+  "cheese_monterey": {
+    "name": "Syr, monterey",
+    "alternative_names": [],
+    "description": "Syr, monterey z databázy USDA."
+  },
+  "cheese_mozzarella_whl_milk": {
+    "name": "Syr, mozzarella, sušené mlieko",
+    "alternative_names": [],
+    "description": "Syr, mozzarella, sušené mlieko z databázy USDA."
+  },
+  "cheese_mozzarella_whl_milk_lo_moist": {
+    "name": "Syr, mozzarella, sušené mlieko, vlhké",
+    "alternative_names": [],
+    "description": "Syr, mozzarella, sušené mlieko, vlhké z databázy USDA."
+  },
+  "cheese_mozzarella_part_skim_milk": {
+    "name": "Syr, mozzarella, časť odstredeného mlieka",
+    "alternative_names": [],
+    "description": "Syr, mozzarella, časť odstredeného mlieka z databázy USDA."
+  },
+  "cheese_mozzarella_part_skim_milk_lo_moist": {
+    "name": "Syr, mozzarella, čiastočne odstredené mlieko, vlhké",
+    "alternative_names": [],
+    "description": "Syr, mozzarella, čiastočne odstredené mlieko, vlhké z databázy USDA."
+  },
+  "cheese_parmesan_hard": {
+    "name": "Syr, parmezán, tvrdý",
+    "alternative_names": [],
+    "description": "Syr, parmezán, tvrdý z databázy USDA."
+  },
+  "cheese_port_de_salut": {
+    "name": "Syr, port de salut",
+    "alternative_names": [],
+    "description": "Syr, port de salut z databázy USDA."
+  },
+  "cheese_romano": {
+    "name": "Syr, rímsky",
+    "alternative_names": [],
+    "description": "Syr, rímsky z databázy USDA."
+  },
+  "cheese_past_process_american_fort_w_vitamin_d": {
+    "name": "Syr, minulý proces, americký, pevnosť s vitamínom d",
+    "alternative_names": [],
+    "description": "Syr, minulý proces, americký, pevnosť s vitamínom d z databázy USDA."
+  },
+  "cheese_past_process_pimento": {
+    "name": "Syr, predchádzajúci proces, korenie",
+    "alternative_names": [],
+    "description": "Syr, predchádzajúci proces, korenie z databázy USDA."
+  },
+  "cheese_past_process_swiss": {
+    "name": "Syr, minulý proces, švajčiarsky",
+    "alternative_names": [],
+    "description": "Syr, minulý proces, švajčiarsky z databázy USDA."
+  },
+  "cheese_fd_past_process_american_vitamin_d_for": {
+    "name": "Syr fd, minulý proces, americký, fort vitamínu D",
+    "alternative_names": [],
+    "description": "Syr fd, minulý proces, americký, fort vitamínu D z databázy USDA."
+  },
+  "cheese_sprd_past_process_american": {
+    "name": "Syr sprd, minulý proces, americký",
+    "alternative_names": [],
+    "description": "Syr sprd, minulý proces, americký z databázy USDA."
+  },
+  "cream_fluid_lt": {
+    "name": "Krém, tekutý, lt (crm do kávy alebo stolový crm)",
+    "alternative_names": [],
+    "description": "Krém, tekutý, lt (crm do kávy alebo stolový crm) z databázy USDA."
+  },
+  "cream_fluid_lt_whipping": {
+    "name": "Smotana, tekutá, na šľahanie",
+    "alternative_names": [],
+    "description": "Smotana, tekutá, na šľahanie z databázy USDA."
+  },
+  "cream_fluid_hvy_whipping": {
+    "name": "Krém, fluid, hvy šľahanie",
+    "alternative_names": [],
+    "description": "Krém, fluid, hvy šľahanie z databázy USDA."
+  },
+  "sour_drsng_non_butterfat_cultured_filled_crea": {
+    "name": "Kyslý drsng, nemaslový, kultivovaný, plnený krémový typ",
+    "alternative_names": [],
+    "description": "Kyslý drsng, nemaslový, kultivovaný, plnený krémový typ z databázy USDA."
+  },
+  "cream_substitute_powdered": {
+    "name": "Náhradka smotany, prášková",
+    "alternative_names": [],
+    "description": "Náhradka smotany, prášková z databázy USDA."
+  },
+  "milk_whl_325_milkfat_w_added_vitamin_d": {
+    "name": "Mlieko, whl, 3,25 % mliečneho tuku, s pridaným vitamínom d",
+    "alternative_names": [],
+    "description": "Mlieko, whl, 3,25 % mliečneho tuku, s pridaným vitamínom d z databázy USDA."
+  },
+  "milk_lowfat_fluid_1_milkfat_w_added_vit_a_vit": {
+    "name": "Mlieko, nízkotučné, tekuté, 1 % mliečneho tuku, s pridaným vitamínom a a vitamínom d",
+    "alternative_names": [],
+    "description": "Mlieko, nízkotučné, tekuté, 1 % mliečneho tuku, s pridaným vitamínom a a vitamínom d z databázy USDA."
+  },
+  "milk_bttrmlk_fluid_cultured_lowfat": {
+    "name": "Mlieko, bttrmlk, tekuté, kultivované, nízkotučné",
+    "alternative_names": [],
+    "description": "Mlieko, bttrmlk, tekuté, kultivované, nízkotučné z databázy USDA."
+  },
+  "milk_lo_na_fluid": {
+    "name": "Mlieko, no na, tekutina",
+    "alternative_names": [],
+    "description": "Mlieko, no na, tekutina z databázy USDA."
+  },
+  "milk_dry_whl_w_added_vitamin_d": {
+    "name": "Mlieko, sušené, s prídavkom vitamínu D",
+    "alternative_names": [],
+    "description": "Mlieko, sušené, s prídavkom vitamínu D z databázy USDA."
+  },
+  "milk_dry_nonfat_reg_wo_added_vit_a_vitamin_d": {
+    "name": "Mlieko, suché, odtučnené, reg, s prídavkom vit a & vitamínu d",
+    "alternative_names": [],
+    "description": "Mlieko, suché, odtučnené, reg, s prídavkom vit a & vitamínu d z databázy USDA."
+  },
+  "milk_cnd_cond_swtnd": {
+    "name": "Mlieko, cnd, cond, swtnd",
+    "alternative_names": [],
+    "description": "Mlieko, cnd, cond, swtnd z databázy USDA."
+  },
+  "milk_cnd_evap_w_added_vitamin_d_wo_added_vit": {
+    "name": "Mlieko, cnd, evap, s pridaným vitamínom d & w / s prídavkom vitamínu",
+    "alternative_names": [],
+    "description": "Mlieko, cnd, evap, s pridaným vitamínom d & w / s prídavkom vitamínu z databázy USDA."
+  },
+  "milk_choc_fluid_comm_whl_w_added_vit_a_vitami": {
+    "name": "Mlieko, čokoláda, tekutina, comm, whl, s pridaným vitamínom a vitamínom d",
+    "alternative_names": [],
+    "description": "Mlieko, čokoláda, tekutina, comm, whl, s pridaným vitamínom a vitamínom d z databázy USDA."
+  },
+  "milk_choc_fluid_comm_lowfat_w_added_vit_a_vit": {
+    "name": "Mlieko, čokoláda, tekutiny, comm, nízkotučné, s pridaným vitamínom A a vitamínom D",
+    "alternative_names": [],
+    "description": "Mlieko, čokoláda, tekutiny, comm, nízkotučné, s pridaným vitamínom A a vitamínom D z databázy USDA."
+  },
+  "milk_choc_bev_hot_cocoa_homemade": {
+    "name": "Mlieko, choc bev, horúce kakao, domáce",
+    "alternative_names": [],
+    "description": "Mlieko, choc bev, horúce kakao, domáce z databázy USDA."
+  },
+  "milk_goat_fluid_w_added_vitamin_d": {
+    "name": "Mlieko, kozie, tekutiny, s pridaným vitamínom d",
+    "alternative_names": [],
+    "description": "Mlieko, kozie, tekutiny, s pridaným vitamínom d z databázy USDA."
+  },
+  "milk_human_mature_fluid": {
+    "name": "Mlieko, ľudské, zrelé, tekuté",
+    "alternative_names": [],
+    "description": "Mlieko, ľudské, zrelé, tekuté z databázy USDA."
+  },
+  "milk_shakes_thick_choc": {
+    "name": "Mliečne koktaily, hustá čokoláda",
+    "alternative_names": [],
+    "description": "Mliečne koktaily, hustá čokoláda z databázy USDA."
+  },
+  "milk_shakes_thick_vanilla": {
+    "name": "Mliečne koktaily, hustá vanilka",
+    "alternative_names": [],
+    "description": "Mliečne koktaily, hustá vanilka z databázy USDA."
+  },
+  "yogurt_pln_whl_milk_8_grams_prot_per_8_oz": {
+    "name": "Jogurt, plnotučné mlieko, 8 gramov prot na 8 oz",
+    "alternative_names": [],
+    "description": "Jogurt, plnotučné mlieko, 8 gramov prot na 8 oz z databázy USDA."
+  },
+  "yogurt_pln_lofat_12_grams_prot_per_8_oz": {
+    "name": "Jogurt, pln, lofat, 12 gramov prot na 8 oz",
+    "alternative_names": [],
+    "description": "Jogurt, pln, lofat, 12 gramov prot na 8 oz z databázy USDA."
+  },
+  "yogurt_pln_skim_milk_13_grams_prot_per_8_oz": {
+    "name": "Jogurt, pln, odstredené mlieko, 13 gramov prot na 8 oz",
+    "alternative_names": [],
+    "description": "Jogurt, pln, odstredené mlieko, 13 gramov prot na 8 oz z databázy USDA."
+  },
+  "yogurt_vanilla_lofat_11_grams_prot_per_8_oz": {
+    "name": "Jogurt, vanilka, lofat, 11 gramov prot na 8 oz",
+    "alternative_names": [],
+    "description": "Jogurt, vanilka, lofat, 11 gramov prot na 8 oz z databázy USDA."
+  },
+  "yogurt_fruit_lofat_9_grams_prot_per_8_oz": {
+    "name": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz",
+    "alternative_names": [],
+    "description": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz z databázy USDA."
+  },
+  "yogurt_fruit_lofat_10_grams_prot_per_8_oz": {
+    "name": "Jogurt, ovocie, lofat, 10 gramov prot na 8 oz",
+    "alternative_names": [],
+    "description": "Jogurt, ovocie, lofat, 10 gramov prot na 8 oz z databázy USDA."
+  },
+  "egg_whl_raw_frsh": {
+    "name": "Vajcia, whl, surové, čerstvé",
+    "alternative_names": [],
+    "description": "Vajcia, whl, surové, čerstvé z databázy USDA."
+  },
+  "egg_yolk_raw_frsh": {
+    "name": "Vajcia, žĺtok, surové, čerstvé",
+    "alternative_names": [],
+    "description": "Vajcia, žĺtok, surové, čerstvé z databázy USDA."
+  },
+  "egg_yolk_raw_frz_past": {
+    "name": "Vajcia, žĺtok, surové, frz, minulé",
+    "alternative_names": [],
+    "description": "Vajcia, žĺtok, surové, frz, minulé z databázy USDA."
+  },
+  "egg_yolk_raw_frz_sugared_past": {
+    "name": "Vajcia, žĺtok, surové, frz, s cukrom, minulé",
+    "alternative_names": [],
+    "description": "Vajcia, žĺtok, surové, frz, s cukrom, minulé z databázy USDA."
+  },
+  "egg_whl_ckd_fried": {
+    "name": "Vajcia, whl, ckd, vyprážané",
+    "alternative_names": [],
+    "description": "Vajcia, whl, ckd, vyprážané z databázy USDA."
+  },
+  "egg_whl_ckd_hard_boiled": {
+    "name": "Vajcia, whl, ckd, uvarené natvrdo",
+    "alternative_names": [],
+    "description": "Vajcia, whl, ckd, uvarené natvrdo z databázy USDA."
+  },
+  "egg_whl_ckd_poached": {
+    "name": "Vajcia, whl, ckd, pošírované",
+    "alternative_names": [],
+    "description": "Vajcia, whl, ckd, pošírované z databázy USDA."
+  },
+  "egg_whl_ckd_scrmbld": {
+    "name": "Egg, whl, ckd, scrmbld",
+    "alternative_names": [],
+    "description": "Egg, whl, ckd, scrmbld z databázy USDA."
+  },
+  "egg_whole_dried": {
+    "name": "Vajcia, celé, sušené",
+    "alternative_names": [],
+    "description": "Vajcia, celé, sušené z databázy USDA."
+  },
+  "egg_yolk_dried": {
+    "name": "Vajcia, žĺtok, sušené",
+    "alternative_names": [],
+    "description": "Vajcia, žĺtok, sušené z databázy USDA."
+  },
+  "egg_duck_whole_fresh_raw": {
+    "name": "Vajcia, kačacie, celé, čerstvé, surové",
+    "alternative_names": [],
+    "description": "Vajcia, kačacie, celé, čerstvé, surové z databázy USDA."
+  },
+  "egg_goose_whole_fresh_raw": {
+    "name": "Vajcia, hus, celé, čerstvé, surové",
+    "alternative_names": [],
+    "description": "Vajcia, hus, celé, čerstvé, surové z databázy USDA."
+  },
+  "egg_quail_whole_fresh_raw": {
+    "name": "Vajcia, prepeličie, celé, čerstvé, surové",
+    "alternative_names": [],
+    "description": "Vajcia, prepeličie, celé, čerstvé, surové z databázy USDA."
+  },
+  "egg_substitute_powder": {
+    "name": "Náhradka vajec, prášok",
+    "alternative_names": [],
+    "description": "Náhradka vajec, prášok z databázy USDA."
+  },
+  "cheese_parmesan_shredded": {
+    "name": "Syr, parmezán, strúhaný",
+    "alternative_names": [],
+    "description": "Syr, parmezán, strúhaný z databázy USDA."
+  },
+  "milk_dry_nonfat_reg_w_added_vit_a_vitamin_d": {
+    "name": "Mlieko, suché, odtučnené, reg, s pridaným vitamínom A a vitamínom D",
+    "alternative_names": [],
+    "description": "Mlieko, suché, odtučnené, reg, s pridaným vitamínom A a vitamínom D z databázy USDA."
+  },
+  "cheese_goat_hard_type": {
+    "name": "Syr, kozí, tvrdý typ",
+    "alternative_names": [],
+    "description": "Syr, kozí, tvrdý typ z databázy USDA."
+  },
+  "cheese_goat_semisoft_type": {
+    "name": "Syr, kozí, polomäkký typ",
+    "alternative_names": [],
+    "description": "Syr, kozí, polomäkký typ z databázy USDA."
+  },
+  "cheese_goat_soft_type": {
+    "name": "Syr, kozí, mäkký typ",
+    "alternative_names": [],
+    "description": "Syr, kozí, mäkký typ z databázy USDA."
+  },
+  "egg_yolk_raw_frz_salted_past": {
+    "name": "Vajcia, žĺtok, surové, frz, solené, minulé",
+    "alternative_names": [],
+    "description": "Vajcia, žĺtok, surové, frz, solené, minulé z databázy USDA."
+  },
+  "cheese_sub_mozzarella": {
+    "name": "Syr sub, mozzarella",
+    "alternative_names": [],
+    "description": "Syr sub, mozzarella z databázy USDA."
+  },
+  "cheese_sau_prep_from_recipe": {
+    "name": "Syrové sau, príprava podľa receptu",
+    "alternative_names": [],
+    "description": "Syrové sau, príprava podľa receptu z databázy USDA."
+  },
+  "cheese_mexican_queso_anejo": {
+    "name": "Syr, mexický, queso anejo",
+    "alternative_names": [],
+    "description": "Syr, mexický, queso anejo z databázy USDA."
+  },
+  "cheese_mexican_queso_asadero": {
+    "name": "Syr, mexický, queso asadero",
+    "alternative_names": [],
+    "description": "Syr, mexický, queso asadero z databázy USDA."
+  },
+  "cheese_lofat_cheddar_or_colby": {
+    "name": "Syr, lofat, čedar alebo colby",
+    "alternative_names": [],
+    "description": "Syr, lofat, čedar alebo colby z databázy USDA."
+  },
+  "cheese_low_sodium_cheddar_or_colby": {
+    "name": "Syr, s nízkym obsahom sodíka, čedar alebo colby",
+    "alternative_names": [],
+    "description": "Syr, s nízkym obsahom sodíka, čedar alebo colby z databázy USDA."
+  },
+  "egg_whl_raw_frz_past": {
+    "name": "Vajcia, whl, surové, frz, minulé",
+    "alternative_names": [],
+    "description": "Vajcia, whl, surové, frz, minulé z databázy USDA."
+  },
+  "sour_cream_light": {
+    "name": "Kyslá smotana svetlá",
+    "alternative_names": [],
+    "description": "Kyslá smotana svetlá z databázy USDA."
+  },
+  "yogurt_fruit_lofat_wlo_cal_sweetener": {
+    "name": "Jogurt, ovocie, lofat, s lokálnym sladidlom",
+    "alternative_names": [],
+    "description": "Jogurt, ovocie, lofat, s lokálnym sladidlom z databázy USDA."
+  },
+  "cream_sub_flav_liq": {
+    "name": "Smotana sub, flav, liq",
+    "alternative_names": [],
+    "description": "Smotana sub, flav, liq z databázy USDA."
+  },
+  "cream_sub_flav_pdr": {
+    "name": "Krém sub, flav, pdr",
+    "alternative_names": [],
+    "description": "Krém sub, flav, pdr z databázy USDA."
+  },
+  "egg_mix_usda_cmdty": {
+    "name": "Vaječná zmes, usda cmdty",
+    "alternative_names": [],
+    "description": "Vaječná zmes, usda cmdty z databázy USDA."
+  },
+  "milk_whl_325_milkfat_wo_added_vit_a_vitamin_d": {
+    "name": "Mlieko, whl, 3,25 % mliečneho tuku, s prídavkom vitamínu A a vitamínu D",
+    "alternative_names": [],
+    "description": "Mlieko, whl, 3,25 % mliečneho tuku, s prídavkom vitamínu A a vitamínu D z databázy USDA."
+  },
+  "milk_dry_whl_wo_added_vitamin_d": {
+    "name": "Mlieko, sušené, s prídavkom vitamínu D",
+    "alternative_names": [],
+    "description": "Mlieko, sušené, s prídavkom vitamínu D z databázy USDA."
+  },
+  "milk_cnd_evap_wo_added_vit_a_vitamin_d": {
+    "name": "Mlieko, cnd, evap, wo/ pridaný vit a & vitamín d",
+    "alternative_names": [],
+    "description": "Mlieko, cnd, evap, wo/ pridaný vit a & vitamín d z databázy USDA."
+  },
+  "yogurt_fruit_lofat_9_grams_prot_per_8_oz_fort": {
+    "name": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz, fort s vitamínom d",
+    "alternative_names": [],
+    "description": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz, fort s vitamínom d z databázy USDA."
+  },
+  "yogurt_fruit_lofat_10_grams_prot_per_8_oz_for": {
+    "name": "Jogurt, ovocie, lofat, 10 gramov prot na 8 oz, fort s vitamínom d",
+    "alternative_names": [],
+    "description": "Jogurt, ovocie, lofat, 10 gramov prot na 8 oz, fort s vitamínom d z databázy USDA."
+  },
+  "yogurt_fruit_var_nonfat_fort_w_vitamin_d": {
+    "name": "Jogurt, ovocný var, odtučnený, fort s vitamínom d",
+    "alternative_names": [],
+    "description": "Jogurt, ovocný var, odtučnený, fort s vitamínom d z databázy USDA."
+  },
+  "yogurt_fruit_lowfat_w_lo_cal_swtnr_fort_w_vit": {
+    "name": "Jogurt, ovocie, nízkotučné, s miestnym swtnr, fort s vitamínom d",
+    "alternative_names": [],
+    "description": "Jogurt, ovocie, nízkotučné, s miestnym swtnr, fort s vitamínom d z databázy USDA."
+  },
+  "yogurt_vanilla_lofat_11_grams_prot_per_8_oz_f": {
+    "name": "Jogurt, vanilka, lofat, 11 gramov prot na 8 oz, fort s vit",
+    "alternative_names": [],
+    "description": "Jogurt, vanilka, lofat, 11 gramov prot na 8 oz, fort s vit z databázy USDA."
+  },
+  "protein_supp_milk_bsd_muscle_milk_pdr": {
+    "name": "Proteínová výživa, mlieko bsd, svalové mlieko, pdr",
+    "alternative_names": [],
+    "description": "Proteínová výživa, mlieko bsd, svalové mlieko, pdr z databázy USDA."
+  },
+  "protein_supp_milk_bsd_muscle_milk_lt_pdr": {
+    "name": "Protein supp, mlieko bsd, svalové mlieko lt, pdr",
+    "alternative_names": [],
+    "description": "Protein supp, mlieko bsd, svalové mlieko lt, pdr z databázy USDA."
+  },
+  "cheese_dry_white_queso_seco": {
+    "name": "Syr, suchý biely, queso seco",
+    "alternative_names": [],
+    "description": "Syr, suchý biely, queso seco z databázy USDA."
+  },
+  "cheese_frsh_queso_fresco": {
+    "name": "Syr, čerstvý, queso fresco",
+    "alternative_names": [],
+    "description": "Syr, čerstvý, queso fresco z databázy USDA."
+  },
+  "cheese_white_queso_blanco": {
+    "name": "Syr, biely, queso blanco",
+    "alternative_names": [],
+    "description": "Syr, biely, queso blanco z databázy USDA."
+  },
+  "milk_bttrmlk_fluid_whl": {
+    "name": "Mlieko, bttrmlk, tekutina, whl",
+    "alternative_names": [],
+    "description": "Mlieko, bttrmlk, tekutina, whl z databázy USDA."
+  },
+  "yogurt_vanilla_flavor_lowfat_milk_swtnd_w_lo": {
+    "name": "Jogurt, vanilková príchuť, nízkotučné mlieko, swtnd w/ cal cal swtnr",
+    "alternative_names": [],
+    "description": "Jogurt, vanilková príchuť, nízkotučné mlieko, swtnd w/ cal cal swtnr z databázy USDA."
+  },
+  "yogurt_frz_flavors_not_choc_nonfat_milk_w_low": {
+    "name": "Jogurt, frz, príchute nie čokoláda, odtučnené mlieko, s nízkokalorickým swtnr",
+    "alternative_names": [],
+    "description": "Jogurt, frz, príchute nie čokoláda, odtučnené mlieko, s nízkokalorickým swtnr z databázy USDA."
+  },
+  "milk_dssrt_bar_frz_made_from_lowfat_milk": {
+    "name": "Mliečna dssrt tyčinka, frz, vyrobená z nízkotučného mlieka",
+    "alternative_names": [],
+    "description": "Mliečna dssrt tyčinka, frz, vyrobená z nízkotučného mlieka z databázy USDA."
+  },
+  "cheese_mexican_blend": {
+    "name": "Syr, mexická zmes",
+    "alternative_names": [],
+    "description": "Syr, mexická zmes z databázy USDA."
+  },
+  "cheese_product_past_process_american_vitamin": {
+    "name": "Syrový výrobok, minulý proces, americký, pevnosť vitamínu D",
+    "alternative_names": [],
+    "description": "Syrový výrobok, minulý proces, americký, pevnosť vitamínu D z databázy USDA."
+  },
+  "cheese_past_process_american_wo_added_vitamin": {
+    "name": "Syr, minulý proces, americký, s pridaným vitamínom d",
+    "alternative_names": [],
+    "description": "Syr, minulý proces, americký, s pridaným vitamínom d z databázy USDA."
+  },
+  "cheese_fd_past_process_american_wo_added_vita": {
+    "name": "Syr fd, minulý proces, americký, wo/ pridaný vitamín d",
+    "alternative_names": [],
+    "description": "Syr fd, minulý proces, americký, wo/ pridaný vitamín d z databázy USDA."
+  },
+  "egg_whl_raw_frz_salted_past": {
+    "name": "Vajcia, whl, surové, frz, solené, minulé",
+    "alternative_names": [],
+    "description": "Vajcia, whl, surové, frz, solené, minulé z databázy USDA."
+  },
+  "yogurt_greek_pln_nonfat": {
+    "name": "Jogurt, grécky, pln, nemastný",
+    "alternative_names": [],
+    "description": "Jogurt, grécky, pln, nemastný z databázy USDA."
+  },
+  "kielbasa_kolbassy_pork_bf_nonfat_dry_milk": {
+    "name": "Kielbasa, kolbassy, ​​bravčové mäso, bf, odtučnené sušené mlieko",
+    "alternative_names": [],
+    "description": "Kielbasa, kolbassy, ​​bravčové mäso, bf, odtučnené sušené mlieko z databázy USDA."
+  },
+  "smoked_link_sausage_porkbf_flrnonfat_dry_milk": {
+    "name": "Údená klobása, bravčové mäso, nízkotučné sušené mlieko",
+    "alternative_names": [],
+    "description": "Údená klobása, bravčové mäso, nízkotučné sušené mlieko z databázy USDA."
+  },
+  "milk_crl_bar": {
+    "name": "Milk & crl bar",
+    "alternative_names": [],
+    "description": "Milk & crl bar z databázy USDA."
+  },
+  "chard_swiss_raw": {
+    "name": "Mangold, švajčiarsky, surový",
+    "alternative_names": [],
+    "description": "Mangold, švajčiarsky, surový z databázy USDA."
+  },
+  "chard_swiss_ckd_bld_drnd_wosalt": {
+    "name": "Mangold, swiss, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Mangold, swiss, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "potatoes_mshd_dehyd_flakes_womilk_dry_form": {
+    "name": "Zemiaky, mshd, dehyd, vločky s mliekom, suchá forma",
+    "alternative_names": [],
+    "description": "Zemiaky, mshd, dehyd, vločky s mliekom, suchá forma z databázy USDA."
+  },
+  "potatoes_mshd_dehyd_prep_from_flakes_wo_milk": {
+    "name": "Zemiaky, mshd, dehyd, príprava z vločiek s mliekom, mliekom a ale",
+    "alternative_names": [],
+    "description": "Zemiaky, mshd, dehyd, príprava z vločiek s mliekom, mliekom a ale z databázy USDA."
+  },
+  "potatoes_mshd_dehyd_granules_womilk_dry_form": {
+    "name": "Zemiaky, mshd, dehyd, granule s mliekom, suchá forma",
+    "alternative_names": [],
+    "description": "Zemiaky, mshd, dehyd, granule s mliekom, suchá forma z databázy USDA."
+  },
+  "potatoes_mshd_dehyd_granules_wmilk_dry_form": {
+    "name": "Zemiaky, mshd, dehyd, granule s mliekom, suchá forma",
+    "alternative_names": [],
+    "description": "Zemiaky, mshd, dehyd, granule s mliekom, suchá forma z databázy USDA."
+  },
+  "potatoes_mshd_dehyd_prep_from_gran_w_milk_h2o": {
+    "name": "Zemiaky, mshd, dehyd, príprava z gran s mliekom, vodou a margom",
+    "alternative_names": [],
+    "description": "Zemiaky, mshd, dehyd, príprava z gran s mliekom, vodou a margom z databázy USDA."
+  },
+  "potatoes_mshd_home_prepared_whl_milk_added": {
+    "name": "Zemiaky, mshd, doma pripravené, s prídavkom mlieka",
+    "alternative_names": [],
+    "description": "Zemiaky, mshd, doma pripravené, s prídavkom mlieka z databázy USDA."
+  },
+  "chard_swiss_ckd_bld_drnd_wsalt": {
+    "name": "Mangold, swiss, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Mangold, swiss, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "coconut_milk_raw": {
+    "name": "Kokosové mlieko, surové (tekutina získaná z strúhaného mäsa a vody)",
+    "alternative_names": [],
+    "description": "Kokosové mlieko, surové (tekutina získaná z strúhaného mäsa a vody) z databázy USDA."
+  },
+  "eggnog_flavor_mix_pdr_prep_w_whl_milk": {
+    "name": "Zmes vaječného likéru, pdr, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Zmes vaječného likéru, pdr, príprava s mliekom z databázy USDA."
+  },
+  "malted_drk_mix_nat_w_added_nutr_pdr_prep_w_wh": {
+    "name": "Sladový nápoj mix, nat, s prídavkom nutr, pdr, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Sladový nápoj mix, nat, s prídavkom nutr, pdr, príprava s mliekom z databázy USDA."
+  },
+  "malted_drk_mix_nat_pdr_prep_w_whl_milk": {
+    "name": "Sladový nápoj mix, nat, pdr, príprava s w/ whl mlieko",
+    "alternative_names": [],
+    "description": "Sladový nápoj mix, nat, pdr, príprava s w/ whl mlieko z databázy USDA."
+  },
+  "malted_drk_mix_choc_w_added_nutr_pdr_prep_w_w": {
+    "name": "Sladový nápoj mix, čokoláda, s prídavkom nutr, pdr, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Sladový nápoj mix, čokoláda, s prídavkom nutr, pdr, príprava s mliekom z databázy USDA."
+  },
+  "malted_drk_mix_choc_pdr_prep_w_whl_milk": {
+    "name": "Sladový nápoj mix, čokoláda, pdr, príprava s w/ whl mlieko",
+    "alternative_names": [],
+    "description": "Sladový nápoj mix, čokoláda, pdr, príprava s w/ whl mlieko z databázy USDA."
+  },
+  "crackers_milk": {
+    "name": "Krekry, mlieko",
+    "alternative_names": [],
+    "description": "Krekry, mlieko z databázy USDA."
+  },
+  "cream_puffs_prep_from_recipe_shell": {
+    "name": "Smotanové bábovky, príprava podľa receptu, škrupina (vrátane eclair)",
+    "alternative_names": [],
+    "description": "Smotanové bábovky, príprava podľa receptu, škrupina (vrátane eclair) z databázy USDA."
+  },
+  "cream_puffs_prep_from_recipe_shell_wcustard_f": {
+    "name": "Smotanové bábovky, príprava podľa receptu, škrupina, s pudingovou náplňou",
+    "alternative_names": [],
+    "description": "Smotanové bábovky, príprava podľa receptu, škrupina, s pudingovou náplňou z databázy USDA."
+  },
+  "rolls_dinner_egg": {
+    "name": "Rolky, večera, vajíčko",
+    "alternative_names": [],
+    "description": "Rolky, večera, vajíčko z databázy USDA."
+  },
+  "cream_puff_eclair_custard_or_crm_filled_iced": {
+    "name": "Smotanová bábovka, eclair, puding alebo crem plnené, ľadové",
+    "alternative_names": [],
+    "description": "Smotanová bábovka, eclair, puding alebo crem plnené, ľadové z databázy USDA."
+  },
+  "desserts_egg_custard_bkd_prepared_from_recipe": {
+    "name": "Dezerty, vaječný puding, bkd, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Dezerty, vaječný puding, bkd, pripravené podľa receptu z databázy USDA."
+  },
+  "egg_custards_dry_mix_prep_w_whl_milk": {
+    "name": "Vaječné pudingy, suchá zmes, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Vaječné pudingy, suchá zmes, príprava s mliekom z databázy USDA."
+  },
+  "puddings_choc_dry_mix_inst_prep_w_whole_milk": {
+    "name": "Pudingy, čokoláda, suchá zmes, inšt., príprava s plnotučným mliekom",
+    "alternative_names": [],
+    "description": "Pudingy, čokoláda, suchá zmes, inšt., príprava s plnotučným mliekom z databázy USDA."
+  },
+  "puddings_choc_dry_mix_reg_prep_w_2_milk": {
+    "name": "Pudingy, čokoláda, suchá zmes, reg, príprava s 2 % mlieka",
+    "alternative_names": [],
+    "description": "Pudingy, čokoláda, suchá zmes, reg, príprava s 2 % mlieka z databázy USDA."
+  },
+  "egg_custards_dry_mix_prep_w_2_milk": {
+    "name": "Vaječné pudingy, suchá zmes, príprava s 2 % mlieka",
+    "alternative_names": [],
+    "description": "Vaječné pudingy, suchá zmes, príprava s 2 % mlieka z databázy USDA."
+  },
+  "puddings_vanilla_dry_mix_reg_prep_w_whl_milk": {
+    "name": "Pudingy, vanilka, suchá zmes, reg, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Pudingy, vanilka, suchá zmes, reg, príprava s mliekom z databázy USDA."
+  },
+  "puddings_banana_dry_mix_inst_prep_w_whl_milk": {
+    "name": "Pudingy, banán, suchá zmes, inšt., príprava s mliekom",
+    "alternative_names": [],
+    "description": "Pudingy, banán, suchá zmes, inšt., príprava s mliekom z databázy USDA."
+  },
+  "puddings_banana_dry_mix_reg_prep_w_whl_milk": {
+    "name": "Pudingy, banán, suchá zmes, reg, príprava s w/whl mliekom",
+    "alternative_names": [],
+    "description": "Pudingy, banán, suchá zmes, reg, príprava s w/whl mliekom z databázy USDA."
+  },
+  "fast_foods_biscuit_weggbacon": {
+    "name": "Rýchle občerstvenie, sušienky, s vajcom a slaninou",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, sušienky, s vajcom a slaninou z databázy USDA."
+  },
+  "fast_foods_biscuit_weggham": {
+    "name": "Rýchle občerstvenie, sušienky, s vajcom a šunkou",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, sušienky, s vajcom a šunkou z databázy USDA."
+  },
+  "breakfast_items_biscuit_weggsausage": {
+    "name": "Raňajkové položky, sušienky s vajcom a klobásou",
+    "alternative_names": [],
+    "description": "Raňajkové položky, sušienky s vajcom a klobásou z databázy USDA."
+  },
+  "fast_foods_biscuit_wegg_chs_bacon": {
+    "name": "Rýchle občerstvenie, sušienky, s vajcom, chs a slaninou",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, sušienky, s vajcom, chs a slaninou z databázy USDA."
+  },
+  "fast_foods_egg_scrambled": {
+    "name": "Rýchle občerstvenie, vajcia, miešané",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, vajcia, miešané z databázy USDA."
+  },
+  "fast_foods_griddle_cake_sndwch_egg_chs_sausag": {
+    "name": "Rýchle občerstvenie, tortový sndwch, vajcia, chs a klobása",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, tortový sndwch, vajcia, chs a klobása z databázy USDA."
+  },
+  "fast_foods_griddle_cake_sndwch_egg_chs_bacon": {
+    "name": "Rýchle občerstvenie, tortový sndwch, vajcia, chs a slanina",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, tortový sndwch, vajcia, chs a slanina z databázy USDA."
+  },
+  "burger_king_croissanwich_w_sausage_egg_chs": {
+    "name": "Burger king, croissan'wich s klobásou, vajcom a chs",
+    "alternative_names": [],
+    "description": "Burger king, croissan'wich s klobásou, vajcom a chs z databázy USDA."
+  },
+  "burger_king_croissanwich_w_egg_chs": {
+    "name": "Burger king, croissan'wich s vajcom a chs",
+    "alternative_names": [],
+    "description": "Burger king, croissan'wich s vajcom a chs z databázy USDA."
+  },
+  "yogurt_parfait_lowfat_w_fruit_granola": {
+    "name": "Jogurtový parfait, nízkotučný, s ovocím a granolou",
+    "alternative_names": [],
+    "description": "Jogurtový parfait, nízkotučný, s ovocím a granolou z databázy USDA."
+  },
+  "salad_grape_appl_w_yogurt_candied_walnuts": {
+    "name": "Šalát, hrozno a jablko s jogurtom a kandizovanými vlašskými orechmi",
+    "alternative_names": [],
+    "description": "Šalát, hrozno a jablko s jogurtom a kandizovanými vlašskými orechmi z databázy USDA."
+  },
+  "ravioli_cheese_filled_cnd": {
+    "name": "Ravioli, plnené syrom, cnd",
+    "alternative_names": [],
+    "description": "Ravioli, plnené syrom, cnd z databázy USDA."
+  },
+  "burrito_bean_and_cheese_frozen": {
+    "name": "Burrito, fazuľa a syr, mrazené",
+    "alternative_names": [],
+    "description": "Burrito, fazuľa a syr, mrazené z databázy USDA."
+  },
+  "egg_rolls_pork_refr_htd": {
+    "name": "Vaječné rolky, bravčové, refr, htd",
+    "alternative_names": [],
+    "description": "Vaječné rolky, bravčové, refr, htd z databázy USDA."
+  },
+  "egg_rolls_chick_refr_htd": {
+    "name": "Vaječné rolky, kuriatka, refr, htd",
+    "alternative_names": [],
+    "description": "Vaječné rolky, kuriatka, refr, htd z databázy USDA."
+  },
+  "egg_rolls_veg_refr_htd": {
+    "name": "Vaječné rolky, zelenina, refr, htd",
+    "alternative_names": [],
+    "description": "Vaječné rolky, zelenina, refr, htd z databázy USDA."
+  },
+  "hot_pockets_meatballs_mozzarella_stuffed_sndw": {
+    "name": "Hot pockets, fašírky a mozzarellou plnené sndwch, frz",
+    "alternative_names": [],
+    "description": "Hot pockets, fašírky a mozzarellou plnené sndwch, frz z databázy USDA."
+  },
+  "lean_pockets_ham_n_cheddar": {
+    "name": "Chudé vrecká, šunka n čedar",
+    "alternative_names": [],
+    "description": "Chudé vrecká, šunka n čedar z databázy USDA."
+  },
+  "lean_pockets_meatballs_mozzarella": {
+    "name": "Chudé vrecká, mäsové guľky a mozzarella",
+    "alternative_names": [],
+    "description": "Chudé vrecká, mäsové guľky a mozzarella z databázy USDA."
+  },
+  "potato_salad_w_egg": {
+    "name": "Zemiakový šalát s vajcom",
+    "alternative_names": [],
+    "description": "Zemiakový šalát s vajcom z databázy USDA."
+  },
+  "fish_whitefish_eggs": {
+    "name": "Ryby, síha, vajcia (domáce na Aljaške)",
+    "alternative_names": [],
+    "description": "Ryby, síha, vajcia (domáce na Aljaške) z databázy USDA."
+  },
+  "applebees_mozzarella_stks": {
+    "name": "Applebee's, mozzarella stks",
+    "alternative_names": [],
+    "description": "Applebee's, mozzarella stks z databázy USDA."
+  },
+  "tgi_fridays_fried_mozzarella": {
+    "name": "T.g.i. piatková, vyprážaná mozzarella",
+    "alternative_names": [],
+    "description": "T.g.i. piatková, vyprážaná mozzarella z databázy USDA."
+  },
+  "restaurant_family_style_fried_mozzarella_stks": {
+    "name": "Reštaurácia, rodinný štýl, vyprážaná mozzarella stks",
+    "alternative_names": [],
+    "description": "Reštaurácia, rodinný štýl, vyprážaná mozzarella stks z databázy USDA."
+  },
+  "restaurant_latino_pupusas_con_queso": {
+    "name": "Reštaurácia, latino, pupusas con queso (pupusas, syr)",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, pupusas con queso (pupusas, syr) z databázy USDA."
+  },
+  "restaurant_chinese_egg_rolls_assorted": {
+    "name": "Reštaurácia, čínska, vaječné rolky, rôzne",
+    "alternative_names": [],
+    "description": "Reštaurácia, čínska, vaječné rolky, rôzne z databázy USDA."
+  },
+  "dennys_mozzarella_chs_stks": {
+    "name": "Denny's, mozzarella chs stks",
+    "alternative_names": [],
+    "description": "Denny's, mozzarella chs stks z databázy USDA."
+  },
+  "imitation_chs_american_or_cheddar_lo_chol": {
+    "name": "Imitácia chs, americký alebo čedar, lo chol",
+    "alternative_names": [],
+    "description": "Imitácia chs, americký alebo čedar, lo chol z databázy USDA."
+  },
+  "cream_sub_pdr_lt": {
+    "name": "Krém sub, pdr, lt",
+    "alternative_names": [],
+    "description": "Krém sub, pdr, lt z databázy USDA."
+  },
+  "cream_sub_liq_lt": {
+    "name": "Krém sub, liq, lt",
+    "alternative_names": [],
+    "description": "Krém sub, liq, lt z databázy USDA."
+  },
+  "cheese_cottage_lowfat_1_milkfat_lactose_red": {
+    "name": "Syr, cottage, nízkotučný, 1% mliečny tuk, červená laktóza",
+    "alternative_names": [],
+    "description": "Syr, cottage, nízkotučný, 1% mliečny tuk, červená laktóza z databázy USDA."
+  },
+  "cheese_cottage_wveg": {
+    "name": "Syr, cottage, so zeleninou",
+    "alternative_names": [],
+    "description": "Syr, cottage, so zeleninou z databázy USDA."
+  },
+  "cheese_past_process_american_lofat": {
+    "name": "Syr, minulý proces, americký, lofat",
+    "alternative_names": [],
+    "description": "Syr, minulý proces, americký, lofat z databázy USDA."
+  },
+  "cheese_sprd_crm_chs_base": {
+    "name": "Syr sprd, crm chs základ",
+    "alternative_names": [],
+    "description": "Syr sprd, crm chs základ z databázy USDA."
+  },
+  "cheese_american_cheddar_imitn": {
+    "name": "Syr, americký čedar, imitn",
+    "alternative_names": [],
+    "description": "Syr, americký čedar, imitn z databázy USDA."
+  },
+  "eggs_scrmbld_frz_mixture": {
+    "name": "Vajcia, scrmbld, frz zmes",
+    "alternative_names": [],
+    "description": "Vajcia, scrmbld, frz zmes z databázy USDA."
+  },
+  "soybean_curd_cheese": {
+    "name": "Sója, tvaroh",
+    "alternative_names": [],
+    "description": "Sója, tvaroh z databázy USDA."
+  },
+  "cheese_parmesan_lo_na": {
+    "name": "Syr, parmezán, lo na",
+    "alternative_names": [],
+    "description": "Syr, parmezán, lo na z databázy USDA."
+  },
+  "cheese_cottage_lowfat_1_milkfat_no_na": {
+    "name": "Syr, tvaroh, nízkotučný, 1 % mliečneho tuku, bez",
+    "alternative_names": [],
+    "description": "Syr, tvaroh, nízkotučný, 1 % mliečneho tuku, bez z databázy USDA."
+  },
+  "cheese_past_process_swiss_lofat": {
+    "name": "Syr, minulý proces, švajčiarsky, lofat",
+    "alternative_names": [],
+    "description": "Syr, minulý proces, švajčiarsky, lofat z databázy USDA."
+  },
+  "cheese_cottage_lowfat_1_milkfat_wveg": {
+    "name": "Syr, cottage, nízkotučný, 1% mliečny tuk, so zeleninou",
+    "alternative_names": [],
+    "description": "Syr, cottage, nízkotučný, 1% mliečny tuk, so zeleninou z databázy USDA."
+  },
+  "cheese_past_process_cheddar_or_american_lo_na": {
+    "name": "Syr, minulý proces, čedar alebo americký, lo na",
+    "alternative_names": [],
+    "description": "Syr, minulý proces, čedar alebo americký, lo na z databázy USDA."
+  },
+  "cheese_swiss_low_sodium": {
+    "name": "Syr, švajčiarsky, s nízkym obsahom sodíka",
+    "alternative_names": [],
+    "description": "Syr, švajčiarsky, s nízkym obsahom sodíka z databázy USDA."
+  },
+  "tofu_yogurt": {
+    "name": "Tofu jogurt",
+    "alternative_names": [],
+    "description": "Tofu jogurt z databázy USDA."
+  },
+  "cheese_mozzarella_lo_na": {
+    "name": "Syr, mozzarella, lo na",
+    "alternative_names": [],
+    "description": "Syr, mozzarella, lo na z databázy USDA."
+  },
+  "cheese_food_imitation": {
+    "name": "Syrové jedlo, imitácia",
+    "alternative_names": [],
+    "description": "Syrové jedlo, imitácia z databázy USDA."
+  }
+}

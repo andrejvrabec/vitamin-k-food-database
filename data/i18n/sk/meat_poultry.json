@@ -1,0 +1,1403 @@
+{
+  "bacon_and_beef_sticks": {
+    "name": "Slanina a hovädzie tyčinky",
+    "alternative_names": [],
+    "description": "Slanina a hovädzie tyčinky podľa databázy USDA."
+  },
+  "beef_liver_cooked": {
+    "name": "Hovädzia pečeň, tepelne upravená",
+    "alternative_names": [
+      "pečená hovädzia pečeň",
+      "dusená hovädzia pečeň"
+    ],
+    "description": "Tepelne upravená hovädzia pečeň, mimoriadne bohatá na iné živiny, s malým podielom vitamínu K2."
+  },
+  "beerwurst_beer_salami_pork_and_beef": {
+    "name": "Beerwurst, pivná saláma, bravčové a hovädzie mäso",
+    "alternative_names": [],
+    "description": "Beerwurst, pivná saláma, bravčové a hovädzie mäso podľa databázy USDA."
+  },
+  "beerwurst_pork_and_beef": {
+    "name": "Beerwurst, bravčové a hovädzie mäso",
+    "alternative_names": [],
+    "description": "Beerwurst, bravčové a hovädzie mäso podľa databázy USDA."
+  },
+  "bologna_meat_and_poultry": {
+    "name": "Bologna, mäso a hydina",
+    "alternative_names": [],
+    "description": "Bologna, mäso a hydina podľa databázy USDA."
+  },
+  "braunschweiger_pork": {
+    "name": "Braunschweiger (pečeňová klobása), bravčové mäso",
+    "alternative_names": [],
+    "description": "Braunschweiger (pečeňová klobása), bravčové mäso podľa databázy USDA."
+  },
+  "chicken_breast_cooked": {
+    "name": "Kuracie prsia, tepelne upravené",
+    "alternative_names": [
+      "pečené kuracie prsia",
+      "varené kuracie prsia"
+    ],
+    "description": "Pečené kuracie prsné rezne bez kože, obsahujúce malé/stredné množstvo vitamínu K2."
+  },
+  "chicken_broilers_or_fryers_back_meat_and": {
+    "name": "Kuracie mäso, brojlery alebo fritézy, chrbát, mäso a koža, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, brojlery alebo fritézy, chrbát, mäso a koža, surové podľa databázy USDA."
+  },
+  "chicken_broilers_or_fryers_back_meat_onl": {
+    "name": "Kuracie mäso, brojlery alebo fritézy, chrbát, iba mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, brojlery alebo fritézy, chrbát, iba mäso, surové podľa databázy USDA."
+  },
+  "chicken_broilers_or_fryers_drumstick_mea": {
+    "name": "Kuracie mäso, brojlery alebo fritézy, stehno, mäso a koža, varené, dusené",
+    "alternative_names": [],
+    "description": "Kuracie mäso, brojlery alebo fritézy, stehno, mäso a koža, varené, dusené podľa databázy USDA."
+  },
+  "chicken_broilers_or_fryers_leg_meat_and": {
+    "name": "Kurčatá, brojlery alebo fritézy, stehno, mäso a koža, varené,",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, stehno, mäso a koža, varené, podľa databázy USDA."
+  },
+  "chicken_broilers_or_fryers_light_meat_me": {
+    "name": "Kuracie mäso, brojlery alebo fritézy, ľahké mäso, iba mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, brojlery alebo fritézy, ľahké mäso, iba mäso, surové podľa databázy USDA."
+  },
+  "chicken_broilers_or_fryers_meat_and_skin": {
+    "name": "Kurčatá, brojlery alebo fritézy, mäso a koža, varené, vyprážané,",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, mäso a koža, varené, vyprážané, podľa databázy USDA."
+  },
+  "chicken_skin_raw": {
+    "name": "Kuracie mäso, koža (paličky a stehná), surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, koža (paličky a stehná), surové podľa databázy USDA."
+  },
+  "chicken_stewing_meat_and_skin_and_giblet": {
+    "name": "Kuracie mäso, dusené mäso a koža a droby a krkovička, varené, dusené",
+    "alternative_names": [],
+    "description": "Kuracie mäso, dusené mäso a koža a droby a krkovička, varené, dusené podľa databázy USDA."
+  },
+  "fish_cod_atlantic_canned_solids_and_liqu": {
+    "name": "Ryby, treska, Atlantik, konzervy, pevné a tekuté",
+    "alternative_names": [],
+    "description": "Ryby, treska, Atlantik, konzervy, pevné a tekuté podľa databázy USDA."
+  },
+  "fish_flatfish_cooked_dry_heat": {
+    "name": "Ryby, platesy (druhy platesy a soley), varené, suché teplo",
+    "alternative_names": [],
+    "description": "Ryby, platesy (druhy platesy a soley), varené, suché teplo podľa databázy USDA."
+  },
+  "fish_haddock_raw": {
+    "name": "Ryby, treska jednoškvrnná, surová",
+    "alternative_names": [],
+    "description": "Ryby, treska jednoškvrnná, surová podľa databázy USDA."
+  },
+  "fish_herring_atlantic_pickled": {
+    "name": "Ryby, sleď, Atlantik, nakladané",
+    "alternative_names": [],
+    "description": "Ryby, sleď, Atlantik, nakladané podľa databázy USDA."
+  },
+  "fish_mackerel_spanish_raw": {
+    "name": "Ryby, makrely, španielske, surové",
+    "alternative_names": [],
+    "description": "Ryby, makrely, španielske, surové podľa databázy USDA."
+  },
+  "fish_ocean_perch_atlantic_cooked_dry_hea": {
+    "name": "Ryby, morský ostriež, Atlantik, varené, suché teplo",
+    "alternative_names": [],
+    "description": "Ryby, morský ostriež, Atlantik, varené, suché teplo podľa databázy USDA."
+  },
+  "fish_salmon_pink_canned_drained_solids": {
+    "name": "Ryby, losos, ružové, konzervované, odkvapkané pevné látky",
+    "alternative_names": [],
+    "description": "Ryby, losos, ružové, konzervované, odkvapkané pevné látky podľa databázy USDA."
+  },
+  "fish_swordfish_cooked_dry_heat": {
+    "name": "Ryby, mečiar, varené, suché teplo",
+    "alternative_names": [],
+    "description": "Ryby, mečiar, varené, suché teplo podľa databázy USDA."
+  },
+  "fish_tilapia_raw": {
+    "name": "Ryby, tilapia, surové",
+    "alternative_names": [],
+    "description": "Ryby, tilapia, surové podľa databázy USDA."
+  },
+  "fish_trout_rainbow_farmed_cooked_dry_hea": {
+    "name": "Ryby, pstruhy, dúhy, chované, varené, suché teplo",
+    "alternative_names": [],
+    "description": "Ryby, pstruhy, dúhy, chované, varené, suché teplo podľa databázy USDA."
+  },
+  "mollusks_mussel_blue_raw": {
+    "name": "Mäkkýše, mušle, modré, surové",
+    "alternative_names": [],
+    "description": "Mäkkýše, mušle, modré, surové podľa databázy USDA."
+  },
+  "mollusks_octopus_common_raw": {
+    "name": "Mäkkýše, chobotnice, obyčajné, surové",
+    "alternative_names": [],
+    "description": "Mäkkýše, chobotnice, obyčajné, surové podľa databázy USDA."
+  },
+  "mollusks_oyster_eastern_wild_cooked_dry": {
+    "name": "Mäkkýše, ustrice, východné, divoké, varené, suché teplo",
+    "alternative_names": [],
+    "description": "Mäkkýše, ustrice, východné, divoké, varené, suché teplo podľa databázy USDA."
+  },
+  "mollusks_oyster_eastern_wild_cooked_mois": {
+    "name": "Mäkkýše, ustrice, východné, divoké, varené, vlhké teplo",
+    "alternative_names": [],
+    "description": "Mäkkýše, ustrice, východné, divoké, varené, vlhké teplo podľa databázy USDA."
+  },
+  "sausage_pork_and_turkey_pre_cooked": {
+    "name": "Klobása, bravčové a morčacie mäso, predvarené",
+    "alternative_names": [],
+    "description": "Klobása, bravčové a morčacie mäso, predvarené podľa databázy USDA."
+  },
+  "sausage_turkey_hot_smoked": {
+    "name": "Klobása, morka, pálivá, údená",
+    "alternative_names": [],
+    "description": "Klobása, morka, pálivá, údená podľa databázy USDA."
+  },
+  "turkey_all_classes_back_meat_and_skin_co": {
+    "name": "Morka, všetky triedy, chrbát, mäso a koža, varené, pečené",
+    "alternative_names": [],
+    "description": "Morka, všetky triedy, chrbát, mäso a koža, varené, pečené podľa databázy USDA."
+  },
+  "chicken_broilers_or_fryers_meatskngibletsneck": {
+    "name": "Kurčatá, brojlery alebo fritézy, mäso, mäso a droby, krkovička",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, mäso, mäso a droby, krkovička z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_meat_skn_raw": {
+    "name": "Kurčatá, brojlery alebo fritézy, mäso a skn, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, mäso a skn, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_meatskn_ckd_fried": {
+    "name": "Kurčatá, brojlery alebo fritézy, mäso&skn, ckd, vyprážané, v cestíčku",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, mäso&skn, ckd, vyprážané, v cestíčku z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_meatskn_ckd_rstd": {
+    "name": "Kurčatá, brojlery alebo fritézy, mäso&skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, mäso&skn, ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_meatskn_ckd_stwd": {
+    "name": "Kurčatá, brojlery alebo fritézy, mäso&skn, ckd, stwd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, mäso&skn, ckd, stwd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_meat_only_raw": {
+    "name": "Kurčatá, brojlery alebo fritézy, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, len mäso, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_meat_only_ckd_frie": {
+    "name": "Kurčatá, brojlery alebo fritézy, len mäso, ckd, vyprážané",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, len mäso, ckd, vyprážané z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_meat_only_rstd": {
+    "name": "Kurčatá, brojlery alebo fritézy, len mäso, prvé",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, len mäso, prvé z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_meat_only_stwd": {
+    "name": "Kurčatá, brojlery alebo fritézy, len mäso, dusené",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, len mäso, dusené z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_skn_only_raw": {
+    "name": "Kurčatá, brojlery alebo fritézy, len skn, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, len skn, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_skn_only_ckd_rstd": {
+    "name": "Kurčatá, brojlery alebo fritézy, len skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, len skn, ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_lt_meat_meat_skn_r": {
+    "name": "Kurčatá, brojlery alebo fritézy, mäso, mäso a skn, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, mäso, mäso a skn, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_lt_meat_meatskn_ck": {
+    "name": "Kurčatá, brojlery alebo fritézy, mäso, mäso&skn, ckd, vyprážané, flr",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, mäso, mäso&skn, ckd, vyprážané, flr z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_dk_meat_meat_skn_r": {
+    "name": "Kurčatá, brojlery alebo fritézy, dk mäso, mäso & skn, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, dk mäso, mäso & skn, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_dk_meat_meatskn_ck": {
+    "name": "Kurčatá, brojlery alebo fritézy, dk mäso, mäso&skn, ckd, vyprážané, flr",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, dk mäso, mäso&skn, ckd, vyprážané, flr z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_lt_meat_meat_only": {
+    "name": "Kurčatá, brojlery alebo fritézy, mäso, iba mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, mäso, iba mäso, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_dk_meat_meat_only": {
+    "name": "Kurčatá, brojlery alebo fritézy, dk mäso, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, dk mäso, len mäso, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_back_meatskn_raw": {
+    "name": "Kurčatá, brojlery alebo fritézy, chrbát, mäso&skn, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, chrbát, mäso&skn, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_back_meatskn_ckd_r": {
+    "name": "Kurčatá, brojlery alebo fritézy, chrbát, mäso&skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, chrbát, mäso&skn, ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_back_meatskn_ckd_s": {
+    "name": "Kurčatá, brojlery alebo fritézy, chrbát, mäso&skn, ckd, stwd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, chrbát, mäso&skn, ckd, stwd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_back_meat_only_raw": {
+    "name": "Kurčatá, brojlery alebo fritézy, chrbát, iba mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, chrbát, iba mäso, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_back_meat_only_ckd": {
+    "name": "Kurčatá, brojlery alebo fritézy, chrbát, len mäso, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, chrbát, len mäso, ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_breast_meatskn_ckd": {
+    "name": "Kurčatá, brojlery alebo fritézy, prsia, mäso&skn, ckd, vyprážané, v cestíčku",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, prsia, mäso&skn, ckd, vyprážané, v cestíčku z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_breast_meat_only_r": {
+    "name": "Kurčatá, brojlery alebo fritézy, prsia, iba mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, prsia, iba mäso, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_breast_meat_only_c": {
+    "name": "Kurčatá, brojlery alebo fritézy, prsia, len mäso, ckd, vyprážané",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, prsia, len mäso, ckd, vyprážané z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_drumstk_meatskn_ra": {
+    "name": "Kurčatá, brojlery alebo fritézy, bubny, mäso&skn, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, bubny, mäso&skn, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_drumstk_meatskn_ck": {
+    "name": "Kurčatá, brojlery alebo fritézy, bubny, mäso&skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, bubny, mäso&skn, ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_dk_meat_drumstk_me": {
+    "name": "Kurčatá, brojlery alebo fritézy, dk mäso, bubon, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, dk mäso, bubon, len mäso, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_drumstk_meat_only": {
+    "name": "Kurčatá, brojlery alebo fritézy, bubon, len mäso, ckd, stwd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, bubon, len mäso, ckd, stwd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_leg_meatskn_raw": {
+    "name": "Kurčatá, brojlery alebo fritézy, stehno, mäso a mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, stehno, mäso a mäso, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_leg_meatskn_ckd_rs": {
+    "name": "Kurčatá, brojlery alebo fritézy, stehno, mäso&skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, stehno, mäso&skn, ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_leg_meatskn_ckd_st": {
+    "name": "Kurčatá, brojlery alebo fritézy, stehno, mäso&skn, ckd, stwd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, stehno, mäso&skn, ckd, stwd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_leg_meat_only_raw": {
+    "name": "Kurčatá, brojlery alebo fritézy, stehno, iba mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, stehno, iba mäso, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_leg_meat_only_ckd": {
+    "name": "Kurčatá, brojlery alebo fritézy, stehno, len mäso, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, stehno, len mäso, ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_neck_meatskn_ckd_s": {
+    "name": "Kurčatá, brojlery alebo fritézy, krkovička, mäso&skn, ckd simmrd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, krkovička, mäso&skn, ckd simmrd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_thigh_meatskn_raw": {
+    "name": "Kurčatá, brojlery alebo fritézy, stehná, mäso a mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, stehná, mäso a mäso, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_thigh_meatskn_ckd": {
+    "name": "Kurčatá, brojlery alebo fritézy, stehná, mäso&skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, stehná, mäso&skn, ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_dk_meat_thigh_meat": {
+    "name": "Kurčatá, brojlery alebo fritézy, dk mäso, stehná, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, dk mäso, stehná, len mäso, surové z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_thigh_meat_only_ck": {
+    "name": "Kurčatá, brojlery alebo fritézy, stehná, len mäso, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, stehná, len mäso, ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_wing_meatskn_ckd_r": {
+    "name": "Kurčatá, brojlery alebo fritézy, krídlo, mäso&skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, krídlo, mäso&skn, ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_wing_meatskn_ckd_s": {
+    "name": "Kurčatá, brojlery alebo fritézy, krídlo, mäso&skn, ckd, stwd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, krídlo, mäso&skn, ckd, stwd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_wing_meat_only_ckd": {
+    "name": "Kurčatá, brojlery alebo fritézy, krídlo, len mäso, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, krídlo, len mäso, ckd, rstd z databázy USDA."
+  },
+  "chicken_roasting_meat_only_raw": {
+    "name": "Kuracie mäso, pečenie, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, pečenie, len mäso, surové z databázy USDA."
+  },
+  "chicken_roasting_lt_meat_meat_only_raw": {
+    "name": "Kuracie mäso, pečenie, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, pečenie, len mäso, surové z databázy USDA."
+  },
+  "chicken_roasting_lt_meat_meat_only_ckd_rstd": {
+    "name": "Kuracie, pecenie, lt maso, len maso, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kuracie, pecenie, lt maso, len maso, ckd, rstd z databázy USDA."
+  },
+  "chicken_roasting_dk_meat_meat_only_raw": {
+    "name": "Kuracie mäso, pečenie, dk mäso, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, pečenie, dk mäso, len mäso, surové z databázy USDA."
+  },
+  "chicken_stewing_meat_skn_giblets_neck_ckd_stw": {
+    "name": "Kuracie mäso, dusené mäso, mäso a droby a krkovička, mleté ​​mäso",
+    "alternative_names": [],
+    "description": "Kuracie mäso, dusené mäso, mäso a droby a krkovička, mleté ​​mäso z databázy USDA."
+  },
+  "chicken_stewing_meatskn_raw": {
+    "name": "Kuracie mäso, dusené mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, dusené mäso, surové z databázy USDA."
+  },
+  "chicken_stewing_meat_only_raw": {
+    "name": "Kuracie mäso, dusené, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, dusené, len mäso, surové z databázy USDA."
+  },
+  "chicken_stewing_meat_only_ckd_stwd": {
+    "name": "Kuracie, dusené, len mäso, ckd, stwd",
+    "alternative_names": [],
+    "description": "Kuracie, dusené, len mäso, ckd, stwd z databázy USDA."
+  },
+  "chicken_stewing_lt_meat_meat_only_raw": {
+    "name": "Kuracie mäso, dusené mäso, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, dusené mäso, len mäso, surové z databázy USDA."
+  },
+  "chicken_stewing_dk_meat_meat_only_raw": {
+    "name": "Kuracie, dusené, dk mäso, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie, dusené, dk mäso, len mäso, surové z databázy USDA."
+  },
+  "chicken_capons_meatskn_raw": {
+    "name": "Kuracie mäso, kapúny, mäso&skn, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, kapúny, mäso&skn, surové z databázy USDA."
+  },
+  "turkey_whl_giblets_raw": {
+    "name": "Morky, whl, droby, surové",
+    "alternative_names": [],
+    "description": "Morky, whl, droby, surové z databázy USDA."
+  },
+  "turkey_whl_giblets_ckd_simmrd": {
+    "name": "Turecko, whl, droby, ckd, simmrd",
+    "alternative_names": [],
+    "description": "Turecko, whl, droby, ckd, simmrd z databázy USDA."
+  },
+  "turkey_liver_all_classes_raw": {
+    "name": "Morka, pečeň, všetky triedy, surová",
+    "alternative_names": [],
+    "description": "Morka, pečeň, všetky triedy, surová z databázy USDA."
+  },
+  "turkey_liver_all_classes_ckd_simmrd": {
+    "name": "Morka, pečeň, všetky triedy, ckd, simmrd",
+    "alternative_names": [],
+    "description": "Morka, pečeň, všetky triedy, ckd, simmrd z databázy USDA."
+  },
+  "turkey_all_classes_back_meatskn_ckd_rstd": {
+    "name": "Morka, všetky triedy, chrbát, mäso&skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Morka, všetky triedy, chrbát, mäso&skn, ckd, rstd z databázy USDA."
+  },
+  "turkey_all_classes_leg_meatskn_ckd_rstd": {
+    "name": "Morka, všetky triedy, stehno, mäso&skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Morka, všetky triedy, stehno, mäso&skn, ckd, rstd z databázy USDA."
+  },
+  "turkey_fryer_roasters_meatskn_ckd_rstd": {
+    "name": "Morčacie, fritézy, mäso&skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Morčacie, fritézy, mäso&skn, ckd, rstd z databázy USDA."
+  },
+  "turkey_fryer_roasters_wing_meat_only_ckd_rstd": {
+    "name": "Morka, pekáč, krídlo, len mäso, ckd, rstd",
+    "alternative_names": [],
+    "description": "Morka, pekáč, krídlo, len mäso, ckd, rstd z databázy USDA."
+  },
+  "chicken_cnd_meat_only_wbroth": {
+    "name": "Kuracie mäso, cnd, len mäso, s vývarom",
+    "alternative_names": [],
+    "description": "Kuracie mäso, cnd, len mäso, s vývarom z databázy USDA."
+  },
+  "turkey_cnd_meat_only_wbroth": {
+    "name": "Morka, cnd, len mäso, s vývarom",
+    "alternative_names": [],
+    "description": "Morka, cnd, len mäso, s vývarom z databázy USDA."
+  },
+  "turkey_patties_breaded_battered_fried": {
+    "name": "Morčacie karbonátky, obaľované, v cestíčku, vyprážané",
+    "alternative_names": [],
+    "description": "Morčacie karbonátky, obaľované, v cestíčku, vyprážané z databázy USDA."
+  },
+  "turkey_rst_bnless_frz_seasoned_ltdk_meat_rstd": {
+    "name": "Morčacie prvé, bez, frz, korenené, malé mäso, prvé",
+    "alternative_names": [],
+    "description": "Morčacie prvé, bez, frz, korenené, malé mäso, prvé z databázy USDA."
+  },
+  "chicken_cornish_game_hens_meatskn_raw": {
+    "name": "Kuracie, cornish diviny, mäso & SKN, surové",
+    "alternative_names": [],
+    "description": "Kuracie, cornish diviny, mäso & SKN, surové z databázy USDA."
+  },
+  "chicken_cornish_game_hens_meatskn_ckd_rstd": {
+    "name": "Kuracie, cornish diviny, mäso&skn, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kuracie, cornish diviny, mäso&skn, ckd, rstd z databázy USDA."
+  },
+  "chicken_cornish_game_hens_meat_only_raw": {
+    "name": "Kurčatá, cornish divina, len mäso, surové",
+    "alternative_names": [],
+    "description": "Kurčatá, cornish divina, len mäso, surové z databázy USDA."
+  },
+  "chicken_cornish_game_hens_meat_only_ckd_rstd": {
+    "name": "Kurčatá, cornish divina, len mäso, ckd, rstd",
+    "alternative_names": [],
+    "description": "Kurčatá, cornish divina, len mäso, ckd, rstd z databázy USDA."
+  },
+  "chicken_canned_no_broth": {
+    "name": "Kuracie mäso, konzerva, bez vývaru",
+    "alternative_names": [],
+    "description": "Kuracie mäso, konzerva, bez vývaru z databázy USDA."
+  },
+  "chicken_nuggets_frz_ckd": {
+    "name": "Kuracie nugetky, frz, ckd",
+    "alternative_names": [],
+    "description": "Kuracie nugetky, frz, ckd z databázy USDA."
+  },
+  "chicken_nuggets_frz_unckd": {
+    "name": "Kuracie nugetky, frz, unckd",
+    "alternative_names": [],
+    "description": "Kuracie nugetky, frz, unckd z databázy USDA."
+  },
+  "chicken_patty_frz_unckd": {
+    "name": "Kuracie karbonátky, frz, unckd",
+    "alternative_names": [],
+    "description": "Kuracie karbonátky, frz, unckd z databázy USDA."
+  },
+  "chicken_patty_frz_ckd": {
+    "name": "Kuracie karbonátky, frz, ckd",
+    "alternative_names": [],
+    "description": "Kuracie karbonátky, frz, ckd z databázy USDA."
+  },
+  "chicken_breast_tenders_ckd_conventional_oven": {
+    "name": "Kuracie prsia, ckd, konvenčná rúra",
+    "alternative_names": [],
+    "description": "Kuracie prsia, ckd, konvenčná rúra z databázy USDA."
+  },
+  "chicken_breast_tenders_ckd_microwaved": {
+    "name": "Kuracie prsia, ckd, mikrovlnné",
+    "alternative_names": [],
+    "description": "Kuracie prsia, ckd, mikrovlnné z databázy USDA."
+  },
+  "chicken_breast_tenders_breaded_unckd": {
+    "name": "Kuracie prsia, obaľované, nepečené",
+    "alternative_names": [],
+    "description": "Kuracie prsia, obaľované, nepečené z databázy USDA."
+  },
+  "chicken_ground_raw": {
+    "name": "Kuracie, mleté, surové",
+    "alternative_names": [],
+    "description": "Kuracie, mleté, surové z databázy USDA."
+  },
+  "chicken_ground_crumbles_ckd_pan_browned": {
+    "name": "Kuracie mäso, mleté, chrumkavé, ckd, opečené na panvici",
+    "alternative_names": [],
+    "description": "Kuracie mäso, mleté, chrumkavé, ckd, opečené na panvici z databázy USDA."
+  },
+  "usda_cmdty_turkey_taco_meat_frz_ckd": {
+    "name": "Usda cmdty, morčacie taco mäso, frz, ckd",
+    "alternative_names": [],
+    "description": "Usda cmdty, morčacie taco mäso, frz, ckd z databázy USDA."
+  },
+  "chicken_skn_ckd_brsd": {
+    "name": "Kuracie mäso, skn (paličky a stehná), ckd, brsd",
+    "alternative_names": [],
+    "description": "Kuracie mäso, skn (paličky a stehná), ckd, brsd z databázy USDA."
+  },
+  "chicken_skn_raw": {
+    "name": "Kuracie mäso, skn (paličky a stehná), surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, skn (paličky a stehná), surové z databázy USDA."
+  },
+  "chicken_skn_ckd_rstd": {
+    "name": "Kuracie, skn (paličky a stehná), ckd, rstd",
+    "alternative_names": [],
+    "description": "Kuracie, skn (paličky a stehná), ckd, rstd z databázy USDA."
+  },
+  "chicken_broilers_or_fryers_dk_meat_drumstk_mt": {
+    "name": "Kurčatá, brojlery alebo fritézy, dk mäso, drumstk, mt & skn, ckd, brsd",
+    "alternative_names": [],
+    "description": "Kurčatá, brojlery alebo fritézy, dk mäso, drumstk, mt & skn, ckd, brsd z databázy USDA."
+  },
+  "fish_broth": {
+    "name": "Rybí vývar",
+    "alternative_names": [],
+    "description": "Rybí vývar z databázy USDA."
+  },
+  "beerwurst_beer_salami_pork_bf": {
+    "name": "Beerwurst, pivná saláma, bravčové mäso a bf",
+    "alternative_names": [],
+    "description": "Beerwurst, pivná saláma, bravčové mäso a bf z databázy USDA."
+  },
+  "sausage_berliner_pork_bf": {
+    "name": "Klobása berliner bravčové bf",
+    "alternative_names": [],
+    "description": "Klobása berliner bravčové bf z databázy USDA."
+  },
+  "bockwurst_pork_veal_raw": {
+    "name": "Bockwurst bravčové teľacie mäso surové",
+    "alternative_names": [],
+    "description": "Bockwurst bravčové teľacie mäso surové z databázy USDA."
+  },
+  "bologna_bf": {
+    "name": "Bologna, bf",
+    "alternative_names": [],
+    "description": "Bologna, bf z databázy USDA."
+  },
+  "bologna_bf_pork": {
+    "name": "Bologna, bf & bravčové",
+    "alternative_names": [],
+    "description": "Bologna, bf & bravčové z databázy USDA."
+  },
+  "bologna_pork": {
+    "name": "Bologna, bravčové",
+    "alternative_names": [],
+    "description": "Bologna, bravčové z databázy USDA."
+  },
+  "bologna_turkey": {
+    "name": "Bolonská morka",
+    "alternative_names": [],
+    "description": "Bolonská morka z databázy USDA."
+  },
+  "bratwurst_pork_ckd": {
+    "name": "Bravčové, bravčové, ckd",
+    "alternative_names": [],
+    "description": "Bravčové, bravčové, ckd z databázy USDA."
+  },
+  "cheesefurter_chs_smokie_pork_bf": {
+    "name": "Cheesefurter, chs smokie, bravčové mäso, bf",
+    "alternative_names": [],
+    "description": "Cheesefurter, chs smokie, bravčové mäso, bf z databázy USDA."
+  },
+  "chorizo_pork_and_beef": {
+    "name": "Chorizo, bravčové a hovädzie mäso",
+    "alternative_names": [],
+    "description": "Chorizo, bravčové a hovädzie mäso z databázy USDA."
+  },
+  "frankfurter_bf_unhtd": {
+    "name": "Frankfurter, bf, unhtd",
+    "alternative_names": [],
+    "description": "Frankfurter, bf, unhtd z databázy USDA."
+  },
+  "frankfurter_bf_pork": {
+    "name": "Frankfurter bf & pork",
+    "alternative_names": [],
+    "description": "Frankfurter bf & pork z databázy USDA."
+  },
+  "headcheese_pork": {
+    "name": "Hlavový syr, bravčové",
+    "alternative_names": [],
+    "description": "Hlavový syr, bravčové z databázy USDA."
+  },
+  "honey_loaf_pork_bf": {
+    "name": "Medový bochník bravčové bf",
+    "alternative_names": [],
+    "description": "Medový bochník bravčové bf z databázy USDA."
+  },
+  "knackwurst_knockwurst_pork_bf": {
+    "name": "Knackwurst knockwurst bravčové bf",
+    "alternative_names": [],
+    "description": "Knackwurst knockwurst bravčové bf z databázy USDA."
+  },
+  "lebanon_bologna_bf": {
+    "name": "Libanon bologna bf",
+    "alternative_names": [],
+    "description": "Libanon bologna bf z databázy USDA."
+  },
+  "luncheon_meat_beef_loaved": {
+    "name": "Obedové mäso, hovädzie mäso, pečené",
+    "alternative_names": [],
+    "description": "Obedové mäso, hovädzie mäso, pečené z databázy USDA."
+  },
+  "luncheon_meat_pork_beef": {
+    "name": "Obedové mäso, bravčové, hovädzie",
+    "alternative_names": [],
+    "description": "Obedové mäso, bravčové, hovädzie z databázy USDA."
+  },
+  "mortadella_beef_pork": {
+    "name": "Mortadella, hovädzie, bravčové",
+    "alternative_names": [],
+    "description": "Mortadella, hovädzie, bravčové z databázy USDA."
+  },
+  "olive_loaf_pork": {
+    "name": "Olivový bochník, bravčové",
+    "alternative_names": [],
+    "description": "Olivový bochník, bravčové z databázy USDA."
+  },
+  "peppered_loaf_pork_bf": {
+    "name": "Bravčový bochník s korením bf",
+    "alternative_names": [],
+    "description": "Bravčový bochník s korením bf z databázy USDA."
+  },
+  "pepperoni_pork_beef": {
+    "name": "Pepperoni, bravčové, hovädzie",
+    "alternative_names": [],
+    "description": "Pepperoni, bravčové, hovädzie z databázy USDA."
+  },
+  "picklepimiento_loaf_pork": {
+    "name": "Uhorky&pimiento bochník, bravčové",
+    "alternative_names": [],
+    "description": "Uhorky&pimiento bochník, bravčové z databázy USDA."
+  },
+  "pork_sausage_frsh_raw": {
+    "name": "Bravčová klobása, čerstvá, surová",
+    "alternative_names": [],
+    "description": "Bravčová klobása, čerstvá, surová z databázy USDA."
+  },
+  "pork_sausage_frsh_ckd": {
+    "name": "Bravčová klobása, čerstvá, ckd",
+    "alternative_names": [],
+    "description": "Bravčová klobása, čerstvá, ckd z databázy USDA."
+  },
+  "porkbf_sausage_frsh_ckd": {
+    "name": "Bravčové & bf klobása, čerstvé, ckd",
+    "alternative_names": [],
+    "description": "Bravčové & bf klobása, čerstvé, ckd z databázy USDA."
+  },
+  "salami_ckd_bfpork": {
+    "name": "Saláma, ckd, bf&bravčové",
+    "alternative_names": [],
+    "description": "Saláma, ckd, bf&bravčové z databázy USDA."
+  },
+  "salami_cooked_turkey": {
+    "name": "Saláma, varená, morka",
+    "alternative_names": [],
+    "description": "Saláma, varená, morka z databázy USDA."
+  },
+  "thuringer_cervelat_smmr_sausage_bf_pork": {
+    "name": "Thuringer, cervelat, smmr klobása, bf, bravčové mäso",
+    "alternative_names": [],
+    "description": "Thuringer, cervelat, smmr klobása, bf, bravčové mäso z databázy USDA."
+  },
+  "sausage_vienna_cnd_chick_bf_pork": {
+    "name": "Klobása, viedenská, cnd, kuracina, bf, bravčové",
+    "alternative_names": [],
+    "description": "Klobása, viedenská, cnd, kuracina, bf, bravčové z databázy USDA."
+  },
+  "sausage_italian_pork_ckd": {
+    "name": "Klobása, talianska, bravčová, ckd",
+    "alternative_names": [],
+    "description": "Klobása, talianska, bravčová, ckd z databázy USDA."
+  },
+  "sausage_turkey_brkfst_links_mild": {
+    "name": "Klobása moriak brkfst links mierne",
+    "alternative_names": [],
+    "description": "Klobása moriak brkfst links mierne z databázy USDA."
+  },
+  "bacon_bf_stks": {
+    "name": "Bacon & bf stks",
+    "alternative_names": [],
+    "description": "Bacon & bf stks z databázy USDA."
+  },
+  "beerwurst_pork_bf": {
+    "name": "Beerwurst bravčové & bf",
+    "alternative_names": [],
+    "description": "Beerwurst bravčové & bf z databázy USDA."
+  },
+  "salami_italian_pork_bf_dry_sliced_50_less_na": {
+    "name": "Saláma talianske bravčové mäso & bf suché plátky o 50 % menej",
+    "alternative_names": [],
+    "description": "Saláma talianske bravčové mäso & bf suché plátky o 50 % menej z databázy USDA."
+  },
+  "frankfurter_bf_htd": {
+    "name": "Frankfurter bf htd",
+    "alternative_names": [],
+    "description": "Frankfurter bf htd z databázy USDA."
+  },
+  "scrapple_pork": {
+    "name": "Scraple, bravčové",
+    "alternative_names": [],
+    "description": "Scraple, bravčové z databázy USDA."
+  },
+  "pork_sausage_pre_cooked": {
+    "name": "Bravčová klobása, predvarená",
+    "alternative_names": [],
+    "description": "Bravčová klobása, predvarená z databázy USDA."
+  },
+  "beef_sausage_pre_cooked": {
+    "name": "Hovädzia klobása, predvarená",
+    "alternative_names": [],
+    "description": "Hovädzia klobása, predvarená z databázy USDA."
+  },
+  "beef_sausage_frsh_ckd": {
+    "name": "Hovädzia klobása, čerstvá, ckd",
+    "alternative_names": [],
+    "description": "Hovädzia klobása, čerstvá, ckd z databázy USDA."
+  },
+  "pork_turkey_sausage_pre_cooked": {
+    "name": "Bravčové a morčacie klobásy, predvarené",
+    "alternative_names": [],
+    "description": "Bravčové a morčacie klobásy, predvarené z databázy USDA."
+  },
+  "turkey_sausage_frsh_ckd": {
+    "name": "Morčacie klobásy, čerstvé, ckd",
+    "alternative_names": [],
+    "description": "Morčacie klobásy, čerstvé, ckd z databázy USDA."
+  },
+  "bologna_chick_pork_bf": {
+    "name": "Bologna, kuracie, bravčové, bf",
+    "alternative_names": [],
+    "description": "Bologna, kuracie, bravčové, bf z databázy USDA."
+  },
+  "bologna_chick_pork": {
+    "name": "Bologna, kuracie, bravčové",
+    "alternative_names": [],
+    "description": "Bologna, kuracie, bravčové z databázy USDA."
+  },
+  "pork_cured_bacon_ckd_brld_pan_fried_or_rstd": {
+    "name": "Bravčové mäso, nakladané mäso, slanina, ckd, brld, smažené na panvici alebo rstd",
+    "alternative_names": [],
+    "description": "Bravčové mäso, nakladané mäso, slanina, ckd, brld, smažené na panvici alebo rstd z databázy USDA."
+  },
+  "pork_cured_bacon_ckd_bkd": {
+    "name": "Bravčové mäso, nakladané, slanina, ckd, bkd",
+    "alternative_names": [],
+    "description": "Bravčové mäso, nakladané, slanina, ckd, bkd z databázy USDA."
+  },
+  "pork_cured_ham_h2o_product_rump_bone_in_ln_ht": {
+    "name": "Bravčové mäso, nakladané, šunka & H2o produkt, zadok, kosti, ln, htd, rstd",
+    "alternative_names": [],
+    "description": "Bravčové mäso, nakladané, šunka & H2o produkt, zadok, kosti, ln, htd, rstd z databázy USDA."
+  },
+  "pork_cured_ham_slice_bone_in_ln_unhtd": {
+    "name": "Bravčové mäso, sušené, šunka, plátok, kosti, ln, unhtd",
+    "alternative_names": [],
+    "description": "Bravčové mäso, sušené, šunka, plátok, kosti, ln, unhtd z databázy USDA."
+  },
+  "beef_grass_fed_strip_steaks_ln_raw": {
+    "name": "Hovädzie mäso, kŕmené trávou, pásové steaky, ln, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, kŕmené trávou, pásové steaky, ln, surové z databázy USDA."
+  },
+  "beef_brisket_whl_ln_all_grds_raw": {
+    "name": "Hovädzie mäso, hruď, whl, ln, všetky grds, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, hruď, whl, ln, všetky grds, surové z databázy USDA."
+  },
+  "beef_grass_fed_ground_raw": {
+    "name": "Hovädzie mäso, kŕmené trávou, mleté, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, kŕmené trávou, mleté, surové z databázy USDA."
+  },
+  "beef_rib_shortribs_ln_choic_ckd_brsd": {
+    "name": "Hovädzie mäso, rebrá, rebierka, ln, choic, ckd, brsd",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, rebrá, rebierka, ln, choic, ckd, brsd z databázy USDA."
+  },
+  "beef_ground_patties_frz_ckd_brld": {
+    "name": "Hovädzie, mleté, karbonátky, frz, ckd, brld",
+    "alternative_names": [],
+    "description": "Hovädzie, mleté, karbonátky, frz, ckd, brld z databázy USDA."
+  },
+  "beef_var_meatsby_products_brain_ckd_simmrd": {
+    "name": "Hovädzie mäso, var mäso a vedľajšie produkty, mozog, ckd, simmrd",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, var mäso a vedľajšie produkty, mozog, ckd, simmrd z databázy USDA."
+  },
+  "beef_var_meatsby_products_heart_ckd_simmrd": {
+    "name": "Hovädzie mäso, var mäso a vedľajšie produkty, srdce, ckd, simmrd",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, var mäso a vedľajšie produkty, srdce, ckd, simmrd z databázy USDA."
+  },
+  "beef_var_meatsby_products_liver_raw": {
+    "name": "Hovädzie mäso, mäso a vedľajšie produkty, pečeň, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, mäso a vedľajšie produkty, pečeň, surové z databázy USDA."
+  },
+  "beef_var_meats_by_products_liver_ckd_brsd": {
+    "name": "Hovädzie mäso, var mäso a vedľajšie produkty, pečeň, ckd, brsd",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, var mäso a vedľajšie produkty, pečeň, ckd, brsd z databázy USDA."
+  },
+  "beef_var_meatsby_products_liver_ckd_pan_fried": {
+    "name": "Hovädzie mäso, var mäso a vedľajšie produkty, pečeň, ckd, vyprážané",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, var mäso a vedľajšie produkty, pečeň, ckd, vyprážané z databázy USDA."
+  },
+  "beef_var_meats_by_products_suet_raw": {
+    "name": "Hovädzie mäso, var mäso a vedľajšie produkty, loj, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, var mäso a vedľajšie produkty, loj, surové z databázy USDA."
+  },
+  "beef_var_meatsby_products_tongue_ckd_simmrd": {
+    "name": "Hovädzie mäso, var mäso a vedľajšie produkty, jazyk, ckd, simmrd",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, var mäso a vedľajšie produkty, jazyk, ckd, simmrd z databázy USDA."
+  },
+  "beef_sndwch_steaks_flaked_chopd_formed_thinly": {
+    "name": "Hovädzie mäso, sndwch steaky, vo vločkách, sekané, tvarované a nakrájané na tenké plátky, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, sndwch steaky, vo vločkách, sekané, tvarované a nakrájané na tenké plátky, surové z databázy USDA."
+  },
+  "beef_cured_brkfst_strips_ckd": {
+    "name": "Hovädzie mäso, sušené, brkfst pásiky, ckd",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, sušené, brkfst pásiky, ckd z databázy USDA."
+  },
+  "beef_cured_corned_bf_brisket_ckd": {
+    "name": "Hovädzie mäso, konzervované, konzervované mäso, hruď, CKD",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, konzervované, konzervované mäso, hruď, CKD z databázy USDA."
+  },
+  "beef_cured_corned_bf_cnd": {
+    "name": "Hovädzie mäso, sušené, konzervované bf, cnd",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, sušené, konzervované bf, cnd z databázy USDA."
+  },
+  "beef_cured_dried": {
+    "name": "Hovädzie mäso, sušené, sušené",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, sušené, sušené z databázy USDA."
+  },
+  "beef_chuck_under_blade_cntr_steak_bnless_denv": {
+    "name": "\"hovädzie mäso, skľučovadlo, pod čepeľou cntr steak, bnless, denver cut, ln, 0\"\" fa\"",
+    "alternative_names": [],
+    "description": "\"hovädzie mäso, skľučovadlo, pod čepeľou cntr steak, bnless, denver cut, ln, 0\"\" fa\" z databázy USDA."
+  },
+  "beef_chk_und_bl_cntr_stk_bnless_den_cut_ln_0": {
+    "name": "\"beef, chk, und bl cntr stk, bnless, den cut, ln, 0\"\" fa, sel, ckd\"",
+    "alternative_names": [],
+    "description": "\"beef, chk, und bl cntr stk, bnless, den cut, ln, 0\"\" fa, sel, ckd\" z databázy USDA."
+  },
+  "beef_cured_pastrami": {
+    "name": "Hovädzie mäso, sušené, pastrami",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, sušené, pastrami z databázy USDA."
+  },
+  "beef_chk_undbl_cntr_stk_bnless_dencut_ln_0_fa": {
+    "name": "\"beef, chk, undbl cntr stk, bnless, dencut, ln, 0\"\" fa, all grd, raw\"",
+    "alternative_names": [],
+    "description": "\"beef, chk, undbl cntr stk, bnless, dencut, ln, 0\"\" fa, all grd, raw\" z databázy USDA."
+  },
+  "beef_chk_und_blcntr_stk_bnless_den_cut_ln_0_f": {
+    "name": "\"beef, chk, und blcntr stk, bnless, den cut, ln, 0\"\" fa, choice, raw\"",
+    "alternative_names": [],
+    "description": "\"beef, chk, und blcntr stk, bnless, den cut, ln, 0\"\" fa, choice, raw\" z databázy USDA."
+  },
+  "beef_shrt_loin_top_loin_stk_ln_ft_18_ft_all_g": {
+    "name": "\"hovädzie mäso, shrt loin, top loin, stk, ln & ft, 1/8\"\" ft, all grd, ckd, brld\"",
+    "alternative_names": [],
+    "description": "\"hovädzie mäso, shrt loin, top loin, stk, ln & ft, 1/8\"\" ft, all grd, ckd, brld\" z databázy USDA."
+  },
+  "beef_shoulder_steak_boneless_lean_only_0_choi": {
+    "name": "\"hovädzie mäso, steak z pliecka, vykostené, len chudé, 0\"\", výber, gril\"",
+    "alternative_names": [],
+    "description": "\"hovädzie mäso, steak z pliecka, vykostené, len chudé, 0\"\", výber, gril\" z databázy USDA."
+  },
+  "fish_portionsstks_frz_prehtd": {
+    "name": "Rybie porcie&stks, frz, prehtd",
+    "alternative_names": [],
+    "description": "Rybie porcie&stks, frz, prehtd z databázy USDA."
+  },
+  "herring_atlantic_raw": {
+    "name": "Sleď, atlantický, surový",
+    "alternative_names": [],
+    "description": "Sleď, atlantický, surový z databázy USDA."
+  },
+  "herring_atlantic_ckd_dry_heat": {
+    "name": "Sleď, atlantický, CKD, suché teplo",
+    "alternative_names": [],
+    "description": "Sleď, atlantický, CKD, suché teplo z databázy USDA."
+  },
+  "herring_atlantic_pickled": {
+    "name": "Sleď atlantický, nakladaný",
+    "alternative_names": [],
+    "description": "Sleď atlantický, nakladaný z databázy USDA."
+  },
+  "herring_atlantic_kippered": {
+    "name": "Sleď atlantický, morský",
+    "alternative_names": [],
+    "description": "Sleď atlantický, morský z databázy USDA."
+  },
+  "fish_pollock_alaska_ckd_dry_heat": {
+    "name": "Ryby, tresky, Aljaška, CKD, suché teplo",
+    "alternative_names": [],
+    "description": "Ryby, tresky, Aljaška, CKD, suché teplo z databázy USDA."
+  },
+  "fish_salmon_chum_cnd_drnd_sol_w_bone": {
+    "name": "Ryby, losos, chum, cnd, drnd sol s kosťou",
+    "alternative_names": [],
+    "description": "Ryby, losos, chum, cnd, drnd sol s kosťou z databázy USDA."
+  },
+  "fish_salmon_pink_cnd_total_can_contents": {
+    "name": "Ryby, losos, ružový, cnd, celkový obsah plechovky",
+    "alternative_names": [],
+    "description": "Ryby, losos, ružový, cnd, celkový obsah plechovky z databázy USDA."
+  },
+  "fish_salmon_sockeye_cnd_drnd_sol": {
+    "name": "Ryby, losos, sockeye, cnd, drnd sol",
+    "alternative_names": [],
+    "description": "Ryby, losos, sockeye, cnd, drnd sol z databázy USDA."
+  },
+  "fish_tuna_lt_cnd_in_h2o_drnd_sol": {
+    "name": "Ryby, tuniak, lt, cnd vo vode, drnd sol",
+    "alternative_names": [],
+    "description": "Ryby, tuniak, lt, cnd vo vode, drnd sol z databázy USDA."
+  },
+  "tuna_white_cnd_in_h2o_drnd_sol": {
+    "name": "Tuniak, biely, cnd vo vode, drnd sol",
+    "alternative_names": [],
+    "description": "Tuniak, biely, cnd vo vode, drnd sol z databázy USDA."
+  },
+  "tuna_fresh_yellowfin_raw": {
+    "name": "Tuniak, čerstvý, žltoplutvý, surový",
+    "alternative_names": [],
+    "description": "Tuniak, čerstvý, žltoplutvý, surový z databázy USDA."
+  },
+  "mussel_blue_raw": {
+    "name": "Slávka, modrá, surová",
+    "alternative_names": [],
+    "description": "Slávka, modrá, surová z databázy USDA."
+  },
+  "oyster_eastern_wild_raw": {
+    "name": "Ustrica, východná, divoká, surová",
+    "alternative_names": [],
+    "description": "Ustrica, východná, divoká, surová z databázy USDA."
+  },
+  "oyster_eastern_wild_ckd_moist_heat": {
+    "name": "Ustrica, východná, divoká, ckd, vlhké teplo",
+    "alternative_names": [],
+    "description": "Ustrica, východná, divoká, ckd, vlhké teplo z databázy USDA."
+  },
+  "oyster_eastern_canned": {
+    "name": "Ustrica, východná, konzervovaná",
+    "alternative_names": [],
+    "description": "Ustrica, východná, konzervovaná z databázy USDA."
+  },
+  "tuna_yellowfin_frsh_ckd_dry_heat": {
+    "name": "Tuniak, žltoplutvý, čerstvý, ckd, suché teplo",
+    "alternative_names": [],
+    "description": "Tuniak, žltoplutvý, čerstvý, ckd, suché teplo z databázy USDA."
+  },
+  "oyster_pacific_ckd_moist_heat": {
+    "name": "Ustrice, pacific, ckd, vlhké teplo",
+    "alternative_names": [],
+    "description": "Ustrice, pacific, ckd, vlhké teplo z databázy USDA."
+  },
+  "oyster_eastern_wild_ckd_dry_heat": {
+    "name": "Ustrica, východná, divoká, ckd, suché teplo",
+    "alternative_names": [],
+    "description": "Ustrica, východná, divoká, ckd, suché teplo z databázy USDA."
+  },
+  "fish_salmon_pink_cnd_drnd_sol": {
+    "name": "Ryby, losos, ružový, cnd, drnd sol",
+    "alternative_names": [],
+    "description": "Ryby, losos, ružový, cnd, drnd sol z databázy USDA."
+  },
+  "fish_tilapia_ckd_dry_heat": {
+    "name": "Ryby, tilapia, ckd, suché teplo",
+    "alternative_names": [],
+    "description": "Ryby, tilapia, ckd, suché teplo z databázy USDA."
+  },
+  "fish_salmon_pink_cnd_drnd_sol_wo_skn_bones": {
+    "name": "Ryby, losos, ružový, cnd, drnd sol, wo/ skn & kosti",
+    "alternative_names": [],
+    "description": "Ryby, losos, ružový, cnd, drnd sol, wo/ skn & kosti z databázy USDA."
+  },
+  "beans_bkd_cnd_wporkswt_sau": {
+    "name": "Fazuľa, bkd, cnd, w/bravčové mäso & swt alebo",
+    "alternative_names": [],
+    "description": "Fazuľa, bkd, cnd, w/bravčové mäso & swt alebo z databázy USDA."
+  },
+  "beans_bkd_cnd_wporktomato_sau": {
+    "name": "Fazuľa, bkd, cnd, s bravčovým mäsom a paradajkami",
+    "alternative_names": [],
+    "description": "Fazuľa, bkd, cnd, s bravčovým mäsom a paradajkami z databázy USDA."
+  },
+  "lamb_nz_imp_frz_rib_ln_ckd_rstd": {
+    "name": "Jahňacie mäso, nz, imp, frz, rebro, ln, ckd, rstd",
+    "alternative_names": [],
+    "description": "Jahňacie mäso, nz, imp, frz, rebro, ln, ckd, rstd z databázy USDA."
+  },
+  "veal_comp_of_rtl_cuts_ln_ckd": {
+    "name": "Teľacie mäso, zložené z rtl rezov, ln, ckd",
+    "alternative_names": [],
+    "description": "Teľacie mäso, zložené z rtl rezov, ln, ckd z databázy USDA."
+  },
+  "veal_leg_ln_ckd_pan_fried_breaded": {
+    "name": "Teľacie stehno (horné mäso), ln, ckd, vyprážané na panvici, obaľované",
+    "alternative_names": [],
+    "description": "Teľacie stehno (horné mäso), ln, ckd, vyprážané na panvici, obaľované z databázy USDA."
+  },
+  "veal_leg_ln_ckd_pan_fried_not_breaded": {
+    "name": "Teľacie stehno (horné mäso), ln, ckd, vyprážané na panvici, bez obalu",
+    "alternative_names": [],
+    "description": "Teľacie stehno (horné mäso), ln, ckd, vyprážané na panvici, bez obalu z databázy USDA."
+  },
+  "veal_loin_ln_ckd_brsd": {
+    "name": "Teľacie mäso, karé, ln, ckd, brsd",
+    "alternative_names": [],
+    "description": "Teľacie mäso, karé, ln, ckd, brsd z databázy USDA."
+  },
+  "veal_loin_ln_ckd_rstd": {
+    "name": "Teľacie mäso, karé, ln, ckd, rstd",
+    "alternative_names": [],
+    "description": "Teľacie mäso, karé, ln, ckd, rstd z databázy USDA."
+  },
+  "veal_rib_ln_ckd_brsd": {
+    "name": "Teľacie mäso, rebro, ln, ckd, brsd",
+    "alternative_names": [],
+    "description": "Teľacie mäso, rebro, ln, ckd, brsd z databázy USDA."
+  },
+  "veal_shldr_blade_ln_ckd_brsd": {
+    "name": "Teľacie mäso, shldr, blade, ln, ckd, brsd",
+    "alternative_names": [],
+    "description": "Teľacie mäso, shldr, blade, ln, ckd, brsd z databázy USDA."
+  },
+  "veal_ground_ckd_brld": {
+    "name": "Teľacie, mleté, ckd, brld",
+    "alternative_names": [],
+    "description": "Teľacie, mleté, ckd, brld z databázy USDA."
+  },
+  "game_meat_deer_raw": {
+    "name": "Mäso z diviny, jeleňa, surové",
+    "alternative_names": [],
+    "description": "Mäso z diviny, jeleňa, surové z databázy USDA."
+  },
+  "veal_var_meatsby_products_liver_raw": {
+    "name": "Teľacie mäso, varné mäso a vedľajšie produkty, pečeň, surové",
+    "alternative_names": [],
+    "description": "Teľacie mäso, varné mäso a vedľajšie produkty, pečeň, surové z databázy USDA."
+  },
+  "veal_var_meatsby_products_liver_ckd_brsd": {
+    "name": "Teľacie mäso, var mäso a vedľajšie produkty, pečeň, ckd, brsd",
+    "alternative_names": [],
+    "description": "Teľacie mäso, var mäso a vedľajšie produkty, pečeň, ckd, brsd z databázy USDA."
+  },
+  "veal_var_meatsby_products_liver_ckd_pan_fried": {
+    "name": "Teľacie mäso, varné mäso a vedľajšie produkty, pečeň, ckd, vyprážané",
+    "alternative_names": [],
+    "description": "Teľacie mäso, varné mäso a vedľajšie produkty, pečeň, ckd, vyprážané z databázy USDA."
+  },
+  "lamb_ground_raw": {
+    "name": "Jahňacie mäso, mleté, surové",
+    "alternative_names": [],
+    "description": "Jahňacie mäso, mleté, surové z databázy USDA."
+  },
+  "lamb_ground_ckd_brld": {
+    "name": "Jahňacie, mleté, ckd, brld",
+    "alternative_names": [],
+    "description": "Jahňacie, mleté, ckd, brld z databázy USDA."
+  },
+  "game_meat_deer_ground_raw": {
+    "name": "Mäso z diviny, jelene, mleté, surové",
+    "alternative_names": [],
+    "description": "Mäso z diviny, jelene, mleté, surové z databázy USDA."
+  },
+  "game_meat_deer_ground_ckd_pan_broiled": {
+    "name": "Mäso z diviny, jelene, mleté, ckd, grilované na panvici",
+    "alternative_names": [],
+    "description": "Mäso z diviny, jelene, mleté, ckd, grilované na panvici z databázy USDA."
+  },
+  "game_meat_deer_loin_ln_1_steak_ckd_brld": {
+    "name": "\"mäso z diviny, jeleň, karé, ln, 1\"\" steak, ckd, brld\"",
+    "alternative_names": [],
+    "description": "\"mäso z diviny, jeleň, karé, ln, 1\"\" steak, ckd, brld\" z databázy USDA."
+  },
+  "game_meat_deer_shldr_clod_ln_3_5_lb_rst_ckd_b": {
+    "name": "Mäso z diviny, jeleň, hruda shldr, ln, 3-5 lb rst, ckd, brsd",
+    "alternative_names": [],
+    "description": "Mäso z diviny, jeleň, hruda shldr, ln, 3-5 lb rst, ckd, brsd z databázy USDA."
+  },
+  "beef_jerky_chopdformed": {
+    "name": "Hovädzie trhané mäso, sekané a tvarované",
+    "alternative_names": [],
+    "description": "Hovädzie trhané mäso, sekané a tvarované z databázy USDA."
+  },
+  "fast_foods_biscuit_wham": {
+    "name": "Rýchle občerstvenie, sušienky, so šunkou",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, sušienky, so šunkou z databázy USDA."
+  },
+  "fast_foods_biscuit_wsausage": {
+    "name": "Rýchle občerstvenie, sušienky, s klobásou",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, sušienky, s klobásou z databázy USDA."
+  },
+  "burger_king_premium_fish_sndwch": {
+    "name": "Burger king, prémiový rybí sndwch",
+    "alternative_names": [],
+    "description": "Burger king, prémiový rybí sndwch z databázy USDA."
+  },
+  "fast_foods_griddle_cake_sndwch_sausage": {
+    "name": "Rýchle občerstvenia, tortový sndwch, klobása",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenia, tortový sndwch, klobása z databázy USDA."
+  },
+  "burger_king_croissanwich_w_sausage_chs": {
+    "name": "Burger king, croissan'wich s klobásou a chs",
+    "alternative_names": [],
+    "description": "Burger king, croissan'wich s klobásou a chs z databázy USDA."
+  },
+  "grilled_chick_bacon_tomo_clb_sndwch_w_chs_let": {
+    "name": "Grilované kuriatko, slanina a tomo clb sndwch, s chs, šalátom a majonézou",
+    "alternative_names": [],
+    "description": "Grilované kuriatko, slanina a tomo clb sndwch, s chs, šalátom a majonézou z databázy USDA."
+  },
+  "crispy_chick_bacon_tomato_club_sndwch_w_chs_l": {
+    "name": "Chrumkavé kuriatko, slanina a paradajkový sndwch, w/ chs, letce a majonéza",
+    "alternative_names": [],
+    "description": "Chrumkavé kuriatko, slanina a paradajkový sndwch, w/ chs, letce a majonéza z databázy USDA."
+  },
+  "hot_pockets_ham_n_chs_stuffed_sndwch_frz": {
+    "name": "Hot pockets ham 'n chs plnené sndwch, frz",
+    "alternative_names": [],
+    "description": "Hot pockets ham 'n chs plnené sndwch, frz z databázy USDA."
+  },
+  "beef_stew_canned_entree": {
+    "name": "Hovädzí guláš, predkrm z konzervy",
+    "alternative_names": [],
+    "description": "Hovädzí guláš, predkrm z konzervy z databázy USDA."
+  },
+  "beef_corned_bf_hash_w_potato_cnd": {
+    "name": "Hovädzie mäso, konzervované s hašiškou, so zemiakmi, cnd",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, konzervované s hašiškou, so zemiakmi, cnd z databázy USDA."
+  },
+  "pulled_pork_in_barbecue_sau": {
+    "name": "Ťahané bravčové mäso na grile alebo",
+    "alternative_names": [],
+    "description": "Ťahané bravčové mäso na grile alebo z databázy USDA."
+  },
+  "chicken_nuggets_dk_white_meat_preckd_frz_not": {
+    "name": "Kuracie mäso, nugety, dk & biele mäso, preckd, frz, nie rehtd",
+    "alternative_names": [],
+    "description": "Kuracie mäso, nugety, dk & biele mäso, preckd, frz, nie rehtd z databázy USDA."
+  },
+  "chicken_nuggets_white_meat_preckd_frz_not_reh": {
+    "name": "Kuracie mäso, nugety, biele mäso, predpečené, frz, nie rehtd",
+    "alternative_names": [],
+    "description": "Kuracie mäso, nugety, biele mäso, predpečené, frz, nie rehtd z databázy USDA."
+  },
+  "chicken_tenders_breaded_frz_prep": {
+    "name": "Kuracie jemné, obaľované, frz, príprava",
+    "alternative_names": [],
+    "description": "Kuracie jemné, obaľované, frz, príprava z databázy USDA."
+  },
+  "beef_chck_clod_shldr_topcntr_stks_ln_ft_0_all": {
+    "name": "\"beef, chck, clod, shldr top&cntr stks, ln & ft, 0\"\", all grds, grld\"",
+    "alternative_names": [],
+    "description": "\"beef, chck, clod, shldr top&cntr stks, ln & ft, 0\"\", all grds, grld\" z databázy USDA."
+  },
+  "beef_chk_und_bl_pot_rststk_bnl_ln_ft_0_ft_all": {
+    "name": "\"hovädzie, chk, und bl pot rst/stk, bnl, ln & ft, 0\"\" ft, all gr, raw\"",
+    "alternative_names": [],
+    "description": "\"hovädzie, chk, und bl pot rst/stk, bnl, ln & ft, 0\"\" ft, all gr, raw\" z databázy USDA."
+  },
+  "beef_chk_und_ble_cntr_stk_bnl_den_ct_lnft_0_f": {
+    "name": "\"beef, chk, und ble cntr stk, bnl, den ct, ln&ft, 0\"\" ft, ch, ckd, gld\"",
+    "alternative_names": [],
+    "description": "\"beef, chk, und ble cntr stk, bnl, den ct, ln&ft, 0\"\" ft, ch, ckd, gld\" z databázy USDA."
+  },
+  "beef_chk_und_bl_cntr_stk_bnl_den_cut_ln_ft_0f": {
+    "name": "\"beef, chk, und bl cntr stk, bnl, den cut, ln & ft, 0\"\"ft, all gr, rw\"",
+    "alternative_names": [],
+    "description": "\"beef, chk, und bl cntr stk, bnl, den cut, ln & ft, 0\"\"ft, all gr, rw\" z databázy USDA."
+  },
+  "beef_chk_und_ble_cntr_stk_bnl_den_cut_ln_ft_0": {
+    "name": "\"beef, chk, und ble cntr stk, bnl, den cut, ln & ft, 0\"\"ft, sel, rw\"",
+    "alternative_names": [],
+    "description": "\"beef, chk, und ble cntr stk, bnl, den cut, ln & ft, 0\"\"ft, sel, rw\" z databázy USDA."
+  },
+  "beef_rib_eye_rst_bne_in_lip_on_ln_18_ft_all_g": {
+    "name": "\"beef, rib eye rst, bne-in, lip-on, ln, 1/8\"\" ft, all grds, ckd, rstd\"",
+    "alternative_names": [],
+    "description": "\"beef, rib eye rst, bne-in, lip-on, ln, 1/8\"\" ft, all grds, ckd, rstd\" z databázy USDA."
+  },
+  "beef_rib_eye_stk_bn_in_lip_on_ln_ft_18_ft_al": {
+    "name": "\"beef, rib eye stk, bn-in, lip-on, ln & ft, 1/8\"\" ft, al gds, ckd, grl\"",
+    "alternative_names": [],
+    "description": "\"beef, rib eye stk, bn-in, lip-on, ln & ft, 1/8\"\" ft, al gds, ckd, grl\" z databázy USDA."
+  },
+  "beef_rib_eye_rst_bne_in_lp_on_ln_ft_18_ft_al": {
+    "name": "\"hovädzie, rib eye rst, bne-in, lp-on, ln & ft, 1/8\"\" ft, al grd, ckd, rst\"",
+    "alternative_names": [],
+    "description": "\"hovädzie, rib eye rst, bne-in, lp-on, ln & ft, 1/8\"\" ft, al grd, ckd, rst\" z databázy USDA."
+  },
+  "beef_rib_eye_stkrst_bne_in_ip_on_ln_ft_18_ft": {
+    "name": "\"hovädzie mäso, rebrové oko stk/rst, bne-in, ip-on, ln & ft, 1/8\"\" ft, al grds, rw\"",
+    "alternative_names": [],
+    "description": "\"hovädzie mäso, rebrové oko stk/rst, bne-in, ip-on, ln & ft, 1/8\"\" ft, al grds, rw\" z databázy USDA."
+  },
+  "beef_rib_eye_stk_bnls_lip_on_ln_ft_18_ft_al_g": {
+    "name": "\"beef, rib eye stk, bnls, lip-on, ln & ft, 1/8\"\" ft, al grd, ckd, grld\"",
+    "alternative_names": [],
+    "description": "\"beef, rib eye stk, bnls, lip-on, ln & ft, 1/8\"\" ft, al grd, ckd, grld\" z databázy USDA."
+  },
+  "beef_rib_eye_rst_bnls_lp_on_ln_ft_18_ft_all_g": {
+    "name": "\"beef, rib eye rst, bnls, lp-on, ln & ft, 1/8\"\" ft, all grd, ckd, rstd\"",
+    "alternative_names": [],
+    "description": "\"beef, rib eye rst, bnls, lp-on, ln & ft, 1/8\"\" ft, all grd, ckd, rstd\" z databázy USDA."
+  },
+  "beef_loin_top_srl_cp_stk_bnls_ln_ft_18_ft_alg": {
+    "name": "\"hovädzie mäso, karé, top srl cp stk, bnls, ln & ft, 1/8\"\" ft, algds, ckd, grld\"",
+    "alternative_names": [],
+    "description": "\"hovädzie mäso, karé, top srl cp stk, bnls, ln & ft, 1/8\"\" ft, algds, ckd, grld\" z databázy USDA."
+  },
+  "fish_salmon_coho_raw": {
+    "name": "Ryby, losos, coho (striebro), surové (domáce na Aljaške)",
+    "alternative_names": [],
+    "description": "Ryby, losos, coho (striebro), surové (domáce na Aljaške) z databázy USDA."
+  },
+  "fish_salmon_sockeye_raw": {
+    "name": "Ryby, losos, sockeye (červené), surové (domáce z Aljašky)",
+    "alternative_names": [],
+    "description": "Ryby, losos, sockeye (červené), surové (domáce z Aljašky) z databázy USDA."
+  },
+  "fish_salmon_chum_raw": {
+    "name": "Ryby, losos, kamarát, surové (domáce na Aljaške)",
+    "alternative_names": [],
+    "description": "Ryby, losos, kamarát, surové (domáce na Aljaške) z databázy USDA."
+  },
+  "fish_salmon_king_raw": {
+    "name": "Ryby, losos, kráľ (chinook), surový (domáci na Aljaške)",
+    "alternative_names": [],
+    "description": "Ryby, losos, kráľ (chinook), surový (domáci na Aljaške) z databázy USDA."
+  },
+  "fish_whitefish_dried": {
+    "name": "Ryby, síha, sušené (domáce na Aljaške)",
+    "alternative_names": [],
+    "description": "Ryby, síha, sušené (domáce na Aljaške) z databázy USDA."
+  },
+  "tamales_masa_pork_filling": {
+    "name": "Tamales, masa a bravčová plnka (hopi)",
+    "alternative_names": [],
+    "description": "Tamales, masa a bravčová plnka (hopi) z databázy USDA."
+  },
+  "restaurant_latino_pupusas_del_cerdo": {
+    "name": "Reštaurácia, latino, pupusas del cerdo (pupusas, bravčové mäso)",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, pupusas del cerdo (pupusas, bravčové mäso) z databázy USDA."
+  },
+  "restaurant_latino_tamale_pork": {
+    "name": "Reštaurácia, latino, tamale, bravčové",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, tamale, bravčové z databázy USDA."
+  },
+  "restaurant_chinese_swt_sour_pork": {
+    "name": "Reštaurácia, čínska, swt & kyslé bravčové",
+    "alternative_names": [],
+    "description": "Reštaurácia, čínska, swt & kyslé bravčové z databázy USDA."
+  },
+  "bologna_bfpork_lofat": {
+    "name": "Bologna, bf&bravčové mäso, lofat",
+    "alternative_names": [],
+    "description": "Bologna, bf&bravčové mäso, lofat z databázy USDA."
+  },
+  "turkey_bacon_cooked": {
+    "name": "Morčacie slanina, varená",
+    "alternative_names": [],
+    "description": "Morčacie slanina, varená z databázy USDA."
+  },
+  "turkeypork_sausage_frsh_bulk_patty_or_link_ck": {
+    "name": "Morčacie a bravčové klobásy, čerstvé, voľne ložené, karbonátky alebo odkazy, ckd",
+    "alternative_names": [],
+    "description": "Morčacie a bravčové klobásy, čerstvé, voľne ložené, karbonátky alebo odkazy, ckd z databázy USDA."
+  },
+  "salad_drsng_bacontomato": {
+    "name": "Šalát drsng, slanina&paradajka",
+    "alternative_names": [],
+    "description": "Šalát drsng, slanina&paradajka z databázy USDA."
+  },
+  "turkey_wing_smoked_ckd_wskn_bone_removed": {
+    "name": "Morka, krídlo, údené, ckd, w/skn, odstránená kosť",
+    "alternative_names": [],
+    "description": "Morka, krídlo, údené, ckd, w/skn, odstránená kosť z databázy USDA."
+  },
+  "turkey_drumstk_smoked_ckd_wskn_bone_removed": {
+    "name": "Morka, drumstk, údená, ckd, w/skn, odstránená kosť",
+    "alternative_names": [],
+    "description": "Morka, drumstk, údená, ckd, w/skn, odstránená kosť z databázy USDA."
+  },
+  "pork_cured_bacon_ckd_brld_pan_fried_or_rstd_r": {
+    "name": "Bravčové mäso, nakladané, slanina, ckd, brld, vyprážané na panvici alebo rstd, červené",
+    "alternative_names": [],
+    "description": "Bravčové mäso, nakladané, slanina, ckd, brld, vyprážané na panvici alebo rstd, červené z databázy USDA."
+  },
+  "beef_bologna_red_na": {
+    "name": "Hovädzie, boloňské, červené",
+    "alternative_names": [],
+    "description": "Hovädzie, boloňské, červené z databázy USDA."
+  },
+  "turkey_lt_or_dk_meat_smoked_ckd_wskn_bone_rem": {
+    "name": "Morčacie mäso, lt alebo dk, údené, ckd, w/skn, zbavené kosti",
+    "alternative_names": [],
+    "description": "Morčacie mäso, lt alebo dk, údené, ckd, w/skn, zbavené kosti z databázy USDA."
+  },
+  "turkey_lt_or_dk_meat_smoked_ckd_skn_bone_remo": {
+    "name": "Morčacie, lt alebo dk mäso, údené, ckd, skn & kosti zbavené",
+    "alternative_names": [],
+    "description": "Morčacie, lt alebo dk mäso, údené, ckd, skn & kosti zbavené z databázy USDA."
+  },
+  "frankfurter_lo_na": {
+    "name": "Frankfurter, lo na",
+    "alternative_names": [],
+    "description": "Frankfurter, lo na z databázy USDA."
+  }
+}

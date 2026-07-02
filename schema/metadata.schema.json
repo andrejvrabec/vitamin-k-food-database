@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Metadata Schema",
+  "type": "object",
+  "properties": {
+    "languages": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z]{2}$" },
+      "uniqueItems": true
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+      "uniqueItems": true
+    },
+    "categories": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+      "uniqueItems": true
+    }
+  },
+  "required": ["languages", "tags", "categories"],
+  "additionalProperties": false
+}

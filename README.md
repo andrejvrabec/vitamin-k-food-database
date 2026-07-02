@@ -1,0 +1,183 @@
+# Vitamin K Food Database
+
+A public, open-source dataset containing Vitamin K levels in various foods. The database is stored as structured JSON files, optimized for easy consumption by applications, localized translations, and crowdsourced updates via GitHub.
+
+## Directory Structure
+
+```
+├── schema/                     # JSON Schemas for file format validation
+│   ├── metadata.schema.json
+│   ├── category.schema.json
+│   ├── common_translation.schema.json
+│   └── food_translation.schema.json
+├── data/
+│   ├── metadata.json           # Version, active languages, tags, and categories
+│   ├── categories/             # Foods split by category
+│   │   ├── vegetables.json
+│   │   ├── fruits.json
+│   │   ├── fermented.json
+│   │   └── ...
+│   └── i18n/                   # Localized translation files
+│       ├── en/                 # English translations
+│       │   ├── common.json     # Common metadata translations (categories, units, tags)
+│       │   ├── vegetables.json # Category-specific food translations
+│       │   └── ...
+│       └── sk/                 # Slovak translations
+│           ├── common.json
+│           ├── vegetables.json
+│           └── ...
+├── scripts/
+│   └── validate_data.py        # Python script to check format integrity and coverage
+├── README.md                   # Project documentation
+└── requirements.txt            # Python dependencies for validation
+```
+
+---
+
+## Data Schema & Rules
+
+### 1. Root Metadata (`data/metadata.json`)
+Defines the global `data_version`, supported translation languages, valid categories, and valid tags.
+- Example:
+  ```json
+  {
+    "data_version": "0.1.0",
+    "languages": ["en", "sk"],
+    "tags": ["green_leaves", "berries"],
+    "categories": ["vegetables", "fruits"]
+  }
+  ```
+
+### 2. Category Files (`data/categories/<category_id>.json`)
+Each file corresponds to a category named `<category_id>.json` and contains:
+- `version`: Version of this specific file (e.g., `"0.1.0"`).
+- `data`: An array of food items containing:
+  - `id`: Unique lowercase identifier (e.g., `spinach_raw`).
+  - `category`: Must match the `<category_id>` of the filename.
+  - `tags`: List of tags defined in `metadata.json`.
+  - `portions`: A list of portion measurements (minimum 1).
+    - `amount`: Number (e.g. `100` or `1`).
+    - `unit`: One of `["g", "ml", "piece", "cup", "tbsp", "tsp"]`.
+    - `vitamin_k_mcg`: Amount of Vitamin K in micrograms.
+    - `gram_equivalent`: The equivalent weight in grams. **Required if the unit is NOT `"g"`**. If unit is `"g"`, it is omitted.
+  - `source`: Reference source for the data (e.g. USDA FoodData Central ID).
+  - `relations` (optional): Grouping and relation identifier (e.g. linking raw spinach to cooked spinach).
+    - `group`: String grouping identifier.
+    - `related_ids`: List of related food IDs.
+
+- Example:
+  ```json
+  {
+    "version": "0.1.0",
+    "data": [
+      {
+        "id": "spinach_raw",
+        "category": "vegetables",
+        "tags": ["green_leaves"],
+        "portions": [
+          { "amount": 100, "unit": "g", "vitamin_k_mcg": 482.9 },
+          { "amount": 1, "unit": "cup", "gram_equivalent": 30, "vitamin_k_mcg": 144.9 }
+        ],
+        "source": "USDA FDC ID: 168462",
+        "relations": {
+          "group": "spinach",
+          "related_ids": ["spinach_cooked"]
+        }
+      }
+    ]
+  }
+  ```
+
+### 3. Translation Files (`data/i18n/<lang>/`)
+Translations are organized in language-specific directories (`en/`, `sk/` etc.) to keep files manageable:
+- `<lang>/common.json`: Translates category names, tag names, and unit names.
+- `<lang>/<category_id>.json`: Translates the food names, alternative names, and descriptions for that category.
+  - Example for `en/vegetables.json`:
+    ```json
+    {
+      "spinach_raw": {
+        "name": "Spinach, raw",
+        "alternative_names": ["raw spinach", "baby spinach"],
+        "description": "Fresh raw spinach leaves."
+      }
+    }
+    ```
+  - Example for `sk/vegetables.json`:
+    ```json
+    {
+      "spinach_raw": {
+        "name": "Špenát, surový",
+        "alternative_names": ["surový špenát", "listový špenát"],
+        "description": "Čerstvé listy surového špenátu siateho."
+      }
+    }
+    ```
+
+---
+
+## Local Development & Validation
+
+To ensure all JSON files are formatted correctly, have complete translation coverage, and contain no broken relations, run the validation script before opening a Pull Request.
+
+### Setup
+Ensure you have Python installed:
+```bash
+pip install -r requirements.txt
+```
+
+### Run Validation
+From the repository root directory:
+```bash
+python scripts/validate_data.py
+```
+*(On Windows, you can also use `py scripts/validate_data.py`)*
+
+---
+
+## Releasing & Data Consumption (API)
+
+This project uses **GitHub Pages** as a high-performance, CDN-backed static API to distribute the dataset to consuming applications (like mobile apps, websites, or services).
+
+### 1. For Developers (API & Data Sync)
+
+Consuming applications should use the static endpoints hosted on GitHub Pages for fast, rate-limit-free access with full CORS support.
+
+* **Base URL:** `https://andrejvrabec.github.io/vitamin-k-food-database/`
+* **Release Manifest:** `https://andrejvrabec.github.io/vitamin-k-food-database/release_manifest.json`
+
+#### Recommended Synchronization Strategy
+To minimize network traffic and keep the local application database up-to-date, implement the following check loop:
+1. Fetch the small release manifest at `https://andrejvrabec.github.io/vitamin-k-food-database/release_manifest.json`.
+2. Compare the `global_version` against the version stored in the client application's local cache.
+3. If they differ:
+   - Identify which categories have `"changed": true`.
+   - Download only the modified category JSON files (e.g., `https://andrejvrabec.github.io/vitamin-k-food-database/data/categories/<category_id>.json`).
+   - If `global_version_changed` is a major version bump, perform any necessary database migrations/wipes if required.
+   - Save the new version number locally.
+
+#### Direct Data Links & Explanations
+
+* **Global Metadata File:** `https://andrejvrabec.github.io/vitamin-k-food-database/data/metadata.json`
+  - *Description:* Defines the global database schema/version, active languages, tags list, and category lists. Used by client apps to learn what categories and translations exist.
+* **Category Food Files:** `https://andrejvrabec.github.io/vitamin-k-food-database/data/categories/<category_id>.json`
+  - *Description:* Houses the raw food items, portions, sources, and tags for a specific category. E.g., `vegetables.json`.
+* **Common Translations:** `https://andrejvrabec.github.io/vitamin-k-food-database/data/i18n/<lang>/common.json`
+  - *Description:* Translates tag names, category names, and portion units into the target language (e.g. `data/i18n/sk/common.json` for Slovak).
+* **Category Food Translations:** `https://andrejvrabec.github.io/vitamin-k-food-database/data/i18n/<lang>/<category_id>.json`
+  - *Description:* Translates category-specific food names, alternative names, and descriptions (e.g. `data/i18n/sk/vegetables.json`).
+
+
+---
+
+### 2. For Maintainers (How to Release)
+
+When you make changes to the data, translations, or schemas:
+
+1. **Verify locally:** Run `python scripts/validate_data.py` (or let the pre-commit hook run) to ensure all checks pass.
+2. **Commit and push:** Push the changes to the `main` branch. (You do not need to edit version strings inside any JSON files).
+3. **Publish GitHub Release:**
+   - Go to the **Releases** tab on GitHub and draft a new release.
+   - Set the release tag format using Semantic Versioning (e.g., **`v1.1.0`** or **`v2.0.0`** depending on whether additions or breaking deletes were made).
+   - Publish the release.
+   - The GitHub Actions workflow will automatically trigger, parse the version directly from your release tag, generate the release manifest with SHA-256 hashes, and publish the updated dataset to GitHub Pages.
+

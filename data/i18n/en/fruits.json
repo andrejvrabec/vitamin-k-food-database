@@ -1,0 +1,854 @@
+{
+  "apples_raw_without_skin": {
+    "name": "Apples, raw, without skin",
+    "alternative_names": [],
+    "description": "Apples, raw, without skin as defined by the USDA database."
+  },
+  "apricots_canned_heavy_syrup_drained": {
+    "name": "Apricots, canned, heavy syrup, drained",
+    "alternative_names": [],
+    "description": "Apricots, canned, heavy syrup, drained as defined by the USDA database."
+  },
+  "apricots_canned_heavy_syrup_pack_with_sk": {
+    "name": "Apricots, canned, heavy syrup pack, with skin, solids and",
+    "alternative_names": [],
+    "description": "Apricots, canned, heavy syrup pack, with skin, solids and as defined by the USDA database."
+  },
+  "apricots_dried_sulfured_stewed_without_a": {
+    "name": "Apricots, dried, sulfured, stewed, without added sugar",
+    "alternative_names": [],
+    "description": "Apricots, dried, sulfured, stewed, without added sugar as defined by the USDA database."
+  },
+  "blackberries_frozen": {
+    "name": "Blackberries, frozen",
+    "alternative_names": [
+      "frozen blackberries",
+      "frozen unsweetened blackberries"
+    ],
+    "description": "Frozen unsweetened blackberries, containing Vitamin K1 and fiber."
+  },
+  "blackberries_frozen_unsweetened": {
+    "name": "Blackberries, frozen, unsweetened",
+    "alternative_names": [],
+    "description": "Blackberries, frozen, unsweetened as defined by the USDA database."
+  },
+  "blackberry_juice_canned": {
+    "name": "Blackberry juice, canned",
+    "alternative_names": [],
+    "description": "Blackberry juice, canned as defined by the USDA database."
+  },
+  "blueberries_frozen_sweetened": {
+    "name": "Blueberries, frozen, sweetened",
+    "alternative_names": [],
+    "description": "Blueberries, frozen, sweetened as defined by the USDA database."
+  },
+  "blueberries_raw": {
+    "name": "Blueberries, raw",
+    "alternative_names": [
+      "raw blueberries",
+      "cultivated blueberries"
+    ],
+    "description": "Fresh raw blueberries, containing Vitamin K1 and various antioxidants."
+  },
+  "blueberries_wild_canned_heavy_syrup_drai": {
+    "name": "Blueberries, wild, canned, heavy syrup, drained",
+    "alternative_names": [],
+    "description": "Blueberries, wild, canned, heavy syrup, drained as defined by the USDA database."
+  },
+  "cherries_sour_red_frozen_unsweetened": {
+    "name": "Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)",
+    "alternative_names": [],
+    "description": "Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program) as defined by the USDA database."
+  },
+  "cherries_sweet_canned_water_pack_solids": {
+    "name": "Cherries, sweet, canned, water pack, solids and liquids",
+    "alternative_names": [],
+    "description": "Cherries, sweet, canned, water pack, solids and liquids as defined by the USDA database."
+  },
+  "cherries_sweet_raw": {
+    "name": "Cherries, sweet, raw",
+    "alternative_names": [],
+    "description": "Cherries, sweet, raw as defined by the USDA database."
+  },
+  "cookies_fig_bars": {
+    "name": "Cookies, fig bars",
+    "alternative_names": [],
+    "description": "Cookies, fig bars as defined by the USDA database."
+  },
+  "figs_canned_water_pack_solids_and_liquid": {
+    "name": "Figs, canned, water pack, solids and liquids",
+    "alternative_names": [],
+    "description": "Figs, canned, water pack, solids and liquids as defined by the USDA database."
+  },
+  "fruit_cocktail_canned_heavy_syrup_solids": {
+    "name": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids",
+    "alternative_names": [],
+    "description": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids as defined by the USDA database."
+  },
+  "grapefruit_juice_white_frozen_concentrat": {
+    "name": "Grapefruit juice, white, frozen concentrate, unsweetened, undiluted",
+    "alternative_names": [],
+    "description": "Grapefruit juice, white, frozen concentrate, unsweetened, undiluted as defined by the USDA database."
+  },
+  "grapes_american_type_raw": {
+    "name": "Grapes, american type (slip skin), raw",
+    "alternative_names": [],
+    "description": "Grapes, american type (slip skin), raw as defined by the USDA database."
+  },
+  "grapes_canned_thompson_seedless_water_pa": {
+    "name": "Grapes, canned, thompson seedless, water pack, solids and",
+    "alternative_names": [],
+    "description": "Grapes, canned, thompson seedless, water pack, solids and as defined by the USDA database."
+  },
+  "grapes_raw": {
+    "name": "Grapes, raw",
+    "alternative_names": [
+      "raw grapes",
+      "seedless grapes"
+    ],
+    "description": "Raw table grapes, containing moderate Vitamin K1."
+  },
+  "kiwi_raw": {
+    "name": "Kiwi, raw",
+    "alternative_names": [
+      "kiwifruit",
+      "raw kiwi"
+    ],
+    "description": "Raw green kiwi fruit, a good fruit source of Vitamin K1 and Vitamin C."
+  },
+  "lime_juice_raw": {
+    "name": "Lime juice, raw",
+    "alternative_names": [],
+    "description": "Lime juice, raw as defined by the USDA database."
+  },
+  "litchis_raw": {
+    "name": "Litchis, raw",
+    "alternative_names": [],
+    "description": "Litchis, raw as defined by the USDA database."
+  },
+  "mangos_raw": {
+    "name": "Mangos, raw",
+    "alternative_names": [],
+    "description": "Mangos, raw as defined by the USDA database."
+  },
+  "orange_juice_frozen_concentrate_unsweete": {
+    "name": "Orange juice, frozen concentrate, unsweetened, undiluted",
+    "alternative_names": [],
+    "description": "Orange juice, frozen concentrate, unsweetened, undiluted as defined by the USDA database."
+  },
+  "papaya_canned_heavy_syrup_drained": {
+    "name": "Papaya, canned, heavy syrup, drained",
+    "alternative_names": [],
+    "description": "Papaya, canned, heavy syrup, drained as defined by the USDA database."
+  },
+  "papayas_raw": {
+    "name": "Papayas, raw",
+    "alternative_names": [],
+    "description": "Papayas, raw as defined by the USDA database."
+  },
+  "passion_fruit_purple_raw": {
+    "name": "Passion-fruit, (granadilla), purple, raw",
+    "alternative_names": [],
+    "description": "Passion-fruit, (granadilla), purple, raw as defined by the USDA database."
+  },
+  "peaches_canned_light_syrup_pack_solids_a": {
+    "name": "Peaches, canned, light syrup pack, solids and liquids",
+    "alternative_names": [],
+    "description": "Peaches, canned, light syrup pack, solids and liquids as defined by the USDA database."
+  },
+  "peaches_canned_water_pack_solids_and_liq": {
+    "name": "Peaches, canned, water pack, solids and liquids",
+    "alternative_names": [],
+    "description": "Peaches, canned, water pack, solids and liquids as defined by the USDA database."
+  },
+  "pears_canned_light_syrup_pack_solids_and": {
+    "name": "Pears, canned, light syrup pack, solids and liquids",
+    "alternative_names": [],
+    "description": "Pears, canned, light syrup pack, solids and liquids as defined by the USDA database."
+  },
+  "pears_dried_sulfured_stewed_without_adde": {
+    "name": "Pears, dried, sulfured, stewed, without added sugar",
+    "alternative_names": [],
+    "description": "Pears, dried, sulfured, stewed, without added sugar as defined by the USDA database."
+  },
+  "pears_raw": {
+    "name": "Pears, raw",
+    "alternative_names": [],
+    "description": "Pears, raw as defined by the USDA database."
+  },
+  "pomegranate_juice": {
+    "name": "Pomegranate juice",
+    "alternative_names": [
+      "bottled pomegranate juice"
+    ],
+    "description": "Pure pomegranate juice, containing moderate Vitamin K1."
+  },
+  "pomegranate_juice_bottled": {
+    "name": "Pomegranate juice, bottled",
+    "alternative_names": [],
+    "description": "Pomegranate juice, bottled as defined by the USDA database."
+  },
+  "prunes_dried": {
+    "name": "Prunes, dried",
+    "alternative_names": [
+      "dried plums",
+      "pitted prunes"
+    ],
+    "description": "Dried plums (prunes), a very rich fruit source of Vitamin K1 and fiber."
+  },
+  "vegetable_juice_cocktail_canned": {
+    "name": "Vegetable juice cocktail, canned",
+    "alternative_names": [],
+    "description": "Vegetable juice cocktail, canned as defined by the USDA database."
+  },
+  "acerola_juice_raw": {
+    "name": "Acerola juice, raw",
+    "alternative_names": [],
+    "description": "Acerola juice, raw from the USDA database."
+  },
+  "apples_raw_with_skin": {
+    "name": "Apples, raw, with skin",
+    "alternative_names": [],
+    "description": "Apples, raw, with skin from the USDA database."
+  },
+  "apples_raw_woskn_ckd_bld": {
+    "name": "Apples, raw, wo/skn, ckd, bld",
+    "alternative_names": [],
+    "description": "Apples, raw, wo/skn, ckd, bld from the USDA database."
+  },
+  "apples_raw_wo_skn_ckd_microwave": {
+    "name": "Apples, raw, wo/ skn, ckd, microwave",
+    "alternative_names": [],
+    "description": "Apples, raw, wo/ skn, ckd, microwave from the USDA database."
+  },
+  "apples_cnd_swtnd_sliced_drnd_unhtd": {
+    "name": "Apples, cnd, swtnd, sliced, drnd, unhtd",
+    "alternative_names": [],
+    "description": "Apples, cnd, swtnd, sliced, drnd, unhtd from the USDA database."
+  },
+  "apples_cnd_swtnd_sliced_drnd_htd": {
+    "name": "Apples, cnd, swtnd, sliced, drnd, htd",
+    "alternative_names": [],
+    "description": "Apples, cnd, swtnd, sliced, drnd, htd from the USDA database."
+  },
+  "apples_dehyd_sulfured_unckd": {
+    "name": "Apples, dehyd (lo moist), sulfured, unckd",
+    "alternative_names": [],
+    "description": "Apples, dehyd (lo moist), sulfured, unckd from the USDA database."
+  },
+  "apples_dried_sulfured_unckd": {
+    "name": "Apples, dried, sulfured, unckd",
+    "alternative_names": [],
+    "description": "Apples, dried, sulfured, unckd from the USDA database."
+  },
+  "apples_dried_sulfured_stwd_wo_sugar": {
+    "name": "Apples, dried, sulfured, stwd, wo/ sugar",
+    "alternative_names": [],
+    "description": "Apples, dried, sulfured, stwd, wo/ sugar from the USDA database."
+  },
+  "apricots_raw": {
+    "name": "Apricots, raw",
+    "alternative_names": [],
+    "description": "Apricots, raw from the USDA database."
+  },
+  "apricots_cnd_h2o_pk_wskn_solliquids": {
+    "name": "Apricots, cnd, h2o pk, w/skn, sol&liquids",
+    "alternative_names": [],
+    "description": "Apricots, cnd, h2o pk, w/skn, sol&liquids from the USDA database."
+  },
+  "apricots_cnd_juc_pk_wskn_solliquids": {
+    "name": "Apricots, cnd, juc pk, w/skn, sol&liquids",
+    "alternative_names": [],
+    "description": "Apricots, cnd, juc pk, w/skn, sol&liquids from the USDA database."
+  },
+  "apricots_cnd_lt_syrup_pk_wskn_solliquids": {
+    "name": "Apricots, cnd, lt syrup pk, w/skn, sol&liquids",
+    "alternative_names": [],
+    "description": "Apricots, cnd, lt syrup pk, w/skn, sol&liquids from the USDA database."
+  },
+  "apricots_cnd_hvy_syrup_pk_wskn_solliquids": {
+    "name": "Apricots, cnd, hvy syrup pk, w/skn, sol&liquids",
+    "alternative_names": [],
+    "description": "Apricots, cnd, hvy syrup pk, w/skn, sol&liquids from the USDA database."
+  },
+  "apricots_dried_sulfured_unckd": {
+    "name": "Apricots, dried, sulfured, unckd",
+    "alternative_names": [],
+    "description": "Apricots, dried, sulfured, unckd from the USDA database."
+  },
+  "apricots_dried_sulfured_stwd_wo_sugar": {
+    "name": "Apricots, dried, sulfured, stwd, wo/ sugar",
+    "alternative_names": [],
+    "description": "Apricots, dried, sulfured, stwd, wo/ sugar from the USDA database."
+  },
+  "apricot_nectar_cnd_wo_vit_c": {
+    "name": "Apricot nectar, cnd, wo/ vit c",
+    "alternative_names": [],
+    "description": "Apricot nectar, cnd, wo/ vit c from the USDA database."
+  },
+  "blackberries_raw": {
+    "name": "Blackberries, raw",
+    "alternative_names": [],
+    "description": "Blackberries, raw from the USDA database."
+  },
+  "blackberry_juc_cnd": {
+    "name": "Blackberry juc, cnd",
+    "alternative_names": [],
+    "description": "Blackberry juc, cnd from the USDA database."
+  },
+  "blackberries_cnd_hvy_syrup_solliquids": {
+    "name": "Blackberries, cnd, hvy syrup, sol&liquids",
+    "alternative_names": [],
+    "description": "Blackberries, cnd, hvy syrup, sol&liquids from the USDA database."
+  },
+  "blackberries_frz_unswtnd": {
+    "name": "Blackberries, frz, unswtnd",
+    "alternative_names": [],
+    "description": "Blackberries, frz, unswtnd from the USDA database."
+  },
+  "blueberries_cnd_hvy_syrup_solliquids": {
+    "name": "Blueberries, cnd, hvy syrup, sol&liquids",
+    "alternative_names": [],
+    "description": "Blueberries, cnd, hvy syrup, sol&liquids from the USDA database."
+  },
+  "blueberries_frz_unswtnd": {
+    "name": "Blueberries, frz, unswtnd",
+    "alternative_names": [],
+    "description": "Blueberries, frz, unswtnd from the USDA database."
+  },
+  "blueberries_frz_swtnd": {
+    "name": "Blueberries, frz, swtnd",
+    "alternative_names": [],
+    "description": "Blueberries, frz, swtnd from the USDA database."
+  },
+  "cherries_sour_red_raw": {
+    "name": "Cherries, sour, red, raw",
+    "alternative_names": [],
+    "description": "Cherries, sour, red, raw from the USDA database."
+  },
+  "cherries_sour_red_cnd_h2o_pk_solliquids": {
+    "name": "Cherries, sour, red, cnd, h2o pk, sol&liquids (incl usda cmdty)",
+    "alternative_names": [],
+    "description": "Cherries, sour, red, cnd, h2o pk, sol&liquids (incl usda cmdty) from the USDA database."
+  },
+  "cherries_sour_red_cnd_hvy_syrup_pk_solliquids": {
+    "name": "Cherries, sour, red, cnd, hvy syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Cherries, sour, red, cnd, hvy syrup pk, sol&liquids from the USDA database."
+  },
+  "cherries_sour_red_frz_unswtnd": {
+    "name": "Cherries, sour, red, frz, unswtnd",
+    "alternative_names": [],
+    "description": "Cherries, sour, red, frz, unswtnd from the USDA database."
+  },
+  "cherries_swt_cnd_h2o_pk_solliquids": {
+    "name": "Cherries, swt, cnd, h2o pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Cherries, swt, cnd, h2o pk, sol&liquids from the USDA database."
+  },
+  "cherries_swt_cnd_juc_pk_solliquids": {
+    "name": "Cherries, swt, cnd, juc pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Cherries, swt, cnd, juc pk, sol&liquids from the USDA database."
+  },
+  "cherries_swt_cnd_lt_syrup_pk_solliquids": {
+    "name": "Cherries, swt, cnd, lt syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Cherries, swt, cnd, lt syrup pk, sol&liquids from the USDA database."
+  },
+  "cherries_swt_cnd_pitted_hvy_syrup_pk_sol_liqu": {
+    "name": "Cherries, swt, cnd, pitted, hvy syrup pk, sol & liquids",
+    "alternative_names": [],
+    "description": "Cherries, swt, cnd, pitted, hvy syrup pk, sol & liquids from the USDA database."
+  },
+  "cherries_swt_frz_swtnd": {
+    "name": "Cherries, swt, frz, swtnd",
+    "alternative_names": [],
+    "description": "Cherries, swt, frz, swtnd from the USDA database."
+  },
+  "cranberry_sau_cnd_swtnd": {
+    "name": "Cranberry sau, cnd, swtnd",
+    "alternative_names": [],
+    "description": "Cranberry sau, cnd, swtnd from the USDA database."
+  },
+  "figs_raw": {
+    "name": "Figs, raw",
+    "alternative_names": [],
+    "description": "Figs, raw from the USDA database."
+  },
+  "figs_cnd_h2o_pk_solliquids": {
+    "name": "Figs, cnd, h2o pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Figs, cnd, h2o pk, sol&liquids from the USDA database."
+  },
+  "figs_cnd_lt_syrup_pk_solliquids": {
+    "name": "Figs, cnd, lt syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Figs, cnd, lt syrup pk, sol&liquids from the USDA database."
+  },
+  "figs_cnd_hvy_syrup_pk_solliquids": {
+    "name": "Figs, cnd, hvy syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Figs, cnd, hvy syrup pk, sol&liquids from the USDA database."
+  },
+  "figs_dried_uncooked": {
+    "name": "Figs, dried, uncooked",
+    "alternative_names": [],
+    "description": "Figs, dried, uncooked from the USDA database."
+  },
+  "figs_dried_stewed": {
+    "name": "Figs, dried, stewed",
+    "alternative_names": [],
+    "description": "Figs, dried, stewed from the USDA database."
+  },
+  "grape_juc_cnd_or_btld_unswtnd_w_added_vit_c": {
+    "name": "Grape juc, cnd or btld, unswtnd, w/ added vit c",
+    "alternative_names": [],
+    "description": "Grape juc, cnd or btld, unswtnd, w/ added vit c from the USDA database."
+  },
+  "grapes_red_or_grn_raw": {
+    "name": "Grapes, red or grn (euro type, such as thompson seedless), raw",
+    "alternative_names": [],
+    "description": "Grapes, red or grn (euro type, such as thompson seedless), raw from the USDA database."
+  },
+  "grapes_cnd_thompson_seedless_h2o_pk_solliquid": {
+    "name": "Grapes, cnd, thompson seedless, h2o pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Grapes, cnd, thompson seedless, h2o pk, sol&liquids from the USDA database."
+  },
+  "grapes_cnd_thompson_seedless_hvy_syrup_pk_sol": {
+    "name": "Grapes, cnd, thompson seedless, hvy syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Grapes, cnd, thompson seedless, hvy syrup pk, sol&liquids from the USDA database."
+  },
+  "grape_juc_cnd_or_btld_unswtnd_wo_added_vit_c": {
+    "name": "Grape juc, cnd or btld, unswtnd, wo/ added vit c",
+    "alternative_names": [],
+    "description": "Grape juc, cnd or btld, unswtnd, wo/ added vit c from the USDA database."
+  },
+  "grape_juc_cocktail_frz_conc_undil_w_added_vit": {
+    "name": "Grape juc cocktail, frz conc, undil, w/ added vit c",
+    "alternative_names": [],
+    "description": "Grape juc cocktail, frz conc, undil, w/ added vit c from the USDA database."
+  },
+  "grape_juc_cocktail_frz_conc_dil_w_3_vol_h2o_w": {
+    "name": "Grape juc cocktail, frz conc, dil w/ 3 vol h2o, w/ added vit c",
+    "alternative_names": [],
+    "description": "Grape juc cocktail, frz conc, dil w/ 3 vol h2o, w/ added vit c from the USDA database."
+  },
+  "lime_juc_cnd_or_btld_unswtnd": {
+    "name": "Lime juc, cnd or btld, unswtnd",
+    "alternative_names": [],
+    "description": "Lime juc, cnd or btld, unswtnd from the USDA database."
+  },
+  "litchis_dried": {
+    "name": "Litchis, dried",
+    "alternative_names": [],
+    "description": "Litchis, dried from the USDA database."
+  },
+  "orange_juice_raw": {
+    "name": "Orange juice, raw",
+    "alternative_names": [],
+    "description": "Orange juice, raw from the USDA database."
+  },
+  "papaya_cnd_hvy_syrup_drnd": {
+    "name": "Papaya, cnd, hvy syrup, drnd",
+    "alternative_names": [],
+    "description": "Papaya, cnd, hvy syrup, drnd from the USDA database."
+  },
+  "papaya_nectar_canned": {
+    "name": "Papaya nectar, canned",
+    "alternative_names": [],
+    "description": "Papaya nectar, canned from the USDA database."
+  },
+  "passion_fruit_juc_purple_raw": {
+    "name": "Passion-fruit juc, purple, raw",
+    "alternative_names": [],
+    "description": "Passion-fruit juc, purple, raw from the USDA database."
+  },
+  "passion_fruit_juc_yel_raw": {
+    "name": "Passion-fruit juc, yel, raw",
+    "alternative_names": [],
+    "description": "Passion-fruit juc, yel, raw from the USDA database."
+  },
+  "peaches_raw": {
+    "name": "Peaches, raw",
+    "alternative_names": [],
+    "description": "Peaches, raw from the USDA database."
+  },
+  "peaches_cnd_h2o_pk_solliquids": {
+    "name": "Peaches, cnd, h2o pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Peaches, cnd, h2o pk, sol&liquids from the USDA database."
+  },
+  "peaches_cnd_juc_pk_solliquids": {
+    "name": "Peaches, cnd, juc pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Peaches, cnd, juc pk, sol&liquids from the USDA database."
+  },
+  "peaches_cnd_lt_syrup_pk_solliquids": {
+    "name": "Peaches, cnd, lt syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Peaches, cnd, lt syrup pk, sol&liquids from the USDA database."
+  },
+  "peaches_cnd_hvy_syrup_pk_solliquids": {
+    "name": "Peaches, cnd, hvy syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Peaches, cnd, hvy syrup pk, sol&liquids from the USDA database."
+  },
+  "peaches_spiced_cnd_hvy_syrup_pk_solliquids": {
+    "name": "Peaches, spiced, cnd, hvy syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Peaches, spiced, cnd, hvy syrup pk, sol&liquids from the USDA database."
+  },
+  "peaches_dried_sulfured_unckd": {
+    "name": "Peaches, dried, sulfured, unckd",
+    "alternative_names": [],
+    "description": "Peaches, dried, sulfured, unckd from the USDA database."
+  },
+  "peaches_dried_sulfured_stwd_wo_sugar": {
+    "name": "Peaches, dried, sulfured, stwd, wo/ sugar",
+    "alternative_names": [],
+    "description": "Peaches, dried, sulfured, stwd, wo/ sugar from the USDA database."
+  },
+  "peaches_frz_sliced_swtnd": {
+    "name": "Peaches, frz, sliced, swtnd",
+    "alternative_names": [],
+    "description": "Peaches, frz, sliced, swtnd from the USDA database."
+  },
+  "peach_nectar_cnd_wo_vit_c": {
+    "name": "Peach nectar, cnd, wo/ vit c",
+    "alternative_names": [],
+    "description": "Peach nectar, cnd, wo/ vit c from the USDA database."
+  },
+  "pears_cnd_h2o_pk_solliquids": {
+    "name": "Pears, cnd, h2o pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Pears, cnd, h2o pk, sol&liquids from the USDA database."
+  },
+  "pears_cnd_juc_pk_solliquids": {
+    "name": "Pears, cnd, juc pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Pears, cnd, juc pk, sol&liquids from the USDA database."
+  },
+  "pears_cnd_lt_syrup_pk_solliquids": {
+    "name": "Pears, cnd, lt syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Pears, cnd, lt syrup pk, sol&liquids from the USDA database."
+  },
+  "pears_cnd_hvy_syrup_pk_solliquids": {
+    "name": "Pears, cnd, hvy syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Pears, cnd, hvy syrup pk, sol&liquids from the USDA database."
+  },
+  "pears_dried_sulfured_unckd": {
+    "name": "Pears, dried, sulfured, unckd",
+    "alternative_names": [],
+    "description": "Pears, dried, sulfured, unckd from the USDA database."
+  },
+  "pears_dried_sulfured_stwd_wo_sugar": {
+    "name": "Pears, dried, sulfured, stwd, wo/ sugar",
+    "alternative_names": [],
+    "description": "Pears, dried, sulfured, stwd, wo/ sugar from the USDA database."
+  },
+  "pear_nectar_cnd_wo_vit_c": {
+    "name": "Pear nectar, cnd, wo/ vit c",
+    "alternative_names": [],
+    "description": "Pear nectar, cnd, wo/ vit c from the USDA database."
+  },
+  "persimmons_japanese_raw": {
+    "name": "Persimmons, japanese, raw",
+    "alternative_names": [],
+    "description": "Persimmons, japanese, raw from the USDA database."
+  },
+  "plums_raw": {
+    "name": "Plums, raw",
+    "alternative_names": [],
+    "description": "Plums, raw from the USDA database."
+  },
+  "plums_cnd_purple_h2o_pk_solliquids": {
+    "name": "Plums, cnd, purple, h2o pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Plums, cnd, purple, h2o pk, sol&liquids from the USDA database."
+  },
+  "plums_cnd_purple_juc_pk_solliquids": {
+    "name": "Plums, cnd, purple, juc pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Plums, cnd, purple, juc pk, sol&liquids from the USDA database."
+  },
+  "plums_cnd_purple_lt_syrup_pk_solliquids": {
+    "name": "Plums, cnd, purple, lt syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Plums, cnd, purple, lt syrup pk, sol&liquids from the USDA database."
+  },
+  "plums_cnd_purple_hvy_syrup_pk_solliquids": {
+    "name": "Plums, cnd, purple, hvy syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Plums, cnd, purple, hvy syrup pk, sol&liquids from the USDA database."
+  },
+  "plums_dried_unckd": {
+    "name": "Plums, dried (prunes), unckd",
+    "alternative_names": [],
+    "description": "Plums, dried (prunes), unckd from the USDA database."
+  },
+  "plums_dried_stwd_wo_added_sugar": {
+    "name": "Plums, dried (prunes), stwd, wo/ added sugar",
+    "alternative_names": [],
+    "description": "Plums, dried (prunes), stwd, wo/ added sugar from the USDA database."
+  },
+  "prune_juice_canned": {
+    "name": "Prune juice, canned",
+    "alternative_names": [],
+    "description": "Prune juice, canned from the USDA database."
+  },
+  "raspberries_raw": {
+    "name": "Raspberries, raw",
+    "alternative_names": [],
+    "description": "Raspberries, raw from the USDA database."
+  },
+  "raspberries_cnd_red_hvy_syrup_pk_solliquids": {
+    "name": "Raspberries, cnd, red, hvy syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Raspberries, cnd, red, hvy syrup pk, sol&liquids from the USDA database."
+  },
+  "raspberries_frz_red_swtnd": {
+    "name": "Raspberries, frz, red, swtnd",
+    "alternative_names": [],
+    "description": "Raspberries, frz, red, swtnd from the USDA database."
+  },
+  "strawberries_raw": {
+    "name": "Strawberries, raw",
+    "alternative_names": [],
+    "description": "Strawberries, raw from the USDA database."
+  },
+  "strawberries_cnd_hvy_syrup_pk_solliquids": {
+    "name": "Strawberries, cnd, hvy syrup pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Strawberries, cnd, hvy syrup pk, sol&liquids from the USDA database."
+  },
+  "strawberries_frz_unswtnd": {
+    "name": "Strawberries, frz, unswtnd",
+    "alternative_names": [],
+    "description": "Strawberries, frz, unswtnd from the USDA database."
+  },
+  "strawberries_frz_swtnd_whl": {
+    "name": "Strawberries, frz, swtnd, whl",
+    "alternative_names": [],
+    "description": "Strawberries, frz, swtnd, whl from the USDA database."
+  },
+  "strawberries_frz_swtnd_sliced": {
+    "name": "Strawberries, frz, swtnd, sliced",
+    "alternative_names": [],
+    "description": "Strawberries, frz, swtnd, sliced from the USDA database."
+  },
+  "maraschino_cherries_cnd_drnd": {
+    "name": "Maraschino cherries, cnd, drnd",
+    "alternative_names": [],
+    "description": "Maraschino cherries, cnd, drnd from the USDA database."
+  },
+  "pears_asian_raw": {
+    "name": "Pears, asian, raw",
+    "alternative_names": [],
+    "description": "Pears, asian, raw from the USDA database."
+  },
+  "blueberries_cnd_lt_syrup_drnd": {
+    "name": "Blueberries, cnd, lt syrup, drnd",
+    "alternative_names": [],
+    "description": "Blueberries, cnd, lt syrup, drnd from the USDA database."
+  },
+  "blueberries_wild_cnd_hvy_syrup_drnd": {
+    "name": "Blueberries, wild, cnd, hvy syrup, drnd",
+    "alternative_names": [],
+    "description": "Blueberries, wild, cnd, hvy syrup, drnd from the USDA database."
+  },
+  "apricots_cnd_hvy_syrup_drnd": {
+    "name": "Apricots, cnd, hvy syrup, drnd",
+    "alternative_names": [],
+    "description": "Apricots, cnd, hvy syrup, drnd from the USDA database."
+  },
+  "cherries_swt_cnd_pitted_hvy_syrup_drnd": {
+    "name": "Cherries, swt, cnd, pitted, hvy syrup, drnd",
+    "alternative_names": [],
+    "description": "Cherries, swt, cnd, pitted, hvy syrup, drnd from the USDA database."
+  },
+  "peaches_cnd_hvy_syrup_drnd": {
+    "name": "Peaches, cnd, hvy syrup, drnd",
+    "alternative_names": [],
+    "description": "Peaches, cnd, hvy syrup, drnd from the USDA database."
+  },
+  "pears_cnd_hvy_syrup_drnd": {
+    "name": "Pears, cnd, hvy syrup, drnd",
+    "alternative_names": [],
+    "description": "Pears, cnd, hvy syrup, drnd from the USDA database."
+  },
+  "plums_cnd_hvy_syrup_drnd": {
+    "name": "Plums, cnd, hvy syrup, drnd",
+    "alternative_names": [],
+    "description": "Plums, cnd, hvy syrup, drnd from the USDA database."
+  },
+  "pears_raw_bartlett": {
+    "name": "Pears, raw, bartlett",
+    "alternative_names": [],
+    "description": "Pears, raw, bartlett from the USDA database."
+  },
+  "usda_cmdty_mxd_fruit_cnd_lt_syrup_drnd": {
+    "name": "Usda cmdty, mxd fruit (peach, pears, grapes), cnd, lt syrup, drnd",
+    "alternative_names": [],
+    "description": "Usda cmdty, mxd fruit (peach, pears, grapes), cnd, lt syrup, drnd from the USDA database."
+  },
+  "usda_cmdty_mxd_fruit_cnd_lt_syr_sol_liq": {
+    "name": "Usda cmdty, mxd fruit (peach, pear, grape), cnd, lt syr, sol & liq",
+    "alternative_names": [],
+    "description": "Usda cmdty, mxd fruit (peach, pear, grape), cnd, lt syr, sol & liq from the USDA database."
+  },
+  "mango_nectar_cnd": {
+    "name": "Mango nectar, cnd",
+    "alternative_names": [],
+    "description": "Mango nectar, cnd from the USDA database."
+  },
+  "usda_cmdty_peaches_cnd_lt_syrup_drnd": {
+    "name": "Usda cmdty peaches, cnd, lt syrup, drnd",
+    "alternative_names": [],
+    "description": "Usda cmdty peaches, cnd, lt syrup, drnd from the USDA database."
+  },
+  "usda_cmdty_pears_cnd_juc_pk_drnd": {
+    "name": "Usda cmdty pears, cnd, juc pk, drnd",
+    "alternative_names": [],
+    "description": "Usda cmdty pears, cnd, juc pk, drnd from the USDA database."
+  },
+  "usda_cmdty_pears_cnd_lt_syrup_drnd": {
+    "name": "Usda cmdty pears, cnd, lt syrup, drnd",
+    "alternative_names": [],
+    "description": "Usda cmdty pears, cnd, lt syrup, drnd from the USDA database."
+  },
+  "pomegranate_juc_btld": {
+    "name": "Pomegranate juc, btld",
+    "alternative_names": [],
+    "description": "Pomegranate juc, btld from the USDA database."
+  },
+  "juice_appl_grape_blend_w_added_vit_c": {
+    "name": "Juice, appl & grape blend, w/ added vit c",
+    "alternative_names": [],
+    "description": "Juice, appl & grape blend, w/ added vit c from the USDA database."
+  },
+  "apples_raw_golden_delicious_w_skn": {
+    "name": "Apples, raw, golden delicious, w/ skn",
+    "alternative_names": [],
+    "description": "Apples, raw, golden delicious, w/ skn from the USDA database."
+  },
+  "balsam_pear_leafy_tips_ckd_bld_drnd_wosalt": {
+    "name": "Balsam-pear (bitter gourd), leafy tips, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Balsam-pear (bitter gourd), leafy tips, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "balsam_pear_pods_ckd_bld_drnd_wosalt": {
+    "name": "Balsam-pear (bitter gourd), pods, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Balsam-pear (bitter gourd), pods, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "balsam_pear_leafy_tips_ckd_bld_drnd_wsalt": {
+    "name": "Balsam-pear (bitter gourd), leafy tips, ckd, bld, drnd, w/salt",
+    "alternative_names": [],
+    "description": "Balsam-pear (bitter gourd), leafy tips, ckd, bld, drnd, w/salt from the USDA database."
+  },
+  "balsam_pear_pods_ckd_bld_drnd_wsalt": {
+    "name": "Balsam-pear (bitter gourd), pods, ckd, bld, drnd, w/salt",
+    "alternative_names": [],
+    "description": "Balsam-pear (bitter gourd), pods, ckd, bld, drnd, w/salt from the USDA database."
+  },
+  "grape_leaves_raw": {
+    "name": "Grape leaves, raw",
+    "alternative_names": [],
+    "description": "Grape leaves, raw from the USDA database."
+  },
+  "grape_leaves_cnd": {
+    "name": "Grape leaves, cnd",
+    "alternative_names": [],
+    "description": "Grape leaves, cnd from the USDA database."
+  },
+  "cranberry_apple_juc_drk_btld": {
+    "name": "Cranberry-apple juc drk, btld",
+    "alternative_names": [],
+    "description": "Cranberry-apple juc drk, btld from the USDA database."
+  },
+  "cranberry_juc_cocktail_btld": {
+    "name": "Cranberry juc cocktail, btld",
+    "alternative_names": [],
+    "description": "Cranberry juc cocktail, btld from the USDA database."
+  },
+  "grape_juice_drink_canned": {
+    "name": "Grape juice drink, canned",
+    "alternative_names": [],
+    "description": "Grape juice drink, canned from the USDA database."
+  },
+  "orangeapricot_juc_drk_cnd": {
+    "name": "Orange&apricot juc drk, cnd",
+    "alternative_names": [],
+    "description": "Orange&apricot juc drk, cnd from the USDA database."
+  },
+  "muffins_blueberry_commly_prep": {
+    "name": "Muffins, blueberry, commly prep (includes mini-muffins)",
+    "alternative_names": [],
+    "description": "Muffins, blueberry, commly prep (includes mini-muffins) from the USDA database."
+  },
+  "muffins_blueberry_toaster_type": {
+    "name": "Muffins, blueberry, toaster-type",
+    "alternative_names": [],
+    "description": "Muffins, blueberry, toaster-type from the USDA database."
+  },
+  "strudel_apple": {
+    "name": "Strudel, apple",
+    "alternative_names": [],
+    "description": "Strudel, apple from the USDA database."
+  },
+  "muffins_blueberry_toaster_type_tstd": {
+    "name": "Muffins, blueberry, toaster-type, tstd",
+    "alternative_names": [],
+    "description": "Muffins, blueberry, toaster-type, tstd from the USDA database."
+  },
+  "tstr_pstrs_frt_tstd": {
+    "name": "Tstr pstrs, frt, tstd (incl appl, blueberry, cherry, strawberry)",
+    "alternative_names": [],
+    "description": "Tstr pstrs, frt, tstd (incl appl, blueberry, cherry, strawberry) from the USDA database."
+  },
+  "toppings_strawberry": {
+    "name": "Toppings, strawberry",
+    "alternative_names": [],
+    "description": "Toppings, strawberry from the USDA database."
+  },
+  "fruit_butters_apple": {
+    "name": "Fruit butters, apple",
+    "alternative_names": [],
+    "description": "Fruit butters, apple from the USDA database."
+  },
+  "blackberries_wild_raw": {
+    "name": "Blackberries, wild, raw (alaska native)",
+    "alternative_names": [],
+    "description": "Blackberries, wild, raw (alaska native) from the USDA database."
+  },
+  "blueberries_wild_raw": {
+    "name": "Blueberries, wild, raw (alaska native)",
+    "alternative_names": [],
+    "description": "Blueberries, wild, raw (alaska native) from the USDA database."
+  },
+  "raspberries_wild": {
+    "name": "Raspberries, wild (northern plains indians)",
+    "alternative_names": [],
+    "description": "Raspberries, wild (northern plains indians) from the USDA database."
+  },
+  "plums_wild": {
+    "name": "Plums, wild (northern plains indians)",
+    "alternative_names": [],
+    "description": "Plums, wild (northern plains indians) from the USDA database."
+  },
+  "cranberry_juc_unswtnd": {
+    "name": "Cranberry juc, unswtnd",
+    "alternative_names": [],
+    "description": "Cranberry juc, unswtnd from the USDA database."
+  },
+  "cranberry_apple_juc_drk_lo_cal_wvit_c": {
+    "name": "Cranberry-apple juc drk, lo cal, w/vit c",
+    "alternative_names": [],
+    "description": "Cranberry-apple juc drk, lo cal, w/vit c from the USDA database."
+  }
+}

@@ -1,0 +1,58 @@
+name: Deploy Release to GitHub Pages
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Generate Release Manifest
+      env:
+        GITHUB_REF_NAME: ${{ github.event.release.tag_name }}
+      run: python scripts/generate_release_manifest.py
+
+    - name: Prepare build directory
+      run: |
+        mkdir dist
+        cp -r data dist/
+        cp release_manifest.json dist/
+        cp index.html dist/
+        touch dist/.nojekyll
+
+
+    - name: Upload Pages Artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./dist
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
+

@@ -1,0 +1,2947 @@
+{
+  "barley_flour_or_meal": {
+    "name": "Jačmenná múka alebo krupica",
+    "alternative_names": [],
+    "description": "Jačmenná múka alebo krupica podľa databázy USDA."
+  },
+  "biscuits_plain_or_buttermilk_refrigerate": {
+    "name": "Sušienky, hladké alebo cmar, chladené cesto, vyšší obsah tuku",
+    "alternative_names": [],
+    "description": "Sušienky, hladké alebo cmar, chladené cesto, vyšší obsah tuku podľa databázy USDA."
+  },
+  "bread_cheese": {
+    "name": "Chlieb, syr",
+    "alternative_names": [],
+    "description": "Chlieb, syr podľa databázy USDA."
+  },
+  "bread_french_or_vienna_toasted": {
+    "name": "Chlieb, francúzsky alebo viedenský, toastový (vrátane kysnutého cesta)",
+    "alternative_names": [],
+    "description": "Chlieb, francúzsky alebo viedenský, toastový (vrátane kysnutého cesta) podľa databázy USDA."
+  },
+  "bread_oat_bran": {
+    "name": "Chlieb, ovsené otruby",
+    "alternative_names": [],
+    "description": "Chlieb, ovsené otruby podľa databázy USDA."
+  },
+  "bread_oatmeal_toasted": {
+    "name": "Chlieb, ovsené vločky, toasty",
+    "alternative_names": [],
+    "description": "Chlieb, ovsené vločky, toasty podľa databázy USDA."
+  },
+  "bread_pan_dulce_sweet_yeast_bread": {
+    "name": "Chlieb, panvica dulce, sladký kvasnicový chlieb",
+    "alternative_names": [],
+    "description": "Chlieb, panvica dulce, sladký kvasnicový chlieb podľa databázy USDA."
+  },
+  "bread_protein": {
+    "name": "Chlieb, bielkoviny (obsahuje lepok)",
+    "alternative_names": [],
+    "description": "Chlieb, bielkoviny (obsahuje lepok) podľa databázy USDA."
+  },
+  "bread_reduced_calorie_wheat": {
+    "name": "Chlieb, nízkokalorický, pšenica",
+    "alternative_names": [],
+    "description": "Chlieb, nízkokalorický, pšenica podľa databázy USDA."
+  },
+  "bread_reduced_calorie_white": {
+    "name": "Chlieb, nízkokalorický, biely",
+    "alternative_names": [],
+    "description": "Chlieb, nízkokalorický, biely podľa databázy USDA."
+  },
+  "bread_rye": {
+    "name": "Chlieb, raž",
+    "alternative_names": [],
+    "description": "Chlieb, raž podľa databázy USDA."
+  },
+  "bread_salvadoran_sweet_cheese": {
+    "name": "Chlieb, salvadorský sladký syr (quesadilla salvadorena)",
+    "alternative_names": [],
+    "description": "Chlieb, salvadorský sladký syr (quesadilla salvadorena) podľa databázy USDA."
+  },
+  "bread_stuffing_cornbread_dry_mix_prepare": {
+    "name": "Chlieb, plnka, kukuričný chlieb, suchá zmes, pripravené",
+    "alternative_names": [],
+    "description": "Chlieb, plnka, kukuričný chlieb, suchá zmes, pripravené podľa databázy USDA."
+  },
+  "bread_stuffing_dry_mix": {
+    "name": "Chlieb, plnka, suchá zmes",
+    "alternative_names": [],
+    "description": "Chlieb, plnka, suchá zmes podľa databázy USDA."
+  },
+  "bread_wheat": {
+    "name": "Chlieb, pšenica",
+    "alternative_names": [],
+    "description": "Chlieb, pšenica podľa databázy USDA."
+  },
+  "bread_white_commercially_prepared_toaste": {
+    "name": "Chlieb, biely, komerčne pripravený, opekaný",
+    "alternative_names": [],
+    "description": "Chlieb, biely, komerčne pripravený, opekaný podľa databázy USDA."
+  },
+  "bread_white_wheat": {
+    "name": "Chlieb, biela pšenica",
+    "alternative_names": [],
+    "description": "Chlieb, biela pšenica podľa databázy USDA."
+  },
+  "bread_whole_wheat_commercially_prepared": {
+    "name": "Chlieb, celozrnný, komerčne pripravený",
+    "alternative_names": [],
+    "description": "Chlieb, celozrnný, komerčne pripravený podľa databázy USDA."
+  },
+  "cereals_cream_of_wheat_instant_dry": {
+    "name": "Cereálie, PŠENIČNÝ KRÉM, instantný, suchý",
+    "alternative_names": [],
+    "description": "Cereálie, PŠENIČNÝ KRÉM, instantný, suchý podľa databázy USDA."
+  },
+  "cereals_cream_of_wheat_instant_prepared": {
+    "name": "Cereálie, PŠENIČNÝ KRÉM, instantný, pripravený s vodou, bez soli",
+    "alternative_names": [],
+    "description": "Cereálie, PŠENIČNÝ KRÉM, instantný, pripravený s vodou, bez soli podľa databázy USDA."
+  },
+  "cereals_oats_instant_fortified_with_rais": {
+    "name": "Obilniny, ovos, instantné, obohatené, s hrozienkami a korením, pripravené s vodou",
+    "alternative_names": [],
+    "description": "Obilniny, ovos, instantné, obohatené, s hrozienkami a korením, pripravené s vodou podľa databázy USDA."
+  },
+  "cereals_quaker_quaker_multigrain_oatmeal": {
+    "name": "Cereálie, QUAKER, QUAKER Viaczrnné ovsené vločky, suché",
+    "alternative_names": [],
+    "description": "Cereálie, QUAKER, QUAKER Viaczrnné ovsené vločky, suché podľa databázy USDA."
+  },
+  "cereals_ready_to_eat_barbaras_puffins_or": {
+    "name": "Cereálie na priamu spotrebu, BARBARINÉ PUFFÍNY, originál",
+    "alternative_names": [],
+    "description": "Cereálie na priamu spotrebu, BARBARINÉ PUFFÍNY, originál podľa databázy USDA."
+  },
+  "cereals_ready_to_eat_granola_homemade": {
+    "name": "Cereálie na priamu spotrebu, granola, domáce",
+    "alternative_names": [],
+    "description": "Cereálie na priamu spotrebu, granola, domáce podľa databázy USDA."
+  },
+  "cereals_ready_to_eat_natures_path_organi": {
+    "name": "Cereálie na priamu spotrebu, CESTA PRÍRODY, BIO FLAX PLUS vločky",
+    "alternative_names": [],
+    "description": "Cereálie na priamu spotrebu, CESTA PRÍRODY, BIO FLAX PLUS vločky podľa databázy USDA."
+  },
+  "cereals_ready_to_eat_post_cocoa_pebbles": {
+    "name": "Obilniny na priamu spotrebu, POST, KAKAOVÉ KAMENE",
+    "alternative_names": [],
+    "description": "Obilniny na priamu spotrebu, POST, KAKAOVÉ KAMENE podľa databázy USDA."
+  },
+  "cereals_ready_to_eat_post_honey_bunches": {
+    "name": "Cereálie na priamu spotrebu, POST, MEDOVÉ ZÁVESKY OVSA so zväzkami vanilky",
+    "alternative_names": [],
+    "description": "Cereálie na priamu spotrebu, POST, MEDOVÉ ZÁVESKY OVSA so zväzkami vanilky podľa databázy USDA."
+  },
+  "cereals_ready_to_eat_post_honeycomb_cere": {
+    "name": "Cereálie na priamu spotrebu, POST, Honeycomb Cereal",
+    "alternative_names": [],
+    "description": "Cereálie na priamu spotrebu, POST, Honeycomb Cereal podľa databázy USDA."
+  },
+  "cereals_ready_to_eat_post_shredded_wheat": {
+    "name": "Cereálie na priamu spotrebu, POST, strúhaná pšenica, originálna veľkosť lyžice",
+    "alternative_names": [],
+    "description": "Cereálie na priamu spotrebu, POST, strúhaná pšenica, originálna veľkosť lyžice podľa databázy USDA."
+  },
+  "cereals_ready_to_eat_quaker_quaker_crunc": {
+    "name": "Cereálie na priamu spotrebu, QUAKER, QUAKER CRUNCHY BRAN",
+    "alternative_names": [],
+    "description": "Cereálie na priamu spotrebu, QUAKER, QUAKER CRUNCHY BRAN podľa databázy USDA."
+  },
+  "cereals_ready_to_eat_quaker_quaker_oat_l": {
+    "name": "Obilniny na priamu spotrebu, QUAKER, QUAKER OAT LIFE, obyčajné",
+    "alternative_names": [],
+    "description": "Obilniny na priamu spotrebu, QUAKER, QUAKER OAT LIFE, obyčajné podľa databázy USDA."
+  },
+  "cereals_ready_to_eat_quaker_quaker_puffe": {
+    "name": "Cereálie na priamu spotrebu, QUAKER, QUAKER pufovaná pšenica",
+    "alternative_names": [],
+    "description": "Cereálie na priamu spotrebu, QUAKER, QUAKER pufovaná pšenica podľa databázy USDA."
+  },
+  "cookies_chocolate_chip_commercially_prep": {
+    "name": "Sušienky, čokoládové lupienky, komerčne pripravené, bežné, s nízkym obsahom tuku",
+    "alternative_names": [],
+    "description": "Sušienky, čokoládové lupienky, komerčne pripravené, bežné, s nízkym obsahom tuku podľa databázy USDA."
+  },
+  "cookies_chocolate_sandwich_with_creme_fi": {
+    "name": "Sušienky, čokoládový sendvič, s krémovou náplňou, špeciál",
+    "alternative_names": [],
+    "description": "Sušienky, čokoládový sendvič, s krémovou náplňou, špeciál podľa databázy USDA."
+  },
+  "cookies_chocolate_sandwich_with_extra_cr": {
+    "name": "Sušienky, čokoládový sendvič s extra krémovou náplňou",
+    "alternative_names": [],
+    "description": "Sušienky, čokoládový sendvič s extra krémovou náplňou podľa databázy USDA."
+  },
+  "cookies_chocolate_wafers": {
+    "name": "Sušienky, čokoládové oblátky",
+    "alternative_names": [],
+    "description": "Sušienky, čokoládové oblátky podľa databázy USDA."
+  },
+  "cookies_oatmeal_commercially_prepared_re": {
+    "name": "Sušienky, ovsené vločky, komerčne pripravené, bežné",
+    "alternative_names": [],
+    "description": "Sušienky, ovsené vločky, komerčne pripravené, bežné podľa databázy USDA."
+  },
+  "cookies_oatmeal_commercially_prepared_sp": {
+    "name": "Sušienky, ovsené vločky, komerčne pripravené, špeciálne diétne",
+    "alternative_names": [],
+    "description": "Sušienky, ovsené vločky, komerčne pripravené, špeciálne diétne podľa databázy USDA."
+  },
+  "cookies_peanut_butter_sandwich_regular": {
+    "name": "Sušienky, sendvič s arašidovým maslom, obyčajný",
+    "alternative_names": [],
+    "description": "Sušienky, sendvič s arašidovým maslom, obyčajný podľa databázy USDA."
+  },
+  "cookies_vanilla_sandwich_with_creme_fill": {
+    "name": "Sušienky, vanilkový sendvič s krémovou náplňou",
+    "alternative_names": [],
+    "description": "Sušienky, vanilkový sendvič s krémovou náplňou podľa databázy USDA."
+  },
+  "corn_sweet_yellow_frozen_kernels_cut_off": {
+    "name": "Kukurica, sladká, žltá, mrazená, jadrá odrezané klasy, varené, scedené, bez soli",
+    "alternative_names": [],
+    "description": "Kukurica, sladká, žltá, mrazená, jadrá odrezané klasy, varené, scedené, bez soli podľa databázy USDA."
+  },
+  "cracker_meal": {
+    "name": "Kreker, jedlo",
+    "alternative_names": [],
+    "description": "Kreker, jedlo podľa databázy USDA."
+  },
+  "crackers_cheese_sandwich_type_with_chees": {
+    "name": "Krekry, syrové, sendvičového typu so syrovou náplňou",
+    "alternative_names": [],
+    "description": "Krekry, syrové, sendvičového typu so syrovou náplňou podľa databázy USDA."
+  },
+  "crackers_saltines_whole_wheat": {
+    "name": "Krekry, slané tyčinky, celozrnná pšenica (vrátane viaczrnných)",
+    "alternative_names": [],
+    "description": "Krekry, slané tyčinky, celozrnná pšenica (vrátane viaczrnných) podľa databázy USDA."
+  },
+  "crackers_standard_snack_type_sandwich_wi": {
+    "name": "Krekry, štandardný snack typu, sendvičové, s arašidmi",
+    "alternative_names": [],
+    "description": "Krekry, štandardný snack typu, sendvičové, s arašidmi podľa databázy USDA."
+  },
+  "crackers_wheat_regular": {
+    "name": "Krekry, pšeničné, bežné",
+    "alternative_names": [],
+    "description": "Krekry, pšeničné, bežné podľa databázy USDA."
+  },
+  "croutons_seasoned": {
+    "name": "Krutóny, korenené",
+    "alternative_names": [],
+    "description": "Krutóny, korenené podľa databázy USDA."
+  },
+  "danish_pastry_cheese": {
+    "name": "Dánske pečivo, syr",
+    "alternative_names": [],
+    "description": "Dánske pečivo, syr podľa databázy USDA."
+  },
+  "danish_pastry_cinnamon_enriched": {
+    "name": "Dánske pečivo, škorica, obohatené",
+    "alternative_names": [],
+    "description": "Dánske pečivo, škorica, obohatené podľa databázy USDA."
+  },
+  "fast_foods_croissant_with_egg_cheese_and": {
+    "name": "Rýchle občerstvenie, croissant, s vajcom, syrom a šunkou",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, croissant, s vajcom, syrom a šunkou podľa databázy USDA."
+  },
+  "focaccia_italian_flatbread_plain": {
+    "name": "Focaccia, talianska placka, hladká",
+    "alternative_names": [],
+    "description": "Focaccia, talianska placka, hladká podľa databázy USDA."
+  },
+  "garlic_bread_frozen": {
+    "name": "Cesnakový chlieb, mrazený",
+    "alternative_names": [],
+    "description": "Cesnakový chlieb, mrazený podľa databázy USDA."
+  },
+  "macaroni_vegetable_enriched_cooked": {
+    "name": "Makaróny, zeleninové, obohatené, varené",
+    "alternative_names": [],
+    "description": "Makaróny, zeleninové, obohatené, varené podľa databázy USDA."
+  },
+  "noodles_egg_dry_unenriched": {
+    "name": "Rezance, vajcia, suché, neobohatené",
+    "alternative_names": [],
+    "description": "Rezance, vajcia, suché, neobohatené podľa databázy USDA."
+  },
+  "noodles_egg_spinach_enriched_cooked": {
+    "name": "Rezance, vajcia, špenát, obohatené, varené",
+    "alternative_names": [],
+    "description": "Rezance, vajcia, špenát, obohatené, varené podľa databázy USDA."
+  },
+  "oat_flour_partially_debranned": {
+    "name": "Ovsená múka, čiastočne zbavená vetvičiek",
+    "alternative_names": [],
+    "description": "Ovsená múka, čiastočne zbavená vetvičiek podľa databázy USDA."
+  },
+  "pancakes_buckwheat_dry_mix_incomplete": {
+    "name": "Palacinky, pohánka, suchá zmes, nekompletné",
+    "alternative_names": [],
+    "description": "Palacinky, pohánka, suchá zmes, nekompletné podľa databázy USDA."
+  },
+  "pancakes_plain_frozen_ready_to_heat_micr": {
+    "name": "Palacinky, hladké, mrazené, pripravené na ohrievanie, do mikrovlnnej rúry (vrátane cmaru)",
+    "alternative_names": [],
+    "description": "Palacinky, hladké, mrazené, pripravené na ohrievanie, do mikrovlnnej rúry (vrátane cmaru) podľa databázy USDA."
+  },
+  "pasta_dry_enriched": {
+    "name": "Cestoviny, suché, obohatené",
+    "alternative_names": [],
+    "description": "Cestoviny, suché, obohatené podľa databázy USDA."
+  },
+  "pasta_dry_unenriched": {
+    "name": "Cestoviny, suché, neobohatené",
+    "alternative_names": [],
+    "description": "Cestoviny, suché, neobohatené podľa databázy USDA."
+  },
+  "pasta_whole_wheat_dry": {
+    "name": "Cestoviny, celozrnné, suché (zahŕňa potraviny pre program distribúcie potravín USDA)",
+    "alternative_names": [],
+    "description": "Cestoviny, celozrnné, suché (zahŕňa potraviny pre program distribúcie potravín USDA) podľa databázy USDA."
+  },
+  "pie_banana_cream_prepared_from_recipe": {
+    "name": "Koláč, banánový krém, pripravený podľa receptu",
+    "alternative_names": [],
+    "description": "Koláč, banánový krém, pripravený podľa receptu podľa databázy USDA."
+  },
+  "pie_blueberry_commercially_prepared": {
+    "name": "Koláč, čučoriedkový, komerčne pripravený",
+    "alternative_names": [],
+    "description": "Koláč, čučoriedkový, komerčne pripravený podľa databázy USDA."
+  },
+  "pie_cherry_commercially_prepared": {
+    "name": "Koláč, čerešňa, komerčne pripravený",
+    "alternative_names": [],
+    "description": "Koláč, čerešňa, komerčne pripravený podľa databázy USDA."
+  },
+  "pie_crust_cookie_type_chocolate_ready_cr": {
+    "name": "Koláčová kôrka, sušienka, čokoláda, hotová kôrka",
+    "alternative_names": [],
+    "description": "Koláčová kôrka, sušienka, čokoláda, hotová kôrka podľa databázy USDA."
+  },
+  "pie_fried_pies_fruit": {
+    "name": "Koláč, vyprážané koláče, ovocie",
+    "alternative_names": [],
+    "description": "Koláč, vyprážané koláče, ovocie podľa databázy USDA."
+  },
+  "popcorn_sugar_syrupcaramel_fat_free": {
+    "name": "Popcorn, cukrový sirup/karamel, bez tuku",
+    "alternative_names": [],
+    "description": "Popcorn, cukrový sirup/karamel, bez tuku podľa databázy USDA."
+  },
+  "puddings_rice_ready_to_eat": {
+    "name": "Pudingy, ryža, hotové na priamu spotrebu",
+    "alternative_names": [],
+    "description": "Pudingy, ryža, hotové na priamu spotrebu podľa databázy USDA."
+  },
+  "rice_white_long_grain_regular_raw_unenri": {
+    "name": "Ryža, biela, dlhozrnná, pravidelná, surová, neobohatená",
+    "alternative_names": [],
+    "description": "Ryža, biela, dlhozrnná, pravidelná, surová, neobohatená podľa databázy USDA."
+  },
+  "sorghum_flour_whole_grain": {
+    "name": "Ciroková múka, celozrnná",
+    "alternative_names": [],
+    "description": "Ciroková múka, celozrnná podľa databázy USDA."
+  },
+  "wheat_flour_white_all_purpose_unenriched": {
+    "name": "Pšeničná múka, biela, viacúčelová, neobohatená",
+    "alternative_names": [],
+    "description": "Pšeničná múka, biela, viacúčelová, neobohatená podľa databázy USDA."
+  },
+  "wheat_flour_white_bread_enriched": {
+    "name": "Pšeničná múka, biela, chlebová, obohatená",
+    "alternative_names": [],
+    "description": "Pšeničná múka, biela, chlebová, obohatená podľa databázy USDA."
+  },
+  "ice_crm_cookie_sndwch": {
+    "name": "Ice crm cookie sndwch",
+    "alternative_names": [],
+    "description": "Ice crm cookie sndwch z databázy USDA."
+  },
+  "pumpkin_pie_spice": {
+    "name": "Korenie na tekvicový koláč",
+    "alternative_names": [],
+    "description": "Korenie na tekvicový koláč z databázy USDA."
+  },
+  "babyfood_cookie_baby_fruit": {
+    "name": "Detská výživa, sušienky, bábätká, ovocie",
+    "alternative_names": [],
+    "description": "Detská výživa, sušienky, bábätká, ovocie z databázy USDA."
+  },
+  "babyfood_crackers_veg": {
+    "name": "Detská výživa, krekry, zelenina",
+    "alternative_names": [],
+    "description": "Detská výživa, krekry, zelenina z databázy USDA."
+  },
+  "babyfood_cookies": {
+    "name": "Detská výživa, sušienky",
+    "alternative_names": [],
+    "description": "Detská výživa, sušienky z databázy USDA."
+  },
+  "babyfood_cookies_arrowroot": {
+    "name": "Detská výživa, sušienky, šípky",
+    "alternative_names": [],
+    "description": "Detská výživa, sušienky, šípky z databázy USDA."
+  },
+  "oil_rice_bran": {
+    "name": "Olej, ryžové otruby",
+    "alternative_names": [],
+    "description": "Olej, ryžové otruby z databázy USDA."
+  },
+  "oil_wheat_germ": {
+    "name": "Olej, pšeničné klíčky",
+    "alternative_names": [],
+    "description": "Olej, pšeničné klíčky z databázy USDA."
+  },
+  "oil_corn_industrial_rtl_allpurp_salad_or_cook": {
+    "name": "Olej, kukurica, priemyselný a rtl, celopurový šalát alebo varenie",
+    "alternative_names": [],
+    "description": "Olej, kukurica, priemyselný a rtl, celopurový šalát alebo varenie z databázy USDA."
+  },
+  "margarine_80_fat_stk_incl_reg_hydr_corn_soybn": {
+    "name": "Margarín, 80% tuku, stk, vrátane reg & hydr kukuričného a sójového oleja",
+    "alternative_names": [],
+    "description": "Margarín, 80% tuku, stk, vrátane reg & hydr kukuričného a sójového oleja z databázy USDA."
+  },
+  "oil_industrial_soy_for_popcorn_flavoring_veg": {
+    "name": "Olej, priemyselný, sójový (part hydr), na popcorn a ochutenie zeleniny",
+    "alternative_names": [],
+    "description": "Olej, priemyselný, sójový (part hydr), na popcorn a ochutenie zeleniny z databázy USDA."
+  },
+  "shortening_industrial_soy_corn_for_frying": {
+    "name": "Tuk, priemyselný, sójový (čiastočne hydr )&kukurica na vyprážanie",
+    "alternative_names": [],
+    "description": "Tuk, priemyselný, sójový (čiastočne hydr )&kukurica na vyprážanie z databázy USDA."
+  },
+  "healthy_request_chick_w_rice_cond": {
+    "name": "Zdravá požiadavka, kura s ryžou, kond",
+    "alternative_names": [],
+    "description": "Zdravá požiadavka, kura s ryžou, kond z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_all_bran_origina": {
+    "name": "Obilniny rte, kellogg, kellogg's all-otrub original",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's all-otrub original z databázy USDA."
+  },
+  "cereals_rte_post_alpha_bits": {
+    "name": "Obilniny rte, post, alfa-bity",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, alfa-bity z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_appl_jacks": {
+    "name": "Obilniny rte, kellogg, kellogg's appl jacks",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's appl jacks z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_all_bran_bran_bu": {
+    "name": "Obilniny rte, kellogg, púčiky celootrubových kelloggových otrúb",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, púčiky celootrubových kelloggových otrúb z databázy USDA."
+  },
+  "cereals_rte_quaker_capn_crunch": {
+    "name": "Obilniny rte, quaker, cap'n crunch",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, cap'n crunch z databázy USDA."
+  },
+  "cereals_rte_quaker_capn_crunch_w_crunchberrie": {
+    "name": "Obilniny rte, quaker, cap'n crunch w/ crunchberries",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, cap'n crunch w/ crunchberries z databázy USDA."
+  },
+  "cereals_rte_quaker_capn_crunchs_pnut_butter_c": {
+    "name": "Cereálie rte, quaker, cap'n crunch's pnut butter crunch",
+    "alternative_names": [],
+    "description": "Cereálie rte, quaker, cap'n crunch's pnut butter crunch z databázy USDA."
+  },
+  "cereals_rte_general_mills_cheerios": {
+    "name": "Obilniny rte, všeobecné mlyny, cheerios",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, cheerios z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_cocoa_krispies": {
+    "name": "Obilniny rte, kellogg, kelloggove kakaové krispies",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kelloggove kakaové krispies z databázy USDA."
+  },
+  "cereals_rte_post_cocoa_pebbles": {
+    "name": "Obilniny rte, post, kakaové kamienky",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, kakaové kamienky z databázy USDA."
+  },
+  "cereals_rte_general_mills_cookie_crisp": {
+    "name": "Obilniny rte, obyčajné mlynčeky, sušienky chrumkavé",
+    "alternative_names": [],
+    "description": "Obilniny rte, obyčajné mlynčeky, sušienky chrumkavé z databázy USDA."
+  },
+  "cereals_rte_quaker_quaker_crunchy_bran": {
+    "name": "Obilniny rte, quaker, quaker chrumkavé otruby",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, quaker chrumkavé otruby z databázy USDA."
+  },
+  "cereals_rte_general_mills_corn_chex": {
+    "name": "Obilniny rte, všeobecné mlyny kukurice chex",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny kukurice chex z databázy USDA."
+  },
+  "cereals_rte_corn_flakes_lo_na": {
+    "name": "Obilniny rte, corn flakes, lo na",
+    "alternative_names": [],
+    "description": "Obilniny rte, corn flakes, lo na z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_cracklin_oat_bra": {
+    "name": "Obilniny rte, kellogg, kellogg's cracklin' ovsené otruby",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's cracklin' ovsené otruby z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_all_bran_complet": {
+    "name": "Obilniny rte, kellogg, kelloggove celootrubové kompletné pšeničné vločky",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kelloggove celootrubové kompletné pšeničné vločky z databázy USDA."
+  },
+  "cereals_rte_bran_flakes_single_brand": {
+    "name": "Obilniny rte, otrubové vločky, jedna značka",
+    "alternative_names": [],
+    "description": "Obilniny rte, otrubové vločky, jedna značka z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_froot_loops": {
+    "name": "Obilniny rte, kellogg, kelloggove slučky",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kelloggove slučky z databázy USDA."
+  },
+  "cereals_rte_kelloggs_frstd_mini_wheats_big_bi": {
+    "name": "Obilniny rte, kellogg's frstd minipšenice, veľké sústo",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg's frstd minipšenice, veľké sústo z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_frstd_rice_krisp": {
+    "name": "Obilniny rte, kellogg, kellogg's frstd ryžové krispies",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's frstd ryžové krispies z databázy USDA."
+  },
+  "cereals_rte_post_fruity_pebbles": {
+    "name": "Obilniny rte, post, ovocné kamienky",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, ovocné kamienky z databázy USDA."
+  },
+  "cereals_rte_general_mills_golden_grahams": {
+    "name": "Obilniny rte, všeobecné mlyny, zlaté grahamy",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, zlaté grahamy z databázy USDA."
+  },
+  "cereals_rte_granola_homemade": {
+    "name": "Cereálie rte, granola, domáce",
+    "alternative_names": [],
+    "description": "Cereálie rte, granola, domáce z databázy USDA."
+  },
+  "cereals_rte_post_grape_nuts_crl": {
+    "name": "Obilniny rte, post, hroznové orechy crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, hroznové orechy crl z databázy USDA."
+  },
+  "cereals_rte_post_grape_nuts_flakes": {
+    "name": "Obilniny rte, post, vločky z hroznových orechov",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, vločky z hroznových orechov z databázy USDA."
+  },
+  "cereals_rte_general_mills_honey_nut_cheerios": {
+    "name": "Obilniny rte, všeobecné mlyny, medové orechy cheerios",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, medové orechy cheerios z databázy USDA."
+  },
+  "cereals_rte_post_honeycomb_crl": {
+    "name": "Cereálie rte, post, plást crl",
+    "alternative_names": [],
+    "description": "Cereálie rte, post, plást crl z databázy USDA."
+  },
+  "cereals_rte_quaker_king_vitaman": {
+    "name": "Obilniny rte, quaker, king vitaman",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, king vitaman z databázy USDA."
+  },
+  "cereals_rte_general_mills_kix": {
+    "name": "Obilniny rte, všeobecné mlyny, kix",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, kix z databázy USDA."
+  },
+  "cereals_rte_quaker_quaker_oat_life_pln": {
+    "name": "Obilniny rte, kvaker, kvaker ovsa zivot, pln",
+    "alternative_names": [],
+    "description": "Obilniny rte, kvaker, kvaker ovsa zivot, pln z databázy USDA."
+  },
+  "cereals_rte_general_mills_lucky_charms": {
+    "name": "Obilniny rte, všeobecné mlyny, talizmany",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, talizmany z databázy USDA."
+  },
+  "cereals_rte_quaker_100_nat_granola_oats_wheat": {
+    "name": "Obilniny rte, kvaker, 100% nat granola, ovos, pšenica a med",
+    "alternative_names": [],
+    "description": "Obilniny rte, kvaker, 100% nat granola, ovos, pšenica a med z databázy USDA."
+  },
+  "cereals_rte_general_mills_honey_nut_chex": {
+    "name": "Obilniny rte, všeobecné mlyny, med orechový chex",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, med orechový chex z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_product_19": {
+    "name": "Obilniny rte, kellogg, kellogg's product 19",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's product 19 z databázy USDA."
+  },
+  "cereals_rte_quaker_swt_crunchquisp": {
+    "name": "Obilniny rte, quaker, swt crunch/quisp",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, swt crunch/quisp z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_raisin_bran": {
+    "name": "Obilniny rte, kellogg, kelloggove hrozienkové otruby",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kelloggove hrozienkové otruby z databázy USDA."
+  },
+  "cereals_rte_post_raisin_bran_crl": {
+    "name": "Cereálie rte, post hrozienkové otruby crl",
+    "alternative_names": [],
+    "description": "Cereálie rte, post hrozienkové otruby crl z databázy USDA."
+  },
+  "cereals_rte_general_mills_rice_chex": {
+    "name": "Obilniny rte, všeobecné mlyny, ryža chex",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, ryža chex z databázy USDA."
+  },
+  "cereals_rte_quaker_quaker_puffed_rice": {
+    "name": "Obilniny rte, quaker, quaker pufovaná ryža",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, quaker pufovaná ryža z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_spl_k": {
+    "name": "Obilniny rte, kellogg, kellogg's spl k",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's spl k z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_frstd_flakes": {
+    "name": "Obilniny rte, kellogg, kellogg's frstd vločky",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's frstd vločky z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_honey_smacks": {
+    "name": "Obilniny rte, kellogg, kellogg's med smacks",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's med smacks z databázy USDA."
+  },
+  "cereals_rte_post_golden_crisp": {
+    "name": "Cereálie rte, post, zlaté chrumkavé",
+    "alternative_names": [],
+    "description": "Cereálie rte, post, zlaté chrumkavé z databázy USDA."
+  },
+  "cereals_rte_ralston_tasteeos": {
+    "name": "Obilniny rte, ralston tasteeos",
+    "alternative_names": [],
+    "description": "Obilniny rte, ralston tasteeos z databázy USDA."
+  },
+  "cereals_rte_post_toasties_corn_flakes": {
+    "name": "Cereálie rte, post toasty kukuričné ​​vločky",
+    "alternative_names": [],
+    "description": "Cereálie rte, post toasty kukuričné ​​vločky z databázy USDA."
+  },
+  "cereals_rte_general_mills_whl_grain_total": {
+    "name": "Obilniny rte, všeobecné mlyny, whl zrno celkom",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, whl zrno celkom z databázy USDA."
+  },
+  "cereals_rte_general_mills_trix": {
+    "name": "Obilniny rte, všeobecné mlyny, trix",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, trix z databázy USDA."
+  },
+  "cereals_rte_post_honey_nut_shredded_wheat": {
+    "name": "Obilniny rte, post, med orech strúhaná pšenica",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, med orech strúhaná pšenica z databázy USDA."
+  },
+  "cereals_rte_general_mills_wheat_chex": {
+    "name": "Obilniny rte, všeobecné mlyny, pšenica chex",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, pšenica chex z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_corn_bursts": {
+    "name": "Obilniny rte, sladová krupica, kukuričné ​​šroty",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová krupica, kukuričné ​​šroty z databázy USDA."
+  },
+  "cereals_rte_wheat_germ_tstd_pln": {
+    "name": "Obilniny rte, pšeničné klíčky, tstd, pln",
+    "alternative_names": [],
+    "description": "Obilniny rte, pšeničné klíčky, tstd, pln z databázy USDA."
+  },
+  "cereals_rte_general_mills_multi_grain_cheerio": {
+    "name": "Obilniny rte, všeobecné mlyny, viaczrnné cheerios",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, viaczrnné cheerios z databázy USDA."
+  },
+  "cereals_rte_general_mills_wheaties": {
+    "name": "Obilniny rte, všeobecné mlyny, pšenica",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, pšenica z databázy USDA."
+  },
+  "cereals_quaker_corn_grits_inst_cheddar_chs_fl": {
+    "name": "Obilniny, kvaker, kukuričná krupica, inst, príchuť čedar chs, suché",
+    "alternative_names": [],
+    "description": "Obilniny, kvaker, kukuričná krupica, inst, príchuť čedar chs, suché z databázy USDA."
+  },
+  "cereals_crm_of_rice_dry": {
+    "name": "Obilniny, crm ryže, suché",
+    "alternative_names": [],
+    "description": "Obilniny, crm ryže, suché z databázy USDA."
+  },
+  "cereals_crm_of_wheat_reg_10_minute_cooking_dr": {
+    "name": "Obilniny, crm pšenice, reg, 10 minút varenia, suché",
+    "alternative_names": [],
+    "description": "Obilniny, crm pšenice, reg, 10 minút varenia, suché z databázy USDA."
+  },
+  "cereals_crm_of_wheat_reg_ckd_w_h2o_wo_salt": {
+    "name": "Obilniny, crm pšenice, reg (10 minút), CKD s vodou, so soľou",
+    "alternative_names": [],
+    "description": "Obilniny, crm pšenice, reg (10 minút), CKD s vodou, so soľou z databázy USDA."
+  },
+  "cereals_cream_of_wheat_inst_dry": {
+    "name": "Obilniny, smotana z pšenice, inst, suché",
+    "alternative_names": [],
+    "description": "Obilniny, smotana z pšenice, inst, suché z databázy USDA."
+  },
+  "cereals_cream_of_wheat_inst_prep_w_h2o_wo_sal": {
+    "name": "Obilniny, pšeničná smotana, inšt., príprava s vodou, so soľou",
+    "alternative_names": [],
+    "description": "Obilniny, pšeničná smotana, inšt., príprava s vodou, so soľou z databázy USDA."
+  },
+  "cereals_maltex_dry": {
+    "name": "Obilniny, maltex, suché",
+    "alternative_names": [],
+    "description": "Obilniny, maltex, suché z databázy USDA."
+  },
+  "cereals_maltex_ckd_w_h2o_wo_salt": {
+    "name": "Obilniny, maltex, CKD s vodou, so soľou",
+    "alternative_names": [],
+    "description": "Obilniny, maltex, CKD s vodou, so soľou z databázy USDA."
+  },
+  "cereals_maypo_dry": {
+    "name": "Obilniny, mája, sušené",
+    "alternative_names": [],
+    "description": "Obilniny, mája, sušené z databázy USDA."
+  },
+  "cereals_maypo_ckd_w_h2o_wo_salt": {
+    "name": "Obilniny, maypo, CKD s vodou, so soľou",
+    "alternative_names": [],
+    "description": "Obilniny, maypo, CKD s vodou, so soľou z databázy USDA."
+  },
+  "cereals_oats_reg_quick_not_fort_dry": {
+    "name": "Obilniny, ovos, reg & fast, nie fort, suché",
+    "alternative_names": [],
+    "description": "Obilniny, ovos, reg & fast, nie fort, suché z databázy USDA."
+  },
+  "cereals_oats_reg_quick_unenr_ckd_w_h2o_wo_sal": {
+    "name": "Obilniny, ovos, reg & quick, unenr, ckd w/h2o,wo/soľ",
+    "alternative_names": [],
+    "description": "Obilniny, ovos, reg & quick, unenr, ckd w/h2o,wo/soľ z databázy USDA."
+  },
+  "cereals_oats_inst_fort_pln_dry": {
+    "name": "Obilniny, ovos, inst, fort, pln, such",
+    "alternative_names": [],
+    "description": "Obilniny, ovos, inst, fort, pln, such z databázy USDA."
+  },
+  "cereals_oats_inst_fort_pln_prep_w_h2o": {
+    "name": "Obilniny, ovos, inst, fort, pln, prprava s vodou",
+    "alternative_names": [],
+    "description": "Obilniny, ovos, inst, fort, pln, prprava s vodou z databázy USDA."
+  },
+  "cereals_quaker_inst_oatmeal_appls_cinn_dry": {
+    "name": "Obilniny, quaker, inst ovsené vločky, jablká a škorica, suché",
+    "alternative_names": [],
+    "description": "Obilniny, quaker, inst ovsené vločky, jablká a škorica, suché z databázy USDA."
+  },
+  "cereals_oats_inst_fort_w_cinn_spice_dry": {
+    "name": "Obilniny, ovos, inst, fort, w/ cinn & korenie, suché",
+    "alternative_names": [],
+    "description": "Obilniny, ovos, inst, fort, w/ cinn & korenie, suché z databázy USDA."
+  },
+  "cereals_oats_inst_fort_w_cinn_spice_prep_w_h2": {
+    "name": "Obilniny, ovos, inst, fort, s cinn & koren, prprava s vodou",
+    "alternative_names": [],
+    "description": "Obilniny, ovos, inst, fort, s cinn & koren, prprava s vodou z databázy USDA."
+  },
+  "cereals_oats_inst_fort_w_raisins_spice_dry": {
+    "name": "Obilniny, ovos, inst, fort, s hrozienkami a korením, suché",
+    "alternative_names": [],
+    "description": "Obilniny, ovos, inst, fort, s hrozienkami a korením, suché z databázy USDA."
+  },
+  "cereals_oats_inst_fort_w_raisins_spice_prep_w": {
+    "name": "Obilniny, ovos, inst, fort, s hrozienkami a korením, príprava s vodou",
+    "alternative_names": [],
+    "description": "Obilniny, ovos, inst, fort, s hrozienkami a korením, príprava s vodou z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_marshmllw_mateys": {
+    "name": "Obilniny rte, sladová múčka, marshmllw mateys",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, marshmllw mateys z databázy USDA."
+  },
+  "cereals_wheatena_dry": {
+    "name": "Obilniny, pšenica, suché",
+    "alternative_names": [],
+    "description": "Obilniny, pšenica, suché z databázy USDA."
+  },
+  "cereals_whl_wheat_hot_nat_crl_dry": {
+    "name": "Obilniny, pšenica horká nat crl, suché",
+    "alternative_names": [],
+    "description": "Obilniny, pšenica horká nat crl, suché z databázy USDA."
+  },
+  "cereals_whl_wheat_hot_nat_crl_ckd_w_h2o_wo_sa": {
+    "name": "Obilniny, whl pšenica horká nat crl, ckd w/h2o, whl/soľ",
+    "alternative_names": [],
+    "description": "Obilniny, whl pšenica horká nat crl, ckd w/h2o, whl/soľ z databázy USDA."
+  },
+  "cereals_rte_quaker_quaker_puffed_wheat": {
+    "name": "Obilniny rte, quaker, quaker pufovaná pšenica",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, quaker pufovaná pšenica z databázy USDA."
+  },
+  "cereals_rte_wheat_shredded_pln_sugar_salt_fre": {
+    "name": "Obilniny rte, pšenica, strúhaná, pln, bez cukru a soli",
+    "alternative_names": [],
+    "description": "Obilniny rte, pšenica, strúhaná, pln, bez cukru a soli z databázy USDA."
+  },
+  "cereals_rte_post_shredded_wheat_spoon_size": {
+    "name": "Obilniny rte, post, pšenica strúhaná, veľkosť lyžice",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, pšenica strúhaná, veľkosť lyžice z databázy USDA."
+  },
+  "cereals_corn_grits_white_reg_quick_unenr_dry": {
+    "name": "Obilniny, kukuričná krupica, biela, reg & quick, unenr, suchá",
+    "alternative_names": [],
+    "description": "Obilniny, kukuričná krupica, biela, reg & quick, unenr, suchá z databázy USDA."
+  },
+  "cereals_corn_grits_yel_reg_quick_unenr_dry": {
+    "name": "Obilniny, kukuričná krupica, žlť, reg & quick, unenr, suchá",
+    "alternative_names": [],
+    "description": "Obilniny, kukuričná krupica, žlť, reg & quick, unenr, suchá z databázy USDA."
+  },
+  "cereals_crm_of_wheat_reg_ckd_w_h2o_w_salt": {
+    "name": "Obilniny, crm pšenice, reg (10 minút), CKD s vodou, so soľou",
+    "alternative_names": [],
+    "description": "Obilniny, crm pšenice, reg (10 minút), CKD s vodou, so soľou z databázy USDA."
+  },
+  "cereals_maltex_ckd_w_h2o_w_salt": {
+    "name": "Obilniny, maltex, ckd s vodou, so soľou",
+    "alternative_names": [],
+    "description": "Obilniny, maltex, ckd s vodou, so soľou z databázy USDA."
+  },
+  "cereals_maypo_ckd_w_h2o_w_salt": {
+    "name": "Obilniny, maypo, ckd s vodou, so soľou",
+    "alternative_names": [],
+    "description": "Obilniny, maypo, ckd s vodou, so soľou z databázy USDA."
+  },
+  "cereals_oats_reg_quick_inst_unenr_ckd_w_h2o_w": {
+    "name": "Obilniny, ovos, reg & quick & inst, unenr, ckd w/h2o, w/ soľ",
+    "alternative_names": [],
+    "description": "Obilniny, ovos, reg & quick & inst, unenr, ckd w/h2o, w/ soľ z databázy USDA."
+  },
+  "cereals_wheatena_ckd_w_h2o_w_salt": {
+    "name": "Obilniny, pšenica, CKD s vodou, so soľou",
+    "alternative_names": [],
+    "description": "Obilniny, pšenica, CKD s vodou, so soľou z databázy USDA."
+  },
+  "cereals_whl_wheat_hot_nat_crl_ckd_w_h2o_w_sal": {
+    "name": "Obilniny, whl pšenica horká nat crl, ckd s vodou, so soľou",
+    "alternative_names": [],
+    "description": "Obilniny, whl pšenica horká nat crl, ckd s vodou, so soľou z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_lofat_granola_wo": {
+    "name": "Obilniny rte, kellogg, kellogg's lofat granola wo/ hrozienka",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's lofat granola wo/ hrozienka z databázy USDA."
+  },
+  "cereals_rte_post_shredded_wheat_lightly_frstd": {
+    "name": "Obilniny rte, post, strúhaná pšenica, jemne frstd, veľkosť lyžice",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, strúhaná pšenica, jemne frstd, veľkosť lyžice z databázy USDA."
+  },
+  "cereals_rte_post_blueberry_morning": {
+    "name": "Cereálie rte, po čučoriedkové ráno",
+    "alternative_names": [],
+    "description": "Cereálie rte, po čučoriedkové ráno z databázy USDA."
+  },
+  "cereals_rte_general_mills_reeses_puffs": {
+    "name": "Obilniny rte, obyčajné mlyny, ryža",
+    "alternative_names": [],
+    "description": "Obilniny rte, obyčajné mlyny, ryža z databázy USDA."
+  },
+  "cereals_quaker_quaker_multigrain_oatmeal_dry": {
+    "name": "Obilniny, kvaker, kvaker viaczrnné ovsené vločky, suché",
+    "alternative_names": [],
+    "description": "Obilniny, kvaker, kvaker viaczrnné ovsené vločky, suché z databázy USDA."
+  },
+  "cereals_rte_general_mills_oatmeal_crisp_crunc": {
+    "name": "Obilniny rte, všeobecné mlynčeky, ovsené vločky chrumkavé, chrumkavé mandle",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlynčeky, ovsené vločky chrumkavé, chrumkavé mandle z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_coco_roos": {
+    "name": "Obilniny rte, sladová múčka, kokos",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, kokos z databázy USDA."
+  },
+  "cereals_rte_quaker_quaker_oat_cinn_life": {
+    "name": "Obilniny rte, quaker, quaker ovs cinn life",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, quaker ovs cinn life z databázy USDA."
+  },
+  "cereals_rte_quaker_honey_graham_ohs": {
+    "name": "Obilniny rte, quaker, med graham oh!s",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, med graham oh!s z databázy USDA."
+  },
+  "cereals_rte_quaker_sun_country_granola_w_almo": {
+    "name": "Obilniny rte, quaker, slnečná vidiecka granola s mandľami",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, slnečná vidiecka granola s mandľami z databázy USDA."
+  },
+  "cereals_rte_quaker_quaker_oatmeal_squares": {
+    "name": "Obilniny rte, kvaker, kvaker ovsené štvorce",
+    "alternative_names": [],
+    "description": "Obilniny rte, kvaker, kvaker ovsené štvorce z databázy USDA."
+  },
+  "cereals_rte_quaker_quaker_cinn_oatmeal_square": {
+    "name": "Obilniny rte, quaker, quaker cinn ovsené vločky štvorce",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, quaker cinn ovsené vločky štvorce z databázy USDA."
+  },
+  "cereals_rte_quaker_quaker_oat_bran_crl": {
+    "name": "Obilniny rte, kvaker, kvaker ovsené otruby crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, kvaker, kvaker ovsené otruby crl z databázy USDA."
+  },
+  "cereals_rte_quaker_quaker_granola_w_oats_whea": {
+    "name": "Obilniny rte, kvaker, kvaker granola s ovsom, pšenicou a hrozienkami",
+    "alternative_names": [],
+    "description": "Obilniny rte, kvaker, kvaker granola s ovsom, pšenicou a hrozienkami z databázy USDA."
+  },
+  "cereals_rte_quaker_lofat_100_nat_granola_w_ra": {
+    "name": "Obilniny rte, quaker, lofat 100% nat granola s hrozienkami",
+    "alternative_names": [],
+    "description": "Obilniny rte, quaker, lofat 100% nat granola s hrozienkami z databázy USDA."
+  },
+  "cereals_quaker_inst_oatmeal_fruit_crm_var_dry": {
+    "name": "Obilniny, kvaker, inst ovsené vločky, ovocie a crm var, suché",
+    "alternative_names": [],
+    "description": "Obilniny, kvaker, inst ovsené vločky, ovocie a crm var, suché z databázy USDA."
+  },
+  "cereals_quaker_inst_oatmeal_raisins_dates_wal": {
+    "name": "Obilniny, kvaker, inst ovsené vločky, hrozienka, datle a vlašské orechy, suché",
+    "alternative_names": [],
+    "description": "Obilniny, kvaker, inst ovsené vločky, hrozienka, datle a vlašské orechy, suché z databázy USDA."
+  },
+  "cereals_rte_general_mills_berry_burst_cheerio": {
+    "name": "Obilniny rte, všeobecné mlyny, bobule burst cheerios, trojité bobule",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, bobule burst cheerios, trojité bobule z databázy USDA."
+  },
+  "cereals_rte_general_mills_honey_nut_clusters": {
+    "name": "Obilniny rte, všeobecné mlyny, zhluky medových orechov",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, zhluky medových orechov z databázy USDA."
+  },
+  "cereals_rte_general_mills_fiber_one_bran_crl": {
+    "name": "Obilniny rte, všeobecné mlyny, vláknina one otrub crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, vláknina one otrub crl z databázy USDA."
+  },
+  "cereals_rte_general_mills_oatmeal_crisp_heart": {
+    "name": "Obilniny rte, všeobecné mlynčeky, ovsené vločky chrumkavé výdatné hrozienka",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlynčeky, ovsené vločky chrumkavé výdatné hrozienka z databázy USDA."
+  },
+  "cereals_rte_general_mills_total_raisin_bran": {
+    "name": "Obilniny rte, všeobecné mlyny, celkové hrozienkové otruby",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, celkové hrozienkové otruby z databázy USDA."
+  },
+  "cereals_rte_general_mills_raisin_nut_bran": {
+    "name": "Obilniny rte, všeobecné mlyny, otruby z hrozienok",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, otruby z hrozienok z databázy USDA."
+  },
+  "cereals_rte_general_mills_basic_4": {
+    "name": "Obilniny rte, všeobecné mlyny, základné 4",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, základné 4 z databázy USDA."
+  },
+  "cereals_rte_general_mills_appl_cinn_cheerios": {
+    "name": "Obilniny rte, všeobecné mlyny, appl cinn cheerios",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, appl cinn cheerios z databázy USDA."
+  },
+  "cereals_rte_general_mills_frstd_cheerios": {
+    "name": "Obilniny rte, všeobecné mlyny, frstd cheerios",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, frstd cheerios z databázy USDA."
+  },
+  "cereals_rte_general_mills_frankenberry": {
+    "name": "Obilniny rte, všeobecné mlyny, frankenberry",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, frankenberry z databázy USDA."
+  },
+  "cereals_rte_general_mills_count_chocula": {
+    "name": "Obilniny rte, všeobecné mlyny, počítajte čokoládu",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, počítajte čokoládu z databázy USDA."
+  },
+  "cereals_rte_general_mills_cocoa_puffs": {
+    "name": "Obilniny rte, všeobecné mlyny, kakaové oblátky",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, kakaové oblátky z databázy USDA."
+  },
+  "cereals_rte_general_mills_cinn_toast_crunch": {
+    "name": "Obilniny rte, všeobecné mlyny, chrumkavé toasty",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, chrumkavé toasty z databázy USDA."
+  },
+  "cereals_rte_general_mills_boo_berry": {
+    "name": "Obilniny rte, všeobecné mlyny, bobule",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, bobule z databázy USDA."
+  },
+  "cereals_rte_general_mills_berry_berry_kix": {
+    "name": "Obilniny rte, všeobecné mlyny, bobule kix",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, bobule kix z databázy USDA."
+  },
+  "cereals_rte_general_mills_nature_valley_lofat": {
+    "name": "Obilniny rte, všeobecné mlyny, prírodné údolie lofat ovocné granola",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, prírodné údolie lofat ovocné granola z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_lofat_granola_w": {
+    "name": "Obilniny rte, kellogg, kellogg's lofat granola s hrozienkami",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's lofat granola s hrozienkami z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_mueslix": {
+    "name": "Obilniny rte, kellogg, kelloggov müslix",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kelloggov müslix z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_rice_krispies_tr": {
+    "name": "Cereálie rte, kellogg, kellogg's ryžové krispies pochúťky crl",
+    "alternative_names": [],
+    "description": "Cereálie rte, kellogg, kellogg's ryžové krispies pochúťky crl z databázy USDA."
+  },
+  "cereals_rte_health_valley_fiber_7_flakes": {
+    "name": "Obilniny rte, údolie zdravia, vláknina 7 vločiek",
+    "alternative_names": [],
+    "description": "Obilniny rte, údolie zdravia, vláknina 7 vločiek z databázy USDA."
+  },
+  "cereals_rte_oat_cornwheat_squares_presweetene": {
+    "name": "Obilniny rte, ovos, kukuričné ​​a pšeničné štvorce, predsladené, javorová príchuť",
+    "alternative_names": [],
+    "description": "Obilniny rte, ovos, kukuričné ​​a pšeničné štvorce, predsladené, javorová príchuť z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_honey_crunch_cor": {
+    "name": "Obilniny rte, kellogg, kellogg's med crunch corn flakes",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's med crunch corn flakes z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_smart_start_anti": {
+    "name": "Cereálie rte, kellogg, antioxidanty kellogg's smart start crl",
+    "alternative_names": [],
+    "description": "Cereálie rte, kellogg, antioxidanty kellogg's smart start crl z databázy USDA."
+  },
+  "cereals_rte_kelloggs_frstd_mini_wheats_bite_s": {
+    "name": "Obilniny rte, kellogg's frstd mini-pšenice, bite sze & ltl bites",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg's frstd mini-pšenice, bite sze & ltl bites z databázy USDA."
+  },
+  "cereals_rte_general_mills_multi_bran_chex": {
+    "name": "Obilniny rte, všeobecné mlyny, viacotrubové chex",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, viacotrubové chex z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_colossal_crunch": {
+    "name": "Obilniny rte, sladová múčka, kolosálne chrumkanie",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, kolosálne chrumkanie z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_berry_colossal_crunch": {
+    "name": "Obilniny rte, sladová múčka, obrovské chrumkanie bobúľ",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, obrovské chrumkanie bobúľ z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_tootie_fruities": {
+    "name": "Obilniny rte, sladová múčka, totie fruities",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, totie fruities z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_marshmllw_froot": {
+    "name": "Cereálie rte, kellogg, kellogg's marshmllw froot loops",
+    "alternative_names": [],
+    "description": "Cereálie rte, kellogg, kellogg's marshmllw froot loops z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_raisin_bran_crun": {
+    "name": "Obilniny rte, kellogg, kellogg's, hrozienkové otruby chrumkavé",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's, hrozienkové otruby chrumkavé z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_spl_k_red_berrie": {
+    "name": "Obilniny rte, kellogg, kellogg's spl k červené bobule",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's spl k červené bobule z databázy USDA."
+  },
+  "cereals_rte_kashi_golean_crunch": {
+    "name": "Cereálie rte, kashi golean crunch!",
+    "alternative_names": [],
+    "description": "Cereálie rte, kashi golean crunch! z databázy USDA."
+  },
+  "cereals_rte_kashi_heart_to_heart_honey_tstd_o": {
+    "name": "Cereálie rte, kashi od srdca k srdcu, med tstd ovsené",
+    "alternative_names": [],
+    "description": "Cereálie rte, kashi od srdca k srdcu, med tstd ovsené z databázy USDA."
+  },
+  "cereals_rte_kashi_7_whl_grain_puffs": {
+    "name": "Cereálie rte, kashi 7 whl obilné oblátky",
+    "alternative_names": [],
+    "description": "Cereálie rte, kashi 7 whl obilné oblátky z databázy USDA."
+  },
+  "cereals_rte_kashi_7_whl_grain_honey_puffs": {
+    "name": "Cereálie rte, kashi 7 whl obilné medové nálevy",
+    "alternative_names": [],
+    "description": "Cereálie rte, kashi 7 whl obilné medové nálevy z databázy USDA."
+  },
+  "cereals_rte_kashi_good_friends": {
+    "name": "Cereálie rte, kashi dobrí priatelia",
+    "alternative_names": [],
+    "description": "Cereálie rte, kashi dobrí priatelia z databázy USDA."
+  },
+  "cereals_rte_kashi_golean": {
+    "name": "Obilniny rte, kashi golean",
+    "alternative_names": [],
+    "description": "Obilniny rte, kashi golean z databázy USDA."
+  },
+  "cereals_quaker_quick_oats_dry": {
+    "name": "Obilniny, kvaker, rýchly ovos, suché",
+    "alternative_names": [],
+    "description": "Obilniny, kvaker, rýchly ovos, suché z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_frstd_flakes": {
+    "name": "Obilniny rte, sladová múčka, prvé vločky",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, prvé vločky z databázy USDA."
+  },
+  "cereals_quaker_inst_oatmeal_cinnamon_spice_dr": {
+    "name": "Obilniny, kvaker, inst ovsené vločky, škorica-korenie, suché",
+    "alternative_names": [],
+    "description": "Obilniny, kvaker, inst ovsené vločky, škorica-korenie, suché z databázy USDA."
+  },
+  "cereals_quaker_inst_oatmeal_express_golden_br": {
+    "name": "Cereálie, kvaker, inst ovsené vločky expres, zlatohnedý cukor, suché",
+    "alternative_names": [],
+    "description": "Cereálie, kvaker, inst ovsené vločky expres, zlatohnedý cukor, suché z databázy USDA."
+  },
+  "cereals_quaker_inst_oatmeal_banana_bread_dry": {
+    "name": "Cereálie, kvaker, inst ovsené vločky, banánový chlieb, suché",
+    "alternative_names": [],
+    "description": "Cereálie, kvaker, inst ovsené vločky, banánový chlieb, suché z databázy USDA."
+  },
+  "cereals_quaker_inst_oatmeal_express_bkd_appl": {
+    "name": "Cereálie, kvaker, inst ovsené vločky expresné, bkd appl, suché",
+    "alternative_names": [],
+    "description": "Cereálie, kvaker, inst ovsené vločky expresné, bkd appl, suché z databázy USDA."
+  },
+  "cereals_quaker_inst_oatmeal_express_cinn_roll": {
+    "name": "Cereálie, quaker, inst ovsené vločky expresné cinn roll, suché",
+    "alternative_names": [],
+    "description": "Cereálie, quaker, inst ovsené vločky expresné cinn roll, suché z databázy USDA."
+  },
+  "cereals_rte_uncle_sam_crl": {
+    "name": "Obilniny rte, strýko sam crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, strýko sam crl z databázy USDA."
+  },
+  "cereals_quaker_inst_oatmeal_raisin_spice_dry": {
+    "name": "Obilniny, kvaker, inst ovsené vločky, hrozienka a korenie, suché",
+    "alternative_names": [],
+    "description": "Obilniny, kvaker, inst ovsené vločky, hrozienka a korenie, suché z databázy USDA."
+  },
+  "cereals_rte_kelloggs_fruit_harvest_strawberry": {
+    "name": "Obilniny rte, kellogg's, zber ovocia jahoda/čučoriedka",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg's, zber ovocia jahoda/čučoriedka z databázy USDA."
+  },
+  "cereals_rte_kellgs_frstd_mini_whts_mple_brwn": {
+    "name": "Obilniny rte, kellg's, frstd mini-whts, mple & brwn sgr, bte sze",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellg's, frstd mini-whts, mple & brwn sgr, bte sze z databázy USDA."
+  },
+  "cereals_rte_kashi_good_friends_cinna_raisin_c": {
+    "name": "Cereálie rte, kashi, dobrí priatelia, škoricovo-hrozienkové chrumkanie",
+    "alternative_names": [],
+    "description": "Cereálie rte, kashi, dobrí priatelia, škoricovo-hrozienkové chrumkanie z databázy USDA."
+  },
+  "cereals_rte_kashi_organic_promise_autumn_whea": {
+    "name": "Obilniny rte, kashi, organický prísľub jesennej pšenice",
+    "alternative_names": [],
+    "description": "Obilniny rte, kashi, organický prísľub jesennej pšenice z databázy USDA."
+  },
+  "cereals_rte_kelloggs_red_sugar_frstd_flakes_c": {
+    "name": "Obilniny rte, kellogg's, červený cukor frstd vločky crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg's, červený cukor frstd vločky crl z databázy USDA."
+  },
+  "cereals_rte_kelloggs_spl_k_prot_plus": {
+    "name": "Obilniny rte, kellogg's, spl k prot plus",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg's, spl k prot plus z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_honey_buzzers": {
+    "name": "Obilniny rte, sladová múčka, medové bzučiaky",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, medové bzučiaky z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_golden_puffs": {
+    "name": "Obilniny rte, sladová múčka, zlaté obláčiky",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, zlaté obláčiky z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_honey_graham_squares": {
+    "name": "Obilniny rte, sladovo-o-múkový med grahamové štvorce",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladovo-o-múkový med grahamové štvorce z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_puffed_wheat_crl": {
+    "name": "Obilniny rte, sladová krupica, pufovaná pšenica crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová krupica, pufovaná pšenica crl z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_raisin_bran_crl": {
+    "name": "Obilniny rte, sladová krupica, hrozienkové otruby crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová krupica, hrozienkové otruby crl z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_blueberry_muffin_tops": {
+    "name": "Cereálie rte, sladová krupica, čučoriedkové muffiny crl",
+    "alternative_names": [],
+    "description": "Cereálie rte, sladová krupica, čučoriedkové muffiny crl z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_honey_nut_toasty_os_c": {
+    "name": "Obilniny rte, sladová múčka, med orieškové toasty o's crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, med orieškové toasty o's crl z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_puffed_rice_crl": {
+    "name": "Obilniny rte, sladová krupica, pufovaná ryža crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová krupica, pufovaná ryža crl z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_appl_zings": {
+    "name": "Obilniny rte, múčka zo sladu, jablká",
+    "alternative_names": [],
+    "description": "Obilniny rte, múčka zo sladu, jablká z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_cinn_toasters": {
+    "name": "Obilniny rte, sladová múčka, hriankovače",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, hriankovače z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_cocoa_dyno_bites": {
+    "name": "Obilniny rte, sladová múčka, kakaové dyno-bites",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, kakaové dyno-bites z databázy USDA."
+  },
+  "cereals_rte_malt_o_meal_fruity_dyno_bites": {
+    "name": "Obilniny rte, sladová múčka, ovocné dyno-kusy",
+    "alternative_names": [],
+    "description": "Obilniny rte, sladová múčka, ovocné dyno-kusy z databázy USDA."
+  },
+  "cereals_rte_natures_path_optimum": {
+    "name": "Obilniny rte, prírodná cesta, optimum",
+    "alternative_names": [],
+    "description": "Obilniny rte, prírodná cesta, optimum z databázy USDA."
+  },
+  "cereals_rte_natures_path_optimum_slim": {
+    "name": "Obilniny rte, prírodná cesta, optimálne štíhle",
+    "alternative_names": [],
+    "description": "Obilniny rte, prírodná cesta, optimálne štíhle z databázy USDA."
+  },
+  "cereals_rte_ralston_enr_bran_flakes": {
+    "name": "Obilniny rte, ralston enr otruby vločky",
+    "alternative_names": [],
+    "description": "Obilniny rte, ralston enr otruby vločky z databázy USDA."
+  },
+  "cereals_rte_general_mills_choc_lucky_charms": {
+    "name": "Obilniny rte, všeobecné mlyny, čokoládové talizmany",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, čokoládové talizmany z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_cinn_mini_swirlz": {
+    "name": "Obilniny rte, kellogg, kellogg's cinn mini swirlz",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's cinn mini swirlz z databázy USDA."
+  },
+  "cereals_rte_kellogg_smorz": {
+    "name": "Obilniny rte, kellogg, smorz",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, smorz z databázy USDA."
+  },
+  "cereals_rte_kellogg_spl_k_fruit_yogurt": {
+    "name": "Cereálie rte, kellogg, pl k, ovocie a jogurt",
+    "alternative_names": [],
+    "description": "Cereálie rte, kellogg, pl k, ovocie a jogurt z databázy USDA."
+  },
+  "cereals_rte_kelloggs_spl_k_vanilla_almond": {
+    "name": "Obilniny rte, kellogg's, pl k vanilka mandle",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg's, pl k vanilka mandle z databázy USDA."
+  },
+  "cereals_rte_post_great_grains_cranberry_almon": {
+    "name": "Cereálie rte, post veľké zrná brusnice mandľové chrumkanie",
+    "alternative_names": [],
+    "description": "Cereálie rte, post veľké zrná brusnice mandľové chrumkanie z databázy USDA."
+  },
+  "rice_wheat_crl_bar": {
+    "name": "Ryža & pšenica crl tyčinka",
+    "alternative_names": [],
+    "description": "Ryža & pšenica crl tyčinka z databázy USDA."
+  },
+  "cereals_rte_quaker_christmas_crunch": {
+    "name": "Cereálie rte, quaker, vianočné chrumky",
+    "alternative_names": [],
+    "description": "Cereálie rte, quaker, vianočné chrumky z databázy USDA."
+  },
+  "cereals_rte_general_mills_cheerios_yogurt_bur": {
+    "name": "Obilniny rte, všeobecné mlynčeky, cheerios, jogurtová kaša, jahoda",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlynčeky, cheerios, jogurtová kaša, jahoda z databázy USDA."
+  },
+  "cereals_rte_rolled_oats_whl_wheat_rice_maple": {
+    "name": "Obilniny, ovsené vločky, pšenica, ryža, javorová príchuť, s pekanovými orechmi",
+    "alternative_names": [],
+    "description": "Obilniny, ovsené vločky, pšenica, ryža, javorová príchuť, s pekanovými orechmi z databázy USDA."
+  },
+  "cereals_rte_kashi_go_ln_crunch_honey_almond_f": {
+    "name": "Cereálie rte, kashi go ln crunch!, med mandľový ľan",
+    "alternative_names": [],
+    "description": "Cereálie rte, kashi go ln crunch!, med mandľový ľan z databázy USDA."
+  },
+  "cereals_rte_general_mills_25_less_sugar_cinn": {
+    "name": "Obilniny rte, všeobecné mlyny, o 25% menej cukru cinn toast crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, o 25% menej cukru cinn toast crl z databázy USDA."
+  },
+  "cereals_rte_general_mills_dora_the_explorer": {
+    "name": "Obilniny rte, všeobecné mlyny, dora the explorer",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, dora the explorer z databázy USDA."
+  },
+  "cereals_rte_general_mills_fruity_cheerios": {
+    "name": "Obilniny rte, všeobecné mlyny, ovocné cheerios",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, ovocné cheerios z databázy USDA."
+  },
+  "cereals_rte_kelloggs_spl_k_chocolatey_delight": {
+    "name": "Cereálie rte, kellogg's spl k čokoládové potešenie",
+    "alternative_names": [],
+    "description": "Cereálie rte, kellogg's spl k čokoládové potešenie z databázy USDA."
+  },
+  "cereals_rte_general_mills_total_cranberry_cru": {
+    "name": "Obilniny rte, všeobecné mlyny, celkom, brusnicová chrumka",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, celkom, brusnicová chrumka z databázy USDA."
+  },
+  "cereals_rte_general_mills_25_less_sugar_trix": {
+    "name": "Obilniny rte, všeobecné mlyny, o 25 % menej cukru trix",
+    "alternative_names": [],
+    "description": "Obilniny rte, všeobecné mlyny, o 25 % menej cukru trix z databázy USDA."
+  },
+  "cereals_rte_kellogg_kelloggs_spl_k_cinn_pecan": {
+    "name": "Obilniny rte, kellogg, kellogg's spl k, cinn pekan",
+    "alternative_names": [],
+    "description": "Obilniny rte, kellogg, kellogg's spl k, cinn pekan z databázy USDA."
+  },
+  "cereals_rte_post_honey_bunches_of_oats_w_vani": {
+    "name": "Obilniny rte, post medové zväzky ovsa s vanilkovými zväzkami",
+    "alternative_names": [],
+    "description": "Obilniny rte, post medové zväzky ovsa s vanilkovými zväzkami z databázy USDA."
+  },
+  "corn_swt_yel_raw": {
+    "name": "Kukurica, swt, yel, raw",
+    "alternative_names": [],
+    "description": "Kukurica, swt, yel, raw z databázy USDA."
+  },
+  "corn_swt_yel_ckd_bld_drnd_wosalt": {
+    "name": "Kukurica, swt, yel, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Kukurica, swt, yel, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "corn_swt_yel_frz_krnls_cut_off_cob_unprep": {
+    "name": "Kukurica, swt, yel, frz, krnls odrezaný klas, neupravený",
+    "alternative_names": [],
+    "description": "Kukurica, swt, yel, frz, krnls odrezaný klas, neupravený z databázy USDA."
+  },
+  "corn_swt_yel_frz_krnls_cut_off_cob_bld_drnd_w": {
+    "name": "Kukurica, swt, yel, frz, krnls odrezaný klas, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Kukurica, swt, yel, frz, krnls odrezaný klas, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "corn_swt_yel_frz_krnls_on_cob_unprep": {
+    "name": "Kukurica, swt, yel, frz, krnls on cob, unprep",
+    "alternative_names": [],
+    "description": "Kukurica, swt, yel, frz, krnls on cob, unprep z databázy USDA."
+  },
+  "corn_swt_yel_frz_krnls_on_cob_ckd_bld_drnd_wo": {
+    "name": "Kukurica, swt, yel, frz, krnls on cob, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Kukurica, swt, yel, frz, krnls on cob, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "corn_yel_whl_kernel_frz_microwaved": {
+    "name": "Kukurica, yel, whl kernel, frz, mikrovlnná rúra",
+    "alternative_names": [],
+    "description": "Kukurica, yel, whl kernel, frz, mikrovlnná rúra z databázy USDA."
+  },
+  "squash_wntr_spaghetti_raw": {
+    "name": "Squash, wntr, špagety, surové",
+    "alternative_names": [],
+    "description": "Squash, wntr, špagety, surové z databázy USDA."
+  },
+  "squash_wntr_spaghetti_ckd_bld_drnd_or_bkd_wos": {
+    "name": "Squash, wntr, špagety, ckd, bld, drnd, alebo bkd, wo/soľ",
+    "alternative_names": [],
+    "description": "Squash, wntr, špagety, ckd, bld, drnd, alebo bkd, wo/soľ z databázy USDA."
+  },
+  "succotash_frz_ckd_bld_drnd_wosalt": {
+    "name": "Succotaš, (kukurica a limas), frz, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Succotaš, (kukurica a limas), frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "corn_pudd_home_prep": {
+    "name": "Kukuričný nákyp, domáca príprava",
+    "alternative_names": [],
+    "description": "Kukuričný nákyp, domáca príprava z databázy USDA."
+  },
+  "potato_pancakes": {
+    "name": "Zemiakové placky",
+    "alternative_names": [],
+    "description": "Zemiakové placky z databázy USDA."
+  },
+  "corn_swt_yel_ckd_bld_drnd_wsalt": {
+    "name": "Kukurica, swt, yel, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Kukurica, swt, yel, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "corn_swt_yel_frz_krnls_on_cob_ckd_bld_drnd_ws": {
+    "name": "Kukurica, swt, yel, frz, krnls on cob, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Kukurica, swt, yel, frz, krnls on cob, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "squash_wntr_spaghetti_ckd_bld_drnd_or_bkd_wsa": {
+    "name": "Squash, wntr, špagety, ckd, bld, drnd alebo bkd, so soľou",
+    "alternative_names": [],
+    "description": "Squash, wntr, špagety, ckd, bld, drnd alebo bkd, so soľou z databázy USDA."
+  },
+  "succotash_frz_ckd_bld_drnd_wsalt": {
+    "name": "Succotaš, (kukurica a limas), frz, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Succotaš, (kukurica a limas), frz, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "corn_sweet_white_raw": {
+    "name": "Kukurica, sladká, biela, surová",
+    "alternative_names": [],
+    "description": "Kukurica, sladká, biela, surová z databázy USDA."
+  },
+  "corn_swt_white_ckd_bld_drnd_wosalt": {
+    "name": "Kukurica, swt, biela, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Kukurica, swt, biela, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "corn_swt_white_ckd_bld_drnd_wsalt": {
+    "name": "Kukurica, swt, biela, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Kukurica, swt, biela, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "corn_swt_white_cnd_whl_kernel_drnd_sol": {
+    "name": "Kukurica, swt, biela, cnd, whl kernel, drnd sol",
+    "alternative_names": [],
+    "description": "Kukurica, swt, biela, cnd, whl kernel, drnd sol z databázy USDA."
+  },
+  "corn_swt_white_cnd_crm_style_reg_pk": {
+    "name": "Kukurica, swt, biela, cnd, crm style, reg pk",
+    "alternative_names": [],
+    "description": "Kukurica, swt, biela, cnd, crm style, reg pk z databázy USDA."
+  },
+  "corn_swt_white_cnd_crm_style_no_salt": {
+    "name": "Kukurica, swt, biela, cnd, crm štýl, bez soli",
+    "alternative_names": [],
+    "description": "Kukurica, swt, biela, cnd, crm štýl, bez soli z databázy USDA."
+  },
+  "corn_swt_white_frz_krnls_cut_off_cob_bld_drnd": {
+    "name": "Kukurica, swt, biela, frz, krnls odrezaný klas, bld, drnd, w/soľ",
+    "alternative_names": [],
+    "description": "Kukurica, swt, biela, frz, krnls odrezaný klas, bld, drnd, w/soľ z databázy USDA."
+  },
+  "pickles_cucumber_swt": {
+    "name": "Nakladané uhorky, uhorky, swt (zahŕňa chlieb a maslo)",
+    "alternative_names": [],
+    "description": "Nakladané uhorky, uhorky, swt (zahŕňa chlieb a maslo) z databázy USDA."
+  },
+  "pickles_cucumber_swt_lo_na": {
+    "name": "Nakladané uhorky, uhorky, swt, lo na (zahŕňa chlieb a maslo)",
+    "alternative_names": [],
+    "description": "Nakladané uhorky, uhorky, swt, lo na (zahŕňa chlieb a maslo) z databázy USDA."
+  },
+  "cranberry_juc_cocktail_btld_lo_cal_wca_saccha": {
+    "name": "Brusnicový džúsový kokteil, btld, lokálny, w/ca, sacharin & corn swtnr",
+    "alternative_names": [],
+    "description": "Brusnicový džúsový kokteil, btld, lokálny, w/ca, sacharin & corn swtnr z databázy USDA."
+  },
+  "rice_drk_unswtnd_w_added_ca_vitamins_a_d": {
+    "name": "Ryžový nápoj, nespracovaný, s prídavkom ca, vitamínov a a d",
+    "alternative_names": [],
+    "description": "Ryžový nápoj, nespracovaný, s prídavkom ca, vitamínov a a d z databázy USDA."
+  },
+  "soy_flour_full_fat_raw": {
+    "name": "Sójová múka, plnotučná, surová",
+    "alternative_names": [],
+    "description": "Sójová múka, plnotučná, surová z databázy USDA."
+  },
+  "soy_flour_defatted": {
+    "name": "Sójová múka, odtučnená",
+    "alternative_names": [],
+    "description": "Sójová múka, odtučnená z databázy USDA."
+  },
+  "soy_flour_low_fat": {
+    "name": "Sójová múka, nízkotučná",
+    "alternative_names": [],
+    "description": "Sójová múka, nízkotučná z databázy USDA."
+  },
+  "chickpea_flour": {
+    "name": "Cícerová múka (besan)",
+    "alternative_names": [],
+    "description": "Cícerová múka (besan) z databázy USDA."
+  },
+  "bagel_pln_tstd_enr_wca_prop": {
+    "name": "Bagel, pln, tstd, enr w/ca prop (vrátane cibule, maku, sezamu)",
+    "alternative_names": [],
+    "description": "Bagel, pln, tstd, enr w/ca prop (vrátane cibule, maku, sezamu) z databázy USDA."
+  },
+  "bagels_pln_tstd_enr_wca_prop": {
+    "name": "Bagely, pln, tstd, enr w/ca prop (zahŕňa cibuľu, mak, sezam)",
+    "alternative_names": [],
+    "description": "Bagely, pln, tstd, enr w/ca prop (zahŕňa cibuľu, mak, sezam) z databázy USDA."
+  },
+  "bagels_cinnamon_raisin": {
+    "name": "Bagely, škoricovo-hrozienkové",
+    "alternative_names": [],
+    "description": "Bagely, škoricovo-hrozienkové z databázy USDA."
+  },
+  "bagels_cinnamon_raisin_tstd": {
+    "name": "Bagely, škoricovo-hrozienkové, tstd",
+    "alternative_names": [],
+    "description": "Bagely, škoricovo-hrozienkové, tstd z databázy USDA."
+  },
+  "bagels_oat_bran": {
+    "name": "Bagely, ovsené otruby",
+    "alternative_names": [],
+    "description": "Bagely, ovsené otruby z databázy USDA."
+  },
+  "biscuits_pln_or_bttrmlk_refr_dough_lower_fat": {
+    "name": "Sušienky, pln alebo bttrmlk, refr cesto, s nižším obsahom tuku",
+    "alternative_names": [],
+    "description": "Sušienky, pln alebo bttrmlk, refr cesto, s nižším obsahom tuku z databázy USDA."
+  },
+  "biscuit_pln_or_butmlk_refri_dough_higher_fat": {
+    "name": "Sušienky, plnka alebo maslo, refri cesto, s vyšším obsahom tuku",
+    "alternative_names": [],
+    "description": "Sušienky, plnka alebo maslo, refri cesto, s vyšším obsahom tuku z databázy USDA."
+  },
+  "biscuits_pln_or_bttrmlk_refr_dough_higher_fat": {
+    "name": "Sušienky, pln alebo bttrmlk, refr cesto, s vyšším obsahom tuku, bkd",
+    "alternative_names": [],
+    "description": "Sušienky, pln alebo bttrmlk, refr cesto, s vyšším obsahom tuku, bkd z databázy USDA."
+  },
+  "bread_boston_brown_canned": {
+    "name": "Chlieb, boston hnedý, konzervovaný",
+    "alternative_names": [],
+    "description": "Chlieb, boston hnedý, konzervovaný z databázy USDA."
+  },
+  "bread_cornbread_dry_mix_enr": {
+    "name": "Chlieb, kukuričný chlieb, suchá zmes, enr (vrátane zmesi kukuričných muffinov)",
+    "alternative_names": [],
+    "description": "Chlieb, kukuričný chlieb, suchá zmes, enr (vrátane zmesi kukuričných muffinov) z databázy USDA."
+  },
+  "bread_egg": {
+    "name": "Chlieb, vajcia",
+    "alternative_names": [],
+    "description": "Chlieb, vajcia z databázy USDA."
+  },
+  "bread_egg_toasted": {
+    "name": "Chlieb, vajcia, opečený",
+    "alternative_names": [],
+    "description": "Chlieb, vajcia, opečený z databázy USDA."
+  },
+  "bread_french_or_vienna": {
+    "name": "Chlieb, francúzsky alebo viedenský chlieb (vrátane kysnutého cesta)",
+    "alternative_names": [],
+    "description": "Chlieb, francúzsky alebo viedenský chlieb (vrátane kysnutého cesta) z databázy USDA."
+  },
+  "bread_french_or_vienna_tstd": {
+    "name": "Chlieb, francúzsky alebo viedenský, tstd (ind kvások)",
+    "alternative_names": [],
+    "description": "Chlieb, francúzsky alebo viedenský, tstd (ind kvások) z databázy USDA."
+  },
+  "bread_italian": {
+    "name": "Chlieb, taliansky",
+    "alternative_names": [],
+    "description": "Chlieb, taliansky z databázy USDA."
+  },
+  "bread_multi_grain": {
+    "name": "Chlieb, viaczrnný (vrátane celozrnného)",
+    "alternative_names": [],
+    "description": "Chlieb, viaczrnný (vrátane celozrnného) z databázy USDA."
+  },
+  "bread_multi_grain_tstd": {
+    "name": "Chlieb, viaczrnný, tstd (vrátane celozrnného)",
+    "alternative_names": [],
+    "description": "Chlieb, viaczrnný, tstd (vrátane celozrnného) z databázy USDA."
+  },
+  "bread_oat_bran_toasted": {
+    "name": "Chlieb, ovsené otruby, opekané",
+    "alternative_names": [],
+    "description": "Chlieb, ovsené otruby, opekané z databázy USDA."
+  },
+  "bread_oatmeal": {
+    "name": "Chlieb, ovsené vločky",
+    "alternative_names": [],
+    "description": "Chlieb, ovsené vločky z databázy USDA."
+  },
+  "bread_pita_white_enriched": {
+    "name": "Chlieb, pita, biely, obohatený",
+    "alternative_names": [],
+    "description": "Chlieb, pita, biely, obohatený z databázy USDA."
+  },
+  "bread_pita_whole_wheat": {
+    "name": "Chlieb, pita, celozrnný",
+    "alternative_names": [],
+    "description": "Chlieb, pita, celozrnný z databázy USDA."
+  },
+  "bread_prot": {
+    "name": "Chlieb, prot (vrátane lepku)",
+    "alternative_names": [],
+    "description": "Chlieb, prot (vrátane lepku) z databázy USDA."
+  },
+  "bread_pumpernickel": {
+    "name": "Chlieb, niklový",
+    "alternative_names": [],
+    "description": "Chlieb, niklový z databázy USDA."
+  },
+  "bread_pumpernickel_tstd": {
+    "name": "Chlieb, pumpernickel, tstd",
+    "alternative_names": [],
+    "description": "Chlieb, pumpernickel, tstd z databázy USDA."
+  },
+  "bread_raisin_enriched": {
+    "name": "Chlieb, hrozienka, obohatený",
+    "alternative_names": [],
+    "description": "Chlieb, hrozienka, obohatený z databázy USDA."
+  },
+  "bread_raisin_tstd_enr": {
+    "name": "Chlieb, hrozienka, tstd, enr",
+    "alternative_names": [],
+    "description": "Chlieb, hrozienka, tstd, enr z databázy USDA."
+  },
+  "bread_red_cal_oat_bran": {
+    "name": "Chlieb, červený kal, ovsené otruby",
+    "alternative_names": [],
+    "description": "Chlieb, červený kal, ovsené otruby z databázy USDA."
+  },
+  "bread_red_cal_oat_bran_tstd": {
+    "name": "Chlieb, červený kal, ovsené otruby, tstd",
+    "alternative_names": [],
+    "description": "Chlieb, červený kal, ovsené otruby, tstd z databázy USDA."
+  },
+  "bread_reduced_calorie_rye": {
+    "name": "Chlieb, nízkokalorický, raž",
+    "alternative_names": [],
+    "description": "Chlieb, nízkokalorický, raž z databázy USDA."
+  },
+  "bread_red_cal_wheat": {
+    "name": "Chlieb, červený kal, pšenica",
+    "alternative_names": [],
+    "description": "Chlieb, červený kal, pšenica z databázy USDA."
+  },
+  "bread_red_cal_white": {
+    "name": "Chlieb, červeno-cal, biely",
+    "alternative_names": [],
+    "description": "Chlieb, červeno-cal, biely z databázy USDA."
+  },
+  "bread_rice_bran": {
+    "name": "Chlieb, ryžové otruby",
+    "alternative_names": [],
+    "description": "Chlieb, ryžové otruby z databázy USDA."
+  },
+  "bread_rye_toasted": {
+    "name": "Chlieb, raž, opečený",
+    "alternative_names": [],
+    "description": "Chlieb, raž, opečený z databázy USDA."
+  },
+  "bread_wheat_tstd": {
+    "name": "Chlieb, pšenica, tstd",
+    "alternative_names": [],
+    "description": "Chlieb, pšenica, tstd z databázy USDA."
+  },
+  "bread_wheat_bran": {
+    "name": "Chlieb, pšeničné otruby",
+    "alternative_names": [],
+    "description": "Chlieb, pšeničné otruby z databázy USDA."
+  },
+  "bread_wheat_germ": {
+    "name": "Chlieb, pšeničné klíčky",
+    "alternative_names": [],
+    "description": "Chlieb, pšeničné klíčky z databázy USDA."
+  },
+  "bread_white_commly_prep": {
+    "name": "Chlieb, biely, bežne pripravený (vrátane mäkkej strúhanky)",
+    "alternative_names": [],
+    "description": "Chlieb, biely, bežne pripravený (vrátane mäkkej strúhanky) z databázy USDA."
+  },
+  "bread_white_commly_prep_tstd": {
+    "name": "Chlieb, biely, bežne pripravený, tstd",
+    "alternative_names": [],
+    "description": "Chlieb, biely, bežne pripravený, tstd z databázy USDA."
+  },
+  "bread_whole_wheat_comm_prepared": {
+    "name": "Chlieb, celozrnný, kom. pripravené",
+    "alternative_names": [],
+    "description": "Chlieb, celozrnný, kom. pripravené z databázy USDA."
+  },
+  "bread_whole_wheat_commer_prep_toasted": {
+    "name": "Chlieb, celozrnný, dusený, opečený",
+    "alternative_names": [],
+    "description": "Chlieb, celozrnný, dusený, opečený z databázy USDA."
+  },
+  "bread_whole_wheat_prep_from_recipe": {
+    "name": "Chlieb, celozrnný, príprava podľa receptu",
+    "alternative_names": [],
+    "description": "Chlieb, celozrnný, príprava podľa receptu z databázy USDA."
+  },
+  "bread_whole_wheat_prep_from_recipe_tstd": {
+    "name": "Chlieb, celozrnný, príprava podľa receptu, tstd",
+    "alternative_names": [],
+    "description": "Chlieb, celozrnný, príprava podľa receptu, tstd z databázy USDA."
+  },
+  "bread_crumbs_dry_grated_pln": {
+    "name": "Strúhanka, suchá, strúhaná, pln",
+    "alternative_names": [],
+    "description": "Strúhanka, suchá, strúhaná, pln z databázy USDA."
+  },
+  "bread_sticks_plain": {
+    "name": "Chlebové tyčinky, hladké",
+    "alternative_names": [],
+    "description": "Chlebové tyčinky, hladké z databázy USDA."
+  },
+  "bread_stuffing_bread_dry_mix": {
+    "name": "Chlebová plnka, chlieb, suchá zmes",
+    "alternative_names": [],
+    "description": "Chlebová plnka, chlieb, suchá zmes z databázy USDA."
+  },
+  "bread_stuffing_bread_dry_mix_prep": {
+    "name": "Plnka na chlieb, chlieb, suchá zmes, príprava",
+    "alternative_names": [],
+    "description": "Plnka na chlieb, chlieb, suchá zmes, príprava z databázy USDA."
+  },
+  "bread_stuffing_cornbread_dry_mix_prep": {
+    "name": "Chlebová plnka, kukuričný chlieb, suchá zmes, príprava",
+    "alternative_names": [],
+    "description": "Chlebová plnka, kukuričný chlieb, suchá zmes, príprava z databázy USDA."
+  },
+  "cake_boston_crm_pie_commly_prep": {
+    "name": "Torta, boston crm koláč, bežná príprava",
+    "alternative_names": [],
+    "description": "Torta, boston crm koláč, bežná príprava z databázy USDA."
+  },
+  "cookies_choc_sndwch_wcreme_filling_reg_chocol": {
+    "name": "Sušienky, čokoládový sndwch, s krémovou náplňou, reg, potiahnuté čokoládou",
+    "alternative_names": [],
+    "description": "Sušienky, čokoládový sndwch, s krémovou náplňou, reg, potiahnuté čokoládou z databázy USDA."
+  },
+  "cookies_graham_crackers_chocolate_coated": {
+    "name": "Sušienky, grahamové sušienky, v čokoláde",
+    "alternative_names": [],
+    "description": "Sušienky, grahamové sušienky, v čokoláde z databázy USDA."
+  },
+  "cookies_marshmllw_chocolate_coated": {
+    "name": "Sušienky, marshmllw, v čokoláde (vrátane marshmllw koláčov)",
+    "alternative_names": [],
+    "description": "Sušienky, marshmllw, v čokoláde (vrátane marshmllw koláčov) z databázy USDA."
+  },
+  "cookies_oatmeal_commly_prep_reg": {
+    "name": "Sušienky, ovsené vločky, obyčajná príprava",
+    "alternative_names": [],
+    "description": "Sušienky, ovsené vločky, obyčajná príprava z databázy USDA."
+  },
+  "cookies_oatmeal_commly_prep_spl_dietary": {
+    "name": "Sušienky, ovsené vločky, obyčajná príprava, diétne",
+    "alternative_names": [],
+    "description": "Sušienky, ovsené vločky, obyčajná príprava, diétne z databázy USDA."
+  },
+  "cookies_sugar_refr_dough": {
+    "name": "Sušienky, cukor, cesto",
+    "alternative_names": [],
+    "description": "Sušienky, cukor, cesto z databázy USDA."
+  },
+  "cookies_sugar_refr_dough_bkd": {
+    "name": "Sušienky, cukor, ref. cesto, bkd",
+    "alternative_names": [],
+    "description": "Sušienky, cukor, ref. cesto, bkd z databázy USDA."
+  },
+  "puff_pastry_frz_rtb_bkd": {
+    "name": "Lístkové cesto, frz, rtb, bkd",
+    "alternative_names": [],
+    "description": "Lístkové cesto, frz, rtb, bkd z databázy USDA."
+  },
+  "crackers_chs_sandwich_type_wpnut_butter_filli": {
+    "name": "Krekry, chs, sendvičové s maslovou náplňou",
+    "alternative_names": [],
+    "description": "Krekry, chs, sendvičové s maslovou náplňou z databázy USDA."
+  },
+  "crackers_melba_toast_pln": {
+    "name": "Krekry, melba toasty, pln",
+    "alternative_names": [],
+    "description": "Krekry, melba toasty, pln z databázy USDA."
+  },
+  "crackers_saltines": {
+    "name": "Krekry, slané tyčinky (vrátane ustríc, sódy, polievky)",
+    "alternative_names": [],
+    "description": "Krekry, slané tyčinky (vrátane ustríc, sódy, polievky) z databázy USDA."
+  },
+  "crackers_whole_wheat": {
+    "name": "Sušienky, celozrnné",
+    "alternative_names": [],
+    "description": "Sušienky, celozrnné z databázy USDA."
+  },
+  "danish_pastry_cinn_enr": {
+    "name": "Dánske pečivo, cinn, enr",
+    "alternative_names": [],
+    "description": "Dánske pečivo, cinn, enr z databázy USDA."
+  },
+  "danish_pastry_fruit_enr": {
+    "name": "Dánske pečivo, ovocie, enr",
+    "alternative_names": [],
+    "description": "Dánske pečivo, ovocie, enr z databázy USDA."
+  },
+  "danish_pastry_nut": {
+    "name": "Dánske pečivo, orechy (vrátane mandlí, hrozienok, škorice)",
+    "alternative_names": [],
+    "description": "Dánske pečivo, orechy (vrátane mandlí, hrozienok, škorice) z databázy USDA."
+  },
+  "doughnuts_cake_type_wheat_sugared_or_glazed": {
+    "name": "Šišky, koláčové, pšeničné, s cukrom alebo glazúrované",
+    "alternative_names": [],
+    "description": "Šišky, koláčové, pšeničné, s cukrom alebo glazúrované z databázy USDA."
+  },
+  "english_muffin_pln_enchedwca_prop": {
+    "name": "anglický muffin, pln, enched.w/ca prop (vrátane kysnutého cesta)",
+    "alternative_names": [],
+    "description": "anglický muffin, pln, enched.w/ca prop (vrátane kysnutého cesta) z databázy USDA."
+  },
+  "english_muffin_pln_tstd_enr_wca_prop": {
+    "name": "English, muffin, pln, tstd, enr, w/ca prop (incl sourdough)",
+    "alternative_names": [],
+    "description": "English, muffin, pln, tstd, enr, w/ca prop (incl sourdough) z databázy USDA."
+  },
+  "english_muffins_wheat": {
+    "name": "Anglické muffiny, pšeničné",
+    "alternative_names": [],
+    "description": "Anglické muffiny, pšeničné z databázy USDA."
+  },
+  "english_muffins_wheat_tstd": {
+    "name": "Anglické muffiny, pšeničné, tstd",
+    "alternative_names": [],
+    "description": "Anglické muffiny, pšeničné, tstd z databázy USDA."
+  },
+  "english_muffins_whole_wheat": {
+    "name": "Anglické muffiny, celozrnné",
+    "alternative_names": [],
+    "description": "Anglické muffiny, celozrnné z databázy USDA."
+  },
+  "english_muffins_whole_wheat_tstd": {
+    "name": "Anglické muffiny, celozrnné, tstd",
+    "alternative_names": [],
+    "description": "Anglické muffiny, celozrnné, tstd z databázy USDA."
+  },
+  "muffins_corn_commly_prep": {
+    "name": "Muffiny, kukurica, bežná príprava",
+    "alternative_names": [],
+    "description": "Muffiny, kukurica, bežná príprava z databázy USDA."
+  },
+  "muffins_wheat_bran_toaster_type_wraisins": {
+    "name": "Muffiny, pšeničné otruby, hriankovač s hrozienkami",
+    "alternative_names": [],
+    "description": "Muffiny, pšeničné otruby, hriankovač s hrozienkami z databázy USDA."
+  },
+  "pancakes_pln_frz_rth": {
+    "name": "Palacinky pln, frz, rth (obsahuje cmar)",
+    "alternative_names": [],
+    "description": "Palacinky pln, frz, rth (obsahuje cmar) z databázy USDA."
+  },
+  "pancakes_pln_dry_mix_incomplete": {
+    "name": "Palacinky, pln, suchá zmes, nekompletné (vrátane bttrmlk)",
+    "alternative_names": [],
+    "description": "Palacinky, pln, suchá zmes, nekompletné (vrátane bttrmlk) z databázy USDA."
+  },
+  "pie_appl_commly_prep_enr_flr": {
+    "name": "Koláč, aplikácia, bežná príprava, enr flr",
+    "alternative_names": [],
+    "description": "Koláč, aplikácia, bežná príprava, enr flr z databázy USDA."
+  },
+  "pie_banana_crm_prep_from_recipe": {
+    "name": "Koláč, banánová šľahačka, príprava podľa receptu",
+    "alternative_names": [],
+    "description": "Koláč, banánová šľahačka, príprava podľa receptu z databázy USDA."
+  },
+  "pie_blueberry_commly_prep": {
+    "name": "Koláč, čučoriedka, obyčajná príprava",
+    "alternative_names": [],
+    "description": "Koláč, čučoriedka, obyčajná príprava z databázy USDA."
+  },
+  "pie_cherry_commly_prep": {
+    "name": "Koláč, čerešňa, obyčajná príprava",
+    "alternative_names": [],
+    "description": "Koláč, čerešňa, obyčajná príprava z databázy USDA."
+  },
+  "pie_cocnt_creme_commly_prep": {
+    "name": "Koláč, kokt. krém, bežná príprava",
+    "alternative_names": [],
+    "description": "Koláč, kokt. krém, bežná príprava z databázy USDA."
+  },
+  "pie_egg_custard_commly_prep": {
+    "name": "Koláč, vaječný krém, bežná príprava",
+    "alternative_names": [],
+    "description": "Koláč, vaječný krém, bežná príprava z databázy USDA."
+  },
+  "pie_lemon_meringue_commly_prep": {
+    "name": "Koláč, citrónová pusinka, bežná príprava",
+    "alternative_names": [],
+    "description": "Koláč, citrónová pusinka, bežná príprava z databázy USDA."
+  },
+  "pie_mince_prep_from_recipe": {
+    "name": "Koláč, mleté ​​mäso, príprava podľa receptu",
+    "alternative_names": [],
+    "description": "Koláč, mleté ​​mäso, príprava podľa receptu z databázy USDA."
+  },
+  "pie_peach": {
+    "name": "Koláč, broskyňa",
+    "alternative_names": [],
+    "description": "Koláč, broskyňa z databázy USDA."
+  },
+  "pie_pecan_commly_prep": {
+    "name": "Koláč, pekanové orechy, obyčajná príprava",
+    "alternative_names": [],
+    "description": "Koláč, pekanové orechy, obyčajná príprava z databázy USDA."
+  },
+  "pie_pumpkin_commly_prep": {
+    "name": "Koláč, tekvica, obyčajná príprava",
+    "alternative_names": [],
+    "description": "Koláč, tekvica, obyčajná príprava z databázy USDA."
+  },
+  "pie_vanilla_crm_prep_from_recipe": {
+    "name": "Koláč, vanilkový krém, príprava z receptu",
+    "alternative_names": [],
+    "description": "Koláč, vanilkový krém, príprava z receptu z databázy USDA."
+  },
+  "pie_crust_cookie_type_prep_from_recipe_graham": {
+    "name": "Koláčová kôra, sušienka, príprava podľa receptu, grahamový rožok, bkd",
+    "alternative_names": [],
+    "description": "Koláčová kôra, sušienka, príprava podľa receptu, grahamový rožok, bkd z databázy USDA."
+  },
+  "pie_crust_standard_type_frz_rtb_enr": {
+    "name": "Koláčová kôra, štandardný typ, frz, rtb, enr",
+    "alternative_names": [],
+    "description": "Koláčová kôra, štandardný typ, frz, rtb, enr z databázy USDA."
+  },
+  "pie_crust_standard_type_frz_rtb_enr_bkd": {
+    "name": "Koláčová kôra, štandardný typ, frz, rtb, enr, bkd",
+    "alternative_names": [],
+    "description": "Koláčová kôra, štandardný typ, frz, rtb, enr, bkd z databázy USDA."
+  },
+  "pie_crust_standard_type_prep_from_recipe_bkd": {
+    "name": "Koláčová kôra, štandardný typ, príprava podľa receptu, bkd",
+    "alternative_names": [],
+    "description": "Koláčová kôra, štandardný typ, príprava podľa receptu, bkd z databázy USDA."
+  },
+  "puff_pastry_frz_rtb": {
+    "name": "Lístkové cesto, frz, rtb",
+    "alternative_names": [],
+    "description": "Lístkové cesto, frz, rtb z databázy USDA."
+  },
+  "phyllo_dough": {
+    "name": "Fylové cesto",
+    "alternative_names": [],
+    "description": "Fylové cesto z databázy USDA."
+  },
+  "rolls_dinner_wheat": {
+    "name": "Rolky, večera, pšenica",
+    "alternative_names": [],
+    "description": "Rolky, večera, pšenica z databázy USDA."
+  },
+  "rolls_dinner_whole_wheat": {
+    "name": "Rolky, večera, celozrnné",
+    "alternative_names": [],
+    "description": "Rolky, večera, celozrnné z databázy USDA."
+  },
+  "waffles_pln_frz_rth": {
+    "name": "Vafle, pln, frz, rth",
+    "alternative_names": [],
+    "description": "Vafle, pln, frz, rth z databázy USDA."
+  },
+  "bread_crumbs_dry_grated_seasoned": {
+    "name": "Strúhanka, suchá, strúhaná, ochutená",
+    "alternative_names": [],
+    "description": "Strúhanka, suchá, strúhaná, ochutená z databázy USDA."
+  },
+  "bread_prot_tstd": {
+    "name": "Chlieb, prot, tstd (vrátane lepku)",
+    "alternative_names": [],
+    "description": "Chlieb, prot, tstd (vrátane lepku) z databázy USDA."
+  },
+  "bread_rice_bran_toasted": {
+    "name": "Chlieb, ryžové otruby, opekané",
+    "alternative_names": [],
+    "description": "Chlieb, ryžové otruby, opekané z databázy USDA."
+  },
+  "bread_wheat_germ_toasted": {
+    "name": "Chlieb, pšeničné klíčky, opečený",
+    "alternative_names": [],
+    "description": "Chlieb, pšeničné klíčky, opečený z databázy USDA."
+  },
+  "muffins_wheat_bran_toaster_type_wraisins_tstd": {
+    "name": "Muffiny, pšeničné otruby, hriankovač s hrozienkami, tstd",
+    "alternative_names": [],
+    "description": "Muffiny, pšeničné otruby, hriankovač s hrozienkami, tstd z databázy USDA."
+  },
+  "pie_crust_cookie_type_prep_from_recipe_choc_w": {
+    "name": "Koláčová kôra, sušienka, príprava podľa receptu, čokoládová oblátka, chladená",
+    "alternative_names": [],
+    "description": "Koláčová kôra, sušienka, príprava podľa receptu, čokoládová oblátka, chladená z databázy USDA."
+  },
+  "pie_crust_cookie_type_prep_fr_recipe_graham_c": {
+    "name": "Koláčová kôra, sušienka, recept na prípravu, grahamový rožok, chladený",
+    "alternative_names": [],
+    "description": "Koláčová kôra, sušienka, recept na prípravu, grahamový rožok, chladený z databázy USDA."
+  },
+  "pie_crust_cookie_type_prep_from_recipe_vanill": {
+    "name": "Koláčová kôra, sušienka, príprava podľa receptu, vanilková oblátka, chladená",
+    "alternative_names": [],
+    "description": "Koláčová kôra, sušienka, príprava podľa receptu, vanilková oblátka, chladená z databázy USDA."
+  },
+  "pie_crust_standard_type_prep_from_recipe_unba": {
+    "name": "Koláčová kôra, štandardný typ, príprava podľa receptu, nepečená",
+    "alternative_names": [],
+    "description": "Koláčová kôra, štandardný typ, príprava podľa receptu, nepečená z databázy USDA."
+  },
+  "waffles_pln_frz_ready_to_heat_tstd": {
+    "name": "Vafle, pln, frz, pripraven na ohrev, tstd",
+    "alternative_names": [],
+    "description": "Vafle, pln, frz, pripraven na ohrev, tstd z databázy USDA."
+  },
+  "bread_white_commly_prep_lo_na_no_salt": {
+    "name": "Chlieb, biely, bežne pripravený, bez soli",
+    "alternative_names": [],
+    "description": "Chlieb, biely, bežne pripravený, bez soli z databázy USDA."
+  },
+  "crackers_saltines_lo_salt": {
+    "name": "Krekry, slané tyčinky, soľ (vrátane ustríc, sódy, polievky)",
+    "alternative_names": [],
+    "description": "Krekry, slané tyčinky, soľ (vrátane ustríc, sódy, polievky) z databázy USDA."
+  },
+  "crackers_wheat_low_salt": {
+    "name": "Krekry, pšenica, s nízkym obsahom soli",
+    "alternative_names": [],
+    "description": "Krekry, pšenica, s nízkym obsahom soli z databázy USDA."
+  },
+  "crackers_whole_wheat_lo_salt": {
+    "name": "Krekry, celozrnné, soľ",
+    "alternative_names": [],
+    "description": "Krekry, celozrnné, soľ z databázy USDA."
+  },
+  "cookies_oatmeal_commly_prep_fat_free": {
+    "name": "Sušienky, ovsené vločky, obyčajná príprava, bez tuku",
+    "alternative_names": [],
+    "description": "Sušienky, ovsené vločky, obyčajná príprava, bez tuku z databázy USDA."
+  },
+  "crackers_chs_sandwich_type_w_chs_filling": {
+    "name": "Krekry, chs, sendvičový typ s náplňou chs",
+    "alternative_names": [],
+    "description": "Krekry, chs, sendvičový typ s náplňou chs z databázy USDA."
+  },
+  "waffles_bttrmlk_frz_rth": {
+    "name": "Vafle, bttrmlk, frz, rth",
+    "alternative_names": [],
+    "description": "Vafle, bttrmlk, frz, rth z databázy USDA."
+  },
+  "pancakes_pln_frz_rth_microwave": {
+    "name": "Palacinky, pln, frz, rth, mikrovlnka (inc buttmlk)",
+    "alternative_names": [],
+    "description": "Palacinky, pln, frz, rth, mikrovlnka (inc buttmlk) z databázy USDA."
+  },
+  "muffin_blueberry_commly_prep_low_fat": {
+    "name": "Muffin, čučoriedkový, bežný prípravok, nízkotučný",
+    "alternative_names": [],
+    "description": "Muffin, čučoriedkový, bežný prípravok, nízkotučný z databázy USDA."
+  },
+  "pie_crust_cookie_type_graham_cracker_ready_cr": {
+    "name": "Koláčová kôra, sušienka, grahamový rožok, hotová kôrka",
+    "alternative_names": [],
+    "description": "Koláčová kôra, sušienka, grahamový rožok, hotová kôrka z databázy USDA."
+  },
+  "pie_crust_cookie_type_choc_ready_crust": {
+    "name": "Koláčová kôra, sušienka, čokoláda, hotová kôrka",
+    "alternative_names": [],
+    "description": "Koláčová kôra, sušienka, čokoláda, hotová kôrka z databázy USDA."
+  },
+  "pie_dutch_appl_commly_prep": {
+    "name": "Koláč, holandská aplikácia, obyčajná príprava",
+    "alternative_names": [],
+    "description": "Koláč, holandská aplikácia, obyčajná príprava z databázy USDA."
+  },
+  "pie_crust_deep_dish_frz_unbaked_made_w_enr_fl": {
+    "name": "Koláčová kôra, hlboká miska, frz, nepečená, vyrobená s flr",
+    "alternative_names": [],
+    "description": "Koláčová kôra, hlboká miska, frz, nepečená, vyrobená s flr z databázy USDA."
+  },
+  "pie_crust_refr_reg_bkd": {
+    "name": "Koláčová kôra, refr, reg, bkd",
+    "alternative_names": [],
+    "description": "Koláčová kôra, refr, reg, bkd z databázy USDA."
+  },
+  "pie_crust_deep_dish_frz_bkd_made_w_enr_flr": {
+    "name": "Koláčová kôra, hlboká miska, frz, bkd, vyrobená s flr",
+    "alternative_names": [],
+    "description": "Koláčová kôra, hlboká miska, frz, bkd, vyrobená s flr z databázy USDA."
+  },
+  "crackers_whole_wheat_red_fat": {
+    "name": "Krekry, celozrnné, červený tuk",
+    "alternative_names": [],
+    "description": "Krekry, celozrnné, červený tuk z databázy USDA."
+  },
+  "crackers_wheat_red_fat": {
+    "name": "Krekry, pšenica, červený tuk",
+    "alternative_names": [],
+    "description": "Krekry, pšenica, červený tuk z databázy USDA."
+  },
+  "waffles_choc_chip_frz_rth": {
+    "name": "Vafle, čokoláda, frz, rth",
+    "alternative_names": [],
+    "description": "Vafle, čokoláda, frz, rth z databázy USDA."
+  },
+  "bread_salvadoran_swt_chs": {
+    "name": "Chlieb, salvadorský swt chs (quesadilla salvadorena)",
+    "alternative_names": [],
+    "description": "Chlieb, salvadorský swt chs (quesadilla salvadorena) z databázy USDA."
+  },
+  "bread_pan_dulce_swt_yeast_bread": {
+    "name": "Chlieb, panvica dulce, drožďový chlieb",
+    "alternative_names": [],
+    "description": "Chlieb, panvica dulce, drožďový chlieb z databázy USDA."
+  },
+  "pastry_pastelitos_de_guava": {
+    "name": "Pečivo, pastelitos de guava (guávové pečivo)",
+    "alternative_names": [],
+    "description": "Pečivo, pastelitos de guava (guávové pečivo) z databázy USDA."
+  },
+  "garlic_bread_frz": {
+    "name": "Cesnakový chlieb, frz",
+    "alternative_names": [],
+    "description": "Cesnakový chlieb, frz z databázy USDA."
+  },
+  "crackers_saltines_whl_wheat": {
+    "name": "Krekry, slané tyčinky, pšenica (vrátane viaczrnných)",
+    "alternative_names": [],
+    "description": "Krekry, slané tyčinky, pšenica (vrátane viaczrnných) z databázy USDA."
+  },
+  "bread_wheat_white_wheat": {
+    "name": "Chlieb, pšenica, biela pšenica",
+    "alternative_names": [],
+    "description": "Chlieb, pšenica, biela pšenica z databázy USDA."
+  },
+  "bagel_wheat": {
+    "name": "Bagel, pšenica",
+    "alternative_names": [],
+    "description": "Bagel, pšenica z databázy USDA."
+  },
+  "bread_potato": {
+    "name": "Chlieb, zemiaky",
+    "alternative_names": [],
+    "description": "Chlieb, zemiaky z databázy USDA."
+  },
+  "bread_chs": {
+    "name": "Chlieb, chs",
+    "alternative_names": [],
+    "description": "Chlieb, chs z databázy USDA."
+  },
+  "focaccia_italian_flatbread_pln": {
+    "name": "Focaccia, taliansky chlieb, pln",
+    "alternative_names": [],
+    "description": "Focaccia, taliansky chlieb, pln z databázy USDA."
+  },
+  "granola_bars_oats_fruitsnut": {
+    "name": "Granolové tyčinky, ovsené vločky, ovocie a orechy",
+    "alternative_names": [],
+    "description": "Granolové tyčinky, ovsené vločky, ovocie a orechy z databázy USDA."
+  },
+  "oriental_mix_rice_based": {
+    "name": "Orientálna zmes na báze ryže",
+    "alternative_names": [],
+    "description": "Orientálna zmes na báze ryže z databázy USDA."
+  },
+  "popcorn_air_popped": {
+    "name": "Popcorn, vzduchom napučaný",
+    "alternative_names": [],
+    "description": "Popcorn, vzduchom napučaný z databázy USDA."
+  },
+  "popcorn_oil_popped": {
+    "name": "Popcorn, v oleji",
+    "alternative_names": [],
+    "description": "Popcorn, v oleji z databázy USDA."
+  },
+  "popcorn_cakes": {
+    "name": "Popcorn, koláče",
+    "alternative_names": [],
+    "description": "Popcorn, koláče z databázy USDA."
+  },
+  "popcorn_caramel_coated_wpnuts": {
+    "name": "Pukance, potiahnuté karamelom, so slaninou",
+    "alternative_names": [],
+    "description": "Pukance, potiahnuté karamelom, so slaninou z databázy USDA."
+  },
+  "popcorn_caramel_coated_wopnuts": {
+    "name": "Popcorn, karamelový, wo/pnuts",
+    "alternative_names": [],
+    "description": "Popcorn, karamelový, wo/pnuts z databázy USDA."
+  },
+  "rice_cakes_brown_rice_pln": {
+    "name": "Ryžové koláčiky, hnedá ryža, pln",
+    "alternative_names": [],
+    "description": "Ryžové koláčiky, hnedá ryža, pln z databázy USDA."
+  },
+  "candies_mars_snackfood_us_twix_caramel_cookie": {
+    "name": "Cukríky, mars snackfood us, twix karamelové sušienky",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, twix karamelové sušienky z databázy USDA."
+  },
+  "candies_mars_snackfood_us_twix_pnut_butter_co": {
+    "name": "Cukríky, mars snackfood us, twix pnut maslové sušienky",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, twix pnut maslové sušienky z databázy USDA."
+  },
+  "puddings_rice_rte": {
+    "name": "Pudingy, ryža, rte",
+    "alternative_names": [],
+    "description": "Pudingy, ryža, rte z databázy USDA."
+  },
+  "pie_fillings_appl_cnd": {
+    "name": "Koláčové plnky, appl, cnd",
+    "alternative_names": [],
+    "description": "Koláčové plnky, appl, cnd z databázy USDA."
+  },
+  "sesame_stks_wheat_based_salted": {
+    "name": "Sezamové stks, na báze pšenice, solené",
+    "alternative_names": [],
+    "description": "Sezamové stks, na báze pšenice, solené z databázy USDA."
+  },
+  "cheese_puffs_twists_corn_bsd_bkd_lofat": {
+    "name": "Syrové oblátky a závitky, corn bsd, bkd, lofat",
+    "alternative_names": [],
+    "description": "Syrové oblátky a závitky, corn bsd, bkd, lofat z databázy USDA."
+  },
+  "rice_cakes_brown_rice_pln_unsalted": {
+    "name": "Ryžové koláčiky, hnedá ryža, pln, nesolené",
+    "alternative_names": [],
+    "description": "Ryžové koláčiky, hnedá ryža, pln, nesolené z databázy USDA."
+  },
+  "barley_hulled": {
+    "name": "Jačmeň, lúpaný",
+    "alternative_names": [],
+    "description": "Jačmeň, lúpaný z databázy USDA."
+  },
+  "barley_pearled_raw": {
+    "name": "Jačmeň, perlový, surový",
+    "alternative_names": [],
+    "description": "Jačmeň, perlový, surový z databázy USDA."
+  },
+  "barley_pearled_cooked": {
+    "name": "Jačmeň, perličkový, varený",
+    "alternative_names": [],
+    "description": "Jačmeň, perličkový, varený z databázy USDA."
+  },
+  "corn_yellow": {
+    "name": "Kukurica, žltá",
+    "alternative_names": [],
+    "description": "Kukurica, žltá z databázy USDA."
+  },
+  "corn_bran_crude": {
+    "name": "Kukuričné ​​otruby, surové",
+    "alternative_names": [],
+    "description": "Kukuričné ​​otruby, surové z databázy USDA."
+  },
+  "corn_flr_whole_grain_yel": {
+    "name": "Kukurica flr, celozrnná, žlť",
+    "alternative_names": [],
+    "description": "Kukurica flr, celozrnná, žlť z databázy USDA."
+  },
+  "corn_flr_degermed_unenr_yel": {
+    "name": "Kukurica flr, degermed, unenr, yel",
+    "alternative_names": [],
+    "description": "Kukurica flr, degermed, unenr, yel z databázy USDA."
+  },
+  "rice_brown_long_grain_raw": {
+    "name": "Ryža, hnedá, dlhozrnná, surová",
+    "alternative_names": [],
+    "description": "Ryža, hnedá, dlhozrnná, surová z databázy USDA."
+  },
+  "rice_brown_long_grain_ckd": {
+    "name": "Ryža, hnedá, dlhozrnná, ckd",
+    "alternative_names": [],
+    "description": "Ryža, hnedá, dlhozrnná, ckd z databázy USDA."
+  },
+  "rice_white_long_grain_reg_raw_enr": {
+    "name": "Ryža, biela, dlhozrnná, reg, surová, enr",
+    "alternative_names": [],
+    "description": "Ryža, biela, dlhozrnná, reg, surová, enr z databázy USDA."
+  },
+  "rice_white_long_grain_parbld_enr_dry": {
+    "name": "Ryža, biela, dlhozrnná, parbld, enr, suchá",
+    "alternative_names": [],
+    "description": "Ryža, biela, dlhozrnná, parbld, enr, suchá z databázy USDA."
+  },
+  "rice_white_long_grain_preckd_or_inst_enr_dry": {
+    "name": "Ryža, biela, dlhozrnná, preckd alebo inst, enr, suchá",
+    "alternative_names": [],
+    "description": "Ryža, biela, dlhozrnná, preckd alebo inst, enr, suchá z databázy USDA."
+  },
+  "rice_bran_crude": {
+    "name": "Ryžové otruby, surové",
+    "alternative_names": [],
+    "description": "Ryžové otruby, surové z databázy USDA."
+  },
+  "rye_flour_dark": {
+    "name": "Ražná múka tmavá",
+    "alternative_names": [],
+    "description": "Ražná múka tmavá z databázy USDA."
+  },
+  "rye_flour_medium": {
+    "name": "Ražná múka, stredná",
+    "alternative_names": [],
+    "description": "Ražná múka, stredná z databázy USDA."
+  },
+  "rye_flour_light": {
+    "name": "Ražná múka svetlá",
+    "alternative_names": [],
+    "description": "Ražná múka svetlá z databázy USDA."
+  },
+  "wheat_hard_red_spring": {
+    "name": "Pšenica, tvrdá červená jar",
+    "alternative_names": [],
+    "description": "Pšenica, tvrdá červená jar z databázy USDA."
+  },
+  "wheat_hard_red_winter": {
+    "name": "Pšenica, tuhá červená zima",
+    "alternative_names": [],
+    "description": "Pšenica, tuhá červená zima z databázy USDA."
+  },
+  "wheat_hard_white": {
+    "name": "Pšenica, tvrdá biela",
+    "alternative_names": [],
+    "description": "Pšenica, tvrdá biela z databázy USDA."
+  },
+  "wheat_soft_white": {
+    "name": "Pšenica, jemná biela",
+    "alternative_names": [],
+    "description": "Pšenica, jemná biela z databázy USDA."
+  },
+  "wheat_bran_crude": {
+    "name": "Pšeničné otruby, surové",
+    "alternative_names": [],
+    "description": "Pšeničné otruby, surové z databázy USDA."
+  },
+  "wheat_flour_whole_grain": {
+    "name": "Pšeničná múka, celozrnná",
+    "alternative_names": [],
+    "description": "Pšeničná múka, celozrnná z databázy USDA."
+  },
+  "wheat_flr_white_all_purpose_enr_bleached": {
+    "name": "Pšenica flr, biela, viacúčelová, enr, bielená",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela, viacúčelová, enr, bielená z databázy USDA."
+  },
+  "wheat_flr_white_all_purpose_self_rising_enr": {
+    "name": "Pšenica flr, biela, viacúčelová, samokyslá, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela, viacúčelová, samokyslá, enr z databázy USDA."
+  },
+  "wheat_flr_white_bread_enr": {
+    "name": "Pšenica flr, biela, chlieb, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela, chlieb, enr z databázy USDA."
+  },
+  "wheat_flr_white_cake_enr": {
+    "name": "Pšenica flr, biela, koláč, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela, koláč, enr z databázy USDA."
+  },
+  "wheat_flr_white_tortilla_mix_enr": {
+    "name": "Pšenica flr, biela, tortilla mix, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela, tortilla mix, enr z databázy USDA."
+  },
+  "wild_rice_raw": {
+    "name": "Divoká ryža, surová",
+    "alternative_names": [],
+    "description": "Divoká ryža, surová z databázy USDA."
+  },
+  "wild_rice_cooked": {
+    "name": "Divoká ryža, varená",
+    "alternative_names": [],
+    "description": "Divoká ryža, varená z databázy USDA."
+  },
+  "macaroni_dry_enr": {
+    "name": "Makaróny, suché, enr",
+    "alternative_names": [],
+    "description": "Makaróny, suché, enr z databázy USDA."
+  },
+  "macaroni_veg_ckd_enr": {
+    "name": "Makaróny, zelenina, ckd, enr",
+    "alternative_names": [],
+    "description": "Makaróny, zelenina, ckd, enr z databázy USDA."
+  },
+  "macaroni_whole_wheat_ckd": {
+    "name": "Makaróny, celozrnné, ckd",
+    "alternative_names": [],
+    "description": "Makaróny, celozrnné, ckd z databázy USDA."
+  },
+  "noodles_egg_dry_enriched": {
+    "name": "Rezance, vaječné, suché, obohatené",
+    "alternative_names": [],
+    "description": "Rezance, vaječné, suché, obohatené z databázy USDA."
+  },
+  "noodles_egg_spinach_ckd_enr": {
+    "name": "Rezance, vajcia, špenát, ckd, enr",
+    "alternative_names": [],
+    "description": "Rezance, vajcia, špenát, ckd, enr z databázy USDA."
+  },
+  "noodles_chinese_chow_mein": {
+    "name": "Rezance, čínske, chow mein",
+    "alternative_names": [],
+    "description": "Rezance, čínske, chow mein z databázy USDA."
+  },
+  "noodles_flat_crunchy_chinese_restaurant": {
+    "name": "Rezance, ploché, chrumkavé, čínska reštaurácia",
+    "alternative_names": [],
+    "description": "Rezance, ploché, chrumkavé, čínska reštaurácia z databázy USDA."
+  },
+  "spaghetti_dry_enriched": {
+    "name": "Špagety, suché, obohatené",
+    "alternative_names": [],
+    "description": "Špagety, suché, obohatené z databázy USDA."
+  },
+  "spaghetti_whole_wheat_ckd": {
+    "name": "Špagety, celozrnné, CKD",
+    "alternative_names": [],
+    "description": "Špagety, celozrnné, CKD z databázy USDA."
+  },
+  "spaghetti_spinach_dry": {
+    "name": "Špagety, špenát, suché",
+    "alternative_names": [],
+    "description": "Špagety, špenát, suché z databázy USDA."
+  },
+  "wheat_flours_bread_unenr": {
+    "name": "Pšeničná múka, chlieb, unenr",
+    "alternative_names": [],
+    "description": "Pšeničná múka, chlieb, unenr z databázy USDA."
+  },
+  "barley_malt_flr": {
+    "name": "Jačmenný slad flr",
+    "alternative_names": [],
+    "description": "Jačmenný slad flr z databázy USDA."
+  },
+  "corn_flr_whole_grain_white": {
+    "name": "Kukurica flr, celozrnná, biela",
+    "alternative_names": [],
+    "description": "Kukurica flr, celozrnná, biela z databázy USDA."
+  },
+  "noodles_egg_dry_unenr": {
+    "name": "Rezance, vaječné, suché, unenr",
+    "alternative_names": [],
+    "description": "Rezance, vaječné, suché, unenr z databázy USDA."
+  },
+  "spaghetti_dry_unenriched": {
+    "name": "Špagety, suché, neobohatené",
+    "alternative_names": [],
+    "description": "Špagety, suché, neobohatené z databázy USDA."
+  },
+  "rice_white_long_grain_reg_raw_unenr": {
+    "name": "Ryža, biela, dlhozrnná, obyčajná, surová, unenr",
+    "alternative_names": [],
+    "description": "Ryža, biela, dlhozrnná, obyčajná, surová, unenr z databázy USDA."
+  },
+  "rice_white_long_grain_parbld_unenr_dry": {
+    "name": "Ryža, biela, dlhozrnná, parbld, unenr, suchá",
+    "alternative_names": [],
+    "description": "Ryža, biela, dlhozrnná, parbld, unenr, suchá z databázy USDA."
+  },
+  "wheat_flr_white_all_purpose_unenr": {
+    "name": "Pšenica flr, biela, viacúčelová, unenr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela, viacúčelová, unenr z databázy USDA."
+  },
+  "macaroni_dry_unenriched": {
+    "name": "Makaróny, suché, neobohatené",
+    "alternative_names": [],
+    "description": "Makaróny, suché, neobohatené z databázy USDA."
+  },
+  "wheat_flr_white_all_purpose_enr_unbleached": {
+    "name": "Pšenica flr, biela, viacúčelová, enr, nebielená",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela, viacúčelová, enr, nebielená z databázy USDA."
+  },
+  "wheat_flr_white_9_prot_bleached_enr": {
+    "name": "Pšenica flr, biela (priemyselná), 9% prot, bielená, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 9% prot, bielená, enr z databázy USDA."
+  },
+  "wheat_flr_white_9_prot_bleached_unenr": {
+    "name": "Pšenica flr, biela (priemyselná), 9% prot, bielená, unenr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 9% prot, bielená, unenr z databázy USDA."
+  },
+  "wheat_flr_white_10_prot_bleached_enr": {
+    "name": "Pšenica flr, biela (priemyselná), 10% prot, bielená, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 10% prot, bielená, enr z databázy USDA."
+  },
+  "wheat_flr_white_10_prot_bleached_unenr": {
+    "name": "Pšenica flr, biela (priemyselná), 10% prot, bielená, unenr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 10% prot, bielená, unenr z databázy USDA."
+  },
+  "wheat_flr_white_10_prot_unbleached_enr": {
+    "name": "Pšenica flr, biela (priemyselná), 10% prot, nebielená, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 10% prot, nebielená, enr z databázy USDA."
+  },
+  "wheat_flr_white_115_prot_bleached_enr": {
+    "name": "Pšenica flr, biela (priemyselná), 11,5% prot, bielená, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 11,5% prot, bielená, enr z databázy USDA."
+  },
+  "wheat_flr_white_115_prot_bleached_unenr": {
+    "name": "Pšenica flr, biela (priemyselná), 11,5% prot, bielená, bez",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 11,5% prot, bielená, bez z databázy USDA."
+  },
+  "wheat_flr_white_115_prot_unbleached_enr": {
+    "name": "Pšenica flr, biela (priemyselná), 11,5% prot, nebielená, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 11,5% prot, nebielená, enr z databázy USDA."
+  },
+  "wheat_flr_white_13_prot_bleached_enr": {
+    "name": "Pšenica flr, biela (priemyselná), 13% prot, bielená, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 13% prot, bielená, enr z databázy USDA."
+  },
+  "wheat_flr_white_13_prot_bleached_unenr": {
+    "name": "Pšenica flr, biela (priemyselná), 13% prot, bielená, unenr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 13% prot, bielená, unenr z databázy USDA."
+  },
+  "wheat_flr_white_15_prot_bleached_enr": {
+    "name": "Pšenica flr, biela (priemyselná), 15% prot, bielená, enr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 15% prot, bielená, enr z databázy USDA."
+  },
+  "wheat_flr_white_15_prot_bleached_unenr": {
+    "name": "Pšenica flr, biela (priemyselná), 15% prot, bielená, unenr",
+    "alternative_names": [],
+    "description": "Pšenica flr, biela (priemyselná), 15% prot, bielená, unenr z databázy USDA."
+  },
+  "wheat_flr_whole_grain_soft_wheat": {
+    "name": "Pšenica flr, celozrnná, mäkká pšenica",
+    "alternative_names": [],
+    "description": "Pšenica flr, celozrnná, mäkká pšenica z databázy USDA."
+  },
+  "fast_foods_eng_muffin_wchssausage": {
+    "name": "Rýchle občerstvenie, eng muffin, w/chs&sausage",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, eng muffin, w/chs&sausage z databázy USDA."
+  },
+  "fast_foods_eng_muffin_wegg_chs_canadian_bacon": {
+    "name": "Rýchle občerstvenie, eng muffin, s vajcom, chs, & kanadská slanina",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, eng muffin, s vajcom, chs, & kanadská slanina z databázy USDA."
+  },
+  "fast_foods_eng_muffin_wegg_chs_sausage": {
+    "name": "Rýchle občerstvenie, eng muffin, w/egg, chs, & sausage",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, eng muffin, w/egg, chs, & sausage z databázy USDA."
+  },
+  "fast_foods_french_toast_stks": {
+    "name": "Rýchle občerstvenie, francúzsky toast stks",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, francúzsky toast stks z databázy USDA."
+  },
+  "burger_king_french_toast_stks": {
+    "name": "Burger king, francúzsky toast stks",
+    "alternative_names": [],
+    "description": "Burger king, francúzsky toast stks z databázy USDA."
+  },
+  "fast_foods_bagel_w_ham_egg_chs": {
+    "name": "Rýchle občerstvenie, bagel, so šunkou, vajcom a chs",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, bagel, so šunkou, vajcom a chs z databázy USDA."
+  },
+  "fast_foods_bagel_w_egg_sausage_patty_chs_cond": {
+    "name": "Rýchle občerstvenie, bagel, s vajcom, klobásou, chs, & condmnt",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, bagel, s vajcom, klobásou, chs, & condmnt z databázy USDA."
+  },
+  "fast_foods_bagel_w_brkfst_steak_egg_chs_condm": {
+    "name": "Rýchle občerstvenie, bagel, brkfst steak, vajcia, chs, & condmnt",
+    "alternative_names": [],
+    "description": "Rýchle občerstvenie, bagel, brkfst steak, vajcia, chs, & condmnt z databázy USDA."
+  },
+  "light_ice_crm_soft_serve_blended_w_cookie_pie": {
+    "name": "Ľahká zmrzlina, jemné servírovanie, zmiešané s kúskami sušienok",
+    "alternative_names": [],
+    "description": "Ľahká zmrzlina, jemné servírovanie, zmiešané s kúskami sušienok z databázy USDA."
+  },
+  "kentucky_fried_chick_popcorn_chick": {
+    "name": "Kentucky vyprážané kuriatko, popcorn kuriatko",
+    "alternative_names": [],
+    "description": "Kentucky vyprážané kuriatko, popcorn kuriatko z databázy USDA."
+  },
+  "macaroni_chs_cnd_entree": {
+    "name": "Makaróny a chs, cnd predjedlo",
+    "alternative_names": [],
+    "description": "Makaróny a chs, cnd predjedlo z databázy USDA."
+  },
+  "spaghetti_w_meat_sau_frz_entree": {
+    "name": "Špagety s mäsovou omáčkou, predjedlo",
+    "alternative_names": [],
+    "description": "Špagety s mäsovou omáčkou, predjedlo z databázy USDA."
+  },
+  "pasta_wsliced_franks_in_tomato_sau_cnd_entree": {
+    "name": "Cestoviny s krájanými frankami v paradajkovom sau, cnd predjedlo",
+    "alternative_names": [],
+    "description": "Cestoviny s krájanými frankami v paradajkovom sau, cnd predjedlo z databázy USDA."
+  },
+  "beef_pot_pie_frz_entree_prep": {
+    "name": "Hovädzí kotlíkový koláč, frz predjedlo, príprava",
+    "alternative_names": [],
+    "description": "Hovädzí kotlíkový koláč, frz predjedlo, príprava z databázy USDA."
+  },
+  "hot_pockets_croissant_pockts_chik_brocchdr_st": {
+    "name": "Hot pockets, croissant pockts chik, broc&chdr stufd sndwch, frz",
+    "alternative_names": [],
+    "description": "Hot pockets, croissant pockts chik, broc&chdr stufd sndwch, frz z databázy USDA."
+  },
+  "tortellini_pasta_w_chs_filling_fresh_refriger": {
+    "name": "Tortellini, cestoviny s plnkou, čerstvé, chladené",
+    "alternative_names": [],
+    "description": "Tortellini, cestoviny s plnkou, čerstvé, chladené z databázy USDA."
+  },
+  "chicken_pot_pie_frz_entree_prep": {
+    "name": "Kurací kotlíkový koláč, predjedlo, príprava",
+    "alternative_names": [],
+    "description": "Kurací kotlíkový koláč, predjedlo, príprava z databázy USDA."
+  },
+  "pasta_wmeatballs_in_tomato_sau_cnd_entree": {
+    "name": "Cestoviny s mäsovými guľkami v paradajkovom sau, cnd predjedlo",
+    "alternative_names": [],
+    "description": "Cestoviny s mäsovými guľkami v paradajkovom sau, cnd predjedlo z databázy USDA."
+  },
+  "spaghetti_w_meatballs_cnd": {
+    "name": "Špagety, s mäsovými guľkami, cnd",
+    "alternative_names": [],
+    "description": "Špagety, s mäsovými guľkami, cnd z databázy USDA."
+  },
+  "pasta_w_tomato_sau_no_meat_cnd": {
+    "name": "Cestoviny s paradajkovou omáčkou, bez mäsa, cnd",
+    "alternative_names": [],
+    "description": "Cestoviny s paradajkovou omáčkou, bez mäsa, cnd z databázy USDA."
+  },
+  "rice_bowl_w_chick_frz_entree_prep": {
+    "name": "Miska na ryžu s kuracím mäsom, predjedlo, príprava",
+    "alternative_names": [],
+    "description": "Miska na ryžu s kuracím mäsom, predjedlo, príprava z databázy USDA."
+  },
+  "macaroni_chs_dinner_w_dry_sau_mix_boxed_unckd": {
+    "name": "Makarónová a chs večera so suchým sau mixom, balené, nebalené",
+    "alternative_names": [],
+    "description": "Makarónová a chs večera so suchým sau mixom, balené, nebalené z databázy USDA."
+  },
+  "macaroni_chs_frz_entree": {
+    "name": "Makaróny a chs, frz predjedlo",
+    "alternative_names": [],
+    "description": "Makaróny a chs, frz predjedlo z databázy USDA."
+  },
+  "corn_dogs_frz_prep": {
+    "name": "Kukuričné ​​psy, frz, príprava",
+    "alternative_names": [],
+    "description": "Kukuričné ​​psy, frz, príprava z databázy USDA."
+  },
+  "popcorn_oil_popped_lofat": {
+    "name": "Popcorn, olejový, lofat",
+    "alternative_names": [],
+    "description": "Popcorn, olejový, lofat z databázy USDA."
+  },
+  "popcorn_microwave_reg_flavor_made_w_palm_oil": {
+    "name": "Popcorn, mikrovlnná rúra, reg (maslová) príchuť, vyrobené s palmovým olejom",
+    "alternative_names": [],
+    "description": "Popcorn, mikrovlnná rúra, reg (maslová) príchuť, vyrobené s palmovým olejom z databázy USDA."
+  },
+  "corn_dried": {
+    "name": "Kukurica, sušená (navajo)",
+    "alternative_names": [],
+    "description": "Kukurica, sušená (navajo) z databázy USDA."
+  },
+  "corn_white_stmd": {
+    "name": "Kukurica, biela, stmd (navajo)",
+    "alternative_names": [],
+    "description": "Kukurica, biela, stmd (navajo) z databázy USDA."
+  },
+  "bread_kneel_down": {
+    "name": "Chlieb, kľakni si (navajo)",
+    "alternative_names": [],
+    "description": "Chlieb, kľakni si (navajo) z databázy USDA."
+  },
+  "stew_mutton_corn_squash": {
+    "name": "Dusené mäso, baranina, kukurica, tekvica (navajo)",
+    "alternative_names": [],
+    "description": "Dusené mäso, baranina, kukurica, tekvica (navajo) z databázy USDA."
+  },
+  "stew_stmd_corn": {
+    "name": "Dusené mäso, kukurica (navajo)",
+    "alternative_names": [],
+    "description": "Dusené mäso, kukurica (navajo) z databázy USDA."
+  },
+  "tennis_bread_pln": {
+    "name": "Tenisový chlieb, pln (apache)",
+    "alternative_names": [],
+    "description": "Tenisový chlieb, pln (apache) z databázy USDA."
+  },
+  "piki_bread_made_from_blue_cornmeal": {
+    "name": "Piki chlieb, vyrobený z modrej kukuričnej múky (hopi)",
+    "alternative_names": [],
+    "description": "Piki chlieb, vyrobený z modrej kukuričnej múky (hopi) z databázy USDA."
+  },
+  "restaurant_latino_chick_rice_entree_prep": {
+    "name": "Reštaurácia, latino, kuracie mäso a ryža, predjedlo, príprava",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, kuracie mäso a ryža, predjedlo, príprava z databázy USDA."
+  },
+  "restaurant_latino_arroz_con_frijoles_negros": {
+    "name": "Reštaurácia, latino, arroz con frijoles negros (ryža a čierna bns)",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, arroz con frijoles negros (ryža a čierna bns) z databázy USDA."
+  },
+  "rest_latino_arroz_con_abichuelas_colorados": {
+    "name": "Oddych, latino, arroz con abichuelas colorados (ryža a červené bns)",
+    "alternative_names": [],
+    "description": "Oddych, latino, arroz con abichuelas colorados (ryža a červené bns) z databázy USDA."
+  },
+  "restaurant_latino_arroz_con_grandules": {
+    "name": "Reštaurácia, latino, arroz con grandules (ryža a hrach)",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, arroz con grandules (ryža a hrach) z databázy USDA."
+  },
+  "restaurant_latino_tamale_corn": {
+    "name": "Reštaurácia, latino, tamale, kukurica",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, tamale, kukurica z databázy USDA."
+  },
+  "restaurant_latino_arepa": {
+    "name": "Reštaurácia, latino, arepa (nekvasený chlieb z kukuričnej múky)",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, arepa (nekvasený chlieb z kukuričnej múky) z databázy USDA."
+  },
+  "restaurant_latino_bunuelos": {
+    "name": "Reštaurácia, latino, bunuelos (vyprážaný kvasnicový chlieb)",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, bunuelos (vyprážaný kvasnicový chlieb) z databázy USDA."
+  },
+  "restaurant_chinese_fried_rice": {
+    "name": "Reštaurácia, čínska, vyprážaná ryža",
+    "alternative_names": [],
+    "description": "Reštaurácia, čínska, vyprážaná ryža z databázy USDA."
+  },
+  "cracker_barrel_chick_tenderloin_platter_fried": {
+    "name": "Cracker sud, kuracia panvica, vyprážané, z detského menu",
+    "alternative_names": [],
+    "description": "Cracker sud, kuracia panvica, vyprážané, z detského menu z databázy USDA."
+  },
+  "cracker_barrel_country_fried_shrimp_platter": {
+    "name": "Cracker sud, vidiecky tanier s krevetami",
+    "alternative_names": [],
+    "description": "Cracker sud, vidiecky tanier s krevetami z databázy USDA."
+  },
+  "cracker_barrel_farm_raised_catfish_platter": {
+    "name": "Sud na sušenie, tanier na sumce z farmy",
+    "alternative_names": [],
+    "description": "Sud na sušenie, tanier na sumce z farmy z databázy USDA."
+  },
+  "cracker_barrel_steak_fries": {
+    "name": "Cracker sud, steakové hranolky",
+    "alternative_names": [],
+    "description": "Cracker sud, steakové hranolky z databázy USDA."
+  },
+  "cracker_barrel_grilled_sirloin_steak": {
+    "name": "Cracker sud, grilovaná sviečkovica",
+    "alternative_names": [],
+    "description": "Cracker sud, grilovaná sviečkovica z databázy USDA."
+  },
+  "cracker_barrel_macaroni_n_chs_plate_from_kids": {
+    "name": "Cracker sud, macaroni n' chs tanier, z detského menu",
+    "alternative_names": [],
+    "description": "Cracker sud, macaroni n' chs tanier, z detského menu z databázy USDA."
+  },
+  "dennys_macaroni_chs_from_kids_menu": {
+    "name": "Denny's, macaroni & chs, z detského menu",
+    "alternative_names": [],
+    "description": "Denny's, macaroni & chs, z detského menu z databázy USDA."
+  },
+  "cereals_rte_marshmllw_alpha_bits": {
+    "name": "Obilniny rte, marshmllw alfa-bity",
+    "alternative_names": [],
+    "description": "Obilniny rte, marshmllw alfa-bity z databázy USDA."
+  },
+  "candies_mars_snackfood_us_twix_choc_fudge_coo": {
+    "name": "Cukríky, mars snackfood us, twix choc fudge cookies tyčinky",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, twix choc fudge cookies tyčinky z databázy USDA."
+  },
+  "cereals_rte_muesli_dried_fruit_nuts": {
+    "name": "Cereálie rte, müsli, sušené ovocie a orechy",
+    "alternative_names": [],
+    "description": "Cereálie rte, müsli, sušené ovocie a orechy z databázy USDA."
+  },
+  "pork_sausage_rice_links_brownserve_ckd": {
+    "name": "Bravčová klobása ryža odkazy, brown&serve, ckd",
+    "alternative_names": [],
+    "description": "Bravčová klobása ryža odkazy, brown&serve, ckd z databázy USDA."
+  },
+  "rice_cake_cracker": {
+    "name": "Ryžový koláč, sušienky (vrátane mini ryžových koláčikov)",
+    "alternative_names": [],
+    "description": "Ryžový koláč, sušienky (vrátane mini ryžových koláčikov) z databázy USDA."
+  },
+  "cereals_rte_frstd_oat_crl_wmarshmallows": {
+    "name": "Obilniny rte, prvý ovsené crl s marshmallows",
+    "alternative_names": [],
+    "description": "Obilniny rte, prvý ovsené crl s marshmallows z databázy USDA."
+  },
+  "cereals_rte_weetabix_whl_wheat_crl": {
+    "name": "Obilniny rte, weetabix whl pšenica crl",
+    "alternative_names": [],
+    "description": "Obilniny rte, weetabix whl pšenica crl z databázy USDA."
+  },
+  "cereals_rte_post_honey_bunches_of_oats_w_almo": {
+    "name": "Obilniny rte, pošta, medové zväzky ovsa, s mandľami",
+    "alternative_names": [],
+    "description": "Obilniny rte, pošta, medové zväzky ovsa, s mandľami z databázy USDA."
+  },
+  "cereals_rte_post_great_grains_crunchy_pecan_c": {
+    "name": "Cereals rte, post, great grains crunchy pekan crl",
+    "alternative_names": [],
+    "description": "Cereals rte, post, great grains crunchy pekan crl z databázy USDA."
+  },
+  "cereals_rte_post_great_grains_raisin_date_pec": {
+    "name": "Obilniny rte, post, veľké obilniny, hrozienka, datle a pekanové orechy",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, veľké obilniny, hrozienka, datle a pekanové orechy z databázy USDA."
+  },
+  "oil_corn_and_canola": {
+    "name": "Olej, kukurica a repka",
+    "alternative_names": [],
+    "description": "Olej, kukurica a repka z databázy USDA."
+  },
+  "cereals_rte_post_great_grains_banana_nut_crun": {
+    "name": "Cereals rte, post great grains banana nut crunch",
+    "alternative_names": [],
+    "description": "Cereals rte, post great grains banana nut crunch z databázy USDA."
+  },
+  "breakfast_bars_oats_sugar_raisins_cocnt": {
+    "name": "Raňajkové tyčinky, ovos, cukor, hrozienka, kokt (vrátane granolovej tyčinky)",
+    "alternative_names": [],
+    "description": "Raňajkové tyčinky, ovos, cukor, hrozienka, kokt (vrátane granolovej tyčinky) z databázy USDA."
+  },
+  "cereals_rte_alpen": {
+    "name": "Obilniny rte, alpen",
+    "alternative_names": [],
+    "description": "Obilniny rte, alpen z databázy USDA."
+  },
+  "cereals_rte_familia": {
+    "name": "Obilniny rte, familia",
+    "alternative_names": [],
+    "description": "Obilniny rte, familia z databázy USDA."
+  },
+  "cereals_rte_wheatbran_presweetened_wnutsfruit": {
+    "name": "Obilniny rte, pšenica a otruby, predsladené s orechmi a ovocím",
+    "alternative_names": [],
+    "description": "Obilniny rte, pšenica a otruby, predsladené s orechmi a ovocím z databázy USDA."
+  },
+  "vegetables_mxd_cnd_no_salt": {
+    "name": "Zelenina, mxd (kukurica, lima bns, hrach, grn bns, crrt) cnd, bez soli",
+    "alternative_names": [],
+    "description": "Zelenina, mxd (kukurica, lima bns, hrach, grn bns, crrt) cnd, bez soli z databázy USDA."
+  },
+  "cereals_rte_post_shredded_wheat_n_bran_spoon": {
+    "name": "Obilniny rte, post, strúhaná pšenica n' otruby, veľkosť lyžice",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, strúhaná pšenica n' otruby, veľkosť lyžice z databázy USDA."
+  },
+  "cereals_rte_oat_bran_flakes_health_valley": {
+    "name": "Obilniny rte, vločky ovsených otrúb, údolie zdravia",
+    "alternative_names": [],
+    "description": "Obilniny rte, vločky ovsených otrúb, údolie zdravia z databázy USDA."
+  },
+  "cereals_rte_post_honey_bunches_of_oats_honey": {
+    "name": "Obilniny rte, post, med trsy ovsa, med rstd",
+    "alternative_names": [],
+    "description": "Obilniny rte, post, med trsy ovsa, med rstd z databázy USDA."
+  },
+  "popcorn_microwave_lofatna": {
+    "name": "Popcorn, mikrovlnná rúra, lofat&na",
+    "alternative_names": [],
+    "description": "Popcorn, mikrovlnná rúra, lofat&na z databázy USDA."
+  },
+  "cereals_rte_amaranth_flakes": {
+    "name": "Obilniny rte, amarantové vločky",
+    "alternative_names": [],
+    "description": "Obilniny rte, amarantové vločky z databázy USDA."
+  },
+  "breakfast_bar_corn_flake_crust_wfruit": {
+    "name": "Raňajková tyčinka, kôra z kukuričných vločiek s ovocím",
+    "alternative_names": [],
+    "description": "Raňajková tyčinka, kôra z kukuričných vločiek s ovocím z databázy USDA."
+  },
+  "oil_corn_peanut_and_olive": {
+    "name": "Olej, kukurica, arašidy a olivy",
+    "alternative_names": [],
+    "description": "Olej, kukurica, arašidy a olivy z databázy USDA."
+  },
+  "pie_fillings_blueberry_cnd": {
+    "name": "Plnky do koláčov, čučoriedkové, cnd",
+    "alternative_names": [],
+    "description": "Plnky do koláčov, čučoriedkové, cnd z databázy USDA."
+  }
+}

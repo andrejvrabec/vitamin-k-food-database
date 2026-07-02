@@ -1,0 +1,4149 @@
+{
+  "data": [
+    {
+      "id": "apples_raw_without_skin",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "apricots_canned_heavy_syrup_drained",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 7.2,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "apricots_canned_heavy_syrup_pack_with_sk",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.7,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "apricots_dried_sulfured_stewed_without_a",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.8,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "k1"
+      ]
+    },
+    {
+      "id": "blackberries_frozen",
+      "category": "fruits",
+      "tags": [
+        "berries",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 19.9
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "gram_equivalent": 150,
+          "vitamin_k_mcg": 29.9
+        }
+      ],
+      "source": "USDA FDC (derived from PDF page 2)"
+    },
+    {
+      "id": "blackberries_frozen_unsweetened",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 29.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 29.9,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "processed",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "blackberry_juice_canned",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 15.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 38.0,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "beverages",
+        "cooked",
+        "high_sodium",
+        "k1"
+      ]
+    },
+    {
+      "id": "blueberries_frozen_sweetened",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 40.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 40.7,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "blueberries_raw",
+      "category": "fruits",
+      "tags": [
+        "berries",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 19.3
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "gram_equivalent": 148,
+          "vitamin_k_mcg": 28.6
+        }
+      ],
+      "source": "USDA FoodData Central (FDC ID: 171732)"
+    },
+    {
+      "id": "blueberries_wild_canned_heavy_syrup_drai",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 31.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 47.2,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "cherries_sour_red_frozen_unsweetened",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.3,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "cherries_sweet_canned_water_pack_solids",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.5,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ]
+    },
+    {
+      "id": "cherries_sweet_raw",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.9,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "cookies_fig_bars",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "bakery",
+        "k1",
+        "processed",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "figs_canned_water_pack_solids_and_liquid",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 8.2,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ]
+    },
+    {
+      "id": "fruit_cocktail_canned_heavy_syrup_solids",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 6.4,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "beverages",
+        "cooked",
+        "high_sodium",
+        "k1",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "grapefruit_juice_white_frozen_concentrat",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "ml",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "beverages",
+        "k1"
+      ]
+    },
+    {
+      "id": "grapes_american_type_raw",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 13.4,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "grapes_canned_thompson_seedless_water_pa",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 24.0,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "seeds"
+      ]
+    },
+    {
+      "id": "grapes_raw",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.6
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "gram_equivalent": 150,
+          "vitamin_k_mcg": 22.0
+        }
+      ],
+      "source": "USDA FDC (derived from PDF page 2)",
+      "tags": [
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "kiwi_raw",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 40.3
+        },
+        {
+          "amount": 1,
+          "unit": "piece",
+          "gram_equivalent": 75,
+          "vitamin_k_mcg": 30.2
+        }
+      ],
+      "source": "USDA FoodData Central (FDC ID: 168153)",
+      "tags": [
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "lime_juice_raw",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.5,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "beverages",
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "litchis_raw",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "mangos_raw",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 6.9,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "orange_juice_frozen_concentrate_unsweete",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "beverages",
+        "k1"
+      ]
+    },
+    {
+      "id": "papaya_canned_heavy_syrup_drained",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "papayas_raw",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.8,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "passion_fruit_purple_raw",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.7,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "raw"
+      ]
+    },
+    {
+      "id": "peaches_canned_light_syrup_pack_solids_a",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.3,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "legumes",
+        "processed",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "peaches_canned_water_pack_solids_and_liq",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.1,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "legumes",
+        "processed"
+      ]
+    },
+    {
+      "id": "pears_canned_light_syrup_pack_solids_and",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "legumes",
+        "sweetened"
+      ]
+    },
+    {
+      "id": "pears_dried_sulfured_stewed_without_adde",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 25.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 25.2,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ]
+    },
+    {
+      "id": "pears_raw",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 6.2,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ]
+    },
+    {
+      "id": "pomegranate_juice",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "ml",
+          "gram_equivalent": 100,
+          "vitamin_k_mcg": 10.8
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "gram_equivalent": 240,
+          "vitamin_k_mcg": 25.9
+        }
+      ],
+      "source": "USDA FDC (derived from PDF page 2)",
+      "tags": [
+        "beverages",
+        "k1"
+      ]
+    },
+    {
+      "id": "pomegranate_juice_bottled",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 25.9,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "beverages",
+        "k1"
+      ]
+    },
+    {
+      "id": "prunes_dried",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 59.5
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "gram_equivalent": 174,
+          "vitamin_k_mcg": 103.5
+        }
+      ],
+      "source": "USDA FDC ID: 168149",
+      "tags": [
+        "k1"
+      ]
+    },
+    {
+      "id": "vegetable_juice_cocktail_canned",
+      "category": "fruits",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 15.4,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "beverages",
+        "cooked",
+        "high_sodium",
+        "k1"
+      ]
+    },
+    {
+      "id": "acerola_juice_raw",
+      "category": "fruits",
+      "tags": [
+        "beverages",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.4,
+          "gram_equivalent": 242
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 30
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09002)"
+    },
+    {
+      "id": "apples_raw_with_skin",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.8,
+          "gram_equivalent": 125
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.4,
+          "gram_equivalent": 109
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09003)"
+    },
+    {
+      "id": "apples_raw_woskn_ckd_bld",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 171
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09005)"
+    },
+    {
+      "id": "apples_raw_wo_skn_ckd_microwave",
+      "category": "fruits",
+      "tags": [
+        "cooked",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 170
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09006)"
+    },
+    {
+      "id": "apples_cnd_swtnd_sliced_drnd_unhtd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 204
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09007)"
+    },
+    {
+      "id": "apples_cnd_swtnd_sliced_drnd_htd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 204
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09008)"
+    },
+    {
+      "id": "apples_dehyd_sulfured_unckd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 60
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09009)"
+    },
+    {
+      "id": "apples_dried_sulfured_unckd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 86
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 6
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09011)"
+    },
+    {
+      "id": "apples_dried_sulfured_stwd_wo_sugar",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.8,
+          "gram_equivalent": 255
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09012)"
+    },
+    {
+      "id": "apricots_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.1,
+          "gram_equivalent": 155
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.4,
+          "gram_equivalent": 165
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09021)"
+    },
+    {
+      "id": "apricots_cnd_h2o_pk_wskn_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.3,
+          "gram_equivalent": 243
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 36
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09022)"
+    },
+    {
+      "id": "apricots_cnd_juc_pk_wskn_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.4,
+          "gram_equivalent": 244
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 36
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09024)"
+    },
+    {
+      "id": "apricots_cnd_lt_syrup_pk_wskn_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.6,
+          "gram_equivalent": 253
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 40
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09026)"
+    },
+    {
+      "id": "apricots_cnd_hvy_syrup_pk_wskn_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.7,
+          "gram_equivalent": 258
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.3,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09027)"
+    },
+    {
+      "id": "apricots_dried_sulfured_unckd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.0,
+          "gram_equivalent": 130
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 3
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09032)"
+    },
+    {
+      "id": "apricots_dried_sulfured_stwd_wo_sugar",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.8,
+          "gram_equivalent": 250
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09033)"
+    },
+    {
+      "id": "apricot_nectar_cnd_wo_vit_c",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.0,
+          "gram_equivalent": 251
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09036)"
+    },
+    {
+      "id": "blackberries_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 19.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 28.5,
+          "gram_equivalent": 144
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09042)"
+    },
+    {
+      "id": "blackberry_juc_cnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 15.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 38.0,
+          "gram_equivalent": 250
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09043)"
+    },
+    {
+      "id": "blackberries_cnd_hvy_syrup_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 34.0,
+          "gram_equivalent": 256
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09046)"
+    },
+    {
+      "id": "blackberries_frz_unswtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 19.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 29.9,
+          "gram_equivalent": 151
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 101.0,
+          "gram_equivalent": 510
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09048)"
+    },
+    {
+      "id": "blueberries_cnd_hvy_syrup_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 16.4,
+          "gram_equivalent": 256
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09052)"
+    },
+    {
+      "id": "blueberries_frz_unswtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 25.4,
+          "gram_equivalent": 155
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 93.0,
+          "gram_equivalent": 567
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09054)"
+    },
+    {
+      "id": "blueberries_frz_swtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 17.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 40.7,
+          "gram_equivalent": 230
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 50.3,
+          "gram_equivalent": 284
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09055)"
+    },
+    {
+      "id": "cherries_sour_red_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.3,
+          "gram_equivalent": 155
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.2,
+          "gram_equivalent": 103
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09063)"
+    },
+    {
+      "id": "cherries_sour_red_cnd_h2o_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.4,
+          "gram_equivalent": 244
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09064)"
+    },
+    {
+      "id": "cherries_sour_red_cnd_hvy_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.6,
+          "gram_equivalent": 256
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09066)"
+    },
+    {
+      "id": "cherries_sour_red_frz_unswtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.3,
+          "gram_equivalent": 155
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.6,
+          "gram_equivalent": 510
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09068)"
+    },
+    {
+      "id": "cherries_swt_cnd_h2o_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.5,
+          "gram_equivalent": 248
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09071)"
+    },
+    {
+      "id": "cherries_swt_cnd_juc_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.5,
+          "gram_equivalent": 250
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09072)"
+    },
+    {
+      "id": "cherries_swt_cnd_lt_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.5,
+          "gram_equivalent": 252
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09073)"
+    },
+    {
+      "id": "cherries_swt_cnd_pitted_hvy_syrup_pk_sol_liqu",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.3,
+          "gram_equivalent": 253
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09074)"
+    },
+    {
+      "id": "cherries_swt_frz_swtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.4,
+          "gram_equivalent": 259
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.0,
+          "gram_equivalent": 284
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09076)"
+    },
+    {
+      "id": "cranberry_sau_cnd_swtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.9,
+          "gram_equivalent": 277
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 57
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09081)"
+    },
+    {
+      "id": "figs_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.0,
+          "gram_equivalent": 64
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.4,
+          "gram_equivalent": 50
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09089)"
+    },
+    {
+      "id": "figs_cnd_h2o_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 8.2,
+          "gram_equivalent": 248
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 27
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09090)"
+    },
+    {
+      "id": "figs_cnd_lt_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 10.6,
+          "gram_equivalent": 252
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09091)"
+    },
+    {
+      "id": "figs_cnd_hvy_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 13.7,
+          "gram_equivalent": 259
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.5,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09092)"
+    },
+    {
+      "id": "figs_dried_uncooked",
+      "category": "fruits",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 15.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 23.2,
+          "gram_equivalent": 149
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 8
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09094)"
+    },
+    {
+      "id": "figs_dried_stewed",
+      "category": "fruits",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 17.4,
+          "gram_equivalent": 259
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09095)"
+    },
+    {
+      "id": "grape_juc_cnd_or_btld_unswtnd_w_added_vit_c",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 253
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09130)"
+    },
+    {
+      "id": "grapes_red_or_grn_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 22.0,
+          "gram_equivalent": 151
+        },
+        {
+          "amount": 10.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.2,
+          "gram_equivalent": 49
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09132)"
+    },
+    {
+      "id": "grapes_cnd_thompson_seedless_h2o_pk_solliquid",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 24.0,
+          "gram_equivalent": 245
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09133)"
+    },
+    {
+      "id": "grapes_cnd_thompson_seedless_hvy_syrup_pk_sol",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "seeds",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 25.1,
+          "gram_equivalent": 256
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09134)"
+    },
+    {
+      "id": "grape_juc_cnd_or_btld_unswtnd_wo_added_vit_c",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 253
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09135)"
+    },
+    {
+      "id": "grape_juc_cocktail_frz_conc_undil_w_added_vit",
+      "category": "fruits",
+      "tags": [
+        "beverages",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.0,
+          "gram_equivalent": 216
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09136)"
+    },
+    {
+      "id": "grape_juc_cocktail_frz_conc_dil_w_3_vol_h2o_w",
+      "category": "fruits",
+      "tags": [
+        "beverages",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 250
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09137)"
+    },
+    {
+      "id": "lime_juc_cnd_or_btld_unswtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 246
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 30
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09161)"
+    },
+    {
+      "id": "litchis_dried",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09165)"
+    },
+    {
+      "id": "orange_juice_raw",
+      "category": "fruits",
+      "tags": [
+        "beverages",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 248
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09206)"
+    },
+    {
+      "id": "papaya_cnd_hvy_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 39
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09228)"
+    },
+    {
+      "id": "papaya_nectar_canned",
+      "category": "fruits",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 250
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09229)"
+    },
+    {
+      "id": "passion_fruit_juc_purple_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 247
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 30
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09232)"
+    },
+    {
+      "id": "passion_fruit_juc_yel_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 247
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 30
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09233)"
+    },
+    {
+      "id": "peaches_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.0,
+          "gram_equivalent": 154
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.4,
+          "gram_equivalent": 130
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09236)"
+    },
+    {
+      "id": "peaches_cnd_h2o_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.1,
+          "gram_equivalent": 244
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.7,
+          "gram_equivalent": 98
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09237)"
+    },
+    {
+      "id": "peaches_cnd_juc_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.2,
+          "gram_equivalent": 250
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.2,
+          "gram_equivalent": 248
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09238)"
+    },
+    {
+      "id": "peaches_cnd_lt_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.3,
+          "gram_equivalent": 251
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.7,
+          "gram_equivalent": 98
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09240)"
+    },
+    {
+      "id": "peaches_cnd_hvy_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.5,
+          "gram_equivalent": 262
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.7,
+          "gram_equivalent": 98
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09241)"
+    },
+    {
+      "id": "peaches_spiced_cnd_hvy_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.1,
+          "gram_equivalent": 242
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09243)"
+    },
+    {
+      "id": "peaches_dried_sulfured_unckd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 15.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 25.1,
+          "gram_equivalent": 160
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 13
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09246)"
+    },
+    {
+      "id": "peaches_dried_sulfured_stwd_wo_sugar",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 12.9,
+          "gram_equivalent": 258
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09247)"
+    },
+    {
+      "id": "peaches_frz_sliced_swtnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.5,
+          "gram_equivalent": 250
+        },
+        {
+          "amount": 10.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.4,
+          "gram_equivalent": 155
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09250)"
+    },
+    {
+      "id": "peach_nectar_cnd_wo_vit_c",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.5,
+          "gram_equivalent": 249
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09251)"
+    },
+    {
+      "id": "pears_cnd_h2o_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 244
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 76
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09253)"
+    },
+    {
+      "id": "pears_cnd_juc_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 248
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 76
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09254)"
+    },
+    {
+      "id": "pears_cnd_lt_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 251
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 76
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09256)"
+    },
+    {
+      "id": "pears_cnd_hvy_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 266
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 76
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09257)"
+    },
+    {
+      "id": "pears_dried_sulfured_unckd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 36.7,
+          "gram_equivalent": 180
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.7,
+          "gram_equivalent": 18
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09259)"
+    },
+    {
+      "id": "pears_dried_sulfured_stwd_wo_sugar",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 25.2,
+          "gram_equivalent": 255
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09260)"
+    },
+    {
+      "id": "pear_nectar_cnd_wo_vit_c",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.5,
+          "gram_equivalent": 250
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09262)"
+    },
+    {
+      "id": "persimmons_japanese_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.4,
+          "gram_equivalent": 168
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09263)"
+    },
+    {
+      "id": "plums_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 10.6,
+          "gram_equivalent": 165
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.2,
+          "gram_equivalent": 66
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09279)"
+    },
+    {
+      "id": "plums_cnd_purple_h2o_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 10.7,
+          "gram_equivalent": 249
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 46
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09281)"
+    },
+    {
+      "id": "plums_cnd_purple_juc_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 10.8,
+          "gram_equivalent": 252
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 46
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09282)"
+    },
+    {
+      "id": "plums_cnd_purple_lt_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 10.8,
+          "gram_equivalent": 252
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 46
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09283)"
+    },
+    {
+      "id": "plums_cnd_purple_hvy_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 11.1,
+          "gram_equivalent": 258
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 46
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09284)"
+    },
+    {
+      "id": "plums_dried_unckd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 59.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 103.5,
+          "gram_equivalent": 174
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.7,
+          "gram_equivalent": 9
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09291)"
+    },
+    {
+      "id": "plums_dried_stwd_wo_added_sugar",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 26.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 64.7,
+          "gram_equivalent": 248
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09292)"
+    },
+    {
+      "id": "prune_juice_canned",
+      "category": "fruits",
+      "tags": [
+        "beverages",
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 8.7,
+          "gram_equivalent": 256
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.1,
+          "gram_equivalent": 32
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09294)"
+    },
+    {
+      "id": "raspberries_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 9.6,
+          "gram_equivalent": 123
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 24.3,
+          "gram_equivalent": 312
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09302)"
+    },
+    {
+      "id": "raspberries_cnd_red_hvy_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 13.3,
+          "gram_equivalent": 256
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09304)"
+    },
+    {
+      "id": "raspberries_frz_red_swtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 16.2,
+          "gram_equivalent": 250
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 18.5,
+          "gram_equivalent": 284
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09306)"
+    },
+    {
+      "id": "strawberries_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.3,
+          "gram_equivalent": 152
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.1,
+          "gram_equivalent": 232
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09316)"
+    },
+    {
+      "id": "strawberries_cnd_hvy_syrup_pk_solliquids",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.8,
+          "gram_equivalent": 254
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09317)"
+    },
+    {
+      "id": "strawberries_frz_unswtnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.9,
+          "gram_equivalent": 221
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.3,
+          "gram_equivalent": 149
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09318)"
+    },
+    {
+      "id": "strawberries_frz_swtnd_whl",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.8,
+          "gram_equivalent": 255
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.4,
+          "gram_equivalent": 284
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09319)"
+    },
+    {
+      "id": "strawberries_frz_swtnd_sliced",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.3,
+          "gram_equivalent": 255
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.8,
+          "gram_equivalent": 284
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09320)"
+    },
+    {
+      "id": "maraschino_cherries_cnd_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 5
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09328)"
+    },
+    {
+      "id": "pears_asian_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.5,
+          "gram_equivalent": 122
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 12.4,
+          "gram_equivalent": 275
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09340)"
+    },
+    {
+      "id": "blueberries_cnd_lt_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 19.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 48.6,
+          "gram_equivalent": 244
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09352)"
+    },
+    {
+      "id": "blueberries_wild_cnd_hvy_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 47.2,
+          "gram_equivalent": 319
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09353)"
+    },
+    {
+      "id": "apricots_cnd_hvy_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 7.2,
+          "gram_equivalent": 219
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 6.0,
+          "gram_equivalent": 182
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09357)"
+    },
+    {
+      "id": "cherries_swt_cnd_pitted_hvy_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 179
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09367)"
+    },
+    {
+      "id": "peaches_cnd_hvy_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.3,
+          "gram_equivalent": 222
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.8,
+          "gram_equivalent": 73
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09370)"
+    },
+    {
+      "id": "pears_cnd_hvy_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 201
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 48
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09374)"
+    },
+    {
+      "id": "plums_cnd_hvy_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 11.7,
+          "gram_equivalent": 183
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09379)"
+    },
+    {
+      "id": "pears_raw_bartlett",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.8,
+          "gram_equivalent": 152
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.7,
+          "gram_equivalent": 177
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09412)"
+    },
+    {
+      "id": "usda_cmdty_mxd_fruit_cnd_lt_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.6
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09431)"
+    },
+    {
+      "id": "usda_cmdty_mxd_fruit_cnd_lt_syr_sol_liq",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09432)"
+    },
+    {
+      "id": "mango_nectar_cnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 251
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09436)"
+    },
+    {
+      "id": "usda_cmdty_peaches_cnd_lt_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09438)"
+    },
+    {
+      "id": "usda_cmdty_pears_cnd_juc_pk_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09439)"
+    },
+    {
+      "id": "usda_cmdty_pears_cnd_lt_syrup_drnd",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09440)"
+    },
+    {
+      "id": "pomegranate_juc_btld",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 25.9,
+          "gram_equivalent": 249
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.3,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09442)"
+    },
+    {
+      "id": "juice_appl_grape_blend_w_added_vit_c",
+      "category": "fruits",
+      "tags": [
+        "beverages",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 8.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 250
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09443)"
+    },
+    {
+      "id": "apples_raw_golden_delicious_w_skn",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 109
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.9,
+          "gram_equivalent": 215
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09501)"
+    },
+    {
+      "id": "balsam_pear_leafy_tips_ckd_bld_drnd_wosalt",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 163.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 94.6,
+          "gram_equivalent": 58
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 11023)"
+    },
+    {
+      "id": "balsam_pear_pods_ckd_bld_drnd_wosalt",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.0,
+          "gram_equivalent": 124
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.0,
+          "gram_equivalent": 62
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 11025)"
+    },
+    {
+      "id": "balsam_pear_leafy_tips_ckd_bld_drnd_wsalt",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 163.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 94.6,
+          "gram_equivalent": 58
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 11710)"
+    },
+    {
+      "id": "balsam_pear_pods_ckd_bld_drnd_wsalt",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.0,
+          "gram_equivalent": 124
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 11711)"
+    },
+    {
+      "id": "grape_leaves_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 108.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 15.2,
+          "gram_equivalent": 14
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.3,
+          "gram_equivalent": 3
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 11974)"
+    },
+    {
+      "id": "grape_leaves_cnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 97.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.9,
+          "gram_equivalent": 4
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 11975)"
+    },
+    {
+      "id": "cranberry_apple_juc_drk_btld",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 245
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 30
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14238)"
+    },
+    {
+      "id": "cranberry_juc_cocktail_btld",
+      "category": "fruits",
+      "tags": [
+        "beverages",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.5,
+          "gram_equivalent": 253
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14242)"
+    },
+    {
+      "id": "grape_juice_drink_canned",
+      "category": "fruits",
+      "tags": [
+        "beverages",
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 250
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14282)"
+    },
+    {
+      "id": "orangeapricot_juc_drk_cnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 250
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14327)"
+    },
+    {
+      "id": "muffins_blueberry_commly_prep",
+      "category": "fruits",
+      "tags": [
+        "bakery",
+        "fast_food",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 39.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 11.1,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.7,
+          "gram_equivalent": 17
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 18274)"
+    },
+    {
+      "id": "muffins_blueberry_toaster_type",
+      "category": "fruits",
+      "tags": [
+        "bakery",
+        "cooked",
+        "fast_food",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 19.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.5,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.4,
+          "gram_equivalent": 33
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 18277)"
+    },
+    {
+      "id": "strudel_apple",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.1,
+          "gram_equivalent": 71
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 18354)"
+    },
+    {
+      "id": "muffins_blueberry_toaster_type_tstd",
+      "category": "fruits",
+      "tags": [
+        "bakery",
+        "cooked",
+        "fast_food",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.9,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.4,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 18386)"
+    },
+    {
+      "id": "tstr_pstrs_frt_tstd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.4,
+          "gram_equivalent": 51
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 18939)"
+    },
+    {
+      "id": "toppings_strawberry",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "processed",
+        "raw",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.4,
+          "gram_equivalent": 340
+        },
+        {
+          "amount": 2.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 42
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 19137)"
+    },
+    {
+      "id": "fruit_butters_apple",
+      "category": "fruits",
+      "tags": [
+        "dairy",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.5,
+          "gram_equivalent": 282
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 17
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 19294)"
+    },
+    {
+      "id": "blackberries_wild_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 9.3,
+          "gram_equivalent": 157
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35015)"
+    },
+    {
+      "id": "blueberries_wild_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 17.2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35155)"
+    },
+    {
+      "id": "raspberries_wild",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 8.6,
+          "gram_equivalent": 130
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35202)"
+    },
+    {
+      "id": "plums_wild",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 18.0,
+          "gram_equivalent": 161
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35206)"
+    },
+    {
+      "id": "cranberry_juc_unswtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 12.9,
+          "gram_equivalent": 253
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43382)"
+    },
+    {
+      "id": "cranberry_apple_juc_drk_lo_cal_wvit_c",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 240
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 30
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43404)"
+    }
+  ]
+}

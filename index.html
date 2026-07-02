@@ -1,0 +1,1071 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vitamin K Food Database API Portal & Documentation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #090d16;
+      --bg-card: rgba(17, 24, 39, 0.6);
+      --bg-sidebar: rgba(13, 19, 32, 0.9);
+      --border-color: rgba(255, 255, 255, 0.08);
+      --accent-color: #10b981;
+      --accent-glow: rgba(16, 185, 129, 0.15);
+      --text-main: #f3f4f6;
+      --text-muted: #9ca3af;
+      --font-title: 'Outfit', sans-serif;
+      --font-body: 'Plus Jakarta Sans', sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      background-color: var(--bg-dark);
+      color: var(--text-main);
+      font-family: var(--font-body);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(16, 185, 129, 0.05) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(59, 130, 246, 0.04) 0%, transparent 45%);
+    }
+
+    /* Layout structure */
+    .layout-wrapper {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      max-width: 1440px;
+      margin: 0 auto;
+      min-height: 100vh;
+    }
+
+    @media (min-width: 1024px) {
+      .layout-wrapper {
+        flex-direction: row;
+      }
+    }
+
+    /* Sidebar Styles */
+    aside {
+      width: 100%;
+      background: var(--bg-sidebar);
+      border-bottom: 1px solid var(--border-color);
+      padding: 2rem 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    @media (min-width: 1024px) {
+      aside {
+        width: 320px;
+        position: sticky;
+        top: 0;
+        height: 100vh;
+        border-bottom: none;
+        border-right: 1px solid var(--border-color);
+        padding: 3rem 2rem;
+        overflow-y: auto;
+      }
+    }
+
+    .logo-container h1 {
+      font-family: var(--font-title);
+      font-size: 1.8rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      background: linear-gradient(135deg, #ffffff 40%, #34d399 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 0.5rem;
+    }
+
+    .logo-container p {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.4;
+    }
+
+    .nav-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .nav-link {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.75rem 1rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      border-radius: 12px;
+      font-weight: 500;
+      font-size: 0.95rem;
+      transition: all 0.2s ease;
+    }
+
+    .nav-link:hover, .nav-link.active {
+      color: #ffffff;
+      background: rgba(255, 255, 255, 0.04);
+    }
+
+    .nav-link.active {
+      border-left: 3px solid var(--accent-color);
+      border-radius: 4px 12px 12px 4px;
+      background: rgba(16, 185, 129, 0.08);
+      color: var(--accent-color);
+    }
+
+    .nav-link svg {
+      width: 18px;
+      height: 18px;
+      fill: currentColor;
+    }
+
+    /* Main Content Styles */
+    main {
+      flex: 1;
+      padding: 2rem 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 3.5rem;
+      overflow-y: auto;
+    }
+
+    @media (min-width: 1024px) {
+      main {
+        padding: 4rem 3.5rem;
+      }
+    }
+
+    /* Content Sections */
+    section {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+    }
+
+    section:last-of-type {
+      border-bottom: none;
+    }
+
+    h2 {
+      font-family: var(--font-title);
+      font-size: 2rem;
+      font-weight: 700;
+      color: #ffffff;
+      letter-spacing: -0.02em;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    h2 svg {
+      width: 24px;
+      height: 24px;
+      fill: var(--accent-color);
+    }
+
+    p.section-intro {
+      color: var(--text-muted);
+      font-size: 1.05rem;
+      line-height: 1.6;
+    }
+
+    /* Info Badges & Blocks */
+    .badges-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+      margin-top: 0.5rem;
+    }
+
+    .badge {
+      font-family: var(--font-title);
+      font-weight: 600;
+      font-size: 0.85rem;
+      padding: 0.4rem 1rem;
+      border-radius: 9999px;
+      border: 1px solid var(--border-color);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .badge-primary {
+      background: rgba(16, 185, 129, 0.08);
+      color: #34d399;
+      border-color: rgba(16, 185, 129, 0.2);
+      box-shadow: 0 0 15px var(--accent-glow);
+    }
+
+    .badge-secondary {
+      background: rgba(255, 255, 255, 0.03);
+      color: var(--text-muted);
+      border-color: var(--border-color);
+    }
+
+    /* Cards and Grids */
+    .card-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    @media (min-width: 768px) {
+      .card-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    .card {
+      background: var(--bg-card);
+      border-radius: 20px;
+      border: 1px solid var(--border-color);
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .card h3 {
+      font-family: var(--font-title);
+      font-size: 1.15rem;
+      font-weight: 650;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .card h3 svg {
+      width: 18px;
+      height: 18px;
+      fill: var(--accent-color);
+    }
+
+    /* Interactive Directory Tree styling */
+    .directory-tree {
+      background: #060913;
+      border: 1px solid var(--border-color);
+      border-radius: 16px;
+      padding: 1.5rem;
+      font-size: 0.9rem;
+      overflow-x: auto;
+    }
+
+    .tree-folder {
+      color: #ffffff;
+      font-weight: bold;
+    }
+
+    .tree-file {
+      color: #a7f3d0;
+      text-decoration: none;
+    }
+
+    .tree-file:hover {
+      text-decoration: underline;
+      color: var(--accent-color);
+    }
+
+    .tree-comment {
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    /* Categories / File Lists */
+    .explorer-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      max-height: 380px;
+      overflow-y: auto;
+      padding-right: 0.5rem;
+    }
+
+    .explorer-list::-webkit-scrollbar,
+    .tags-container::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .explorer-list::-webkit-scrollbar-track,
+    .tags-container::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .explorer-list::-webkit-scrollbar-thumb,
+    .tags-container::-webkit-scrollbar-thumb {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 10px;
+    }
+
+    .explorer-list::-webkit-scrollbar-thumb:hover,
+    .tags-container::-webkit-scrollbar-thumb:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+
+    .explorer-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.85rem 1.15rem;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      border-radius: 12px;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .explorer-item:hover {
+      background: rgba(255, 255, 255, 0.04);
+      border-color: rgba(255, 255, 255, 0.1);
+      transform: translateX(4px);
+    }
+
+    .explorer-item .name {
+      font-weight: 600;
+      color: #ffffff;
+      font-size: 0.95rem;
+    }
+
+    .explorer-item .path {
+      font-family: monospace;
+      color: var(--text-muted);
+      font-size: 0.75rem;
+      display: block;
+      margin-top: 0.15rem;
+    }
+
+    .explorer-item .meta-badge {
+      font-size: 0.7rem;
+      background: rgba(255, 255, 255, 0.03);
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      color: var(--text-muted);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .arrow-icon {
+      width: 16px;
+      height: 16px;
+      fill: var(--text-muted);
+    }
+
+    .explorer-item:hover .arrow-icon {
+      fill: var(--accent-color);
+      transform: translateX(2px);
+    }
+
+    /* Tags container */
+    .tags-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      max-height: 200px;
+      overflow-y: auto;
+      padding-right: 0.5rem;
+    }
+
+    .tag-badge {
+      display: inline-block;
+      padding: 0.3rem 0.65rem;
+      border-radius: 99px;
+      font-size: 0.75rem;
+      font-weight: 500;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      color: var(--text-muted);
+      cursor: default;
+    }
+
+    .tag-badge:hover {
+      background: rgba(16, 185, 129, 0.08);
+      border-color: rgba(16, 185, 129, 0.25);
+      color: var(--accent-color);
+      transform: translateY(-1px);
+    }
+
+    /* Documentation Styles */
+    .doc-step {
+      display: flex;
+      gap: 1rem;
+      align-items: flex-start;
+      margin-bottom: 1rem;
+    }
+
+    .step-number {
+      background: rgba(16, 185, 129, 0.1);
+      color: var(--accent-color);
+      border: 1px solid rgba(16, 185, 129, 0.2);
+      font-weight: bold;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      font-size: 0.9rem;
+    }
+
+    .step-text h4 {
+      color: #ffffff;
+      font-size: 1rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .step-text p {
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      line-height: 1.5;
+    }
+
+    .code-block-container {
+      background: #05070c;
+      padding: 1.25rem;
+      border-radius: 16px;
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      margin-top: 0.5rem;
+      overflow-x: auto;
+    }
+
+    .code-block-container pre {
+      margin: 0;
+    }
+
+    .code-block-container code {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.85rem;
+      color: #34d399;
+      line-height: 1.5;
+      white-space: pre;
+    }
+
+    /* Highlight box style */
+    .info-box {
+      background: rgba(59, 130, 246, 0.05);
+      border: 1px solid rgba(59, 130, 246, 0.15);
+      border-radius: 16px;
+      padding: 1.25rem;
+      display: flex;
+      gap: 0.75rem;
+    }
+
+    .info-box svg {
+      width: 20px;
+      height: 20px;
+      fill: #60a5fa;
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+    }
+
+    .info-box div h4 {
+      color: #ffffff;
+      font-size: 0.95rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .info-box div p {
+      color: var(--text-muted);
+      font-size: 0.88rem;
+      line-height: 1.5;
+    }
+
+    .warning-box {
+      background: rgba(245, 158, 11, 0.05);
+      border: 1px solid rgba(245, 158, 11, 0.15);
+      border-radius: 16px;
+      padding: 1.25rem;
+      display: flex;
+      gap: 0.75rem;
+    }
+
+    .warning-box svg {
+      width: 20px;
+      height: 20px;
+      fill: #fbbf24;
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+    }
+
+    .warning-box div h4 {
+      color: #ffffff;
+      font-size: 0.95rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .warning-box div p {
+      color: var(--text-muted);
+      font-size: 0.88rem;
+      line-height: 1.5;
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      padding: 2.5rem 0;
+      border-top: 1px solid var(--border-color);
+      margin-top: auto;
+    }
+
+    footer a {
+      color: var(--accent-color);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="layout-wrapper">
+    <!-- Sidebar Navigation -->
+    <aside>
+      <div class="logo-container">
+        <h1>Vitamin K API</h1>
+        <p>Multilingual, CDN-backed static food database providing structured Vitamin K values.</p>
+      </div>
+
+      <nav style="margin-top: 1rem;">
+        <ul class="nav-list">
+          <li><a href="#welcome" class="nav-link active"><svg viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>Welcome</a></li>
+          <li><a href="#directory" class="nav-link"><svg viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg>Data Tree Explorer</a></li>
+          <li><a href="#sync" class="nav-link"><svg viewBox="0 0 24 24"><path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm-1.79 9.8l-2.42-2.42-1.41 1.41 3.83 3.83 7.07-7.07-1.41-1.41-5.66 5.67z"/></svg>Data Sync Guide</a></li>
+          <li><a href="#versioning" class="nav-link"><svg viewBox="0 0 24 24"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/></svg>Versioning & Hashes</a></li>
+          <li><a href="#contributing" class="nav-link"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H7c0-2.76 2.24-5 5-5s5 2.24 5 5c0 1.04-.42 1.99-1.07 2.75z"/></svg>Contributing</a></li>
+        </ul>
+      </nav>
+
+      <div style="margin-top: auto; padding-top: 1.5rem; border-top: 1px solid var(--border-color); display: flex; flex-direction: column; gap: 0.75rem;">
+        <a href="https://github.com/andrejvrabec/vitamin-k-food-database" class="manifest-btn" style="margin-top:0;" target="_blank">
+          <span>GitHub Repository</span>
+          <svg style="width: 16px; height: 16px; fill: white;" viewBox="0 0 24 24"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+        </a>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main>
+      <!-- Section: Welcome -->
+      <section id="welcome">
+        <h2>
+          <svg viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+          Welcome & API Endpoints
+        </h2>
+        <p class="section-intro">
+          This portal provides access to the <strong>Vitamin K Food Database</strong>. The database is hosted as a static JSON dataset on GitHub Pages CDN, providing developers with zero-config, rate-limit-free, and high-performance access. 
+        </p>
+
+        <div class="badges-row">
+          <span class="badge badge-primary" id="welcome-version-badge">v0.0.0</span>
+          <span class="badge badge-secondary">CORS Enabled</span>
+          <span class="badge badge-secondary">HTTPS-Only</span>
+          <span class="badge badge-secondary">Static JSON</span>
+        </div>
+
+        <div class="card-grid" style="margin-top: 0.5rem;">
+          <!-- Card: Endpoints -->
+          <div class="card" style="grid-column: span 2;">
+            <h3>
+              <svg viewBox="0 0 24 24"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg>
+              Core Endpoints
+            </h3>
+            <div class="manifest-info">
+              <div class="manifest-row">
+                <span class="manifest-label">Base URL</span>
+                <span class="manifest-value" style="font-family:monospace; color:var(--accent-color);">https://andrejvrabec.github.io/vitamin-k-food-database/</span>
+              </div>
+              <div class="manifest-row">
+                <span class="manifest-label">Release Manifest JSON</span>
+                <span class="manifest-value" style="font-family:monospace;"><a href="release_manifest.json" target="_blank" style="color:inherit;" id="manifest-direct-link">/release_manifest.json</a></span>
+              </div>
+              <div class="manifest-row">
+                <span class="manifest-label">Metadata Configuration</span>
+                <span class="manifest-value" style="font-family:monospace;"><a href="data/metadata.json" target="_blank" style="color:inherit;" id="metadata-direct-link">/data/metadata.json</a></span>
+              </div>
+              <div class="manifest-row">
+                <span class="manifest-label">Global Data Version</span>
+                <span class="manifest-value" id="val-global-ver">-</span>
+              </div>
+              <div class="manifest-row">
+                <span class="manifest-label">GitHub Release Tag</span>
+                <span class="manifest-value" id="val-release-tag">-</span>
+              </div>
+              <div class="manifest-row">
+                <span class="manifest-label">Previous Tag</span>
+                <span class="manifest-value" id="val-prev-tag">-</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section: Directory Tree Explorer -->
+      <section id="directory">
+        <h2>
+          <svg viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg>
+          Data Tree Explorer
+        </h2>
+        <p class="section-intro">
+          The database is structured into category food files and translation files. Click any file inside the tree or list below to inspect its live raw JSON content.
+        </p>
+
+        <div class="card-grid">
+          <!-- Card: Directory Tree -->
+          <div class="card">
+            <h3>Directory Tree Structure</h3>
+            <div class="directory-tree">
+              <pre style="font-family: monospace; line-height: 1.6; color: #34d399; margin: 0; white-space: pre-wrap;"><span class="tree-folder">data/</span>
+├── <a href="data/metadata.json" target="_blank" class="tree-file" id="tree-metadata-link">metadata.json</a> <span class="tree-comment"># DB config</span>
+├── <span class="tree-folder">categories/</span> <span class="tree-comment"># Raw data</span>
+│   ├── <a href="data/categories/vegetables.json" target="_blank" class="tree-file" id="tree-cat-veg">vegetables.json</a>
+│   ├── <a href="data/categories/fruits.json" target="_blank" class="tree-file" id="tree-cat-fruits">fruits.json</a>
+│   └── ... <span class="tree-comment">(11 files)</span>
+└── <span class="tree-folder">i18n/</span> <span class="tree-comment"># Translations</span>
+    ├── <span class="tree-folder">en/</span> <span class="tree-comment"># English</span>
+    │   ├── <a href="data/i18n/en/common.json" target="_blank" class="tree-file" id="tree-en-common">common.json</a>
+    │   └── <a href="data/i18n/en/vegetables.json" target="_blank" class="tree-file" id="tree-en-veg">vegetables.json</a>
+    └── <span class="tree-folder">sk/</span> <span class="tree-comment"># Slovak</span>
+        ├── <a href="data/i18n/sk/common.json" target="_blank" class="tree-file" id="tree-sk-common">common.json</a>
+        └── <a href="data/i18n/sk/vegetables.json" target="_blank" class="tree-file" id="tree-sk-veg">vegetables.json</a></pre>
+            </div>
+          </div>
+
+          <!-- Card: Categories List -->
+          <div class="card">
+            <h3>Food Category Files</h3>
+            <div class="explorer-list" id="categories-container">
+              <p style="color: var(--text-muted); font-size: 0.9rem;">Loading categories...</p>
+            </div>
+          </div>
+
+          <!-- Card: Database Tags -->
+          <div class="card">
+            <h3>Database Tags</h3>
+            <p style="font-size: 0.85rem; color: var(--text-muted);">
+              Food items in categories refer to these tag IDs. Consumption apps can filter or group items using them.
+            </p>
+            <div class="tags-container" id="tags-container">
+              <p style="color: var(--text-muted); font-size: 0.9rem;">Loading tags...</p>
+            </div>
+          </div>
+
+          <!-- Card: Metadata & Translation Files -->
+          <div class="card">
+            <h3>Metadata & Translations</h3>
+            <div class="explorer-list" id="system-files-container">
+              <p style="color: var(--text-muted); font-size: 0.9rem;">Loading files...</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section: Data Sync Guide -->
+      <section id="sync">
+        <h2>
+          <svg viewBox="0 0 24 24"><path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm-1.79 9.8l-2.42-2.42-1.41 1.41 3.83 3.83 7.07-7.07-1.41-1.41-5.66 5.67z"/></svg>
+          Data Synchronization Guide
+        </h2>
+        <p class="section-intro">
+          Client applications (mobile or backend) should implement a dynamic sync loop rather than downloading the entire database on every start. This reduces bandwidth and ensures instant updates.
+        </p>
+
+        <div class="doc-step">
+          <div class="step-number">1</div>
+          <div class="step-text">
+            <h4>Fetch the Release Manifest</h4>
+            <p>Download the small `release_manifest.json` file on client start (it contains SHA-256 hashes of all database files).</p>
+          </div>
+        </div>
+
+        <div class="doc-step">
+          <div class="step-number">2</div>
+          <div class="step-text">
+            <h4>Compare Global Version</h4>
+            <p>Compare the manifest's `global_version` against the client's local version. If they match, stop (data is up to date).</p>
+          </div>
+        </div>
+
+        <div class="doc-step">
+          <div class="step-number">3</div>
+          <div class="step-text">
+            <h4>Download Only Changed Files</h4>
+            <p>If versions differ, loop through the files and download <strong>only</strong> those flagged with `"changed": true` (or check if their `sha256` hash changed compared to the locally stored file).</p>
+          </div>
+        </div>
+
+        <div class="info-box">
+          <svg viewBox="0 0 24 24"><path d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
+          <div>
+            <h4>Why check SHA-256?</h4>
+            <p>Comparing SHA-256 hashes is the most robust way to ensure file integrity. If a translation file or category file has changed, its hash will change, triggering your client code to download the fresh copy.</p>
+          </div>
+        </div>
+
+        <div class="card" style="margin-top: 0.5rem;">
+          <h3>Example Integration (JavaScript)</h3>
+          <div class="code-block-container">
+            <pre><code style="font-family: monospace; display: block; white-space: pre;">async function syncDatabase(localVersion, cachedHashes) {
+  const MANIFEST_URL = 'https://andrejvrabec.github.io/vitamin-k-food-database/release_manifest.json';
+  
+  try {
+    const res = await fetch(MANIFEST_URL);
+    const manifest = await res.json();
+    
+    // Step 1: Check if the global version differs
+    if (manifest.global_version === localVersion) {
+      console.log("Database is up-to-date.");
+      return;
+    }
+    
+    // Step 2: Identify changed files
+    const categoryFiles = manifest.files.categories;
+    for (const [categoryId, categoryObj] of Object.entries(categoryFiles)) {
+      const localHash = cachedHashes[categoryId];
+      
+      // Step 3: Fetch file if it changed
+      if (categoryObj.changed || localHash !== categoryObj.sha256) {
+        console.log(`Downloading updated category: ${categoryId}...`);
+        const catRes = await fetch(categoryObj.url);
+        const catData = await catRes.json();
+        
+        saveCategoryLocally(categoryId, catData);
+        saveHashLocally(categoryId, categoryObj.sha256);
+      }
+    }
+    
+    saveGlobalVersionLocally(manifest.global_version);
+    console.log("Database sync completed.");
+  } catch (err) {
+    console.error("Failed to sync database", err);
+  }
+}</code></pre>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section: Versioning & Hashes -->
+      <section id="versioning">
+        <h2>
+          <svg viewBox="0 0 24 24"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/></svg>
+          Versioning & Hashes
+        </h2>
+        <p class="section-intro">
+          This database uses <strong>Semantic Versioning (SemVer)</strong> adaptively. Because this is a static data API, versioning is simplified to protect clients and prevent unnecessary network traffic.
+        </p>
+
+        <div class="card-grid">
+          <!-- Card: Single Versioning -->
+          <div class="card">
+            <h3>Single Global Version</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5;">
+              There are no separate version numbers inside the categories or translation JSON files. 
+              Instead, a single global version (e.g. `1.0.5`) is defined at the project level. 
+              This version matches the <strong>GitHub Release Tag</strong> (`v1.0.5`) exactly.
+            </p>
+          </div>
+
+          <!-- Card: Release Manifest -->
+          <div class="card">
+            <h3>Automated Release Manifest</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5;">
+              When a new release is published, the release workflow automatically generates a <code>release_manifest.json</code>. 
+              This file tracks the SHA-256 hash of every dataset file and flags if it changed since the previous release.
+            </p>
+          </div>
+        </div>
+
+        <div class="warning-box">
+          <svg viewBox="0 0 24 24"><path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg>
+          <div>
+            <h4>SemVer Rules for Maintainers</h4>
+            <p>
+              <strong>PATCH bump (e.g. 1.0.4 -> 1.0.5):</strong> Backward-compatible typos, spelling fixes, or value adjustments.<br>
+              <strong>MINOR bump (e.g. 1.0.5 -> 1.1.0):</strong> Adding new foods, translation files, tags, or categories.<br>
+              <strong>MAJOR bump (e.g. 1.1.0 -> 2.0.0):</strong> Deleting items, removing tags, renaming IDs, or modifying schemas.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section: Contributing -->
+      <section id="contributing">
+        <h2>
+          <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H7c0-2.76 2.24-5 5-5s5 2.24 5 5c0 1.04-.42 1.99-1.07 2.75z"/></svg>
+          Contributing & Development Guide
+        </h2>
+        <p class="section-intro">
+          This database is an open-source, crowdsourced project. If you find missing foods, spelling typos, or incorrect Vitamin K values, please feel free to contribute directly on GitHub.
+        </p>
+
+        <a href="https://github.com/andrejvrabec/vitamin-k-food-database" class="manifest-btn" style="align-self: flex-start;" target="_blank">
+          <span>Fork & Contribute on GitHub</span>
+          <svg style="width: 16px; height: 16px; fill: white;" viewBox="0 0 24 24"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+        </a>
+      </section>
+
+      <!-- Footer -->
+      <footer>
+        <p>
+          Vitamin K Food Database API Portal | Open-source under MIT License on <a href="https://github.com/andrejvrabec/vitamin-k-food-database" target="_blank">GitHub</a>.
+        </p>
+      </footer>
+    </main>
+  </div>
+
+  <script>
+    let databaseMetadata = null;
+    let englishCommonTranslations = null;
+
+    // Helper to resolve relative path correctly based on the current page location
+    function getResolvedPath(relPath) {
+      let base = window.location.pathname;
+      if (!base.endsWith('/')) {
+        if (base.includes('.') || base.endsWith('index.html')) {
+          base = base.substring(0, base.lastIndexOf('/') + 1);
+        } else {
+          base = base + '/';
+        }
+      }
+      return base + relPath;
+    }
+
+    // Navigation highlight logic on scroll
+    window.addEventListener('DOMContentLoaded', () => {
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          const id = entry.target.getAttribute('id');
+          if (entry.intersectionRatio > 0.4) {
+            document.querySelectorAll('.nav-link').forEach(link => {
+              link.classList.toggle('active', link.getAttribute('href') === `#${id}`);
+            });
+          }
+        });
+      }, { threshold: [0.1, 0.5, 0.8] });
+
+      document.querySelectorAll('section').forEach(section => {
+        observer.observe(section);
+      });
+    });
+
+    async function init() {
+      try {
+        // Fetch metadata & manifest using path resolver
+        const metadataUrl = getResolvedPath('data/metadata.json');
+        const metadataRes = await fetch(metadataUrl);
+        databaseMetadata = await metadataRes.json();
+
+        let manifest = null;
+        try {
+          const manifestUrl = getResolvedPath('release_manifest.json');
+          const manifestRes = await fetch(manifestUrl);
+          manifest = await manifestRes.json();
+        } catch (e) {
+          console.warn("Could not load release manifest, using defaults.");
+        }
+
+        // Fetch English translations for default English rendering of categories
+        try {
+          const enCommonUrl = getResolvedPath('data/i18n/en/common.json');
+          const enRes = await fetch(enCommonUrl);
+          englishCommonTranslations = await enRes.json();
+        } catch (e) {
+          console.error("Could not load English common translations", e);
+        }
+
+        // Set version metrics
+        const globalVersion = manifest ? manifest.global_version : '0.0.0';
+        document.getElementById('welcome-version-badge').textContent = `v${globalVersion}`;
+        document.getElementById('val-global-ver').textContent = globalVersion;
+        document.getElementById('val-release-tag').textContent = (manifest && manifest.tag) ? manifest.tag : 'N/A';
+        document.getElementById('val-prev-tag').textContent = (manifest && manifest.previous_tag) ? manifest.previous_tag : 'None';
+
+        // Update direct links using path resolver
+        document.getElementById('manifest-direct-link').href = getResolvedPath('release_manifest.json');
+        document.getElementById('metadata-direct-link').href = getResolvedPath('data/metadata.json');
+        document.getElementById('tree-metadata-link').href = getResolvedPath('data/metadata.json');
+        document.getElementById('tree-cat-veg').href = getResolvedPath('data/categories/vegetables.json');
+        document.getElementById('tree-cat-fruits').href = getResolvedPath('data/categories/fruits.json');
+        document.getElementById('tree-en-common').href = getResolvedPath('data/i18n/en/common.json');
+        document.getElementById('tree-en-veg').href = getResolvedPath('data/i18n/en/vegetables.json');
+        document.getElementById('tree-sk-common').href = getResolvedPath('data/i18n/sk/common.json');
+        document.getElementById('tree-sk-veg').href = getResolvedPath('data/i18n/sk/vegetables.json');
+
+        renderLanguagesBadges();
+        renderCategories();
+        renderTags();
+        renderSystemFiles();
+      } catch (err) {
+        console.error("Failed to initialize API portal dashboard", err);
+        let errorMsg = "Error loading database metadata.";
+        if (window.location.protocol === 'file:') {
+          errorMsg = "Browsers block AJAX/fetch requests for local files (CORS policy).<br>Please run a local web server (e.g., run <code>py -m http.server</code> in this folder) or push/deploy to GitHub Pages to view the dynamic content.";
+        }
+        document.getElementById('categories-container').innerHTML = 
+          `<p style="color: #ef4444; text-align: center; padding: 2rem; line-height: 1.5;">${errorMsg}</p>`;
+      }
+    }
+
+    function renderLanguagesBadges() {
+      const container = document.getElementById('languages-badges-container');
+      if (!databaseMetadata || !databaseMetadata.languages) return;
+
+      let html = '';
+      databaseMetadata.languages.forEach(lang => {
+        const uppercase = lang.toUpperCase();
+        html += `<span class="badge badge-secondary" style="letter-spacing: 0.05em;">${uppercase}</span>`;
+      });
+      container.innerHTML = html;
+    }
+
+    function renderCategories() {
+      if (!databaseMetadata) return;
+
+      const container = document.getElementById('categories-container');
+      const categories = databaseMetadata.categories || [];
+      
+      if (categories.length === 0) {
+        container.innerHTML = `<p style="color: var(--text-muted); text-align: center; padding: 2rem;">No categories found.</p>`;
+        return;
+      }
+
+      let html = '';
+      categories.forEach(cat => {
+        // Find category name from English common translations
+        let name = cat.replace('_', ' ');
+        name = name.charAt(0).toUpperCase() + name.slice(1); // fallback title case
+
+        if (englishCommonTranslations && englishCommonTranslations.categories && englishCommonTranslations.categories[cat]) {
+          name = englishCommonTranslations.categories[cat];
+        }
+
+        const relativePath = `data/categories/${cat}.json`;
+        const resolvedPath = getResolvedPath(relativePath);
+
+        html += `
+          <a href="${resolvedPath}" class="explorer-item" target="_blank">
+            <div>
+              <span class="name">${name}</span>
+              <span class="path">${relativePath}</span>
+            </div>
+            <div class="cat-meta">
+              <span class="meta-badge">json</span>
+              <svg class="arrow-icon" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
+            </div>
+          </a>
+        `;
+      });
+      container.innerHTML = html;
+    }
+
+    function renderTags() {
+      const container = document.getElementById('tags-container');
+      if (!databaseMetadata || !databaseMetadata.tags) {
+        container.innerHTML = `<p style="color: var(--text-muted); font-size: 0.9rem;">No tags found.</p>`;
+        return;
+      }
+
+      let html = '';
+      databaseMetadata.tags.forEach(tag => {
+        // Format tag for display
+        let displayTag = tag.replace(/_/g, ' ');
+        html += `<span class="tag-badge" title="Tag ID: ${tag}">${displayTag}</span>`;
+      });
+      container.innerHTML = html;
+    }
+
+    function renderSystemFiles() {
+      const container = document.getElementById('system-files-container');
+      if (!databaseMetadata) return;
+
+      const categories = databaseMetadata.categories || [];
+      const languages = databaseMetadata.languages || [];
+      
+      let html = '';
+      
+      // 1. Render Global Metadata
+      const metadataPath = getResolvedPath('data/metadata.json');
+      html += `
+        <a href="${metadataPath}" class="explorer-item" target="_blank" style="padding: 0.75rem 1rem; border-radius: 12px; display: flex;">
+          <div class="cat-info-wrapper" style="max-width: 90%;">
+            <span class="name" style="font-size: 0.9rem;">Global Metadata File</span>
+            <span class="path" style="font-size: 0.75rem; margin-bottom: 0.15rem;">data/metadata.json</span>
+            <span style="font-size: 0.75rem; color: var(--text-muted); line-height: 1.3;">Defines database configuration, supported languages, tags, and category lists.</span>
+          </div>
+          <svg class="arrow-icon" style="width: 14px; height: 14px; margin-left: auto; align-self: center;" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
+        </a>
+      `;
+
+      // 2. Loop through all supported languages to render their translation files
+      languages.forEach(lang => {
+        const langName = lang.toUpperCase();
+        
+        // Render common translations for this language
+        const commonRel = `data/i18n/${lang}/common.json`;
+        const commonPath = getResolvedPath(commonRel);
+        html += `
+          <a href="${commonPath}" class="explorer-item" target="_blank" style="padding: 0.75rem 1rem; border-radius: 12px; display: flex; margin-top: 0.5rem; background: rgba(16, 185, 129, 0.02); border-color: rgba(16, 185, 129, 0.08);">
+            <div class="cat-info-wrapper" style="max-width: 90%;">
+              <span class="name" style="font-size: 0.9rem; color: #34d399;">Common Translations (${langName})</span>
+              <span class="path" style="font-size: 0.75rem; margin-bottom: 0.15rem;">${commonRel}</span>
+              <span style="font-size: 0.75rem; color: var(--text-muted); line-height: 1.3;">Translates tag names, category titles, and portion units into ${langName}.</span>
+            </div>
+            <svg class="arrow-icon" style="width: 14px; height: 14px; margin-left: auto; align-self: center; fill: var(--accent-color);" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
+          </a>
+        `;
+
+        // Render category specific translations for this language
+        categories.forEach(cat => {
+          let catName = cat.replace('_', ' ');
+          catName = catName.charAt(0).toUpperCase() + catName.slice(1);
+          
+          if (englishCommonTranslations && englishCommonTranslations.categories && englishCommonTranslations.categories[cat]) {
+            catName = englishCommonTranslations.categories[cat];
+          }
+
+          const relativePath = `data/i18n/${lang}/${cat}.json`;
+          const path = getResolvedPath(relativePath);
+          const displayName = `Category Translation: ${catName} (${langName})`;
+          const desc = `Translates food item names, portion sizes, and descriptions for ${catName} into ${langName}.`;
+
+          html += `
+            <a href="${path}" class="explorer-item" target="_blank" style="padding: 0.75rem 1rem; border-radius: 12px; display: flex; margin-left: 0.75rem;">
+              <div class="cat-info-wrapper" style="max-width: 90%;">
+                <span class="name" style="font-size: 0.88rem;">${displayName}</span>
+                <span class="path" style="font-size: 0.75rem; margin-bottom: 0.15rem;">${relativePath}</span>
+                <span style="font-size: 0.75rem; color: var(--text-muted); line-height: 1.3;">${desc}</span>
+              </div>
+              <svg class="arrow-icon" style="width: 14px; height: 14px; margin-left: auto; align-self: center;" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
+            </a>
+          `;
+        });
+      });
+
+      container.innerHTML = html;
+    }
+
+    init();
+  </script>
+</body>
+</html>

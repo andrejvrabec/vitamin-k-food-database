@@ -1,0 +1,3147 @@
+{
+  "alcoholic_beverage_wine_table_white": {
+    "name": "Alkoholický nápoj, víno, stolové, biele",
+    "alternative_names": [],
+    "description": "Alkoholický nápoj, víno, stolové, biele podľa databázy USDA."
+  },
+  "applesauce_canned_sweetened_without_salt": {
+    "name": "Jablkový pretlak, konzervovaný, sladený, bez soli",
+    "alternative_names": [],
+    "description": "Jablkový pretlak, konzervovaný, sladený, bez soli podľa databázy USDA."
+  },
+  "beverages_unilever_slimfast_meal_replace": {
+    "name": "Nápoje, UNILEVER, SLIMFAST, náhrada jedla, bežné, pripravené na pitie, plán 3-2-1",
+    "alternative_names": [],
+    "description": "Nápoje, UNILEVER, SLIMFAST, náhrada jedla, bežné, pripravené na pitie, plán 3-2-1 podľa databázy USDA."
+  },
+  "biscuits_plain_or_buttermilk_dry_mix": {
+    "name": "Sušienky, obyčajné alebo cmar, suchá zmes",
+    "alternative_names": [],
+    "description": "Sušienky, obyčajné alebo cmar, suchá zmes podľa databázy USDA."
+  },
+  "biscuits_plain_or_buttermilk_frozen_bake": {
+    "name": "Sušienky, obyčajné alebo cmar, mrazené, pečené",
+    "alternative_names": [],
+    "description": "Sušienky, obyčajné alebo cmar, mrazené, pečené podľa databázy USDA."
+  },
+  "boysenberries_frozen_unsweetened": {
+    "name": "Boysenberries, mrazené, nesladené",
+    "alternative_names": [],
+    "description": "Boysenberries, mrazené, nesladené podľa databázy USDA."
+  },
+
+  "cake_angelfood_dry_mix_prepared": {
+    "name": "Torta, angelfood, suchá zmes, pripravené",
+    "alternative_names": [],
+    "description": "Torta, angelfood, suchá zmes, pripravené podľa databázy USDA."
+  },
+  "cake_cheesecake_commercially_prepared": {
+    "name": "Koláč, tvarohový koláč, komerčne pripravený",
+    "alternative_names": [],
+    "description": "Koláč, tvarohový koláč, komerčne pripravený podľa databázy USDA."
+  },
+  "cake_cherry_fudge_with_chocolate_frostin": {
+    "name": "Torta, čerešňový fudge s čokoládovou polevou",
+    "alternative_names": [],
+    "description": "Torta, čerešňový fudge s čokoládovou polevou podľa databázy USDA."
+  },
+  "cake_coffeecake_cinnamon_with_crumb_topp": {
+    "name": "Koláč, kávový koláč, škorica s strúhankovou polevou, suchá zmes,",
+    "alternative_names": [],
+    "description": "Koláč, kávový koláč, škorica s strúhankovou polevou, suchá zmes, podľa databázy USDA."
+  },
+  "cake_snack_cakes_creme_filled_sponge": {
+    "name": "Koláč, zákusky, plnené krémom, piškóty",
+    "alternative_names": [],
+    "description": "Koláč, zákusky, plnené krémom, piškóty podľa databázy USDA."
+  },
+  "cake_sponge_commercially_prepared": {
+    "name": "Koláč, piškót, komerčne pripravený",
+    "alternative_names": [],
+    "description": "Koláč, piškót, komerčne pripravený podľa databázy USDA."
+  },
+  "candies_5th_avenue_candy_bar": {
+    "name": "Cukríky, 5TH AVENUE Candy Bar",
+    "alternative_names": [],
+    "description": "Cukríky, 5TH AVENUE Candy Bar podľa databázy USDA."
+  },
+  "candies_caramels_chocolate_flavor_roll": {
+    "name": "Cukríky, karamely, roláda s čokoládovou príchuťou",
+    "alternative_names": [],
+    "description": "Cukríky, karamely, roláda s čokoládovou príchuťou podľa databázy USDA."
+  },
+  "candies_chocolate_dark_nfs": {
+    "name": "Cukríky, čokoládové, tmavé, NFS (45 – 59 % kakaovej sušiny 90 %; 60 – 69 % kakaovej sušiny 5 %; 70 – 85 % kakaovej sušiny 5 %)",
+    "alternative_names": [],
+    "description": "Cukríky, čokoládové, tmavé, NFS (45 – 59 % kakaovej sušiny 90 %; 60 – 69 % kakaovej sušiny 5 %; 70 – 85 % kakaovej sušiny 5 %) podľa databázy USDA."
+  },
+  "candies_confectioners_coating_peanut_but": {
+    "name": "Cukríky, cukrárska poleva, arašidové maslo",
+    "alternative_names": [],
+    "description": "Cukríky, cukrárska poleva, arašidové maslo podľa databázy USDA."
+  },
+  "candies_dark_chocolate_coated_coffee_bea": {
+    "name": "Cukríky, kávové zrná potiahnuté tmavou čokoládou",
+    "alternative_names": [],
+    "description": "Cukríky, kávové zrná potiahnuté tmavou čokoládou podľa databázy USDA."
+  },
+  "candies_fudge_chocolate_with_nuts_prepar": {
+    "name": "Cukríky, fudge, čokoláda, s orechmi, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Cukríky, fudge, čokoláda, s orechmi, pripravené podľa receptu podľa databázy USDA."
+  },
+  "candies_mars_snackfood_us_3_musketeers_b": {
+    "name": "Cukríky, MARS SNACKFOOD US, 3 MUSKETEERS Bar",
+    "alternative_names": [],
+    "description": "Cukríky, MARS SNACKFOOD US, 3 MUSKETEERS Bar podľa databázy USDA."
+  },
+  "candies_mars_snackfood_us_m_ms_milk_choc": {
+    "name": "Cukríky, MARS SNACKFOOD US, M & M's mliečne čokoládové cukrovinky",
+    "alternative_names": [],
+    "description": "Cukríky, MARS SNACKFOOD US, M & M's mliečne čokoládové cukrovinky podľa databázy USDA."
+  },
+  "candies_mars_snackfood_us_starburst_frui": {
+    "name": "Cukríky, MARS SNACKFOOD US, STARBURST Ovocné žuvačky, Originálne ovocie",
+    "alternative_names": [],
+    "description": "Cukríky, MARS SNACKFOOD US, STARBURST Ovocné žuvačky, Originálne ovocie podľa databázy USDA."
+  },
+  "candies_mounds_candy_bar": {
+    "name": "Cukríky, tyčinka MOUNDS",
+    "alternative_names": [],
+    "description": "Cukríky, tyčinka MOUNDS podľa databázy USDA."
+  },
+  "candies_nestle_100_grand_bar": {
+    "name": "Cukríky, NESTLE, 100 GRAND Bar",
+    "alternative_names": [],
+    "description": "Cukríky, NESTLE, 100 GRAND Bar podľa databázy USDA."
+  },
+  "candies_nestle_butterfinger_bar": {
+    "name": "Cukríky, HNIEZDO, tyčinka BUTTERFINGER",
+    "alternative_names": [],
+    "description": "Cukríky, HNIEZDO, tyčinka BUTTERFINGER podľa databázy USDA."
+  },
+  "candies_nestle_butterfinger_crisp": {
+    "name": "Cukríky, HNIEZDO, BUTTERFINGER Crisp",
+    "alternative_names": [],
+    "description": "Cukríky, HNIEZDO, BUTTERFINGER Crisp podľa databázy USDA."
+  },
+  "candies_truffles_prepared_from_recipe": {
+    "name": "Cukríky, hľuzovky, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Cukríky, hľuzovky, pripravené podľa receptu podľa databázy USDA."
+  },
+  "chocolate_dark_60_69_cacao_solids": {
+    "name": "Čokoláda, tmavá, 60-69% kakaovej sušiny",
+    "alternative_names": [],
+    "description": "Čokoláda, tmavá, 60-69% kakaovej sušiny podľa databázy USDA."
+  },
+  "chocolate_flavored_hazelnut_spread": {
+    "name": "Oriešková nátierka s čokoládovou príchuťou",
+    "alternative_names": [],
+    "description": "Oriešková nátierka s čokoládovou príchuťou podľa databázy USDA."
+  },
+  "cookies_molasses": {
+    "name": "Sušienky, melasa",
+    "alternative_names": [],
+    "description": "Sušienky, melasa podľa databázy USDA."
+  },
+  "cookies_shortbread_commercially_prepared": {
+    "name": "Sušienky, krehké pečivo, komerčne pripravené, obyčajné",
+    "alternative_names": [],
+    "description": "Sušienky, krehké pečivo, komerčne pripravené, obyčajné podľa databázy USDA."
+  },
+  "cookies_sugar_commercially_prepared_regu": {
+    "name": "Sušienky, cukor, komerčne pripravované, bežné (vrátane",
+    "alternative_names": [],
+    "description": "Sušienky, cukor, komerčne pripravované, bežné (vrátane podľa databázy USDA."
+  },
+  "cookies_sugar_wafer_with_creme_filling_s": {
+    "name": "Sušienky, cukrová oblátka, s krémovou náplňou, bez cukru",
+    "alternative_names": [],
+    "description": "Sušienky, cukrová oblátka, s krémovou náplňou, bez cukru podľa databázy USDA."
+  },
+
+  "crackers_standard_snack_type_regular": {
+    "name": "Krekry, štandardné občerstvenie, bežné",
+    "alternative_names": [],
+    "description": "Krekry, štandardné občerstvenie, bežné podľa databázy USDA."
+  },
+  "cranberry_sauce_canned_sweetened": {
+    "name": "Brusnicová omáčka, konzerva, sladená",
+    "alternative_names": [],
+    "description": "Brusnicová omáčka, konzerva, sladená podľa databázy USDA."
+  },
+  "cream_whipped_cream_topping_pressurized": {
+    "name": "Smotana, šľahačka, smotanová poleva, tlaková",
+    "alternative_names": [],
+    "description": "Smotana, šľahačka, smotanová poleva, tlaková podľa databázy USDA."
+  },
+  "currants_red_and_white_raw": {
+    "name": "Ríbezle, červené a biele, surové",
+    "alternative_names": [],
+    "description": "Ríbezle, červené a biele, surové podľa databázy USDA."
+  },
+
+  "dessert_topping_powdered": {
+    "name": "Poleva na dezert, prášková",
+    "alternative_names": [],
+    "description": "Poleva na dezert, prášková podľa databázy USDA."
+  },
+  "dessert_topping_powdered_15_ounce_prepar": {
+    "name": "Dezertný toping, práškový, 1,5 unce pripravený s 1/2",
+    "alternative_names": [],
+    "description": "Dezertný toping, práškový, 1,5 unce pripravený s 1/2 podľa databázy USDA."
+  },
+  "dessert_topping_pressurized": {
+    "name": "Poleva na dezert, tlaková",
+    "alternative_names": [],
+    "description": "Poleva na dezert, tlaková podľa databázy USDA."
+  },
+  "desserts_mousse_chocolate_prepared_from": {
+    "name": "Dezerty, pena, čokoláda, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Dezerty, pena, čokoláda, pripravené podľa receptu podľa databázy USDA."
+  },
+  "digiorno_pizza_cheese_topping_rising_cru": {
+    "name": "DIGIORNO Pizza, syrová poleva, kysnutá kôrka, mrazená, pečená",
+    "alternative_names": [],
+    "description": "DIGIORNO Pizza, syrová poleva, kysnutá kôrka, mrazená, pečená podľa databázy USDA."
+  },
+  "frostings_coconut_nut_ready_to_eat": {
+    "name": "Polevy, kokosovo-orechové, hotové na priamu konzumáciu",
+    "alternative_names": [],
+    "description": "Polevy, kokosovo-orechové, hotové na priamu konzumáciu podľa databázy USDA."
+  },
+  "frostings_glaze_chocolate_prepared_from": {
+    "name": "Polevy, polevy, čokoláda, pripravené podľa receptu, s maslom, NFSMI Recept č. C-32",
+    "alternative_names": [],
+    "description": "Polevy, polevy, čokoláda, pripravené podľa receptu, s maslom, NFSMI Recept č. C-32 podľa databázy USDA."
+  },
+  "frozen_novelties_no_sugar_added_fudgsicl": {
+    "name": "Mrazené novinky, bez pridaného cukru, FUDGSICLE pop",
+    "alternative_names": [],
+    "description": "Mrazené novinky, bez pridaného cukru, FUDGSICLE pop podľa databázy USDA."
+  },
+  "gravy_beef_canned_ready_to_serve": {
+    "name": "Omáčka, hovädzie mäso, konzerva, pripravené na servírovanie",
+    "alternative_names": [],
+    "description": "Omáčka, hovädzie mäso, konzerva, pripravené na servírovanie podľa databázy USDA."
+  },
+  "ice_creams_vanilla_light_no_sugar_added": {
+    "name": "Zmrzliny, vanilkové, svetlé, bez pridaného cukru",
+    "alternative_names": [],
+    "description": "Zmrzliny, vanilkové, svetlé, bez pridaného cukru podľa databázy USDA."
+  },
+  "infant_formula_abbott_nutrition_similac": {
+    "name": "Dojčenská výživa, ABBOTT NUTRITION, SIMILAC, GO AND GROW, pripravená na kŕmenie, s ARA a DHA",
+    "alternative_names": [],
+    "description": "Dojčenská výživa, ABBOTT NUTRITION, SIMILAC, GO AND GROW, pripravená na kŕmenie, s ARA a DHA podľa databázy USDA."
+  },
+  "infant_formula_gerber_good_start_2_gentl": {
+    "name": "Dojčenská výživa, GERBER GOOD START 2, GENTLE PLUS,",
+    "alternative_names": [],
+    "description": "Dojčenská výživa, GERBER GOOD START 2, GENTLE PLUS, podľa databázy USDA."
+  },
+  "infant_formula_gerber_good_start_2_prote": {
+    "name": "Dojčenská výživa, GERBER, GOOD START 2, PROTECT PLUS, pripravená na kŕmenie",
+    "alternative_names": [],
+    "description": "Dojčenská výživa, GERBER, GOOD START 2, PROTECT PLUS, pripravená na kŕmenie podľa databázy USDA."
+  },
+  "infant_formula_gerber_good_start_2_soy_w": {
+    "name": "Dojčenská výživa, GERBER, GOOD START 2 Sója, so železom,",
+    "alternative_names": [],
+    "description": "Dojčenská výživa, GERBER, GOOD START 2 Sója, so železom, podľa databázy USDA."
+  },
+  "infant_formula_mead_johnson_enfamil_prem": {
+    "name": "Dojčenská výživa, MEAD JOHNSON, ENFAMIL, predčasne narodená, so železom, 24 kalórií, pripravená na kŕmenie",
+    "alternative_names": [],
+    "description": "Dojčenská výživa, MEAD JOHNSON, ENFAMIL, predčasne narodená, so železom, 24 kalórií, pripravená na kŕmenie podľa databázy USDA."
+  },
+  "kiwifruit_green_raw": {
+    "name": "Kiwi, zelené, surové",
+    "alternative_names": [],
+    "description": "Kiwi, zelené, surové podľa databázy USDA."
+  },
+
+  "milk_chocolate_fluid_commercial_reduced": {
+    "name": "Mlieko, čokoláda, tekuté, komerčné, so zníženým obsahom tuku, s pridaným vitamínom A a vitamínom D",
+    "alternative_names": [],
+    "description": "Mlieko, čokoláda, tekuté, komerčné, so zníženým obsahom tuku, s pridaným vitamínom A a vitamínom D podľa databázy USDA."
+  },
+  "milk_chocolate_fluid_commercial_whole_wi": {
+    "name": "Mlieko, čokoláda, tekuté, komerčné, celé, s pridaným vitamínom A a vitamínom D",
+    "alternative_names": [],
+    "description": "Mlieko, čokoláda, tekuté, komerčné, celé, s pridaným vitamínom A a vitamínom D podľa databázy USDA."
+  },
+  "milk_shakes_thick_chocolate": {
+    "name": "Mliečne koktaily, hustá čokoláda",
+    "alternative_names": [],
+    "description": "Mliečne koktaily, hustá čokoláda podľa databázy USDA."
+  },
+
+  "olives_ripe_canned": {
+    "name": "Olivy, zrelé, konzervované (malé-extra veľké)",
+    "alternative_names": [],
+    "description": "Olivy, zrelé, konzervované (malé-extra veľké) podľa databázy USDA."
+  },
+  "puddings_chocolate_dry_mix_regular_prepa": {
+    "name": "Pudingy, čokoláda, suchá zmes, obyčajná, pripravovaná v celku",
+    "alternative_names": [],
+    "description": "Pudingy, čokoláda, suchá zmes, obyčajná, pripravovaná v celku podľa databázy USDA."
+  },
+  "puddings_chocolate_ready_to_eat": {
+    "name": "Pudingy, čokoláda, hotové na priamu spotrebu",
+    "alternative_names": [],
+    "description": "Pudingy, čokoláda, hotové na priamu spotrebu podľa databázy USDA."
+  },
+  "puddings_chocolate_ready_to_eat_fat_free": {
+    "name": "Pudingy, čokoládové, hotové na priamu spotrebu, bez tuku",
+    "alternative_names": [],
+    "description": "Pudingy, čokoládové, hotové na priamu spotrebu, bez tuku podľa databázy USDA."
+  },
+  "snacks_corn_based_extruded_onion_flavor": {
+    "name": "Pochutiny na báze kukurice, extrudované, s cibuľovou príchuťou",
+    "alternative_names": [],
+    "description": "Pochutiny na báze kukurice, extrudované, s cibuľovou príchuťou podľa databázy USDA."
+  },
+  "snacks_corn_based_extruded_puffs_or_twis": {
+    "name": "Občerstvenie, na báze kukurice, extrudované, oblátky alebo točené, syrová príchuť",
+    "alternative_names": [],
+    "description": "Občerstvenie, na báze kukurice, extrudované, oblátky alebo točené, syrová príchuť podľa databázy USDA."
+  },
+  "snacks_oriental_mix_rice_based": {
+    "name": "Občerstvenie, orientálna zmes, na báze ryže",
+    "alternative_names": [],
+    "description": "Občerstvenie, orientálna zmes, na báze ryže podľa databázy USDA."
+  },
+  "snacks_potato_chips_barbecue_flavor": {
+    "name": "Občerstvenie, zemiakové lupienky, grilovacia príchuť",
+    "alternative_names": [],
+    "description": "Občerstvenie, zemiakové lupienky, grilovacia príchuť podľa databázy USDA."
+  },
+  "snacks_potato_chips_fat_free_salted": {
+    "name": "Občerstvenie, zemiakové lupienky, bez tuku, solené",
+    "alternative_names": [],
+    "description": "Občerstvenie, zemiakové lupienky, bez tuku, solené podľa databázy USDA."
+  },
+  "snacks_potato_chips_made_from_dried_pota": {
+    "name": "Občerstvenie, zemiakové lupienky, zo sušených zemiakov, bez tuku, vyrobené s olestrou",
+    "alternative_names": [],
+    "description": "Občerstvenie, zemiakové lupienky, zo sušených zemiakov, bez tuku, vyrobené s olestrou podľa databázy USDA."
+  },
+  "snacks_potato_sticks": {
+    "name": "Občerstvenie, zemiakové tyčinky",
+    "alternative_names": [],
+    "description": "Občerstvenie, zemiakové tyčinky podľa databázy USDA."
+  },
+  "snacks_tortilla_chips_low_fat_made_with": {
+    "name": "Občerstvenie, tortilla chipsy, s nízkym obsahom tuku, vyrobené z olestra, nacho",
+    "alternative_names": [],
+    "description": "Občerstvenie, tortilla chipsy, s nízkym obsahom tuku, vyrobené z olestra, nacho podľa databázy USDA."
+  },
+  "snacks_tortilla_chips_ranch_flavor": {
+    "name": "Občerstvenie, tortilla chipsy, príchuť ranča",
+    "alternative_names": [],
+    "description": "Občerstvenie, tortilla chipsy, príchuť ranča podľa databázy USDA."
+  },
+  "soup_beef_and_vegetables_canned_ready_to": {
+    "name": "Polievka, hovädzie mäso a zelenina, konzervované, pripravené na servírovanie",
+    "alternative_names": [],
+    "description": "Polievka, hovädzie mäso a zelenina, konzervované, pripravené na servírovanie podľa databázy USDA."
+  },
+  "soup_beef_noodle_canned_condensed": {
+    "name": "Polievka, hovädzie rezance, konzerva, kondenzovaná",
+    "alternative_names": [],
+    "description": "Polievka, hovädzie rezance, konzerva, kondenzovaná podľa databázy USDA."
+  },
+  "soup_black_bean_canned_condensed": {
+    "name": "Polievka, čierna fazuľa, konzerva, kondenzovaná",
+    "alternative_names": [],
+    "description": "Polievka, čierna fazuľa, konzerva, kondenzovaná podľa databázy USDA."
+  },
+  "soup_chicken_canned_chunky_ready_to_serv": {
+    "name": "Polievka, kuracie mäso, konzerva, hrubá, pripravená na servírovanie",
+    "alternative_names": [],
+    "description": "Polievka, kuracie mäso, konzerva, hrubá, pripravená na servírovanie podľa databázy USDA."
+  },
+  "soup_chicken_gumbo_canned_condensed": {
+    "name": "Polievka, kuracie gumbo, konzervované, kondenzované",
+    "alternative_names": [],
+    "description": "Polievka, kuracie gumbo, konzervované, kondenzované podľa databázy USDA."
+  },
+  "soup_chicken_with_rice_canned_condensed": {
+    "name": "Polievka, kuracie mäso s ryžou, konzervované, kondenzované",
+    "alternative_names": [],
+    "description": "Polievka, kuracie mäso s ryžou, konzervované, kondenzované podľa databázy USDA."
+  },
+  "soup_cream_of_chicken_canned_condensed_r": {
+    "name": "Polievka, kurací krém, konzerva, kondenzovaná, redukovaná",
+    "alternative_names": [],
+    "description": "Polievka, kurací krém, konzerva, kondenzovaná, redukovaná podľa databázy USDA."
+  },
+  "soup_cream_of_mushroom_canned_condensed": {
+    "name": "Polievka, krém z húb, konzervovaný, kondenzovaný",
+    "alternative_names": [],
+    "description": "Polievka, krém z húb, konzervovaný, kondenzovaný podľa databázy USDA."
+  },
+  "soup_onion_canned_condensed": {
+    "name": "Polievka, cibuľa, konzerva, kondenzovaná",
+    "alternative_names": [],
+    "description": "Polievka, cibuľa, konzerva, kondenzovaná podľa databázy USDA."
+  },
+  "soup_pea_green_canned_condensed": {
+    "name": "Polievka, hrachová, zelená, konzervovaná, kondenzovaná",
+    "alternative_names": [],
+    "description": "Polievka, hrachová, zelená, konzervovaná, kondenzovaná podľa databázy USDA."
+  },
+  "soup_pea_split_with_ham_canned_chunky_re": {
+    "name": "Polievka, hrášková, šunková, konzervovaná, hrubá, pripravená na servírovanie",
+    "alternative_names": [],
+    "description": "Polievka, hrášková, šunková, konzervovaná, hrubá, pripravená na servírovanie podľa databázy USDA."
+  },
+  "soup_tomato_canned_condensed_reduced_sod": {
+    "name": "Polievka, paradajková, konzervovaná, kondenzovaná, so zníženým obsahom sodíka",
+    "alternative_names": [],
+    "description": "Polievka, paradajková, konzervovaná, kondenzovaná, so zníženým obsahom sodíka podľa databázy USDA."
+  },
+  "tamarind_nectar_canned": {
+    "name": "Tamarindový nektár, konzervovaný",
+    "alternative_names": [],
+    "description": "Tamarindový nektár, konzervovaný podľa databázy USDA."
+  },
+  "tomato_products_canned_sauce_with_onions": {
+    "name": "Paradajkové výrobky, konzervy, omáčka, s cibuľou, zelenou paprikou a zelerom",
+    "alternative_names": [],
+    "description": "Paradajkové výrobky, konzervy, omáčka, s cibuľou, zelenou paprikou a zelerom podľa databázy USDA."
+  },
+  "cream_whipped_crm_topping_pressurized": {
+    "name": "Smotana, šľahačka, crm toping, tlaková",
+    "alternative_names": [],
+    "description": "Smotana, šľahačka, crm toping, tlaková z databázy USDA."
+  },
+  "dessert_topping_pdr_15_oz_prep_w12_cup_milk": {
+    "name": "Poleva na dezert, pdr, 1,5 oz príprava s 1/2 šálkou mlieka",
+    "alternative_names": [],
+    "description": "Poleva na dezert, pdr, 1,5 oz príprava s 1/2 šálkou mlieka z databázy USDA."
+  },
+  "dessert_topping_semi_solid_frz": {
+    "name": "Poleva na dezerty, polotuhá, frz",
+    "alternative_names": [],
+    "description": "Poleva na dezerty, polotuhá, frz z databázy USDA."
+  },
+  "parmesan_chs_topping_fat_free": {
+    "name": "Parmezánový chs topping, bez tuku",
+    "alternative_names": [],
+    "description": "Parmezánový chs topping, bez tuku z databázy USDA."
+  },
+  "reddi_wip_fat_free_whipped_topping": {
+    "name": "Šľahaná poleva Reddi wip bez tuku",
+    "alternative_names": [],
+    "description": "Šľahaná poleva Reddi wip bez tuku z databázy USDA."
+  },
+  "babyfood_meat_bf_str": {
+    "name": "Detská výživa, mäso, bf, str",
+    "alternative_names": [],
+    "description": "Detská výživa, mäso, bf, str z databázy USDA."
+  },
+  "babyfood_meat_lamb_str": {
+    "name": "Detská výživa, mäso, jahňacie, str",
+    "alternative_names": [],
+    "description": "Detská výživa, mäso, jahňacie, str z databázy USDA."
+  },
+  "babyfood_meat_chick_str": {
+    "name": "Detská výživa, mäso, kuriatka, str",
+    "alternative_names": [],
+    "description": "Detská výživa, mäso, kuriatka, str z databázy USDA."
+  },
+  "babyfood_meat_chick_jr": {
+    "name": "Detská výživa, mäso, kuriatka, ml",
+    "alternative_names": [],
+    "description": "Detská výživa, mäso, kuriatka, ml z databázy USDA."
+  },
+  "babyfood_meat_chick_stks_jr": {
+    "name": "Detská výživa, mäso, kurčatá, ml",
+    "alternative_names": [],
+    "description": "Detská výživa, mäso, kurčatá, ml z databázy USDA."
+  },
+  "gerber_graduates_fruit_strips_real_fruit_bars": {
+    "name": "Gerber absolventov ovocných pásikov skutočné ovocné tyčinky",
+    "alternative_names": [],
+    "description": "Gerber absolventov ovocných pásikov skutočné ovocné tyčinky z databázy USDA."
+  },
+  "babyfood_meat_meat_stks_jr": {
+    "name": "Detská výživa, mäso, mäsové stks, ml",
+    "alternative_names": [],
+    "description": "Detská výživa, mäso, mäsové stks, ml z databázy USDA."
+  },
+  "babyfood_dinner_macaronitomatobf_str": {
+    "name": "Detská výživa, večera, makaróny&paradajky&bf, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, makaróny&paradajky&bf, str z databázy USDA."
+  },
+  "babyfood_dinner_macaronitomatobf_jr": {
+    "name": "Detská výživa, večera, makaróny&paradajky&bf, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, makaróny&paradajky&bf, jr z databázy USDA."
+  },
+  "babyfood_ravioli_chs_filled_wtomato_sau": {
+    "name": "Detská výživa, ravioli, chs plnené, s paradajkovou omáčkou",
+    "alternative_names": [],
+    "description": "Detská výživa, ravioli, chs plnené, s paradajkovou omáčkou z databázy USDA."
+  },
+  "babyfood_dinner_bf_noodle_str": {
+    "name": "Detská výživa, večera, bf rezance, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, bf rezance, str z databázy USDA."
+  },
+  "babyfood_macaronichs_todd": {
+    "name": "Detská výživa, makaróny&chs, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, makaróny&chs, todd z databázy USDA."
+  },
+  "babyfood_dinner_spaghettitomatomeat_jr": {
+    "name": "Detská výživa, večera, špagety&paradajka&mäso, ml",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, špagety&paradajka&mäso, ml z databázy USDA."
+  },
+  "babyfood_dinner_bf_stew_todd": {
+    "name": "Detská výživa, večera, bf guláš, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, bf guláš, todd z databázy USDA."
+  },
+  "babyfood_dinner_vegbf_str": {
+    "name": "Detská výživa, večera, veg&bf, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, veg&bf, str z databázy USDA."
+  },
+  "babyfood_dinner_vegbf_jr": {
+    "name": "Detská výživa, večera, veg&bf, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, veg&bf, jr z databázy USDA."
+  },
+  "babyfood_dinner_bf_wveg": {
+    "name": "Detská výživa, večera, bf so zeleninou",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, bf so zeleninou z databázy USDA."
+  },
+  "babyfood_dinner_vegbacon_str": {
+    "name": "Detská výživa, večera, zelenina a slanina, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, zelenina a slanina, str z databázy USDA."
+  },
+  "babyfood_dinner_vegham_str": {
+    "name": "Detská výživa, večera, zelenina a šunka, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, zelenina a šunka, str z databázy USDA."
+  },
+  "babyfood_dinner_vegham_jr": {
+    "name": "Detská výživa, večera, zelenina a šunka, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, zelenina a šunka, jr z databázy USDA."
+  },
+  "babyfood_dinner_veglamb_str": {
+    "name": "Detská výživa, večera, zelenina a jahňacie mäso, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, zelenina a jahňacie mäso, str z databázy USDA."
+  },
+  "babyfood_dinner_chick_noodle_str": {
+    "name": "Detská výživa, večera, kuracie rezance, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, kuracie rezance, str z databázy USDA."
+  },
+  "babyfood_dinner_chick_noodle_jr": {
+    "name": "Detská výživa, večera, kuracie rezance, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, kuracie rezance, jr z databázy USDA."
+  },
+  "babyfood_dinner_chick_soup_str": {
+    "name": "Detská výživa, večera, kuracia polievka, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, kuracia polievka, str z databázy USDA."
+  },
+  "babyfood_dinner_chick_stew_todd": {
+    "name": "Detská výživa večera kuracie guláš todd",
+    "alternative_names": [],
+    "description": "Detská výživa večera kuracie guláš todd z databázy USDA."
+  },
+  "babyfood_dinner_veg_chick_str": {
+    "name": "Detská výživa, večera, zeleninové kuriatko, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, zeleninové kuriatko, str z databázy USDA."
+  },
+  "babyfood_dinner_pasta_wveg": {
+    "name": "Detská výživa, večera, cestoviny so zeleninou",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, cestoviny so zeleninou z databázy USDA."
+  },
+  "babyfood_dinner_turkeyrice_str": {
+    "name": "Detská výživa, večera, moriak a ryža, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, moriak a ryža, str z databázy USDA."
+  },
+  "babyfood_dinner_turkeyrice_jr": {
+    "name": "Detská výživa, večera, moriak a ryža, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, moriak a ryža, jr z databázy USDA."
+  },
+  "babyfood_dinner_vegturkey_str": {
+    "name": "Detská výživa, večera, zelenina a morka, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, zelenina a morka, str z databázy USDA."
+  },
+  "babyfood_dinner_vegturkey_jr": {
+    "name": "Detská výživa, večera, zelenina a moriak, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, zelenina a moriak, jr z databázy USDA."
+  },
+  "babyfood_dinner_macaronichs_str": {
+    "name": "Detská výživa, večera, makaróny&chs, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, makaróny&chs, str z databázy USDA."
+  },
+  "babyfood_dinner_macaronichs_jr": {
+    "name": "Detská výživa, večera, makaróny&chs, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, makaróny&chs, jr z databázy USDA."
+  },
+  "babyfood_veg_grn_bns_str": {
+    "name": "Detská výživa, zelenina, grn bns, str",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, grn bns, str z databázy USDA."
+  },
+  "babyfood_veg_grn_bns_jr": {
+    "name": "Detská výživa, zelenina, grn bns, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, grn bns, jr z databázy USDA."
+  },
+  "babyfood_grn_bns_dices_todd": {
+    "name": "Detská výživa, grn bns, kocky, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, grn bns, kocky, todd z databázy USDA."
+  },
+  "babyfood_veg_grn_bnspotatoes": {
+    "name": "Detská výživa, zelenina, zelenina a zemiaky",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, zelenina a zemiaky z databázy USDA."
+  },
+  "babyfood_veg_beets_str": {
+    "name": "Detská výživa, zelenina, repa, str",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, repa, str z databázy USDA."
+  },
+  "babyfood_veg_carrots_str": {
+    "name": "Detská výživa, zelenina, mrkva, str",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, mrkva, str z databázy USDA."
+  },
+  "babyfood_veg_carrots_jr": {
+    "name": "Detská výživa, zelenina, mrkva, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, mrkva, jr z databázy USDA."
+  },
+  "babyfood_veg_squash_str": {
+    "name": "Detská výživa, zelenina, tekvica, str",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, tekvica, str z databázy USDA."
+  },
+  "babyfood_veg_squash_jr": {
+    "name": "Detská výživa, zelenina, tekvica, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, tekvica, jr z databázy USDA."
+  },
+  "babyfood_veg_swt_potatoes_str": {
+    "name": "Detská výživa, zelenina, zemiaky, str",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, zemiaky, str z databázy USDA."
+  },
+  "babyfood_veg_swt_potatoes_jr": {
+    "name": "Detská výživa, zelenina, swt zemiaky, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, swt zemiaky, jr z databázy USDA."
+  },
+  "babyfood_potatoes_toddler": {
+    "name": "Detská výživa, zemiaky, batoľatá",
+    "alternative_names": [],
+    "description": "Detská výživa, zemiaky, batoľatá z databázy USDA."
+  },
+  "babyfood_veg_butternut_squashcorn": {
+    "name": "Detská výživa, zelenina, tekvica a kukurica",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, tekvica a kukurica z databázy USDA."
+  },
+  "babyfood_appls_dices_todd": {
+    "name": "Detská výživa, jablká, kocky, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, jablká, kocky, todd z databázy USDA."
+  },
+  "babyfood_fruit_applsauc_str": {
+    "name": "Detská výživa, ovocie, jablkový šalát, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, jablkový šalát, str z databázy USDA."
+  },
+  "babyfood_fruit_applsauc_jr": {
+    "name": "Detská výživa, ovocie, applsauc, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, applsauc, jr z databázy USDA."
+  },
+  "babyfood_fruit_apricot_wtapioca_str": {
+    "name": "Detská výživa, ovocie, marhule s tapiokou, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, marhule s tapiokou, str z databázy USDA."
+  },
+  "babyfood_veg_peas_str": {
+    "name": "Detská výživa, zelenina, hrášok, str",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, hrášok, str z databázy USDA."
+  },
+  "babyfood_peas_dices_todd": {
+    "name": "Detská výživa, hrášok, kocky, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, hrášok, kocky, todd z databázy USDA."
+  },
+  "babyfood_veg_spinach_crmd_str": {
+    "name": "Detská výživa, zelenina, špenát, crmd, str",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, špenát, crmd, str z databázy USDA."
+  },
+  "babyfood_fruit_apricot_wtapioca_jr": {
+    "name": "Detská výživa, ovocie, marhule s tapiokou, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, marhule s tapiokou, jr z databázy USDA."
+  },
+  "babyfood_fruit_peaches_str": {
+    "name": "Detská výživa, ovocie, broskyne, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, broskyne, str z databázy USDA."
+  },
+  "babyfood_fruit_peaches_jr": {
+    "name": "Detská výživa, ovocie, broskyne, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, broskyne, jr z databázy USDA."
+  },
+  "babyfood_fruit_pears_str": {
+    "name": "Detská výživa, ovocie, hrušky, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, hrušky, str z databázy USDA."
+  },
+  "babyfood_fruit_pears_jr": {
+    "name": "Detská výživa, ovocie, hrušky, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, hrušky, jr z databázy USDA."
+  },
+  "babyfood_fruit_plums_wtapioca_wovit_c_str": {
+    "name": "Detská výživa, ovocie, slivky s tapiokou, s vit c, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, slivky s tapiokou, s vit c, str z databázy USDA."
+  },
+  "babyfood_fruit_plums_wtapioca_wovit_c_jr": {
+    "name": "Detská výživa, ovocie, slivky s tapiokou, s vit c, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, slivky s tapiokou, s vit c, jr z databázy USDA."
+  },
+  "babyfood_fruit_prunes_wtapioca_wovit_c_str": {
+    "name": "Detská výživa, ovocie, sušené slivky s tapiokou, wo/vit c, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, sušené slivky s tapiokou, wo/vit c, str z databázy USDA."
+  },
+  "babyfood_fruit_prunes_wtapioca_wovit_c_jr": {
+    "name": "Detská výživa, ovocie, sušené slivky s tapiokou, wo/vit c, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, sušené slivky s tapiokou, wo/vit c, jr z databázy USDA."
+  },
+  "babyfood_prunes_wovit_c_str": {
+    "name": "Detská výživa, sušené slivky, wo/vit c, str",
+    "alternative_names": [],
+    "description": "Detská výživa, sušené slivky, wo/vit c, str z databázy USDA."
+  },
+  "babyfood_fruit_dssrt_mango_w_tapioca": {
+    "name": "Detská výživa, ovocné dssrt, mango s tapiokou",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocné dssrt, mango s tapiokou z databázy USDA."
+  },
+  "babyfood_pears_dices_todd": {
+    "name": "Detská výživa, hrušky, kocky, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, hrušky, kocky, todd z databázy USDA."
+  },
+  "babyfood_fruit_applsaucapricots_str": {
+    "name": "Detská výživa, ovocie, jablká a marhule, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, jablká a marhule, str z databázy USDA."
+  },
+  "babyfood_fruit_applsaucapricots_jr": {
+    "name": "Detská výživa, ovocie, jablká a marhule, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, jablká a marhule, jr z databázy USDA."
+  },
+  "babyfood_fruit_applsauccherries_str": {
+    "name": "Detská výživa, ovocie, jablká a čerešne, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, jablká a čerešne, str z databázy USDA."
+  },
+  "babyfood_fruit_applsauc_cherries_jr": {
+    "name": "Detská výživa, ovocie, jablkový šalát a čerešne, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, jablkový šalát a čerešne, jr z databázy USDA."
+  },
+  "babyfood_fruit_applsauc_wbanana_jr": {
+    "name": "Detská výživa, ovocie, jablkový šalát s banánom, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, jablkový šalát s banánom, jr z databázy USDA."
+  },
+  "babyfood_fruit_appl_raspberry_str": {
+    "name": "Detská výživa, ovocie, jablká a maliny, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, jablká a maliny, str z databázy USDA."
+  },
+  "babyfood_fruit_appl_raspberry_jr": {
+    "name": "Detská výživa, ovocie, jablká a maliny, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, jablká a maliny, jr z databázy USDA."
+  },
+  "babyfood_fruit_veg_appl_swt_potato": {
+    "name": "Detská výživa, ovocie a zelenina, jablká a zemiaky",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie a zelenina, jablká a zemiaky z databázy USDA."
+  },
+  "babyfood_fruit_bananaspnappl_wtapioca_jr": {
+    "name": "Detská výživa, ovocie, banány&pnappl s tapiokou, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, banány&pnappl s tapiokou, jr z databázy USDA."
+  },
+  "babyfood_fruit_bananaspnappl_wtapioca_str": {
+    "name": "Detská výživa, ovocie, banány&pnappl s tapiokou, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, banány&pnappl s tapiokou, str z databázy USDA."
+  },
+  "babyfood_fruit_pearspnappl_str": {
+    "name": "Detská výživa, ovocie, hrušky&pnappl, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, hrušky&pnappl, str z databázy USDA."
+  },
+  "babyfood_fruit_pearspnappl_jr": {
+    "name": "Detská výživa, ovocie, hrušky&pnappl, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, hrušky&pnappl, jr z databázy USDA."
+  },
+  "babyfood_peaches_dices_todd": {
+    "name": "Detská výživa, broskyne, kocky, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, broskyne, kocky, todd z databázy USDA."
+  },
+  "babyfood_fruit_bananas_wapplspears_str": {
+    "name": "Detská výživa, ovocie, banány s jablkami a hruškami, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, banány s jablkami a hruškami, str z databázy USDA."
+  },
+  "babyfood_fruit_applblueberry_str": {
+    "name": "Detská výživa, ovocie, jablká a čučoriedky, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, jablká a čučoriedky, str z databázy USDA."
+  },
+  "babyfood_fruit_applblueberry_jr": {
+    "name": "Detská výživa, ovocie, jablká a čučoriedky, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, jablká a čučoriedky, jr z databázy USDA."
+  },
+  "babyfood_juc_applpeach": {
+    "name": "Detská výživa, juc, appl&broskyne",
+    "alternative_names": [],
+    "description": "Detská výživa, juc, appl&broskyne z databázy USDA."
+  },
+  "babyfood_apple_cranberry_juc": {
+    "name": "Detská výživa, jablkovo-brusnicová šťava",
+    "alternative_names": [],
+    "description": "Detská výživa, jablkovo-brusnicová šťava z databázy USDA."
+  },
+  "babyfood_juc_applplum": {
+    "name": "Detská výživa, juc, appl&slivka",
+    "alternative_names": [],
+    "description": "Detská výživa, juc, appl&slivka z databázy USDA."
+  },
+  "babyfood_juc_applprune": {
+    "name": "Detská výživa, juc, appl&slivky",
+    "alternative_names": [],
+    "description": "Detská výživa, juc, appl&slivky z databázy USDA."
+  },
+  "babyfood_juice_orange": {
+    "name": "Detská výživa, džús, pomaranč",
+    "alternative_names": [],
+    "description": "Detská výživa, džús, pomaranč z databázy USDA."
+  },
+  "babyfood_juc_orangeapplbanana": {
+    "name": "Detská výživa, juc, pomaranč&appl&banana",
+    "alternative_names": [],
+    "description": "Detská výživa, juc, pomaranč&appl&banana z databázy USDA."
+  },
+  "babyfood_juc_mxd_fruit": {
+    "name": "Detská výživa, juc, mxd ovocie",
+    "alternative_names": [],
+    "description": "Detská výživa, juc, mxd ovocie z databázy USDA."
+  },
+  "babyfood_crl_barley_dry": {
+    "name": "Detská výživa, crl, jačmeň, suchá",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, jačmeň, suchá z databázy USDA."
+  },
+  "babyfood_crl_whl_wheat_wappls_dry": {
+    "name": "Detská výživa, crl, whl pšenica, w/appls, suchá",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, whl pšenica, w/appls, suchá z databázy USDA."
+  },
+  "babyfood_cereal_mixed_dry": {
+    "name": "Detská výživa, cereálie, zmiešané, suché",
+    "alternative_names": [],
+    "description": "Detská výživa, cereálie, zmiešané, suché z databázy USDA."
+  },
+  "babyfood_crl_mxd_wbananas_dry": {
+    "name": "Detská výživa, crl, mxd, s banánmi, suché",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, mxd, s banánmi, suché z databázy USDA."
+  },
+  "babyfood_crl_mxd_wapplsaucbananas_str": {
+    "name": "Detská výživa, crl, mxd, w/applsauc&bananas, str",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, mxd, w/applsauc&bananas, str z databázy USDA."
+  },
+  "babyfood_crl_mxd_w_applsauc_bananas_jr": {
+    "name": "Detská výživa, crl, mxd, w/ applsauc & banány, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, mxd, w/ applsauc & banány, jr z databázy USDA."
+  },
+  "babyfood_crl_oatmeal_dry": {
+    "name": "Detská výživa, crl, ovsené vločky, suché",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, ovsené vločky, suché z databázy USDA."
+  },
+  "babyfood_crl_oatmeal_wbananas_dry": {
+    "name": "Detská výživa, crl, ovsené vločky, s banánmi, suché",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, ovsené vločky, s banánmi, suché z databázy USDA."
+  },
+  "babyfood_crl_oatmeal_wapplsaucbananas_str": {
+    "name": "Detská výživa, crl, ovsené vločky, w/applsauc&bananas, str",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, ovsené vločky, w/applsauc&bananas, str z databázy USDA."
+  },
+  "babyfood_crl_oatmeal_wapplsaucbananas_jr": {
+    "name": "Detská výživa, crl, ovsené vločky, w/applsauc&bananas, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, ovsené vločky, w/applsauc&bananas, jr z databázy USDA."
+  },
+  "babyfood_crl_rice_wapplsaucbananas_str": {
+    "name": "Detská výživa, crl, ryža, w/applsauc&bananas, str",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, ryža, w/applsauc&bananas, str z databázy USDA."
+  },
+  "babyfood_oatmeal_crl_wfruit_dry_inst_todd": {
+    "name": "Detská výživa, ovsené vločky crl s ovocím, suché, inst, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, ovsené vločky crl s ovocím, suché, inst, todd z databázy USDA."
+  },
+  "babyfood_crl_rice_wmxd_fruit_jr": {
+    "name": "Detská výživa, crl, ryža, s ovocím, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, ryža, s ovocím, jr z databázy USDA."
+  },
+  "babyfood_crl_rice_wbananas_dry": {
+    "name": "Detská výživa, crl, ryža, s banánmi, suché",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, ryža, s banánmi, suché z databázy USDA."
+  },
+  "babyfood_pretzels": {
+    "name": "Detská výživa, praclíky",
+    "alternative_names": [],
+    "description": "Detská výživa, praclíky z databázy USDA."
+  },
+  "babyfood_teething_biscuits": {
+    "name": "Detská výživa, sušienky na prerezávanie zúbkov",
+    "alternative_names": [],
+    "description": "Detská výživa, sušienky na prerezávanie zúbkov z databázy USDA."
+  },
+  "babyfood_dssrt_dutch_appl_str": {
+    "name": "Detská výživa, dssrt, holandská aplikácia, str",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, holandská aplikácia, str z databázy USDA."
+  },
+  "babyfood_dssrt_dutch_appl_jr": {
+    "name": "Detská výživa, dssrt, holandská appl, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, holandská appl, jr z databázy USDA."
+  },
+  "babyfood_cherry_cobbler_jr": {
+    "name": "Detská výživa, čerešňový švec, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, čerešňový švec, jr z databázy USDA."
+  },
+  "babyfood_dssrt_cherry_vanilla_pudd_str": {
+    "name": "Detská výživa, dssrt, čerešňový vanilkový puding, str",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, čerešňový vanilkový puding, str z databázy USDA."
+  },
+  "babyfood_dssrt_cherry_vanilla_pudd_jr": {
+    "name": "Detská výživa, dssrt, čerešňový vanilkový puding, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, čerešňový vanilkový puding, jr z databázy USDA."
+  },
+  "babyfood_dssrt_peach_cobbler_str": {
+    "name": "Detská výživa, dssrt, broskyňový švec, str",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, broskyňový švec, str z databázy USDA."
+  },
+  "babyfood_dssrt_peach_cobbler_jr": {
+    "name": "Detská výživa, dssrt, broskyňový švec, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, broskyňový švec, jr z databázy USDA."
+  },
+  "babyfood_dssrt_fruit_dssrt_wovit_c_str": {
+    "name": "Detská výživa, dssrt, ovocie dssrt, wo/vit c, str",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, ovocie dssrt, wo/vit c, str z databázy USDA."
+  },
+  "babyfood_dssrt_fruit_dssrt_wovit_c_jr": {
+    "name": "Detská výživa, dssrt, ovocie dssrt, wo/vit c, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, ovocie dssrt, wo/vit c, jr z databázy USDA."
+  },
+  "babyfood_juc_fruit_punch_wca": {
+    "name": "Detská výživa, džús, ovocný punč, bez",
+    "alternative_names": [],
+    "description": "Detská výživa, džús, ovocný punč, bez z databázy USDA."
+  },
+  "babyfood_juc_applcherry": {
+    "name": "Detská výživa, juc, appl&cherry",
+    "alternative_names": [],
+    "description": "Detská výživa, juc, appl&cherry z databázy USDA."
+  },
+  "babyfood_dinner_vegchick_jr": {
+    "name": "Detská výživa, večera, veg&chick, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, veg&chick, jr z databázy USDA."
+  },
+  "babyfood_fruit_bananas_wtapioca_jr": {
+    "name": "Detská výživa, ovocie, banány s tapiokou, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, banány s tapiokou, jr z databázy USDA."
+  },
+  "babyfood_veg_mix_veg_jr": {
+    "name": "Detská výživa, zelenina, mix zeleniny jr",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, mix zeleniny jr z databázy USDA."
+  },
+  "babyfood_veg_garden_veg_str": {
+    "name": "Detská výživa, zelenina, záhradná zelenina, str",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, záhradná zelenina, str z databázy USDA."
+  },
+  "babyfood_veg_mix_veg_str": {
+    "name": "Detská výživa, zelenina, zmes zeleniny str",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina, zmes zeleniny str z databázy USDA."
+  },
+  "babyfood_dinner_bf_noodle_jr": {
+    "name": "Detská výživa, večera, bf rezance, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, bf rezance, jr z databázy USDA."
+  },
+  "babyfood_appls_wham_str": {
+    "name": "Detská výživa, jablká so šunkou, str",
+    "alternative_names": [],
+    "description": "Detská výživa, jablká so šunkou, str z databázy USDA."
+  },
+  "babyfood_carrotsbf_str": {
+    "name": "Detská výživa, mrkva&bf, str",
+    "alternative_names": [],
+    "description": "Detská výživa, mrkva&bf, str z databázy USDA."
+  },
+  "babyfood_plums_bananasrice_str": {
+    "name": "Detská výživa, slivky, banány a ryža, str",
+    "alternative_names": [],
+    "description": "Detská výživa, slivky, banány a ryža, str z databázy USDA."
+  },
+  "babyfood_dinner_turkey_rice_and_veg_todd": {
+    "name": "Detská výživa, večera, morka, ryža a zelenina, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, morka, ryža a zelenina, todd z databázy USDA."
+  },
+  "babyfood_dinner_applschick_str": {
+    "name": "Detská výživa, večera, appls&chick, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, appls&chick, str z databázy USDA."
+  },
+  "babyfood_dinner_broccoli_chick_jr": {
+    "name": "Detská výživa, večera, brokolica a kuriatka, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, brokolica a kuriatka, jr z databázy USDA."
+  },
+  "babyfood_beverage_gerber_graduate_fruit_splas": {
+    "name": "Detská výživa, nápoje, gerberové postrekovače ovocia",
+    "alternative_names": [],
+    "description": "Detská výživa, nápoje, gerberové postrekovače ovocia z databázy USDA."
+  },
+  "babyfood_snack_gerber_graduate_yogurt_melts": {
+    "name": "Detská výživa, desiata, jogurt s gerberami",
+    "alternative_names": [],
+    "description": "Detská výživa, desiata, jogurt s gerberami z databázy USDA."
+  },
+  "babyfood_dinner_swt_potatoeschick_str": {
+    "name": "Detská výživa, večera, zemiaky a kuracie mäso, str",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, zemiaky a kuracie mäso, str z databázy USDA."
+  },
+  "babyfood_dinner_potatoes_wchsham_todd": {
+    "name": "Detská výživa, večera, zemiaky s chs&ham, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, zemiaky s chs&ham, todd z databázy USDA."
+  },
+  "babyfood_crl_barley_prep_wwhl_milk": {
+    "name": "Detská výživa, crl, jačmeň, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, jačmeň, príprava s mliekom z databázy USDA."
+  },
+  "babyfood_crl_mxd_prep_wwhl_milk": {
+    "name": "Detská výživa, crl, mxd, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, mxd, príprava s mliekom z databázy USDA."
+  },
+  "babyfood_crl_mxd_wbananas_prep_wwhl_milk": {
+    "name": "Detská výživa, crl, mxd, s banánmi, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, mxd, s banánmi, príprava s mliekom z databázy USDA."
+  },
+  "babyfood_crl_oatmeal_wbananas_prep_wwhl_milk": {
+    "name": "Detská výživa, crl, ovsené vločky, s banánmi, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, ovsené vločky, s banánmi, príprava s mliekom z databázy USDA."
+  },
+  "babyfood_crl_rice_prep_wwhl_milk": {
+    "name": "Detská výživa, crl, ryža, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, ryža, príprava s mliekom z databázy USDA."
+  },
+  "babyfood_crl_rice_wbananas_prep_wwhl_milk": {
+    "name": "Detská výživa, crl, ryža, s banánmi, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, ryža, s banánmi, príprava s mliekom z databázy USDA."
+  },
+  "inf_formula_nestle_good_start_supreme_w_iron": {
+    "name": "Inf vzorec, nestle, good start supreme, w/ iron, rtf",
+    "alternative_names": [],
+    "description": "Inf vzorec, nestle, good start supreme, w/ iron, rtf z databázy USDA."
+  },
+  "inf_formula_nes_g_start_supr_w_iron_liq_conc": {
+    "name": "Inf vzorec, nes, g štart supr, so železom, liq conc, not recon",
+    "alternative_names": [],
+    "description": "Inf vzorec, nes, g štart supr, so železom, liq conc, not recon z databázy USDA."
+  },
+  "infant_formula_mead_johnson_enfamil_wiron_rtf": {
+    "name": "Dojčenská výživa, medovina johnson, enfamil, so železom, rtf",
+    "alternative_names": [],
+    "description": "Dojčenská výživa, medovina johnson, enfamil, so železom, rtf z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamil_w_iron_pdr": {
+    "name": "Inf vzorec, medovina johnson, enfamil, so železom, pdr",
+    "alternative_names": [],
+    "description": "Inf vzorec, medovina johnson, enfamil, so železom, pdr z databázy USDA."
+  },
+  "infant_formula_mead_johnson_enfamil_lo_iron_r": {
+    "name": "Dojčenská výživa, medovina johnson, enfamil, lo železo, rtf",
+    "alternative_names": [],
+    "description": "Dojčenská výživa, medovina johnson, enfamil, lo železo, rtf z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamillipil_wirn_pd": {
+    "name": "Inf vzorec, medovina johnson, enfamillipil, w/irn, pdr, w/ ara & dha",
+    "alternative_names": [],
+    "description": "Inf vzorec, medovina johnson, enfamillipil, w/irn, pdr, w/ ara & dha z databázy USDA."
+  },
+  "infant_formula_mead_johnson_enfamil_lo_iron_p": {
+    "name": "Dojčenská výživa, medovina johnson, enfamil, lo železo, pdr, nie rekon",
+    "alternative_names": [],
+    "description": "Dojčenská výživa, medovina johnson, enfamil, lo železo, pdr, nie rekon z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamil_nutramigen_w": {
+    "name": "Inf vzorec, medovina johnson, enfamil, nutramigen, so železom, rtf",
+    "alternative_names": [],
+    "description": "Inf vzorec, medovina johnson, enfamil, nutramigen, so železom, rtf z databázy USDA."
+  },
+  "inf_form_mead_johnson_enfamil_nutramigen_wiro": {
+    "name": "Inf forma, medovina johnson, enfamil, nutramigen, w/iron, pdr, notrecn",
+    "alternative_names": [],
+    "description": "Inf forma, medovina johnson, enfamil, nutramigen, w/iron, pdr, notrecn z databázy USDA."
+  },
+  "inf_formmead_john_enfamil_lipil_w_iron_rtf_w": {
+    "name": "Inf formmead john, enfamil lipil, so železom, rtf, s ara & dha",
+    "alternative_names": [],
+    "description": "Inf formmead john, enfamil lipil, so železom, rtf, s ara & dha z databázy USDA."
+  },
+  "inf_form_me_johns_enfamil_lipil_lo_iron_pdr_w": {
+    "name": "Inf forma, me johns, enfamil, lipil, lo iron, pdr, w/ ara & dha",
+    "alternative_names": [],
+    "description": "Inf forma, me johns, enfamil, lipil, lo iron, pdr, w/ ara & dha z databázy USDA."
+  },
+  "child_formula_mead_johnson_portagen_w_iron_pd": {
+    "name": "Detská výživa, medovina johnson, portagen, so železom, pdr, bez recon",
+    "alternative_names": [],
+    "description": "Detská výživa, medovina johnson, portagen, so železom, pdr, bez recon z databázy USDA."
+  },
+  "child_formula_mead_johnson_portagen_w_iron_pr": {
+    "name": "Detská výživa, medovina johnson, portagen, so železom, prípravok z pdr",
+    "alternative_names": [],
+    "description": "Detská výživa, medovina johnson, portagen, so železom, prípravok z pdr z databázy USDA."
+  },
+  "infant_formula_mead_johnson_pregestimil_wiron": {
+    "name": "Dojčenská výživa, medovina johnson, pregestimil, so železom, pdr, nie rekonštrukcia",
+    "alternative_names": [],
+    "description": "Dojčenská výživa, medovina johnson, pregestimil, so železom, pdr, nie rekonštrukcia z databázy USDA."
+  },
+  "inf_formula_mead_johnson_prosobee_w_iron_rtf": {
+    "name": "Inf vzorec, medovina johnson, prosobee, so železom, rtf",
+    "alternative_names": [],
+    "description": "Inf vzorec, medovina johnson, prosobee, so železom, rtf z databázy USDA."
+  },
+  "infant_formula_mead_johnson_prosobee_wiron_li": {
+    "name": "Dojčenská výživa, medovina johnson, prosobee, so železom, liq cnc, nie rec",
+    "alternative_names": [],
+    "description": "Dojčenská výživa, medovina johnson, prosobee, so železom, liq cnc, nie rec z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamil_prosobee_iro": {
+    "name": "Inf vzorec, medovina johnson, enfamil, prosobee, železo, pdr, nie recon",
+    "alternative_names": [],
+    "description": "Inf vzorec, medovina johnson, enfamil, prosobee, železo, pdr, nie recon z databázy USDA."
+  },
+  "inf_for_me_johns_enfamil_lactof_lipil_w_ir_pd": {
+    "name": "Inf for, me johns, enfamil, lactof lipil, w/ ir, pdr, w/ ara & dha",
+    "alternative_names": [],
+    "description": "Inf for, me johns, enfamil, lactof lipil, w/ ir, pdr, w/ ara & dha z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamil_lipil_rtf_w": {
+    "name": "Inf vzorec, medovina johnson, enfamil, lipil, rtf, w/ ara & dha",
+    "alternative_names": [],
+    "description": "Inf vzorec, medovina johnson, enfamil, lipil, rtf, w/ ara & dha z databázy USDA."
+  },
+  "inf_formula_abbott_nutr_similac_pm_6040_pdr_n": {
+    "name": "Inf formula, abbott nutr, similac, pm 60/40, pdr not recon",
+    "alternative_names": [],
+    "description": "Inf formula, abbott nutr, similac, pm 60/40, pdr not recon z databázy USDA."
+  },
+  "inf_formula_abbott_nutr_similac_isomil_w_iron": {
+    "name": "Inf formula, abbott nutr, similac, isomil, so železom, rtf",
+    "alternative_names": [],
+    "description": "Inf formula, abbott nutr, similac, isomil, so železom, rtf z databázy USDA."
+  },
+  "inf_formula_abbott_nutr_similac_alimentum_w_i": {
+    "name": "Inf formula, abbott nutr, similac, alimentum, so zelezom, rtf",
+    "alternative_names": [],
+    "description": "Inf formula, abbott nutr, similac, alimentum, so zelezom, rtf z databázy USDA."
+  },
+  "inf_formula_abbott_nutr_similac_w_iron_rtf": {
+    "name": "Inf vzorec, abbott nutr, similac, so železom, rtf",
+    "alternative_names": [],
+    "description": "Inf vzorec, abbott nutr, similac, so železom, rtf z databázy USDA."
+  },
+  "inf_form_ab_nutr_similac_w_iron_liq_conc_not": {
+    "name": "Inf forma, ab nutr, similac, so železom, liq conc, nerecon",
+    "alternative_names": [],
+    "description": "Inf forma, ab nutr, similac, so železom, liq conc, nerecon z databázy USDA."
+  },
+  "inf_formula_abbott_nutr_similac_w_iron_pdr_no": {
+    "name": "Inf vzorec, abbott nutr, similac, so železom, pdr, nie rekon",
+    "alternative_names": [],
+    "description": "Inf vzorec, abbott nutr, similac, so železom, pdr, nie rekon z databázy USDA."
+  },
+  "inffor_meadjohns_enfamil_prosobee_lipil_lc_no": {
+    "name": "Inffor, meadjohns, enfamil, prosobee, lipil, lc, notrec, ara&dha",
+    "alternative_names": [],
+    "description": "Inffor, meadjohns, enfamil, prosobee, lipil, lc, notrec, ara&dha z databázy USDA."
+  },
+  "inf_formula_abbott_nutr_similac_lo_iron_rtf": {
+    "name": "Inf formula, abbott nutr, similac, lo iron, rtf (predtým ross)",
+    "alternative_names": [],
+    "description": "Inf formula, abbott nutr, similac, lo iron, rtf (predtým ross) z databázy USDA."
+  },
+  "inf_formula_abbott_nutr_similac_lo_iron_liq_c": {
+    "name": "Inf formula, abbott nutr, similac, lo iron, liq conc, not recon",
+    "alternative_names": [],
+    "description": "Inf formula, abbott nutr, similac, lo iron, liq conc, not recon z databázy USDA."
+  },
+  "inf_formula_abbott_nutr_similac_lo_iron_pdr_n": {
+    "name": "Inf formula, abbott nutr, similac, lo iron, pdr, not recon",
+    "alternative_names": [],
+    "description": "Inf formula, abbott nutr, similac, lo iron, pdr, not recon z databázy USDA."
+  },
+  "inf_formula_nestle_good_start_soy_w_dha_ara_r": {
+    "name": "Inf vzorec, nestle, good start soy, w/ dha & ara, rtf",
+    "alternative_names": [],
+    "description": "Inf vzorec, nestle, good start soy, w/ dha & ara, rtf z databázy USDA."
+  },
+  "child_formula_abbott_nutr_pediasure_rtf": {
+    "name": "Detská výživa, abbott nutr, pediasure, rtf (predtým ross)",
+    "alternative_names": [],
+    "description": "Detská výživa, abbott nutr, pediasure, rtf (predtým ross) z databázy USDA."
+  },
+  "inf_formula_nestle_good_start_soy_w_ara_dha_p": {
+    "name": "Inf vzorec, nestle, good start soy, w/ ara & dha, pdr",
+    "alternative_names": [],
+    "description": "Inf vzorec, nestle, good start soy, w/ ara & dha, pdr z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamil_lactofree_rt": {
+    "name": "Inf formula, medovina johnson, enfamil, lactofree, rtf",
+    "alternative_names": [],
+    "description": "Inf formula, medovina johnson, enfamil, lactofree, rtf z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamil_lactofree_w": {
+    "name": "Inf formula, mead johnson, enfamil, lactofree, w/ irn, pdr, notrec",
+    "alternative_names": [],
+    "description": "Inf formula, mead johnson, enfamil, lactofree, w/ irn, pdr, notrec z databázy USDA."
+  },
+  "inf_formula_pbm_products_ultra_bright_beginni": {
+    "name": "Vzorec Inf, produkty pbm, ultra svetlé začiatky, pdr",
+    "alternative_names": [],
+    "description": "Vzorec Inf, produkty pbm, ultra svetlé začiatky, pdr z databázy USDA."
+  },
+  "inf_formula_nestle_good_start_2_essentials_w": {
+    "name": "Inf vzorec, nestle, good start 2 essentials, w/ iron, rtf",
+    "alternative_names": [],
+    "description": "Inf vzorec, nestle, good start 2 essentials, w/ iron, rtf z databázy USDA."
+  },
+  "inf_formula_nestle_good_start_essentials_soy": {
+    "name": "Inf vzorec, nestle, dobrý začiatok základy sója, so železom, rtf",
+    "alternative_names": [],
+    "description": "Inf vzorec, nestle, dobrý začiatok základy sója, so železom, rtf z databázy USDA."
+  },
+  "inf_formula_mead_johnson_next_step_prosobee_p": {
+    "name": "Inf vzorec, mead johnson, ďalší krok prosobee, pdr, nie rekon",
+    "alternative_names": [],
+    "description": "Inf vzorec, mead johnson, ďalší krok prosobee, pdr, nie rekon z databázy USDA."
+  },
+  "babyfood_corn_swt_potatoes_str": {
+    "name": "Detská výživa, kukurica a čierne zemiaky, str",
+    "alternative_names": [],
+    "description": "Detská výživa, kukurica a čierne zemiaky, str z databázy USDA."
+  },
+  "inf_formula_pbm_products_store_brand_pdr": {
+    "name": "Vzorec Inf, produkty pbm, značka obchodu, pdr",
+    "alternative_names": [],
+    "description": "Vzorec Inf, produkty pbm, značka obchodu, pdr z databázy USDA."
+  },
+  "inf_formula_pbm_products_store_brand_soy_rtf": {
+    "name": "Vzorec Inf, produkty pbm, značka obchodu, sója, rtf",
+    "alternative_names": [],
+    "description": "Vzorec Inf, produkty pbm, značka obchodu, sója, rtf z databázy USDA."
+  },
+  "inf_formula_pbm_products_store_brand_soy_pdr": {
+    "name": "Inf vzorec, produkty pbm, obchodná značka, sója, pdr",
+    "alternative_names": [],
+    "description": "Inf vzorec, produkty pbm, obchodná značka, sója, pdr z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamil_ar_lipil_rtf": {
+    "name": "Inf vzorec, medovina johnson, enfamil, ar lipil, rtf, w/ ara & dha",
+    "alternative_names": [],
+    "description": "Inf vzorec, medovina johnson, enfamil, ar lipil, rtf, w/ ara & dha z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamil_ar_lipil_pdr": {
+    "name": "Inf vzorec, medovina johnson, enfamil, ar lipil, pdr, w/ ara & dha",
+    "alternative_names": [],
+    "description": "Inf vzorec, medovina johnson, enfamil, ar lipil, pdr, w/ ara & dha z databázy USDA."
+  },
+  "inf_form_abbott_similac_neosure_pdr_w_ara_dha": {
+    "name": "Inf forma, abbott, similac, neosure, pdr, w/ ara & dha",
+    "alternative_names": [],
+    "description": "Inf forma, abbott, similac, neosure, pdr, w/ ara & dha z databázy USDA."
+  },
+  "inf_formula_abbott_nutr_similac_advance_w_iro": {
+    "name": "Inf formula, abbott nutr, similac, advance, w/ iron, rtf",
+    "alternative_names": [],
+    "description": "Inf formula, abbott nutr, similac, advance, w/ iron, rtf z databázy USDA."
+  },
+  "inf_formula_abbott_nutr_similac_advanc_w_iron": {
+    "name": "Inf formula, abbott nutr, similac, advanc, w/ iron, pdr, not recon",
+    "alternative_names": [],
+    "description": "Inf formula, abbott nutr, similac, advanc, w/ iron, pdr, not recon z databázy USDA."
+  },
+  "inf_formu_abbo_nutr_similac_advan_w_iron_liq": {
+    "name": "Inf formula, abbo nutr, similac, advan, w/ iron, liq conc, not recon",
+    "alternative_names": [],
+    "description": "Inf formula, abbo nutr, similac, advan, w/ iron, liq conc, not recon z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamil_enfacare_lip": {
+    "name": "Inf formula, mead johnson, enfamil, enfacare lipil, rtf, ara&dha",
+    "alternative_names": [],
+    "description": "Inf formula, mead johnson, enfamil, enfacare lipil, rtf, ara&dha z databázy USDA."
+  },
+  "babyfood_yogurt_whl_milk_w_fruit_multigrain_c": {
+    "name": "Detská výživa, jogurt, sušené mlieko, s ovocím, viaczrnné crl a pridaná dha",
+    "alternative_names": [],
+    "description": "Detská výživa, jogurt, sušené mlieko, s ovocím, viaczrnné crl a pridaná dha z databázy USDA."
+  },
+  "babyfood_mshd_cheddar_potatoesbroccoli_toddle": {
+    "name": "Detská výživa, mshd čedar zemiaky a brokolica, batoľa",
+    "alternative_names": [],
+    "description": "Detská výživa, mshd čedar zemiaky a brokolica, batoľa z databázy USDA."
+  },
+  "infform_meadjohnson_enfamil_gentlease_lipil_w": {
+    "name": "Infform, meadjohnson, enfamil gentlease lipil, w/iron, prepfrpdr",
+    "alternative_names": [],
+    "description": "Infform, meadjohnson, enfamil gentlease lipil, w/iron, prepfrpdr z databázy USDA."
+  },
+  "inf_formula_nestle_good_start_soy_w_dha_ara_l": {
+    "name": "Inf vzorec, nestle, good start soy, w/ dha & ara, liq conc",
+    "alternative_names": [],
+    "description": "Inf vzorec, nestle, good start soy, w/ dha & ara, liq conc z databázy USDA."
+  },
+  "toddler_formula_mead_johnson_enfagrow_premium": {
+    "name": "Zloženie pre batoľatá, medovina johnson, enfagrow premium, rtf",
+    "alternative_names": [],
+    "description": "Zloženie pre batoľatá, medovina johnson, enfagrow premium, rtf z databázy USDA."
+  },
+  "inf_formula_mead_johnson_enfamil_gentlease_pd": {
+    "name": "Inf formula, medovina johnson, enfamil, gentlease, pdr",
+    "alternative_names": [],
+    "description": "Inf formula, medovina johnson, enfamil, gentlease, pdr z databázy USDA."
+  },
+  "sandwich_sprd_wchopd_pickle_reg_unspec_oils": {
+    "name": "Sendvičový špargľa, s nasekaným nálevom, reg, nešpecifikované oleje",
+    "alternative_names": [],
+    "description": "Sendvičový špargľa, s nasekaným nálevom, reg, nešpecifikované oleje z databázy USDA."
+  },
+  "margarine_indus_soy_part_hydr_soy_oil_baking": {
+    "name": "Margarín, indus, sójový a čiastočne hydratovaný sójový olej, pečenie, omáčky, cukríky",
+    "alternative_names": [],
+    "description": "Margarín, indus, sójový a čiastočne hydratovaný sójový olej, pečenie, omáčky, cukríky z databázy USDA."
+  },
+  "soup_crm_of_asparagus_cnd_cond": {
+    "name": "Polievka, crm zo špargle, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, crm zo špargle, cnd, cond z databázy USDA."
+  },
+  "soup_black_bean_cnd_cond": {
+    "name": "Polievka, čierna fazuľa, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, čierna fazuľa, cnd, cond z databázy USDA."
+  },
+  "soup_bean_w_pork_cnd_cond": {
+    "name": "Polievka, fazuľová s bravčovým mäsom, cnd, kond",
+    "alternative_names": [],
+    "description": "Polievka, fazuľová s bravčovým mäsom, cnd, kond z databázy USDA."
+  },
+  "soup_bf_noodle_cnd_cond": {
+    "name": "Polievka, bf rezance, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, bf rezance, cnd, cond z databázy USDA."
+  },
+  "soup_crm_of_celery_cnd_cond": {
+    "name": "Polievka, crm zeler, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, crm zeler, cnd, cond z databázy USDA."
+  },
+  "soup_chs_cnd_cond": {
+    "name": "Polievka, chs, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, chs, cnd, cond z databázy USDA."
+  },
+  "soup_chick_w_dumplings_cnd_cond": {
+    "name": "Polievka, kuracina s knedľou, cnd, kond",
+    "alternative_names": [],
+    "description": "Polievka, kuracina s knedľou, cnd, kond z databázy USDA."
+  },
+  "soup_chick_cnd_chunky_rts": {
+    "name": "Polievka, kura, cnd, chunky, rts",
+    "alternative_names": [],
+    "description": "Polievka, kura, cnd, chunky, rts z databázy USDA."
+  },
+  "soup_crm_of_chick_cnd_cond": {
+    "name": "Polievka, crm z kurčiat, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, crm z kurčiat, cnd, cond z databázy USDA."
+  },
+  "soup_chick_gumbo_cnd_cond": {
+    "name": "Polievka, kuracie gumbo, cnd, kond",
+    "alternative_names": [],
+    "description": "Polievka, kuracie gumbo, cnd, kond z databázy USDA."
+  },
+  "soup_chunky_chick_noodle_cnd_rts": {
+    "name": "Polievka, hrubé kuracie rezance, cnd, rts",
+    "alternative_names": [],
+    "description": "Polievka, hrubé kuracie rezance, cnd, rts z databázy USDA."
+  },
+  "soup_chick_rice_cnd_chunky_rts": {
+    "name": "Polievka, kuracia ryža, cnd, chunky, rts",
+    "alternative_names": [],
+    "description": "Polievka, kuracia ryža, cnd, chunky, rts z databázy USDA."
+  },
+  "soup_chick_w_rice_cnd_cond": {
+    "name": "Polievka, kuracie mäso s ryžou, cnd, ochucená",
+    "alternative_names": [],
+    "description": "Polievka, kuracie mäso s ryžou, cnd, ochucená z databázy USDA."
+  },
+  "soup_chick_veg_cnd_cond": {
+    "name": "Polievka, kuracia zelenina, cnd, kond",
+    "alternative_names": [],
+    "description": "Polievka, kuracia zelenina, cnd, kond z databázy USDA."
+  },
+  "soup_chili_bf_cnd_cond": {
+    "name": "Polievka, chilli bf, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, chilli bf, cnd, cond z databázy USDA."
+  },
+  "soup_clam_chowder_manhattan_style_cnd_chunky": {
+    "name": "Polievka, mušľová polievka, manhattan štýl, cnd, chunky, rts",
+    "alternative_names": [],
+    "description": "Polievka, mušľová polievka, manhattan štýl, cnd, chunky, rts z databázy USDA."
+  },
+  "soup_clam_chowder_manhattan_cnd_cond": {
+    "name": "Polievka, mušľová polievka, manhattan, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, mušľová polievka, manhattan, cnd, cond z databázy USDA."
+  },
+  "soup_clam_chowder_new_england_cnd_cond": {
+    "name": "Polievka, mušľová polievka, Nové Anglicko, CND, Cond",
+    "alternative_names": [],
+    "description": "Polievka, mušľová polievka, Nové Anglicko, CND, Cond z databázy USDA."
+  },
+  "soup_gazpacho_cnd_rts": {
+    "name": "Polievka, gazpacho, cnd, rts",
+    "alternative_names": [],
+    "description": "Polievka, gazpacho, cnd, rts z databázy USDA."
+  },
+  "soup_minestrone_cnd_chunky_rts": {
+    "name": "Polievka, minestrone, cnd, chunky, rts",
+    "alternative_names": [],
+    "description": "Polievka, minestrone, cnd, chunky, rts z databázy USDA."
+  },
+  "soup_minestrone_cnd_cond": {
+    "name": "Polievka, minestrone, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, minestrone, cnd, cond z databázy USDA."
+  },
+  "soup_crm_of_mushroom_cnd_cond": {
+    "name": "Polievka, crm z húb, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, crm z húb, cnd, cond z databázy USDA."
+  },
+  "soup_mushroom_w_bf_stock_cnd_cond": {
+    "name": "Polievka, hubová s vývarom, cnd, ochucovadlo",
+    "alternative_names": [],
+    "description": "Polievka, hubová s vývarom, cnd, ochucovadlo z databázy USDA."
+  },
+  "soup_onion_cnd_cond": {
+    "name": "Polievka, cibuľa, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, cibuľa, cnd, cond z databázy USDA."
+  },
+  "soup_crm_of_onion_cnd_cond": {
+    "name": "Polievka, cibuľa, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, cibuľa, cnd, cond z databázy USDA."
+  },
+  "soup_pea_grn_cnd_cond": {
+    "name": "Polievka, hrachová, grn, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, hrachová, grn, cnd, cond z databázy USDA."
+  },
+  "soup_pea_split_wham_cnd_chunky_rts": {
+    "name": "Polievka, hrachová, štiepaná so šunkou, cnd, hrubá, rts",
+    "alternative_names": [],
+    "description": "Polievka, hrachová, štiepaná so šunkou, cnd, hrubá, rts z databázy USDA."
+  },
+  "soup_crm_of_potato_cnd_cond": {
+    "name": "Polievka, crm zo zemiakov, cnd, kond",
+    "alternative_names": [],
+    "description": "Polievka, crm zo zemiakov, cnd, kond z databázy USDA."
+  },
+  "soup_tomato_rice_cnd_cond": {
+    "name": "Polievka, paradajková ryža, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, paradajková ryža, cnd, cond z databázy USDA."
+  },
+  "soup_turkey_noodle_cnd_cond": {
+    "name": "Polievka, morčacie rezance, cnd, kond",
+    "alternative_names": [],
+    "description": "Polievka, morčacie rezance, cnd, kond z databázy USDA."
+  },
+  "soup_turkey_veg_cnd_cond": {
+    "name": "Polievka, morčacia zelenina, cnd, kond",
+    "alternative_names": [],
+    "description": "Polievka, morčacia zelenina, cnd, kond z databázy USDA."
+  },
+  "soup_chunky_veg_cnd_rts": {
+    "name": "Polievka, hrubá zelenina, cnd, rts",
+    "alternative_names": [],
+    "description": "Polievka, hrubá zelenina, cnd, rts z databázy USDA."
+  },
+  "soup_vegetarian_veg_cnd_cond": {
+    "name": "Polievka, vegetariánska zelenina, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, vegetariánska zelenina, cnd, cond z databázy USDA."
+  },
+  "soup_chunky_bf_cnd_rts": {
+    "name": "Polievka, robustná bf, cnd, rts",
+    "alternative_names": [],
+    "description": "Polievka, robustná bf, cnd, rts z databázy USDA."
+  },
+  "soup_veg_bf_cnd_cond": {
+    "name": "Polievka, zelenina bf, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, zelenina bf, cnd, cond z databázy USDA."
+  },
+  "soup_veg_w_bf_broth_cnd_cond": {
+    "name": "Polievka, zelenina s vývarom, cnd, ochucovadlo",
+    "alternative_names": [],
+    "description": "Polievka, zelenina s vývarom, cnd, ochucovadlo z databázy USDA."
+  },
+  "soup_bf_broth_or_bouillon_pdr_dry": {
+    "name": "Polievka, bf bujon alebo bujón, pdr, suché",
+    "alternative_names": [],
+    "description": "Polievka, bf bujon alebo bujón, pdr, suché z databázy USDA."
+  },
+  "soup_bf_noodle_dry_mix": {
+    "name": "Polievka, bf rezance, suché, mix",
+    "alternative_names": [],
+    "description": "Polievka, bf rezance, suché, mix z databázy USDA."
+  },
+  "soup_onion_dry_mix": {
+    "name": "Polievka, cibuľa, suchá, mix",
+    "alternative_names": [],
+    "description": "Polievka, cibuľa, suchá, mix z databázy USDA."
+  },
+  "soup_tomato_veg_dry_mix": {
+    "name": "Polievka, paradajková zelenina, suchá, mix",
+    "alternative_names": [],
+    "description": "Polievka, paradajková zelenina, suchá, mix z databázy USDA."
+  },
+  "soup_crm_of_veg_dry_pdr": {
+    "name": "Polievka, crm zo zeleniny, suchá, pdr",
+    "alternative_names": [],
+    "description": "Polievka, crm zo zeleniny, suchá, pdr z databázy USDA."
+  },
+  "sauce_chs_dry_pdr": {
+    "name": "Omáčka, chs, suchá, pdr",
+    "alternative_names": [],
+    "description": "Omáčka, chs, suchá, pdr z databázy USDA."
+  },
+  "gravy_bf_cnd_rts": {
+    "name": "Omáčka, bf, cnd, rts",
+    "alternative_names": [],
+    "description": "Omáčka, bf, cnd, rts z databázy USDA."
+  },
+  "gravy_chick_cnd_rts": {
+    "name": "Omáčka, kuriatko, cnd, rts",
+    "alternative_names": [],
+    "description": "Omáčka, kuriatko, cnd, rts z databázy USDA."
+  },
+  "gravy_mushroom_dry_pdr": {
+    "name": "Omáčka, huba, suchá, pdr",
+    "alternative_names": [],
+    "description": "Omáčka, huba, suchá, pdr z databázy USDA."
+  },
+  "gravy_pork_dry_pdr": {
+    "name": "Omáčka, bravčové, suché, pdr",
+    "alternative_names": [],
+    "description": "Omáčka, bravčové, suché, pdr z databázy USDA."
+  },
+  "soup_chick_noodle_dry_mix": {
+    "name": "Polievka, kuracie rezance, suché, mix",
+    "alternative_names": [],
+    "description": "Polievka, kuracie rezance, suché, mix z databázy USDA."
+  },
+  "soup_chick_mushroom_cnd_cond": {
+    "name": "Polievka, kuracia huba, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, kuracia huba, cnd, cond z databázy USDA."
+  },
+  "sauce_barbecue": {
+    "name": "Omáčka, gril",
+    "alternative_names": [],
+    "description": "Omáčka, gril z databázy USDA."
+  },
+  "soup_tomato_cnd_cond": {
+    "name": "Polievka, paradajka, cnd, cond",
+    "alternative_names": [],
+    "description": "Polievka, paradajka, cnd, cond z databázy USDA."
+  },
+  "sauce_salsa_rts": {
+    "name": "Omáčka, salsa, rts",
+    "alternative_names": [],
+    "description": "Omáčka, salsa, rts z databázy USDA."
+  },
+  "sauce_homemade_white_thin": {
+    "name": "Omáčka, domáca, biela, tenká",
+    "alternative_names": [],
+    "description": "Omáčka, domáca, biela, tenká z databázy USDA."
+  },
+  "sauce_homemade_white_med": {
+    "name": "Omáčka, domáca, biela, med",
+    "alternative_names": [],
+    "description": "Omáčka, domáca, biela, med z databázy USDA."
+  },
+  "sauce_homemade_white_thick": {
+    "name": "Omáčka, domáca, biela, hustá",
+    "alternative_names": [],
+    "description": "Omáčka, domáca, biela, hustá z databázy USDA."
+  },
+  "sauce_rts_pepper_or_hot": {
+    "name": "Omáčka, rts, paprika alebo pálivá",
+    "alternative_names": [],
+    "description": "Omáčka, rts, paprika alebo pálivá z databázy USDA."
+  },
+  "sauce_rts_pepper_tabasco": {
+    "name": "Omáčka, rts, korenie, tabasco",
+    "alternative_names": [],
+    "description": "Omáčka, rts, korenie, tabasco z databázy USDA."
+  },
+  "soup_stock_beef_home_prepared": {
+    "name": "Polievka, vývar, hovädzie mäso, doma pripravené",
+    "alternative_names": [],
+    "description": "Polievka, vývar, hovädzie mäso, doma pripravené z databázy USDA."
+  },
+  "soup_stock_chick_home_prepared": {
+    "name": "Polievka, vývar, kuracie mäso, doma pripravené",
+    "alternative_names": [],
+    "description": "Polievka, vývar, kuracie mäso, doma pripravené z databázy USDA."
+  },
+  "sauce_hoisin_rts": {
+    "name": "Omáčka, hoisin, rts",
+    "alternative_names": [],
+    "description": "Omáčka, hoisin, rts z databázy USDA."
+  },
+  "soup_minestrone_cnd_red_na_rts": {
+    "name": "Polievka, minestrone, cnd, červená na, rts",
+    "alternative_names": [],
+    "description": "Polievka, minestrone, cnd, červená na, rts z databázy USDA."
+  },
+  "soup_crm_of_mushroom_cnd_cond_red_na": {
+    "name": "Polievka, crm z húb, cnd, cond, červená na",
+    "alternative_names": [],
+    "description": "Polievka, crm z húb, cnd, cond, červená na z databázy USDA."
+  },
+  "soup_beanham_cnd_red_na_prep_wh2o_or_rts": {
+    "name": "Polievka, fazuľa a šunka, cnd, červená na, príprava s vodou alebo rts",
+    "alternative_names": [],
+    "description": "Polievka, fazuľa a šunka, cnd, červená na, príprava s vodou alebo rts z databázy USDA."
+  },
+  "split_pea_soup_cnd_red_na_prep_w_h2o_or_ready": {
+    "name": "Hrachová polievka, cnd, červená na, príprava s vodou alebo pripravená na servírovanie",
+    "alternative_names": [],
+    "description": "Hrachová polievka, cnd, červená na, príprava s vodou alebo pripravená na servírovanie z databázy USDA."
+  },
+  "split_pea_w_ham_soup_cnd_red_na_prep_w_h2o_or": {
+    "name": "Hrášok so šunkovou polievkou, cnd, červený na, príprava s vodou alebo rts",
+    "alternative_names": [],
+    "description": "Hrášok so šunkovou polievkou, cnd, červený na, príprava s vodou alebo rts z databázy USDA."
+  },
+  "soup_chick_veg_wpotatochs_chunky_rts": {
+    "name": "Polievka, kuracia zelenina so zemiakmi, hrubá, rts",
+    "alternative_names": [],
+    "description": "Polievka, kuracia zelenina so zemiakmi, hrubá, rts z databázy USDA."
+  },
+  "soup_veg_cnd_lo_na_cond": {
+    "name": "Polievka, zelenina, cnd, lo na, cond",
+    "alternative_names": [],
+    "description": "Polievka, zelenina, cnd, lo na, cond z databázy USDA."
+  },
+  "soup_clam_chowder_new_eng_cnd_prep_w_eq_vlm_l": {
+    "name": "Polievka, mušľová polievka, nová eng, cnd, príprava s ekv. vlm lofat (2%) mlieko",
+    "alternative_names": [],
+    "description": "Polievka, mušľová polievka, nová eng, cnd, príprava s ekv. vlm lofat (2%) mlieko z databázy USDA."
+  },
+  "soup_crm_of_mushroom_cnd_prep_w_eq_volume_lof": {
+    "name": "Polievka, šampiňóny, cnd, príprava s ekv. objemové lofat (2%) mlieko",
+    "alternative_names": [],
+    "description": "Polievka, šampiňóny, cnd, príprava s ekv. objemové lofat (2%) mlieko z databázy USDA."
+  },
+  "soup_crm_of_shrimp_cnd_prep_w_eq_volume_lofat": {
+    "name": "Polievka, crm z kreviet, cnd, príprava s ekv. objem lofat (2%) mlieka",
+    "alternative_names": [],
+    "description": "Polievka, crm z kreviet, cnd, príprava s ekv. objem lofat (2%) mlieka z databázy USDA."
+  },
+  "sauce_white_thin_prepared_from_recipe_w_butte": {
+    "name": "Omáčka, biela, riedka, pripravená podľa receptu, s maslom",
+    "alternative_names": [],
+    "description": "Omáčka, biela, riedka, pripravená podľa receptu, s maslom z databázy USDA."
+  },
+  "sauce_swt_sour_prepared_from_recipe": {
+    "name": "Omáčka swt & kyslá, pripravená podľa receptúry",
+    "alternative_names": [],
+    "description": "Omáčka swt & kyslá, pripravená podľa receptúry z databázy USDA."
+  },
+  "campbells_red_white_crm_of_mushroom_soup_cond": {
+    "name": "Campbell's red & white, crm hubová polievka, podmienka",
+    "alternative_names": [],
+    "description": "Campbell's red & white, crm hubová polievka, podmienka z databázy USDA."
+  },
+  "soup_tomato_cnd_prep_w_eq_volume_lofat_milk": {
+    "name": "Polievka, paradajková, cnd, príprava s ekv. objem lofatu (2%) mlieka",
+    "alternative_names": [],
+    "description": "Polievka, paradajková, cnd, príprava s ekv. objem lofatu (2%) mlieka z databázy USDA."
+  },
+  "soup_black_bean_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, čierna fazuľa, cnd, príprava s ekvivalentným objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, čierna fazuľa, cnd, príprava s ekvivalentným objemom vody z databázy USDA."
+  },
+  "soup_bean_w_pork_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, fazuľová s bravčovým mäsom, cnd, príprava s rovnakým objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, fazuľová s bravčovým mäsom, cnd, príprava s rovnakým objemom vody z databázy USDA."
+  },
+  "soup_bf_noodle_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, bf rezance, cnd, príprava s rovnakým objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, bf rezance, cnd, príprava s rovnakým objemom vody z databázy USDA."
+  },
+  "soup_chick_w_dumplings_cnd_prep_w_eq_volume_h": {
+    "name": "Polievka, kuracie mäso s knedľou, cnd, príprava s rovnakým objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, kuracie mäso s knedľou, cnd, príprava s rovnakým objemom vody z databázy USDA."
+  },
+  "soup_chick_gumbo_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, kuracia guma, cnd, príprava s ekvivalentným objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, kuracia guma, cnd, príprava s ekvivalentným objemom vody z databázy USDA."
+  },
+  "soup_chick_w_rice_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, kuracie mäso s ryžou, cnd, príprava s ekvivalentným objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, kuracie mäso s ryžou, cnd, príprava s ekvivalentným objemom vody z databázy USDA."
+  },
+  "soup_chick_veg_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, kuracia zelenina, cnd, príprava s ekvivalentným objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, kuracia zelenina, cnd, príprava s ekvivalentným objemom vody z databázy USDA."
+  },
+  "soup_chili_bf_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, chilli bf, cnd, príprava s rovnakým objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, chilli bf, cnd, príprava s rovnakým objemom vody z databázy USDA."
+  },
+  "soup_clam_chowder_manhattan_cnd_prep_weq_volu": {
+    "name": "Polievka, mušľová polievka, manhattan, cnd, príprava s objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, mušľová polievka, manhattan, cnd, príprava s objemom vody z databázy USDA."
+  },
+  "soup_clam_chowder_new_england_cnd_prep_w_eq_v": {
+    "name": "Polievka, mušľová polievka, Nové Anglicko, CND, príprava s ekvivalentným objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, mušľová polievka, Nové Anglicko, CND, príprava s ekvivalentným objemom vody z databázy USDA."
+  },
+  "soup_crm_of_mushroom_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, crm z húb, cnd, príprava w/ ekv. objemu vody",
+    "alternative_names": [],
+    "description": "Polievka, crm z húb, cnd, príprava w/ ekv. objemu vody z databázy USDA."
+  },
+  "soup_onion_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, cibuľa, cnd, príprava s ekvivalentným objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, cibuľa, cnd, príprava s ekvivalentným objemom vody z databázy USDA."
+  },
+  "soup_pea_grn_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, hrachová, zelená, cnd, príprava s ekvivalentným objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, hrachová, zelená, cnd, príprava s ekvivalentným objemom vody z databázy USDA."
+  },
+  "soup_tomato_rice_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, paradajková ryža, cnd, príprava w/ ekv. objemu vody",
+    "alternative_names": [],
+    "description": "Polievka, paradajková ryža, cnd, príprava w/ ekv. objemu vody z databázy USDA."
+  },
+  "soup_vegetarian_veg_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, vegetariánska zelenina, cnd, príprava s ekvivalentným objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, vegetariánska zelenina, cnd, príprava s ekvivalentným objemom vody z databázy USDA."
+  },
+  "soup_veg_bf_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, zelenina bf, cnd, príprava s rovnakým objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, zelenina bf, cnd, príprava s rovnakým objemom vody z databázy USDA."
+  },
+  "soup_veg_w_bf_broth_cnd_prep_w_eq_volume_h2o": {
+    "name": "Polievka, zelenina s bujónom, cnd, príprava s ekvivalentným objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, zelenina s bujónom, cnd, príprava s ekvivalentným objemom vody z databázy USDA."
+  },
+  "soup_bean_w_bacon_dry_mix_prep_w_h2o": {
+    "name": "Polievka, fazuľa so slaninou, suchá, mix, príprava s vodou",
+    "alternative_names": [],
+    "description": "Polievka, fazuľa so slaninou, suchá, mix, príprava s vodou z databázy USDA."
+  },
+  "soup_crm_of_chick_dry_mix_prep_w_h2o": {
+    "name": "Polievka, kuracia kaša, suchá, mix, príprava s vodou",
+    "alternative_names": [],
+    "description": "Polievka, kuracia kaša, suchá, mix, príprava s vodou z databázy USDA."
+  },
+  "soup_chick_rice_dry_mix_prep_w_h2o": {
+    "name": "Polievka, kuracia ryža, suchá, mix, príprava s vodou",
+    "alternative_names": [],
+    "description": "Polievka, kuracia ryža, suchá, mix, príprava s vodou z databázy USDA."
+  },
+  "soup_mushroom_dry_mix_prep_w_h2o": {
+    "name": "Polievka, hubová, suchá, mix, príprava s vodou",
+    "alternative_names": [],
+    "description": "Polievka, hubová, suchá, mix, príprava s vodou z databázy USDA."
+  },
+  "soup_onion_dry_mix_prep_w_h2o": {
+    "name": "Polievka, cibuľa, suchá, mix, príprava s vodou",
+    "alternative_names": [],
+    "description": "Polievka, cibuľa, suchá, mix, príprava s vodou z databázy USDA."
+  },
+  "soup_oxtail_dry_mix_prep_w_h2o": {
+    "name": "Polievka, hovädzí chvost, suchá, mix, príprava s vodou",
+    "alternative_names": [],
+    "description": "Polievka, hovädzí chvost, suchá, mix, príprava s vodou z databázy USDA."
+  },
+  "soup_tomato_dry_mix_prep_w_h2o": {
+    "name": "Polievka, paradajková, suchá, mix, príprava s vodou",
+    "alternative_names": [],
+    "description": "Polievka, paradajková, suchá, mix, príprava s vodou z databázy USDA."
+  },
+  "soup_tomato_veg_dry_mix_prep_w_h2o": {
+    "name": "Polievka, paradajková zelenina, suchá, mix, príprava s vodou",
+    "alternative_names": [],
+    "description": "Polievka, paradajková zelenina, suchá, mix, príprava s vodou z databázy USDA."
+  },
+  "soup_veg_bf_dry_mix_prep_w_h2o": {
+    "name": "Polievka, zelenina bf, suchá, mix, príprava s vodou",
+    "alternative_names": [],
+    "description": "Polievka, zelenina bf, suchá, mix, príprava s vodou z databázy USDA."
+  },
+  "soup_chick_noodle_dry_mix_prep_w_h2o": {
+    "name": "Polievka, kuracie rezance, suché, mix, príprava s vodou",
+    "alternative_names": [],
+    "description": "Polievka, kuracie rezance, suché, mix, príprava s vodou z databázy USDA."
+  },
+  "soup_tomato_cnd_prep_weq_volume_h2o_comm": {
+    "name": "Polievka, paradajka, cnd, prep w/ekv. objem vody, comm",
+    "alternative_names": [],
+    "description": "Polievka, paradajka, cnd, prep w/ekv. objem vody, comm z databázy USDA."
+  },
+  "soup_ramen_noodle_any_flavor_dry": {
+    "name": "Polievka, ramen rezance, akákoľvek príchuť, suché",
+    "alternative_names": [],
+    "description": "Polievka, ramen rezance, akákoľvek príchuť, suché z databázy USDA."
+  },
+  "soup_broccoli_chs_cnd_cond_comm": {
+    "name": "Polievka, brokolica chs, cnd, cond, comm",
+    "alternative_names": [],
+    "description": "Polievka, brokolica chs, cnd, cond, comm z databázy USDA."
+  },
+  "sauce_pasta_spaghettimarinara_rts": {
+    "name": "Omáčka, cestoviny, špagety/marinara, rts",
+    "alternative_names": [],
+    "description": "Omáčka, cestoviny, špagety/marinara, rts z databázy USDA."
+  },
+  "soup_crm_of_chick_cnd_cond_red_na": {
+    "name": "Polievka, crm z kuriatka, cnd, cond, red na",
+    "alternative_names": [],
+    "description": "Polievka, crm z kuriatka, cnd, cond, red na z databázy USDA."
+  },
+  "soup_tomato_cnd_cond_red_na": {
+    "name": "Polievka, paradajková, cnd, cond, červená na",
+    "alternative_names": [],
+    "description": "Polievka, paradajková, cnd, cond, červená na z databázy USDA."
+  },
+  "gravy_brown_inst_dry": {
+    "name": "Omáčka, hnedá inšt., suchá",
+    "alternative_names": [],
+    "description": "Omáčka, hnedá inšt., suchá z databázy USDA."
+  },
+  "gravy_inst_bf_dry": {
+    "name": "Omáčka, inst bf, suchá",
+    "alternative_names": [],
+    "description": "Omáčka, inst bf, suchá z databázy USDA."
+  },
+  "gravy_inst_turkey_dry": {
+    "name": "Omáčka, inst morka, suchá",
+    "alternative_names": [],
+    "description": "Omáčka, inst morka, suchá z databázy USDA."
+  },
+  "sauce_alfredo_mix_dry": {
+    "name": "Omáčka, zmes alfredo, suchá",
+    "alternative_names": [],
+    "description": "Omáčka, zmes alfredo, suchá z databázy USDA."
+  },
+  "sauce_peppers_hot_chili_mature_red_cnd": {
+    "name": "Omáčka, paprika, pálivá, čili, zrelá červená, cnd",
+    "alternative_names": [],
+    "description": "Omáčka, paprika, pálivá, čili, zrelá červená, cnd z databázy USDA."
+  },
+  "sauce_chili_peppers_hot_immat_grn_cnd": {
+    "name": "Omáčka, čili, paprika, pálivá, immat grn, cnd",
+    "alternative_names": [],
+    "description": "Omáčka, čili, paprika, pálivá, immat grn, cnd z databázy USDA."
+  },
+  "soup_tomato_lo_na_wh2o": {
+    "name": "Polievka, paradajka, lo na, w/h2o",
+    "alternative_names": [],
+    "description": "Polievka, paradajka, lo na, w/h2o z databázy USDA."
+  },
+  "soup_pea_lo_na_prep_w_eq_volume_h2o": {
+    "name": "Polievka, hrachová, lo na, príprava s rovnakým objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, hrachová, lo na, príprava s rovnakým objemom vody z databázy USDA."
+  },
+  "soup_veg_soup_cond_lo_na_prep_w_eq_volume_h2o": {
+    "name": "Polievka, zeleninová polievka, ochucovadlo, príprava s ekv. objemom vody",
+    "alternative_names": [],
+    "description": "Polievka, zeleninová polievka, ochucovadlo, príprava s ekv. objemom vody z databázy USDA."
+  },
+  "soup_crm_of_mushroom_lo_na_rts_cnd": {
+    "name": "Polievka, crm z húb, lo na, rts, cnd",
+    "alternative_names": [],
+    "description": "Polievka, crm z húb, lo na, rts, cnd z databázy USDA."
+  },
+  "potato_soup_inst_dry_mix": {
+    "name": "Zemiaková polievka, inst, suchá zmes",
+    "alternative_names": [],
+    "description": "Zemiaková polievka, inst, suchá zmes z databázy USDA."
+  },
+  "sauce_worcestershire": {
+    "name": "Omáčka, worcester",
+    "alternative_names": [],
+    "description": "Omáčka, worcester z databázy USDA."
+  },
+  "sauce_tomato_chili_sau_btld_wsalt": {
+    "name": "Omáčka, paradajková čili sau, btld, so soľou",
+    "alternative_names": [],
+    "description": "Omáčka, paradajková čili sau, btld, so soľou z databázy USDA."
+  },
+  "sauce_tomato_chili_sau_btld_no_salt_lo_na": {
+    "name": "Omáčka, paradajková čili sau, btld, bez soli, lo na",
+    "alternative_names": [],
+    "description": "Omáčka, paradajková čili sau, btld, bez soli, lo na z databázy USDA."
+  },
+  "soup_veg_chick_cnd_prep_w_h2o_lo_na": {
+    "name": "Polievka, zeleninové kurča, cnd, príprava s vodou, na",
+    "alternative_names": [],
+    "description": "Polievka, zeleninové kurča, cnd, príprava s vodou, na z databázy USDA."
+  },
+  "sauce_barbecue_lo_na": {
+    "name": "Omáčka, gril, lo na",
+    "alternative_names": [],
+    "description": "Omáčka, gril, lo na z databázy USDA."
+  },
+  "sauce_pasta_spaghettimarinara_rts_lo_na": {
+    "name": "Omáčka, cestoviny, špagety/marinara, rts, atď",
+    "alternative_names": [],
+    "description": "Omáčka, cestoviny, špagety/marinara, rts, atď z databázy USDA."
+  },
+  "soup_bf_mushroom_lo_na_chunk_style": {
+    "name": "Polievka, bf & hub, lo na, kus štýl",
+    "alternative_names": [],
+    "description": "Polievka, bf & hub, lo na, kus štýl z databázy USDA."
+  },
+  "soup_bf_stroganoff_cnd_chunky_style_rts": {
+    "name": "Polievka, bf stroganoff, cnd, chunky style, rts",
+    "alternative_names": [],
+    "description": "Polievka, bf stroganoff, cnd, chunky style, rts z databázy USDA."
+  },
+  "soup_bouillon_cubesgranules_lo_na_dry": {
+    "name": "Polievka, bujónové kocky a granule, suché",
+    "alternative_names": [],
+    "description": "Polievka, bujónové kocky a granule, suché z databázy USDA."
+  },
+  "sandwich_spread_pork_beef": {
+    "name": "Nátierka na sendviče, bravčové, hovädzie",
+    "alternative_names": [],
+    "description": "Nátierka na sendviče, bravčové, hovädzie z databázy USDA."
+  },
+  "cereals_rte_chocolate_flavored_frstd_puffed_c": {
+    "name": "Cereálie rte, frstd pufovaná kukurica s čokoládovou príchuťou",
+    "alternative_names": [],
+    "description": "Cereálie rte, frstd pufovaná kukurica s čokoládovou príchuťou z databázy USDA."
+  },
+  "guava_sauce_cooked": {
+    "name": "Guava omáčka, varená",
+    "alternative_names": [],
+    "description": "Guava omáčka, varená z databázy USDA."
+  },
+  "chocolate_flavor_bev_mix_for_milk_pdr_wo_adde": {
+    "name": "Čokoládovo-príchuť bev mix na mlieko, pdr, wo/ pridaný nutr",
+    "alternative_names": [],
+    "description": "Čokoládovo-príchuť bev mix na mlieko, pdr, wo/ pridaný nutr z databázy USDA."
+  },
+  "chocolate_flavor_bev_mix_pdr_prep_w_whl_milk": {
+    "name": "Bev mix s príchuťou čokolády, pdr, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Bev mix s príchuťou čokolády, pdr, príprava s mliekom z databázy USDA."
+  },
+  "chocolate_syrup": {
+    "name": "Čokoládový sirup",
+    "alternative_names": [],
+    "description": "Čokoládový sirup z databázy USDA."
+  },
+  "chocolate_syrup_prep_w_whl_milk": {
+    "name": "Čokoládový sirup, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Čokoládový sirup, príprava s mliekom z databázy USDA."
+  },
+  "shake_fast_food_chocolate": {
+    "name": "Shake, rýchle občerstvenie, čokoláda",
+    "alternative_names": [],
+    "description": "Shake, rýchle občerstvenie, čokoláda z databázy USDA."
+  },
+  "chocolate_flavor_bev_mix_for_milk_pdr_w_added": {
+    "name": "Čokoládovo-príchuťová zmes na mlieko, pdr, s prídavkom nutr",
+    "alternative_names": [],
+    "description": "Čokoládovo-príchuťová zmes na mlieko, pdr, s prídavkom nutr z databázy USDA."
+  },
+  "chocolate_flavor_bev_mix_w_added_nutr_prep_w": {
+    "name": "Bev mix s príchuťou čokolády s prídavkom nutr, príprava s mliekom",
+    "alternative_names": [],
+    "description": "Bev mix s príchuťou čokolády s prídavkom nutr, príprava s mliekom z databázy USDA."
+  },
+  "cake_cherry_fudge_wchoc_frstng": {
+    "name": "Koláč, čerešňový fudge s čokoládou",
+    "alternative_names": [],
+    "description": "Koláč, čerešňový fudge s čokoládou z databázy USDA."
+  },
+  "coffeecake_cinn_wcrumb_topping_dry_mix": {
+    "name": "Kávový koláč, polievka s strúhankou, suchá zmes",
+    "alternative_names": [],
+    "description": "Kávový koláč, polievka s strúhankou, suchá zmes z databázy USDA."
+  },
+  "coffeecake_cinn_wcrumb_topping_dry_mix_prep": {
+    "name": "Kávový koláč, polievka s strúhankou, suchá zmes, príprava",
+    "alternative_names": [],
+    "description": "Kávový koláč, polievka s strúhankou, suchá zmes, príprava z databázy USDA."
+  },
+  "doughnuts_cake_type_pln_chocolate_coated_or_f": {
+    "name": "Šišky, tortové, plnkové, v čokoláde alebo frstd",
+    "alternative_names": [],
+    "description": "Šišky, tortové, plnkové, v čokoláde alebo frstd z databázy USDA."
+  },
+  "corn_based_extruded_chips_pln": {
+    "name": "Na báze kukurice, extrudované, štiepky, pln",
+    "alternative_names": [],
+    "description": "Na báze kukurice, extrudované, štiepky, pln z databázy USDA."
+  },
+  "corn_based_extruded_puffs_or_twists_cheese_fl": {
+    "name": "Na báze kukurice, extrudované, šúľance, syrová príchuť",
+    "alternative_names": [],
+    "description": "Na báze kukurice, extrudované, šúľance, syrová príchuť z databázy USDA."
+  },
+  "potato_chips_barbecue_flavor": {
+    "name": "Zemiakové lupienky s príchuťou grilovania",
+    "alternative_names": [],
+    "description": "Zemiakové lupienky s príchuťou grilovania z databázy USDA."
+  },
+  "potato_chips_made_from_dried_potatoes_lt": {
+    "name": "Zemiakové lupienky, vyrobené zo sušených zemiakov, lt",
+    "alternative_names": [],
+    "description": "Zemiakové lupienky, vyrobené zo sušených zemiakov, lt z databázy USDA."
+  },
+  "tortilla_chips_plain": {
+    "name": "Tortilla chipsy, hladké",
+    "alternative_names": [],
+    "description": "Tortilla chipsy, hladké z databázy USDA."
+  },
+  "snacks_tortilla_chips_nacho_chs": {
+    "name": "Občerstvenie, tortilla chipsy, nacho chs",
+    "alternative_names": [],
+    "description": "Občerstvenie, tortilla chipsy, nacho chs z databázy USDA."
+  },
+  "candies_tootsie_roll_chocolate_flavor_roll": {
+    "name": "Cukríky, roláda, roláda s čokoládovou príchuťou",
+    "alternative_names": [],
+    "description": "Cukríky, roláda, roláda s čokoládovou príchuťou z databázy USDA."
+  },
+  "candies_butterscotch": {
+    "name": "Cukríky, karamelový",
+    "alternative_names": [],
+    "description": "Cukríky, karamelový z databázy USDA."
+  },
+  "candies_carob_unswtnd": {
+    "name": "Cukríky, rohovník, unswtnd",
+    "alternative_names": [],
+    "description": "Cukríky, rohovník, unswtnd z databázy USDA."
+  },
+  "candies_caramels": {
+    "name": "Cukríky, karamelky",
+    "alternative_names": [],
+    "description": "Cukríky, karamelky z databázy USDA."
+  },
+  "candies_confectioners_coating_yogurt": {
+    "name": "Cukríky, cukrárska poleva, jogurt",
+    "alternative_names": [],
+    "description": "Cukríky, cukrárska poleva, jogurt z databázy USDA."
+  },
+  "candies_semisweet_choc": {
+    "name": "Cukríky, polosladká čokoláda",
+    "alternative_names": [],
+    "description": "Cukríky, polosladká čokoláda z databázy USDA."
+  },
+  "candies_sweet_chocolate": {
+    "name": "Cukríky, sladká čokoláda",
+    "alternative_names": [],
+    "description": "Cukríky, sladká čokoláda z databázy USDA."
+  },
+  "candies_swt_choc_coatd_fondant": {
+    "name": "Cukríky, swt čokoládou potiahnutý fondán",
+    "alternative_names": [],
+    "description": "Cukríky, swt čokoládou potiahnutý fondán z databázy USDA."
+  },
+  "candies_confectioners_coating_butterscotch": {
+    "name": "Cukríky, cukrárska poleva, karamelový",
+    "alternative_names": [],
+    "description": "Cukríky, cukrárska poleva, karamelový z databázy USDA."
+  },
+  "candies_confectioners_coating_pnut_butter": {
+    "name": "Cukríky, cukrárska poleva, orechové maslo",
+    "alternative_names": [],
+    "description": "Cukríky, cukrárska poleva, orechové maslo z databázy USDA."
+  },
+  "candies_white_choc": {
+    "name": "Cukríky, biela čokoláda",
+    "alternative_names": [],
+    "description": "Cukríky, biela čokoláda z databázy USDA."
+  },
+  "candies_fudge_choc_prepared_from_recipe": {
+    "name": "Cukríky, fudge, čokoláda, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Cukríky, fudge, čokoláda, pripravené podľa receptu z databázy USDA."
+  },
+  "candies_fudge_choc_w_nuts_prepared_from_recip": {
+    "name": "Cukríky, fudge, čokoláda, s orechmi, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Cukríky, fudge, čokoláda, s orechmi, pripravené podľa receptu z databázy USDA."
+  },
+  "candies_fudge_pnut_butter_prepared_from_recip": {
+    "name": "Cukríky, fudge, orechové maslo, pripravené podľa receptúry",
+    "alternative_names": [],
+    "description": "Cukríky, fudge, orechové maslo, pripravené podľa receptúry z databázy USDA."
+  },
+  "candies_fudge_vanilla_prepared_from_recipe": {
+    "name": "Cukríky, fudge, vanilka, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Cukríky, fudge, vanilka, pripravené podľa receptu z databázy USDA."
+  },
+  "candies_fudge_vanilla_w_nuts": {
+    "name": "Cukríky, fudge, vanilka s orechmi",
+    "alternative_names": [],
+    "description": "Cukríky, fudge, vanilka s orechmi z databázy USDA."
+  },
+  "candies_kit_kat_wafer_bar": {
+    "name": "Cukríky, súprava kat oblátková tyčinka",
+    "alternative_names": [],
+    "description": "Cukríky, súprava kat oblátková tyčinka z databázy USDA."
+  },
+  "candies_nestle_baby_ruth_bar": {
+    "name": "Cukríky, hniezdo, tyčinka baby Ruth",
+    "alternative_names": [],
+    "description": "Cukríky, hniezdo, tyčinka baby Ruth z databázy USDA."
+  },
+  "candies_mars_snackfood_us_mars_almond_bar": {
+    "name": "Cukríky, mars snackfood us, marš mandľová tyčinka",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, marš mandľová tyčinka z databázy USDA."
+  },
+  "candies_nestle_oh_henry_bar": {
+    "name": "Cukríky, hniezdo, ach henry! bar",
+    "alternative_names": [],
+    "description": "Cukríky, hniezdo, ach henry! bar z databázy USDA."
+  },
+  "candies_milk_choc": {
+    "name": "Cukríky, mliečna čokoláda",
+    "alternative_names": [],
+    "description": "Cukríky, mliečna čokoláda z databázy USDA."
+  },
+  "chocolate_flavored_hazelnut_sprd": {
+    "name": "Orieškový šprot s čokoládovou príchuťou",
+    "alternative_names": [],
+    "description": "Orieškový šprot s čokoládovou príchuťou z databázy USDA."
+  },
+  "candies_milk_choc_coatd_pnuts": {
+    "name": "Cukríky, pnuts v mliečnej čokoláde",
+    "alternative_names": [],
+    "description": "Cukríky, pnuts v mliečnej čokoláde z databázy USDA."
+  },
+  "candies_milk_choc_coatd_raisins": {
+    "name": "Cukríky, hrozienka v mliečnej čokoláde",
+    "alternative_names": [],
+    "description": "Cukríky, hrozienka v mliečnej čokoláde z databázy USDA."
+  },
+  "candies_milk_choc_walmonds": {
+    "name": "Cukríky, mliečna čokoláda, s mandľami",
+    "alternative_names": [],
+    "description": "Cukríky, mliečna čokoláda, s mandľami z databázy USDA."
+  },
+  "candies_milk_choc_wrice_crl": {
+    "name": "Cukríky, mliečna čokoláda, s ryžou",
+    "alternative_names": [],
+    "description": "Cukríky, mliečna čokoláda, s ryžou z databázy USDA."
+  },
+  "candies_mars_snackfood_us_milky_way_bar": {
+    "name": "Cukríky, mars snackfood us, mliečna tyčinka",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, mliečna tyčinka z databázy USDA."
+  },
+  "candies_mars_snackfood_us_mms_pnut_choc_candi": {
+    "name": "Cukríky, mars snackfood us, m&m's pnut choc cukríky",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, m&m's pnut choc cukríky z databázy USDA."
+  },
+  "candies_mars_snackfood_us_mms_milk_choc_candi": {
+    "name": "Cukríky, mars snackfood us, m&m's milk choc cukríky",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, m&m's milk choc cukríky z databázy USDA."
+  },
+  "candies_mr_goodbar_choc_bar": {
+    "name": "Cukríky, p. goodbar choc bar",
+    "alternative_names": [],
+    "description": "Cukríky, p. goodbar choc bar z databázy USDA."
+  },
+  "candies_pnut_brittle_prepared_from_recipe": {
+    "name": "Cukríky, krehké z orechov, pripravené podľa receptúry",
+    "alternative_names": [],
+    "description": "Cukríky, krehké z orechov, pripravené podľa receptúry z databázy USDA."
+  },
+  "candies_reeses_pnut_butter_cups": {
+    "name": "Cukríky, košíčky na maslo",
+    "alternative_names": [],
+    "description": "Cukríky, košíčky na maslo z databázy USDA."
+  },
+  "candies_reeses_pieces_candy": {
+    "name": "Cukríky, reeseove kúsky cukrovinky",
+    "alternative_names": [],
+    "description": "Cukríky, reeseove kúsky cukrovinky z databázy USDA."
+  },
+  "candies_rolo_caramels_in_milk_choc": {
+    "name": "Cukríky, rolo karamelky v mliečnej čokoláde",
+    "alternative_names": [],
+    "description": "Cukríky, rolo karamelky v mliečnej čokoláde z databázy USDA."
+  },
+  "candies_mars_snackfood_us_snickers_bar": {
+    "name": "Cukríky, mars snackfood us, snickers bar",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, snickers bar z databázy USDA."
+  },
+  "candies_mars_snackfood_us_starburst_fruit_che": {
+    "name": "Cukríky, mars snackfood us, starburst ovocné žuvačky, orig fruit",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, starburst ovocné žuvačky, orig fruit z databázy USDA."
+  },
+  "candies_mars_snackfood_us_3_musketeers_bar": {
+    "name": "Cukríky, mars snackfood us, bar pre 3 mušketierov",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, bar pre 3 mušketierov z databázy USDA."
+  },
+  "candies_whatchamacallit_candy_bar": {
+    "name": "Cukríky, whatchamacallit tyčinka",
+    "alternative_names": [],
+    "description": "Cukríky, whatchamacallit tyčinka z databázy USDA."
+  },
+  "candies_praline_prepared_from_recipe": {
+    "name": "Cukríky, pralinky, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Cukríky, pralinky, pripravené podľa receptu z databázy USDA."
+  },
+  "candies_hershey_reesesticks_crispy_wafers_pnu": {
+    "name": "Cukríky, hershey, reesesticks chrumkavé oblátky, tlačenka, mliečna čokoláda",
+    "alternative_names": [],
+    "description": "Cukríky, hershey, reesesticks chrumkavé oblátky, tlačenka, mliečna čokoláda z databázy USDA."
+  },
+  "candies_dk_choc_coatd_coffee_bns": {
+    "name": "Cukríky, dk čokoláda obalená káva bns",
+    "alternative_names": [],
+    "description": "Cukríky, dk čokoláda obalená káva bns z databázy USDA."
+  },
+  "candies_milk_choc_coatd_coffee_bns": {
+    "name": "Cukríky, káva s mliečnou čokoládou bns",
+    "alternative_names": [],
+    "description": "Cukríky, káva s mliečnou čokoládou bns z databázy USDA."
+  },
+  "candies_fudge_choc_marshmllw_w_nuts_prepared": {
+    "name": "Cukríky, fudge, čokoláda marshmllw, s orechmi, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Cukríky, fudge, čokoláda marshmllw, s orechmi, pripravené podľa receptu z databázy USDA."
+  },
+  "syrups_choc_fudge_type": {
+    "name": "Sirupy, čokoládové, fudge",
+    "alternative_names": [],
+    "description": "Sirupy, čokoládové, fudge z databázy USDA."
+  },
+  "candies_mars_snackfood_us_skittles_original_b": {
+    "name": "Cukríky, mars snackfood nás, kolky originálna veľkosť zahryznutia",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood nás, kolky originálna veľkosť zahryznutia z databázy USDA."
+  },
+  "candies_fudge_choc_marshmllw_prepared_from_re": {
+    "name": "Cukríky, fudge, čokoláda marshmllw, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Cukríky, fudge, čokoláda marshmllw, pripravené podľa receptu z databázy USDA."
+  },
+  "candies_taffy_prepared_from_recipe": {
+    "name": "Cukríky, karamelové, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Cukríky, karamelové, pripravené podľa receptu z databázy USDA."
+  },
+  "candies_toffee_prepared_from_recipe": {
+    "name": "Cukríky, karamelky, pripravené podľa receptu",
+    "alternative_names": [],
+    "description": "Cukríky, karamelky, pripravené podľa receptu z databázy USDA."
+  },
+  "banana_chips": {
+    "name": "Banánové lupienky",
+    "alternative_names": [],
+    "description": "Banánové lupienky z databázy USDA."
+  },
+  "snack_potato_chips_made_from_dried_potatoes_p": {
+    "name": "Občerstvenie, zemiakové lupienky, zo sušených zemiakov, pln",
+    "alternative_names": [],
+    "description": "Občerstvenie, zemiakové lupienky, zo sušených zemiakov, pln z databázy USDA."
+  },
+  "potato_chips_plain_salted": {
+    "name": "Zemiakové lupienky, obyčajné, solené",
+    "alternative_names": [],
+    "description": "Zemiakové lupienky, obyčajné, solené z databázy USDA."
+  },
+  "snacks_potato_stks": {
+    "name": "Občerstvenie, zemiakové obilie",
+    "alternative_names": [],
+    "description": "Občerstvenie, zemiakové obilie z databázy USDA."
+  },
+  "snacks_potato_chips_red_fat": {
+    "name": "Občerstvenie, zemiakové lupienky, červený tuk",
+    "alternative_names": [],
+    "description": "Občerstvenie, zemiakové lupienky, červený tuk z databázy USDA."
+  },
+  "tortilla_chips_lofat_bkd_wofat": {
+    "name": "Tortilla chipsy, lofat, bkd wo/tuk",
+    "alternative_names": [],
+    "description": "Tortilla chipsy, lofat, bkd wo/tuk z databázy USDA."
+  },
+  "snacks_granola_bar_fruit_filled_nonfat": {
+    "name": "Občerstvenie, granola tyčinka, plnené ovocím, bez tuku",
+    "alternative_names": [],
+    "description": "Občerstvenie, granola tyčinka, plnené ovocím, bez tuku z databázy USDA."
+  },
+  "potato_chips_fat_free_salted": {
+    "name": "Zemiakové lupienky, bez tuku, solené",
+    "alternative_names": [],
+    "description": "Zemiakové lupienky, bez tuku, solené z databázy USDA."
+  },
+  "snacks_kelloggs_nutri_grain_crl_bars_fruit": {
+    "name": "Občerstvenie, kellogg's, nutri-grain crl tyčinky, ovocie",
+    "alternative_names": [],
+    "description": "Občerstvenie, kellogg's, nutri-grain crl tyčinky, ovocie z databázy USDA."
+  },
+  "snacks_tortilla_chips_lofat_made_wolestra_nac": {
+    "name": "Občerstvenie, tortilla chipsy, lofat, made w/olestra, nacho chs",
+    "alternative_names": [],
+    "description": "Občerstvenie, tortilla chipsy, lofat, made w/olestra, nacho chs z databázy USDA."
+  },
+  "snacks_potato_chips_frm_dried_potatoes_fat_fr": {
+    "name": "Pochutiny, zemiakové lupienky, sušené zemiaky, bez tuku, s olestrou",
+    "alternative_names": [],
+    "description": "Pochutiny, zemiakové lupienky, sušené zemiaky, bez tuku, s olestrou z databázy USDA."
+  },
+  "taro_chips": {
+    "name": "Taro čipsy",
+    "alternative_names": [],
+    "description": "Taro čipsy z databázy USDA."
+  },
+  "snacks_corn_based_extrdd_puffs_or_twists_chee": {
+    "name": "Občerstvenia, na báze kukurice, extrdd, oblátky alebo točené, syrová príchuť, unenr",
+    "alternative_names": [],
+    "description": "Občerstvenia, na báze kukurice, extrdd, oblátky alebo točené, syrová príchuť, unenr z databázy USDA."
+  },
+  "potato_chips_pln_unsalted": {
+    "name": "Zemiakové lupienky, pln, nesolené",
+    "alternative_names": [],
+    "description": "Zemiakové lupienky, pln, nesolené z databázy USDA."
+  },
+  "snacks_pretzels_hard_pln_made_w_enr_flr_unsal": {
+    "name": "Občerstvenia, praclíky, tvrdé, pln, vyrobené w/ enr flr, nesolené",
+    "alternative_names": [],
+    "description": "Občerstvenia, praclíky, tvrdé, pln, vyrobené w/ enr flr, nesolené z databázy USDA."
+  },
+  "potato_chips_wosalt_red_fat": {
+    "name": "Zemiakové lupienky, wo/soľ, červený tuk",
+    "alternative_names": [],
+    "description": "Zemiakové lupienky, wo/soľ, červený tuk z databázy USDA."
+  },
+  "tortilla_chips_lofat_unsalted": {
+    "name": "Tortilla chipsy, lofat, nesolené",
+    "alternative_names": [],
+    "description": "Tortilla chipsy, lofat, nesolené z databázy USDA."
+  },
+  "candies_soft_fruit_nut_squares": {
+    "name": "Cukríky, mäkké ovocie a orieškové štvorčeky",
+    "alternative_names": [],
+    "description": "Cukríky, mäkké ovocie a orieškové štvorčeky z databázy USDA."
+  },
+  "candies_reeses_fast_break_candy_bar": {
+    "name": "Cukríky, Reesova rýchla prestávka, tyčinka",
+    "alternative_names": [],
+    "description": "Cukríky, Reesova rýchla prestávka, tyčinka z databázy USDA."
+  },
+  "chocolate_dk_45_59_cacao_sol": {
+    "name": "Čokoláda, dk, 45-59% kakaový sol",
+    "alternative_names": [],
+    "description": "Čokoláda, dk, 45-59% kakaový sol z databázy USDA."
+  },
+  "chocolate_dk_60_69_cacao_sol": {
+    "name": "Čokoláda, dk, 60-69% kakaový sol",
+    "alternative_names": [],
+    "description": "Čokoláda, dk, 60-69% kakaový sol z databázy USDA."
+  },
+  "chocolate_dk_70_85_cacao_sol": {
+    "name": "Čokoláda, dk, 70-85% kakaový sol",
+    "alternative_names": [],
+    "description": "Čokoláda, dk, 70-85% kakaový sol z databázy USDA."
+  },
+  "candies_choc_dk_nfs_45_59_cacao_sol_90_60_69": {
+    "name": "Cukríky, čokoláda, dk, nfs (45-59% kakaový roztok 90%; 60-69% kakaový roztok",
+    "alternative_names": [],
+    "description": "Cukríky, čokoláda, dk, nfs (45-59% kakaový roztok 90%; 60-69% kakaový roztok z databázy USDA."
+  },
+  "candies_crispy_bar_w_pnut_butter_filling": {
+    "name": "Cukríky, chrumkavá tyčinka s náplňou z orechového masla",
+    "alternative_names": [],
+    "description": "Cukríky, chrumkavá tyčinka s náplňou z orechového masla z databázy USDA."
+  },
+  "pizza_chs_topping_reg_crust_frz_ckd": {
+    "name": "Pizza, chs topping, reg crust, frz, ckd",
+    "alternative_names": [],
+    "description": "Pizza, chs topping, reg crust, frz, ckd z databázy USDA."
+  },
+  "pizza_chs_topping_rising_crust_frz_ckd": {
+    "name": "Pizza, chs topping, kysnúca kôrka, frz, ckd",
+    "alternative_names": [],
+    "description": "Pizza, chs topping, kysnúca kôrka, frz, ckd z databázy USDA."
+  },
+  "pizza_meat_veg_topping_reg_crust_frz_ckd": {
+    "name": "Pizza, mäso a zelenina topping, reg crust, frz, ckd",
+    "alternative_names": [],
+    "description": "Pizza, mäso a zelenina topping, reg crust, frz, ckd z databázy USDA."
+  },
+  "pizza_meat_veg_topping_rising_crust_frz_ckd": {
+    "name": "Pizza, mäsové a zeleninové polevy, kysnutá kôrka, frz, ckd",
+    "alternative_names": [],
+    "description": "Pizza, mäsové a zeleninové polevy, kysnutá kôrka, frz, ckd z databázy USDA."
+  },
+  "pizza_hut_12_chs_pizza_hand_tossed_crust": {
+    "name": "\"pizza hut 12\"\" chs pizza, ručne hádzaná kôrka\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 12\"\" chs pizza, ručne hádzaná kôrka\" z databázy USDA."
+  },
+  "pizza_hut_12_chs_pizza_pan_crust": {
+    "name": "\"pizza hut 12\"\" chs pizza, panvica\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 12\"\" chs pizza, panvica\" z databázy USDA."
+  },
+  "pizza_hut_12_chs_pizza_thin_n_crispy_crust": {
+    "name": "\"pizza hut 12\"\" chs pizza, tenká 'n chrumkavá kôrka\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 12\"\" chs pizza, tenká 'n chrumkavá kôrka\" z databázy USDA."
+  },
+  "pizza_hut_12_pepperoni_pizza_hand_tossed_crus": {
+    "name": "\"pizza hut 12\"\" pepperoni pizza, ručne hádzaná kôrka\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 12\"\" pepperoni pizza, ručne hádzaná kôrka\" z databázy USDA."
+  },
+  "pizza_hut_12_pepperoni_pizza_pan_crust": {
+    "name": "\"pizza hut 12\"\" pepperoni pizza, panvica\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 12\"\" pepperoni pizza, panvica\" z databázy USDA."
+  },
+  "pizza_hut_12_super_supreme_pizza_hand_tossed": {
+    "name": "\"pizza hut 12\"\" super supreme pizza, ručne hádzaná kôrka\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 12\"\" super supreme pizza, ručne hádzaná kôrka\" z databázy USDA."
+  },
+  "dominos_14_chs_pizza_classic_hand_tossed_crus": {
+    "name": "\"domino's 14\"\" chs pizza, klasická ručne hádzaná kôrka\"",
+    "alternative_names": [],
+    "description": "\"domino's 14\"\" chs pizza, klasická ručne hádzaná kôrka\" z databázy USDA."
+  },
+  "dominos_14_chs_pizza_ultimate_deep_dish_crust": {
+    "name": "\"domino's 14\"\" chs pizza, dokonalá hlboká kôrka\"",
+    "alternative_names": [],
+    "description": "\"domino's 14\"\" chs pizza, dokonalá hlboká kôrka\" z databázy USDA."
+  },
+  "dominos_14_chs_pizza_crunchy_thin_crust": {
+    "name": "\"domino's 14\"\" chs pizza, chrumkavá tenká kôrka\"",
+    "alternative_names": [],
+    "description": "\"domino's 14\"\" chs pizza, chrumkavá tenká kôrka\" z databázy USDA."
+  },
+  "dominos_14_pepperoni_pizza_classic_hand_tosse": {
+    "name": "\"domino's 14\"\" pepperoni pizza, klasická ručne hádzaná kôrka\"",
+    "alternative_names": [],
+    "description": "\"domino's 14\"\" pepperoni pizza, klasická ručne hádzaná kôrka\" z databázy USDA."
+  },
+  "dominos_14_pepperoni_pizza_ultimate_deep_dish": {
+    "name": "\"domino's 14\"\" pepperoni pizza, dokonalá hlboká kôrka\"",
+    "alternative_names": [],
+    "description": "\"domino's 14\"\" pepperoni pizza, dokonalá hlboká kôrka\" z databázy USDA."
+  },
+  "dominos_14_extravaganzza_fst_pizza_clssic_han": {
+    "name": "\"domino's 14\"\" extravaganzza fst pizza, clssic hand-hoed crst\"",
+    "alternative_names": [],
+    "description": "\"domino's 14\"\" extravaganzza fst pizza, clssic hand-hoed crst\" z databázy USDA."
+  },
+  "papa_johns_14_chs_pizza_original_crust": {
+    "name": "\"papa john's 14\"\" chs pizza, originálna kôrka\"",
+    "alternative_names": [],
+    "description": "\"papa john's 14\"\" chs pizza, originálna kôrka\" z databázy USDA."
+  },
+  "papa_johns_14_pepperoni_pizza_original_crust": {
+    "name": "\"papa john's 14\"\" pepperoni pizza, originálna kôrka\"",
+    "alternative_names": [],
+    "description": "\"papa john's 14\"\" pepperoni pizza, originálna kôrka\" z databázy USDA."
+  },
+  "papa_johns_14_the_works_pizza_original_crust": {
+    "name": "\"papa john's 14\"\" pizza z dielne, originálna kôrka\"",
+    "alternative_names": [],
+    "description": "\"papa john's 14\"\" pizza z dielne, originálna kôrka\" z databázy USDA."
+  },
+  "papa_johns_14_chs_pizza_thin_crust": {
+    "name": "\"papa john's 14\"\" chs pizza, tenká kôrka\"",
+    "alternative_names": [],
+    "description": "\"papa john's 14\"\" chs pizza, tenká kôrka\" z databázy USDA."
+  },
+  "little_caesars_14_original_rnd_chs_pizza_reg": {
+    "name": "\"little caesars 14\"\" originál rnd chs pizza, reg crust\"",
+    "alternative_names": [],
+    "description": "\"little caesars 14\"\" originál rnd chs pizza, reg crust\" z databázy USDA."
+  },
+  "little_caesars_14_original_rnd_pepperoni_pizz": {
+    "name": "\"little caesars 14\"\" originál rnd pepperoni pizza, reg. kôra\"",
+    "alternative_names": [],
+    "description": "\"little caesars 14\"\" originál rnd pepperoni pizza, reg. kôra\" z databázy USDA."
+  },
+  "little_caesars_14_original_rnd_meat_veg_pizza": {
+    "name": "\"little caesars 14\"\" originál RND pizza s mäsom a zeleninou, reg. kôra\"",
+    "alternative_names": [],
+    "description": "\"little caesars 14\"\" originál RND pizza s mäsom a zeleninou, reg. kôra\" z databázy USDA."
+  },
+  "little_caesars_14_chs_pizza_lrg_deep_dish_cru": {
+    "name": "\"little caesars 14\"\" chs pizza, lrg deep dish crust\"",
+    "alternative_names": [],
+    "description": "\"little caesars 14\"\" chs pizza, lrg deep dish crust\" z databázy USDA."
+  },
+  "little_caesars_14_pepperoni_pizza_lrg_deep_di": {
+    "name": "\"little caesars 14\"\" pepperoni pizza, lrg hlboká kôrka\"",
+    "alternative_names": [],
+    "description": "\"little caesars 14\"\" pepperoni pizza, lrg hlboká kôrka\" z databázy USDA."
+  },
+  "little_caesars_14_chs_pizza_thin_crust": {
+    "name": "\"malý caesars 14\"\" chs pizza, tenká kôrka\"",
+    "alternative_names": [],
+    "description": "\"malý caesars 14\"\" chs pizza, tenká kôrka\" z databázy USDA."
+  },
+  "pizza_hut_14_chs_pizza_hand_tossed_crust": {
+    "name": "\"pizza hut 14\"\" chs pizza, ručne hádzaná kôrka\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 14\"\" chs pizza, ručne hádzaná kôrka\" z databázy USDA."
+  },
+  "pizza_hut_14_chs_pizza_pan_crust": {
+    "name": "\"pizza hut 14\"\" chs pizza, panvica\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 14\"\" chs pizza, panvica\" z databázy USDA."
+  },
+  "pizza_hut_14_chs_pizza_thin_n_crispy_crust": {
+    "name": "\"pizza hut 14\"\" chs pizza, tenká 'n chrumkavá kôrka\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 14\"\" chs pizza, tenká 'n chrumkavá kôrka\" z databázy USDA."
+  },
+  "pizza_hut_14_pepperoni_pizza_hand_tossed_crus": {
+    "name": "\"pizza hut 14\"\" pepperoni pizza, ručne hádzaná kôrka\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 14\"\" pepperoni pizza, ručne hádzaná kôrka\" z databázy USDA."
+  },
+  "pizza_hut_14_pepperoni_pizza_pan_crust": {
+    "name": "\"pizza hut 14\"\" pepperoni pizza, panvica\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 14\"\" pepperoni pizza, panvica\" z databázy USDA."
+  },
+  "pizza_hut_14_super_supreme_pizza_hand_tossed": {
+    "name": "\"pizza hut 14\"\" super supreme pizza, ručne hádzaná kôrka\"",
+    "alternative_names": [],
+    "description": "\"pizza hut 14\"\" super supreme pizza, ručne hádzaná kôrka\" z databázy USDA."
+  },
+  "fast_fd_pizza_chain_14_pizza_chs_topping_reg": {
+    "name": "\"fast fd, pizza chain, 14\"\" pizza, chs topping, reg crust\"",
+    "alternative_names": [],
+    "description": "\"fast fd, pizza chain, 14\"\" pizza, chs topping, reg crust\" z databázy USDA."
+  },
+  "fast_fd_pizza_chain_14_pizza_chs_topping_thic": {
+    "name": "\"fast fd, pizza chain, 14\"\" pizza, chs topping, Hrubá kôrka\"",
+    "alternative_names": [],
+    "description": "\"fast fd, pizza chain, 14\"\" pizza, chs topping, Hrubá kôrka\" z databázy USDA."
+  },
+  "fast_fd_pizza_chain_14_pizza_chs_topping_thin": {
+    "name": "\"fast fd, pizza chain, 14\"\" pizza, chs topping, thin crust\"",
+    "alternative_names": [],
+    "description": "\"fast fd, pizza chain, 14\"\" pizza, chs topping, thin crust\" z databázy USDA."
+  },
+  "fast_fd_pizza_chain_14_pizza_pepperoni_toppin": {
+    "name": "\"fast fd, pizza chain, 14\"\" pizza, pepperoni topping, reg crust\"",
+    "alternative_names": [],
+    "description": "\"fast fd, pizza chain, 14\"\" pizza, pepperoni topping, reg crust\" z databázy USDA."
+  },
+  "fast_fd_pizza_chain_14_pizza_meat_veg_topping": {
+    "name": "\"fast fd, pizza chain, 14\"\" pizza, meat & veget topping, reg crust\"",
+    "alternative_names": [],
+    "description": "\"fast fd, pizza chain, 14\"\" pizza, meat & veget topping, reg crust\" z databázy USDA."
+  },
+  "light_ice_crm_soft_serve_blended_w_milk_choc": {
+    "name": "Ľahká zmrzlina, jemné servírovanie, miešané s cukrovinkami z mliečnej čokolády",
+    "alternative_names": [],
+    "description": "Ľahká zmrzlina, jemné servírovanie, miešané s cukrovinkami z mliečnej čokolády z databázy USDA."
+  },
+  "digiorno_pizza_chs_topping_chs_stuffed_crust": {
+    "name": "Digiorno pizza, chs topping, chs plnená kôrka, frz, bkd",
+    "alternative_names": [],
+    "description": "Digiorno pizza, chs topping, chs plnená kôrka, frz, bkd z databázy USDA."
+  },
+  "digiorno_pizza_chs_topping_rising_crust_frz_b": {
+    "name": "Digiorno pizza, chs topping, kysnúca kôrka, frz, bkd",
+    "alternative_names": [],
+    "description": "Digiorno pizza, chs topping, kysnúca kôrka, frz, bkd z databázy USDA."
+  },
+  "digiorno_pizza_chs_topping_thin_crispy_crust": {
+    "name": "Digiorno pizza, chs topping, tenká chrumkavá kôrka, frz, bkd",
+    "alternative_names": [],
+    "description": "Digiorno pizza, chs topping, tenká chrumkavá kôrka, frz, bkd z databázy USDA."
+  },
+  "digiorno_pizza_pepperoni_topping_chs_stuffed": {
+    "name": "Digiorno pizza, feferónkový toping, chs plnená kôrka, frz, bkd",
+    "alternative_names": [],
+    "description": "Digiorno pizza, feferónkový toping, chs plnená kôrka, frz, bkd z databázy USDA."
+  },
+  "digiorno_pizza_pepperoni_topping_rising_crust": {
+    "name": "Digiorno pizza, feferónkový toping, kysnutá kôrka, frz, bkd",
+    "alternative_names": [],
+    "description": "Digiorno pizza, feferónkový toping, kysnutá kôrka, frz, bkd z databázy USDA."
+  },
+  "digiorno_pizza_pepperoni_topping_thin_crispy": {
+    "name": "Digiorno pizza, feferónkový toping, tenká chrumkavá kôrka, frz, bkd",
+    "alternative_names": [],
+    "description": "Digiorno pizza, feferónkový toping, tenká chrumkavá kôrka, frz, bkd z databázy USDA."
+  },
+  "digiorno_pizza_supreme_topping_rising_crust_f": {
+    "name": "Digiorno pizza, supreme topping, kysnúca kôrka, frz, bkd",
+    "alternative_names": [],
+    "description": "Digiorno pizza, supreme topping, kysnúca kôrka, frz, bkd z databázy USDA."
+  },
+  "digiorno_pizza_supreme_topping_thin_crispy_cr": {
+    "name": "Pizza Digiorno, supreme topping, tenká chrumkavá kôrka, frz, bkd",
+    "alternative_names": [],
+    "description": "Pizza Digiorno, supreme topping, tenká chrumkavá kôrka, frz, bkd z databázy USDA."
+  },
+  "fast_fd_pizza_chain_14_pizza_sausage_topping": {
+    "name": "\"fast fd, pizza chain, 14\"\" pizza, klobása topping, hustá kôrka\"",
+    "alternative_names": [],
+    "description": "\"fast fd, pizza chain, 14\"\" pizza, klobása topping, hustá kôrka\" z databázy USDA."
+  },
+  "tky_stuffing_mshd_potato_wgravy_assorted_veg": {
+    "name": "Tky, plnka, mshd zemiak s omáčkou, rozmanitá zelenina, frz, mikrovlnka",
+    "alternative_names": [],
+    "description": "Tky, plnka, mshd zemiak s omáčkou, rozmanitá zelenina, frz, mikrovlnka z databázy USDA."
+  },
+  "snacks_candy_rolls_yogurt_covered_fruit_flav": {
+    "name": "Občerstvenie, cukrové rolky, jogurtové, ovocná príchuť s ahoj vit c",
+    "alternative_names": [],
+    "description": "Občerstvenie, cukrové rolky, jogurtové, ovocná príchuť s ahoj vit c z databázy USDA."
+  },
+  "snacks_swt_potato_chips_unsalted": {
+    "name": "Pochutiny, zemiakové lupienky, nesolené",
+    "alternative_names": [],
+    "description": "Pochutiny, zemiakové lupienky, nesolené z databázy USDA."
+  },
+  "snacks_fritolay_sunchips_multigrain_snack_ori": {
+    "name": "Občerstvenie, fritolay, slnečnice, viaczrnné občerstvenie, originálna príchuť",
+    "alternative_names": [],
+    "description": "Občerstvenie, fritolay, slnečnice, viaczrnné občerstvenie, originálna príchuť z databázy USDA."
+  },
+  "snacks_popcorn_microwave_reg_flavor_wparhyd_o": {
+    "name": "Občerstvenie, popcorn, mikrovlnná rúra, reg (maslová) príchuť, s parhydovým olejom",
+    "alternative_names": [],
+    "description": "Občerstvenie, popcorn, mikrovlnná rúra, reg (maslová) príchuť, s parhydovým olejom z databázy USDA."
+  },
+  "formulated_bar_power_bar_choc": {
+    "name": "Formulovaná tyčinka, energetická tyčinka, čokoláda",
+    "alternative_names": [],
+    "description": "Formulovaná tyčinka, energetická tyčinka, čokoláda z databázy USDA."
+  },
+  "formulated_bar_slim_fast_optima_meal_bar_milk": {
+    "name": "Formulovaná tyčinka, štíhla tyčinka s optimálnym jedlom, mliečna čokoláda vypnutá",
+    "alternative_names": [],
+    "description": "Formulovaná tyčinka, štíhla tyčinka s optimálnym jedlom, mliečna čokoláda vypnutá z databázy USDA."
+  },
+  "formulated_bar_luna_bar_nutz_over_choc": {
+    "name": "Formulovaná tyčinka, luna tyčinka, nutz over choc",
+    "alternative_names": [],
+    "description": "Formulovaná tyčinka, luna tyčinka, nutz over choc z databázy USDA."
+  },
+  "snacks_soy_chips_or_crisps_salted": {
+    "name": "Pochutiny, sójové lupienky alebo lupienky, solené",
+    "alternative_names": [],
+    "description": "Pochutiny, sójové lupienky alebo lupienky, solené z databázy USDA."
+  },
+  "snacks_plantain_chips_salted": {
+    "name": "Občerstvenie, plantajnové lupienky, solené",
+    "alternative_names": [],
+    "description": "Občerstvenie, plantajnové lupienky, solené z databázy USDA."
+  },
+  "tortilla_chips_yel_pln_salted": {
+    "name": "Tortilla chipsy, žlť, pln, solené",
+    "alternative_names": [],
+    "description": "Tortilla chipsy, žlť, pln, solené z databázy USDA."
+  },
+  "snacks_veg_chips_hain_celestial_group_terra_c": {
+    "name": "Občerstvenie, zeleninové čipsy, nebeská skupina, terra čipsy",
+    "alternative_names": [],
+    "description": "Občerstvenie, zeleninové čipsy, nebeská skupina, terra čipsy z databázy USDA."
+  },
+  "snacks_granola_bar_kashi_golean_chewy_mxd_fla": {
+    "name": "Občerstvenie, granola bar, kashi golean, žuvacie, mxd príchute",
+    "alternative_names": [],
+    "description": "Občerstvenie, granola bar, kashi golean, žuvacie, mxd príchute z databázy USDA."
+  },
+  "snacks_granola_bar_kashi_tlc_bar_chewy_mxd_fl": {
+    "name": "Občerstvenie, granola bar, kashi tlc bar, žuvacie, mxd príchute",
+    "alternative_names": [],
+    "description": "Občerstvenie, granola bar, kashi tlc bar, žuvacie, mxd príchute z databázy USDA."
+  },
+  "snacks_granola_bar_kashi_golean_crunchy_mxd_f": {
+    "name": "Občerstvenie, granola bar, kashi golean, chrumkavé, mxd príchute",
+    "alternative_names": [],
+    "description": "Občerstvenie, granola bar, kashi golean, chrumkavé, mxd príchute z databázy USDA."
+  },
+  "snacks_granola_bar_chewy_red_sugar_all_flavor": {
+    "name": "Občerstvenie, granola tyčinka, žuvačka, červený cukor, všetky príchute",
+    "alternative_names": [],
+    "description": "Občerstvenie, granola tyčinka, žuvačka, červený cukor, všetky príchute z databázy USDA."
+  },
+  "snacks_granola_bites_mxd_flavors": {
+    "name": "Občerstvenie, granolové kúsky, mxd príchute",
+    "alternative_names": [],
+    "description": "Občerstvenie, granolové kúsky, mxd príchute z databázy USDA."
+  },
+  "snacks_pita_chips_salted": {
+    "name": "Občerstvenie, pita chipsy, solené",
+    "alternative_names": [],
+    "description": "Občerstvenie, pita chipsy, solené z databázy USDA."
+  },
+  "snacks_granola_bars_soft_almond_confectioners": {
+    "name": "Občerstvenie, granolové tyčinky, mäkké, mandľové, cukrárske polevy",
+    "alternative_names": [],
+    "description": "Občerstvenie, granolové tyčinky, mäkké, mandľové, cukrárske polevy z databázy USDA."
+  },
+  "snacks_granola_bars_quaker_oatmeal_to_go_all": {
+    "name": "Občerstvenie, granola bary, ovsené vločky Quaker so sebou, všetky príchute",
+    "alternative_names": [],
+    "description": "Občerstvenie, granola bary, ovsené vločky Quaker so sebou, všetky príchute z databázy USDA."
+  },
+  "snacks_veg_chips_made_from_garden_veg": {
+    "name": "Občerstvenie, zeleninové lupienky, vyrobené zo záhradnej zeleniny",
+    "alternative_names": [],
+    "description": "Občerstvenie, zeleninové lupienky, vyrobené zo záhradnej zeleniny z databázy USDA."
+  },
+  "snacks_granola_bar_kashi_tlc_bar_crunchy_mxd": {
+    "name": "Občerstvenie, granola bar, kashi tlc bar, chrumkavé, mxd príchute",
+    "alternative_names": [],
+    "description": "Občerstvenie, granola bar, kashi tlc bar, chrumkavé, mxd príchute z databázy USDA."
+  },
+  "snacks_candy_bits_yogurt_covered_w_vit_c": {
+    "name": "Občerstvenie, cukríky, jogurt s vit c",
+    "alternative_names": [],
+    "description": "Občerstvenie, cukríky, jogurt s vit c z databázy USDA."
+  },
+  "formulated_bar_high_fiber_chewy_oats_and_choc": {
+    "name": "Formulovaná tyčinka, s vysokým obsahom vlákniny, žuvacia, ovsená a čokoládová",
+    "alternative_names": [],
+    "description": "Formulovaná tyčinka, s vysokým obsahom vlákniny, žuvacia, ovsená a čokoládová z databázy USDA."
+  },
+  "snacks_bagel_chips_pln": {
+    "name": "Občerstvenie, bagetové lupienky, pln",
+    "alternative_names": [],
+    "description": "Občerstvenie, bagetové lupienky, pln z databázy USDA."
+  },
+  "snacks_nutri_grain_fruit_nut_bar": {
+    "name": "Občerstvenie, nutri-zrnové ovocie a orechová tyčinka",
+    "alternative_names": [],
+    "description": "Občerstvenie, nutri-zrnové ovocie a orechová tyčinka z databázy USDA."
+  },
+  "snacks_yucca_chips_salted": {
+    "name": "Občerstvenie, lupienky z juky (maniok), solené",
+    "alternative_names": [],
+    "description": "Občerstvenie, lupienky z juky (maniok), solené z databázy USDA."
+  },
+  "snacks_clif_bar_mixed_flavors": {
+    "name": "Občerstvenie, clif bar, zmiešané príchute",
+    "alternative_names": [],
+    "description": "Občerstvenie, clif bar, zmiešané príchute z databázy USDA."
+  },
+  "snacks_granola_bar_quaker_chewy_90_cal_bar": {
+    "name": "Občerstvenie, granola bar, quaker, žuvacie, 90 cal bar",
+    "alternative_names": [],
+    "description": "Občerstvenie, granola bar, quaker, žuvacie, 90 cal bar z databázy USDA."
+  },
+  "snacks_granola_bar_quaker_dipps_all_flavors": {
+    "name": "Občerstvenie, granola bar, quaker, dipy, všetky príchute",
+    "alternative_names": [],
+    "description": "Občerstvenie, granola bar, quaker, dipy, všetky príchute z databázy USDA."
+  },
+  "soup_egg_drop_chinese_restaurant": {
+    "name": "Polievka, vajcia, čínska reštaurácia",
+    "alternative_names": [],
+    "description": "Polievka, vajcia, čínska reštaurácia z databázy USDA."
+  },
+  "soup_hot_sour_chinese_restaurant": {
+    "name": "Polievka, horko-kyslá, čínska reštaurácia",
+    "alternative_names": [],
+    "description": "Polievka, horko-kyslá, čínska reštaurácia z databázy USDA."
+  },
+  "soup_wonton_chinese_restaurant": {
+    "name": "Polievka, wonton, čínska reštaurácia",
+    "alternative_names": [],
+    "description": "Polievka, wonton, čínska reštaurácia z databázy USDA."
+  },
+  "soup_ramen_noodle_dry_any_flavor_red_fat_red": {
+    "name": "Polievka, ramen rezance, suché, akákoľvek príchuť, červený tuk, červené",
+    "alternative_names": [],
+    "description": "Polievka, ramen rezance, suché, akákoľvek príchuť, červený tuk, červené z databázy USDA."
+  },
+  "soup_clam_chowder_new_england_red_na_cnd_rts": {
+    "name": "Polievka, mušľová polievka, nové Anglicko, červená na, cnd, rts",
+    "alternative_names": [],
+    "description": "Polievka, mušľová polievka, nové Anglicko, červená na, cnd, rts z databázy USDA."
+  },
+  "sauce_duck_rts": {
+    "name": "Omáčka, kačica, rts",
+    "alternative_names": [],
+    "description": "Omáčka, kačica, rts z databázy USDA."
+  },
+  "sauce_salsa_verde_rts": {
+    "name": "Omáčka, salsa, verde, rts",
+    "alternative_names": [],
+    "description": "Omáčka, salsa, verde, rts z databázy USDA."
+  },
+  "sauce_steak_tomato_bsd": {
+    "name": "Omáčka, steak, paradajka bsd",
+    "alternative_names": [],
+    "description": "Omáčka, steak, paradajka bsd z databázy USDA."
+  },
+  "sauce_tartar_rts": {
+    "name": "Omáčka, tatárska, rts",
+    "alternative_names": [],
+    "description": "Omáčka, tatárska, rts z databázy USDA."
+  },
+  "sauce_swt_sour_rts": {
+    "name": "Omáčka, swt & kyslá, rts",
+    "alternative_names": [],
+    "description": "Omáčka, swt & kyslá, rts z databázy USDA."
+  },
+  "sauce_cocktail_rts": {
+    "name": "Omáčka, koktail, rts",
+    "alternative_names": [],
+    "description": "Omáčka, koktail, rts z databázy USDA."
+  },
+  "restaurant_latino_black_bean_soup": {
+    "name": "Reštaurácia, latino, čierna fazuľová polievka",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, čierna fazuľová polievka z databázy USDA."
+  },
+  "restaurant_latino_tripe_soup": {
+    "name": "Reštaurácia, latino, dršťková polievka",
+    "alternative_names": [],
+    "description": "Reštaurácia, latino, dršťková polievka z databázy USDA."
+  },
+  "babyfood_banana_juc_wlofat_yogurt": {
+    "name": "Detská výživa, banánový džús s jogurtom lofat",
+    "alternative_names": [],
+    "description": "Detská výživa, banánový džús s jogurtom lofat z databázy USDA."
+  },
+  "babyfood_mxd_fruit_juc_wlofat_yogurt": {
+    "name": "Detská výživa, mxd ovocná šťava s jogurtom s lofat",
+    "alternative_names": [],
+    "description": "Detská výživa, mxd ovocná šťava s jogurtom s lofat z databázy USDA."
+  },
+  "whipped_topping_frz_lofat": {
+    "name": "Šľahaný toping, frz, lofat",
+    "alternative_names": [],
+    "description": "Šľahaný toping, frz, lofat z databázy USDA."
+  },
+  "candies_mars_snackfood_us_mms_pnut_butter_cho": {
+    "name": "Cukríky, mars snackfood us, m&m's pnut butter choc cukríky",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, m&m's pnut butter choc cukríky z databázy USDA."
+  },
+  "babyfood_appl_yogurt_dssrt_str": {
+    "name": "Detská výživa, aplikovaný jogurt dssrt, str",
+    "alternative_names": [],
+    "description": "Detská výživa, aplikovaný jogurt dssrt, str z databázy USDA."
+  },
+  "candies_mars_snackfood_us_milky_way_midnight": {
+    "name": "Cukríky, mars snackfood nás, mliečna dráha polnočný bar",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood nás, mliečna dráha polnočný bar z databázy USDA."
+  },
+  "candies_mars_snackfood_us_mms_almond_choc_can": {
+    "name": "Cukríky, mars snackfood us, m&m's mandľové čokoládové cukríky",
+    "alternative_names": [],
+    "description": "Cukríky, mars snackfood us, m&m's mandľové čokoládové cukríky z databázy USDA."
+  },
+  "snacks_popcorn_home_prepared_oil_popped_unsal": {
+    "name": "Občerstvenie, pukance, doma pripravené, máčené v oleji, nesolené",
+    "alternative_names": [],
+    "description": "Občerstvenie, pukance, doma pripravené, máčené v oleji, nesolené z databázy USDA."
+  },
+  "babyfood_juc_apple_sweet_potato": {
+    "name": "Detská výživa, džús, jablko-sladké zemiaky",
+    "alternative_names": [],
+    "description": "Detská výživa, džús, jablko-sladké zemiaky z databázy USDA."
+  },
+  "babyfood_juc_orange_carrot": {
+    "name": "Detská výživa, džús, pomaranč-mrkva",
+    "alternative_names": [],
+    "description": "Detská výživa, džús, pomaranč-mrkva z databázy USDA."
+  },
+  "babyfood_vegbrown_rice_str": {
+    "name": "Detská výživa, zelenina a hnedá ryža, str",
+    "alternative_names": [],
+    "description": "Detská výživa, zelenina a hnedá ryža, str z databázy USDA."
+  },
+  "babyfood_peasbrown_rice": {
+    "name": "Detská výživa, hrášok a hnedá ryža",
+    "alternative_names": [],
+    "description": "Detská výživa, hrášok a hnedá ryža z databázy USDA."
+  },
+  "potato_chips_white_restructured_bkd": {
+    "name": "Zemiakové lupienky, biele, reštrukturalizované, bkd",
+    "alternative_names": [],
+    "description": "Zemiakové lupienky, biele, reštrukturalizované, bkd z databázy USDA."
+  },
+  "babyfood_bkd_product_finger_snacks_crl": {
+    "name": "Detská výživa, výrobky bkd, chuťovky crl",
+    "alternative_names": [],
+    "description": "Detská výživa, výrobky bkd, chuťovky crl z databázy USDA."
+  },
+  "babyfood_crl_brown_rice_dry_inst": {
+    "name": "Detská výživa, crl, hnedá ryža, suchá, inst",
+    "alternative_names": [],
+    "description": "Detská výživa, crl, hnedá ryža, suchá, inst z databázy USDA."
+  },
+  "babyfood_grn_bnsturkey_str": {
+    "name": "Detská výživa, grn bns&turkey, str",
+    "alternative_names": [],
+    "description": "Detská výživa, grn bns&turkey, str z databázy USDA."
+  },
+  "babyfood_carrots_toddler": {
+    "name": "Detská výživa, mrkva, batoľatá",
+    "alternative_names": [],
+    "description": "Detská výživa, mrkva, batoľatá z databázy USDA."
+  },
+  "babyfood_dssrt_banana_pudd_str": {
+    "name": "Detská výživa, dssrt, banánový puding, str",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, banánový puding, str z databázy USDA."
+  },
+  "babyfood_fruit_tutti_frutti_str": {
+    "name": "Detská výživa, ovocie, tutti frutti, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, tutti frutti, str z databázy USDA."
+  },
+  "babyfood_fruit_tutti_frutti_jr": {
+    "name": "Detská výživa, ovocie, tutti frutti, jr",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie, tutti frutti, jr z databázy USDA."
+  },
+  "babyfood_dinner_chickrice": {
+    "name": "Detská výživa, večera, kuracie mäso a ryža",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, kuracie mäso a ryža z databázy USDA."
+  },
+  "candies_choc_covered_caramel_wnuts": {
+    "name": "Cukríky, v čokoláde, karamel s orechmi",
+    "alternative_names": [],
+    "description": "Cukríky, v čokoláde, karamel s orechmi z databázy USDA."
+  },
+  "candies_choc_covered_dietetic_or_lo_cal": {
+    "name": "Cukríky, čokoládové, dietetické alebo miestne",
+    "alternative_names": [],
+    "description": "Cukríky, čokoládové, dietetické alebo miestne z databázy USDA."
+  },
+  "snacks_tortilla_chips_unsalted_white_corn": {
+    "name": "Pochutiny, tortilla chipsy, nesolené, biela kukurica",
+    "alternative_names": [],
+    "description": "Pochutiny, tortilla chipsy, nesolené, biela kukurica z databázy USDA."
+  },
+  "chocolate_flavored_drk_wheymilk_bsd": {
+    "name": "Nápoj s čokoládovou príchuťou, srvátka a mlieko bsd",
+    "alternative_names": [],
+    "description": "Nápoj s čokoládovou príchuťou, srvátka a mlieko bsd z databázy USDA."
+  },
+  "babyfood_dinner_chicknoodle_wveg_todd": {
+    "name": "Detská výživa, večera, kuracie mäso a rezance so zeleninou, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, kuracie mäso a rezance so zeleninou, todd z databázy USDA."
+  },
+  "babyfood_juice_pear": {
+    "name": "Detská výživa, džús, hruška",
+    "alternative_names": [],
+    "description": "Detská výživa, džús, hruška z databázy USDA."
+  },
+  "babyfood_meat_bf_wveg_todd": {
+    "name": "Detská výživa, mäso, bf so zeleninou, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, mäso, bf so zeleninou, todd z databázy USDA."
+  },
+  "babyfood_dinner_macaroni_bftomato_sau_todd": {
+    "name": "Detská výživa, večera, makaróny, bf&tomato sau, todd",
+    "alternative_names": [],
+    "description": "Detská výživa, večera, makaróny, bf&tomato sau, todd z databázy USDA."
+  },
+  "snacks_corn_based_extruded_chips_unsalted": {
+    "name": "Pochutiny, na báze kukurice, extrudované, čipsy, nesolené",
+    "alternative_names": [],
+    "description": "Pochutiny, na báze kukurice, extrudované, čipsy, nesolené z databázy USDA."
+  },
+  "babyfood_mxd_fruit_yogurt_str": {
+    "name": "Detská výživa, ovocný jogurt mxd, str",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocný jogurt mxd, str z databázy USDA."
+  },
+  "babyfood_riceappls_dry": {
+    "name": "Detská výživa, ryža a jablká, suché",
+    "alternative_names": [],
+    "description": "Detská výživa, ryža a jablká, suché z databázy USDA."
+  },
+  "babyfood_juc_appl_cherry": {
+    "name": "Detská výživa, juc, appl - cherry",
+    "alternative_names": [],
+    "description": "Detská výživa, juc, appl - cherry z databázy USDA."
+  },
+  "babyfood_dssrt_blueberry_yogurt_str": {
+    "name": "Detská výživa, dssrt, čučoriedkový jogurt, str",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, čučoriedkový jogurt, str z databázy USDA."
+  },
+  "babyfood_dssrt_banana_yogurt_str": {
+    "name": "Detská výživa, dssrt, banánový jogurt, str",
+    "alternative_names": [],
+    "description": "Detská výživa, dssrt, banánový jogurt, str z databázy USDA."
+  },
+  "babyfood_banana_no_tapioca_str": {
+    "name": "Detská výživa, banán bez tapioky, str",
+    "alternative_names": [],
+    "description": "Detská výživa, banán bez tapioky, str z databázy USDA."
+  },
+  "babyfood_banana_appl_dssrt_str": {
+    "name": "Detská výživa, banánová aplikácia dssrt, str",
+    "alternative_names": [],
+    "description": "Detská výživa, banánová aplikácia dssrt, str z databázy USDA."
+  },
+  "snacks_tortilla_chips_lt": {
+    "name": "Občerstvenie, tortilla chipsy, lt (pečené s menším množstvom oleja)",
+    "alternative_names": [],
+    "description": "Občerstvenie, tortilla chipsy, lt (pečené s menším množstvom oleja) z databázy USDA."
+  },
+  "babyfood_fruit_supreme_dssrt": {
+    "name": "Detská výživa, ovocie supreme dssrt",
+    "alternative_names": [],
+    "description": "Detská výživa, ovocie supreme dssrt z databázy USDA."
+  }
+}

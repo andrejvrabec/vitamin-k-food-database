@@ -1,0 +1,27 @@
+{
+  "natto": {
+    "name": "Natto",
+    "alternative_names": [
+      "fermented soybeans"
+    ],
+    "description": "Traditional Japanese food made from fermented soybeans, the richest known source of Vitamin K2 (specifically MK-7)."
+  },
+  "sauerkraut": {
+    "name": "Sauerkraut",
+    "alternative_names": [
+      "sour cabbage",
+      "fermented cabbage"
+    ],
+    "description": "Finely cut cabbage fermented by various lactic acid bacteria, containing Vitamin K1 and Vitamin K2 (MK-7) in small amounts."
+  },
+  "sauerkraut_cnd_solliquids": {
+    "name": "Sauerkraut, cnd, sol&liquids",
+    "alternative_names": [],
+    "description": "Sauerkraut, cnd, sol&liquids from the USDA database."
+  },
+  "sauerkraut_cnd_lo_na": {
+    "name": "Sauerkraut, cnd, lo na",
+    "alternative_names": [],
+    "description": "Sauerkraut, cnd, lo na from the USDA database."
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "beans_black_mature_seeds_raw": {
+    "name": "Beans, black, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Beans, black, mature seeds, raw as defined by the USDA database."
+  },
+  "beans_black_turtle_mature_seeds_canned": {
+    "name": "Beans, black turtle, mature seeds, canned",
+    "alternative_names": [],
+    "description": "Beans, black turtle, mature seeds, canned as defined by the USDA database."
+  },
+  "beans_black_turtle_mature_seeds_cooked_b": {
+    "name": "Beans, black turtle, mature seeds, cooked, boiled, without",
+    "alternative_names": [],
+    "description": "Beans, black turtle, mature seeds, cooked, boiled, without as defined by the USDA database."
+  },
+  "beans_pink_mature_seeds_raw": {
+    "name": "Beans, pink, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Beans, pink, mature seeds, raw as defined by the USDA database."
+  },
+  "beans_snap_green_frozen_cooked_boiled_dr": {
+    "name": "Beans, snap, green, frozen, cooked, boiled, drained without",
+    "alternative_names": [],
+    "description": "Beans, snap, green, frozen, cooked, boiled, drained without as defined by the USDA database."
+  },
+  "cashews_raw": {
+    "name": "Cashews, raw",
+    "alternative_names": [
+      "raw cashew nuts"
+    ],
+    "description": "Raw cashew nuts, containing moderate amounts of Vitamin K1."
+  },
+  "cowpeas_immature_seeds_cooked_boiled_dra": {
+    "name": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",
+    "alternative_names": [],
+    "description": "Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt as defined by the USDA database."
+  },
+  "cowpeas_immature_seeds_frozen_cooked_boi": {
+    "name": "Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt",
+    "alternative_names": [],
+    "description": "Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt as defined by the USDA database."
+  },
+  "edamame_frozen": {
+    "name": "Edamame, frozen",
+    "alternative_names": [
+      "frozen edamame",
+      "green soybeans"
+    ],
+    "description": "Frozen immature soybeans in pod or shelled, containing moderate Vitamin K1."
+  },
+  "edamame_frozen_unprepared": {
+    "name": "Edamame, frozen, unprepared",
+    "alternative_names": [],
+    "description": "Edamame, frozen, unprepared as defined by the USDA database."
+  },
+  "lima_beans_immature_seeds_cooked_boiled": {
+    "name": "Lima beans, immature seeds, cooked, boiled, drained,",
+    "alternative_names": [],
+    "description": "Lima beans, immature seeds, cooked, boiled, drained, as defined by the USDA database."
+  },
+  "lima_beans_immature_seeds_frozen_baby_co": {
+    "name": "Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt",
+    "alternative_names": [],
+    "description": "Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt as defined by the USDA database."
+  },
+  "lima_beans_immature_seeds_frozen_fordhoo": {
+    "name": "Lima beans, immature seeds, frozen, fordhook, unprepared",
+    "alternative_names": [],
+    "description": "Lima beans, immature seeds, frozen, fordhook, unprepared as defined by the USDA database."
+  },
+  "mung_beans_mature_seeds_sprouted_cooked": {
+    "name": "Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt",
+    "alternative_names": [],
+    "description": "Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt as defined by the USDA database."
+  },
+  "nuts_coconut_meat_dried_not_sweetened": {
+    "name": "Nuts, coconut meat, dried (desiccated), not sweetened",
+    "alternative_names": [],
+    "description": "Nuts, coconut meat, dried (desiccated), not sweetened as defined by the USDA database."
+  },
+  "nuts_hazelnuts_or_filberts": {
+    "name": "Nuts, hazelnuts or filberts",
+    "alternative_names": [],
+    "description": "Nuts, hazelnuts or filberts as defined by the USDA database."
+  },
+  "pumpkin_seeds_roasted": {
+    "name": "Pumpkin seeds, roasted",
+    "alternative_names": [
+      "roasted pumpkin seeds",
+      "pepitas"
+    ],
+    "description": "Roasted pumpkin seeds (without shell/pepitas), a good seed source of Vitamin K1."
+  },
+  "soybean_sprouts_cooked": {
+    "name": "Soybean sprouts, cooked",
+    "alternative_names": [
+      "cooked soy sprouts",
+      "steamed soybean sprouts"
+    ],
+    "description": "Cooked sprouted mature soybeans, containing moderate Vitamin K1."
+  },
+  "soybeans_mature_seeds_sprouted_cooked_st": {
+    "name": "Soybeans, mature seeds, sprouted, cooked, steamed",
+    "alternative_names": [],
+    "description": "Soybeans, mature seeds, sprouted, cooked, steamed as defined by the USDA database."
+  },
+  "ice_crm_cone_choc_covered_w_nuts_flavors_othe": {
+    "name": "Ice crm cone, choc covered, w/ nuts, flavors other than choc",
+    "alternative_names": [],
+    "description": "Ice crm cone, choc covered, w/ nuts, flavors other than choc from the USDA database."
+  },
+  "salad_drsng_sesame_sd_drsng_reg": {
+    "name": "Salad drsng, sesame sd drsng, reg",
+    "alternative_names": [],
+    "description": "Salad drsng, sesame sd drsng, reg from the USDA database."
+  },
+  "alfalfa_seeds_sprouted_raw": {
+    "name": "Alfalfa seeds, sprouted, raw",
+    "alternative_names": [],
+    "description": "Alfalfa seeds, sprouted, raw from the USDA database."
+  },
+  "lima_bns_immat_seeds_raw": {
+    "name": "Lima bns, immat seeds, raw",
+    "alternative_names": [],
+    "description": "Lima bns, immat seeds, raw from the USDA database."
+  },
+  "lima_bns_immat_seeds_ckd_bld_drnd_wosalt": {
+    "name": "Lima bns, immat seeds, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Lima bns, immat seeds, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "lima_bns_immat_seeds_frz_fordhook_unprep": {
+    "name": "Lima bns, immat seeds, frz, fordhook, unprep",
+    "alternative_names": [],
+    "description": "Lima bns, immat seeds, frz, fordhook, unprep from the USDA database."
+  },
+  "lima_bns_immat_seeds_frz_fordhook_ckd_bld_drn": {
+    "name": "Lima bns, immat seeds, frz, fordhook, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Lima bns, immat seeds, frz, fordhook, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "lima_bns_immat_seeds_frz_baby_ckd_bld_drnd_wo": {
+    "name": "Lima bns, immat seeds, frz, baby, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Lima bns, immat seeds, frz, baby, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "mung_bns_mature_seeds_sprouted_raw": {
+    "name": "Mung bns, mature seeds, sprouted, raw",
+    "alternative_names": [],
+    "description": "Mung bns, mature seeds, sprouted, raw from the USDA database."
+  },
+  "mung_bns_mature_seeds_sprouted_ckd_bld_drnd_w": {
+    "name": "Mung bns, mature seeds, sprouted, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Mung bns, mature seeds, sprouted, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "beans_shellie_cnd_sol_liquids": {
+    "name": "Beans, shellie, cnd, sol & liquids",
+    "alternative_names": [],
+    "description": "Beans, shellie, cnd, sol & liquids from the USDA database."
+  },
+  "beans_snap_green_raw": {
+    "name": "Beans, snap, green, raw",
+    "alternative_names": [],
+    "description": "Beans, snap, green, raw from the USDA database."
+  },
+  "beans_snap_grn_ckd_bld_drnd_wosalt": {
+    "name": "Beans, snap, grn, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Beans, snap, grn, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "beans_snap_grn_var_cnd_reg_pk_solliquids": {
+    "name": "Beans, snap, grn var, cnd, reg pk, sol&liquids",
+    "alternative_names": [],
+    "description": "Beans, snap, grn var, cnd, reg pk, sol&liquids from the USDA database."
+  },
+  "beans_snap_grn_cnd_reg_pk_drnd_sol": {
+    "name": "Beans, snap, grn, cnd, reg pk, drnd sol",
+    "alternative_names": [],
+    "description": "Beans, snap, grn, cnd, reg pk, drnd sol from the USDA database."
+  },
+  "beans_snap_grn_frz_all_styles_unprep": {
+    "name": "Beans, snap, grn, frz, all styles, unprep",
+    "alternative_names": [],
+    "description": "Beans, snap, grn, frz, all styles, unprep from the USDA database."
+  },
+  "beans_snap_grn_frz_ckd_bld_drnd_wosalt": {
+    "name": "Beans, snap, grn, frz, ckd, bld, drnd wo/salt",
+    "alternative_names": [],
+    "description": "Beans, snap, grn, frz, ckd, bld, drnd wo/salt from the USDA database."
+  },
+  "beans_snap_grn_frz_all_styles_microwaved": {
+    "name": "Beans, snap, grn, frz, all styles, microwaved",
+    "alternative_names": [],
+    "description": "Beans, snap, grn, frz, all styles, microwaved from the USDA database."
+  },
+  "cowpeas_immat_seeds_ckd_bld_drnd_wo_salt": {
+    "name": "Cowpeas (blackeyes), immat seeds, ckd, bld, drnd, wo/ salt",
+    "alternative_names": [],
+    "description": "Cowpeas (blackeyes), immat seeds, ckd, bld, drnd, wo/ salt from the USDA database."
+  },
+  "cowpeas_immtre_seeds_frz_ckd_bld_drnd_wosalt": {
+    "name": "Cowpeas (blackeyes), immtre seeds, frz, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Cowpeas (blackeyes), immtre seeds, frz, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "cowpeas_young_pods_wseeds_raw": {
+    "name": "Cowpeas, young pods w/seeds, raw",
+    "alternative_names": [],
+    "description": "Cowpeas, young pods w/seeds, raw from the USDA database."
+  },
+  "edamame_frz_unprep": {
+    "name": "Edamame, frz, unprep",
+    "alternative_names": [],
+    "description": "Edamame, frz, unprep from the USDA database."
+  },
+  "edamame_frz_prep": {
+    "name": "Edamame, frz, prep",
+    "alternative_names": [],
+    "description": "Edamame, frz, prep from the USDA database."
+  },
+  "hyacinth_beans_immat_seeds_raw": {
+    "name": "Hyacinth-beans, immat seeds, raw",
+    "alternative_names": [],
+    "description": "Hyacinth-beans, immat seeds, raw from the USDA database."
+  },
+  "peppers_hot_chili_grn_cnd_pods_excluding_seed": {
+    "name": "Peppers, hot chili, grn, cnd, pods, excluding seeds, sol&liquids",
+    "alternative_names": [],
+    "description": "Peppers, hot chili, grn, cnd, pods, excluding seeds, sol&liquids from the USDA database."
+  },
+  "pigeonpeas_immat_seeds_raw": {
+    "name": "Pigeonpeas, immat seeds, raw",
+    "alternative_names": [],
+    "description": "Pigeonpeas, immat seeds, raw from the USDA database."
+  },
+  "pigeonpeas_immat_seeds_ckd_bld_drnd_wosalt": {
+    "name": "Pigeonpeas, immat seeds, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Pigeonpeas, immat seeds, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "pumpkin_leaves_ckd_bld_drnd_wosalt": {
+    "name": "Pumpkin leaves, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Pumpkin leaves, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "pumpkin_raw": {
+    "name": "Pumpkin, raw",
+    "alternative_names": [],
+    "description": "Pumpkin, raw from the USDA database."
+  },
+  "pumpkin_ckd_bld_drnd_wosalt": {
+    "name": "Pumpkin, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Pumpkin, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "pumpkin_cnd_wosalt": {
+    "name": "Pumpkin, cnd, wo/salt",
+    "alternative_names": [],
+    "description": "Pumpkin, cnd, wo/salt from the USDA database."
+  },
+  "soybeans_mature_seeds_sprouted_ckd_stmd": {
+    "name": "Soybeans, mature seeds, sprouted, ckd, stmd",
+    "alternative_names": [],
+    "description": "Soybeans, mature seeds, sprouted, ckd, stmd from the USDA database."
+  },
+  "beans_mung_mature_seeds_sprouted_cnd_drnd_sol": {
+    "name": "Beans, mung, mature seeds, sprouted, cnd, drnd sol",
+    "alternative_names": [],
+    "description": "Beans, mung, mature seeds, sprouted, cnd, drnd sol from the USDA database."
+  },
+  "lima_bns_immat_seeds_ckd_bld_drnd_wsalt": {
+    "name": "Lima bns, immat seeds, ckd, bld, drnd, w/salt",
+    "alternative_names": [],
+    "description": "Lima bns, immat seeds, ckd, bld, drnd, w/salt from the USDA database."
+  },
+  "lima_bns_immat_seeds_cnd_no_salt_solliquids": {
+    "name": "Lima bns, immat seeds, cnd, no salt, sol&liquids",
+    "alternative_names": [],
+    "description": "Lima bns, immat seeds, cnd, no salt, sol&liquids from the USDA database."
+  },
+  "lima_bns_immat_seeds_frz_baby_ckd_bld_drnd_ws": {
+    "name": "Lima bns, immat seeds, frz, baby, ckd, bld, drnd, w/salt",
+    "alternative_names": [],
+    "description": "Lima bns, immat seeds, frz, baby, ckd, bld, drnd, w/salt from the USDA database."
+  },
+  "beans_snap_grn_ckd_bld_drnd_wsalt": {
+    "name": "Beans, snap, grn, ckd, bld, drnd, w/salt",
+    "alternative_names": [],
+    "description": "Beans, snap, grn, ckd, bld, drnd, w/salt from the USDA database."
+  },
+  "beans_snap_yel_ckd_bld_drnd_wosalt": {
+    "name": "Beans, snap, yel, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Beans, snap, yel, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "beans_snap_yel_ckd_bld_drnd_wsalt": {
+    "name": "Beans, snap, yel, ckd, bld, drnd, w/salt",
+    "alternative_names": [],
+    "description": "Beans, snap, yel, ckd, bld, drnd, w/salt from the USDA database."
+  },
+  "beans_snap_grn_cnd_no_salt_drnd_sol": {
+    "name": "Beans, snap, grn, cnd, no salt, drnd sol",
+    "alternative_names": [],
+    "description": "Beans, snap, grn, cnd, no salt, drnd sol from the USDA database."
+  },
+  "beans_snap_grn_frz_ckd_bld_drnd_wsalt": {
+    "name": "Beans, snap, grn, frz, ckd, bld, drnd, w/salt",
+    "alternative_names": [],
+    "description": "Beans, snap, grn, frz, ckd, bld, drnd, w/salt from the USDA database."
+  },
+  "beans_snap_yel_frz_ckd_bld_drnd_wosalt": {
+    "name": "Beans, snap, yel, frz, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Beans, snap, yel, frz, ckd, bld, drnd, wo/salt from the USDA database."
+  },
+  "beans_snap_yel_frz_ckd_bld_drnd_wsalt": {
+    "name": "Beans, snap, yel, frz, ckd, bld, drnd, w/salt",
+    "alternative_names": [],
+    "description": "Beans, snap, yel, frz, ckd, bld, drnd, w/salt from the USDA database."
+  },
+  "cowpeas_immat_seeds_frz_ckd_bld_drnd_w_salt": {
+    "name": "Cowpeas (blackeyes), immat seeds, frz, ckd, bld, drnd, w/ salt",
+    "alternative_names": [],
+    "description": "Cowpeas (blackeyes), immat seeds, frz, ckd, bld, drnd, w/ salt from the USDA database."
+  },
+  "peppers_hot_chili_red_cnd_excluding_seeds_sol": {
+    "name": "Peppers, hot chili, red, cnd, excluding seeds, sol&liquids",
+    "alternative_names": [],
+    "description": "Peppers, hot chili, red, cnd, excluding seeds, sol&liquids from the USDA database."
+  },
+  "pigeonpeas_immat_seeds_ckd_bld_drnd_wsalt": {
+    "name": "Pigeonpeas, immat seeds, ckd, bld, drnd, w/salt",
+    "alternative_names": [],
+    "description": "Pigeonpeas, immat seeds, ckd, bld, drnd, w/salt from the USDA database."
+  },
+  "pumpkin_ckd_bld_drnd_wsalt": {
+    "name": "Pumpkin, ckd, bld, drnd, w/salt",
+    "alternative_names": [],
+    "description": "Pumpkin, ckd, bld, drnd, w/salt from the USDA database."
+  },
+  "pumpkin_canned_with_salt": {
+    "name": "Pumpkin, canned, with salt",
+    "alternative_names": [],
+    "description": "Pumpkin, canned, with salt from the USDA database."
+  },
+  "pumpkin_leaves_ckd_bld_drnd_w_salt": {
+    "name": "Pumpkin leaves, ckd, bld, drnd, w/ salt",
+    "alternative_names": [],
+    "description": "Pumpkin leaves, ckd, bld, drnd, w/ salt from the USDA database."
+  },
+  "soybeans_mature_seeds_sprouted_ckd_stmd_wsalt": {
+    "name": "Soybeans, mature seeds, sprouted, ckd, stmd, w/salt",
+    "alternative_names": [],
+    "description": "Soybeans, mature seeds, sprouted, ckd, stmd, w/salt from the USDA database."
+  },
+  "beans_snap_yel_cnd_reg_pk_drnd_sol": {
+    "name": "Beans, snap, yel, cnd, reg pk, drnd sol",
+    "alternative_names": [],
+    "description": "Beans, snap, yel, cnd, reg pk, drnd sol from the USDA database."
+  },
+  "beans_snap_yel_cnd_no_salt_drnd_sol": {
+    "name": "Beans, snap, yel, cnd, no salt, drnd sol",
+    "alternative_names": [],
+    "description": "Beans, snap, yel, cnd, no salt, drnd sol from the USDA database."
+  },
+  "beans_fava_in_pod_raw": {
+    "name": "Beans, fava, in pod, raw",
+    "alternative_names": [],
+    "description": "Beans, fava, in pod, raw from the USDA database."
+  },
+  "sunflower_sd_krnls_dry_rstd_wosalt": {
+    "name": "Sunflower sd krnls, dry rstd, wo/salt",
+    "alternative_names": [],
+    "description": "Sunflower sd krnls, dry rstd, wo/salt from the USDA database."
+  },
+  "cashew_nuts_dry_rstd_wosalt": {
+    "name": "Cashew nuts, dry rstd, wo/salt",
+    "alternative_names": [],
+    "description": "Cashew nuts, dry rstd, wo/salt from the USDA database."
+  },
+  "nuts_cashew_nuts_raw": {
+    "name": "Nuts, cashew nuts, raw",
+    "alternative_names": [],
+    "description": "Nuts, cashew nuts, raw from the USDA database."
+  },
+  "nuts_cocnt_crm_cnd_swtnd": {
+    "name": "Nuts, cocnt crm, cnd, swtnd",
+    "alternative_names": [],
+    "description": "Nuts, cocnt crm, cnd, swtnd from the USDA database."
+  },
+  "hazelnuts_or_filberts": {
+    "name": "Hazelnuts or filberts",
+    "alternative_names": [],
+    "description": "Hazelnuts or filberts from the USDA database."
+  },
+  "nuts_pine_nuts_dried": {
+    "name": "Nuts, pine nuts, dried",
+    "alternative_names": [],
+    "description": "Nuts, pine nuts, dried from the USDA database."
+  },
+  "pistachio_nuts_dry_rstd_wosalt": {
+    "name": "Pistachio nuts, dry rstd, wo/salt",
+    "alternative_names": [],
+    "description": "Pistachio nuts, dry rstd, wo/salt from the USDA database."
+  },
+  "seeds_flaxseed": {
+    "name": "Seeds, flaxseed",
+    "alternative_names": [],
+    "description": "Seeds, flaxseed from the USDA database."
+  },
+  "sunflower_sd_krnls_dry_rstd_wsalt": {
+    "name": "Sunflower sd krnls, dry rstd, w/salt",
+    "alternative_names": [],
+    "description": "Sunflower sd krnls, dry rstd, w/salt from the USDA database."
+  },
+  "cashew_nuts_dry_rstd_wsalt": {
+    "name": "Cashew nuts, dry rstd, w/salt",
+    "alternative_names": [],
+    "description": "Cashew nuts, dry rstd, w/salt from the USDA database."
+  },
+  "mixed_nuts_dry_rstd_wpnuts_wsalt": {
+    "name": "Mixed nuts, dry rstd, w/pnuts, w/salt",
+    "alternative_names": [],
+    "description": "Mixed nuts, dry rstd, w/pnuts, w/salt from the USDA database."
+  },
+  "pistachio_nuts_dry_rstd_wsalt": {
+    "name": "Pistachio nuts, dry rstd, w/salt",
+    "alternative_names": [],
+    "description": "Pistachio nuts, dry rstd, w/salt from the USDA database."
+  },
+  "horchata_dry_mix_unprep_var_of_brands_all_w_m": {
+    "name": "Horchata, dry mix, unprep, var of brands, all w/ morro seeds",
+    "alternative_names": [],
+    "description": "Horchata, dry mix, unprep, var of brands, all w/ morro seeds from the USDA database."
+  },
+  "beans_bkd_cnd_pln_or_vegetarian": {
+    "name": "Beans, bkd, cnd, pln or vegetarian",
+    "alternative_names": [],
+    "description": "Beans, bkd, cnd, pln or vegetarian from the USDA database."
+  },
+  "beans_bkd_cnd_wfranks": {
+    "name": "Beans, bkd, cnd, w/franks",
+    "alternative_names": [],
+    "description": "Beans, bkd, cnd, w/franks from the USDA database."
+  },
+  "beans_black_turtle_mature_seeds_raw": {
+    "name": "Beans, black turtle, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Beans, black turtle, mature seeds, raw from the USDA database."
+  },
+  "beans_black_turtle_mature_seeds_ckd_bld_wo_sa": {
+    "name": "Beans, black turtle, mature seeds, ckd, bld, wo/ salt",
+    "alternative_names": [],
+    "description": "Beans, black turtle, mature seeds, ckd, bld, wo/ salt from the USDA database."
+  },
+  "beans_great_northern_mature_seeds_raw": {
+    "name": "Beans, great northern, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Beans, great northern, mature seeds, raw from the USDA database."
+  },
+  "beans_kidney_all_types_mature_seeds_raw": {
+    "name": "Beans, kidney, all types, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Beans, kidney, all types, mature seeds, raw from the USDA database."
+  },
+  "beans_kidney_all_types_mature_seeds_ckd_bld_w": {
+    "name": "Beans, kidney, all types, mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Beans, kidney, all types, mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "beans_kidney_all_types_mature_seeds_cnd": {
+    "name": "Beans, kidney, all types, mature seeds, cnd",
+    "alternative_names": [],
+    "description": "Beans, kidney, all types, mature seeds, cnd from the USDA database."
+  },
+  "beans_kidney_red_mature_seeds_raw": {
+    "name": "Beans, kidney, red, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Beans, kidney, red, mature seeds, raw from the USDA database."
+  },
+  "beans_kidney_red_mature_seeds_ckd_bld_wosalt": {
+    "name": "Beans, kidney, red, mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Beans, kidney, red, mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "beans_kidney_red_mature_seeds_cnd_sol_liquids": {
+    "name": "Beans, kidney, red, mature seeds, cnd, sol & liquids",
+    "alternative_names": [],
+    "description": "Beans, kidney, red, mature seeds, cnd, sol & liquids from the USDA database."
+  },
+  "beans_navy_mature_seeds_raw": {
+    "name": "Beans, navy, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Beans, navy, mature seeds, raw from the USDA database."
+  },
+  "beans_navy_mature_seeds_ckd_bld_wosalt": {
+    "name": "Beans, navy, mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Beans, navy, mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "beans_navy_mature_seeds_cnd": {
+    "name": "Beans, navy, mature seeds, cnd",
+    "alternative_names": [],
+    "description": "Beans, navy, mature seeds, cnd from the USDA database."
+  },
+  "beans_pink_mature_seeds_ckd_bld_wosalt": {
+    "name": "Beans, pink, mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Beans, pink, mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "beans_pinto_mature_seeds_raw": {
+    "name": "Beans, pinto, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Beans, pinto, mature seeds, raw from the USDA database."
+  },
+  "beans_pinto_mature_seeds_ckd_bld_wosalt": {
+    "name": "Beans, pinto, mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Beans, pinto, mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "beans_pinto_mature_seeds_cnd_sol_liquids": {
+    "name": "Beans, pinto, mature seeds, cnd, sol & liquids",
+    "alternative_names": [],
+    "description": "Beans, pinto, mature seeds, cnd, sol & liquids from the USDA database."
+  },
+  "beans_white_mature_seeds_raw": {
+    "name": "Beans, white, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Beans, white, mature seeds, raw from the USDA database."
+  },
+  "beans_white_mature_seeds_ckd_bld_wosalt": {
+    "name": "Beans, white, mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Beans, white, mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "beans_white_mature_seeds_cnd": {
+    "name": "Beans, white, mature seeds, cnd",
+    "alternative_names": [],
+    "description": "Beans, white, mature seeds, cnd from the USDA database."
+  },
+  "broadbeans_mature_seeds_raw": {
+    "name": "Broadbeans (fava beans), mature seeds, raw",
+    "alternative_names": [],
+    "description": "Broadbeans (fava beans), mature seeds, raw from the USDA database."
+  },
+  "broadbeans_mature_seeds_ckd_bld_wosalt": {
+    "name": "Broadbeans (fava bns), mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Broadbeans (fava bns), mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "chickpeas_mature_seeds_raw": {
+    "name": "Chickpeas (garbanzo bns, bengal gm), mature seeds, raw",
+    "alternative_names": [],
+    "description": "Chickpeas (garbanzo bns, bengal gm), mature seeds, raw from the USDA database."
+  },
+  "chickpeas_mature_seeds_ckd_bld_wosalt": {
+    "name": "Chickpeas , mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Chickpeas , mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "chili_with_beans_canned": {
+    "name": "Chili with beans, canned",
+    "alternative_names": [],
+    "description": "Chili with beans, canned from the USDA database."
+  },
+  "cowpeas_common_mtre_seeds_raw": {
+    "name": "Cowpeas, common (blackeyes, crowder, southern), mtre seeds, raw",
+    "alternative_names": [],
+    "description": "Cowpeas, common (blackeyes, crowder, southern), mtre seeds, raw from the USDA database."
+  },
+  "cowpeas_common_mture_ckd_bld_wosalt": {
+    "name": "Cowpeas, common (blkeyes, crwdr, sthrn), mture, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Cowpeas, common (blkeyes, crwdr, sthrn), mture, ckd, bld, wo/salt from the USDA database."
+  },
+  "lentils_raw": {
+    "name": "Lentils, raw",
+    "alternative_names": [],
+    "description": "Lentils, raw from the USDA database."
+  },
+  "lentils_mature_seeds_ckd_bld_wosalt": {
+    "name": "Lentils, mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Lentils, mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "lima_bns_lrg_mature_seeds_raw": {
+    "name": "Lima bns, lrg, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Lima bns, lrg, mature seeds, raw from the USDA database."
+  },
+  "lima_bns_lrg_mature_seeds_ckd_bld_wosalt": {
+    "name": "Lima bns, lrg, mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Lima bns, lrg, mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "lima_bns_thin_seeded_mature_seeds_raw": {
+    "name": "Lima bns, thin seeded (baby), mature seeds, raw",
+    "alternative_names": [],
+    "description": "Lima bns, thin seeded (baby), mature seeds, raw from the USDA database."
+  },
+  "mung_bns_mature_seeds_raw": {
+    "name": "Mung bns, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Mung bns, mature seeds, raw from the USDA database."
+  },
+  "mung_bns_mature_seeds_ckd_bld_wosalt": {
+    "name": "Mung bns, mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Mung bns, mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "mungo_bns_mature_seeds_ckd_bld_wosalt": {
+    "name": "Mungo bns, mature seeds, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Mungo bns, mature seeds, ckd, bld, wo/salt from the USDA database."
+  },
+  "soybeans_mature_seeds_raw": {
+    "name": "Soybeans, mature seeds, raw",
+    "alternative_names": [],
+    "description": "Soybeans, mature seeds, raw from the USDA database."
+  },
+  "soybeans_mature_ckd_bld_wosalt": {
+    "name": "Soybeans, mature ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Soybeans, mature ckd, bld, wo/salt from the USDA database."
+  },
+  "soybeans_mature_seeds_rstd_salted": {
+    "name": "Soybeans, mature seeds, rstd, salted",
+    "alternative_names": [],
+    "description": "Soybeans, mature seeds, rstd, salted from the USDA database."
+  },
+  "soybeans_mature_seeds_dry_rstd": {
+    "name": "Soybeans, mature seeds, dry rstd",
+    "alternative_names": [],
+    "description": "Soybeans, mature seeds, dry rstd from the USDA database."
+  },
+  "beans_black_turtle_mature_seeds_ckd_bld_w_sal": {
+    "name": "Beans, black turtle, mature seeds, ckd, bld, w/ salt",
+    "alternative_names": [],
+    "description": "Beans, black turtle, mature seeds, ckd, bld, w/ salt from the USDA database."
+  },
+  "beans_kidney_red_mature_seeds_ckd_bld_wsalt": {
+    "name": "Beans, kidney, red, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Beans, kidney, red, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "beans_navy_mature_seeds_ckd_bld_wsalt": {
+    "name": "Beans, navy, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Beans, navy, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "beans_pink_mature_seeds_ckd_bld_wsalt": {
+    "name": "Beans, pink, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Beans, pink, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "beans_pinto_mature_seeds_ckd_bld_wsalt": {
+    "name": "Beans, pinto, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Beans, pinto, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "beans_white_mature_seeds_ckd_bld_w_salt": {
+    "name": "Beans, white, mature seeds, ckd, bld, w/ salt",
+    "alternative_names": [],
+    "description": "Beans, white, mature seeds, ckd, bld, w/ salt from the USDA database."
+  },
+  "broadbeans_mature_seeds_ckd_bld_wsalt": {
+    "name": "Broadbeans (fava bns), mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Broadbeans (fava bns), mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "chickpeas_mature_seeds_ckd_bld_wsalt": {
+    "name": "Chickpeas, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Chickpeas, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "cowpeas_common_mature_seeds_ckd_bld_wsalt": {
+    "name": "Cowpeas, common, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Cowpeas, common, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "lentils_mature_seeds_ckd_bld_wsalt": {
+    "name": "Lentils, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Lentils, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "lima_bns_lrg_mature_seeds_ckd_bld_wsalt": {
+    "name": "Lima bns, lrg, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Lima bns, lrg, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "mung_bns_mature_seeds_ckd_bld_wsalt": {
+    "name": "Mung bns, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Mung bns, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "mungo_bns_mature_seeds_ckd_bld_wsalt": {
+    "name": "Mungo bns, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Mungo bns, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "soybeans_mature_seeds_ckd_bld_wsalt": {
+    "name": "Soybeans, mature seeds, ckd, bld, w/salt",
+    "alternative_names": [],
+    "description": "Soybeans, mature seeds, ckd, bld, w/salt from the USDA database."
+  },
+  "toppings_nuts_in_syrup": {
+    "name": "Toppings, nuts in syrup",
+    "alternative_names": [],
+    "description": "Toppings, nuts in syrup from the USDA database."
+  },
+  "beans_chili_barbecue_ranch_style_ckd": {
+    "name": "Beans, chili, barbecue, ranch style, ckd",
+    "alternative_names": [],
+    "description": "Beans, chili, barbecue, ranch style, ckd from the USDA database."
+  },
+  "beans_bkd_cnd_no_salt_added": {
+    "name": "Beans, bkd, cnd, no salt added",
+    "alternative_names": [],
+    "description": "Beans, bkd, cnd, no salt added from the USDA database."
+  },
+  "ice_crm_bar_choc_or_caramel_covered_wnuts": {
+    "name": "Ice crm bar, choc or caramel covered, w/nuts",
+    "alternative_names": [],
+    "description": "Ice crm bar, choc or caramel covered, w/nuts from the USDA database."
+  }
+}

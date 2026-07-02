@@ -1,0 +1,729 @@
+{
+  "beans_black_mature_seeds_raw": {
+    "name": "Fazuľa, čierna, zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Fazuľa, čierna, zrelé semená, surové podľa databázy USDA."
+  },
+  "beans_black_turtle_mature_seeds_canned": {
+    "name": "Fazuľa, čierna korytnačka, zrelé semená, konzervy",
+    "alternative_names": [],
+    "description": "Fazuľa, čierna korytnačka, zrelé semená, konzervy podľa databázy USDA."
+  },
+  "beans_black_turtle_mature_seeds_cooked_b": {
+    "name": "Fazuľa, čierna korytnačka, zrelé semená, varené, varené, bez",
+    "alternative_names": [],
+    "description": "Fazuľa, čierna korytnačka, zrelé semená, varené, varené, bez podľa databázy USDA."
+  },
+  "beans_pink_mature_seeds_raw": {
+    "name": "Fazuľa, ružová, zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Fazuľa, ružová, zrelé semená, surové podľa databázy USDA."
+  },
+  "beans_snap_green_frozen_cooked_boiled_dr": {
+    "name": "Fazuľa, lusk, zelená, mrazená, varená, varená, scedená bez",
+    "alternative_names": [],
+    "description": "Fazuľa, lusk, zelená, mrazená, varená, varená, scedená bez podľa databázy USDA."
+  },
+  "cashews_raw": {
+    "name": "Kešu orechy, surové",
+    "alternative_names": [
+      "kešu",
+      "surové kešu"
+    ],
+    "description": "Surové kešu orechy, obsahujúce stredné množstvo vitamínu K1."
+  },
+  "cowpeas_immature_seeds_cooked_boiled_dra": {
+    "name": "Cowpeas (blackeyes), nezrelé semená, varené, varené, scedené, bez soli",
+    "alternative_names": [],
+    "description": "Cowpeas (blackeyes), nezrelé semená, varené, varené, scedené, bez soli podľa databázy USDA."
+  },
+  "cowpeas_immature_seeds_frozen_cooked_boi": {
+    "name": "Cowpeas (blackeyes), nezrelé semená, mrazené, varené, varené, scedené, bez soli",
+    "alternative_names": [],
+    "description": "Cowpeas (blackeyes), nezrelé semená, mrazené, varené, varené, scedené, bez soli podľa databázy USDA."
+  },
+  "edamame_frozen": {
+    "name": "Edamame, mrazené",
+    "alternative_names": [
+      "zelené sójové bôby",
+      "mrazené edamame"
+    ],
+    "description": "Mrazené nezrelé sójové bôby, obsahujúce stredné množstvo vitamínu K1."
+  },
+  "edamame_frozen_unprepared": {
+    "name": "Edamame, zmrazené, nepripravené",
+    "alternative_names": [],
+    "description": "Edamame, zmrazené, nepripravené podľa databázy USDA."
+  },
+  "lima_beans_immature_seeds_cooked_boiled": {
+    "name": "Lima fazuľa, nezrelé semená, varené, varené, scedené,",
+    "alternative_names": [],
+    "description": "Lima fazuľa, nezrelé semená, varené, varené, scedené, podľa databázy USDA."
+  },
+  "lima_beans_immature_seeds_frozen_baby_co": {
+    "name": "Lima fazuľa, nezrelé semená, mrazené, baby, varené, varené, scedené, bez soli",
+    "alternative_names": [],
+    "description": "Lima fazuľa, nezrelé semená, mrazené, baby, varené, varené, scedené, bez soli podľa databázy USDA."
+  },
+  "lima_beans_immature_seeds_frozen_fordhoo": {
+    "name": "Lima fazuľa, nezrelé semená, mrazené, fordhook, nepripravené",
+    "alternative_names": [],
+    "description": "Lima fazuľa, nezrelé semená, mrazené, fordhook, nepripravené podľa databázy USDA."
+  },
+  "mung_beans_mature_seeds_sprouted_cooked": {
+    "name": "Fazuľa mungo, zrelé semená, naklíčené, varené, varené, scedené, bez soli",
+    "alternative_names": [],
+    "description": "Fazuľa mungo, zrelé semená, naklíčené, varené, varené, scedené, bez soli podľa databázy USDA."
+  },
+  "nuts_coconut_meat_dried_not_sweetened": {
+    "name": "Orechy, kokosové mäso, sušené (sušené), nesladené",
+    "alternative_names": [],
+    "description": "Orechy, kokosové mäso, sušené (sušené), nesladené podľa databázy USDA."
+  },
+  "nuts_hazelnuts_or_filberts": {
+    "name": "Orechy, lieskové orechy alebo filbert",
+    "alternative_names": [],
+    "description": "Orechy, lieskové orechy alebo filbert podľa databázy USDA."
+  },
+  "pumpkin_seeds_roasted": {
+    "name": "Tekvicové semená, pražené",
+    "alternative_names": [
+      "tekvicové semiačka",
+      "pražené tekvicové semienka"
+    ],
+    "description": "Pražené tekvicové semená (lúpané), dobrý semenný zdroj vitamínu K1."
+  },
+  "soybean_sprouts_cooked": {
+    "name": "Sójové klíčky, varené",
+    "alternative_names": [
+      "varené sójové klíčky",
+      "parené sójové klíčky"
+    ],
+    "description": "Varené naklíčené sójové bôby, obsahujúce stredné množstvo vitamínu K1."
+  },
+  "soybeans_mature_seeds_sprouted_cooked_st": {
+    "name": "Sójové bôby, zrelé semená, naklíčené, varené, dusené",
+    "alternative_names": [],
+    "description": "Sójové bôby, zrelé semená, naklíčené, varené, dusené podľa databázy USDA."
+  },
+  "ice_crm_cone_choc_covered_w_nuts_flavors_othe": {
+    "name": "Zmrzlinový kornút, posypaný čokoládou, s orechmi, s príchuťami okrem čokolády",
+    "alternative_names": [],
+    "description": "Zmrzlinový kornút, posypaný čokoládou, s orechmi, s príchuťami okrem čokolády z databázy USDA."
+  },
+  "salad_drsng_sesame_sd_drsng_reg": {
+    "name": "Šalát drsng, sezam sd drsng, reg",
+    "alternative_names": [],
+    "description": "Šalát drsng, sezam sd drsng, reg z databázy USDA."
+  },
+  "alfalfa_seeds_sprouted_raw": {
+    "name": "Semená lucerny, naklíčené, surové",
+    "alternative_names": [],
+    "description": "Semená lucerny, naklíčené, surové z databázy USDA."
+  },
+  "lima_bns_immat_seeds_raw": {
+    "name": "Lima bns, immat semená, surové",
+    "alternative_names": [],
+    "description": "Lima bns, immat semená, surové z databázy USDA."
+  },
+  "lima_bns_immat_seeds_ckd_bld_drnd_wosalt": {
+    "name": "Lima bns, immat semená, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Lima bns, immat semená, ckd, bld, drnd, wo/salt z databázy USDA."
+  },
+  "lima_bns_immat_seeds_frz_fordhook_unprep": {
+    "name": "Lima bns, semená immat, frz, fordhook, neupravené",
+    "alternative_names": [],
+    "description": "Lima bns, semená immat, frz, fordhook, neupravené z databázy USDA."
+  },
+  "lima_bns_immat_seeds_frz_fordhook_ckd_bld_drn": {
+    "name": "Lima bns, immat semená, frz, fordhook, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Lima bns, immat semená, frz, fordhook, ckd, bld, drnd, wo/salt z databázy USDA."
+  },
+  "lima_bns_immat_seeds_frz_baby_ckd_bld_drnd_wo": {
+    "name": "Lima bns, immat semená, frz, baby, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Lima bns, immat semená, frz, baby, ckd, bld, drnd, wo/salt z databázy USDA."
+  },
+  "mung_bns_mature_seeds_sprouted_raw": {
+    "name": "Mung bns, zrelé semená, naklíčené, surové",
+    "alternative_names": [],
+    "description": "Mung bns, zrelé semená, naklíčené, surové z databázy USDA."
+  },
+  "mung_bns_mature_seeds_sprouted_ckd_bld_drnd_w": {
+    "name": "Mung bns, zrelé semená, naklíčené, ckd, bld, drnd, wo/salt",
+    "alternative_names": [],
+    "description": "Mung bns, zrelé semená, naklíčené, ckd, bld, drnd, wo/salt z databázy USDA."
+  },
+  "beans_shellie_cnd_sol_liquids": {
+    "name": "Fazuľa, lastúra, cnd, sol & tekutiny",
+    "alternative_names": [],
+    "description": "Fazuľa, lastúra, cnd, sol & tekutiny z databázy USDA."
+  },
+  "beans_snap_green_raw": {
+    "name": "Fazuľa, lusk, zelená, surová",
+    "alternative_names": [],
+    "description": "Fazuľa, lusk, zelená, surová z databázy USDA."
+  },
+  "beans_snap_grn_ckd_bld_drnd_wosalt": {
+    "name": "Fazuľa, lusk, grn, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Fazuľa, lusk, grn, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "beans_snap_grn_var_cnd_reg_pk_solliquids": {
+    "name": "Fazuľa, snap, grn var, cnd, reg pk, sol&tekutiny",
+    "alternative_names": [],
+    "description": "Fazuľa, snap, grn var, cnd, reg pk, sol&tekutiny z databázy USDA."
+  },
+  "beans_snap_grn_cnd_reg_pk_drnd_sol": {
+    "name": "Fazuľa, snap, grn, cnd, reg pk, drnd sol",
+    "alternative_names": [],
+    "description": "Fazuľa, snap, grn, cnd, reg pk, drnd sol z databázy USDA."
+  },
+  "beans_snap_grn_frz_all_styles_unprep": {
+    "name": "Beans, snap, grn, frz, all styles, unprep",
+    "alternative_names": [],
+    "description": "Beans, snap, grn, frz, all styles, unprep z databázy USDA."
+  },
+  "beans_snap_grn_frz_ckd_bld_drnd_wosalt": {
+    "name": "Fazuľa, lusk, grn, frz, ckd, bld, drnd wo/soľ",
+    "alternative_names": [],
+    "description": "Fazuľa, lusk, grn, frz, ckd, bld, drnd wo/soľ z databázy USDA."
+  },
+  "beans_snap_grn_frz_all_styles_microwaved": {
+    "name": "Fazuľa, snap, grn, frz, všetky štýly, mikrovlnné",
+    "alternative_names": [],
+    "description": "Fazuľa, snap, grn, frz, všetky štýly, mikrovlnné z databázy USDA."
+  },
+  "cowpeas_immat_seeds_ckd_bld_drnd_wo_salt": {
+    "name": "Cowpeas (blackeyes), immat semená, ckd, bld, drnd, wo/ soľ",
+    "alternative_names": [],
+    "description": "Cowpeas (blackeyes), immat semená, ckd, bld, drnd, wo/ soľ z databázy USDA."
+  },
+  "cowpeas_immtre_seeds_frz_ckd_bld_drnd_wosalt": {
+    "name": "Cowpeas (blackeyes), immtre semená, frz, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Cowpeas (blackeyes), immtre semená, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "cowpeas_young_pods_wseeds_raw": {
+    "name": "Cowpeas, mladé struky so semenami, surové",
+    "alternative_names": [],
+    "description": "Cowpeas, mladé struky so semenami, surové z databázy USDA."
+  },
+  "edamame_frz_unprep": {
+    "name": "Edamame, frz, nepripravený",
+    "alternative_names": [],
+    "description": "Edamame, frz, nepripravený z databázy USDA."
+  },
+  "edamame_frz_prep": {
+    "name": "Edamame, frz, príprava",
+    "alternative_names": [],
+    "description": "Edamame, frz, príprava z databázy USDA."
+  },
+  "hyacinth_beans_immat_seeds_raw": {
+    "name": "Fazuľa hyacintová, semená immat, surové",
+    "alternative_names": [],
+    "description": "Fazuľa hyacintová, semená immat, surové z databázy USDA."
+  },
+  "peppers_hot_chili_grn_cnd_pods_excluding_seed": {
+    "name": "Papriky, pálivé čili, zelené, cnd, struky, okrem semien, sól a kvapalín",
+    "alternative_names": [],
+    "description": "Papriky, pálivé čili, zelené, cnd, struky, okrem semien, sól a kvapalín z databázy USDA."
+  },
+  "pigeonpeas_immat_seeds_raw": {
+    "name": "Hrach obyčajný, semená immat, surové",
+    "alternative_names": [],
+    "description": "Hrach obyčajný, semená immat, surové z databázy USDA."
+  },
+  "pigeonpeas_immat_seeds_ckd_bld_drnd_wosalt": {
+    "name": "Pigeonpeas, immat semená, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Pigeonpeas, immat semená, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "pumpkin_leaves_ckd_bld_drnd_wosalt": {
+    "name": "Tekvicové listy, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Tekvicové listy, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "pumpkin_raw": {
+    "name": "Tekvica, surová",
+    "alternative_names": [],
+    "description": "Tekvica, surová z databázy USDA."
+  },
+  "pumpkin_ckd_bld_drnd_wosalt": {
+    "name": "Tekvica, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Tekvica, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "pumpkin_cnd_wosalt": {
+    "name": "Tekvica, cnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Tekvica, cnd, wo/soľ z databázy USDA."
+  },
+  "soybeans_mature_seeds_sprouted_ckd_stmd": {
+    "name": "Sójové bôby, zrelé semená, naklíčené, ckd, stmd",
+    "alternative_names": [],
+    "description": "Sójové bôby, zrelé semená, naklíčené, ckd, stmd z databázy USDA."
+  },
+  "beans_mung_mature_seeds_sprouted_cnd_drnd_sol": {
+    "name": "Fazuľa, mungo, zrelé semená, naklíčené, cnd, drnd sol",
+    "alternative_names": [],
+    "description": "Fazuľa, mungo, zrelé semená, naklíčené, cnd, drnd sol z databázy USDA."
+  },
+  "lima_bns_immat_seeds_ckd_bld_drnd_wsalt": {
+    "name": "Lima bns, immat semená, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Lima bns, immat semená, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "lima_bns_immat_seeds_cnd_no_salt_solliquids": {
+    "name": "Lima bns, immat semená, cnd, bez soli, sól a tekutín",
+    "alternative_names": [],
+    "description": "Lima bns, immat semená, cnd, bez soli, sól a tekutín z databázy USDA."
+  },
+  "lima_bns_immat_seeds_frz_baby_ckd_bld_drnd_ws": {
+    "name": "Lima bns, immat semená, frz, baby, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Lima bns, immat semená, frz, baby, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "beans_snap_grn_ckd_bld_drnd_wsalt": {
+    "name": "Fazuľa, lusk, grn, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Fazuľa, lusk, grn, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "beans_snap_yel_ckd_bld_drnd_wosalt": {
+    "name": "Fazuľa, lusk, yel, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Fazuľa, lusk, yel, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "beans_snap_yel_ckd_bld_drnd_wsalt": {
+    "name": "Fazuľa, lusk, yel, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Fazuľa, lusk, yel, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "beans_snap_grn_cnd_no_salt_drnd_sol": {
+    "name": "Fazuľa, snap, grn, cnd, no salt, drnd sol",
+    "alternative_names": [],
+    "description": "Fazuľa, snap, grn, cnd, no salt, drnd sol z databázy USDA."
+  },
+  "beans_snap_grn_frz_ckd_bld_drnd_wsalt": {
+    "name": "Fazuľa, snap, grn, frz, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Fazuľa, snap, grn, frz, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "beans_snap_yel_frz_ckd_bld_drnd_wosalt": {
+    "name": "Fazuľa, lusk, yel, frz, ckd, bld, drnd, wo/soľ",
+    "alternative_names": [],
+    "description": "Fazuľa, lusk, yel, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+  },
+  "beans_snap_yel_frz_ckd_bld_drnd_wsalt": {
+    "name": "Fazuľa, lusk, yel, frz, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Fazuľa, lusk, yel, frz, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "cowpeas_immat_seeds_frz_ckd_bld_drnd_w_salt": {
+    "name": "Cowpeas (blackeyes), immat semená, frz, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Cowpeas (blackeyes), immat semená, frz, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "peppers_hot_chili_red_cnd_excluding_seeds_sol": {
+    "name": "Paprika, pálivá čili, červená, cnd, okrem semien, sóla a kvapalín",
+    "alternative_names": [],
+    "description": "Paprika, pálivá čili, červená, cnd, okrem semien, sóla a kvapalín z databázy USDA."
+  },
+  "pigeonpeas_immat_seeds_ckd_bld_drnd_wsalt": {
+    "name": "Pigeonpeas, immat semená, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Pigeonpeas, immat semená, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "pumpkin_ckd_bld_drnd_wsalt": {
+    "name": "Tekvica, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Tekvica, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "pumpkin_canned_with_salt": {
+    "name": "Tekvica, konzervovaná, so soľou",
+    "alternative_names": [],
+    "description": "Tekvica, konzervovaná, so soľou z databázy USDA."
+  },
+  "pumpkin_leaves_ckd_bld_drnd_w_salt": {
+    "name": "Tekvicové listy, ckd, bld, drnd, so soľou",
+    "alternative_names": [],
+    "description": "Tekvicové listy, ckd, bld, drnd, so soľou z databázy USDA."
+  },
+  "soybeans_mature_seeds_sprouted_ckd_stmd_wsalt": {
+    "name": "Sójové bôby, zrelé semená, naklíčené, ckd, stmd, so soľou",
+    "alternative_names": [],
+    "description": "Sójové bôby, zrelé semená, naklíčené, ckd, stmd, so soľou z databázy USDA."
+  },
+  "beans_snap_yel_cnd_reg_pk_drnd_sol": {
+    "name": "Fazuľa, snap, yel, cnd, reg pk, drnd sol",
+    "alternative_names": [],
+    "description": "Fazuľa, snap, yel, cnd, reg pk, drnd sol z databázy USDA."
+  },
+  "beans_snap_yel_cnd_no_salt_drnd_sol": {
+    "name": "Fazuľa, lusk, yel, cnd, bez soli, drnd sol",
+    "alternative_names": [],
+    "description": "Fazuľa, lusk, yel, cnd, bez soli, drnd sol z databázy USDA."
+  },
+  "beans_fava_in_pod_raw": {
+    "name": "Fazuľa, fava, v strukoch, surová",
+    "alternative_names": [],
+    "description": "Fazuľa, fava, v strukoch, surová z databázy USDA."
+  },
+  "sunflower_sd_krnls_dry_rstd_wosalt": {
+    "name": "Slnečnica sd krnls, suchá rstd, w/soľ",
+    "alternative_names": [],
+    "description": "Slnečnica sd krnls, suchá rstd, w/soľ z databázy USDA."
+  },
+  "cashew_nuts_dry_rstd_wosalt": {
+    "name": "Kešu orechy, suché, so soľou",
+    "alternative_names": [],
+    "description": "Kešu orechy, suché, so soľou z databázy USDA."
+  },
+  "nuts_cashew_nuts_raw": {
+    "name": "Orechy, kešu orechy, surové",
+    "alternative_names": [],
+    "description": "Orechy, kešu orechy, surové z databázy USDA."
+  },
+  "nuts_cocnt_crm_cnd_swtnd": {
+    "name": "Orechy, cocnt crm, cnd, swtnd",
+    "alternative_names": [],
+    "description": "Orechy, cocnt crm, cnd, swtnd z databázy USDA."
+  },
+  "hazelnuts_or_filberts": {
+    "name": "Lieskové orechy alebo filbert",
+    "alternative_names": [],
+    "description": "Lieskové orechy alebo filbert z databázy USDA."
+  },
+  "nuts_pine_nuts_dried": {
+    "name": "Orechy, píniové oriešky, sušené",
+    "alternative_names": [],
+    "description": "Orechy, píniové oriešky, sušené z databázy USDA."
+  },
+  "pistachio_nuts_dry_rstd_wosalt": {
+    "name": "Pistáciové oriešky, suché, so soľou",
+    "alternative_names": [],
+    "description": "Pistáciové oriešky, suché, so soľou z databázy USDA."
+  },
+  "seeds_flaxseed": {
+    "name": "Semená, ľanové semienko",
+    "alternative_names": [],
+    "description": "Semená, ľanové semienko z databázy USDA."
+  },
+  "sunflower_sd_krnls_dry_rstd_wsalt": {
+    "name": "Slnečnica sd krnls, suchá rstd, so soľou",
+    "alternative_names": [],
+    "description": "Slnečnica sd krnls, suchá rstd, so soľou z databázy USDA."
+  },
+  "cashew_nuts_dry_rstd_wsalt": {
+    "name": "Kešu orechy, suché, so soľou",
+    "alternative_names": [],
+    "description": "Kešu orechy, suché, so soľou z databázy USDA."
+  },
+  "mixed_nuts_dry_rstd_wpnuts_wsalt": {
+    "name": "Miešané orechy, suché, s orechmi, so soľou",
+    "alternative_names": [],
+    "description": "Miešané orechy, suché, s orechmi, so soľou z databázy USDA."
+  },
+  "pistachio_nuts_dry_rstd_wsalt": {
+    "name": "Pistáciové oriešky, suché, so soľou",
+    "alternative_names": [],
+    "description": "Pistáciové oriešky, suché, so soľou z databázy USDA."
+  },
+  "horchata_dry_mix_unprep_var_of_brands_all_w_m": {
+    "name": "Horchata, suchá zmes, nepripravená, var značiek, všetko s morro semenami",
+    "alternative_names": [],
+    "description": "Horchata, suchá zmes, nepripravená, var značiek, všetko s morro semenami z databázy USDA."
+  },
+  "beans_bkd_cnd_pln_or_vegetarian": {
+    "name": "Fazuľa, bkd, cnd, pln alebo vegetariánska",
+    "alternative_names": [],
+    "description": "Fazuľa, bkd, cnd, pln alebo vegetariánska z databázy USDA."
+  },
+  "beans_bkd_cnd_wfranks": {
+    "name": "Fazuľa, bkd, cnd, w/franks",
+    "alternative_names": [],
+    "description": "Fazuľa, bkd, cnd, w/franks z databázy USDA."
+  },
+  "beans_black_turtle_mature_seeds_raw": {
+    "name": "Fazuľa, čierna korytnačka, zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Fazuľa, čierna korytnačka, zrelé semená, surové z databázy USDA."
+  },
+  "beans_black_turtle_mature_seeds_ckd_bld_wo_sa": {
+    "name": "Fazuľa, čierna korytnačka, zrelé semená, ckd, bld, wo/ soľ",
+    "alternative_names": [],
+    "description": "Fazuľa, čierna korytnačka, zrelé semená, ckd, bld, wo/ soľ z databázy USDA."
+  },
+  "beans_great_northern_mature_seeds_raw": {
+    "name": "Fazuľa, severná, zrelé semená, surová",
+    "alternative_names": [],
+    "description": "Fazuľa, severná, zrelé semená, surová z databázy USDA."
+  },
+  "beans_kidney_all_types_mature_seeds_raw": {
+    "name": "Fazuľa, obličky, všetky druhy, zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Fazuľa, obličky, všetky druhy, zrelé semená, surové z databázy USDA."
+  },
+  "beans_kidney_all_types_mature_seeds_ckd_bld_w": {
+    "name": "Fazuľa, obličky, všetky druhy, zrelé semená, ckd, bld, wo/soľ",
+    "alternative_names": [],
+    "description": "Fazuľa, obličky, všetky druhy, zrelé semená, ckd, bld, wo/soľ z databázy USDA."
+  },
+  "beans_kidney_all_types_mature_seeds_cnd": {
+    "name": "Fazuľa, obličky, všetky druhy, zrelé semená, cnd",
+    "alternative_names": [],
+    "description": "Fazuľa, obličky, všetky druhy, zrelé semená, cnd z databázy USDA."
+  },
+  "beans_kidney_red_mature_seeds_raw": {
+    "name": "Fazuľa, obličky, červená, zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Fazuľa, obličky, červená, zrelé semená, surové z databázy USDA."
+  },
+  "beans_kidney_red_mature_seeds_ckd_bld_wosalt": {
+    "name": "Fazuľa, obličky, červená, zrelé semená, ckd, bld, wo/soľ",
+    "alternative_names": [],
+    "description": "Fazuľa, obličky, červená, zrelé semená, ckd, bld, wo/soľ z databázy USDA."
+  },
+  "beans_kidney_red_mature_seeds_cnd_sol_liquids": {
+    "name": "Fazuľa, obličky, červená, zrelé semená, cnd, sol & tekutiny",
+    "alternative_names": [],
+    "description": "Fazuľa, obličky, červená, zrelé semená, cnd, sol & tekutiny z databázy USDA."
+  },
+  "beans_navy_mature_seeds_raw": {
+    "name": "Fazuľa, námornícka, zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Fazuľa, námornícka, zrelé semená, surové z databázy USDA."
+  },
+  "beans_navy_mature_seeds_ckd_bld_wosalt": {
+    "name": "Fazuľa, navy, zrelé semená, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Fazuľa, navy, zrelé semená, ckd, bld, wo/salt z databázy USDA."
+  },
+  "beans_navy_mature_seeds_cnd": {
+    "name": "Fazuľa, námornícka, zrelé semená, cnd",
+    "alternative_names": [],
+    "description": "Fazuľa, námornícka, zrelé semená, cnd z databázy USDA."
+  },
+  "beans_pink_mature_seeds_ckd_bld_wosalt": {
+    "name": "Fazuľa, ružová, zrelé semená, ckd, bld, wo/soľ",
+    "alternative_names": [],
+    "description": "Fazuľa, ružová, zrelé semená, ckd, bld, wo/soľ z databázy USDA."
+  },
+  "beans_pinto_mature_seeds_raw": {
+    "name": "Fazuľa, pinto, zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Fazuľa, pinto, zrelé semená, surové z databázy USDA."
+  },
+  "beans_pinto_mature_seeds_ckd_bld_wosalt": {
+    "name": "Fazuľa, pinto, zrelé semená, ckd, bld, wo/soľ",
+    "alternative_names": [],
+    "description": "Fazuľa, pinto, zrelé semená, ckd, bld, wo/soľ z databázy USDA."
+  },
+  "beans_pinto_mature_seeds_cnd_sol_liquids": {
+    "name": "Fazuľa, pinto, zrelé semená, cnd, sol & tekutiny",
+    "alternative_names": [],
+    "description": "Fazuľa, pinto, zrelé semená, cnd, sol & tekutiny z databázy USDA."
+  },
+  "beans_white_mature_seeds_raw": {
+    "name": "Fazuľa, biela, zrelé semená, surová",
+    "alternative_names": [],
+    "description": "Fazuľa, biela, zrelé semená, surová z databázy USDA."
+  },
+  "beans_white_mature_seeds_ckd_bld_wosalt": {
+    "name": "Fazuľa, biela, zrelé semená, ckd, bld, wo/soľ",
+    "alternative_names": [],
+    "description": "Fazuľa, biela, zrelé semená, ckd, bld, wo/soľ z databázy USDA."
+  },
+  "beans_white_mature_seeds_cnd": {
+    "name": "Fazuľa, biela, zrelé semená, cnd",
+    "alternative_names": [],
+    "description": "Fazuľa, biela, zrelé semená, cnd z databázy USDA."
+  },
+  "broadbeans_mature_seeds_raw": {
+    "name": "Bôb obyčajný (fava fazuľa), zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Bôb obyčajný (fava fazuľa), zrelé semená, surové z databázy USDA."
+  },
+  "broadbeans_mature_seeds_ckd_bld_wosalt": {
+    "name": "Beans (fava bns), zrelé semená, ckd, bld, wo/soľ",
+    "alternative_names": [],
+    "description": "Beans (fava bns), zrelé semená, ckd, bld, wo/soľ z databázy USDA."
+  },
+  "chickpeas_mature_seeds_raw": {
+    "name": "Cícer (garbanzo bns, bengálsky gm), zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Cícer (garbanzo bns, bengálsky gm), zrelé semená, surové z databázy USDA."
+  },
+  "chickpeas_mature_seeds_ckd_bld_wosalt": {
+    "name": "Cícer, zrelé semená, ckd, bld, wo/soľ",
+    "alternative_names": [],
+    "description": "Cícer, zrelé semená, ckd, bld, wo/soľ z databázy USDA."
+  },
+  "chili_with_beans_canned": {
+    "name": "Chilli s fazuľou, konzervované",
+    "alternative_names": [],
+    "description": "Chilli s fazuľou, konzervované z databázy USDA."
+  },
+  "cowpeas_common_mtre_seeds_raw": {
+    "name": "Cowpeas, obyčajný (blackeyes, crowder, south), mtre semená, surové",
+    "alternative_names": [],
+    "description": "Cowpeas, obyčajný (blackeyes, crowder, south), mtre semená, surové z databázy USDA."
+  },
+  "cowpeas_common_mture_ckd_bld_wosalt": {
+    "name": "Cowpeas, common (blkeyes, crwdr, sthrn), mture, ckd, bld, wo/soľ",
+    "alternative_names": [],
+    "description": "Cowpeas, common (blkeyes, crwdr, sthrn), mture, ckd, bld, wo/soľ z databázy USDA."
+  },
+  "lentils_raw": {
+    "name": "Šošovica, surová",
+    "alternative_names": [],
+    "description": "Šošovica, surová z databázy USDA."
+  },
+  "lentils_mature_seeds_ckd_bld_wosalt": {
+    "name": "Šošovica, zrelé semená, ckd, bld, wo/soľ",
+    "alternative_names": [],
+    "description": "Šošovica, zrelé semená, ckd, bld, wo/soľ z databázy USDA."
+  },
+  "lima_bns_lrg_mature_seeds_raw": {
+    "name": "Lima bns, lrg, zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Lima bns, lrg, zrelé semená, surové z databázy USDA."
+  },
+  "lima_bns_lrg_mature_seeds_ckd_bld_wosalt": {
+    "name": "Lima bns, lrg, zrelé semená, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Lima bns, lrg, zrelé semená, ckd, bld, wo/salt z databázy USDA."
+  },
+  "lima_bns_thin_seeded_mature_seeds_raw": {
+    "name": "Lima bns, tenké semená (baby), zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Lima bns, tenké semená (baby), zrelé semená, surové z databázy USDA."
+  },
+  "mung_bns_mature_seeds_raw": {
+    "name": "Mung bns, zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Mung bns, zrelé semená, surové z databázy USDA."
+  },
+  "mung_bns_mature_seeds_ckd_bld_wosalt": {
+    "name": "Mung bns, zrelé semená, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Mung bns, zrelé semená, ckd, bld, wo/salt z databázy USDA."
+  },
+  "mungo_bns_mature_seeds_ckd_bld_wosalt": {
+    "name": "Mungo bns, zrelé semená, ckd, bld, wo/salt",
+    "alternative_names": [],
+    "description": "Mungo bns, zrelé semená, ckd, bld, wo/salt z databázy USDA."
+  },
+  "soybeans_mature_seeds_raw": {
+    "name": "Sójové bôby, zrelé semená, surové",
+    "alternative_names": [],
+    "description": "Sójové bôby, zrelé semená, surové z databázy USDA."
+  },
+  "soybeans_mature_ckd_bld_wosalt": {
+    "name": "Sójové bôby, zrelé ckd, bld, wo/soľ",
+    "alternative_names": [],
+    "description": "Sójové bôby, zrelé ckd, bld, wo/soľ z databázy USDA."
+  },
+  "soybeans_mature_seeds_rstd_salted": {
+    "name": "Sójové bôby, zrelé semená, prvé, solené",
+    "alternative_names": [],
+    "description": "Sójové bôby, zrelé semená, prvé, solené z databázy USDA."
+  },
+  "soybeans_mature_seeds_dry_rstd": {
+    "name": "Sójové bôby, zrelé semená, suché",
+    "alternative_names": [],
+    "description": "Sójové bôby, zrelé semená, suché z databázy USDA."
+  },
+  "beans_black_turtle_mature_seeds_ckd_bld_w_sal": {
+    "name": "Fazuľa, čierna korytnačka, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Fazuľa, čierna korytnačka, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "beans_kidney_red_mature_seeds_ckd_bld_wsalt": {
+    "name": "Fazuľa, obličky, červená, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Fazuľa, obličky, červená, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "beans_navy_mature_seeds_ckd_bld_wsalt": {
+    "name": "Fazuľa, navy, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Fazuľa, navy, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "beans_pink_mature_seeds_ckd_bld_wsalt": {
+    "name": "Fazuľa, ružová, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Fazuľa, ružová, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "beans_pinto_mature_seeds_ckd_bld_wsalt": {
+    "name": "Fazuľa, pinto, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Fazuľa, pinto, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "beans_white_mature_seeds_ckd_bld_w_salt": {
+    "name": "Fazuľa, biela, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Fazuľa, biela, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "broadbeans_mature_seeds_ckd_bld_wsalt": {
+    "name": "Beans (fava bns), zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Beans (fava bns), zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "chickpeas_mature_seeds_ckd_bld_wsalt": {
+    "name": "Cícer, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Cícer, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "cowpeas_common_mature_seeds_ckd_bld_wsalt": {
+    "name": "Cowpeas, obyčajný, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Cowpeas, obyčajný, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "lentils_mature_seeds_ckd_bld_wsalt": {
+    "name": "Šošovica, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Šošovica, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "lima_bns_lrg_mature_seeds_ckd_bld_wsalt": {
+    "name": "Lima bns, lrg, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Lima bns, lrg, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "mung_bns_mature_seeds_ckd_bld_wsalt": {
+    "name": "Mung bns, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Mung bns, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "mungo_bns_mature_seeds_ckd_bld_wsalt": {
+    "name": "Mungo bns, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Mungo bns, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "soybeans_mature_seeds_ckd_bld_wsalt": {
+    "name": "Sójové bôby, zrelé semená, ckd, bld, so soľou",
+    "alternative_names": [],
+    "description": "Sójové bôby, zrelé semená, ckd, bld, so soľou z databázy USDA."
+  },
+  "toppings_nuts_in_syrup": {
+    "name": "Polevy, orechy v sirupe",
+    "alternative_names": [],
+    "description": "Polevy, orechy v sirupe z databázy USDA."
+  },
+  "beans_chili_barbecue_ranch_style_ckd": {
+    "name": "Fazuľa, chilli, barbecue, ranč štýl, ckd",
+    "alternative_names": [],
+    "description": "Fazuľa, chilli, barbecue, ranč štýl, ckd z databázy USDA."
+  },
+  "beans_bkd_cnd_no_salt_added": {
+    "name": "Fazuľa, bkd, cnd, bez pridania soli",
+    "alternative_names": [],
+    "description": "Fazuľa, bkd, cnd, bez pridania soli z databázy USDA."
+  },
+  "ice_crm_bar_choc_or_caramel_covered_wnuts": {
+    "name": "Zmrzlinová tyčinka, čokoláda alebo karamel, s orechmi",
+    "alternative_names": [],
+    "description": "Zmrzlinová tyčinka, čokoláda alebo karamel, s orechmi z databázy USDA."
+  }
+}

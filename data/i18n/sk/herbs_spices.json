@@ -1,0 +1,129 @@
+{
+  "garlic_raw": {
+    "name": "Cesnak, surový",
+    "alternative_names": [],
+    "description": "Cesnak, surový podľa databázy USDA."
+  },
+  "parsley_dried": {
+    "name": "Petržlenová vňať, sušená",
+    "alternative_names": [
+      "sušená petržlenová vňať"
+    ],
+    "description": "Dehydrovaná petržlenová vňať, vysoko koncentrovaná v obsahu vitamínu K1."
+  },
+  "parsley_fresh": {
+    "name": "Petržlenová vňať, čerstvá",
+    "alternative_names": [
+      "čerstvá petržlenová vňať",
+      "petržlenová vňať hladkolistá / kučeravá"
+    ],
+    "description": "Čerstvá vňať petržlenu záhradného, mimoriadne bohatý rastlinný zdroj vitamínu K1."
+  },
+  "spices_cinnamon_ground": {
+    "name": "Korenie, škorica, mleté",
+    "alternative_names": [],
+    "description": "Korenie, škorica, mleté podľa databázy USDA."
+  },
+  "spices_curry_powder": {
+    "name": "Korenie, kari",
+    "alternative_names": [],
+    "description": "Korenie, kari podľa databázy USDA."
+  },
+  "spices_marjoram_dried": {
+    "name": "Korenie, majoránka, sušené",
+    "alternative_names": [],
+    "description": "Korenie, majoránka, sušené podľa databázy USDA."
+  },
+  "spices_mustard_seed_ground": {
+    "name": "Korenie, horčičné semienko, mleté",
+    "alternative_names": [],
+    "description": "Korenie, horčičné semienko, mleté podľa databázy USDA."
+  },
+  "spices_thyme_dried": {
+    "name": "Korenie, tymian, sušené",
+    "alternative_names": [],
+    "description": "Korenie, tymian, sušené podľa databázy USDA."
+  },
+  "spices_turmeric_ground": {
+    "name": "Korenie, kurkuma, mleté",
+    "alternative_names": [],
+    "description": "Korenie, kurkuma, mleté podľa databázy USDA."
+  },
+  "thyme_dried": {
+    "name": "Tymian, sušený",
+    "alternative_names": [
+      "sušený tymián"
+    ],
+    "description": "Sušené lístky tymianu, vysoko aromatická bylina mimoriadne bohatá na vitamín K1."
+  },
+  "spices_basil_dried": {
+    "name": "Korenie, bazalka, sušené",
+    "alternative_names": [],
+    "description": "Korenie, bazalka, sušené z databázy USDA."
+  },
+  "cinnamon_ground": {
+    "name": "Škorica, mletá",
+    "alternative_names": [],
+    "description": "Škorica, mletá z databázy USDA."
+  },
+  "curry_powder": {
+    "name": "Kari prášok",
+    "alternative_names": [],
+    "description": "Kari prášok z databázy USDA."
+  },
+  "garlic_powder": {
+    "name": "Cesnakový prášok",
+    "alternative_names": [],
+    "description": "Cesnakový prášok z databázy USDA."
+  },
+  "marjoram_dried": {
+    "name": "Majorán, sušený",
+    "alternative_names": [],
+    "description": "Majorán, sušený z databázy USDA."
+  },
+  "spices_mustard_sd_ground": {
+    "name": "Korenie, horčica sd, mletá",
+    "alternative_names": [],
+    "description": "Korenie, horčica sd, mletá z databázy USDA."
+  },
+  "spices_oregano_dried": {
+    "name": "Korenie, oregano, sušené",
+    "alternative_names": [],
+    "description": "Korenie, oregano, sušené z databázy USDA."
+  },
+  "sage_ground": {
+    "name": "Šalvia, zem",
+    "alternative_names": [],
+    "description": "Šalvia, zem z databázy USDA."
+  },
+  "turmeric_ground": {
+    "name": "Kurkuma, mletá",
+    "alternative_names": [],
+    "description": "Kurkuma, mletá z databázy USDA."
+  },
+  "basil_fresh": {
+    "name": "Bazalka, čerstvá",
+    "alternative_names": [],
+    "description": "Bazalka, čerstvá z databázy USDA."
+  },
+  "parsley_frsh": {
+    "name": "Petržlen, čerstvý",
+    "alternative_names": [],
+    "description": "Petržlen, čerstvý z databázy USDA."
+  },
+  "english_muffins_raisin_cinnamon": {
+    "name": "Anglické muffiny, hrozienkovo-škoricové (vrátane jablkovo-škoricového)",
+    "alternative_names": [],
+    "description": "Anglické muffiny, hrozienkovo-škoricové (vrátane jablkovo-škoricového) z databázy USDA."
+  },
+  "english_muffins_raisin_cinnamon_tstd": {
+    "name": "Anglické muffiny, hrozienka-škorica, tstd (vrátane jablko-škorica)",
+    "alternative_names": [],
+    "description": "Anglické muffiny, hrozienka-škorica, tstd (vrátane jablko-škorica) z databázy USDA."
+  },
+  "cinnamon_buns_frstd": {
+    "name": "Škoricové buchty, frstd (vrátane medových buchiet)",
+    "alternative_names": [],
+    "description": "Škoricové buchty, frstd (vrátane medových buchiet) z databázy USDA."
+  }
+}

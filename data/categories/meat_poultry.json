@@ -1,0 +1,7197 @@
+{
+  "data": [
+    {
+      "id": "bacon_and_beef_sticks",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "beef_liver_cooked",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.3
+        }
+      ],
+      "source": "USDA FoodData Central (FDC ID: 168626)",
+      "tags": [
+        "cooked",
+        "k2",
+        "meat",
+        "organ_meat"
+      ]
+    },
+    {
+      "id": "beerwurst_beer_salami_pork_and_beef",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        },
+        {
+          "amount": 2.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 56
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "beverages",
+        "high_sodium",
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "beerwurst_pork_and_beef",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "beverages",
+        "high_sodium",
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "bologna_meat_and_poultry",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 20
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "braunschweiger_pork",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "chicken_breast_cooked",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "k2",
+        "meat",
+        "poultry"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.5
+        }
+      ],
+      "source": "USDA FoodData Central (FDC ID: 171477)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_back_meat_and",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.4,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "chicken_broilers_or_fryers_back_meat_onl",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 4.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.7,
+          "gram_equivalent": 113
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "chicken_broilers_or_fryers_drumstick_mea",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.6,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "chicken_broilers_or_fryers_leg_meat_and",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.9
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.3,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "chicken_broilers_or_fryers_light_meat_me",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.1,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "chicken_broilers_or_fryers_meat_and_skin",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "chicken_skin_raw",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 4.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 113
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ]
+    },
+    {
+      "id": "chicken_stewing_meat_and_skin_and_giblet",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "fish_cod_atlantic_canned_solids_and_liqu",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "seafood"
+      ]
+    },
+    {
+      "id": "fish_flatfish_cooked_dry_heat",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "k2",
+        "seafood"
+      ]
+    },
+    {
+      "id": "fish_haddock_raw",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ]
+    },
+    {
+      "id": "fish_herring_atlantic_pickled",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "seafood"
+      ]
+    },
+    {
+      "id": "fish_mackerel_spanish_raw",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ]
+    },
+    {
+      "id": "fish_ocean_perch_atlantic_cooked_dry_hea",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "k2",
+        "seafood"
+      ]
+    },
+    {
+      "id": "fish_salmon_pink_canned_drained_solids",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "seafood"
+      ]
+    },
+    {
+      "id": "fish_swordfish_cooked_dry_heat",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "k2",
+        "seafood"
+      ]
+    },
+    {
+      "id": "fish_tilapia_raw",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ]
+    },
+    {
+      "id": "fish_trout_rainbow_farmed_cooked_dry_hea",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "k2",
+        "seafood"
+      ]
+    },
+    {
+      "id": "mollusks_mussel_blue_raw",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ]
+    },
+    {
+      "id": "mollusks_octopus_common_raw",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ]
+    },
+    {
+      "id": "mollusks_oyster_eastern_wild_cooked_dry",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "k2",
+        "seafood"
+      ]
+    },
+    {
+      "id": "mollusks_oyster_eastern_wild_cooked_mois",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.7,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "k2",
+        "seafood"
+      ]
+    },
+    {
+      "id": "sausage_pork_and_turkey_pre_cooked",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.2,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "sausage_turkey_hot_smoked",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.7
+        },
+        {
+          "amount": 2.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 56
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "turkey_all_classes_back_meat_and_skin_co",
+      "category": "meat_poultry",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 6.3,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "tags": [
+        "k2",
+        "meat"
+      ]
+    },
+    {
+      "id": "chicken_broilers_or_fryers_meatskngibletsneck",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 16.4,
+          "gram_equivalent": 682
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.9,
+          "gram_equivalent": 205
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05004)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_meat_skn_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.1,
+          "gram_equivalent": 276
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.9,
+          "gram_equivalent": 460
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05006)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_meatskn_ckd_fried",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.7,
+          "gram_equivalent": 280
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 11.2,
+          "gram_equivalent": 466
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05007)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_meatskn_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.4,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.3,
+          "gram_equivalent": 178
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05009)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_meatskn_ckd_stwd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.9,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.2,
+          "gram_equivalent": 200
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05010)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_meat_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.5,
+          "gram_equivalent": 197
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.9,
+          "gram_equivalent": 329
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05011)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_meat_only_ckd_frie",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.9,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.3,
+          "gram_equivalent": 155
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05012)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_meat_only_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.4,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 8
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05013)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_meat_only_stwd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.4,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 8
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05014)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_skn_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.4,
+          "gram_equivalent": 47
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.3,
+          "gram_equivalent": 79
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05015)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_skn_only_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 34
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 56
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05018)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_lt_meat_meat_skn_r",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.8,
+          "gram_equivalent": 116
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.7,
+          "gram_equivalent": 194
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05029)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_lt_meat_meatskn_ck",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.9,
+          "gram_equivalent": 78
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.1,
+          "gram_equivalent": 130
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05031)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_dk_meat_meat_skn_r",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.8,
+          "gram_equivalent": 160
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.4,
+          "gram_equivalent": 266
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05034)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_dk_meat_meatskn_ck",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 110
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.4,
+          "gram_equivalent": 184
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05036)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_lt_meat_meat_only",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.1,
+          "gram_equivalent": 88
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.5,
+          "gram_equivalent": 147
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05039)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_dk_meat_meat_only",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 109
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.4,
+          "gram_equivalent": 182
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05043)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_back_meatskn_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.4,
+          "gram_equivalent": 59
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.4,
+          "gram_equivalent": 99
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05048)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_back_meatskn_ckd_r",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 32
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 53
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05051)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_back_meatskn_ckd_s",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 6.6,
+          "gram_equivalent": 160
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.5,
+          "gram_equivalent": 36
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05052)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_back_meat_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 31
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 51
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05053)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_back_meat_only_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 24
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 40
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05055)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_breast_meatskn_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 84
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.4,
+          "gram_equivalent": 140
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05058)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_breast_meat_only_r",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 71
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 118
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05062)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_breast_meat_only_c",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 52
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.1,
+          "gram_equivalent": 86
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05063)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_drumstk_meatskn_ra",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.3,
+          "gram_equivalent": 133
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.1,
+          "gram_equivalent": 122
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05066)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_drumstk_meatskn_ck",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.4,
+          "gram_equivalent": 105
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.1,
+          "gram_equivalent": 97
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05069)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_dk_meat_drumstk_me",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.9,
+          "gram_equivalent": 133
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.5,
+          "gram_equivalent": 122
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05071)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_drumstk_meat_only",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.4,
+          "gram_equivalent": 160
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05074)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_leg_meatskn_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.9,
+          "gram_equivalent": 344
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 111
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05075)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_leg_meatskn_ckd_rs",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 10.1,
+          "gram_equivalent": 258
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.2,
+          "gram_equivalent": 133
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05078)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_leg_meatskn_ckd_st",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.9,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 75
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05079)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_leg_meat_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.4,
+          "gram_equivalent": 265
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.1,
+          "gram_equivalent": 147
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05080)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_leg_meat_only_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.2,
+          "gram_equivalent": 199
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.8,
+          "gram_equivalent": 105
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05082)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_neck_meatskn_ckd_s",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 11
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.5,
+          "gram_equivalent": 38
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05087)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_thigh_meatskn_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.1,
+          "gram_equivalent": 149
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.0,
+          "gram_equivalent": 189
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05091)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_thigh_meatskn_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.5,
+          "gram_equivalent": 135
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.8,
+          "gram_equivalent": 116
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05094)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_dk_meat_thigh_meat",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.3,
+          "gram_equivalent": 149
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.5,
+          "gram_equivalent": 189
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05096)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_thigh_meat_only_ck",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.3,
+          "gram_equivalent": 135
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.5,
+          "gram_equivalent": 116
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05098)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_wing_meatskn_ckd_r",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 21
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05103)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_wing_meatskn_ckd_s",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 24
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05104)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_wing_meat_only_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 13
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 21
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05107)"
+    },
+    {
+      "id": "chicken_roasting_meat_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.0,
+          "gram_equivalent": 209
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 11.4,
+          "gram_equivalent": 477
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05113)"
+    },
+    {
+      "id": "chicken_roasting_lt_meat_meat_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.4,
+          "gram_equivalent": 99
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.3,
+          "gram_equivalent": 220
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05117)"
+    },
+    {
+      "id": "chicken_roasting_lt_meat_meat_only_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 78
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05118)"
+    },
+    {
+      "id": "chicken_roasting_dk_meat_meat_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.7,
+          "gram_equivalent": 113
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.2,
+          "gram_equivalent": 258
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05119)"
+    },
+    {
+      "id": "chicken_stewing_meat_skn_giblets_neck_ckd_stw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.0,
+          "gram_equivalent": 160
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.8,
+          "gram_equivalent": 202
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05122)"
+    },
+    {
+      "id": "chicken_stewing_meatskn_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.5,
+          "gram_equivalent": 271
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 9.6,
+          "gram_equivalent": 398
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05123)"
+    },
+    {
+      "id": "chicken_stewing_meat_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.9,
+          "gram_equivalent": 194
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.7,
+          "gram_equivalent": 284
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05125)"
+    },
+    {
+      "id": "chicken_stewing_meat_only_ckd_stwd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.3,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.2,
+          "gram_equivalent": 137
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05126)"
+    },
+    {
+      "id": "chicken_stewing_lt_meat_meat_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.1,
+          "gram_equivalent": 89
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.1,
+          "gram_equivalent": 130
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05129)"
+    },
+    {
+      "id": "chicken_stewing_dk_meat_meat_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.5,
+          "gram_equivalent": 105
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.7,
+          "gram_equivalent": 154
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05131)"
+    },
+    {
+      "id": "chicken_capons_meatskn_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 23.1,
+          "gram_equivalent": 964
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.1,
+          "gram_equivalent": 297
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05135)"
+    },
+    {
+      "id": "turkey_whl_giblets_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 157
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 24
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05171)"
+    },
+    {
+      "id": "turkey_whl_giblets_ckd_simmrd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 95
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05172)"
+    },
+    {
+      "id": "turkey_liver_all_classes_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 78
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05177)"
+    },
+    {
+      "id": "turkey_liver_all_classes_ckd_simmrd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 53
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05178)"
+    },
+    {
+      "id": "turkey_all_classes_back_meatskn_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 6.3,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 11.8,
+          "gram_equivalent": 262
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05190)"
+    },
+    {
+      "id": "turkey_all_classes_leg_meatskn_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.9,
+          "gram_equivalent": 71
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 22.4,
+          "gram_equivalent": 546
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05194)"
+    },
+    {
+      "id": "turkey_fryer_roasters_meatskn_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.8,
+          "gram_equivalent": 229
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.5,
+          "gram_equivalent": 808
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05200)"
+    },
+    {
+      "id": "turkey_fryer_roasters_wing_meat_only_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 17
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 60
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05228)"
+    },
+    {
+      "id": "chicken_cnd_meat_only_wbroth",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 142
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05277)"
+    },
+    {
+      "id": "turkey_cnd_meat_only_wbroth",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 135
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 142
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05284)"
+    },
+    {
+      "id": "turkey_patties_breaded_battered_fried",
+      "category": "meat_poultry",
+      "tags": [
+        "bakery",
+        "cooked",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 15.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.3,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.5,
+          "gram_equivalent": 42
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05292)"
+    },
+    {
+      "id": "turkey_rst_bnless_frz_seasoned_ltdk_meat_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 135
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.5,
+          "gram_equivalent": 782
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05296)"
+    },
+    {
+      "id": "chicken_cornish_game_hens_meatskn_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.0,
+          "gram_equivalent": 168
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05307)"
+    },
+    {
+      "id": "chicken_cornish_game_hens_meatskn_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.2,
+          "gram_equivalent": 257
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.1,
+          "gram_equivalent": 129
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05308)"
+    },
+    {
+      "id": "chicken_cornish_game_hens_meat_only_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.7,
+          "gram_equivalent": 239
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.9,
+          "gram_equivalent": 120
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05309)"
+    },
+    {
+      "id": "chicken_cornish_game_hens_meat_only_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.3,
+          "gram_equivalent": 220
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 110
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05310)"
+    },
+    {
+      "id": "chicken_canned_no_broth",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.7,
+          "gram_equivalent": 205
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.9,
+          "gram_equivalent": 125
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05311)"
+    },
+    {
+      "id": "chicken_nuggets_frz_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.2,
+          "gram_equivalent": 20
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05321)"
+    },
+    {
+      "id": "chicken_nuggets_frz_unckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 20
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05322)"
+    },
+    {
+      "id": "chicken_patty_frz_unckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.7,
+          "gram_equivalent": 60
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05323)"
+    },
+    {
+      "id": "chicken_patty_frz_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.5,
+          "gram_equivalent": 60
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05324)"
+    },
+    {
+      "id": "chicken_breast_tenders_ckd_conventional_oven",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 20
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05325)"
+    },
+    {
+      "id": "chicken_breast_tenders_ckd_microwaved",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 15
+        },
+        {
+          "amount": 4.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 62
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05326)"
+    },
+    {
+      "id": "chicken_breast_tenders_breaded_unckd",
+      "category": "meat_poultry",
+      "tags": [
+        "bakery",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.2,
+          "gram_equivalent": 15
+        },
+        {
+          "amount": 4.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 9.1,
+          "gram_equivalent": 62
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05327)"
+    },
+    {
+      "id": "chicken_ground_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.8
+        },
+        {
+          "amount": 4.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 112
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05332)"
+    },
+    {
+      "id": "chicken_ground_crumbles_ckd_pan_browned",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.8,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05333)"
+    },
+    {
+      "id": "usda_cmdty_turkey_taco_meat_frz_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 183
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05354)"
+    },
+    {
+      "id": "chicken_skn_ckd_brsd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.8,
+          "gram_equivalent": 453
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05673)"
+    },
+    {
+      "id": "chicken_skn_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.8,
+          "gram_equivalent": 453
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05674)"
+    },
+    {
+      "id": "chicken_skn_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.3,
+          "gram_equivalent": 453
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05675)"
+    },
+    {
+      "id": "chicken_broilers_or_fryers_dk_meat_drumstk_mt",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 95
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 105
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05676)"
+    },
+    {
+      "id": "fish_broth",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 244
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 30
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 06963)"
+    },
+    {
+      "id": "beerwurst_beer_salami_pork_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "beverages",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        },
+        {
+          "amount": 2.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 56
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07002)"
+    },
+    {
+      "id": "sausage_berliner_pork_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 23
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07004)"
+    },
+    {
+      "id": "bockwurst_pork_veal_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 70.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 63.9,
+          "gram_equivalent": 91
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07006)"
+    },
+    {
+      "id": "bologna_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 30
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07007)"
+    },
+    {
+      "id": "bologna_bf_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 3.527,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07008)"
+    },
+    {
+      "id": "bologna_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 23
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07010)"
+    },
+    {
+      "id": "bologna_turkey",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07011)"
+    },
+    {
+      "id": "bratwurst_pork_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.9,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07013)"
+    },
+    {
+      "id": "cheesefurter_chs_smokie_pork_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "dairy",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 2.33,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07016)"
+    },
+    {
+      "id": "chorizo_pork_and_beef",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 60
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07019)"
+    },
+    {
+      "id": "frankfurter_bf_unhtd",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 50
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 8.0,
+          "gram_equivalent": 446
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07022)"
+    },
+    {
+      "id": "frankfurter_bf_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 45
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07023)"
+    },
+    {
+      "id": "headcheese_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "dairy",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 45.0,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07034)"
+    },
+    {
+      "id": "honey_loaf_pork_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 2.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 57
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07035)"
+    },
+    {
+      "id": "knackwurst_knockwurst_pork_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 72
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07038)"
+    },
+    {
+      "id": "lebanon_bologna_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 57
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07039)"
+    },
+    {
+      "id": "luncheon_meat_beef_loaved",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 2.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 57
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07042)"
+    },
+    {
+      "id": "luncheon_meat_pork_beef",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 57
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07047)"
+    },
+    {
+      "id": "mortadella_beef_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 15
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07050)"
+    },
+    {
+      "id": "olive_loaf_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 2.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.9,
+          "gram_equivalent": 57
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07051)"
+    },
+    {
+      "id": "peppered_loaf_pork_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 3.52,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07056)"
+    },
+    {
+      "id": "pepperoni_pork_beef",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07057)"
+    },
+    {
+      "id": "picklepimiento_loaf_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.9,
+          "gram_equivalent": 38
+        },
+        {
+          "amount": 2.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.9,
+          "gram_equivalent": 57
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07058)"
+    },
+    {
+      "id": "pork_sausage_frsh_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 48
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07063)"
+    },
+    {
+      "id": "pork_sausage_frsh_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 48
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07064)"
+    },
+    {
+      "id": "porkbf_sausage_frsh_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 13
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 27
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07065)"
+    },
+    {
+      "id": "salami_ckd_bfpork",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 12
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07069)"
+    },
+    {
+      "id": "salami_cooked_turkey",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07070)"
+    },
+    {
+      "id": "thuringer_cervelat_smmr_sausage_bf_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        },
+        {
+          "amount": 2.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 56
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07078)"
+    },
+    {
+      "id": "sausage_vienna_cnd_chick_bf_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 16
+        },
+        {
+          "amount": 7.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.8,
+          "gram_equivalent": 113
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07083)"
+    },
+    {
+      "id": "sausage_italian_pork_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.8,
+          "gram_equivalent": 83
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.3,
+          "gram_equivalent": 67
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07089)"
+    },
+    {
+      "id": "sausage_turkey_brkfst_links_mild",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 2.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 56
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07919)"
+    },
+    {
+      "id": "bacon_bf_stks",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07921)"
+    },
+    {
+      "id": "beerwurst_pork_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "beverages",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 56
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07931)"
+    },
+    {
+      "id": "salami_italian_pork_bf_dry_sliced_50_less_na",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07941)"
+    },
+    {
+      "id": "frankfurter_bf_htd",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 48
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 8.1,
+          "gram_equivalent": 451
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07945)"
+    },
+    {
+      "id": "scrapple_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 17
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 25
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07951)"
+    },
+    {
+      "id": "pork_sausage_pre_cooked",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 48
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07953)"
+    },
+    {
+      "id": "beef_sausage_pre_cooked",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 48
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07954)"
+    },
+    {
+      "id": "beef_sausage_frsh_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 43
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07956)"
+    },
+    {
+      "id": "pork_turkey_sausage_pre_cooked",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.2,
+          "gram_equivalent": 57
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07957)"
+    },
+    {
+      "id": "turkey_sausage_frsh_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 57
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07958)"
+    },
+    {
+      "id": "bologna_chick_pork_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07959)"
+    },
+    {
+      "id": "bologna_chick_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07960)"
+    },
+    {
+      "id": "pork_cured_bacon_ckd_brld_pan_fried_or_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 8
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 10124)"
+    },
+    {
+      "id": "pork_cured_bacon_ckd_bkd",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 8
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 10860)"
+    },
+    {
+      "id": "pork_cured_ham_h2o_product_rump_bone_in_ln_ht",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.5,
+          "gram_equivalent": 2533
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 10877)"
+    },
+    {
+      "id": "pork_cured_ham_slice_bone_in_ln_unhtd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 425
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 10938)"
+    },
+    {
+      "id": "beef_grass_fed_strip_steaks_ln_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.9,
+          "gram_equivalent": 214
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13000)"
+    },
+    {
+      "id": "beef_brisket_whl_ln_all_grds_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.9,
+          "gram_equivalent": 453
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13023)"
+    },
+    {
+      "id": "beef_grass_fed_ground_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13047)"
+    },
+    {
+      "id": "beef_rib_shortribs_ln_choic_ckd_brsd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.3,
+          "gram_equivalent": 121
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13150)"
+    },
+    {
+      "id": "beef_ground_patties_frz_ckd_brld",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.2,
+          "gram_equivalent": 313
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13317)"
+    },
+    {
+      "id": "beef_var_meatsby_products_brain_ckd_simmrd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 391
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13320)"
+    },
+    {
+      "id": "beef_var_meatsby_products_heart_ckd_simmrd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.5
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13322)"
+    },
+    {
+      "id": "beef_var_meatsby_products_liver_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 18.3,
+          "gram_equivalent": 589
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13325)"
+    },
+    {
+      "id": "beef_var_meats_by_products_liver_ckd_brsd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.2,
+          "gram_equivalent": 68
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13326)"
+    },
+    {
+      "id": "beef_var_meatsby_products_liver_ckd_pan_fried",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "k2",
+        "meat",
+        "organ_meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.2,
+          "gram_equivalent": 82
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13327)"
+    },
+    {
+      "id": "beef_var_meats_by_products_suet_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 4.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.1,
+          "gram_equivalent": 113
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13335)"
+    },
+    {
+      "id": "beef_var_meatsby_products_tongue_ckd_simmrd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13340)"
+    },
+    {
+      "id": "beef_sndwch_steaks_flaked_chopd_formed_thinly",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.7,
+          "gram_equivalent": 396
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 56
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13342)"
+    },
+    {
+      "id": "beef_cured_brkfst_strips_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 34
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.8,
+          "gram_equivalent": 170
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13345)"
+    },
+    {
+      "id": "beef_cured_corned_bf_brisket_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.8,
+          "gram_equivalent": 320
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13347)"
+    },
+    {
+      "id": "beef_cured_corned_bf_cnd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 21
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13348)"
+    },
+    {
+      "id": "beef_cured_dried",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        },
+        {
+          "amount": 10.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13350)"
+    },
+    {
+      "id": "beef_chuck_under_blade_cntr_steak_bnless_denv",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.6,
+          "gram_equivalent": 353
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13351)"
+    },
+    {
+      "id": "beef_chk_und_bl_cntr_stk_bnless_den_cut_ln_0",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.6,
+          "gram_equivalent": 349
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13354)"
+    },
+    {
+      "id": "beef_cured_pastrami",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 71
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13355)"
+    },
+    {
+      "id": "beef_chk_undbl_cntr_stk_bnless_dencut_ln_0_fa",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.1,
+          "gram_equivalent": 473
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13356)"
+    },
+    {
+      "id": "beef_chk_und_blcntr_stk_bnless_den_cut_ln_0_f",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.2,
+          "gram_equivalent": 483
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13359)"
+    },
+    {
+      "id": "beef_shrt_loin_top_loin_stk_ln_ft_18_ft_all_g",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.4,
+          "gram_equivalent": 85
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.8,
+          "gram_equivalent": 165
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13910)"
+    },
+    {
+      "id": "beef_shoulder_steak_boneless_lean_only_0_choi",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.4,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 13943)"
+    },
+    {
+      "id": "fish_portionsstks_frz_prehtd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.1,
+          "gram_equivalent": 57
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.0,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15027)"
+    },
+    {
+      "id": "herring_atlantic_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 184
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15039)"
+    },
+    {
+      "id": "herring_atlantic_ckd_dry_heat",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 143
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15040)"
+    },
+    {
+      "id": "herring_atlantic_pickled",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15041)"
+    },
+    {
+      "id": "herring_atlantic_kippered",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 17
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15042)"
+    },
+    {
+      "id": "fish_pollock_alaska_ckd_dry_heat",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 60
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15067)"
+    },
+    {
+      "id": "fish_salmon_chum_cnd_drnd_sol_w_bone",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 369
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15080)"
+    },
+    {
+      "id": "fish_salmon_pink_cnd_total_can_contents",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.1,
+          "gram_equivalent": 411
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15084)"
+    },
+    {
+      "id": "fish_salmon_sockeye_cnd_drnd_sol",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 337
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15087)"
+    },
+    {
+      "id": "fish_tuna_lt_cnd_in_h2o_drnd_sol",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 154
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15121)"
+    },
+    {
+      "id": "tuna_white_cnd_in_h2o_drnd_sol",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.3,
+          "gram_equivalent": 172
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15126)"
+    },
+    {
+      "id": "tuna_fresh_yellowfin_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 16
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15127)"
+    },
+    {
+      "id": "mussel_blue_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 150
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15164)"
+    },
+    {
+      "id": "oyster_eastern_wild_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.5,
+          "gram_equivalent": 248
+        },
+        {
+          "amount": 6.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 84
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15167)"
+    },
+    {
+      "id": "oyster_eastern_wild_ckd_moist_heat",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.7,
+          "gram_equivalent": 85
+        },
+        {
+          "amount": 6.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 42
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15169)"
+    },
+    {
+      "id": "oyster_eastern_canned",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 162
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 248
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15170)"
+    },
+    {
+      "id": "tuna_yellowfin_frsh_ckd_dry_heat",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15221)"
+    },
+    {
+      "id": "oyster_pacific_ckd_moist_heat",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 25
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15231)"
+    },
+    {
+      "id": "oyster_eastern_wild_ckd_dry_heat",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 85
+        },
+        {
+          "amount": 6.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 59
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15244)"
+    },
+    {
+      "id": "fish_salmon_pink_cnd_drnd_sol",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 315
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15260)"
+    },
+    {
+      "id": "fish_tilapia_ckd_dry_heat",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 87
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 112
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15262)"
+    },
+    {
+      "id": "fish_salmon_pink_cnd_drnd_sol_wo_skn_bones",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 242
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 15265)"
+    },
+    {
+      "id": "beans_bkd_cnd_wporkswt_sau",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "legumes",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.5,
+          "gram_equivalent": 249
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 16010)"
+    },
+    {
+      "id": "beans_bkd_cnd_wporktomato_sau",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "legumes",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 246
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 16011)"
+    },
+    {
+      "id": "lamb_nz_imp_frz_rib_ln_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.3,
+          "gram_equivalent": 152
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.0,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17083)"
+    },
+    {
+      "id": "veal_comp_of_rtl_cuts_ln_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 12.7,
+          "gram_equivalent": 192
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.6,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17091)"
+    },
+    {
+      "id": "veal_leg_ln_ckd_pan_fried_breaded",
+      "category": "meat_poultry",
+      "tags": [
+        "bakery",
+        "cooked",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 15.0,
+          "gram_equivalent": 295
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.3,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17101)"
+    },
+    {
+      "id": "veal_leg_ln_ckd_pan_fried_not_breaded",
+      "category": "meat_poultry",
+      "tags": [
+        "bakery",
+        "cooked",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 14.5,
+          "gram_equivalent": 289
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.2,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17102)"
+    },
+    {
+      "id": "veal_loin_ln_ckd_brsd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.0
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.0,
+          "gram_equivalent": 85
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.8,
+          "gram_equivalent": 69
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17108)"
+    },
+    {
+      "id": "veal_loin_ln_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 11.4,
+          "gram_equivalent": 208
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.7,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17109)"
+    },
+    {
+      "id": "veal_rib_ln_ckd_brsd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 11.4,
+          "gram_equivalent": 163
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.0,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17114)"
+    },
+    {
+      "id": "veal_shldr_blade_ln_ckd_brsd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 11.8,
+          "gram_equivalent": 174
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.8,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17132)"
+    },
+    {
+      "id": "veal_ground_ckd_brld",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.6,
+          "gram_equivalent": 299
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17143)"
+    },
+    {
+      "id": "game_meat_deer_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.0,
+          "gram_equivalent": 453
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17164)"
+    },
+    {
+      "id": "veal_var_meatsby_products_liver_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.1,
+          "gram_equivalent": 453
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17202)"
+    },
+    {
+      "id": "veal_var_meatsby_products_liver_ckd_brsd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.1,
+          "gram_equivalent": 80
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17203)"
+    },
+    {
+      "id": "veal_var_meatsby_products_liver_ckd_pan_fried",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "k2",
+        "meat",
+        "organ_meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.1,
+          "gram_equivalent": 67
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17204)"
+    },
+    {
+      "id": "lamb_ground_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 4.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.1,
+          "gram_equivalent": 113
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17224)"
+    },
+    {
+      "id": "lamb_ground_ckd_brld",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 16.6,
+          "gram_equivalent": 313
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.5,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17225)"
+    },
+    {
+      "id": "game_meat_deer_ground_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 85
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17343)"
+    },
+    {
+      "id": "game_meat_deer_ground_ckd_pan_broiled",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 93
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17344)"
+    },
+    {
+      "id": "game_meat_deer_loin_ln_1_steak_ckd_brld",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 54
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17345)"
+    },
+    {
+      "id": "game_meat_deer_shldr_clod_ln_3_5_lb_rst_ckd_b",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.4,
+          "gram_equivalent": 293
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17346)"
+    },
+    {
+      "id": "beef_jerky_chopdformed",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 20
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 19002)"
+    },
+    {
+      "id": "fast_foods_biscuit_wham",
+      "category": "meat_poultry",
+      "tags": [
+        "bakery",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.4,
+          "gram_equivalent": 113
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21008)"
+    },
+    {
+      "id": "fast_foods_biscuit_wsausage",
+      "category": "meat_poultry",
+      "tags": [
+        "bakery",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.1,
+          "gram_equivalent": 111
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21009)"
+    },
+    {
+      "id": "burger_king_premium_fish_sndwch",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 22.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 49.5,
+          "gram_equivalent": 220
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21258)"
+    },
+    {
+      "id": "fast_foods_griddle_cake_sndwch_sausage",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.4,
+          "gram_equivalent": 135
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21306)"
+    },
+    {
+      "id": "burger_king_croissanwich_w_sausage_chs",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 8.5,
+          "gram_equivalent": 131
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21384)"
+    },
+    {
+      "id": "grilled_chick_bacon_tomo_clb_sndwch_w_chs_let",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 23.3,
+          "gram_equivalent": 268
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21461)"
+    },
+    {
+      "id": "crispy_chick_bacon_tomato_club_sndwch_w_chs_l",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 22.8,
+          "gram_equivalent": 271
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21462)"
+    },
+    {
+      "id": "hot_pockets_ham_n_chs_stuffed_sndwch_frz",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 127
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 256
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22537)"
+    },
+    {
+      "id": "beef_stew_canned_entree",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 12.2,
+          "gram_equivalent": 196
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22905)"
+    },
+    {
+      "id": "beef_corned_bf_hash_w_potato_cnd",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.2,
+          "gram_equivalent": 236
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22908)"
+    },
+    {
+      "id": "pulled_pork_in_barbecue_sau",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.5,
+          "gram_equivalent": 249
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22972)"
+    },
+    {
+      "id": "chicken_nuggets_dk_white_meat_preckd_frz_not",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 8.7,
+          "gram_equivalent": 87
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.8,
+          "gram_equivalent": 18
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22974)"
+    },
+    {
+      "id": "chicken_nuggets_white_meat_preckd_frz_not_reh",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 8.2,
+          "gram_equivalent": 82
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 20
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22975)"
+    },
+    {
+      "id": "chicken_tenders_breaded_frz_prep",
+      "category": "meat_poultry",
+      "tags": [
+        "bakery",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.2,
+          "gram_equivalent": 21
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22978)"
+    },
+    {
+      "id": "beef_chck_clod_shldr_topcntr_stks_ln_ft_0_all",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 184
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23058)"
+    },
+    {
+      "id": "beef_chk_und_bl_pot_rststk_bnl_ln_ft_0_ft_all",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 10.2,
+          "gram_equivalent": 679
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 14.4,
+          "gram_equivalent": 960
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23102)"
+    },
+    {
+      "id": "beef_chk_und_ble_cntr_stk_bnl_den_ct_lnft_0_f",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.7,
+          "gram_equivalent": 356
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23106)"
+    },
+    {
+      "id": "beef_chk_und_bl_cntr_stk_bnl_den_cut_ln_ft_0f",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.1,
+          "gram_equivalent": 473
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23108)"
+    },
+    {
+      "id": "beef_chk_und_ble_cntr_stk_bnl_den_cut_ln_ft_0",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.9,
+          "gram_equivalent": 458
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23110)"
+    },
+    {
+      "id": "beef_rib_eye_rst_bne_in_lip_on_ln_18_ft_all_g",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 34.1,
+          "gram_equivalent": 2130
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23146)"
+    },
+    {
+      "id": "beef_rib_eye_stk_bn_in_lip_on_ln_ft_18_ft_al",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.1,
+          "gram_equivalent": 381
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23188)"
+    },
+    {
+      "id": "beef_rib_eye_rst_bne_in_lp_on_ln_ft_18_ft_al",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 34.1,
+          "gram_equivalent": 2130
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23191)"
+    },
+    {
+      "id": "beef_rib_eye_stkrst_bne_in_ip_on_ln_ft_18_ft",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 6.9,
+          "gram_equivalent": 462
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 39.4,
+          "gram_equivalent": 2627
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23192)"
+    },
+    {
+      "id": "beef_rib_eye_stk_bnls_lip_on_ln_ft_18_ft_al_g",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.7,
+          "gram_equivalent": 291
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23197)"
+    },
+    {
+      "id": "beef_rib_eye_rst_bnls_lp_on_ln_ft_18_ft_all_g",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 25.6,
+          "gram_equivalent": 1601
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23198)"
+    },
+    {
+      "id": "beef_loin_top_srl_cp_stk_bnls_ln_ft_18_ft_alg",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 161
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 23278)"
+    },
+    {
+      "id": "fish_salmon_coho_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35150)"
+    },
+    {
+      "id": "fish_salmon_sockeye_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35151)"
+    },
+    {
+      "id": "fish_salmon_chum_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35152)"
+    },
+    {
+      "id": "fish_salmon_king_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "raw",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35153)"
+    },
+    {
+      "id": "fish_whitefish_dried",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35165)"
+    },
+    {
+      "id": "tamales_masa_pork_filling",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        },
+        {
+          "amount": 4.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.6,
+          "gram_equivalent": 113
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35237)"
+    },
+    {
+      "id": "restaurant_latino_pupusas_del_cerdo",
+      "category": "meat_poultry",
+      "tags": [
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.3,
+          "gram_equivalent": 122
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 36410)"
+    },
+    {
+      "id": "restaurant_latino_tamale_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.2,
+          "gram_equivalent": 142
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 36412)"
+    },
+    {
+      "id": "restaurant_chinese_swt_sour_pork",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 27.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 169.9,
+          "gram_equivalent": 609
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 11.7,
+          "gram_equivalent": 42
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 36622)"
+    },
+    {
+      "id": "bologna_bfpork_lofat",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 138
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 14
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 42129)"
+    },
+    {
+      "id": "turkey_bacon_cooked",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.8,
+          "gram_equivalent": 82
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 42130)"
+    },
+    {
+      "id": "turkeypork_sausage_frsh_bulk_patty_or_link_ck",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 7.4,
+          "gram_equivalent": 130
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.6,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 42173)"
+    },
+    {
+      "id": "salad_drsng_bacontomato",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 69.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 10.4,
+          "gram_equivalent": 15
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 165.8,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43331)"
+    },
+    {
+      "id": "turkey_wing_smoked_ckd_wskn_bone_removed",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 19
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43366)"
+    },
+    {
+      "id": "turkey_drumstk_smoked_ckd_wskn_bone_removed",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.9,
+          "gram_equivalent": 21
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43367)"
+    },
+    {
+      "id": "pork_cured_bacon_ckd_brld_pan_fried_or_rstd_r",
+      "category": "meat_poultry",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 8
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43378)"
+    },
+    {
+      "id": "beef_bologna_red_na",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 138
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43384)"
+    },
+    {
+      "id": "turkey_lt_or_dk_meat_smoked_ckd_wskn_bone_rem",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.7,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43390)"
+    },
+    {
+      "id": "turkey_lt_or_dk_meat_smoked_ckd_skn_bone_remo",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43391)"
+    },
+    {
+      "id": "frankfurter_lo_na",
+      "category": "meat_poultry",
+      "tags": [
+        "high_sodium",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.5,
+          "gram_equivalent": 151
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 57
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43507)"
+    }
+  ]
+}

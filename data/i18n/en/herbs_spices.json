@@ -1,0 +1,130 @@
+{
+  "garlic_raw": {
+    "name": "Garlic, raw",
+    "alternative_names": [],
+    "description": "Garlic, raw as defined by the USDA database."
+  },
+  "parsley_dried": {
+    "name": "Parsley, dried",
+    "alternative_names": [
+      "dried parsley flakes"
+    ],
+    "description": "Dehydrated parsley flakes, highly concentrated in Vitamin K1."
+  },
+  "parsley_fresh": {
+    "name": "Parsley, fresh",
+    "alternative_names": [
+      "fresh parsley",
+      "curly parsley",
+      "flat leaf parsley"
+    ],
+    "description": "Fresh parsley leaves, an extremely rich plant source of Vitamin K1."
+  },
+  "spices_cinnamon_ground": {
+    "name": "Spices, cinnamon, ground",
+    "alternative_names": [],
+    "description": "Spices, cinnamon, ground as defined by the USDA database."
+  },
+  "spices_curry_powder": {
+    "name": "Spices, curry powder",
+    "alternative_names": [],
+    "description": "Spices, curry powder as defined by the USDA database."
+  },
+  "spices_marjoram_dried": {
+    "name": "Spices, marjoram, dried",
+    "alternative_names": [],
+    "description": "Spices, marjoram, dried as defined by the USDA database."
+  },
+  "spices_mustard_seed_ground": {
+    "name": "Spices, mustard seed, ground",
+    "alternative_names": [],
+    "description": "Spices, mustard seed, ground as defined by the USDA database."
+  },
+  "spices_thyme_dried": {
+    "name": "Spices, thyme, dried",
+    "alternative_names": [],
+    "description": "Spices, thyme, dried as defined by the USDA database."
+  },
+  "spices_turmeric_ground": {
+    "name": "Spices, turmeric, ground",
+    "alternative_names": [],
+    "description": "Spices, turmeric, ground as defined by the USDA database."
+  },
+  "thyme_dried": {
+    "name": "Thyme, dried",
+    "alternative_names": [
+      "dried thyme leaves"
+    ],
+    "description": "Dried thyme leaves, a highly aromatic herb extremely rich in Vitamin K1."
+  },
+  "spices_basil_dried": {
+    "name": "Spices, basil, dried",
+    "alternative_names": [],
+    "description": "Spices, basil, dried from the USDA database."
+  },
+  "cinnamon_ground": {
+    "name": "Cinnamon, ground",
+    "alternative_names": [],
+    "description": "Cinnamon, ground from the USDA database."
+  },
+  "curry_powder": {
+    "name": "Curry powder",
+    "alternative_names": [],
+    "description": "Curry powder from the USDA database."
+  },
+  "garlic_powder": {
+    "name": "Garlic powder",
+    "alternative_names": [],
+    "description": "Garlic powder from the USDA database."
+  },
+  "marjoram_dried": {
+    "name": "Marjoram, dried",
+    "alternative_names": [],
+    "description": "Marjoram, dried from the USDA database."
+  },
+  "spices_mustard_sd_ground": {
+    "name": "Spices, mustard sd, ground",
+    "alternative_names": [],
+    "description": "Spices, mustard sd, ground from the USDA database."
+  },
+  "spices_oregano_dried": {
+    "name": "Spices, oregano, dried",
+    "alternative_names": [],
+    "description": "Spices, oregano, dried from the USDA database."
+  },
+  "sage_ground": {
+    "name": "Sage, ground",
+    "alternative_names": [],
+    "description": "Sage, ground from the USDA database."
+  },
+  "turmeric_ground": {
+    "name": "Turmeric, ground",
+    "alternative_names": [],
+    "description": "Turmeric, ground from the USDA database."
+  },
+  "basil_fresh": {
+    "name": "Basil, fresh",
+    "alternative_names": [],
+    "description": "Basil, fresh from the USDA database."
+  },
+  "parsley_frsh": {
+    "name": "Parsley, frsh",
+    "alternative_names": [],
+    "description": "Parsley, frsh from the USDA database."
+  },
+  "english_muffins_raisin_cinnamon": {
+    "name": "English muffins, raisin-cinnamon (includes apple-cinnamon)",
+    "alternative_names": [],
+    "description": "English muffins, raisin-cinnamon (includes apple-cinnamon) from the USDA database."
+  },
+  "english_muffins_raisin_cinnamon_tstd": {
+    "name": "English muffins, raisin-cinnamon, tstd (incl apple-cinnamon)",
+    "alternative_names": [],
+    "description": "English muffins, raisin-cinnamon, tstd (incl apple-cinnamon) from the USDA database."
+  },
+  "cinnamon_buns_frstd": {
+    "name": "Cinnamon buns, frstd (includes honey buns)",
+    "alternative_names": [],
+    "description": "Cinnamon buns, frstd (includes honey buns) from the USDA database."
+  }
+}

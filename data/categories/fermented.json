@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": "natto",
+      "category": "fermented",
+      "tags": [
+        "fermented",
+        "fermented_soy",
+        "k2",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1000.0
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "gram_equivalent": 175,
+          "vitamin_k_mcg": 1750.0
+        }
+      ],
+      "source": "USDA FoodData Central (FDC ID: 172421)"
+    },
+    {
+      "id": "sauerkraut",
+      "category": "fermented",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.0
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "gram_equivalent": 150,
+          "vitamin_k_mcg": 19.5
+        }
+      ],
+      "source": "USDA FoodData Central (FDC ID: 173846)",
+      "tags": [
+        "fermented",
+        "high_sodium",
+        "k2"
+      ]
+    },
+    {
+      "id": "sauerkraut_cnd_solliquids",
+      "category": "fermented",
+      "tags": [
+        "fermented",
+        "high_sodium",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 18.5,
+          "gram_equivalent": 142
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 30.7,
+          "gram_equivalent": 236
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 11439)"
+    },
+    {
+      "id": "sauerkraut_cnd_lo_na",
+      "category": "fermented",
+      "tags": [
+        "fermented",
+        "high_sodium",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 18.5,
+          "gram_equivalent": 142
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43350)"
+    }
+  ]
+}
