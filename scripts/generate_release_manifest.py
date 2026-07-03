@@ -39,31 +39,18 @@ def main():
     categories = metadata.get("categories", [])
     languages = metadata.get("languages", [])
     
-    # 2. Determine current tag and previous tag from Git
-    current_tag = os.environ.get("GITHUB_REF_NAME") or os.environ.get("RELEASE_TAG")
-    if not current_tag and len(sys.argv) > 1:
-        current_tag = sys.argv[1]
-        
-    if not current_tag:
-        current_tag = "v0.0.0"
-        
-    current_global_version = current_tag.lstrip('v')
-    
-    tags_str = run_git(['tag', '--sort=-v:refname'])
-    tags = tags_str.splitlines() if tags_str else []
-    
-    previous_tag = None
-    for t in tags:
-        if t != current_tag:
-            previous_tag = t
-            break
+    # 2. Try to load existing manifest (locally or from live URL)
+    existing_manifest = None
+    manifest_path = os.path.join(repo_root, "release_manifest.json")
+    if os.path.exists(manifest_path):
+        try:
+            with open(manifest_path, 'r', encoding='utf-8') as f:
+                existing_manifest = json.load(f)
+            print("Loaded existing release_manifest.json from local workspace.")
+        except Exception as e:
+            print(f"Warning: Could not parse local manifest: {e}", file=sys.stderr)
             
-    previous_global_version = previous_tag.lstrip('v') if previous_tag else None
-            
-    print(f"Current Tag: {current_tag} (Version: {current_global_version})")
-    print(f"Previous Tag: {previous_tag} (Version: {previous_global_version})")
-    
-    # 3. Determine base URL using remote origin URL
+    # Base URL parsing
     base_url = "https://andrejvrabec.github.io/vitamin-k-food-database/"
     remote_url = run_git(['remote', 'get-url', 'origin'])
     if remote_url:
@@ -74,22 +61,109 @@ def main():
             base_url = f"https://{owner}.github.io/{repo}/"
     print(f"Determined Base URL: {base_url}")
 
-    # 4. Find all changed files using git diff if previous tag exists
+    if not existing_manifest:
+        live_manifest_url = f"{base_url}release_manifest.json"
+        print(f"Local manifest not found. Attempting to fetch live manifest from: {live_manifest_url}")
+        try:
+            import urllib.request
+            with urllib.request.urlopen(live_manifest_url, timeout=5) as response:
+                if response.status == 200:
+                    existing_manifest = json.loads(response.read().decode('utf-8'))
+                    print("Successfully loaded existing release_manifest.json from live deployed URL.")
+        except Exception as e:
+            print(f"Warning: Could not fetch live manifest: {e}", file=sys.stderr)
+            
+    # 3. Determine if this is a formal release tag build
+    raw_tag = os.environ.get("GITHUB_REF_NAME") or os.environ.get("RELEASE_TAG")
+    if not raw_tag and len(sys.argv) > 1:
+        raw_tag = sys.argv[1]
+        
+    is_release = bool(raw_tag and re.match(r'^v\d+\.\d+\.\d+', raw_tag))
+    
+    if is_release:
+        current_tag = raw_tag
+        current_global_version = current_tag.lstrip('v')
+        
+        tags_str = run_git(['tag', '--sort=-v:refname'])
+        tags = tags_str.splitlines() if tags_str else []
+        
+        previous_tag = None
+        for t in tags:
+            if t != current_tag:
+                previous_tag = t
+                break
+                
+        previous_global_version = previous_tag.lstrip('v') if previous_tag else None
+        global_version_changed = (current_global_version != previous_global_version)
+    else:
+        # If not running on a release tag, reuse the versions from the existing manifest
+        print("Build triggered outside of a formal release tag. Reusing existing manifest versions to keep them intact.")
+        if existing_manifest:
+            current_tag = existing_manifest.get("tag", "v0.0.0")
+            previous_tag = existing_manifest.get("previous_tag")
+            current_global_version = existing_manifest.get("global_version", "0.0.0")
+            previous_global_version = existing_manifest.get("previous_global_version")
+        else:
+            current_tag = "v0.0.0"
+            previous_tag = None
+            current_global_version = "0.0.0"
+            previous_global_version = None
+        global_version_changed = False
+            
+    print(f"Current Tag: {current_tag} (Version: {current_global_version})")
+    print(f"Previous Tag: {previous_tag} (Version: {previous_global_version})")
+    print(f"Global Version Changed: {global_version_changed}")
+    
+    # 4. Find changed files using git diff if it is a release tag build
     changed_files = set()
-    if previous_tag:
+    if is_release and previous_tag:
         diff_str = run_git(['diff', '--name-only', previous_tag])
         if diff_str:
             changed_files = set(diff_str.splitlines())
 
+    # Helper function to check if a file was modified compared to the release tag or previous manifest hashes
+    def was_file_modified(rel_path, current_sha):
+        if is_release:
+            return (not previous_tag) or (rel_path in changed_files)
+        
+        # If not a release build, compare hashes with existing manifest
+        if not existing_manifest:
+            return True
+            
+        files_section = existing_manifest.get("files", {})
+        
+        # metadata
+        if rel_path == "data/metadata.json":
+            return files_section.get("metadata", {}).get("sha256") != current_sha
+            
+        # categories
+        match = re.match(r'^data/categories/([^/]+)\.json$', rel_path)
+        if match:
+            cat = match.group(1)
+            return files_section.get("categories", {}).get(cat, {}).get("sha256") != current_sha
+            
+        # interactions
+        match = re.match(r'^data/interactions/([^/]+)\.json$', rel_path)
+        if match:
+            int_file = match.group(1)
+            return files_section.get("interactions", {}).get(int_file, {}).get("sha256") != current_sha
+            
+        # translations
+        match = re.match(r'^data/i18n/([^/]+)/([^/]+)\.json$', rel_path)
+        if match:
+            lang = match.group(1)
+            key = match.group(2)
+            return files_section.get("translations", {}).get(lang, {}).get(key, {}).get("sha256") != current_sha
+            
+        return True
+
     # 5. Process global metadata
     metadata_rel = "data/metadata.json"
-    global_changed = (metadata_rel in changed_files)
     metadata_sha = calculate_sha256(metadata_path)
-    
     metadata_manifest = {
         "url": f"{base_url}{metadata_rel}",
         "sha256": metadata_sha,
-        "changed": (not previous_tag) or global_changed
+        "changed": was_file_modified(metadata_rel, metadata_sha)
     }
 
     # 6. Process categories
@@ -100,12 +174,10 @@ def main():
         cat_abs_path = os.path.join(data_dir, "categories", cat_filename)
         
         cat_sha = calculate_sha256(cat_abs_path)
-        cat_changed = (cat_rel_path in changed_files)
-        
         categories_manifest[cat] = {
             "url": f"{base_url}{cat_rel_path}",
             "sha256": cat_sha,
-            "changed": (not previous_tag) or cat_changed
+            "changed": was_file_modified(cat_rel_path, cat_sha)
         }
         
     # 7. Process translations
@@ -113,7 +185,7 @@ def main():
     for lang in languages:
         lang_trans = {}
         
-        # 1. common.json
+        # common.json
         common_rel = f"data/i18n/{lang}/common.json"
         common_abs = os.path.join(data_dir, "i18n", lang, "common.json")
         if os.path.exists(common_abs):
@@ -121,10 +193,10 @@ def main():
             lang_trans["common"] = {
                 "url": f"{base_url}{common_rel}",
                 "sha256": common_sha,
-                "changed": (not previous_tag) or (common_rel in changed_files)
+                "changed": was_file_modified(common_rel, common_sha)
             }
             
-        # 2. Category translations
+        # Category translations
         for cat in categories:
             cat_trans_rel = f"data/i18n/{lang}/{cat}.json"
             cat_trans_abs = os.path.join(data_dir, "i18n", lang, f"{cat}.json")
@@ -133,7 +205,7 @@ def main():
                 lang_trans[cat] = {
                     "url": f"{base_url}{cat_trans_rel}",
                     "sha256": cat_trans_sha,
-                    "changed": (not previous_tag) or (cat_trans_rel in changed_files)
+                    "changed": was_file_modified(cat_trans_rel, cat_trans_sha)
                 }
                 
         translations_manifest[lang] = lang_trans
@@ -147,12 +219,10 @@ def main():
         int_abs_path = os.path.join(data_dir, "interactions", int_filename)
         
         int_sha = calculate_sha256(int_abs_path)
-        int_changed = (int_rel_path in changed_files)
-        
         interactions_manifest[int_file] = {
             "url": f"{base_url}{int_rel_path}",
             "sha256": int_sha,
-            "changed": (not previous_tag) or int_changed
+            "changed": was_file_modified(int_rel_path, int_sha)
         }
 
     # 8. Build final manifest
@@ -161,7 +231,7 @@ def main():
         "previous_tag": previous_tag,
         "global_version": current_global_version,
         "previous_global_version": previous_global_version,
-        "global_version_changed": (current_global_version != previous_global_version),
+        "global_version_changed": global_version_changed,
         "files": {
             "metadata": metadata_manifest,
             "categories": categories_manifest,
@@ -171,7 +241,6 @@ def main():
     }
     
     # 9. Write manifest to release_manifest.json
-    manifest_path = os.path.join(repo_root, "release_manifest.json")
     with open(manifest_path, 'w', encoding='utf-8') as f:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
         
