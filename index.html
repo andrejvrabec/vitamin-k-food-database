@@ -551,6 +551,7 @@
         <ul class="nav-list">
           <li><a href="#welcome" class="nav-link active"><svg viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>Welcome</a></li>
           <li><a href="#directory" class="nav-link"><svg viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg>Data Tree Explorer</a></li>
+          <li><a href="#architecture" class="nav-link"><svg viewBox="0 0 24 24"><path d="M12 2C7.58 2 4 3.79 4 6v12c0 2.21 3.58 4 8 4s8-1.79 8-4V6c0-2.21-3.58-4-8-4zm0 2c3.87 0 6 1.43 6 2s-2.13 2-6 2-6-1.43-6-2 2.13-2 6-2zm0 6c3.87 0 6 1.43 6 2s-2.13 2-6 2-6-1.43-6-2 2.13-2 6-2zm0 6c3.87 0 6 1.43 6 2s-2.13 2-6 2-6-1.43-6-2 2.13-2 6-2z"/></svg>Data Architecture</a></li>
           <li><a href="#sync" class="nav-link"><svg viewBox="0 0 24 24"><path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm-1.79 9.8l-2.42-2.42-1.41 1.41 3.83 3.83 7.07-7.07-1.41-1.41-5.66 5.67z"/></svg>Data Sync Guide</a></li>
           <li><a href="#versioning" class="nav-link"><svg viewBox="0 0 24 24"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/></svg>Versioning & Hashes</a></li>
           <li><a href="#contributing" class="nav-link"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H7c0-2.76 2.24-5 5-5s5 2.24 5 5c0 1.04-.42 1.99-1.07 2.75z"/></svg>Contributing</a></li>
@@ -680,6 +681,145 @@
             <h3>Metadata & Translations</h3>
             <div class="explorer-list" id="system-files-container">
               <p style="color: var(--text-muted); font-size: 0.9rem;">Loading files...</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section: Data Architecture & Linking -->
+      <section id="architecture">
+        <h2>
+          <svg viewBox="0 0 24 24"><path d="M12 2C7.58 2 4 3.79 4 6v12c0 2.21 3.58 4 8 4s8-1.79 8-4V6c0-2.21-3.58-4-8-4zm0 2c3.87 0 6 1.43 6 2s-2.13 2-6 2-6-1.43-6-2 2.13-2 6-2zm0 6c3.87 0 6 1.43 6 2s-2.13 2-6 2-6-1.43-6-2 2.13-2 6-2zm0 6c3.87 0 6 1.43 6 2s-2.13 2-6 2-6-1.43-6-2 2.13-2 6-2z"/></svg>
+          Data Linking & Architecture Guide
+        </h2>
+        <p class="section-intro">
+          Learn how the food database entities are structured and cross-referenced. This guide explains how to connect raw nutritional values, medical interactions, and multilingual translations in your client application.
+        </p>
+
+        <div class="card-grid">
+          <!-- Card: Metadata File -->
+          <div class="card" style="grid-column: span 2;">
+            <h3>The Central Map: <code>metadata.json</code></h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 1rem;">
+              Every consuming application must start by fetching the central map: <a href="data/metadata.json" target="_blank" style="color: var(--accent-color); font-weight: 500;">/data/metadata.json</a>.
+              It lists the primary constraints that validate the rest of the database:
+            </p>
+            <div class="manifest-info" style="margin-bottom: 1rem;">
+              <div class="manifest-row">
+                <span class="manifest-label">languages</span>
+                <span class="manifest-value" style="font-family: monospace; color: #60a5fa;">["en", "sk"]</span>
+              </div>
+              <div class="manifest-row">
+                <span class="manifest-label">categories</span>
+                <span class="manifest-value" style="font-family: monospace; color: #60a5fa;">["vegetables", "fruits", "herbs_spices", "oils_fats", ...]</span>
+              </div>
+              <div class="manifest-row">
+                <span class="manifest-label">tags</span>
+                <span class="manifest-value" style="font-family: monospace; color: #60a5fa;">["green_leaves", "raw", "cooked", "affects_warfarin", "affects_coagulation", ...]</span>
+              </div>
+            </div>
+            <div class="info-box">
+              <svg viewBox="0 0 24 24"><path d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
+              <div>
+                <h4>Special Indicators (Tags)</h4>
+                <p>
+                  We define two special tags: <code>affects_warfarin</code> and <code>affects_coagulation</code>. 
+                  When scanning the food lists in your UI, you can check for these tags to instantly render a warning symbol (e.g. ⚠️ or 🩸) next to food search results without loading the heavy interaction datasets.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card: Food categories & Portions -->
+          <div class="card">
+            <h3>Food Items & Optional Portions</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 0.75rem;">
+              Food files live under <code>/data/categories/&lt;category_id&gt;.json</code>.
+              Each food item features standard attributes. For items where Vitamin K content is unknown, zero, or not clinically relevant (e.g., St. John's Wort supplement), the <code>portions</code> array can be set to <code>null</code>:
+            </p>
+            <div class="code-block-container" style="padding: 0.85rem;">
+              <pre><code style="font-size: 0.8rem; line-height: 1.4; color: #34d399;">{
+  "id": "st_johns_wort",
+  "category": "herbs_spices",
+  "portions": null, // Optional/Null
+  "tags": ["herbs", "affects_warfarin"]
+}</code></pre>
+            </div>
+          </div>
+
+          <!-- Card: Multilingual Translations -->
+          <div class="card">
+            <h3>How Translations Are Stored</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 0.75rem;">
+              Translations live under <code>/data/i18n/&lt;lang&gt;/</code>.
+              To display a food item (e.g., <code>st_johns_wort</code>) in a specific language, lookup its ID in the corresponding translation file:
+            </p>
+            <div class="code-block-container" style="padding: 0.85rem;">
+              <pre><code style="font-size: 0.8rem; line-height: 1.4; color: #34d399;">// /data/i18n/sk/herbs_spices.json
+{
+  "st_johns_wort": {
+    "name": "Ľubovník bodkovaný",
+    "alternative_names": ["Třezalka"],
+    "description": "Bylinný extrakt..."
+  }
+}</code></pre>
+            </div>
+          </div>
+
+          <!-- Card: Interactions mapping -->
+          <div class="card" style="grid-column: span 2;">
+            <h3>Clinical Interaction Datasets</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 1rem;">
+              Detailed medical properties are decoupled from nutritional lists and stored in separate interaction files:
+            </p>
+            
+            <div class="card-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; border: none; padding: 0; background: transparent;">
+              <!-- Sub-card: Warfarin -->
+              <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 12px; padding: 1rem;">
+                <h4 style="font-size: 0.95rem; margin-bottom: 0.5rem; color: #ffffff;"><a href="data/interactions/warfarin.json" target="_blank" style="color: var(--accent-color);">warfarin.json</a></h4>
+                <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.4; margin-bottom: 0.5rem;">
+                  Maps food IDs to Warfarin drug interactions.
+                </p>
+                <div class="code-block-container" style="padding: 0.75rem;">
+                  <pre><code style="font-size: 0.75rem; line-height: 1.3; color: #34d399;">{
+  "st_johns_wort": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "cyp2c9_induction",
+    "recommendation_key": "warfarin_avoid"
+  }
+}</code></pre>
+                </div>
+              </div>
+
+              <!-- Sub-card: Coagulation -->
+              <div style="background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-color); border-radius: 12px; padding: 1rem;">
+                <h4 style="font-size: 0.95rem; margin-bottom: 0.5rem; color: #ffffff;"><a href="data/interactions/coagulation.json" target="_blank" style="color: var(--accent-color);">coagulation.json</a></h4>
+                <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.4; margin-bottom: 0.5rem;">
+                  Maps food IDs to natural blood clotting influences.
+                </p>
+                <div class="code-block-container" style="padding: 0.75rem;">
+                  <pre><code style="font-size: 0.75rem; line-height: 1.3; color: #34d399;">{
+  "garlic_raw": {
+    "effect": "anticoagulant",
+    "severity": "mild",
+    "active_compounds": ["allicin", "salicylates"]
+  }
+}</code></pre>
+                </div>
+              </div>
+            </div>
+
+            <div class="warning-box" style="margin-top: 1rem;">
+              <svg viewBox="0 0 24 24"><path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg>
+              <div>
+                <h4>Translating Interaction Details</h4>
+                <p>
+                  Values for <code>effect</code>, <code>severity</code>, and <code>recommendation_key</code> are clinical tags. 
+                  Their human-readable localized translations are stored in <code>/data/i18n/&lt;lang&gt;/common.json</code> under the <code>"interactions"</code> dictionary. 
+                  Always look them up there to localize your application UI.
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -853,6 +993,13 @@
   <script>
     let databaseMetadata = null;
     let englishCommonTranslations = null;
+    let selectedLanguage = 'en';
+
+    function selectLanguage(lang) {
+      selectedLanguage = lang;
+      renderLanguagesBadges();
+      renderSystemFiles();
+    }
 
     // Helper to resolve relative path correctly based on the current page location
     function getResolvedPath(relPath) {
@@ -930,6 +1077,10 @@
         document.getElementById('tree-int-warfarin').href = getResolvedPath('data/interactions/warfarin.json');
         document.getElementById('tree-int-coag').href = getResolvedPath('data/interactions/coagulation.json');
 
+        if (databaseMetadata && databaseMetadata.languages && databaseMetadata.languages.length > 0) {
+          selectedLanguage = databaseMetadata.languages[0];
+        }
+
         renderLanguagesBadges();
         renderCategories();
         renderTags();
@@ -952,7 +1103,11 @@
       let html = '';
       databaseMetadata.languages.forEach(lang => {
         const uppercase = lang.toUpperCase();
-        html += `<span class="badge badge-secondary" style="letter-spacing: 0.05em;">${uppercase}</span>`;
+        const isActive = lang === selectedLanguage;
+        const activeClass = isActive ? 'badge-primary' : 'badge-secondary';
+        const activeStyle = isActive ? 'border: 1px solid var(--accent-color); font-weight: bold;' : 'opacity: 0.6;';
+        
+        html += `<span class="badge ${activeClass}" style="letter-spacing: 0.05em; cursor: pointer; margin-left: 0.35rem; ${activeStyle}" onclick="selectLanguage('${lang}')">${uppercase}</span>`;
       });
       container.innerHTML = html;
     }
@@ -1018,7 +1173,8 @@
       if (!databaseMetadata) return;
 
       const categories = databaseMetadata.categories || [];
-      const languages = databaseMetadata.languages || [];
+      const lang = selectedLanguage;
+      const langName = lang.toUpperCase();
       
       let html = '';
       
@@ -1060,49 +1216,44 @@
         </a>
       `;
 
-      // 2. Loop through all supported languages to render their translation files
-      languages.forEach(lang => {
-        const langName = lang.toUpperCase();
+      // 2. Render common translations for the selected language
+      const commonRel = `data/i18n/${lang}/common.json`;
+      const commonPath = getResolvedPath(commonRel);
+      html += `
+        <a href="${commonPath}" class="explorer-item" target="_blank" style="padding: 0.75rem 1rem; border-radius: 12px; display: flex; margin-top: 0.5rem; background: rgba(16, 185, 129, 0.02); border-color: rgba(16, 185, 129, 0.08);">
+          <div class="cat-info-wrapper" style="max-width: 90%;">
+            <span class="name" style="font-size: 0.9rem; color: #34d399;">Common Translations (${langName})</span>
+            <span class="path" style="font-size: 0.75rem; margin-bottom: 0.15rem;">${commonRel}</span>
+            <span style="font-size: 0.75rem; color: var(--text-muted); line-height: 1.3;">Translates tag names, category titles, and portion units into ${langName}.</span>
+          </div>
+          <svg class="arrow-icon" style="width: 14px; height: 14px; margin-left: auto; align-self: center; fill: var(--accent-color);" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
+        </a>
+      `;
+
+      // 3. Render category specific translations for the selected language
+      categories.forEach(cat => {
+        let catName = cat.replace('_', ' ');
+        catName = catName.charAt(0).toUpperCase() + catName.slice(1);
         
-        // Render common translations for this language
-        const commonRel = `data/i18n/${lang}/common.json`;
-        const commonPath = getResolvedPath(commonRel);
+        if (englishCommonTranslations && englishCommonTranslations.categories && englishCommonTranslations.categories[cat]) {
+          catName = englishCommonTranslations.categories[cat];
+        }
+
+        const relativePath = `data/i18n/${lang}/${cat}.json`;
+        const path = getResolvedPath(relativePath);
+        const displayName = `Category Translation: ${catName} (${langName})`;
+        const desc = `Translates food item names, portion sizes, and descriptions for ${catName} into ${langName}.`;
+
         html += `
-          <a href="${commonPath}" class="explorer-item" target="_blank" style="padding: 0.75rem 1rem; border-radius: 12px; display: flex; margin-top: 0.5rem; background: rgba(16, 185, 129, 0.02); border-color: rgba(16, 185, 129, 0.08);">
+          <a href="${path}" class="explorer-item" target="_blank" style="padding: 0.75rem 1rem; border-radius: 12px; display: flex; margin-left: 0.75rem; margin-top: 0.25rem;">
             <div class="cat-info-wrapper" style="max-width: 90%;">
-              <span class="name" style="font-size: 0.9rem; color: #34d399;">Common Translations (${langName})</span>
-              <span class="path" style="font-size: 0.75rem; margin-bottom: 0.15rem;">${commonRel}</span>
-              <span style="font-size: 0.75rem; color: var(--text-muted); line-height: 1.3;">Translates tag names, category titles, and portion units into ${langName}.</span>
+              <span class="name" style="font-size: 0.88rem;">${displayName}</span>
+              <span class="path" style="font-size: 0.75rem; margin-bottom: 0.15rem;">${relativePath}</span>
+              <span style="font-size: 0.75rem; color: var(--text-muted); line-height: 1.3;">${desc}</span>
             </div>
-            <svg class="arrow-icon" style="width: 14px; height: 14px; margin-left: auto; align-self: center; fill: var(--accent-color);" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
+            <svg class="arrow-icon" style="width: 14px; height: 14px; margin-left: auto; align-self: center;" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
           </a>
         `;
-
-        // Render category specific translations for this language
-        categories.forEach(cat => {
-          let catName = cat.replace('_', ' ');
-          catName = catName.charAt(0).toUpperCase() + catName.slice(1);
-          
-          if (englishCommonTranslations && englishCommonTranslations.categories && englishCommonTranslations.categories[cat]) {
-            catName = englishCommonTranslations.categories[cat];
-          }
-
-          const relativePath = `data/i18n/${lang}/${cat}.json`;
-          const path = getResolvedPath(relativePath);
-          const displayName = `Category Translation: ${catName} (${langName})`;
-          const desc = `Translates food item names, portion sizes, and descriptions for ${catName} into ${langName}.`;
-
-          html += `
-            <a href="${path}" class="explorer-item" target="_blank" style="padding: 0.75rem 1rem; border-radius: 12px; display: flex; margin-left: 0.75rem;">
-              <div class="cat-info-wrapper" style="max-width: 90%;">
-                <span class="name" style="font-size: 0.88rem;">${displayName}</span>
-                <span class="path" style="font-size: 0.75rem; margin-bottom: 0.15rem;">${relativePath}</span>
-                <span style="font-size: 0.75rem; color: var(--text-muted); line-height: 1.3;">${desc}</span>
-              </div>
-              <svg class="arrow-icon" style="width: 14px; height: 14px; margin-left: auto; align-self: center;" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
-            </a>
-          `;
-        });
       });
 
       container.innerHTML = html;
