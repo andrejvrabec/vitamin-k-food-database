@@ -131,22 +131,16 @@ These files map food IDs to structured drug-interaction or coagulation propertie
 
 ---
 
-## Local Development & Validation
+## Contributing & Development
 
-To ensure all JSON files are formatted correctly, have complete translation coverage, and contain no broken relations, run the validation script before opening a Pull Request.
+We welcome contributions to add new foods, translate names, or update clinical interactions. To maintain data integrity, all updates are verified by an automated Python validation script.
 
-### Setup
-Ensure you have Python installed:
-```bash
-pip install -r requirements.txt
-```
-
-### Run Validation
-From the repository root directory:
-```bash
-python scripts/validate_data.py
-```
-*(On Windows, you can also use `py scripts/validate_data.py`)*
+* **Detailed Guidelines:** Please see [CONTRIBUTING.md](file:///f:/Projects/VitaminK/VitaminKDataSource/CONTRIBUTING.md) for full instructions on modifying files, formatting portions/tags, and submitting Pull Requests.
+* **Local Setup & Validation:**
+  ```bash
+  pip install -r requirements.txt
+  python scripts/validate_data.py
+  ```
 
 ---
 
