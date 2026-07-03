@@ -7,7 +7,9 @@
         "fermented",
         "fermented_soy",
         "k2",
-        "soy"
+        "soy",
+        "affects_warfarin",
+        "affects_coagulation"
       ],
       "portions": [
         {
@@ -22,7 +24,7 @@
           "vitamin_k_mcg": 1750.0
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 172421)"
+      "source": "USDA FoodData Central (FDC ID: 172421), FDA Coumadin Prescribing Information"
     },
     {
       "id": "sauerkraut",

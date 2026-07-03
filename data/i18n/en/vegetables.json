@@ -1797,5 +1797,14 @@
     "name": "Celery flakes, dried",
     "alternative_names": [],
     "description": "Celery flakes, dried from the USDA database."
+  },
+  "swiss_chard_raw": {
+    "name": "Swiss chard, raw",
+    "alternative_names": [
+      "chard",
+      "silverbeet",
+      "raw chard"
+    ],
+    "description": "Raw Swiss chard leaves, a dark leafy green with very high Vitamin K1 content."
   }
 }

@@ -6,7 +6,127 @@
   },
   "garlic_raw": {
     "effect": "anticoagulant",
-    "severity": "mild",
+    "severity": "moderate",
     "active_compounds": ["allicin", "salicylates"]
+  },
+  "natto": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k2"]
+  },
+  "kale_raw": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "broccoli_raw": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "brussels_sprouts_raw": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "cabbage_raw": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "collards_raw": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "mustard_greens_raw": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "turnip_greens_raw": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "swiss_chard_raw": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "parsley_fresh": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "basil_fresh": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "coriander_leaves_fresh": {
+    "effect": "procoagulant",
+    "severity": "moderate",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "onions_spring_or_scallions_raw": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "tea_green_brewed": {
+    "effect": "procoagulant",
+    "severity": "moderate",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "alfalfa": {
+    "effect": "procoagulant",
+    "severity": "moderate",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "seaweed_kelp": {
+    "effect": "procoagulant",
+    "severity": "moderate",
+    "active_compounds": ["vitamin_k"]
+  },
+  "ginger_raw": {
+    "effect": "anticoagulant",
+    "severity": "moderate",
+    "active_compounds": ["gingerols"]
+  },
+  "ginkgo_biloba": {
+    "effect": "anticoagulant",
+    "severity": "high",
+    "active_compounds": ["ginkgolides", "bilobalide"]
+  },
+  "feverfew": {
+    "effect": "anticoagulant",
+    "severity": "moderate",
+    "active_compounds": ["parthenolide"]
+  },
+  "dong_quai": {
+    "effect": "anticoagulant",
+    "severity": "high",
+    "active_compounds": ["coumarin_derivatives", "ferulic_acid"]
+  },
+  "chamomile_tea": {
+    "effect": "anticoagulant",
+    "severity": "mild",
+    "active_compounds": ["coumarins", "apigenin"]
+  },
+  "turmeric_ground": {
+    "effect": "anticoagulant",
+    "severity": "moderate",
+    "active_compounds": ["curcumin"]
+  },
+  "fish_oil_supplement": {
+    "effect": "anticoagulant",
+    "severity": "moderate",
+    "active_compounds": ["omega_3_fatty_acids", "epa", "dha"]
+  },
+  "vitamin_e_supplement": {
+    "effect": "anticoagulant",
+    "severity": "high",
+    "active_compounds": ["alpha_tocopherol"]
   }
 }

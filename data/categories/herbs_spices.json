@@ -16,7 +16,7 @@
           "gram_equivalent": 150
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), NIH NCCIH, MSKCC About Herbs",
       "tags": [
         "k1",
         "raw",
@@ -58,7 +58,9 @@
       "tags": [
         "herbs",
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
       ],
       "portions": [
         {
@@ -73,7 +75,7 @@
           "vitamin_k_mcg": 65.6
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 170416)",
+      "source": "USDA FoodData Central (FDC ID: 170416), FDA Coumadin Prescribing Information",
       "relations": {
         "group": "parsley",
         "related_ids": [
@@ -261,7 +263,8 @@
       "id": "cinnamon_ground",
       "category": "herbs_spices",
       "tags": [
-        "k1"
+        "k1",
+        "affects_warfarin"
       ],
       "portions": [
         {
@@ -282,7 +285,7 @@
           "gram_equivalent": 2
         }
       ],
-      "source": "USDA SR28 (NDB No: 02010)"
+      "source": "USDA SR28 (NDB No: 02010), FDA Warning"
     },
     {
       "id": "curry_powder",
@@ -450,7 +453,9 @@
       "id": "turmeric_ground",
       "category": "herbs_spices",
       "tags": [
-        "k1"
+        "k1",
+        "affects_warfarin",
+        "affects_coagulation"
       ],
       "portions": [
         {
@@ -471,14 +476,16 @@
           "gram_equivalent": 2
         }
       ],
-      "source": "USDA SR28 (NDB No: 02043)"
+      "source": "USDA SR28 (NDB No: 02043), MSKCC About Herbs"
     },
     {
       "id": "basil_fresh",
       "category": "herbs_spices",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
       ],
       "portions": [
         {
@@ -499,7 +506,7 @@
           "gram_equivalent": 2
         }
       ],
-      "source": "USDA SR28 (NDB No: 02044)"
+      "source": "USDA SR28 (NDB No: 02044), FDA Coumadin Prescribing Information"
     },
     {
       "id": "parsley_frsh",
@@ -615,11 +622,146 @@
       "id": "st_johns_wort",
       "category": "herbs_spices",
       "portions": null,
-      "source": "Clinical pharmacology",
+      "source": "Clinical Pharmacology, FDA Warning, Stockley's Drug Interactions",
       "tags": [
         "herbs",
         "affects_warfarin"
       ]
+    },
+    {
+      "id": "ginger_raw",
+      "category": "herbs_spices",
+      "tags": [
+        "raw",
+        "k1",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.034,
+          "gram_equivalent": 2
+        }
+      ],
+      "source": "USDA FoodData Central, NIH NCCIH, MSKCC About Herbs"
+    },
+    {
+      "id": "ginkgo_biloba",
+      "category": "herbs_spices",
+      "portions": null,
+      "source": "NIH NCCIH, MSKCC About Herbs",
+      "tags": [
+        "herbs",
+        "affects_warfarin",
+        "affects_coagulation"
+      ]
+    },
+    {
+      "id": "feverfew",
+      "category": "herbs_spices",
+      "portions": null,
+      "source": "NIH NCCIH, MSKCC About Herbs",
+      "tags": [
+        "herbs",
+        "affects_warfarin",
+        "affects_coagulation"
+      ]
+    },
+    {
+      "id": "dong_quai",
+      "category": "herbs_spices",
+      "portions": null,
+      "source": "MSKCC About Herbs, Stockley's Drug Interactions",
+      "tags": [
+        "herbs",
+        "affects_warfarin",
+        "affects_coagulation"
+      ]
+    },
+    {
+      "id": "ginseng_panax",
+      "category": "herbs_spices",
+      "portions": null,
+      "source": "NIH NCCIH, MSKCC About Herbs",
+      "tags": [
+        "herbs",
+        "affects_warfarin"
+      ]
+    },
+    {
+      "id": "coenzyme_q10",
+      "category": "herbs_spices",
+      "portions": null,
+      "source": "FDA Coumadin Prescribing Information, MSKCC About Herbs",
+      "tags": [
+        "herbs",
+        "affects_warfarin"
+      ]
+    },
+    {
+      "id": "saw_palmetto",
+      "category": "herbs_spices",
+      "portions": null,
+      "source": "NIH NCCIH, MSKCC About Herbs",
+      "tags": [
+        "herbs",
+        "affects_warfarin"
+      ]
+    },
+    {
+      "id": "alfalfa",
+      "category": "herbs_spices",
+      "tags": [
+        "raw",
+        "k1",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 30.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 10.1,
+          "gram_equivalent": 33
+        }
+      ],
+      "source": "USDA FoodData Central, Stockley's Drug Interactions"
+    },
+    {
+      "id": "coriander_leaves_fresh",
+      "category": "herbs_spices",
+      "tags": [
+        "raw",
+        "k1",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 310.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 49.6,
+          "gram_equivalent": 16
+        }
+      ],
+      "source": "USDA FoodData Central, FDA Coumadin Prescribing Information"
     }
   ]
 }

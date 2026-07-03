@@ -385,7 +385,7 @@
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), FDA Coumadin Prescribing Information",
       "tags": [
         "beverages",
         "k1",
@@ -543,10 +543,11 @@
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), Stockley's Drug Interactions",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin"
       ]
     },
     {
@@ -611,10 +612,11 @@
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), Stockley's Drug Interactions",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin"
       ]
     },
     {
@@ -778,10 +780,11 @@
           "vitamin_k_mcg": 25.9
         }
       ],
-      "source": "USDA FDC (derived from PDF page 2)",
+      "source": "USDA FDC (derived from PDF page 2), Stockley's Drug Interactions",
       "tags": [
         "beverages",
-        "k1"
+        "k1",
+        "affects_warfarin"
       ]
     },
     {
@@ -4118,7 +4121,7 @@
           "gram_equivalent": 31
         }
       ],
-      "source": "USDA SR28 (NDB No: 43382)"
+      "source": "USDA SR28 (NDB No: 43382), FDA Warning, Stockley's Drug Interactions"
     },
     {
       "id": "cranberry_apple_juc_drk_lo_cal_wvit_c",
@@ -4146,6 +4149,52 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 43404)"
+    },
+    {
+      "id": "avocado_raw",
+      "category": "fruits",
+      "tags": [
+        "raw",
+        "k1",
+        "affects_warfarin"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 21.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 48.3,
+          "gram_equivalent": 230
+        }
+      ],
+      "source": "USDA FoodData Central (FDC ID: 171705), Stockley's Drug Interactions"
+    },
+    {
+      "id": "goji_berries",
+      "category": "fruits",
+      "tags": [
+        "berries",
+        "k1",
+        "affects_warfarin"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 9
+        }
+      ],
+      "source": "USDA FoodData Central, Stockley's Drug Interactions"
     }
   ]
 }

@@ -4221,7 +4221,9 @@
       "tags": [
         "cruciferous",
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
       ],
       "portions": [
         {
@@ -4236,7 +4238,7 @@
           "gram_equivalent": 36
         }
       ],
-      "source": "USDA SR28 (NDB No: 11161)"
+      "source": "USDA SR28 (NDB No: 11161), FDA Coumadin Prescribing Information"
     },
     {
       "id": "collards_ckd_bld_drnd_wosalt",
@@ -18012,6 +18014,123 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 93600)"
+    },
+    {
+      "id": "tea_green_brewed",
+      "category": "other",
+      "tags": [
+        "beverages",
+        "k1",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 23.3,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA FoodData Central, FDA Coumadin Prescribing Information"
+    },
+    {
+      "id": "chamomile_tea",
+      "category": "other",
+      "tags": [
+        "beverages",
+        "k1",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA FoodData Central, MSKCC About Herbs"
+    },
+    {
+      "id": "seaweed_kelp",
+      "category": "other",
+      "tags": [
+        "raw",
+        "k1",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 66.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 6.6,
+          "gram_equivalent": 10
+        }
+      ],
+      "source": "USDA FoodData Central, Stockley's Drug Interactions"
+    },
+    {
+      "id": "licorice_black",
+      "category": "other",
+      "tags": [
+        "processed",
+        "sweetened",
+        "affects_warfarin"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 5
+        }
+      ],
+      "source": "USDA FoodData Central, Stockley's Drug Interactions, MSKCC About Herbs"
+    },
+    {
+      "id": "fish_oil_supplement",
+      "category": "other",
+      "tags": [
+        "processed",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": null,
+      "source": "FDA Coumadin Prescribing Information, Clinical Nutrition Studies"
+    },
+    {
+      "id": "vitamin_e_supplement",
+      "category": "other",
+      "tags": [
+        "processed",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": null,
+      "source": "FDA Coumadin Prescribing Information, Clinical Nutrition Studies"
     }
   ]
 }

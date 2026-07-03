@@ -3605,5 +3605,55 @@
     "name": "Turtle, green, raw",
     "alternative_names": [],
     "description": "Turtle, green, raw from the USDA database."
+  },
+  "tea_green_brewed": {
+    "name": "Green tea, brewed",
+    "alternative_names": [
+      "brewed green tea",
+      "sencha",
+      "matcha tea"
+    ],
+    "description": "Brewed green tea, containing moderate amounts of Vitamin K1 which can interfere with anticoagulants."
+  },
+  "chamomile_tea": {
+    "name": "Chamomile tea, brewed",
+    "alternative_names": [
+      "manzanilla tea",
+      "camomile tea"
+    ],
+    "description": "Brewed chamomile tea, containing natural coumarin compounds which may have additive antiplatelet effects."
+  },
+  "seaweed_kelp": {
+    "name": "Kelp (Seaweed), raw",
+    "alternative_names": [
+      "kelp",
+      "seaweed",
+      "kombu"
+    ],
+    "description": "Raw kelp seaweed, exceptionally high in iodine and containing moderate-to-high Vitamin K."
+  },
+  "licorice_black": {
+    "name": "Licorice, black",
+    "alternative_names": [
+      "black licorice",
+      "liquorice"
+    ],
+    "description": "Black licorice candy, containing glycyrrhizin which can induce CYP3A4 and reduce Warfarin effectiveness."
+  },
+  "fish_oil_supplement": {
+    "name": "Fish Oil supplement (Omega-3)",
+    "alternative_names": [
+      "omega-3 fatty acids",
+      "EPA/DHA supplement"
+    ],
+    "description": "Fish oil supplement, high doses may possess antiplatelet activity and increase bleeding risk."
+  },
+  "vitamin_e_supplement": {
+    "name": "Vitamin E supplement",
+    "alternative_names": [
+      "tocopherol supplement",
+      "alpha-tocopherol"
+    ],
+    "description": "Vitamin E supplement, high doses (>= 400 IU) can antagonize Vitamin K and increase bleeding risk."
   }
 }

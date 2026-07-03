@@ -850,5 +850,21 @@
     "name": "Cranberry-apple juc drk, lo cal, w/vit c",
     "alternative_names": [],
     "description": "Cranberry-apple juc drk, lo cal, w/vit c from the USDA database."
+  },
+  "avocado_raw": {
+    "name": "Avocado, raw",
+    "alternative_names": [
+      "alligator pear",
+      "raw avocado"
+    ],
+    "description": "Raw avocado fruit, rich in healthy fats, fiber, and containing moderate Vitamin K1."
+  },
+  "goji_berries": {
+    "name": "Goji berries, dried",
+    "alternative_names": [
+      "wolfberries",
+      "goji"
+    ],
+    "description": "Dried goji berries, clinically known to interact with Warfarin by inhibiting CYP2C9."
   }
 }

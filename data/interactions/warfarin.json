@@ -28,5 +28,209 @@
     "severity": "moderate",
     "mechanism": "cyp2c9_inhibition",
     "recommendation_key": "warfarin_limit_excessive"
+  },
+  "alfalfa": {
+    "effect": "decreases_efficacy",
+    "severity": "moderate",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "avocado_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "moderate",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "basil_fresh": {
+    "effect": "decreases_efficacy",
+    "severity": "moderate",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "broccoli_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "brussels_sprouts_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "cabbage_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "chamomile_tea": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "antiplatelet_effect",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "cinnamon_ground": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "coumarin_toxicity",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "coenzyme_q10": {
+    "effect": "decreases_efficacy",
+    "severity": "moderate",
+    "mechanism": "procoagulant_properties",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "coriander_leaves_fresh": {
+    "effect": "decreases_efficacy",
+    "severity": "moderate",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "collards_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "dong_quai": {
+    "effect": "increases_bleeding_risk",
+    "severity": "high",
+    "mechanism": "coumarin_toxicity",
+    "recommendation_key": "warfarin_avoid"
+  },
+  "feverfew": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "antiplatelet_effect",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "fish_oil_supplement": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "antiplatelet_effect",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "ginger_raw": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "antiplatelet_effect",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "ginkgo_biloba": {
+    "effect": "increases_bleeding_risk",
+    "severity": "high",
+    "mechanism": "antiplatelet_effect",
+    "recommendation_key": "warfarin_avoid"
+  },
+  "ginseng_panax": {
+    "effect": "decreases_efficacy",
+    "severity": "moderate",
+    "mechanism": "cyp2c9_induction",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "goji_berries": {
+    "effect": "increases_bleeding_risk",
+    "severity": "high",
+    "mechanism": "cyp2c9_inhibition",
+    "recommendation_key": "warfarin_avoid"
+  },
+  "kale_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "licorice_black": {
+    "effect": "decreases_efficacy",
+    "severity": "moderate",
+    "mechanism": "cyp3a4_induction",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "mangos_raw": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "clinical_enhancement",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "mustard_greens_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "natto": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_avoid"
+  },
+  "onions_spring_or_scallions_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "papayas_raw": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "clinical_enhancement",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "parsley_fresh": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "pomegranate_juice": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "cyp2c9_inhibition",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "saw_palmetto": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "antiplatelet_effect",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "seaweed_kelp": {
+    "effect": "decreases_efficacy",
+    "severity": "moderate",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "swiss_chard_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "tea_green_brewed": {
+    "effect": "decreases_efficacy",
+    "severity": "moderate",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "turmeric_ground": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "thrombin_and_factor_xa_inhibition",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "turnip_greens_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "vitamin_e_supplement": {
+    "effect": "increases_bleeding_risk",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_avoid"
   }
 }

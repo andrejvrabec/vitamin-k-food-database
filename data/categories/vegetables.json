@@ -294,7 +294,7 @@
           "vitamin_k_mcg": 92.5
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 170379)",
+      "source": "USDA FoodData Central (FDC ID: 170379), FDA Coumadin Prescribing Information",
       "relations": {
         "group": "broccoli",
         "related_ids": [
@@ -304,7 +304,9 @@
       "tags": [
         "cruciferous",
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
       ]
     },
     {
@@ -323,11 +325,13 @@
           "vitamin_k_mcg": 155.8
         }
       ],
-      "source": "USDA FDC (derived from PDF page 1)",
+      "source": "USDA FDC (derived from PDF page 1), FDA Coumadin Prescribing Information",
       "tags": [
         "cruciferous",
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
       ]
     },
     {
@@ -698,7 +702,9 @@
         "cruciferous",
         "green_leaves",
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
       ],
       "portions": [
         {
@@ -713,7 +719,7 @@
           "vitamin_k_mcg": 81.8
         }
       ],
-      "source": "USDA FDC (derived from PDF page 1)"
+      "source": "USDA FDC (derived from PDF page 1), FDA Coumadin Prescribing Information"
     },
     {
       "id": "leeks_cooked",
@@ -2217,7 +2223,9 @@
       "tags": [
         "cruciferous",
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
       ],
       "portions": [
         {
@@ -2238,7 +2246,7 @@
           "gram_equivalent": 70
         }
       ],
-      "source": "USDA SR28 (NDB No: 11109)"
+      "source": "USDA SR28 (NDB No: 11109), FDA Coumadin Prescribing Information"
     },
     {
       "id": "cabbage_ckd_bld_drnd_wosalt",
@@ -3061,7 +3069,9 @@
       "category": "vegetables",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
       ],
       "portions": [
         {
@@ -3076,7 +3086,7 @@
           "gram_equivalent": 56
         }
       ],
-      "source": "USDA SR28 (NDB No: 11270)"
+      "source": "USDA SR28 (NDB No: 11270), FDA Coumadin Prescribing Information"
     },
     {
       "id": "new_zealand_spinach_raw",
@@ -3352,7 +3362,9 @@
       "category": "vegetables",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
       ],
       "portions": [
         {
@@ -3373,7 +3385,7 @@
           "gram_equivalent": 6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11291)"
+      "source": "USDA SR28 (NDB No: 11291), FDA Coumadin Prescribing Information"
     },
     {
       "id": "onions_young_grn_tops_only",
@@ -5392,7 +5404,9 @@
       "category": "vegetables",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
       ],
       "portions": [
         {
@@ -5407,7 +5421,7 @@
           "gram_equivalent": 55
         }
       ],
-      "source": "USDA SR28 (NDB No: 11568)"
+      "source": "USDA SR28 (NDB No: 11568), FDA Coumadin Prescribing Information"
     },
     {
       "id": "turnip_grns_ckd_bld_drnd_wosalt",
@@ -8556,6 +8570,32 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 44055)"
+    },
+
+    {
+      "id": "swiss_chard_raw",
+      "category": "vegetables",
+      "tags": [
+        "green_leaves",
+        "k1",
+        "raw",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 830.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 298.8,
+          "gram_equivalent": 36
+        }
+      ],
+      "source": "USDA FoodData Central (FDC ID: 170410), FDA Coumadin Prescribing Information"
     }
   ]
 }

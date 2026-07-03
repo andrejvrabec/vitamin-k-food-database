@@ -131,5 +131,77 @@
     "name": "St. John's Wort",
     "alternative_names": ["Hypericum perforatum"],
     "description": "St. John's Wort herbal supplement/extract."
+  },
+  "ginger_raw": {
+    "name": "Ginger, raw",
+    "alternative_names": [
+      "ginger root",
+      "raw ginger"
+    ],
+    "description": "Raw ginger root, contains gingerols which possess natural antiplatelet activity."
+  },
+  "ginkgo_biloba": {
+    "name": "Ginkgo Biloba",
+    "alternative_names": [
+      "maidenhair tree",
+      "ginkgo extract"
+    ],
+    "description": "Ginkgo biloba extract, a potent platelet-activating factor (PAF) antagonist."
+  },
+  "feverfew": {
+    "name": "Feverfew",
+    "alternative_names": [
+      "bachelor's buttons",
+      "Tanacetum parthenium"
+    ],
+    "description": "Feverfew extract, containing parthenolide which inhibits platelet aggregation."
+  },
+  "dong_quai": {
+    "name": "Dong Quai",
+    "alternative_names": [
+      "female ginseng",
+      "Angelica sinensis"
+    ],
+    "description": "Dong Quai herbal extract, contains natural coumarin derivatives."
+  },
+  "ginseng_panax": {
+    "name": "Ginseng (Panax)",
+    "alternative_names": [
+      "Korean ginseng",
+      "Asian ginseng"
+    ],
+    "description": "Panax ginseng supplement, known to decrease Warfarin efficacy by hepatic enzyme induction."
+  },
+  "coenzyme_q10": {
+    "name": "Coenzyme Q10",
+    "alternative_names": [
+      "CoQ10",
+      "ubiquinone"
+    ],
+    "description": "Coenzyme Q10 supplement, structurally similar to Vitamin K and can reduce Warfarin efficacy."
+  },
+  "saw_palmetto": {
+    "name": "Saw Palmetto",
+    "alternative_names": [
+      "Serenoa repens"
+    ],
+    "description": "Saw palmetto supplement, clinically linked to increased bleeding risk with anticoagulants."
+  },
+  "alfalfa": {
+    "name": "Alfalfa sprouts, raw",
+    "alternative_names": [
+      "Medicago sativa",
+      "alfalfa"
+    ],
+    "description": "Raw alfalfa sprouts, high in Vitamin K1 which can antagonize Warfarin."
+  },
+  "coriander_leaves_fresh": {
+    "name": "Coriander leaves (Cilantro), fresh",
+    "alternative_names": [
+      "cilantro",
+      "Chinese parsley",
+      "fresh coriander"
+    ],
+    "description": "Fresh coriander leaves (cilantro), a green herb containing moderate-to-high Vitamin K1."
   }
 }

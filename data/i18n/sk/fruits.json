@@ -849,5 +849,21 @@
     "name": "Brusnicovo-jablkový juc drk, lokálny, s vit c",
     "alternative_names": [],
     "description": "Brusnicovo-jablkový juc drk, lokálny, s vit c z databázy USDA."
+  },
+  "avocado_raw": {
+    "name": "Avokádo, surové",
+    "alternative_names": [
+      "hruškovec prekrásny",
+      "surové avokádo"
+    ],
+    "description": "Surový plod avokáda, bohatý na zdravé tuky, vlákninu a s miernym obsahom vitamínu K1."
+  },
+  "goji_berries": {
+    "name": "Goji (Kustovnica čínska), sušená",
+    "alternative_names": [
+      "kustovnica",
+      "goji"
+    ],
+    "description": "Sušené plody kustovnice čínskej (goji), o ktorých je klinicky známe, že inhibíciou CYP2C9 významne interagujú s Warfarínom."
   }
 }
