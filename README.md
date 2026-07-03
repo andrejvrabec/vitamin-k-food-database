@@ -136,6 +136,7 @@ These files map food IDs to structured drug-interaction or coagulation propertie
 We welcome contributions to add new foods, translate names, or update clinical interactions. To maintain data integrity, all updates are verified by an automated Python validation script.
 
 * **Detailed Guidelines:** Please see [CONTRIBUTING.md](file:///f:/Projects/VitaminK/VitaminKDataSource/CONTRIBUTING.md) for full instructions on modifying files, formatting portions/tags, and submitting Pull Requests.
+* **Code of Conduct:** Please review our [CODE_OF_CONDUCT.md](file:///f:/Projects/VitaminK/VitaminKDataSource/CODE_OF_CONDUCT.md) to understand the behaviors expected of community members.
 * **Local Setup & Validation:**
   ```bash
   pip install -r requirements.txt
