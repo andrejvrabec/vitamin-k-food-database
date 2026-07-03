@@ -3640,21 +3640,5 @@
       "lakric"
     ],
     "description": "Cukrovinky z čierneho sladkého drievka, obsahujú glycyrizín, ktorý môže indukovať CYP3A4 a znižovať účinnosť Warfarínu."
-  },
-  "fish_oil_supplement": {
-    "name": "Rybí olej (Omega-3), doplnok stravy",
-    "alternative_names": [
-      "omega-3 mastné kyseliny",
-      "EPA/DHA doplnok"
-    ],
-    "description": "Doplnok stravy s rybím olejom, vysoké dávky môžu mať protidoštičkový účinok a zvyšovať riziko krvácania."
-  },
-  "vitamin_e_supplement": {
-    "name": "Vitamín E, doplnok stravy",
-    "alternative_names": [
-      "tokoferol",
-      "alfa-tokoferol"
-    ],
-    "description": "Doplnok stravy s vitamínom E, vysoké dávky (>= 400 IU) môžu pôsobiť antagonisticky voči vitamínu K a zvyšovať riziko krvácania."
   }
 }

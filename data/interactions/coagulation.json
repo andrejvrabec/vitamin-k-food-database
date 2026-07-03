@@ -9,6 +9,16 @@
     "severity": "moderate",
     "active_compounds": ["allicin", "salicylates"]
   },
+  "aspirin_otc": {
+    "effect": "anticoagulant",
+    "severity": "high",
+    "active_compounds": ["acetylsalicylic_acid"]
+  },
+  "ibuprofen_otc": {
+    "effect": "anticoagulant",
+    "severity": "moderate",
+    "active_compounds": ["ibuprofen"]
+  },
   "natto": {
     "effect": "procoagulant",
     "severity": "high",
@@ -88,6 +98,11 @@
     "effect": "procoagulant",
     "severity": "moderate",
     "active_compounds": ["vitamin_k"]
+  },
+  "vitamin_k_supplement": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1", "vitamin_k2"]
   },
   "ginger_raw": {
     "effect": "anticoagulant",

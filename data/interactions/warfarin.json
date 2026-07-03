@@ -35,6 +35,12 @@
     "mechanism": "vitamin_k_antagonism",
     "recommendation_key": "warfarin_keep_consistent"
   },
+  "aspirin_otc": {
+    "effect": "increases_bleeding_risk",
+    "severity": "high",
+    "mechanism": "antiplatelet_and_mucosal_injury",
+    "recommendation_key": "warfarin_avoid"
+  },
   "avocado_raw": {
     "effect": "decreases_efficacy",
     "severity": "moderate",
@@ -131,10 +137,22 @@
     "mechanism": "cyp2c9_induction",
     "recommendation_key": "warfarin_limit_excessive"
   },
+  "glucosamine_chondroitin": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "unknown_inr_elevation",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
   "goji_berries": {
     "effect": "increases_bleeding_risk",
     "severity": "high",
     "mechanism": "cyp2c9_inhibition",
+    "recommendation_key": "warfarin_avoid"
+  },
+  "ibuprofen_otc": {
+    "effect": "increases_bleeding_risk",
+    "severity": "high",
+    "mechanism": "antiplatelet_and_mucosal_injury",
     "recommendation_key": "warfarin_avoid"
   },
   "kale_raw": {
@@ -153,6 +171,12 @@
     "effect": "increases_bleeding_risk",
     "severity": "moderate",
     "mechanism": "clinical_enhancement",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "melatonin_supplement": {
+    "effect": "increases_bleeding_risk",
+    "severity": "mild",
+    "mechanism": "synergistic_anticoagulation",
     "recommendation_key": "warfarin_limit_excessive"
   },
   "mustard_greens_raw": {
@@ -231,6 +255,12 @@
     "effect": "increases_bleeding_risk",
     "severity": "high",
     "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_avoid"
+  },
+  "vitamin_k_supplement": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_saturation",
     "recommendation_key": "warfarin_avoid"
   }
 }

@@ -18109,28 +18109,6 @@
         }
       ],
       "source": "USDA FoodData Central, Stockley's Drug Interactions, MSKCC About Herbs"
-    },
-    {
-      "id": "fish_oil_supplement",
-      "category": "other",
-      "tags": [
-        "processed",
-        "affects_warfarin",
-        "affects_coagulation"
-      ],
-      "portions": null,
-      "source": "FDA Coumadin Prescribing Information, Clinical Nutrition Studies"
-    },
-    {
-      "id": "vitamin_e_supplement",
-      "category": "other",
-      "tags": [
-        "processed",
-        "affects_warfarin",
-        "affects_coagulation"
-      ],
-      "portions": null,
-      "source": "FDA Coumadin Prescribing Information, Clinical Nutrition Studies"
     }
   ]
 }

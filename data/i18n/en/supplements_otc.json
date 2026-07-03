@@ -1,0 +1,70 @@
+{
+  "aspirin_otc": {
+    "name": "Aspirin (acetylsalicylic acid), OTC",
+    "alternative_names": [
+      "acetylsalicylic acid",
+      "ASA",
+      "aspirin"
+    ],
+    "description": "Over-the-counter pain reliever, irreversibly inhibits platelet COX-1, posing extreme bleeding risk when combined with anticoagulants."
+  },
+  "ibuprofen_otc": {
+    "name": "Ibuprofen (NSAID), OTC",
+    "alternative_names": [
+      "Advil",
+      "Motrin",
+      "Ibalgin",
+      "NSAIDs"
+    ],
+    "description": "Non-steroidal anti-inflammatory drug, reversibly inhibits platelet aggregation and increases GI bleeding risk."
+  },
+  "glucosamine_chondroitin": {
+    "name": "Glucosamine + Chondroitin",
+    "alternative_names": [
+      "joint supplement",
+      "chondroitin sulfate"
+    ],
+    "description": "Joint health supplement, clinically linked to increased INR and bleeding risk in patients taking Warfarin."
+  },
+  "melatonin_supplement": {
+    "name": "Melatonin supplement",
+    "alternative_names": [
+      "sleep supplement",
+      "melatonin"
+    ],
+    "description": "Sleep aid hormone supplement, may synergistically increase bleeding risk when taken with Warfarin."
+  },
+  "vitamin_k_supplement": {
+    "name": "Vitamin K supplement (tablet)",
+    "alternative_names": [
+      "Vitamin K tablet",
+      "K1/K2 capsule",
+      "phytonadione"
+    ],
+    "description": "Vitamin K nutritional supplement, acts as a direct physiological antidote to Warfarin, reducing its efficacy."
+  },
+  "fish_oil_supplement": {
+    "name": "Fish Oil supplement (Omega-3)",
+    "alternative_names": [
+      "omega-3 fatty acids",
+      "EPA/DHA supplement"
+    ],
+    "description": "Fish oil supplement, high doses may possess antiplatelet activity and increase bleeding risk."
+  },
+  "vitamin_e_supplement": {
+    "name": "Vitamin E supplement",
+    "alternative_names": [
+      "tocopherol supplement",
+      "alpha-tocopherol"
+    ],
+    "description": "Vitamin E supplement, high doses (>= 400 IU) can antagonize Vitamin K and increase bleeding risk."
+  },
+  "coenzyme_q10": {
+    "name": "Coenzyme Q10",
+    "alternative_names": [
+      "CoQ10",
+      "ubiquinone"
+    ],
+    "description": "Coenzyme Q10 supplement, structurally similar to Vitamin K and can reduce Warfarin efficacy."
+  }
+}

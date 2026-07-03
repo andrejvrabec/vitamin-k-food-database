@@ -3639,21 +3639,5 @@
       "liquorice"
     ],
     "description": "Black licorice candy, containing glycyrrhizin which can induce CYP3A4 and reduce Warfarin effectiveness."
-  },
-  "fish_oil_supplement": {
-    "name": "Fish Oil supplement (Omega-3)",
-    "alternative_names": [
-      "omega-3 fatty acids",
-      "EPA/DHA supplement"
-    ],
-    "description": "Fish oil supplement, high doses may possess antiplatelet activity and increase bleeding risk."
-  },
-  "vitamin_e_supplement": {
-    "name": "Vitamin E supplement",
-    "alternative_names": [
-      "tocopherol supplement",
-      "alpha-tocopherol"
-    ],
-    "description": "Vitamin E supplement, high doses (>= 400 IU) can antagonize Vitamin K and increase bleeding risk."
   }
 }

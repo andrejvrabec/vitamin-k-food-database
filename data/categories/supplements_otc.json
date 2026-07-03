@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "id": "aspirin_otc",
+      "category": "supplements_otc",
+      "portions": null,
+      "source": "FDA Warning, Clinical Drug Information",
+      "tags": [
+        "processed",
+        "affects_warfarin",
+        "affects_coagulation"
+      ]
+    },
+    {
+      "id": "ibuprofen_otc",
+      "category": "supplements_otc",
+      "portions": null,
+      "source": "FDA Warning, Clinical Drug Information",
+      "tags": [
+        "processed",
+        "affects_warfarin",
+        "affects_coagulation"
+      ]
+    },
+    {
+      "id": "glucosamine_chondroitin",
+      "category": "supplements_otc",
+      "portions": null,
+      "source": "FDA Warning, Stockley's Drug Interactions",
+      "tags": [
+        "processed",
+        "affects_warfarin"
+      ]
+    },
+    {
+      "id": "melatonin_supplement",
+      "category": "supplements_otc",
+      "portions": null,
+      "source": "Stockley's Drug Interactions",
+      "tags": [
+        "processed",
+        "affects_warfarin"
+      ]
+    },
+    {
+      "id": "vitamin_k_supplement",
+      "category": "supplements_otc",
+      "portions": null,
+      "source": "FDA Coumadin Prescribing Information, Clinical Nutrition",
+      "tags": [
+        "processed",
+        "affects_warfarin",
+        "affects_coagulation"
+      ]
+    },
+    {
+      "id": "fish_oil_supplement",
+      "category": "supplements_otc",
+      "portions": null,
+      "source": "FDA Coumadin Prescribing Information, Clinical Nutrition Studies",
+      "tags": [
+        "processed",
+        "affects_warfarin",
+        "affects_coagulation"
+      ]
+    },
+    {
+      "id": "vitamin_e_supplement",
+      "category": "supplements_otc",
+      "portions": null,
+      "source": "FDA Coumadin Prescribing Information, Clinical Nutrition Studies",
+      "tags": [
+        "processed",
+        "affects_warfarin",
+        "affects_coagulation"
+      ]
+    },
+    {
+      "id": "coenzyme_q10",
+      "category": "supplements_otc",
+      "portions": null,
+      "source": "FDA Coumadin Prescribing Information, MSKCC About Herbs",
+      "tags": [
+        "processed",
+        "affects_warfarin"
+      ]
+    }
+  ]
+}
