@@ -43,7 +43,9 @@
     "baby_food": "Baby Food & Formula",
     "chocolate": "Chocolate & Cocoa",
     "sweetened": "Sweetened / Added Sugar",
-    "mushrooms": "Mushrooms"
+    "mushrooms": "Mushrooms",
+    "affects_coagulation": "Affects blood clotting",
+    "affects_warfarin": "Interacts with Warfarin"
   },
   "units": {
     "g": "grams (g)",
@@ -52,5 +54,18 @@
     "cup": "cup(s)",
     "tbsp": "tablespoon(s) (tbsp)",
     "tsp": "teaspoon(s) (tsp)"
+  },
+  "interactions": {
+    "decreases_efficacy": "Decreases Warfarin efficacy",
+    "increases_bleeding_risk": "Increases bleeding risk",
+    "anticoagulant": "Natural blood thinner (anticoagulant)",
+    "procoagulant": "Promotes clotting (procoagulant)",
+    "none": "No known clinical interaction",
+    "mild": "Mild severity",
+    "moderate": "Moderate severity",
+    "high": "High severity",
+    "warfarin_keep_consistent": "Maintain a consistent intake. Do not suddenly change your consumption level.",
+    "warfarin_limit_excessive": "Limit excessive intake. Avoid sudden increases or decreases.",
+    "warfarin_avoid": "Avoid completely during Warfarin therapy."
   }
 }

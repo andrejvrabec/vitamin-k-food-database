@@ -642,6 +642,9 @@
 │   ├── <a href="data/categories/vegetables.json" target="_blank" class="tree-file" id="tree-cat-veg">vegetables.json</a>
 │   ├── <a href="data/categories/fruits.json" target="_blank" class="tree-file" id="tree-cat-fruits">fruits.json</a>
 │   └── ... <span class="tree-comment">(11 files)</span>
+├── <span class="tree-folder">interactions/</span> <span class="tree-comment"># Drug interactions & clotting</span>
+│   ├── <a href="data/interactions/warfarin.json" target="_blank" class="tree-file" id="tree-int-warfarin">warfarin.json</a>
+│   └── <a href="data/interactions/coagulation.json" target="_blank" class="tree-file" id="tree-int-coag">coagulation.json</a>
 └── <span class="tree-folder">i18n/</span> <span class="tree-comment"># Translations</span>
     ├── <span class="tree-folder">en/</span> <span class="tree-comment"># English</span>
     │   ├── <a href="data/i18n/en/common.json" target="_blank" class="tree-file" id="tree-en-common">common.json</a>
@@ -751,7 +754,19 @@
         const catData = await catRes.json();
         
         saveCategoryLocally(categoryId, catData);
-        saveHashLocally(categoryId, categoryObj.sha256);
+      }
+    }
+    
+    // Step 4: Sync interaction files if present
+    const interactionFiles = manifest.files.interactions || {};
+    for (const [intId, intObj] of Object.entries(interactionFiles)) {
+      const localHash = cachedHashes[intId];
+      if (intObj.changed || localHash !== intObj.sha256) {
+        console.log(`Downloading updated interaction: ${intId}...`);
+        const intRes = await fetch(intObj.url);
+        const intData = await intRes.json();
+        saveInteractionLocally(intId, intData);
+        saveHashLocally(intId, intObj.sha256);
       }
     }
     
@@ -911,6 +926,8 @@
         document.getElementById('tree-en-veg').href = getResolvedPath('data/i18n/en/vegetables.json');
         document.getElementById('tree-sk-common').href = getResolvedPath('data/i18n/sk/common.json');
         document.getElementById('tree-sk-veg').href = getResolvedPath('data/i18n/sk/vegetables.json');
+        document.getElementById('tree-int-warfarin').href = getResolvedPath('data/interactions/warfarin.json');
+        document.getElementById('tree-int-coag').href = getResolvedPath('data/interactions/coagulation.json');
 
         renderLanguagesBadges();
         renderCategories();
@@ -1014,6 +1031,31 @@
             <span style="font-size: 0.75rem; color: var(--text-muted); line-height: 1.3;">Defines database configuration, supported languages, tags, and category lists.</span>
           </div>
           <svg class="arrow-icon" style="width: 14px; height: 14px; margin-left: auto; align-self: center;" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
+        </a>
+      `;
+
+      // 1b. Render Interaction Files
+      const warfarinPath = getResolvedPath('data/interactions/warfarin.json');
+      html += `
+        <a href="${warfarinPath}" class="explorer-item" target="_blank" style="padding: 0.75rem 1rem; border-radius: 12px; display: flex; margin-top: 0.5rem; background: rgba(59, 130, 246, 0.02); border-color: rgba(59, 130, 246, 0.08);">
+          <div class="cat-info-wrapper" style="max-width: 90%;">
+            <span class="name" style="font-size: 0.9rem; color: #60a5fa;">Warfarin Interactions</span>
+            <span class="path" style="font-size: 0.75rem; margin-bottom: 0.15rem;">data/interactions/warfarin.json</span>
+            <span style="font-size: 0.75rem; color: var(--text-muted); line-height: 1.3;">Detailed clinical interactions with Warfarin (effects, severity, recommendations).</span>
+          </div>
+          <svg class="arrow-icon" style="width: 14px; height: 14px; margin-left: auto; align-self: center; fill: #60a5fa;" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
+        </a>
+      `;
+
+      const coagulationPath = getResolvedPath('data/interactions/coagulation.json');
+      html += `
+        <a href="${coagulationPath}" class="explorer-item" target="_blank" style="padding: 0.75rem 1rem; border-radius: 12px; display: flex; margin-top: 0.5rem; background: rgba(59, 130, 246, 0.02); border-color: rgba(59, 130, 246, 0.08);">
+          <div class="cat-info-wrapper" style="max-width: 90%;">
+            <span class="name" style="font-size: 0.9rem; color: #60a5fa;">Blood Clotting Influences</span>
+            <span class="path" style="font-size: 0.75rem; margin-bottom: 0.15rem;">data/interactions/coagulation.json</span>
+            <span style="font-size: 0.75rem; color: var(--text-muted); line-height: 1.3;">Natural procoagulant and anticoagulant properties of foods.</span>
+          </div>
+          <svg class="arrow-icon" style="width: 14px; height: 14px; margin-left: auto; align-self: center; fill: #60a5fa;" viewBox="0 0 24 24"><path d="M5 13h11.86l-5.43 5.43 1.42 1.42L21 12l-8.15-8.15-1.42 1.42L16.86 11H5v2z"/></svg>
         </a>
       `;
 

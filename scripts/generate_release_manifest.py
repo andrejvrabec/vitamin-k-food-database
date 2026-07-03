@@ -138,6 +138,23 @@ def main():
                 
         translations_manifest[lang] = lang_trans
 
+    # 7b. Process interactions
+    interactions_manifest = {}
+    interaction_files = ["warfarin", "coagulation"]
+    for int_file in interaction_files:
+        int_filename = f"{int_file}.json"
+        int_rel_path = f"data/interactions/{int_filename}"
+        int_abs_path = os.path.join(data_dir, "interactions", int_filename)
+        
+        int_sha = calculate_sha256(int_abs_path)
+        int_changed = (int_rel_path in changed_files)
+        
+        interactions_manifest[int_file] = {
+            "url": f"{base_url}{int_rel_path}",
+            "sha256": int_sha,
+            "changed": (not previous_tag) or int_changed
+        }
+
     # 8. Build final manifest
     manifest = {
         "tag": current_tag,
@@ -148,7 +165,8 @@ def main():
         "files": {
             "metadata": metadata_manifest,
             "categories": categories_manifest,
-            "translations": translations_manifest
+            "translations": translations_manifest,
+            "interactions": interactions_manifest
         }
     }
     

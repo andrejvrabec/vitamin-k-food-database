@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Warfarin Interaction Schema",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "properties": {
+      "effect": {
+        "type": "string",
+        "enum": ["decreases_efficacy", "increases_bleeding_risk", "none"]
+      },
+      "severity": {
+        "type": "string",
+        "enum": ["mild", "moderate", "high"]
+      },
+      "mechanism": {
+        "type": "string"
+      },
+      "recommendation_key": {
+        "type": "string",
+        "pattern": "^[a-z0-9_]+$"
+      }
+    },
+    "required": ["effect", "severity", "mechanism", "recommendation_key"],
+    "additionalProperties": false
+  }
+}

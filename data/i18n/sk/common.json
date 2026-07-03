@@ -43,7 +43,9 @@
     "baby_food": "Detská výživa a mlieka",
     "chocolate": "Čokoláda a kakao",
     "sweetened": "Sladené / S pridaným cukrom",
-    "mushrooms": "Huby"
+    "mushrooms": "Huby",
+    "affects_coagulation": "Ovplyvňuje zrážanie krvi",
+    "affects_warfarin": "Ovplyvňuje Warfarín"
   },
   "units": {
     "g": "g",
@@ -52,5 +54,18 @@
     "cup": "hrnček",
     "tbsp": "PL (polievková lyžica)",
     "tsp": "ČL (čajová lyžička)"
+  },
+  "interactions": {
+    "decreases_efficacy": "Znižuje účinnosť Warfarínu",
+    "increases_bleeding_risk": "Zvyšuje riziko krvácania",
+    "anticoagulant": "Prirodzené riedidlo krvi (antikoagulačný účinok)",
+    "procoagulant": "Podporuje zrážanie krvi (prokoagulačný účinok)",
+    "none": "Žiadna známa klinická interakcia",
+    "mild": "Mierna závažnosť",
+    "moderate": "Stredná závažnosť",
+    "high": "Vysoká závažnosť",
+    "warfarin_keep_consistent": "Udržiavajte stabilný príjem. Náhle nemeňte množstvo v strave.",
+    "warfarin_limit_excessive": "Obmedzte nadmernú konzumáciu. Vyhnite sa náhlym zmenám v príjme.",
+    "warfarin_avoid": "Úplne sa vyhnite konzumácii počas liečby Warfarínom."
   }
 }

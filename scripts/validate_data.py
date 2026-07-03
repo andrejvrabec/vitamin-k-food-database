@@ -29,6 +29,8 @@ def main():
     category_schema = load_schema("category.schema.json")
     common_trans_schema = load_schema("common_translation.schema.json")
     food_trans_schema = load_schema("food_translation.schema.json")
+    warfarin_schema = load_schema("warfarin_interaction.schema.json")
+    coagulation_schema = load_schema("coagulation_influence.schema.json")
 
     # 2. Load and Validate metadata.json
     metadata_path = os.path.join(DATA_DIR, "metadata.json")
@@ -43,6 +45,33 @@ def main():
     except ValidationError as ve:
         errors.append(f"metadata.json schema validation failed: {ve.message}")
         print("[FAIL] metadata.json schema validation failed.")
+
+    # 2b. Load and Validate warfarin.json and coagulation.json
+    warfarin_path = os.path.join(DATA_DIR, "interactions", "warfarin.json")
+    warfarin_data = {}
+    if os.path.exists(warfarin_path):
+        warfarin_data = load_json(warfarin_path)
+        try:
+            validate(instance=warfarin_data, schema=warfarin_schema)
+            print("[OK] interactions/warfarin.json matches schema.")
+        except ValidationError as ve:
+            errors.append(f"interactions/warfarin.json schema validation failed: {ve.message}")
+            print("[FAIL] interactions/warfarin.json schema validation failed.")
+    else:
+        errors.append("CRITICAL: interactions/warfarin.json is missing.")
+
+    coagulation_path = os.path.join(DATA_DIR, "interactions", "coagulation.json")
+    coagulation_data = {}
+    if os.path.exists(coagulation_path):
+        coagulation_data = load_json(coagulation_path)
+        try:
+            validate(instance=coagulation_data, schema=coagulation_schema)
+            print("[OK] interactions/coagulation.json matches schema.")
+        except ValidationError as ve:
+            errors.append(f"interactions/coagulation.json schema validation failed: {ve.message}")
+            print("[FAIL] interactions/coagulation.json schema validation failed.")
+    else:
+        errors.append("CRITICAL: interactions/coagulation.json is missing.")
 
     if errors:
         print("\nValidation failed with errors:")
@@ -99,6 +128,8 @@ def main():
                 if tag not in valid_tags:
                     errors.append(f"Food item '{food_id}' uses undefined tag '{tag}'")
 
+    translated_interaction_keys = {}
+
     # 4. Load and Validate common translations
     for lang in languages:
         common_trans_path = os.path.join(DATA_DIR, "i18n", lang, "common.json")
@@ -133,6 +164,10 @@ def main():
             if unit not in translated_units:
                 errors.append(f"Unit '{unit}' is not translated in common.{lang}.json")
 
+        # Collect translated interaction keys
+        interaction_keys = common_trans.get("interactions", {})
+        translated_interaction_keys[lang] = set(interaction_keys.keys())
+
     # 5. Load and Validate food translations
     for category in valid_categories:
         for lang in languages:
@@ -165,6 +200,44 @@ def main():
             for rel_id in related_ids:
                 if rel_id not in all_food_ids:
                     errors.append(f"Food item '{food_id}' references non-existent related ID '{rel_id}'")
+
+    # 6b. Cross-reference interaction checks
+    # 6b.1. Validate warfarin.json
+    for food_id, details in warfarin_data.items():
+        if food_id not in all_food_ids:
+            errors.append(f"warfarin.json references non-existent food ID '{food_id}'")
+            continue
+        
+        # Check that food has the tag "affects_warfarin"
+        food_tags = food_by_id[food_id].get("tags", [])
+        if "affects_warfarin" not in food_tags:
+            errors.append(f"Food item '{food_id}' is in warfarin.json but is missing the 'affects_warfarin' tag in its category file")
+
+        # Validate recommendation_key translations
+        rec_key = details.get("recommendation_key")
+        for lang in languages:
+            lang_keys = translated_interaction_keys.get(lang, set())
+            if rec_key not in lang_keys:
+                errors.append(f"Recommendation key '{rec_key}' in warfarin.json is not translated in common.{lang}.json")
+
+    # 6b.2. Validate coagulation.json
+    for food_id, details in coagulation_data.items():
+        if food_id not in all_food_ids:
+            errors.append(f"coagulation.json references non-existent food ID '{food_id}'")
+            continue
+        
+        # Check that food has the tag "affects_coagulation"
+        food_tags = food_by_id[food_id].get("tags", [])
+        if "affects_coagulation" not in food_tags:
+            errors.append(f"Food item '{food_id}' is in coagulation.json but is missing the 'affects_coagulation' tag in its category file")
+
+    # 6b.3. Verify foods with tags are in the interaction files
+    for food_id, food in food_by_id.items():
+        tags = food.get("tags", [])
+        if "affects_warfarin" in tags and food_id not in warfarin_data:
+            errors.append(f"Food item '{food_id}' has 'affects_warfarin' tag but is missing from warfarin.json")
+        if "affects_coagulation" in tags and food_id not in coagulation_data:
+            errors.append(f"Food item '{food_id}' has 'affects_coagulation' tag but is missing from coagulation.json")
 
     # 7. Print final results
     if errors:

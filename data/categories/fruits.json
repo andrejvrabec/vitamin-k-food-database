@@ -388,7 +388,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "beverages",
-        "k1"
+        "k1",
+        "affects_warfarin"
       ]
     },
     {
@@ -4095,7 +4096,8 @@
       "id": "cranberry_juc_unswtnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "affects_warfarin"
       ],
       "portions": [
         {

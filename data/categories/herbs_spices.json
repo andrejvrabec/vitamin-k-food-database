@@ -19,7 +19,9 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "affects_coagulation",
+        "affects_warfarin"
       ]
     },
     {
@@ -608,6 +610,16 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 18964)"
+    },
+    {
+      "id": "st_johns_wort",
+      "category": "herbs_spices",
+      "portions": null,
+      "source": "Clinical pharmacology",
+      "tags": [
+        "herbs",
+        "affects_warfarin"
+      ]
     }
   ]
 }

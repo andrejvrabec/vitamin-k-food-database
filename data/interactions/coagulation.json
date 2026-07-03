@@ -1,0 +1,12 @@
+{
+  "spinach_raw": {
+    "effect": "procoagulant",
+    "severity": "high",
+    "active_compounds": ["vitamin_k1"]
+  },
+  "garlic_raw": {
+    "effect": "anticoagulant",
+    "severity": "mild",
+    "active_compounds": ["allicin", "salicylates"]
+  }
+}

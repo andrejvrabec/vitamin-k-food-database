@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Coagulation Influence Schema",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "properties": {
+      "effect": {
+        "type": "string",
+        "enum": ["anticoagulant", "procoagulant", "none"]
+      },
+      "severity": {
+        "type": "string",
+        "enum": ["mild", "moderate", "high"]
+      },
+      "active_compounds": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "uniqueItems": true
+      }
+    },
+    "required": ["effect", "severity", "active_compounds"],
+    "additionalProperties": false
+  }
+}

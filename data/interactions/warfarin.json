@@ -1,0 +1,32 @@
+{
+  "spinach_raw": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "vitamin_k_antagonism",
+    "recommendation_key": "warfarin_keep_consistent"
+  },
+  "garlic_raw": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "antiplatelet_effect",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "st_johns_wort": {
+    "effect": "decreases_efficacy",
+    "severity": "high",
+    "mechanism": "cyp2c9_induction",
+    "recommendation_key": "warfarin_avoid"
+  },
+  "cranberry_juc_unswtnd": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "cyp2c9_inhibition",
+    "recommendation_key": "warfarin_limit_excessive"
+  },
+  "grapefruit_juice_white_frozen_concentrat": {
+    "effect": "increases_bleeding_risk",
+    "severity": "moderate",
+    "mechanism": "cyp2c9_inhibition",
+    "recommendation_key": "warfarin_limit_excessive"
+  }
+}

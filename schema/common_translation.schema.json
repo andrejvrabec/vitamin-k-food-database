@@ -14,8 +14,12 @@
     "units": {
       "type": "object",
       "additionalProperties": { "type": "string" }
+    },
+    "interactions": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
     }
   },
-  "required": ["categories", "tags", "units"],
+  "required": ["categories", "tags", "units", "interactions"],
   "additionalProperties": false
 }

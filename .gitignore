@@ -24,3 +24,6 @@ Thumbs.db
 # Local helper/importer scripts
 scripts/import_usda_pdf.py
 scripts/import_usda_sr28.py
+
+# Local build artifacts
+release_manifest.json

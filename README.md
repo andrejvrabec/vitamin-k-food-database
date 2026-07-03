@@ -9,14 +9,18 @@ A public, open-source dataset containing Vitamin K levels in various foods. The 
 │   ├── metadata.schema.json
 │   ├── category.schema.json
 │   ├── common_translation.schema.json
-│   └── food_translation.schema.json
+│   ├── food_translation.schema.json
+│   ├── warfarin_interaction.schema.json
+│   └── coagulation_influence.schema.json
 ├── data/
 │   ├── metadata.json           # Version, active languages, tags, and categories
 │   ├── categories/             # Foods split by category
 │   │   ├── vegetables.json
 │   │   ├── fruits.json
-│   │   ├── fermented.json
 │   │   └── ...
+│   ├── interactions/           # Drug interactions & clotting data
+│   │   ├── warfarin.json
+│   │   └── coagulation.json
 │   └── i18n/                   # Localized translation files
 │       ├── en/                 # English translations
 │       │   ├── common.json     # Common metadata translations (categories, units, tags)
@@ -55,7 +59,7 @@ Each file corresponds to a category named `<category_id>.json` and contains:
   - `id`: Unique lowercase identifier (e.g., `spinach_raw`).
   - `category`: Must match the `<category_id>` of the filename.
   - `tags`: List of tags defined in `metadata.json`.
-  - `portions`: A list of portion measurements (minimum 1).
+  - `portions` (optional/`null`): A list of portion measurements. Can be set to `null` or omitted entirely for items where Vitamin K content is unknown or not relevant.
     - `amount`: Number (e.g. `100` or `1`).
     - `unit`: One of `["g", "ml", "piece", "cup", "tbsp", "tsp"]`.
     - `vitamin_k_mcg`: Amount of Vitamin K in micrograms.
@@ -113,6 +117,18 @@ Translations are organized in language-specific directories (`en/`, `sk/` etc.) 
     }
     ```
 
+### 4. Interaction Files (`data/interactions/`)
+These files map food IDs to structured drug-interaction or coagulation properties:
+- `data/interactions/warfarin.json`: Maps food IDs to their Warfarin interaction profile.
+  - `effect`: E.g., `"decreases_efficacy"` or `"increases_bleeding_risk"`.
+  - `severity`: `"mild"`, `"moderate"`, or `"high"`.
+  - `mechanism`: Technical description of the biological mechanism.
+  - `recommendation_key`: Localized recommendation text key (defined in `common.json` under `"interactions"`).
+- `data/interactions/coagulation.json`: Maps food IDs to natural blood clotting properties.
+  - `effect`: `"anticoagulant"`, `"procoagulant"`, or `"none"`.
+  - `severity`: `"mild"`, `"moderate"`, or `"high"`.
+  - `active_compounds`: List of active components (e.g. `["allicin", "salicylates"]`).
+
 ---
 
 ## Local Development & Validation
@@ -165,6 +181,10 @@ To minimize network traffic and keep the local application database up-to-date, 
   - *Description:* Translates tag names, category names, and portion units into the target language (e.g. `data/i18n/sk/common.json` for Slovak).
 * **Category Food Translations:** `https://andrejvrabec.github.io/vitamin-k-food-database/data/i18n/<lang>/<category_id>.json`
   - *Description:* Translates category-specific food names, alternative names, and descriptions (e.g. `data/i18n/sk/vegetables.json`).
+* **Warfarin Interactions:** `https://andrejvrabec.github.io/vitamin-k-food-database/data/interactions/warfarin.json`
+  - *Description:* Houses structured details on food-drug interactions with Warfarin.
+* **Coagulation Influences:** `https://andrejvrabec.github.io/vitamin-k-food-database/data/interactions/coagulation.json`
+  - *Description:* Houses structured details on natural procoagulant and anticoagulant properties of foods.
 
 
 ---
