@@ -201,3 +201,11 @@ When you make changes to the data, translations, or schemas:
    - Publish the release.
    - The GitHub Actions workflow will automatically trigger, parse the version directly from your release tag, generate the release manifest with SHA-256 hashes, and publish the updated dataset to GitHub Pages.
 
+---
+
+## Medical Disclaimer
+
+> [!WARNING]
+> **This database is for informational and educational purposes only.** It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare provider with any questions you may have regarding a medical condition, dietary changes, or drug-nutrient interactions (such as Warfarin / anticoagulation therapy). Reliance on any information provided in this dataset is solely at your own risk. The contributors, authors, and maintainers of this repository assume no liability or responsibility for any adverse effects, injuries, or damages arising from the use of this data.
+
+
