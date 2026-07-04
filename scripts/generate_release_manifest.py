@@ -96,14 +96,28 @@ def main():
         previous_global_version = previous_tag.lstrip('v') if previous_tag else None
         global_version_changed = (current_global_version != previous_global_version)
     else:
-        # If not running on a release tag, reuse the versions from the existing manifest
-        print("Build triggered outside of a formal release tag. Reusing existing manifest versions to keep them intact.")
-        if existing_manifest:
+        # If not running on a release tag, try to use the latest tag in the Git repository
+        tags_str = run_git(['tag', '--sort=-v:refname'])
+        tags = tags_str.splitlines() if tags_str else []
+        if tags:
+            print("Build triggered outside of a formal release tag. Setting version to the latest git tag.")
+            current_tag = tags[0]
+            current_global_version = current_tag.lstrip('v')
+            
+            previous_tag = None
+            for t in tags:
+                if t != current_tag:
+                    previous_tag = t
+                    break
+            previous_global_version = previous_tag.lstrip('v') if previous_tag else None
+        elif existing_manifest:
+            print("Build triggered outside of a formal release tag. Reusing existing manifest versions to keep them intact.")
             current_tag = existing_manifest.get("tag", "v0.0.0")
             previous_tag = existing_manifest.get("previous_tag")
             current_global_version = existing_manifest.get("global_version", "0.0.0")
             previous_global_version = existing_manifest.get("previous_global_version")
         else:
+            print("Build triggered outside of a formal release tag. No tags or existing manifest found. Using defaults.")
             current_tag = "v0.0.0"
             previous_tag = None
             current_global_version = "0.0.0"
