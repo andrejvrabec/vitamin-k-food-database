@@ -735,14 +735,17 @@
             <h3>Food Items & Optional Portions</h3>
             <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 0.75rem;">
               Food files live under <code>/data/categories/&lt;category_id&gt;.json</code>.
-              Each food item features standard attributes. For items where Vitamin K content is unknown, zero, or not clinically relevant (e.g., St. John's Wort supplement), the <code>portions</code> array can be set to <code>null</code>:
+              Each food item features standard attributes. For items where Vitamin K content is unknown (e.g., supplements), <code>portions</code> is set to <code>null</code>. For typical foods, it is an array containing <code>amount</code>, <code>unit</code>, <code>vitamin_k_mcg</code>, <code>vitamin_k_100g_mcg</code>, and optionally <code>gram_equivalent</code>:
             </p>
             <div class="code-block-container" style="padding: 0.85rem;">
               <pre><code style="font-size: 0.8rem; line-height: 1.4; color: #34d399;">{
-  "id": "st_johns_wort",
-  "category": "herbs_spices",
-  "portions": null, // Optional/Null
-  "tags": ["herbs", "affects_warfarin"]
+  "id": "blueberries_raw",
+  "category": "fruits",
+  "portions": [
+    { "amount": 100, "unit": "g", "vitamin_k_mcg": 19.3, "vitamin_k_100g_mcg": 19.3 },
+    { "amount": 1, "unit": "cup", "gram_equivalent": 148, "vitamin_k_mcg": 28.6, "vitamin_k_100g_mcg": 19.3 }
+  ],
+  "tags": ["berries", "k1", "raw"]
 }</code></pre>
             </div>
           </div>

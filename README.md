@@ -64,6 +64,7 @@ Each file corresponds to a category named `<category_id>.json` and contains:
     - `unit`: One of `["g", "ml", "piece", "cup", "tbsp", "tsp"]`.
     - `vitamin_k_mcg`: Amount of Vitamin K in micrograms.
     - `gram_equivalent`: The equivalent weight in grams. **Required if the unit is NOT `"g"`**. If unit is `"g"`, it is omitted.
+    - `vitamin_k_100g_mcg`: **Required**. The calculated amount of Vitamin K in micrograms per 100g of this food item (calculated from the portion weight and vitamin K content).
   - `source`: Reference source for the data (e.g. USDA FoodData Central ID).
   - `relations` (optional): Grouping and relation identifier (e.g. linking raw spinach to cooked spinach).
     - `group`: String grouping identifier.
@@ -79,8 +80,8 @@ Each file corresponds to a category named `<category_id>.json` and contains:
         "category": "vegetables",
         "tags": ["green_leaves"],
         "portions": [
-          { "amount": 100, "unit": "g", "vitamin_k_mcg": 482.9 },
-          { "amount": 1, "unit": "cup", "gram_equivalent": 30, "vitamin_k_mcg": 144.9 }
+          { "amount": 100, "unit": "g", "vitamin_k_mcg": 482.9, "vitamin_k_100g_mcg": 482.9 },
+          { "amount": 1, "unit": "cup", "gram_equivalent": 30, "vitamin_k_mcg": 144.9, "vitamin_k_100g_mcg": 483.0 }
         ],
         "source": "USDA FDC ID: 168462",
         "relations": {
