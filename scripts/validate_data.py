@@ -136,6 +136,13 @@ def main():
                 if group and group not in valid_groups:
                     errors.append(f"Food item '{food_id}' uses undefined group '{group}' in relations")
 
+            # Check portions have the required 100g portion if portions are defined
+            portions = food.get("portions")
+            if portions is not None:
+                has_100g = any(p.get("unit") == "g" and p.get("amount") == 100 for p in portions)
+                if not has_100g:
+                    errors.append(f"Food item '{food_id}' in file {category}.json has portions defined but is missing the required '100 g' portion")
+
     translated_interaction_keys = {}
 
     # 4. Load and Validate common translations

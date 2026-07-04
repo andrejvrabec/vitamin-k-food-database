@@ -54,7 +54,7 @@ To keep the database clean and prevent bugs in consuming apps, all changes must 
 * Use `snake_case` (e.g., `spinach_raw`, `st_johns_wort`).
 
 ### 2. Portions & Null Values
-* For typical foods, include at least one portion size (with `amount`, `unit`, `vitamin_k_mcg`, `vitamin_k_100g_mcg`, and `gram_equivalent` if the unit is not `"g"`).
+* For typical foods, include portion sizes (with `amount`, `unit`, `vitamin_k_mcg`, and `gram_equivalent` if the unit is not `"g"`). Each food with portions must have at least one baseline portion where `amount` is `100` and `unit` is `"g"`.
 * If a food item is added **only** for drug interactions and does not have standard nutritional Vitamin K values (e.g., St. John's Wort supplement), set the `portions` field to `null` instead of an empty array:
   ```json
   "portions": null

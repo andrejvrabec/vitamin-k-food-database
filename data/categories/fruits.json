@@ -7,15 +7,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.7,
-          "vitamin_k_100g_mcg": 0.7
+          "vitamin_k_mcg": 0.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 0.7
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -37,15 +35,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 7.2,
-          "vitamin_k_100g_mcg": 7.2
+          "vitamin_k_mcg": 7.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 7.2,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 7.2
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -69,15 +65,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.7,
-          "vitamin_k_100g_mcg": 5.7
+          "vitamin_k_mcg": 5.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.7,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 5.7
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -98,15 +92,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.8,
-          "vitamin_k_100g_mcg": 2.8
+          "vitamin_k_mcg": 2.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.8,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 2.8
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -129,15 +121,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 19.9,
-          "vitamin_k_100g_mcg": 19.9
+          "vitamin_k_mcg": 19.9
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 150,
-          "vitamin_k_mcg": 29.9,
-          "vitamin_k_100g_mcg": 19.9
+          "vitamin_k_mcg": 29.9
         }
       ],
       "source": "USDA FDC (derived from PDF page 2)",
@@ -155,15 +145,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 29.9,
-          "vitamin_k_100g_mcg": 29.9
+          "vitamin_k_mcg": 29.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 29.9,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 29.9
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -183,15 +171,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 15.8,
-          "vitamin_k_100g_mcg": 15.8
+          "vitamin_k_mcg": 15.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 38.0,
-          "gram_equivalent": 240,
-          "vitamin_k_100g_mcg": 15.8
+          "gram_equivalent": 240
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -212,15 +198,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 40.7,
-          "vitamin_k_100g_mcg": 40.7
+          "vitamin_k_mcg": 40.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 40.7,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 40.7
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -244,15 +228,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 19.3,
-          "vitamin_k_100g_mcg": 19.3
+          "vitamin_k_mcg": 19.3
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 148,
-          "vitamin_k_mcg": 28.6,
-          "vitamin_k_100g_mcg": 19.3
+          "vitamin_k_mcg": 28.6
         }
       ],
       "source": "USDA FoodData Central (FDC ID: 171732)",
@@ -267,15 +249,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 31.5,
-          "vitamin_k_100g_mcg": 31.5
+          "vitamin_k_mcg": 31.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 47.2,
-          "gram_equivalent": 150,
-          "vitamin_k_100g_mcg": 31.5
+          "gram_equivalent": 150
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -296,15 +276,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.3,
-          "vitamin_k_100g_mcg": 2.3
+          "vitamin_k_mcg": 2.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.3,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 2.3
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -323,15 +301,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.5,
-          "vitamin_k_100g_mcg": 3.5
+          "vitamin_k_mcg": 3.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.5,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 3.5
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -351,15 +327,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.9,
-          "vitamin_k_100g_mcg": 2.9
+          "vitamin_k_mcg": 2.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.9,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 2.9
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -378,15 +352,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.6,
-          "vitamin_k_100g_mcg": 5.6
+          "vitamin_k_mcg": 5.6
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.6,
-          "gram_equivalent": 28,
-          "vitamin_k_100g_mcg": 5.7
+          "gram_equivalent": 28
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -407,15 +379,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.5,
-          "vitamin_k_100g_mcg": 5.5
+          "vitamin_k_mcg": 5.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 8.2,
-          "gram_equivalent": 150,
-          "vitamin_k_100g_mcg": 5.5
+          "gram_equivalent": 150
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -435,15 +405,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.3,
-          "vitamin_k_100g_mcg": 4.3
+          "vitamin_k_mcg": 4.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 150,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 150
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -462,15 +430,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.2,
-          "vitamin_k_100g_mcg": 0.2
+          "vitamin_k_mcg": 0.2
         },
         {
           "amount": 1.0,
           "unit": "ml",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 0.2
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018), FDA Coumadin Prescribing Information",
@@ -490,15 +456,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 8.9,
-          "vitamin_k_100g_mcg": 8.9
+          "vitamin_k_mcg": 8.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 13.4,
-          "gram_equivalent": 150,
-          "vitamin_k_100g_mcg": 8.9
+          "gram_equivalent": 150
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -517,15 +481,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 16.0,
-          "vitamin_k_100g_mcg": 16.0
+          "vitamin_k_mcg": 16.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 24.0,
-          "gram_equivalent": 150,
-          "vitamin_k_100g_mcg": 16.0
+          "gram_equivalent": 150
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -546,15 +508,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 14.6,
-          "vitamin_k_100g_mcg": 14.6
+          "vitamin_k_mcg": 14.6
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 150,
-          "vitamin_k_mcg": 22.0,
-          "vitamin_k_100g_mcg": 14.7
+          "vitamin_k_mcg": 22.0
         }
       ],
       "source": "USDA FDC (derived from PDF page 2)",
@@ -573,15 +533,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 40.3,
-          "vitamin_k_100g_mcg": 40.3
+          "vitamin_k_mcg": 40.3
         },
         {
           "amount": 1,
           "unit": "piece",
           "gram_equivalent": 75,
-          "vitamin_k_mcg": 30.2,
-          "vitamin_k_100g_mcg": 40.3
+          "vitamin_k_mcg": 30.2
         }
       ],
       "source": "USDA FoodData Central (FDC ID: 168153)",
@@ -600,15 +558,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6,
-          "vitamin_k_100g_mcg": 0.6
+          "vitamin_k_mcg": 0.6
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.5,
-          "gram_equivalent": 240,
-          "vitamin_k_100g_mcg": 0.6
+          "gram_equivalent": 240
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -628,15 +584,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.5,
-          "vitamin_k_100g_mcg": 0.5
+          "vitamin_k_mcg": 0.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 150,
-          "vitamin_k_100g_mcg": 0.5
+          "gram_equivalent": 150
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -652,15 +606,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.9,
-          "vitamin_k_100g_mcg": 6.9
+          "vitamin_k_mcg": 6.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 6.9,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 6.9
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018), Stockley's Drug Interactions",
@@ -677,15 +629,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4,
-          "vitamin_k_100g_mcg": 0.4
+          "vitamin_k_mcg": 0.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 240,
-          "vitamin_k_100g_mcg": 0.4
+          "gram_equivalent": 240
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -704,15 +654,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1,
-          "vitamin_k_100g_mcg": 0.1
+          "vitamin_k_mcg": 0.1
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 0.1
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -730,15 +678,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.8,
-          "vitamin_k_100g_mcg": 3.8
+          "vitamin_k_mcg": 3.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.8,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 3.8
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018), Stockley's Drug Interactions",
@@ -755,15 +701,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.1,
-          "vitamin_k_100g_mcg": 1.1
+          "vitamin_k_mcg": 1.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.7,
-          "gram_equivalent": 150,
-          "vitamin_k_100g_mcg": 1.1
+          "gram_equivalent": 150
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -779,15 +723,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.3,
-          "vitamin_k_100g_mcg": 4.3
+          "vitamin_k_mcg": 4.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.3,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -810,15 +752,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.1,
-          "vitamin_k_100g_mcg": 4.1
+          "vitamin_k_mcg": 4.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.1,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 4.1
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -840,15 +780,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.8,
-          "vitamin_k_100g_mcg": 0.8
+          "vitamin_k_mcg": 0.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 0.8
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -870,15 +808,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 25.2,
-          "vitamin_k_100g_mcg": 25.2
+          "vitamin_k_mcg": 25.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 25.2,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 25.2
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -898,15 +834,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.2,
-          "vitamin_k_100g_mcg": 6.2
+          "vitamin_k_mcg": 6.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 6.2,
-          "gram_equivalent": 100,
-          "vitamin_k_100g_mcg": 6.2
+          "gram_equivalent": 100
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -925,17 +859,20 @@
       "portions": [
         {
           "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.8
+        },
+        {
+          "amount": 100,
           "unit": "ml",
           "gram_equivalent": 100,
-          "vitamin_k_mcg": 10.8,
-          "vitamin_k_100g_mcg": 10.8
+          "vitamin_k_mcg": 10.8
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 240,
-          "vitamin_k_mcg": 25.9,
-          "vitamin_k_100g_mcg": 10.8
+          "vitamin_k_mcg": 25.9
         }
       ],
       "source": "USDA FDC (derived from PDF page 2), Stockley's Drug Interactions",
@@ -955,15 +892,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 10.8,
-          "vitamin_k_100g_mcg": 10.8
+          "vitamin_k_mcg": 10.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 25.9,
-          "gram_equivalent": 240,
-          "vitamin_k_100g_mcg": 10.8
+          "gram_equivalent": 240
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -982,15 +917,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 59.5,
-          "vitamin_k_100g_mcg": 59.5
+          "vitamin_k_mcg": 59.5
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 174,
-          "vitamin_k_mcg": 103.5,
-          "vitamin_k_100g_mcg": 59.5
+          "vitamin_k_mcg": 103.5
         }
       ],
       "source": "USDA FDC ID: 168149",
@@ -1008,15 +941,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.4,
-          "vitamin_k_100g_mcg": 6.4
+          "vitamin_k_mcg": 6.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 15.4,
-          "gram_equivalent": 240,
-          "vitamin_k_100g_mcg": 6.4
+          "gram_equivalent": 240
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -1042,22 +973,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4,
-          "vitamin_k_100g_mcg": 1.4
+          "vitamin_k_mcg": 1.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.4,
-          "gram_equivalent": 242,
-          "vitamin_k_100g_mcg": 1.4
+          "gram_equivalent": 242
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 30,
-          "vitamin_k_100g_mcg": 1.3
+          "gram_equivalent": 30
         }
       ],
       "source": "USDA SR28 (NDB No: 09002)",
@@ -1076,22 +1004,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2,
-          "vitamin_k_100g_mcg": 2.2
+          "vitamin_k_mcg": 2.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.8,
-          "gram_equivalent": 125,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 125
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.4,
-          "gram_equivalent": 109,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 109
         }
       ],
       "source": "USDA SR28 (NDB No: 09003)",
@@ -1113,15 +1038,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6,
-          "vitamin_k_100g_mcg": 0.6
+          "vitamin_k_mcg": 0.6
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 171,
-          "vitamin_k_100g_mcg": 0.6
+          "gram_equivalent": 171
         }
       ],
       "source": "USDA SR28 (NDB No: 09005)",
@@ -1141,15 +1064,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.7,
-          "vitamin_k_100g_mcg": 0.7
+          "vitamin_k_mcg": 0.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 170,
-          "vitamin_k_100g_mcg": 0.7
+          "gram_equivalent": 170
         }
       ],
       "source": "USDA SR28 (NDB No: 09006)",
@@ -1167,15 +1088,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6,
-          "vitamin_k_100g_mcg": 0.6
+          "vitamin_k_mcg": 0.6
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 204,
-          "vitamin_k_100g_mcg": 0.6
+          "gram_equivalent": 204
         }
       ],
       "source": "USDA SR28 (NDB No: 09007)",
@@ -1193,15 +1112,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6,
-          "vitamin_k_100g_mcg": 0.6
+          "vitamin_k_mcg": 0.6
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 204,
-          "vitamin_k_100g_mcg": 0.6
+          "gram_equivalent": 204
         }
       ],
       "source": "USDA SR28 (NDB No: 09008)",
@@ -1219,15 +1136,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.3,
-          "vitamin_k_100g_mcg": 4.3
+          "vitamin_k_mcg": 4.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.6,
-          "gram_equivalent": 60,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 60
         }
       ],
       "source": "USDA SR28 (NDB No: 09009)",
@@ -1245,22 +1160,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.0,
-          "vitamin_k_100g_mcg": 3.0
+          "vitamin_k_mcg": 3.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.6,
-          "gram_equivalent": 86,
-          "vitamin_k_100g_mcg": 3.0
+          "gram_equivalent": 86
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 6,
-          "vitamin_k_100g_mcg": 3.3
+          "gram_equivalent": 6
         }
       ],
       "source": "USDA SR28 (NDB No: 09011)",
@@ -1279,15 +1191,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.7,
-          "vitamin_k_100g_mcg": 0.7
+          "vitamin_k_mcg": 0.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.8,
-          "gram_equivalent": 255,
-          "vitamin_k_100g_mcg": 0.7
+          "gram_equivalent": 255
         }
       ],
       "source": "USDA SR28 (NDB No: 09012)",
@@ -1306,22 +1216,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.3,
-          "vitamin_k_100g_mcg": 3.3
+          "vitamin_k_mcg": 3.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.1,
-          "gram_equivalent": 155,
-          "vitamin_k_100g_mcg": 3.3
+          "gram_equivalent": 155
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.4,
-          "gram_equivalent": 165,
-          "vitamin_k_100g_mcg": 3.3
+          "gram_equivalent": 165
         }
       ],
       "source": "USDA SR28 (NDB No: 09021)",
@@ -1342,22 +1249,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2,
-          "vitamin_k_100g_mcg": 2.2
+          "vitamin_k_mcg": 2.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.3,
-          "gram_equivalent": 243,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 243
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 36,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 36
         }
       ],
       "source": "USDA SR28 (NDB No: 09022)",
@@ -1375,22 +1279,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2,
-          "vitamin_k_100g_mcg": 2.2
+          "vitamin_k_mcg": 2.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.4,
-          "gram_equivalent": 244,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 244
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 36,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 36
         }
       ],
       "source": "USDA SR28 (NDB No: 09024)",
@@ -1409,22 +1310,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2,
-          "vitamin_k_100g_mcg": 2.2
+          "vitamin_k_mcg": 2.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.6,
-          "gram_equivalent": 253,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 253
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 40,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 40
         }
       ],
       "source": "USDA SR28 (NDB No: 09026)",
@@ -1443,22 +1341,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2,
-          "vitamin_k_100g_mcg": 2.2
+          "vitamin_k_mcg": 2.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.7,
-          "gram_equivalent": 258,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 258
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.3,
-          "gram_equivalent": 240,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 240
         }
       ],
       "source": "USDA SR28 (NDB No: 09027)",
@@ -1476,22 +1371,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.1,
-          "vitamin_k_100g_mcg": 3.1
+          "vitamin_k_mcg": 3.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.0,
-          "gram_equivalent": 130,
-          "vitamin_k_100g_mcg": 3.1
+          "gram_equivalent": 130
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 3,
-          "vitamin_k_100g_mcg": 3.3
+          "gram_equivalent": 3
         }
       ],
       "source": "USDA SR28 (NDB No: 09032)",
@@ -1510,15 +1402,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.1,
-          "vitamin_k_100g_mcg": 1.1
+          "vitamin_k_mcg": 1.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.8,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 1.1
+          "gram_equivalent": 250
         }
       ],
       "source": "USDA SR28 (NDB No: 09033)",
@@ -1536,22 +1426,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.2,
-          "vitamin_k_100g_mcg": 1.2
+          "vitamin_k_mcg": 1.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.0,
-          "gram_equivalent": 251,
-          "vitamin_k_100g_mcg": 1.2
+          "gram_equivalent": 251
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 1.3
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 09036)",
@@ -1570,15 +1457,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 19.8,
-          "vitamin_k_100g_mcg": 19.8
+          "vitamin_k_mcg": 19.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 28.5,
-          "gram_equivalent": 144,
-          "vitamin_k_100g_mcg": 19.8
+          "gram_equivalent": 144
         }
       ],
       "source": "USDA SR28 (NDB No: 09042)",
@@ -1599,15 +1484,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 15.2,
-          "vitamin_k_100g_mcg": 15.2
+          "vitamin_k_mcg": 15.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 38.0,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 15.2
+          "gram_equivalent": 250
         }
       ],
       "source": "USDA SR28 (NDB No: 09043)",
@@ -1626,15 +1509,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 13.3,
-          "vitamin_k_100g_mcg": 13.3
+          "vitamin_k_mcg": 13.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 34.0,
-          "gram_equivalent": 256,
-          "vitamin_k_100g_mcg": 13.3
+          "gram_equivalent": 256
         }
       ],
       "source": "USDA SR28 (NDB No: 09046)",
@@ -1652,22 +1533,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 19.8,
-          "vitamin_k_100g_mcg": 19.8
+          "vitamin_k_mcg": 19.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 29.9,
-          "gram_equivalent": 151,
-          "vitamin_k_100g_mcg": 19.8
+          "gram_equivalent": 151
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 101.0,
-          "gram_equivalent": 510,
-          "vitamin_k_100g_mcg": 19.8
+          "gram_equivalent": 510
         }
       ],
       "source": "USDA SR28 (NDB No: 09048)",
@@ -1686,15 +1564,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.4,
-          "vitamin_k_100g_mcg": 6.4
+          "vitamin_k_mcg": 6.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 16.4,
-          "gram_equivalent": 256,
-          "vitamin_k_100g_mcg": 6.4
+          "gram_equivalent": 256
         }
       ],
       "source": "USDA SR28 (NDB No: 09052)",
@@ -1712,22 +1588,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 16.4,
-          "vitamin_k_100g_mcg": 16.4
+          "vitamin_k_mcg": 16.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 25.4,
-          "gram_equivalent": 155,
-          "vitamin_k_100g_mcg": 16.4
+          "gram_equivalent": 155
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 93.0,
-          "gram_equivalent": 567,
-          "vitamin_k_100g_mcg": 16.4
+          "gram_equivalent": 567
         }
       ],
       "source": "USDA SR28 (NDB No: 09054)",
@@ -1745,22 +1618,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 17.7,
-          "vitamin_k_100g_mcg": 17.7
+          "vitamin_k_mcg": 17.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 40.7,
-          "gram_equivalent": 230,
-          "vitamin_k_100g_mcg": 17.7
+          "gram_equivalent": 230
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 50.3,
-          "gram_equivalent": 284,
-          "vitamin_k_100g_mcg": 17.7
+          "gram_equivalent": 284
         }
       ],
       "source": "USDA SR28 (NDB No: 09055)",
@@ -1779,22 +1649,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1,
-          "vitamin_k_100g_mcg": 2.1
+          "vitamin_k_mcg": 2.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.3,
-          "gram_equivalent": 155,
-          "vitamin_k_100g_mcg": 2.1
+          "gram_equivalent": 155
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.2,
-          "gram_equivalent": 103,
-          "vitamin_k_100g_mcg": 2.1
+          "gram_equivalent": 103
         }
       ],
       "source": "USDA SR28 (NDB No: 09063)",
@@ -1812,15 +1679,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4,
-          "vitamin_k_100g_mcg": 1.4
+          "vitamin_k_mcg": 1.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.4,
-          "gram_equivalent": 244,
-          "vitamin_k_100g_mcg": 1.4
+          "gram_equivalent": 244
         }
       ],
       "source": "USDA SR28 (NDB No: 09064)",
@@ -1839,15 +1704,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4,
-          "vitamin_k_100g_mcg": 1.4
+          "vitamin_k_mcg": 1.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.6,
-          "gram_equivalent": 256,
-          "vitamin_k_100g_mcg": 1.4
+          "gram_equivalent": 256
         }
       ],
       "source": "USDA SR28 (NDB No: 09066)",
@@ -1865,22 +1728,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.5,
-          "vitamin_k_100g_mcg": 1.5
+          "vitamin_k_mcg": 1.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.3,
-          "gram_equivalent": 155,
-          "vitamin_k_100g_mcg": 1.5
+          "gram_equivalent": 155
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 7.6,
-          "gram_equivalent": 510,
-          "vitamin_k_100g_mcg": 1.5
+          "gram_equivalent": 510
         }
       ],
       "source": "USDA SR28 (NDB No: 09068)",
@@ -1898,15 +1758,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4,
-          "vitamin_k_100g_mcg": 1.4
+          "vitamin_k_mcg": 1.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.5,
-          "gram_equivalent": 248,
-          "vitamin_k_100g_mcg": 1.4
+          "gram_equivalent": 248
         }
       ],
       "source": "USDA SR28 (NDB No: 09071)",
@@ -1924,15 +1782,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4,
-          "vitamin_k_100g_mcg": 1.4
+          "vitamin_k_mcg": 1.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.5,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 1.4
+          "gram_equivalent": 250
         }
       ],
       "source": "USDA SR28 (NDB No: 09072)",
@@ -1951,15 +1807,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4,
-          "vitamin_k_100g_mcg": 1.4
+          "vitamin_k_mcg": 1.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.5,
-          "gram_equivalent": 252,
-          "vitamin_k_100g_mcg": 1.4
+          "gram_equivalent": 252
         }
       ],
       "source": "USDA SR28 (NDB No: 09073)",
@@ -1978,15 +1832,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.9,
-          "vitamin_k_100g_mcg": 0.9
+          "vitamin_k_mcg": 0.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.3,
-          "gram_equivalent": 253,
-          "vitamin_k_100g_mcg": 0.9
+          "gram_equivalent": 253
         }
       ],
       "source": "USDA SR28 (NDB No: 09074)",
@@ -2004,22 +1856,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1,
-          "vitamin_k_100g_mcg": 2.1
+          "vitamin_k_mcg": 2.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.4,
-          "gram_equivalent": 259,
-          "vitamin_k_100g_mcg": 2.1
+          "gram_equivalent": 259
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 284,
-          "vitamin_k_100g_mcg": 2.1
+          "gram_equivalent": 284
         }
       ],
       "source": "USDA SR28 (NDB No: 09076)",
@@ -2037,22 +1886,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4,
-          "vitamin_k_100g_mcg": 1.4
+          "vitamin_k_mcg": 1.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.9,
-          "gram_equivalent": 277,
-          "vitamin_k_100g_mcg": 1.4
+          "gram_equivalent": 277
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 57,
-          "vitamin_k_100g_mcg": 1.4
+          "gram_equivalent": 57
         }
       ],
       "source": "USDA SR28 (NDB No: 09081)",
@@ -2071,22 +1917,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.7,
-          "vitamin_k_100g_mcg": 4.7
+          "vitamin_k_mcg": 4.7
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.0,
-          "gram_equivalent": 64,
-          "vitamin_k_100g_mcg": 4.7
+          "gram_equivalent": 64
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 2.4,
-          "gram_equivalent": 50,
-          "vitamin_k_100g_mcg": 4.8
+          "gram_equivalent": 50
         }
       ],
       "source": "USDA SR28 (NDB No: 09089)",
@@ -2104,22 +1947,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.3,
-          "vitamin_k_100g_mcg": 3.3
+          "vitamin_k_mcg": 3.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 8.2,
-          "gram_equivalent": 248,
-          "vitamin_k_100g_mcg": 3.3
+          "gram_equivalent": 248
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 27,
-          "vitamin_k_100g_mcg": 3.3
+          "gram_equivalent": 27
         }
       ],
       "source": "USDA SR28 (NDB No: 09090)",
@@ -2138,22 +1978,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.2,
-          "vitamin_k_100g_mcg": 4.2
+          "vitamin_k_mcg": 4.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 10.6,
-          "gram_equivalent": 252,
-          "vitamin_k_100g_mcg": 4.2
+          "gram_equivalent": 252
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 28,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 28
         }
       ],
       "source": "USDA SR28 (NDB No: 09091)",
@@ -2172,22 +2009,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.3,
-          "vitamin_k_100g_mcg": 5.3
+          "vitamin_k_mcg": 5.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 13.7,
-          "gram_equivalent": 259,
-          "vitamin_k_100g_mcg": 5.3
+          "gram_equivalent": 259
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.5,
-          "gram_equivalent": 28,
-          "vitamin_k_100g_mcg": 5.4
+          "gram_equivalent": 28
         }
       ],
       "source": "USDA SR28 (NDB No: 09092)",
@@ -2206,22 +2040,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 15.6,
-          "vitamin_k_100g_mcg": 15.6
+          "vitamin_k_mcg": 15.6
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 23.2,
-          "gram_equivalent": 149,
-          "vitamin_k_100g_mcg": 15.6
+          "gram_equivalent": 149
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.3,
-          "gram_equivalent": 8,
-          "vitamin_k_100g_mcg": 16.2
+          "gram_equivalent": 8
         }
       ],
       "source": "USDA SR28 (NDB No: 09094)",
@@ -2240,15 +2071,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.7,
-          "vitamin_k_100g_mcg": 6.7
+          "vitamin_k_mcg": 6.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 17.4,
-          "gram_equivalent": 259,
-          "vitamin_k_100g_mcg": 6.7
+          "gram_equivalent": 259
         }
       ],
       "source": "USDA SR28 (NDB No: 09095)",
@@ -2266,22 +2095,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4,
-          "vitamin_k_100g_mcg": 0.4
+          "vitamin_k_mcg": 0.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 253,
-          "vitamin_k_100g_mcg": 0.4
+          "gram_equivalent": 253
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 09130)",
@@ -2300,22 +2126,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 14.6,
-          "vitamin_k_100g_mcg": 14.6
+          "vitamin_k_mcg": 14.6
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 22.0,
-          "gram_equivalent": 151,
-          "vitamin_k_100g_mcg": 14.6
+          "gram_equivalent": 151
         },
         {
           "amount": 10.0,
           "unit": "piece",
           "vitamin_k_mcg": 7.2,
-          "gram_equivalent": 49,
-          "vitamin_k_100g_mcg": 14.7
+          "gram_equivalent": 49
         }
       ],
       "source": "USDA SR28 (NDB No: 09132)",
@@ -2334,15 +2157,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.8,
-          "vitamin_k_100g_mcg": 9.8
+          "vitamin_k_mcg": 9.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 24.0,
-          "gram_equivalent": 245,
-          "vitamin_k_100g_mcg": 9.8
+          "gram_equivalent": 245
         }
       ],
       "source": "USDA SR28 (NDB No: 09133)",
@@ -2362,15 +2183,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.8,
-          "vitamin_k_100g_mcg": 9.8
+          "vitamin_k_mcg": 9.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 25.1,
-          "gram_equivalent": 256,
-          "vitamin_k_100g_mcg": 9.8
+          "gram_equivalent": 256
         }
       ],
       "source": "USDA SR28 (NDB No: 09134)",
@@ -2388,22 +2207,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4,
-          "vitamin_k_100g_mcg": 0.4
+          "vitamin_k_mcg": 0.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 253,
-          "vitamin_k_100g_mcg": 0.4
+          "gram_equivalent": 253
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 09135)",
@@ -2422,15 +2238,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4,
-          "vitamin_k_100g_mcg": 1.4
+          "vitamin_k_mcg": 1.4
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.0,
-          "gram_equivalent": 216,
-          "vitamin_k_100g_mcg": 1.4
+          "gram_equivalent": 216
         }
       ],
       "source": "USDA SR28 (NDB No: 09136)",
@@ -2449,22 +2263,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4,
-          "vitamin_k_100g_mcg": 0.4
+          "vitamin_k_mcg": 0.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 0.4
+          "gram_equivalent": 250
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 09137)",
@@ -2482,22 +2293,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.5,
-          "vitamin_k_100g_mcg": 0.5
+          "vitamin_k_mcg": 0.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 246,
-          "vitamin_k_100g_mcg": 0.5
+          "gram_equivalent": 246
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 30,
-          "vitamin_k_100g_mcg": 0.7
+          "gram_equivalent": 30
         }
       ],
       "source": "USDA SR28 (NDB No: 09161)",
@@ -2515,15 +2323,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.6,
-          "vitamin_k_100g_mcg": 1.6
+          "vitamin_k_mcg": 1.6
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 2,
-          "vitamin_k_100g_mcg": 0.0
+          "gram_equivalent": 2
         }
       ],
       "source": "USDA SR28 (NDB No: 09165)"
@@ -2540,22 +2346,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1,
-          "vitamin_k_100g_mcg": 0.1
+          "vitamin_k_mcg": 0.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 248,
-          "vitamin_k_100g_mcg": 0.1
+          "gram_equivalent": 248
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 0.0
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 09206)",
@@ -2574,15 +2377,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3,
-          "vitamin_k_100g_mcg": 0.3
+          "vitamin_k_mcg": 0.3
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 39,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 39
         }
       ],
       "source": "USDA SR28 (NDB No: 09228)"
@@ -2599,22 +2400,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.8,
-          "vitamin_k_100g_mcg": 0.8
+          "vitamin_k_mcg": 0.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 0.8
+          "gram_equivalent": 250
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 0.6
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 09229)"
@@ -2630,22 +2428,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4,
-          "vitamin_k_100g_mcg": 0.4
+          "vitamin_k_mcg": 0.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 247,
-          "vitamin_k_100g_mcg": 0.4
+          "gram_equivalent": 247
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 30,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 30
         }
       ],
       "source": "USDA SR28 (NDB No: 09232)"
@@ -2661,22 +2456,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4,
-          "vitamin_k_100g_mcg": 0.4
+          "vitamin_k_mcg": 0.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 247,
-          "vitamin_k_100g_mcg": 0.4
+          "gram_equivalent": 247
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 30,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 30
         }
       ],
       "source": "USDA SR28 (NDB No: 09233)"
@@ -2693,22 +2485,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.6,
-          "vitamin_k_100g_mcg": 2.6
+          "vitamin_k_mcg": 2.6
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.0,
-          "gram_equivalent": 154,
-          "vitamin_k_100g_mcg": 2.6
+          "gram_equivalent": 154
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.4,
-          "gram_equivalent": 130,
-          "vitamin_k_100g_mcg": 2.6
+          "gram_equivalent": 130
         }
       ],
       "source": "USDA SR28 (NDB No: 09236)",
@@ -2727,22 +2516,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.7,
-          "vitamin_k_100g_mcg": 1.7
+          "vitamin_k_mcg": 1.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.1,
-          "gram_equivalent": 244,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 244
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.7,
-          "gram_equivalent": 98,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 98
         }
       ],
       "source": "USDA SR28 (NDB No: 09237)",
@@ -2761,22 +2547,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.7,
-          "vitamin_k_100g_mcg": 1.7
+          "vitamin_k_mcg": 1.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.2,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 250
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.2,
-          "gram_equivalent": 248,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 248
         }
       ],
       "source": "USDA SR28 (NDB No: 09238)",
@@ -2796,22 +2579,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.7,
-          "vitamin_k_100g_mcg": 1.7
+          "vitamin_k_mcg": 1.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.3,
-          "gram_equivalent": 251,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 251
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.7,
-          "gram_equivalent": 98,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 98
         }
       ],
       "source": "USDA SR28 (NDB No: 09240)",
@@ -2831,22 +2611,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.7,
-          "vitamin_k_100g_mcg": 1.7
+          "vitamin_k_mcg": 1.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.5,
-          "gram_equivalent": 262,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 262
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.7,
-          "gram_equivalent": 98,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 98
         }
       ],
       "source": "USDA SR28 (NDB No: 09241)",
@@ -2866,15 +2643,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.7,
-          "vitamin_k_100g_mcg": 1.7
+          "vitamin_k_mcg": 1.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.1,
-          "gram_equivalent": 242,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 242
         }
       ],
       "source": "USDA SR28 (NDB No: 09243)",
@@ -2893,22 +2668,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 15.7,
-          "vitamin_k_100g_mcg": 15.7
+          "vitamin_k_mcg": 15.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 25.1,
-          "gram_equivalent": 160,
-          "vitamin_k_100g_mcg": 15.7
+          "gram_equivalent": 160
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 13,
-          "vitamin_k_100g_mcg": 15.4
+          "gram_equivalent": 13
         }
       ],
       "source": "USDA SR28 (NDB No: 09246)",
@@ -2928,15 +2700,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.0,
-          "vitamin_k_100g_mcg": 5.0
+          "vitamin_k_mcg": 5.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 12.9,
-          "gram_equivalent": 258,
-          "vitamin_k_100g_mcg": 5.0
+          "gram_equivalent": 258
         }
       ],
       "source": "USDA SR28 (NDB No: 09247)",
@@ -2955,22 +2725,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2,
-          "vitamin_k_100g_mcg": 2.2
+          "vitamin_k_mcg": 2.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.5,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 250
         },
         {
           "amount": 10.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.4,
-          "gram_equivalent": 155,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 155
         }
       ],
       "source": "USDA SR28 (NDB No: 09250)",
@@ -2989,22 +2756,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.0,
-          "vitamin_k_100g_mcg": 1.0
+          "vitamin_k_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.5,
-          "gram_equivalent": 249,
-          "vitamin_k_100g_mcg": 1.0
+          "gram_equivalent": 249
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 1.0
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 09251)",
@@ -3023,22 +2787,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3,
-          "vitamin_k_100g_mcg": 0.3
+          "vitamin_k_mcg": 0.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 244,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 244
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 76,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 76
         }
       ],
       "source": "USDA SR28 (NDB No: 09253)",
@@ -3057,22 +2818,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3,
-          "vitamin_k_100g_mcg": 0.3
+          "vitamin_k_mcg": 0.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 248,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 248
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 76,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 76
         }
       ],
       "source": "USDA SR28 (NDB No: 09254)",
@@ -3092,22 +2850,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3,
-          "vitamin_k_100g_mcg": 0.3
+          "vitamin_k_mcg": 0.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 251,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 251
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 76,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 76
         }
       ],
       "source": "USDA SR28 (NDB No: 09256)",
@@ -3127,22 +2882,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3,
-          "vitamin_k_100g_mcg": 0.3
+          "vitamin_k_mcg": 0.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 266,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 266
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 76,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 76
         }
       ],
       "source": "USDA SR28 (NDB No: 09257)",
@@ -3161,22 +2913,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 20.4,
-          "vitamin_k_100g_mcg": 20.4
+          "vitamin_k_mcg": 20.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 36.7,
-          "gram_equivalent": 180,
-          "vitamin_k_100g_mcg": 20.4
+          "gram_equivalent": 180
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.7,
-          "gram_equivalent": 18,
-          "vitamin_k_100g_mcg": 20.6
+          "gram_equivalent": 18
         }
       ],
       "source": "USDA SR28 (NDB No: 09259)",
@@ -3196,15 +2945,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.9,
-          "vitamin_k_100g_mcg": 9.9
+          "vitamin_k_mcg": 9.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 25.2,
-          "gram_equivalent": 255,
-          "vitamin_k_100g_mcg": 9.9
+          "gram_equivalent": 255
         }
       ],
       "source": "USDA SR28 (NDB No: 09260)",
@@ -3223,22 +2970,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.8,
-          "vitamin_k_100g_mcg": 1.8
+          "vitamin_k_mcg": 1.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.5,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 1.8
+          "gram_equivalent": 250
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 1.9
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 09262)",
@@ -3257,15 +3001,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.6,
-          "vitamin_k_100g_mcg": 2.6
+          "vitamin_k_mcg": 2.6
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 4.4,
-          "gram_equivalent": 168,
-          "vitamin_k_100g_mcg": 2.6
+          "gram_equivalent": 168
         }
       ],
       "source": "USDA SR28 (NDB No: 09263)"
@@ -3281,22 +3023,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.4,
-          "vitamin_k_100g_mcg": 6.4
+          "vitamin_k_mcg": 6.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 10.6,
-          "gram_equivalent": 165,
-          "vitamin_k_100g_mcg": 6.4
+          "gram_equivalent": 165
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 4.2,
-          "gram_equivalent": 66,
-          "vitamin_k_100g_mcg": 6.4
+          "gram_equivalent": 66
         }
       ],
       "source": "USDA SR28 (NDB No: 09279)",
@@ -3314,22 +3053,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.3,
-          "vitamin_k_100g_mcg": 4.3
+          "vitamin_k_mcg": 4.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 10.7,
-          "gram_equivalent": 249,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 249
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 46,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 46
         }
       ],
       "source": "USDA SR28 (NDB No: 09281)",
@@ -3347,22 +3083,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.3,
-          "vitamin_k_100g_mcg": 4.3
+          "vitamin_k_mcg": 4.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 10.8,
-          "gram_equivalent": 252,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 252
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 46,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 46
         }
       ],
       "source": "USDA SR28 (NDB No: 09282)",
@@ -3381,22 +3114,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.3,
-          "vitamin_k_100g_mcg": 4.3
+          "vitamin_k_mcg": 4.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 10.8,
-          "gram_equivalent": 252,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 252
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 46,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 46
         }
       ],
       "source": "USDA SR28 (NDB No: 09283)",
@@ -3415,22 +3145,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.3,
-          "vitamin_k_100g_mcg": 4.3
+          "vitamin_k_mcg": 4.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 11.1,
-          "gram_equivalent": 258,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 258
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 46,
-          "vitamin_k_100g_mcg": 4.3
+          "gram_equivalent": 46
         }
       ],
       "source": "USDA SR28 (NDB No: 09284)",
@@ -3448,22 +3175,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 59.5,
-          "vitamin_k_100g_mcg": 59.5
+          "vitamin_k_mcg": 59.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 103.5,
-          "gram_equivalent": 174,
-          "vitamin_k_100g_mcg": 59.5
+          "gram_equivalent": 174
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 5.7,
-          "gram_equivalent": 9,
-          "vitamin_k_100g_mcg": 63.3
+          "gram_equivalent": 9
         }
       ],
       "source": "USDA SR28 (NDB No: 09291)",
@@ -3482,15 +3206,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 26.1,
-          "vitamin_k_100g_mcg": 26.1
+          "vitamin_k_mcg": 26.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 64.7,
-          "gram_equivalent": 248,
-          "vitamin_k_100g_mcg": 26.1
+          "gram_equivalent": 248
         }
       ],
       "source": "USDA SR28 (NDB No: 09292)",
@@ -3511,22 +3233,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.4,
-          "vitamin_k_100g_mcg": 3.4
+          "vitamin_k_mcg": 3.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 8.7,
-          "gram_equivalent": 256,
-          "vitamin_k_100g_mcg": 3.4
+          "gram_equivalent": 256
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.1,
-          "gram_equivalent": 32,
-          "vitamin_k_100g_mcg": 3.4
+          "gram_equivalent": 32
         }
       ],
       "source": "USDA SR28 (NDB No: 09294)",
@@ -3545,22 +3264,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 7.8,
-          "vitamin_k_100g_mcg": 7.8
+          "vitamin_k_mcg": 7.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 9.6,
-          "gram_equivalent": 123,
-          "vitamin_k_100g_mcg": 7.8
+          "gram_equivalent": 123
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 24.3,
-          "gram_equivalent": 312,
-          "vitamin_k_100g_mcg": 7.8
+          "gram_equivalent": 312
         }
       ],
       "source": "USDA SR28 (NDB No: 09302)",
@@ -3579,15 +3295,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.2,
-          "vitamin_k_100g_mcg": 5.2
+          "vitamin_k_mcg": 5.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 13.3,
-          "gram_equivalent": 256,
-          "vitamin_k_100g_mcg": 5.2
+          "gram_equivalent": 256
         }
       ],
       "source": "USDA SR28 (NDB No: 09304)",
@@ -3605,22 +3319,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.5,
-          "vitamin_k_100g_mcg": 6.5
+          "vitamin_k_mcg": 6.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 16.2,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 6.5
+          "gram_equivalent": 250
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 18.5,
-          "gram_equivalent": 284,
-          "vitamin_k_100g_mcg": 6.5
+          "gram_equivalent": 284
         }
       ],
       "source": "USDA SR28 (NDB No: 09306)",
@@ -3639,22 +3350,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2,
-          "vitamin_k_100g_mcg": 2.2
+          "vitamin_k_mcg": 2.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.3,
-          "gram_equivalent": 152,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 152
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.1,
-          "gram_equivalent": 232,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 232
         }
       ],
       "source": "USDA SR28 (NDB No: 09316)",
@@ -3674,15 +3382,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.5,
-          "vitamin_k_100g_mcg": 1.5
+          "vitamin_k_mcg": 1.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.8,
-          "gram_equivalent": 254,
-          "vitamin_k_100g_mcg": 1.5
+          "gram_equivalent": 254
         }
       ],
       "source": "USDA SR28 (NDB No: 09317)",
@@ -3701,22 +3407,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2,
-          "vitamin_k_100g_mcg": 2.2
+          "vitamin_k_mcg": 2.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.9,
-          "gram_equivalent": 221,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 221
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 3.3,
-          "gram_equivalent": 149,
-          "vitamin_k_100g_mcg": 2.2
+          "gram_equivalent": 149
         }
       ],
       "source": "USDA SR28 (NDB No: 09318)",
@@ -3735,22 +3438,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.9,
-          "vitamin_k_100g_mcg": 1.9
+          "vitamin_k_mcg": 1.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.8,
-          "gram_equivalent": 255,
-          "vitamin_k_100g_mcg": 1.9
+          "gram_equivalent": 255
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 5.4,
-          "gram_equivalent": 284,
-          "vitamin_k_100g_mcg": 1.9
+          "gram_equivalent": 284
         }
       ],
       "source": "USDA SR28 (NDB No: 09319)",
@@ -3769,22 +3469,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.7,
-          "vitamin_k_100g_mcg": 1.7
+          "vitamin_k_mcg": 1.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 4.3,
-          "gram_equivalent": 255,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 255
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 4.8,
-          "gram_equivalent": 284,
-          "vitamin_k_100g_mcg": 1.7
+          "gram_equivalent": 284
         }
       ],
       "source": "USDA SR28 (NDB No: 09320)",
@@ -3802,15 +3499,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.5,
-          "vitamin_k_100g_mcg": 1.5
+          "vitamin_k_mcg": 1.5
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 5,
-          "vitamin_k_100g_mcg": 2.0
+          "gram_equivalent": 5
         }
       ],
       "source": "USDA SR28 (NDB No: 09328)",
@@ -3830,22 +3525,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.5,
-          "vitamin_k_100g_mcg": 4.5
+          "vitamin_k_mcg": 4.5
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 5.5,
-          "gram_equivalent": 122,
-          "vitamin_k_100g_mcg": 4.5
+          "gram_equivalent": 122
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 12.4,
-          "gram_equivalent": 275,
-          "vitamin_k_100g_mcg": 4.5
+          "gram_equivalent": 275
         }
       ],
       "source": "USDA SR28 (NDB No: 09340)",
@@ -3864,15 +3556,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 19.9,
-          "vitamin_k_100g_mcg": 19.9
+          "vitamin_k_mcg": 19.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 48.6,
-          "gram_equivalent": 244,
-          "vitamin_k_100g_mcg": 19.9
+          "gram_equivalent": 244
         }
       ],
       "source": "USDA SR28 (NDB No: 09352)",
@@ -3891,15 +3581,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 14.8,
-          "vitamin_k_100g_mcg": 14.8
+          "vitamin_k_mcg": 14.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 47.2,
-          "gram_equivalent": 319,
-          "vitamin_k_100g_mcg": 14.8
+          "gram_equivalent": 319
         }
       ],
       "source": "USDA SR28 (NDB No: 09353)",
@@ -3918,22 +3606,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.3,
-          "vitamin_k_100g_mcg": 3.3
+          "vitamin_k_mcg": 3.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 7.2,
-          "gram_equivalent": 219,
-          "vitamin_k_100g_mcg": 3.3
+          "gram_equivalent": 219
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 182,
-          "vitamin_k_100g_mcg": 3.3
+          "gram_equivalent": 182
         }
       ],
       "source": "USDA SR28 (NDB No: 09357)",
@@ -3952,15 +3637,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.9,
-          "vitamin_k_100g_mcg": 0.9
+          "vitamin_k_mcg": 0.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.6,
-          "gram_equivalent": 179,
-          "vitamin_k_100g_mcg": 0.9
+          "gram_equivalent": 179
         }
       ],
       "source": "USDA SR28 (NDB No: 09367)",
@@ -3980,22 +3663,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.4,
-          "vitamin_k_100g_mcg": 2.4
+          "vitamin_k_mcg": 2.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 5.3,
-          "gram_equivalent": 222,
-          "vitamin_k_100g_mcg": 2.4
+          "gram_equivalent": 222
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.8,
-          "gram_equivalent": 73,
-          "vitamin_k_100g_mcg": 2.5
+          "gram_equivalent": 73
         }
       ],
       "source": "USDA SR28 (NDB No: 09370)",
@@ -4015,22 +3695,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3,
-          "vitamin_k_100g_mcg": 0.3
+          "vitamin_k_mcg": 0.3
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 201,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 201
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 48,
-          "vitamin_k_100g_mcg": 0.2
+          "gram_equivalent": 48
         }
       ],
       "source": "USDA SR28 (NDB No: 09374)",
@@ -4049,15 +3726,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.4,
-          "vitamin_k_100g_mcg": 6.4
+          "vitamin_k_mcg": 6.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 11.7,
-          "gram_equivalent": 183,
-          "vitamin_k_100g_mcg": 6.4
+          "gram_equivalent": 183
         }
       ],
       "source": "USDA SR28 (NDB No: 09379)",
@@ -4077,22 +3752,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.8,
-          "vitamin_k_100g_mcg": 3.8
+          "vitamin_k_mcg": 3.8
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 5.8,
-          "gram_equivalent": 152,
-          "vitamin_k_100g_mcg": 3.8
+          "gram_equivalent": 152
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 6.7,
-          "gram_equivalent": 177,
-          "vitamin_k_100g_mcg": 3.8
+          "gram_equivalent": 177
         }
       ],
       "source": "USDA SR28 (NDB No: 09412)",
@@ -4111,8 +3783,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.6,
-          "vitamin_k_100g_mcg": 4.6
+          "vitamin_k_mcg": 4.6
         }
       ],
       "source": "USDA SR28 (NDB No: 09431)"
@@ -4127,8 +3798,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.9,
-          "vitamin_k_100g_mcg": 2.9
+          "vitamin_k_mcg": 2.9
         }
       ],
       "source": "USDA SR28 (NDB No: 09432)"
@@ -4143,15 +3813,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.8,
-          "vitamin_k_100g_mcg": 0.8
+          "vitamin_k_mcg": 0.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 251,
-          "vitamin_k_100g_mcg": 0.8
+          "gram_equivalent": 251
         }
       ],
       "source": "USDA SR28 (NDB No: 09436)"
@@ -4168,8 +3836,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.8,
-          "vitamin_k_100g_mcg": 2.8
+          "vitamin_k_mcg": 2.8
         }
       ],
       "source": "USDA SR28 (NDB No: 09438)",
@@ -4188,8 +3855,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3,
-          "vitamin_k_100g_mcg": 0.3
+          "vitamin_k_mcg": 0.3
         }
       ],
       "source": "USDA SR28 (NDB No: 09439)",
@@ -4209,8 +3875,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3,
-          "vitamin_k_100g_mcg": 0.3
+          "vitamin_k_mcg": 0.3
         }
       ],
       "source": "USDA SR28 (NDB No: 09440)",
@@ -4228,22 +3893,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 10.4,
-          "vitamin_k_100g_mcg": 10.4
+          "vitamin_k_mcg": 10.4
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 25.9,
-          "gram_equivalent": 249,
-          "vitamin_k_100g_mcg": 10.4
+          "gram_equivalent": 249
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.3,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 10.6
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 09442)",
@@ -4262,15 +3924,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.2,
-          "vitamin_k_100g_mcg": 0.2
+          "vitamin_k_mcg": 0.2
         },
         {
           "amount": 8.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 0.2
+          "gram_equivalent": 250
         }
       ],
       "source": "USDA SR28 (NDB No: 09443)",
@@ -4289,22 +3949,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.8,
-          "vitamin_k_100g_mcg": 1.8
+          "vitamin_k_mcg": 1.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 109,
-          "vitamin_k_100g_mcg": 1.8
+          "gram_equivalent": 109
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.9,
-          "gram_equivalent": 215,
-          "vitamin_k_100g_mcg": 1.8
+          "gram_equivalent": 215
         }
       ],
       "source": "USDA SR28 (NDB No: 09501)",
@@ -4323,15 +3980,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 163.1,
-          "vitamin_k_100g_mcg": 163.1
+          "vitamin_k_mcg": 163.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 94.6,
-          "gram_equivalent": 58,
-          "vitamin_k_100g_mcg": 163.1
+          "gram_equivalent": 58
         }
       ],
       "source": "USDA SR28 (NDB No: 11023)",
@@ -4350,22 +4005,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.8,
-          "vitamin_k_100g_mcg": 4.8
+          "vitamin_k_mcg": 4.8
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 124,
-          "vitamin_k_100g_mcg": 4.8
+          "gram_equivalent": 124
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.0,
-          "gram_equivalent": 62,
-          "vitamin_k_100g_mcg": 4.8
+          "gram_equivalent": 62
         }
       ],
       "source": "USDA SR28 (NDB No: 11025)",
@@ -4384,15 +4036,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 163.1,
-          "vitamin_k_100g_mcg": 163.1
+          "vitamin_k_mcg": 163.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 94.6,
-          "gram_equivalent": 58,
-          "vitamin_k_100g_mcg": 163.1
+          "gram_equivalent": 58
         }
       ],
       "source": "USDA SR28 (NDB No: 11710)",
@@ -4411,15 +4061,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.8,
-          "vitamin_k_100g_mcg": 4.8
+          "vitamin_k_mcg": 4.8
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 124,
-          "vitamin_k_100g_mcg": 4.8
+          "gram_equivalent": 124
         }
       ],
       "source": "USDA SR28 (NDB No: 11711)",
@@ -4438,22 +4086,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 108.6,
-          "vitamin_k_100g_mcg": 108.6
+          "vitamin_k_mcg": 108.6
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 15.2,
-          "gram_equivalent": 14,
-          "vitamin_k_100g_mcg": 108.6
+          "gram_equivalent": 14
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.3,
-          "gram_equivalent": 3,
-          "vitamin_k_100g_mcg": 110.0
+          "gram_equivalent": 3
         }
       ],
       "source": "USDA SR28 (NDB No: 11974)",
@@ -4474,15 +4119,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 97.3,
-          "vitamin_k_100g_mcg": 97.3
+          "vitamin_k_mcg": 97.3
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.9,
-          "gram_equivalent": 4,
-          "vitamin_k_100g_mcg": 97.5
+          "gram_equivalent": 4
         }
       ],
       "source": "USDA SR28 (NDB No: 11975)",
@@ -4503,22 +4146,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.5,
-          "vitamin_k_100g_mcg": 0.5
+          "vitamin_k_mcg": 0.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 245,
-          "vitamin_k_100g_mcg": 0.5
+          "gram_equivalent": 245
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 30,
-          "vitamin_k_100g_mcg": 0.7
+          "gram_equivalent": 30
         }
       ],
       "source": "USDA SR28 (NDB No: 14238)",
@@ -4537,22 +4177,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.0,
-          "vitamin_k_100g_mcg": 1.0
+          "vitamin_k_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.5,
-          "gram_equivalent": 253,
-          "vitamin_k_100g_mcg": 1.0
+          "gram_equivalent": 253
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 1.0
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 14242)",
@@ -4573,22 +4210,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.2,
-          "vitamin_k_100g_mcg": 0.2
+          "vitamin_k_mcg": 0.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 0.2
+          "gram_equivalent": 250
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 0.3
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 14282)",
@@ -4606,22 +4240,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1,
-          "vitamin_k_100g_mcg": 0.1
+          "vitamin_k_mcg": 0.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 250,
-          "vitamin_k_100g_mcg": 0.1
+          "gram_equivalent": 250
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 0.0
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 14327)"
@@ -4640,22 +4271,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 39.2,
-          "vitamin_k_100g_mcg": 39.2
+          "vitamin_k_mcg": 39.2
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 11.1,
-          "gram_equivalent": 28,
-          "vitamin_k_100g_mcg": 39.6
+          "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 6.7,
-          "gram_equivalent": 17,
-          "vitamin_k_100g_mcg": 39.4
+          "gram_equivalent": 17
         }
       ],
       "source": "USDA SR28 (NDB No: 18274)",
@@ -4678,22 +4306,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 19.3,
-          "vitamin_k_100g_mcg": 19.3
+          "vitamin_k_mcg": 19.3
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 5.5,
-          "gram_equivalent": 28,
-          "vitamin_k_100g_mcg": 19.6
+          "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 33,
-          "vitamin_k_100g_mcg": 19.4
+          "gram_equivalent": 33
         }
       ],
       "source": "USDA SR28 (NDB No: 18277)",
@@ -4711,22 +4336,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.9,
-          "vitamin_k_100g_mcg": 2.9
+          "vitamin_k_mcg": 2.9
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 28,
-          "vitamin_k_100g_mcg": 2.9
+          "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 2.1,
-          "gram_equivalent": 71,
-          "vitamin_k_100g_mcg": 3.0
+          "gram_equivalent": 71
         }
       ],
       "source": "USDA SR28 (NDB No: 18354)",
@@ -4749,22 +4371,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 20.8,
-          "vitamin_k_100g_mcg": 20.8
+          "vitamin_k_mcg": 20.8
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 28,
-          "vitamin_k_100g_mcg": 21.1
+          "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 20.6
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 18386)",
@@ -4782,15 +4401,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.6,
-          "vitamin_k_100g_mcg": 6.6
+          "vitamin_k_mcg": 6.6
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 3.4,
-          "gram_equivalent": 51,
-          "vitamin_k_100g_mcg": 6.7
+          "gram_equivalent": 51
         }
       ],
       "source": "USDA SR28 (NDB No: 18939)"
@@ -4808,22 +4425,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.7,
-          "vitamin_k_100g_mcg": 0.7
+          "vitamin_k_mcg": 0.7
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.4,
-          "gram_equivalent": 340,
-          "vitamin_k_100g_mcg": 0.7
+          "gram_equivalent": 340
         },
         {
           "amount": 2.0,
           "unit": "tbsp",
           "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 42,
-          "vitamin_k_100g_mcg": 0.7
+          "gram_equivalent": 42
         }
       ],
       "source": "USDA SR28 (NDB No: 19137)",
@@ -4842,22 +4456,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.9,
-          "vitamin_k_100g_mcg": 0.9
+          "vitamin_k_mcg": 0.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.5,
-          "gram_equivalent": 282,
-          "vitamin_k_100g_mcg": 0.9
+          "gram_equivalent": 282
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
           "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 17,
-          "vitamin_k_100g_mcg": 1.2
+          "gram_equivalent": 17
         }
       ],
       "source": "USDA SR28 (NDB No: 19294)",
@@ -4876,15 +4487,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.9,
-          "vitamin_k_100g_mcg": 5.9
+          "vitamin_k_mcg": 5.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 9.3,
-          "gram_equivalent": 157,
-          "vitamin_k_100g_mcg": 5.9
+          "gram_equivalent": 157
         }
       ],
       "source": "USDA SR28 (NDB No: 35015)",
@@ -4903,8 +4512,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 17.2,
-          "vitamin_k_100g_mcg": 17.2
+          "vitamin_k_mcg": 17.2
         }
       ],
       "source": "USDA SR28 (NDB No: 35155)",
@@ -4922,15 +4530,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.6,
-          "vitamin_k_100g_mcg": 6.6
+          "vitamin_k_mcg": 6.6
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 8.6,
-          "gram_equivalent": 130,
-          "vitamin_k_100g_mcg": 6.6
+          "gram_equivalent": 130
         }
       ],
       "source": "USDA SR28 (NDB No: 35202)",
@@ -4948,15 +4554,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 11.2,
-          "vitamin_k_100g_mcg": 11.2
+          "vitamin_k_mcg": 11.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 18.0,
-          "gram_equivalent": 161,
-          "vitamin_k_100g_mcg": 11.2
+          "gram_equivalent": 161
         }
       ],
       "source": "USDA SR28 (NDB No: 35206)",
@@ -4975,22 +4579,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.1,
-          "vitamin_k_100g_mcg": 5.1
+          "vitamin_k_mcg": 5.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 12.9,
-          "gram_equivalent": 253,
-          "vitamin_k_100g_mcg": 5.1
+          "gram_equivalent": 253
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.6,
-          "gram_equivalent": 31,
-          "vitamin_k_100g_mcg": 5.2
+          "gram_equivalent": 31
         }
       ],
       "source": "USDA SR28 (NDB No: 43382), FDA Warning, Stockley's Drug Interactions",
@@ -5008,22 +4609,19 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.1,
-          "vitamin_k_100g_mcg": 1.1
+          "vitamin_k_mcg": 1.1
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 2.6,
-          "gram_equivalent": 240,
-          "vitamin_k_100g_mcg": 1.1
+          "gram_equivalent": 240
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 30,
-          "vitamin_k_100g_mcg": 1.0
+          "gram_equivalent": 30
         }
       ],
       "source": "USDA SR28 (NDB No: 43404)",
@@ -5043,15 +4641,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 21.0,
-          "vitamin_k_100g_mcg": 21.0
+          "vitamin_k_mcg": 21.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 48.3,
-          "gram_equivalent": 230,
-          "vitamin_k_100g_mcg": 21.0
+          "gram_equivalent": 230
         }
       ],
       "source": "USDA FoodData Central (FDC ID: 171705), Stockley's Drug Interactions",
@@ -5071,15 +4667,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.0,
-          "vitamin_k_100g_mcg": 9.0
+          "vitamin_k_mcg": 9.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
           "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 9,
-          "vitamin_k_100g_mcg": 8.9
+          "gram_equivalent": 9
         }
       ],
       "source": "USDA FoodData Central, Stockley's Drug Interactions"

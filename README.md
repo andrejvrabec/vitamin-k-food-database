@@ -60,12 +60,11 @@ Each file corresponds to a category named `<category_id>.json` and contains:
 - `id`: Unique lowercase identifier (e.g., `spinach_raw`).
 - `category`: Must match the `<category_id>` of the filename.
 - `tags`: List of tags defined in `metadata.json`.
-- `portions` (optional/`null`): A list of portion measurements. Can be set to `null` or omitted entirely for items where Vitamin K content is unknown or not relevant.
+- `portions` (optional/`null`): A list of portion measurements. Can be set to `null` or omitted entirely for items where Vitamin K content is unknown or not relevant. **Requirement**: If portions are defined, there must be at least one portion with `amount` = 100 and `unit` = "g" (serving as the baseline 100g measurement).
   - `amount`: Number (e.g. `100` or `1`).
   - `unit`: One of `["g", "ml", "piece", "cup", "tbsp", "tsp"]`.
   - `vitamin_k_mcg`: Amount of Vitamin K in micrograms.
   - `gram_equivalent`: The equivalent weight in grams. **Required if the unit is NOT `"g"`**. If unit is `"g"`, it is omitted.
-  - `vitamin_k_100g_mcg`: **Required**. The calculated amount of Vitamin K in micrograms per 100g of this food item (calculated from the portion weight and vitamin K content).
 - `source`: Reference source for the data (e.g. USDA FoodData Central ID).
 - `relations` (optional): Grouping and relation identifier (omitted if the food item does not belong to any obvious food group).
   - `group`: String grouping identifier. Must be registered in the global `"groups"` list of `metadata.json`.
@@ -81,8 +80,8 @@ Each file corresponds to a category named `<category_id>.json` and contains:
         "category": "vegetables",
         "tags": ["green_leaves"],
         "portions": [
-          { "amount": 100, "unit": "g", "vitamin_k_mcg": 482.9, "vitamin_k_100g_mcg": 482.9 },
-          { "amount": 1, "unit": "cup", "gram_equivalent": 30, "vitamin_k_mcg": 144.9, "vitamin_k_100g_mcg": 483.0 }
+          { "amount": 100, "unit": "g", "vitamin_k_mcg": 482.9 },
+          { "amount": 1, "unit": "cup", "gram_equivalent": 30, "vitamin_k_mcg": 144.9 }
         ],
         "source": "USDA FDC ID: 168462",
         "relations": {
