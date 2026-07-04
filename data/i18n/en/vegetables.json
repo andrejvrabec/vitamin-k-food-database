@@ -11,7 +11,7 @@
   "asparagus_canned_drained_solids": {
     "name": "Asparagus, canned, drained solids",
     "alternative_names": [],
-    "description": "Asparagus, canned, drained solids as defined by the USDA database."
+    "description": "Asparagus, canned, drained solids."
   },
   "asparagus_cooked": {
     "name": "Asparagus, cooked",
@@ -24,12 +24,12 @@
   "asparagus_cooked_boiled_drained": {
     "name": "Asparagus, cooked, boiled, drained",
     "alternative_names": [],
-    "description": "Asparagus, cooked, boiled, drained as defined by the USDA database."
+    "description": "Asparagus, cooked, boiled, drained."
   },
   "asparagus_frozen_cooked_boiled_drained_w": {
     "name": "Asparagus, frozen, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Asparagus, frozen, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Asparagus, frozen, cooked, boiled, drained, without salt."
   },
   "beet_greens_raw": {
     "name": "Beet greens, raw",
@@ -42,12 +42,12 @@
   "beets_canned_regular_pack_solids_and_liq": {
     "name": "Beets, canned, regular pack, solids and liquids",
     "alternative_names": [],
-    "description": "Beets, canned, regular pack, solids and liquids as defined by the USDA database."
+    "description": "Beets, canned, regular pack, solids and liquids."
   },
   "beets_raw": {
     "name": "Beets, raw",
     "alternative_names": [],
-    "description": "Beets, raw as defined by the USDA database."
+    "description": "Beets, raw."
   },
   "broccoli_cooked": {
     "name": "Broccoli, cooked",
@@ -60,12 +60,12 @@
   "broccoli_frozen_chopped_cooked_boiled_dr": {
     "name": "Broccoli, frozen, chopped, cooked, boiled, drained, without",
     "alternative_names": [],
-    "description": "Broccoli, frozen, chopped, cooked, boiled, drained, without as defined by the USDA database."
+    "description": "Broccoli, frozen, chopped, cooked, boiled, drained, without."
   },
   "broccoli_frozen_chopped_unprepared": {
     "name": "Broccoli, frozen, chopped, unprepared",
     "alternative_names": [],
-    "description": "Broccoli, frozen, chopped, unprepared as defined by the USDA database."
+    "description": "Broccoli, frozen, chopped, unprepared."
   },
   "broccoli_raab_raw": {
     "name": "Broccoli raab, raw",
@@ -92,17 +92,17 @@
   "burdock_root_cooked_boiled_drained_witho": {
     "name": "Burdock root, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Burdock root, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Burdock root, cooked, boiled, drained, without salt."
   },
   "cabbage_chinese_cooked_boiled_drained_wi": {
     "name": "Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt."
   },
   "cabbage_chinese_raw": {
     "name": "Cabbage, chinese (pe-tsai), raw",
     "alternative_names": [],
-    "description": "Cabbage, chinese (pe-tsai), raw as defined by the USDA database."
+    "description": "Cabbage, chinese (pe-tsai), raw."
   },
   "carrot_juice": {
     "name": "Carrot juice",
@@ -115,17 +115,17 @@
   "carrots_canned_no_salt_added_solids_and": {
     "name": "Carrots, canned, no salt added, solids and liquids",
     "alternative_names": [],
-    "description": "Carrots, canned, no salt added, solids and liquids as defined by the USDA database."
+    "description": "Carrots, canned, no salt added, solids and liquids."
   },
   "carrots_canned_regular_pack_drained_soli": {
     "name": "Carrots, canned, regular pack, drained solids",
     "alternative_names": [],
-    "description": "Carrots, canned, regular pack, drained solids as defined by the USDA database."
+    "description": "Carrots, canned, regular pack, drained solids."
   },
   "carrots_frozen_unprepared": {
     "name": "Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",
     "alternative_names": [],
-    "description": "Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program) as defined by the USDA database."
+    "description": "Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)."
   },
   "carrots_raw": {
     "name": "Carrots, raw",
@@ -138,7 +138,7 @@
   "cauliflower_green_raw": {
     "name": "Cauliflower, green, raw",
     "alternative_names": [],
-    "description": "Cauliflower, green, raw as defined by the USDA database."
+    "description": "Cauliflower, green, raw."
   },
   "celery_cooked": {
     "name": "Celery, cooked",
@@ -151,12 +151,12 @@
   "celery_cooked_boiled_drained_without_sal": {
     "name": "Celery, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Celery, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Celery, cooked, boiled, drained, without salt."
   },
   "cress_garden_raw": {
     "name": "Cress, garden, raw",
     "alternative_names": [],
-    "description": "Cress, garden, raw as defined by the USDA database."
+    "description": "Cress, garden, raw."
   },
   "endive_raw": {
     "name": "Endive, raw",
@@ -177,12 +177,12 @@
   "jute_potherb_cooked_boiled_drained_witho": {
     "name": "Jute, potherb, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Jute, potherb, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Jute, potherb, cooked, boiled, drained, without salt."
   },
   "kale_frozen_unprepared": {
     "name": "Kale, frozen, unprepared",
     "alternative_names": [],
-    "description": "Kale, frozen, unprepared as defined by the USDA database."
+    "description": "Kale, frozen, unprepared."
   },
   "kale_raw": {
     "name": "Kale, raw",
@@ -202,12 +202,12 @@
   "leeks_cooked_boiled_drained_without_salt": {
     "name": "Leeks, (bulb and lower leaf-portion), cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Leeks, (bulb and lower leaf-portion), cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Leeks, (bulb and lower leaf-portion), cooked, boiled, drained, without salt."
   },
   "mountain_yam_hawaii_raw": {
     "name": "Mountain yam, hawaii, raw",
     "alternative_names": [],
-    "description": "Mountain yam, hawaii, raw as defined by the USDA database."
+    "description": "Mountain yam, hawaii, raw."
   },
   "okra_cooked": {
     "name": "Okra, cooked",
@@ -220,42 +220,42 @@
   "okra_frozen_cooked_boiled_drained_withou": {
     "name": "Okra, frozen, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Okra, frozen, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Okra, frozen, cooked, boiled, drained, without salt."
   },
   "okra_frozen_unprepared": {
     "name": "Okra, frozen, unprepared",
     "alternative_names": [],
-    "description": "Okra, frozen, unprepared as defined by the USDA database."
+    "description": "Okra, frozen, unprepared."
   },
   "onions_dehydrated_flakes": {
     "name": "Onions, dehydrated flakes",
     "alternative_names": [],
-    "description": "Onions, dehydrated flakes as defined by the USDA database."
+    "description": "Onions, dehydrated flakes."
   },
   "onions_frozen_whole_cooked_boiled_draine": {
     "name": "Onions, frozen, whole, cooked, boiled, drained, without",
     "alternative_names": [],
-    "description": "Onions, frozen, whole, cooked, boiled, drained, without as defined by the USDA database."
+    "description": "Onions, frozen, whole, cooked, boiled, drained, without."
   },
   "onions_frozen_whole_unprepared": {
     "name": "Onions, frozen, whole, unprepared",
     "alternative_names": [],
-    "description": "Onions, frozen, whole, unprepared as defined by the USDA database."
+    "description": "Onions, frozen, whole, unprepared."
   },
   "onions_raw": {
     "name": "Onions, raw",
     "alternative_names": [],
-    "description": "Onions, raw as defined by the USDA database."
+    "description": "Onions, raw."
   },
   "peas_and_carrots_frozen_cooked_boiled_dr": {
     "name": "Peas and carrots, frozen, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Peas and carrots, frozen, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Peas and carrots, frozen, cooked, boiled, drained, without salt."
   },
   "peas_edible_podded_raw": {
     "name": "Peas, edible-podded, raw",
     "alternative_names": [],
-    "description": "Peas, edible-podded, raw as defined by the USDA database."
+    "description": "Peas, edible-podded, raw."
   },
   "peas_green_raw": {
     "name": "Green peas, raw",
@@ -268,42 +268,42 @@
   "plantains_yellow_baked": {
     "name": "Plantains, yellow, baked",
     "alternative_names": [],
-    "description": "Plantains, yellow, baked as defined by the USDA database."
+    "description": "Plantains, yellow, baked."
   },
   "plantains_yellow_raw": {
     "name": "Plantains, yellow, raw",
     "alternative_names": [],
-    "description": "Plantains, yellow, raw as defined by the USDA database."
+    "description": "Plantains, yellow, raw."
   },
   "pokeberry_shoots_cooked_boiled_drained_w": {
     "name": "Pokeberry shoots, (poke), cooked, boiled, drained, without",
     "alternative_names": [],
-    "description": "Pokeberry shoots, (poke), cooked, boiled, drained, without as defined by the USDA database."
+    "description": "Pokeberry shoots, (poke), cooked, boiled, drained, without."
   },
   "potatoes_boiled_cooked_without_skin_fles": {
     "name": "Potatoes, boiled, cooked without skin, flesh, with salt",
     "alternative_names": [],
-    "description": "Potatoes, boiled, cooked without skin, flesh, with salt as defined by the USDA database."
+    "description": "Potatoes, boiled, cooked without skin, flesh, with salt."
   },
   "potatoes_flesh_and_skin_raw": {
     "name": "Potatoes, flesh and skin, raw",
     "alternative_names": [],
-    "description": "Potatoes, flesh and skin, raw as defined by the USDA database."
+    "description": "Potatoes, flesh and skin, raw."
   },
   "radishes_raw": {
     "name": "Radishes, raw",
     "alternative_names": [],
-    "description": "Radishes, raw as defined by the USDA database."
+    "description": "Radishes, raw."
   },
   "seeds_pumpkin_and_squash_seed_kernels_ro": {
     "name": "Seeds, pumpkin and squash seed kernels, roasted, with salt",
     "alternative_names": [],
-    "description": "Seeds, pumpkin and squash seed kernels, roasted, with salt as defined by the USDA database."
+    "description": "Seeds, pumpkin and squash seed kernels, roasted, with salt."
   },
   "spinach_canned_regular_pack_solids_and_l": {
     "name": "Spinach, canned, regular pack, solids and liquids",
     "alternative_names": [],
-    "description": "Spinach, canned, regular pack, solids and liquids as defined by the USDA database."
+    "description": "Spinach, canned, regular pack, solids and liquids."
   },
   "spinach_cooked": {
     "name": "Spinach, cooked",
@@ -324,67 +324,67 @@
   "squash_summer_crookneck_and_straightneck": {
     "name": "Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt."
   },
   "squash_summer_zucchini_includes_skin_coo": {
     "name": "Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt."
   },
   "squash_winter_butternut_cooked_baked_wit": {
     "name": "Squash, winter, butternut, cooked, baked, without salt",
     "alternative_names": [],
-    "description": "Squash, winter, butternut, cooked, baked, without salt as defined by the USDA database."
+    "description": "Squash, winter, butternut, cooked, baked, without salt."
   },
   "squash_winter_hubbard_baked_with_salt": {
     "name": "Squash, winter, hubbard, baked, with salt",
     "alternative_names": [],
-    "description": "Squash, winter, hubbard, baked, with salt as defined by the USDA database."
+    "description": "Squash, winter, hubbard, baked, with salt."
   },
   "squash_winter_hubbard_cooked_boiled_mash": {
     "name": "Squash, winter, hubbard, cooked, boiled, mashed, with salt",
     "alternative_names": [],
-    "description": "Squash, winter, hubbard, cooked, boiled, mashed, with salt as defined by the USDA database."
+    "description": "Squash, winter, hubbard, cooked, boiled, mashed, with salt."
   },
   "sweet_potato_canned_syrup_pack_drained_s": {
     "name": "Sweet potato, canned, syrup pack, drained solids",
     "alternative_names": [],
-    "description": "Sweet potato, canned, syrup pack, drained solids as defined by the USDA database."
+    "description": "Sweet potato, canned, syrup pack, drained solids."
   },
   "tomato_juice_canned_with_salt_added": {
     "name": "Tomato juice, canned, with salt added",
     "alternative_names": [],
-    "description": "Tomato juice, canned, with salt added as defined by the USDA database."
+    "description": "Tomato juice, canned, with salt added."
   },
   "tomato_juice_canned_without_salt_added": {
     "name": "Tomato juice, canned, without salt added",
     "alternative_names": [],
-    "description": "Tomato juice, canned, without salt added as defined by the USDA database."
+    "description": "Tomato juice, canned, without salt added."
   },
   "tomato_products_canned_puree_with_salt_a": {
     "name": "Tomato products, canned, puree, with salt added",
     "alternative_names": [],
-    "description": "Tomato products, canned, puree, with salt added as defined by the USDA database."
+    "description": "Tomato products, canned, puree, with salt added."
   },
   "tomato_products_canned_puree_without_sal": {
     "name": "Tomato products, canned, puree, without salt added",
     "alternative_names": [],
-    "description": "Tomato products, canned, puree, without salt added as defined by the USDA database."
+    "description": "Tomato products, canned, puree, without salt added."
   },
   "tomatoes_red_ripe_canned_packed_in_tomat": {
     "name": "Tomatoes, red, ripe, canned, packed in tomato juice",
     "alternative_names": [],
-    "description": "Tomatoes, red, ripe, canned, packed in tomato juice as defined by the USDA database."
+    "description": "Tomatoes, red, ripe, canned, packed in tomato juice."
   },
   "tomatoes_red_ripe_canned_stewed": {
     "name": "Tomatoes, red, ripe, canned, stewed",
     "alternative_names": [],
-    "description": "Tomatoes, red, ripe, canned, stewed as defined by the USDA database."
+    "description": "Tomatoes, red, ripe, canned, stewed."
   },
   "turnip_greens_and_turnips_frozen_cooked": {
     "name": "Turnip greens and turnips, frozen, cooked, boiled, drained,",
     "alternative_names": [],
-    "description": "Turnip greens and turnips, frozen, cooked, boiled, drained, as defined by the USDA database."
+    "description": "Turnip greens and turnips, frozen, cooked, boiled, drained,."
   },
   "turnip_greens_cooked": {
     "name": "Turnip greens, cooked",
@@ -396,1407 +396,1407 @@
   "turnip_greens_cooked_boiled_drained_with": {
     "name": "Turnip greens, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Turnip greens, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Turnip greens, cooked, boiled, drained, without salt."
   },
   "turnip_greens_frozen_cooked_boiled_drain": {
     "name": "Turnip greens, frozen, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Turnip greens, frozen, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Turnip greens, frozen, cooked, boiled, drained, without salt."
   },
   "turnips_frozen_cooked_boiled_drained_wit": {
     "name": "Turnips, frozen, cooked, boiled, drained, without salt",
     "alternative_names": [],
-    "description": "Turnips, frozen, cooked, boiled, drained, without salt as defined by the USDA database."
+    "description": "Turnips, frozen, cooked, boiled, drained, without salt."
   },
   "onion_powder": {
     "name": "Onion powder",
     "alternative_names": [],
-    "description": "Onion powder from the USDA database."
+    "description": "Onion powder."
   },
   "plantains_raw": {
     "name": "Plantains, raw",
     "alternative_names": [],
-    "description": "Plantains, raw from the USDA database."
+    "description": "Plantains, raw."
   },
   "plantains_cooked": {
     "name": "Plantains, cooked",
     "alternative_names": [],
-    "description": "Plantains, cooked from the USDA database."
+    "description": "Plantains, cooked."
   },
   "plantains_yel_fried_latino_restaurant": {
     "name": "Plantains, yel, fried, latino restaurant",
     "alternative_names": [],
-    "description": "Plantains, yel, fried, latino restaurant from the USDA database."
+    "description": "Plantains, yel, fried, latino restaurant."
   },
   "asparagus_raw": {
     "name": "Asparagus, raw",
     "alternative_names": [],
-    "description": "Asparagus, raw from the USDA database."
+    "description": "Asparagus, raw."
   },
   "asparagus_ckd_bld_drnd": {
-    "name": "Asparagus, ckd, bld, drnd",
+    "name": "Asparagus, cooked, boiled, drained",
     "alternative_names": [],
-    "description": "Asparagus, ckd, bld, drnd from the USDA database."
+    "description": "Asparagus, cooked, boiled, drained."
   },
   "asparagus_cnd_drnd_sol": {
-    "name": "Asparagus, cnd, drnd sol",
+    "name": "Asparagus, canned, drained solids",
     "alternative_names": [],
-    "description": "Asparagus, cnd, drnd sol from the USDA database."
+    "description": "Asparagus, canned, drained solids."
   },
   "asparagus_frz_ckd_bld_drnd_wosalt": {
-    "name": "Asparagus, frz, ckd, bld, drnd, wo/salt",
+    "name": "Asparagus, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Asparagus, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Asparagus, frozen, cooked, boiled, drained, withoutsalt."
   },
   "beets_ckd_bld_drnd": {
-    "name": "Beets, ckd, bld, drnd",
+    "name": "Beets, cooked, boiled, drained",
     "alternative_names": [],
-    "description": "Beets, ckd, bld, drnd from the USDA database."
+    "description": "Beets, cooked, boiled, drained."
   },
   "beets_cnd_reg_pk_solliquids": {
-    "name": "Beets, cnd, reg pk, sol&liquids",
+    "name": "Beets, canned, regular pk, solids&liquids",
     "alternative_names": [],
-    "description": "Beets, cnd, reg pk, sol&liquids from the USDA database."
+    "description": "Beets, canned, regular pk, solids&liquids."
   },
   "beets_cnd_drnd_sol": {
-    "name": "Beets, cnd, drnd sol",
+    "name": "Beets, canned, drained solids",
     "alternative_names": [],
-    "description": "Beets, cnd, drnd sol from the USDA database."
+    "description": "Beets, canned, drained solids."
   },
   "beet_grns_ckd_bld_drnd_wosalt": {
-    "name": "Beet grns, ckd, bld, drnd, wo/salt",
+    "name": "Beet grns, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Beet grns, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Beet grns, cooked, boiled, drained, withoutsalt."
   },
   "broccoli_ckd_bld_drnd_wosalt": {
-    "name": "Broccoli, ckd, bld, drnd, wo/salt",
+    "name": "Broccoli, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Broccoli, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Broccoli, cooked, boiled, drained, withoutsalt."
   },
   "broccoli_frz_chopd_unprep": {
-    "name": "Broccoli, frz, chopd, unprep",
+    "name": "Broccoli, frozen, chopped, unprepared",
     "alternative_names": [],
-    "description": "Broccoli, frz, chopd, unprep from the USDA database."
+    "description": "Broccoli, frozen, chopped, unprepared."
   },
   "broccoli_frz_chopd_ckd_bld_drnd_wosalt": {
-    "name": "Broccoli, frz, chopd, ckd, bld, drnd, wo/salt",
+    "name": "Broccoli, frozen, chopped, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Broccoli, frz, chopd, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Broccoli, frozen, chopped, cooked, boiled, drained, withoutsalt."
   },
   "broccoli_frz_spears_unprep": {
-    "name": "Broccoli, frz, spears, unprep",
+    "name": "Broccoli, frozen, spears, unprepared",
     "alternative_names": [],
-    "description": "Broccoli, frz, spears, unprep from the USDA database."
+    "description": "Broccoli, frozen, spears, unprepared."
   },
   "broccoli_frz_spears_ckd_bld_drnd_wosalt": {
-    "name": "Broccoli, frz, spears, ckd, bld, drnd, wo/salt",
+    "name": "Broccoli, frozen, spears, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Broccoli, frz, spears, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Broccoli, frozen, spears, cooked, boiled, drained, withoutsalt."
   },
   "broccoli_raab_ckd": {
-    "name": "Broccoli raab, ckd",
+    "name": "Broccoli raab, cooked",
     "alternative_names": [],
-    "description": "Broccoli raab, ckd from the USDA database."
+    "description": "Broccoli raab, cooked."
   },
   "brussels_sprouts_ckd_bld_drnd_wosalt": {
-    "name": "Brussels sprouts, ckd, bld, drnd, wo/salt",
+    "name": "Brussels sprouts, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Brussels sprouts, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Brussels sprouts, cooked, boiled, drained, withoutsalt."
   },
   "brussels_sprouts_frz_ckd_bld_drnd_wosalt": {
-    "name": "Brussels sprouts, frz, ckd, bld, drnd, wo/salt",
+    "name": "Brussels sprouts, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Brussels sprouts, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Brussels sprouts, frozen, cooked, boiled, drained, withoutsalt."
   },
   "burdock_root_raw": {
     "name": "Burdock root, raw",
     "alternative_names": [],
-    "description": "Burdock root, raw from the USDA database."
+    "description": "Burdock root, raw."
   },
   "burdock_root_ckd_bld_drnd_wosalt": {
-    "name": "Burdock root, ckd, bld, drnd, wo/salt",
+    "name": "Burdock root, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Burdock root, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Burdock root, cooked, boiled, drained, withoutsalt."
   },
   "cabbage_raw": {
     "name": "Cabbage, raw",
     "alternative_names": [],
-    "description": "Cabbage, raw from the USDA database."
+    "description": "Cabbage, raw."
   },
   "cabbage_ckd_bld_drnd_wosalt": {
-    "name": "Cabbage, ckd, bld, drnd, wo/salt",
+    "name": "Cabbage, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Cabbage, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Cabbage, cooked, boiled, drained, withoutsalt."
   },
   "cabbage_red_raw": {
     "name": "Cabbage, red, raw",
     "alternative_names": [],
-    "description": "Cabbage, red, raw from the USDA database."
+    "description": "Cabbage, red, raw."
   },
   "cabbage_red_ckd_bld_drnd_wosalt": {
-    "name": "Cabbage, red, ckd, bld, drnd, wo/salt",
+    "name": "Cabbage, red, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Cabbage, red, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Cabbage, red, cooked, boiled, drained, withoutsalt."
   },
   "cabbage_savoy_raw": {
     "name": "Cabbage, savoy, raw",
     "alternative_names": [],
-    "description": "Cabbage, savoy, raw from the USDA database."
+    "description": "Cabbage, savoy, raw."
   },
   "cabbage_chinese_ckd_bld_drnd_wosalt": {
-    "name": "Cabbage, chinese (pak-choi), ckd, bld, drnd, wo/salt",
+    "name": "Cabbage, chinese (pak-choi), cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Cabbage, chinese (pak-choi), ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Cabbage, chinese (pak-choi), cooked, boiled, drained, withoutsalt."
   },
   "carrots_ckd_bld_drnd_wosalt": {
-    "name": "Carrots, ckd, bld, drnd, wo/salt",
+    "name": "Carrots, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Carrots, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Carrots, cooked, boiled, drained, withoutsalt."
   },
   "carrots_cnd_reg_pk_solliquids": {
-    "name": "Carrots, cnd, reg pk, sol&liquids",
+    "name": "Carrots, canned, regular pk, solids&liquids",
     "alternative_names": [],
-    "description": "Carrots, cnd, reg pk, sol&liquids from the USDA database."
+    "description": "Carrots, canned, regular pk, solids&liquids."
   },
   "carrots_cnd_reg_pk_drnd_sol": {
-    "name": "Carrots, cnd, reg pk, drnd sol",
+    "name": "Carrots, canned, regular pk, drained solids",
     "alternative_names": [],
-    "description": "Carrots, cnd, reg pk, drnd sol from the USDA database."
+    "description": "Carrots, canned, regular pk, drained solids."
   },
   "carrots_frz_ckd_bld_drnd_wosalt": {
-    "name": "Carrots, frz, ckd, bld, drnd, wo/salt",
+    "name": "Carrots, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Carrots, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Carrots, frozen, cooked, boiled, drained, withoutsalt."
   },
   "cauliflower_raw": {
     "name": "Cauliflower, raw",
     "alternative_names": [],
-    "description": "Cauliflower, raw from the USDA database."
+    "description": "Cauliflower, raw."
   },
   "cauliflower_ckd_bld_drnd_wosalt": {
-    "name": "Cauliflower, ckd, bld, drnd, wo/salt",
+    "name": "Cauliflower, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Cauliflower, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Cauliflower, cooked, boiled, drained, withoutsalt."
   },
   "cauliflower_frz_unprep": {
-    "name": "Cauliflower, frz, unprep",
+    "name": "Cauliflower, frozen, unprepared",
     "alternative_names": [],
-    "description": "Cauliflower, frz, unprep from the USDA database."
+    "description": "Cauliflower, frozen, unprepared."
   },
   "cauliflower_frz_ckd_bld_drnd_wosalt": {
-    "name": "Cauliflower, frz, ckd, bld, drnd, wo/salt",
+    "name": "Cauliflower, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Cauliflower, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Cauliflower, frozen, cooked, boiled, drained, withoutsalt."
   },
   "celery_raw": {
     "name": "Celery, raw",
     "alternative_names": [],
-    "description": "Celery, raw from the USDA database."
+    "description": "Celery, raw."
   },
   "celery_ckd_bld_drnd_wosalt": {
-    "name": "Celery, ckd, bld, drnd, wo/salt",
+    "name": "Celery, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Celery, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Celery, cooked, boiled, drained, withoutsalt."
   },
   "chicory_greens_raw": {
     "name": "Chicory greens, raw",
     "alternative_names": [],
-    "description": "Chicory greens, raw from the USDA database."
+    "description": "Chicory greens, raw."
   },
   "chives_raw": {
     "name": "Chives, raw",
     "alternative_names": [],
-    "description": "Chives, raw from the USDA database."
+    "description": "Chives, raw."
   },
   "cress_garden_ckd_bld_drnd_wosalt": {
-    "name": "Cress, garden, ckd, bld, drnd, wo/salt",
+    "name": "Cress, garden, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Cress, garden, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Cress, garden, cooked, boiled, drained, withoutsalt."
   },
   "cucumber_with_peel_raw": {
     "name": "Cucumber, with peel, raw",
     "alternative_names": [],
-    "description": "Cucumber, with peel, raw from the USDA database."
+    "description": "Cucumber, with peel, raw."
   },
   "cucumber_peeled_raw": {
     "name": "Cucumber, peeled, raw",
     "alternative_names": [],
-    "description": "Cucumber, peeled, raw from the USDA database."
+    "description": "Cucumber, peeled, raw."
   },
   "dandelion_greens_raw": {
     "name": "Dandelion greens, raw",
     "alternative_names": [],
-    "description": "Dandelion greens, raw from the USDA database."
+    "description": "Dandelion greens, raw."
   },
   "jute_potherb_ckd_bld_drnd_wosalt": {
-    "name": "Jute, potherb, ckd, bld, drnd, wo/salt",
+    "name": "Jute, potherb, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Jute, potherb, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Jute, potherb, cooked, boiled, drained, withoutsalt."
   },
   "kale_ckd_bld_drnd_wosalt": {
-    "name": "Kale, ckd, bld, drnd, wo/salt",
+    "name": "Kale, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Kale, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Kale, cooked, boiled, drained, withoutsalt."
   },
   "kale_frz_ckd_bld_drnd_wosalt": {
-    "name": "Kale, frz, ckd, bld, drnd, wo/salt",
+    "name": "Kale, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Kale, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Kale, frozen, cooked, boiled, drained, withoutsalt."
   },
   "leeks_raw": {
     "name": "Leeks, (bulb&lower leaf-portion), raw",
     "alternative_names": [],
-    "description": "Leeks, (bulb&lower leaf-portion), raw from the USDA database."
+    "description": "Leeks, (bulb&lower leaf-portion), raw."
   },
   "leeks_ckd_bld_drnd_wosalt": {
-    "name": "Leeks, (bulb&lower leaf-portion), ckd, bld, drnd, wo/salt",
+    "name": "Leeks, (bulb&lower leaf-portion), cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Leeks, (bulb&lower leaf-portion), ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Leeks, (bulb&lower leaf-portion), cooked, boiled, drained, withoutsalt."
   },
   "lettuce_butterhead_raw": {
     "name": "Lettuce, butterhead (incl boston&bibb types), raw",
     "alternative_names": [],
-    "description": "Lettuce, butterhead (incl boston&bibb types), raw from the USDA database."
+    "description": "Lettuce, butterhead (incl boston&bibb types), raw."
   },
   "lettuce_cos_or_romaine_raw": {
     "name": "Lettuce, cos or romaine, raw",
     "alternative_names": [],
-    "description": "Lettuce, cos or romaine, raw from the USDA database."
+    "description": "Lettuce, cos or romaine, raw."
   },
   "lettuce_iceberg_raw": {
     "name": "Lettuce, iceberg (incl crisphead types), raw",
     "alternative_names": [],
-    "description": "Lettuce, iceberg (incl crisphead types), raw from the USDA database."
+    "description": "Lettuce, iceberg (incl crisphead types), raw."
   },
   "lettuce_grn_leaf_raw": {
     "name": "Lettuce, grn leaf, raw",
     "alternative_names": [],
-    "description": "Lettuce, grn leaf, raw from the USDA database."
+    "description": "Lettuce, grn leaf, raw."
   },
   "lettuce_red_leaf_raw": {
     "name": "Lettuce, red leaf, raw",
     "alternative_names": [],
-    "description": "Lettuce, red leaf, raw from the USDA database."
+    "description": "Lettuce, red leaf, raw."
   },
   "mustard_greens_raw": {
     "name": "Mustard greens, raw",
     "alternative_names": [],
-    "description": "Mustard greens, raw from the USDA database."
+    "description": "Mustard greens, raw."
   },
   "new_zealand_spinach_raw": {
     "name": "New zealand spinach, raw",
     "alternative_names": [],
-    "description": "New zealand spinach, raw from the USDA database."
+    "description": "New zealand spinach, raw."
   },
   "new_zealand_spinach_ckd_bld_drnd_wosalt": {
-    "name": "New zealand spinach, ckd, bld, drnd, wo/salt",
+    "name": "New zealand spinach, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "New zealand spinach, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "New zealand spinach, cooked, boiled, drained, withoutsalt."
   },
   "okra_raw": {
     "name": "Okra, raw",
     "alternative_names": [],
-    "description": "Okra, raw from the USDA database."
+    "description": "Okra, raw."
   },
   "okra_ckd_bld_drnd_wosalt": {
-    "name": "Okra, ckd, bld, drnd, wo/salt",
+    "name": "Okra, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Okra, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Okra, cooked, boiled, drained, withoutsalt."
   },
   "okra_frz_ckd_bld_drnd_wosalt": {
-    "name": "Okra, frz, ckd, bld, drnd, wo/salt",
+    "name": "Okra, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Okra, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Okra, frozen, cooked, boiled, drained, withoutsalt."
   },
   "onions_ckd_bld_drnd_wosalt": {
-    "name": "Onions, ckd, bld, drnd, wo/salt",
+    "name": "Onions, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Onions, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Onions, cooked, boiled, drained, withoutsalt."
   },
   "onions_cnd_solliquids": {
-    "name": "Onions, cnd, sol&liquids",
+    "name": "Onions, canned, solids&liquids",
     "alternative_names": [],
-    "description": "Onions, cnd, sol&liquids from the USDA database."
+    "description": "Onions, canned, solids&liquids."
   },
   "onions_yel_sauteed": {
     "name": "Onions, yel, sauteed",
     "alternative_names": [],
-    "description": "Onions, yel, sauteed from the USDA database."
+    "description": "Onions, yel, sauteed."
   },
   "onions_frz_chopd_ckd_bld_drnd_wosalt": {
-    "name": "Onions, frz, chopd, ckd, bld, drnd, wo/salt",
+    "name": "Onions, frozen, chopped, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Onions, frz, chopd, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Onions, frozen, chopped, cooked, boiled, drained, withoutsalt."
   },
   "onions_frz_whl_unprep": {
-    "name": "Onions, frz, whl, unprep",
+    "name": "Onions, frozen, whole, unprepared",
     "alternative_names": [],
-    "description": "Onions, frz, whl, unprep from the USDA database."
+    "description": "Onions, frozen, whole, unprepared."
   },
   "onions_frz_whl_ckd_bld_drnd_wosalt": {
-    "name": "Onions, frz, whl, ckd, bld, drnd, wo/salt",
+    "name": "Onions, frozen, whole, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Onions, frz, whl, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Onions, frozen, whole, cooked, boiled, drained, withoutsalt."
   },
   "onions_spring_or_scallions_raw": {
     "name": "Onions, spring or scallions (incl tops&bulb), raw",
     "alternative_names": [],
-    "description": "Onions, spring or scallions (incl tops&bulb), raw from the USDA database."
+    "description": "Onions, spring or scallions (incl tops&bulb), raw."
   },
   "onions_young_grn_tops_only": {
     "name": "Onions, young grn, tops only",
     "alternative_names": [],
-    "description": "Onions, young grn, tops only from the USDA database."
+    "description": "Onions, young grn, tops only."
   },
   "onions_welsh_raw": {
     "name": "Onions, welsh, raw",
     "alternative_names": [],
-    "description": "Onions, welsh, raw from the USDA database."
+    "description": "Onions, welsh, raw."
   },
   "onions_swt_raw": {
     "name": "Onions, swt, raw",
     "alternative_names": [],
-    "description": "Onions, swt, raw from the USDA database."
+    "description": "Onions, swt, raw."
   },
   "peas_edible_podded_bld_drnd_wo_salt": {
-    "name": "Peas, edible-podded, bld, drnd, wo/ salt",
+    "name": "Peas, edible-podded, boiled, drained, without/ salt",
     "alternative_names": [],
-    "description": "Peas, edible-podded, bld, drnd, wo/ salt from the USDA database."
+    "description": "Peas, edible-podded, boiled, drained, without/ salt."
   },
   "peas_edible_podded_frz_ckd_bld_drnd_wosalt": {
-    "name": "Peas, edible-podded, frz, ckd, bld, drnd, wo/salt",
+    "name": "Peas, edible-podded, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Peas, edible-podded, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Peas, edible-podded, frozen, cooked, boiled, drained, withoutsalt."
   },
   "peas_grn_ckd_bld_drnd_wosalt": {
-    "name": "Peas, grn, ckd, bld, drnd, wo/salt",
+    "name": "Peas, grn, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Peas, grn, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Peas, grn, cooked, boiled, drained, withoutsalt."
   },
   "peas_grn_cnd_reg_pk_solliquids": {
-    "name": "Peas, grn, cnd, reg pk, sol&liquids",
+    "name": "Peas, grn, canned, regular pk, solids&liquids",
     "alternative_names": [],
-    "description": "Peas, grn, cnd, reg pk, sol&liquids from the USDA database."
+    "description": "Peas, grn, canned, regular pk, solids&liquids."
   },
   "peas_grn_cnd_drnd_sol_unprep": {
-    "name": "Peas, grn (includes baby & lesuer types), cnd, drnd sol, unprep",
+    "name": "Peas, grn (includes baby & lesuer types), canned, drained solids, unprepared",
     "alternative_names": [],
-    "description": "Peas, grn (includes baby & lesuer types), cnd, drnd sol, unprep from the USDA database."
+    "description": "Peas, grn (includes baby & lesuer types), canned, drained solids, unprepared."
   },
   "peas_grn_frz_unprep": {
-    "name": "Peas, grn, frz, unprep",
+    "name": "Peas, grn, frozen, unprepared",
     "alternative_names": [],
-    "description": "Peas, grn, frz, unprep from the USDA database."
+    "description": "Peas, grn, frozen, unprepared."
   },
   "peas_grn_frz_ckd_bld_drnd_wosalt": {
-    "name": "Peas, grn, frz, ckd, bld, drnd, wo/salt",
+    "name": "Peas, grn, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Peas, grn, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Peas, grn, frozen, cooked, boiled, drained, withoutsalt."
   },
   "peascarrots_frz_ckd_bld_drnd_wosalt": {
-    "name": "Peas&carrots, frz, ckd, bld, drnd, wo/salt",
+    "name": "Peas&carrots, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Peas&carrots, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Peas&carrots, frozen, cooked, boiled, drained, withoutsalt."
   },
   "peasonions_frz_ckd_bld_drnd_wosalt": {
-    "name": "Peas&onions, frz, ckd, bld, drnd, wo/salt",
+    "name": "Peas&onions, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Peas&onions, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Peas&onions, frozen, cooked, boiled, drained, withoutsalt."
   },
   "pokeberry_shoots_ckd_bld_drnd_wosalt": {
-    "name": "Pokeberry shoots, (poke), ckd, bld, drnd, wo/salt",
+    "name": "Pokeberry shoots, (poke), cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Pokeberry shoots, (poke), ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Pokeberry shoots, (poke), cooked, boiled, drained, withoutsalt."
   },
   "potato_flesh_skn_raw": {
-    "name": "Potato, flesh & skn, raw",
+    "name": "Potato, flesh & skin, raw",
     "alternative_names": [],
-    "description": "Potato, flesh & skn, raw from the USDA database."
+    "description": "Potato, flesh & skin, raw."
   },
   "potatoes_russet_flesh_skn_raw": {
-    "name": "Potatoes, russet, flesh & skn, raw",
+    "name": "Potatoes, russet, flesh & skin, raw",
     "alternative_names": [],
-    "description": "Potatoes, russet, flesh & skn, raw from the USDA database."
+    "description": "Potatoes, russet, flesh & skin, raw."
   },
   "potatoes_white_flesh_skn_raw": {
-    "name": "Potatoes, white, flesh & skn, raw",
+    "name": "Potatoes, white, flesh & skin, raw",
     "alternative_names": [],
-    "description": "Potatoes, white, flesh & skn, raw from the USDA database."
+    "description": "Potatoes, white, flesh & skin, raw."
   },
   "potatoes_red_flesh_skn_raw": {
-    "name": "Potatoes, red, flesh & skn, raw",
+    "name": "Potatoes, red, flesh & skin, raw",
     "alternative_names": [],
-    "description": "Potatoes, red, flesh & skn, raw from the USDA database."
+    "description": "Potatoes, red, flesh & skin, raw."
   },
   "potatoes_russet_flesh_skn_bkd": {
-    "name": "Potatoes, russet, flesh & skn, bkd",
+    "name": "Potatoes, russet, flesh & skin, bkd",
     "alternative_names": [],
-    "description": "Potatoes, russet, flesh & skn, bkd from the USDA database."
+    "description": "Potatoes, russet, flesh & skin, bkd."
   },
   "potatoes_white_flesh_skn_bkd": {
-    "name": "Potatoes, white, flesh & skn, bkd",
+    "name": "Potatoes, white, flesh & skin, bkd",
     "alternative_names": [],
-    "description": "Potatoes, white, flesh & skn, bkd from the USDA database."
+    "description": "Potatoes, white, flesh & skin, bkd."
   },
   "potatoes_red_flesh_skn_bkd": {
-    "name": "Potatoes, red, flesh & skn, bkd",
+    "name": "Potatoes, red, flesh & skin, bkd",
     "alternative_names": [],
-    "description": "Potatoes, red, flesh & skn, bkd from the USDA database."
+    "description": "Potatoes, red, flesh & skin, bkd."
   },
   "potatoes_fr_fr_crnkl_or_reg_salt_added_in_pro": {
-    "name": "Potatoes, fr fr, crnkl or reg, salt added in proc, frz, as purch",
+    "name": "Potatoes, fr fr, crnkl or regular, salt added in proc, frozen, as purch",
     "alternative_names": [],
-    "description": "Potatoes, fr fr, crnkl or reg, salt added in proc, frz, as purch from the USDA database."
+    "description": "Potatoes, fr fr, crnkl or regular, salt added in proc, frozen, as purch."
   },
   "potatoes_fr_fr_crnklreg_cut_salt_added_in_pro": {
-    "name": "Potatoes, fr fr, crnkl/reg cut, salt added in proc, frz, oven-htd",
+    "name": "Potatoes, fr fr, crnkl/regular cut, salt added in proc, frozen, oven-heated",
     "alternative_names": [],
-    "description": "Potatoes, fr fr, crnkl/reg cut, salt added in proc, frz, oven-htd from the USDA database."
+    "description": "Potatoes, fr fr, crnkl/regular cut, salt added in proc, frozen, oven-heated."
   },
   "potatoes_bkd_flesh_wosalt": {
-    "name": "Potatoes, bkd, flesh, wo/salt",
+    "name": "Potatoes, bkd, flesh, withoutsalt",
     "alternative_names": [],
-    "description": "Potatoes, bkd, flesh, wo/salt from the USDA database."
+    "description": "Potatoes, bkd, flesh, withoutsalt."
   },
   "potatoes_bkd_skn_wosalt": {
-    "name": "Potatoes, bkd, skn, wo/salt",
+    "name": "Potatoes, bkd, skin, withoutsalt",
     "alternative_names": [],
-    "description": "Potatoes, bkd, skn, wo/salt from the USDA database."
+    "description": "Potatoes, bkd, skin, withoutsalt."
   },
   "potatoes_bld_ckd_in_skn_flesh_wosalt": {
-    "name": "Potatoes, bld, ckd in skn, flesh, wo/salt",
+    "name": "Potatoes, boiled, cooked in skin, flesh, withoutsalt",
     "alternative_names": [],
-    "description": "Potatoes, bld, ckd in skn, flesh, wo/salt from the USDA database."
+    "description": "Potatoes, boiled, cooked in skin, flesh, withoutsalt."
   },
   "potatoes_bld_ckd_wo_skn_flesh_wo_salt": {
-    "name": "Potatoes, bld, ckd wo/ skn, flesh, wo/ salt",
+    "name": "Potatoes, boiled, cooked without skin, flesh, without/ salt",
     "alternative_names": [],
-    "description": "Potatoes, bld, ckd wo/ skn, flesh, wo/ salt from the USDA database."
+    "description": "Potatoes, boiled, cooked without skin, flesh, without/ salt."
   },
   "potatoes_hashed_brown_home_prepared": {
     "name": "Potatoes, hashed brown, home-prepared",
     "alternative_names": [],
-    "description": "Potatoes, hashed brown, home-prepared from the USDA database."
+    "description": "Potatoes, hashed brown, home-prepared."
   },
   "potatoes_hashed_brown_frz_pln_prep": {
-    "name": "Potatoes, hashed brown, frz, pln, prep",
+    "name": "Potatoes, hashed brown, frozen, pln, prep",
     "alternative_names": [],
-    "description": "Potatoes, hashed brown, frz, pln, prep from the USDA database."
+    "description": "Potatoes, hashed brown, frozen, pln, prep."
   },
   "potatoes_french_fr_shoestring_salt_added_in_p": {
-    "name": "Potatoes, french fr, shoestring, salt added in proc, frz, as prch",
+    "name": "Potatoes, french fr, shoestring, salt added in proc, frozen, as prch",
     "alternative_names": [],
-    "description": "Potatoes, french fr, shoestring, salt added in proc, frz, as prch from the USDA database."
+    "description": "Potatoes, french fr, shoestring, salt added in proc, frozen, as prch."
   },
   "potatoes_french_fr_shoestrng_salt_added_in_pr": {
-    "name": "Potatoes, french fr, shoestrng, salt added in proc, frz, oven-htd",
+    "name": "Potatoes, french fr, shoestrng, salt added in proc, frozen, oven-heated",
     "alternative_names": [],
-    "description": "Potatoes, french fr, shoestrng, salt added in proc, frz, oven-htd from the USDA database."
+    "description": "Potatoes, french fr, shoestrng, salt added in proc, frozen, oven-heated."
   },
   "potato_puffs_frz_unprep": {
-    "name": "Potato puffs, frz, unprep",
+    "name": "Potato puffs, frozen, unprepared",
     "alternative_names": [],
-    "description": "Potato puffs, frz, unprep from the USDA database."
+    "description": "Potato puffs, frozen, unprepared."
   },
   "potato_puffs_frz_oven_heated": {
-    "name": "Potato puffs, frz, oven-heated",
+    "name": "Potato puffs, frozen, oven-heated",
     "alternative_names": [],
-    "description": "Potato puffs, frz, oven-heated from the USDA database."
+    "description": "Potato puffs, frozen, oven-heated."
   },
   "potatoes_frz_whl_unprep": {
-    "name": "Potatoes, frz, whl, unprep",
+    "name": "Potatoes, frozen, whole, unprepared",
     "alternative_names": [],
-    "description": "Potatoes, frz, whl, unprep from the USDA database."
+    "description": "Potatoes, frozen, whole, unprepared."
   },
   "potatoes_french_fr_all_types_salt_added_in_pr": {
-    "name": "Potatoes, french fr, all types, salt added in proc, frz, unprep",
+    "name": "Potatoes, french fr, all types, salt added in proc, frozen, unprepared",
     "alternative_names": [],
-    "description": "Potatoes, french fr, all types, salt added in proc, frz, unprep from the USDA database."
+    "description": "Potatoes, french fr, all types, salt added in proc, frozen, unprepared."
   },
   "potatoes_french_fr_stk_fries_salt_added_in_pr": {
-    "name": "Potatoes, french fr, stk fries, salt added in proc, frz, as prch",
+    "name": "Potatoes, french fr, steak fries, salt added in proc, frozen, as prch",
     "alternative_names": [],
-    "description": "Potatoes, french fr, stk fries, salt added in proc, frz, as prch from the USDA database."
+    "description": "Potatoes, french fr, steak fries, salt added in proc, frozen, as prch."
   },
   "radishes_oriental_raw": {
     "name": "Radishes, oriental, raw",
     "alternative_names": [],
-    "description": "Radishes, oriental, raw from the USDA database."
+    "description": "Radishes, oriental, raw."
   },
   "radishes_oriental_ckd_bld_drnd_wosalt": {
-    "name": "Radishes, oriental, ckd, bld, drnd, wo/salt",
+    "name": "Radishes, oriental, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Radishes, oriental, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Radishes, oriental, cooked, boiled, drained, withoutsalt."
   },
   "radishes_oriental_dried": {
     "name": "Radishes, oriental, dried",
     "alternative_names": [],
-    "description": "Radishes, oriental, dried from the USDA database."
+    "description": "Radishes, oriental, dried."
   },
   "spinach_ckd_bld_drnd_wo_salt": {
-    "name": "Spinach, ckd, bld, drnd, wo/ salt",
+    "name": "Spinach, cooked, boiled, drained, without/ salt",
     "alternative_names": [],
-    "description": "Spinach, ckd, bld, drnd, wo/ salt from the USDA database."
+    "description": "Spinach, cooked, boiled, drained, without/ salt."
   },
   "spinach_cnd_reg_pk_drnd_sol": {
-    "name": "Spinach, cnd, reg pk, drnd sol",
+    "name": "Spinach, canned, regular pk, drained solids",
     "alternative_names": [],
-    "description": "Spinach, cnd, reg pk, drnd sol from the USDA database."
+    "description": "Spinach, canned, regular pk, drained solids."
   },
   "spinach_frz_chopd_or_leaf_unprep": {
-    "name": "Spinach, frz, chopd or leaf, unprep",
+    "name": "Spinach, frozen, chopped or leaf, unprepared",
     "alternative_names": [],
-    "description": "Spinach, frz, chopd or leaf, unprep from the USDA database."
+    "description": "Spinach, frozen, chopped or leaf, unprepared."
   },
   "spinach_frz_chopd_or_leaf_ckd_bld_drnd_wosalt": {
-    "name": "Spinach, frz, chopd or leaf, ckd, bld, drnd, wo/salt",
+    "name": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Spinach, frz, chopd or leaf, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, withoutsalt."
   },
   "squash_smmr_crookneckstraightneck_raw": {
     "name": "Squash, smmr, crookneck&straightneck, raw",
     "alternative_names": [],
-    "description": "Squash, smmr, crookneck&straightneck, raw from the USDA database."
+    "description": "Squash, smmr, crookneck&straightneck, raw."
   },
   "squash_smmr_crookneck_straightneck_ckd_bld_dr": {
-    "name": "Squash, smmr, crookneck & straightneck, ckd, bld, drnd, wo/ salt",
+    "name": "Squash, smmr, crookneck & straightneck, cooked, boiled, drained, without/ salt",
     "alternative_names": [],
-    "description": "Squash, smmr, crookneck & straightneck, ckd, bld, drnd, wo/ salt from the USDA database."
+    "description": "Squash, smmr, crookneck & straightneck, cooked, boiled, drained, without/ salt."
   },
   "squash_smmr_crookneckstraightneck_cnd_drnd_so": {
-    "name": "Squash, smmr, crookneck&straightneck, cnd, drnd, solid, wo/salt",
+    "name": "Squash, smmr, crookneck&straightneck, canned, drained, solid, withoutsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, crookneck&straightneck, cnd, drnd, solid, wo/salt from the USDA database."
+    "description": "Squash, smmr, crookneck&straightneck, canned, drained, solid, withoutsalt."
   },
   "squash_smmr_crookneckstraightneck_frz_ckd_bld": {
-    "name": "Squash, smmr, crookneck&straightneck, frz, ckd, bld, drnd, wo/salt",
+    "name": "Squash, smmr, crookneck&straightneck, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, crookneck&straightneck, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Squash, smmr, crookneck&straightneck, frozen, cooked, boiled, drained, withoutsalt."
   },
   "squash_summer_scallop_raw": {
     "name": "Squash, summer, scallop, raw",
     "alternative_names": [],
-    "description": "Squash, summer, scallop, raw from the USDA database."
+    "description": "Squash, summer, scallop, raw."
   },
   "squash_smmr_scallop_ckd_bld_drnd_wosalt": {
-    "name": "Squash, smmr, scallop, ckd, bld, drnd, wo/salt",
+    "name": "Squash, smmr, scallop, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, scallop, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Squash, smmr, scallop, cooked, boiled, drained, withoutsalt."
   },
   "squash_smmr_zucchini_incl_skn_raw": {
-    "name": "Squash, smmr, zucchini, incl skn, raw",
+    "name": "Squash, smmr, zucchini, incl skin, raw",
     "alternative_names": [],
-    "description": "Squash, smmr, zucchini, incl skn, raw from the USDA database."
+    "description": "Squash, smmr, zucchini, incl skin, raw."
   },
   "squash_smmr_zucchini_incl_skn_ckd_bld_drnd_wo": {
-    "name": "Squash, smmr, zucchini, incl skn, ckd, bld, drnd, wo/salt",
+    "name": "Squash, smmr, zucchini, incl skin, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, zucchini, incl skn, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Squash, smmr, zucchini, incl skin, cooked, boiled, drained, withoutsalt."
   },
   "squash_smmr_zucchini_incl_skn_frz_unprep": {
-    "name": "Squash, smmr, zucchini, incl skn, frz, unprep",
+    "name": "Squash, smmr, zucchini, incl skin, frozen, unprepared",
     "alternative_names": [],
-    "description": "Squash, smmr, zucchini, incl skn, frz, unprep from the USDA database."
+    "description": "Squash, smmr, zucchini, incl skin, frozen, unprepared."
   },
   "squash_smmr_zucchini_incl_skn_frz_ckd_bld_drn": {
-    "name": "Squash, smmr, zucchini, incl skn, frz, ckd, bld, drnd, wo/salt",
+    "name": "Squash, smmr, zucchini, incl skin, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, zucchini, incl skn, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Squash, smmr, zucchini, incl skin, frozen, cooked, boiled, drained, withoutsalt."
   },
   "squash_wntr_butternut_raw": {
     "name": "Squash, wntr, butternut, raw",
     "alternative_names": [],
-    "description": "Squash, wntr, butternut, raw from the USDA database."
+    "description": "Squash, wntr, butternut, raw."
   },
   "squash_wntr_butternut_ckd_bkd_wosalt": {
-    "name": "Squash, wntr, butternut, ckd, bkd, wo/salt",
+    "name": "Squash, wntr, butternut, cooked, bkd, withoutsalt",
     "alternative_names": [],
-    "description": "Squash, wntr, butternut, ckd, bkd, wo/salt from the USDA database."
+    "description": "Squash, wntr, butternut, cooked, bkd, withoutsalt."
   },
   "squash_wntr_butternut_frz_unprep": {
-    "name": "Squash, wntr, butternut, frz, unprep",
+    "name": "Squash, wntr, butternut, frozen, unprepared",
     "alternative_names": [],
-    "description": "Squash, wntr, butternut, frz, unprep from the USDA database."
+    "description": "Squash, wntr, butternut, frozen, unprepared."
   },
   "squash_winter_hubbard_raw": {
     "name": "Squash, winter, hubbard, raw",
     "alternative_names": [],
-    "description": "Squash, winter, hubbard, raw from the USDA database."
+    "description": "Squash, winter, hubbard, raw."
   },
   "squash_wntr_hubbard_bkd_wo_salt": {
-    "name": "Squash, wntr, hubbard, bkd, wo/ salt",
+    "name": "Squash, wntr, hubbard, bkd, without/ salt",
     "alternative_names": [],
-    "description": "Squash, wntr, hubbard, bkd, wo/ salt from the USDA database."
+    "description": "Squash, wntr, hubbard, bkd, without/ salt."
   },
   "squash_wntr_hubbard_ckd_bld_mshd_wosalt": {
-    "name": "Squash, wntr, hubbard, ckd, bld, mshd, wo/salt",
+    "name": "Squash, wntr, hubbard, cooked, boiled, mshd, withoutsalt",
     "alternative_names": [],
-    "description": "Squash, wntr, hubbard, ckd, bld, mshd, wo/salt from the USDA database."
+    "description": "Squash, wntr, hubbard, cooked, boiled, mshd, withoutsalt."
   },
   "sweet_potato_leaves_raw": {
     "name": "Sweet potato leaves, raw",
     "alternative_names": [],
-    "description": "Sweet potato leaves, raw from the USDA database."
+    "description": "Sweet potato leaves, raw."
   },
   "sweet_potato_leaves_ckd_stmd_wo_salt": {
-    "name": "Sweet potato leaves, ckd, stmd, wo/ salt",
+    "name": "Sweet potato leaves, cooked, stmd, without/ salt",
     "alternative_names": [],
-    "description": "Sweet potato leaves, ckd, stmd, wo/ salt from the USDA database."
+    "description": "Sweet potato leaves, cooked, stmd, without/ salt."
   },
   "sweet_potato_raw_unprep": {
-    "name": "Sweet potato, raw, unprep",
+    "name": "Sweet potato, raw, unprepared",
     "alternative_names": [],
-    "description": "Sweet potato, raw, unprep from the USDA database."
+    "description": "Sweet potato, raw, unprepared."
   },
   "sweet_potato_ckd_bkd_in_skn_wo_salt": {
-    "name": "Sweet potato, ckd, bkd in skn, wo/ salt",
+    "name": "Sweet potato, cooked, bkd in skin, without/ salt",
     "alternative_names": [],
-    "description": "Sweet potato, ckd, bkd in skn, wo/ salt from the USDA database."
+    "description": "Sweet potato, cooked, bkd in skin, without/ salt."
   },
   "sweet_potato_ckd_bld_wo_skn": {
-    "name": "Sweet potato, ckd, bld, wo/ skn",
+    "name": "Sweet potato, cooked, boiled, without skin",
     "alternative_names": [],
-    "description": "Sweet potato, ckd, bld, wo/ skn from the USDA database."
+    "description": "Sweet potato, cooked, boiled, without skin."
   },
   "sweetpotato_cnd_vacuum_pk": {
-    "name": "Sweetpotato, cnd, vacuum pk",
+    "name": "Sweetpotato, canned, vacuum pk",
     "alternative_names": [],
-    "description": "Sweetpotato, cnd, vacuum pk from the USDA database."
+    "description": "Sweetpotato, canned, vacuum pk."
   },
   "sweet_potato_cnd_mshd": {
-    "name": "Sweet potato, cnd, mshd",
+    "name": "Sweet potato, canned, mshd",
     "alternative_names": [],
-    "description": "Sweet potato, cnd, mshd from the USDA database."
+    "description": "Sweet potato, canned, mshd."
   },
   "sweet_potato_frz_ckd_bkd_wo_salt": {
-    "name": "Sweet potato, frz, ckd, bkd, wo/ salt",
+    "name": "Sweet potato, frozen, cooked, bkd, without/ salt",
     "alternative_names": [],
-    "description": "Sweet potato, frz, ckd, bkd, wo/ salt from the USDA database."
+    "description": "Sweet potato, frozen, cooked, bkd, without/ salt."
   },
   "tomatoes_green_raw": {
     "name": "Tomatoes, green, raw",
     "alternative_names": [],
-    "description": "Tomatoes, green, raw from the USDA database."
+    "description": "Tomatoes, green, raw."
   },
   "tomatoes_red_ripe_raw_year_rnd_average": {
     "name": "Tomatoes, red, ripe, raw, year rnd average",
     "alternative_names": [],
-    "description": "Tomatoes, red, ripe, raw, year rnd average from the USDA database."
+    "description": "Tomatoes, red, ripe, raw, year rnd average."
   },
   "tomatoes_red_ripe_ckd": {
-    "name": "Tomatoes, red, ripe, ckd",
+    "name": "Tomatoes, red, ripe, cooked",
     "alternative_names": [],
-    "description": "Tomatoes, red, ripe, ckd from the USDA database."
+    "description": "Tomatoes, red, ripe, cooked."
   },
   "tomatoes_red_ripe_cnd_packed_in_tomato_juc": {
-    "name": "Tomatoes, red, ripe, cnd, packed in tomato juc",
+    "name": "Tomatoes, red, ripe, canned, packed in tomato juc",
     "alternative_names": [],
-    "description": "Tomatoes, red, ripe, cnd, packed in tomato juc from the USDA database."
+    "description": "Tomatoes, red, ripe, canned, packed in tomato juc."
   },
   "tomatoes_red_ripe_cnd_stwd": {
-    "name": "Tomatoes, red, ripe, cnd, stwd",
+    "name": "Tomatoes, red, ripe, canned, stwd",
     "alternative_names": [],
-    "description": "Tomatoes, red, ripe, cnd, stwd from the USDA database."
+    "description": "Tomatoes, red, ripe, canned, stwd."
   },
   "tomato_juc_cnd_wsalt": {
-    "name": "Tomato juc, cnd, w/salt",
+    "name": "Tomato juc, canned, withsalt",
     "alternative_names": [],
-    "description": "Tomato juc, cnd, w/salt from the USDA database."
+    "description": "Tomato juc, canned, withsalt."
   },
   "tomato_products_cnd_paste_wo_salt_added": {
-    "name": "Tomato products, cnd, paste, wo/ salt added",
+    "name": "Tomato products, canned, paste, without/ salt added",
     "alternative_names": [],
-    "description": "Tomato products, cnd, paste, wo/ salt added from the USDA database."
+    "description": "Tomato products, canned, paste, without/ salt added."
   },
   "tomato_products_cnd_puree_wosalt": {
-    "name": "Tomato products, cnd, puree, wo/salt",
+    "name": "Tomato products, canned, puree, withoutsalt",
     "alternative_names": [],
-    "description": "Tomato products, cnd, puree, wo/salt from the USDA database."
+    "description": "Tomato products, canned, puree, withoutsalt."
   },
   "tomato_powder": {
     "name": "Tomato powder",
     "alternative_names": [],
-    "description": "Tomato powder from the USDA database."
+    "description": "Tomato powder."
   },
   "tomato_products_cnd_sau": {
-    "name": "Tomato products, cnd, sau",
+    "name": "Tomato products, canned, sauce",
     "alternative_names": [],
-    "description": "Tomato products, cnd, sau from the USDA database."
+    "description": "Tomato products, canned, sauce."
   },
   "tomato_products_cnd_sau_wmushrooms": {
-    "name": "Tomato products, cnd, sau, w/mushrooms",
+    "name": "Tomato products, canned, sauce, withmushrooms",
     "alternative_names": [],
-    "description": "Tomato products, cnd, sau, w/mushrooms from the USDA database."
+    "description": "Tomato products, canned, sauce, withmushrooms."
   },
   "tomato_products_cnd_sau_wonions_grn_peppers_c": {
-    "name": "Tomato products, cnd, sau, w/onions, grn peppers, &celery",
+    "name": "Tomato products, canned, sauce, withonions, grn peppers, &celery",
     "alternative_names": [],
-    "description": "Tomato products, cnd, sau, w/onions, grn peppers, &celery from the USDA database."
+    "description": "Tomato products, canned, sauce, withonions, grn peppers, &celery."
   },
   "turnips_raw": {
     "name": "Turnips, raw",
     "alternative_names": [],
-    "description": "Turnips, raw from the USDA database."
+    "description": "Turnips, raw."
   },
   "turnips_ckd_bld_drnd_wosalt": {
-    "name": "Turnips, ckd, bld, drnd, wo/salt",
+    "name": "Turnips, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Turnips, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Turnips, cooked, boiled, drained, withoutsalt."
   },
   "turnips_frz_ckd_bld_drnd_wosalt": {
-    "name": "Turnips, frz, ckd, bld, drnd, wo/salt",
+    "name": "Turnips, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Turnips, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Turnips, frozen, cooked, boiled, drained, withoutsalt."
   },
   "turnip_greens_raw": {
     "name": "Turnip greens, raw",
     "alternative_names": [],
-    "description": "Turnip greens, raw from the USDA database."
+    "description": "Turnip greens, raw."
   },
   "turnip_grns_ckd_bld_drnd_wosalt": {
-    "name": "Turnip grns, ckd, bld, drnd, wo/salt",
+    "name": "Turnip grns, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Turnip grns, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Turnip grns, cooked, boiled, drained, withoutsalt."
   },
   "turnip_grns_frz_ckd_bld_drnd_wosalt": {
-    "name": "Turnip grns, frz, ckd, bld, drnd, wo/salt",
+    "name": "Turnip grns, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Turnip grns, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Turnip grns, frozen, cooked, boiled, drained, withoutsalt."
   },
   "turnip_grnsturnips_frz_ckd_bld_drnd_wosalt": {
-    "name": "Turnip grns&turnips, frz, ckd, bld, drnd, wo/salt",
+    "name": "Turnip grns&turnips, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Turnip grns&turnips, frz, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Turnip grns&turnips, frozen, cooked, boiled, drained, withoutsalt."
   },
   "watercress_raw": {
     "name": "Watercress, raw",
     "alternative_names": [],
-    "description": "Watercress, raw from the USDA database."
+    "description": "Watercress, raw."
   },
   "yam_raw": {
     "name": "Yam, raw",
     "alternative_names": [],
-    "description": "Yam, raw from the USDA database."
+    "description": "Yam, raw."
   },
   "yam_ckd_bld_drnd_or_bkd_wosalt": {
-    "name": "Yam, ckd, bld, drnd, or bkd, wo/salt",
+    "name": "Yam, cooked, boiled, drained, or bkd, withoutsalt",
     "alternative_names": [],
-    "description": "Yam, ckd, bld, drnd, or bkd, wo/salt from the USDA database."
+    "description": "Yam, cooked, boiled, drained, or bkd, withoutsalt."
   },
   "beets_pickled_cnd_solliquids": {
-    "name": "Beets, pickled, cnd, sol&liquids",
+    "name": "Beets, pickled, canned, solids&liquids",
     "alternative_names": [],
-    "description": "Beets, pickled, cnd, sol&liquids from the USDA database."
+    "description": "Beets, pickled, canned, solids&liquids."
   },
   "squash_smmr_all_var_raw": {
     "name": "Squash, smmr, all var, raw",
     "alternative_names": [],
-    "description": "Squash, smmr, all var, raw from the USDA database."
+    "description": "Squash, smmr, all var, raw."
   },
   "squash_smmr_all_var_ckd_bld_drnd_wosalt": {
-    "name": "Squash, smmr, all var, ckd, bld, drnd, wo/salt",
+    "name": "Squash, smmr, all var, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, all var, ckd, bld, drnd, wo/salt from the USDA database."
+    "description": "Squash, smmr, all var, cooked, boiled, drained, withoutsalt."
   },
   "squash_wntr_all_var_raw": {
     "name": "Squash, wntr, all var, raw",
     "alternative_names": [],
-    "description": "Squash, wntr, all var, raw from the USDA database."
+    "description": "Squash, wntr, all var, raw."
   },
   "squash_wntr_all_var_ckd_bkd_wosalt": {
-    "name": "Squash, wntr, all var, ckd, bkd, wo/salt",
+    "name": "Squash, wntr, all var, cooked, bkd, withoutsalt",
     "alternative_names": [],
-    "description": "Squash, wntr, all var, ckd, bkd, wo/salt from the USDA database."
+    "description": "Squash, wntr, all var, cooked, bkd, withoutsalt."
   },
   "sweet_potato_cnd_syrup_pk_sol_liquids": {
-    "name": "Sweet potato, cnd, syrup pk, sol & liquids",
+    "name": "Sweet potato, canned, syrup pk, solids & liquids",
     "alternative_names": [],
-    "description": "Sweet potato, cnd, syrup pk, sol & liquids from the USDA database."
+    "description": "Sweet potato, canned, syrup pk, solids & liquids."
   },
   "sweet_potato_cnd_syrup_pk_drnd_sol": {
-    "name": "Sweet potato, cnd, syrup pk, drnd sol",
+    "name": "Sweet potato, canned, syrup pk, drained solids",
     "alternative_names": [],
-    "description": "Sweet potato, cnd, syrup pk, drnd sol from the USDA database."
+    "description": "Sweet potato, canned, syrup pk, drained solids."
   },
   "carrot_juice_canned": {
     "name": "Carrot juice, canned",
     "alternative_names": [],
-    "description": "Carrot juice, canned from the USDA database."
+    "description": "Carrot juice, canned."
   },
   "spinach_souffle": {
     "name": "Spinach souffle",
     "alternative_names": [],
-    "description": "Spinach souffle from the USDA database."
+    "description": "Spinach souffle."
   },
   "sweet_potato_ckd_candied_home_prepared": {
-    "name": "Sweet potato, ckd, candied, home-prepared",
+    "name": "Sweet potato, cooked, candied, home-prepared",
     "alternative_names": [],
-    "description": "Sweet potato, ckd, candied, home-prepared from the USDA database."
+    "description": "Sweet potato, cooked, candied, home-prepared."
   },
   "potato_bkd_flesh_skn_wo_salt": {
-    "name": "Potato, bkd, flesh & skn, wo/ salt",
+    "name": "Potato, bkd, flesh & skin, without/ salt",
     "alternative_names": [],
-    "description": "Potato, bkd, flesh & skn, wo/ salt from the USDA database."
+    "description": "Potato, bkd, flesh & skin, without/ salt."
   },
   "carrot_dehydrated": {
     "name": "Carrot, dehydrated",
     "alternative_names": [],
-    "description": "Carrot, dehydrated from the USDA database."
+    "description": "Carrot, dehydrated."
   },
   "tomatoes_crushed_canned": {
     "name": "Tomatoes, crushed, canned",
     "alternative_names": [],
-    "description": "Tomatoes, crushed, canned from the USDA database."
+    "description": "Tomatoes, crushed, canned."
   },
   "asparagus_ckd_bld_drnd_wsalt": {
-    "name": "Asparagus, ckd, bld, drnd, w/salt",
+    "name": "Asparagus, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Asparagus, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Asparagus, cooked, boiled, drained, withsalt."
   },
   "asparagus_cnd_no_salt_solliquids": {
-    "name": "Asparagus, cnd, no salt, sol&liquids",
+    "name": "Asparagus, canned, no salt, solids&liquids",
     "alternative_names": [],
-    "description": "Asparagus, cnd, no salt, sol&liquids from the USDA database."
+    "description": "Asparagus, canned, no salt, solids&liquids."
   },
   "asparagus_frz_ckd_bld_drnd_wsalt": {
-    "name": "Asparagus, frz, ckd, bld, drnd, w/salt",
+    "name": "Asparagus, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Asparagus, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Asparagus, frozen, cooked, boiled, drained, withsalt."
   },
   "beets_ckd_boiled_drnd_wsalt": {
-    "name": "Beets, ckd, boiled. drnd, w/salt",
+    "name": "Beets, cooked, boiled. drained, withsalt",
     "alternative_names": [],
-    "description": "Beets, ckd, boiled. drnd, w/salt from the USDA database."
+    "description": "Beets, cooked, boiled. drained, withsalt."
   },
   "beets_cnd_no_salt_solliquids": {
-    "name": "Beets, cnd, no salt, sol&liquids",
+    "name": "Beets, canned, no salt, solids&liquids",
     "alternative_names": [],
-    "description": "Beets, cnd, no salt, sol&liquids from the USDA database."
+    "description": "Beets, canned, no salt, solids&liquids."
   },
   "beet_grns_ckd_bld_drnd_wsalt": {
-    "name": "Beet grns, ckd, bld, drnd, w/salt",
+    "name": "Beet grns, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Beet grns, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Beet grns, cooked, boiled, drained, withsalt."
   },
   "broccoli_ckd_bld_drnd_wsalt": {
-    "name": "Broccoli, ckd, bld, drnd, w/salt",
+    "name": "Broccoli, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Broccoli, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Broccoli, cooked, boiled, drained, withsalt."
   },
   "broccoli_frz_chopd_ckd_bld_drnd_wsalt": {
-    "name": "Broccoli, frz, chopd, ckd, bld, drnd, w/salt",
+    "name": "Broccoli, frozen, chopped, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Broccoli, frz, chopd, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Broccoli, frozen, chopped, cooked, boiled, drained, withsalt."
   },
   "broccoli_frz_spears_ckd_bld_drnd_wsalt": {
-    "name": "Broccoli, frz, spears, ckd, bld, drnd, w/salt",
+    "name": "Broccoli, frozen, spears, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Broccoli, frz, spears, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Broccoli, frozen, spears, cooked, boiled, drained, withsalt."
   },
   "brussels_sprouts_ckd_bld_drnd_wsalt": {
-    "name": "Brussels sprouts, ckd, bld, drnd, w/salt",
+    "name": "Brussels sprouts, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Brussels sprouts, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Brussels sprouts, cooked, boiled, drained, withsalt."
   },
   "brussels_sprouts_frz_ckd_bld_drnd_wsalt": {
-    "name": "Brussels sprouts, frz, ckd, bld, drnd, w/salt",
+    "name": "Brussels sprouts, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Brussels sprouts, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Brussels sprouts, frozen, cooked, boiled, drained, withsalt."
   },
   "burdock_root_ckd_bld_drnd_wsalt": {
-    "name": "Burdock root, ckd, bld, drnd, w/salt",
+    "name": "Burdock root, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Burdock root, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Burdock root, cooked, boiled, drained, withsalt."
   },
   "cabbage_common_ckd_bld_drnd_wsalt": {
-    "name": "Cabbage, common, ckd, bld, drnd, w/salt",
+    "name": "Cabbage, common, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Cabbage, common, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Cabbage, common, cooked, boiled, drained, withsalt."
   },
   "cabbage_red_ckd_bld_drnd_wsalt": {
-    "name": "Cabbage, red, ckd, bld, drnd, w/salt",
+    "name": "Cabbage, red, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Cabbage, red, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Cabbage, red, cooked, boiled, drained, withsalt."
   },
   "cabbage_chinese_ckd_bld_drnd_wsalt": {
-    "name": "Cabbage, chinese (pak-choi), ckd, bld, drnd, w/salt",
+    "name": "Cabbage, chinese (pak-choi), cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Cabbage, chinese (pak-choi), ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Cabbage, chinese (pak-choi), cooked, boiled, drained, withsalt."
   },
   "carrots_ckd_bld_drnd_wsalt": {
-    "name": "Carrots, ckd, bld, drnd, w/salt",
+    "name": "Carrots, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Carrots, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Carrots, cooked, boiled, drained, withsalt."
   },
   "carrots_cnd_no_salt_solliquids": {
-    "name": "Carrots, cnd, no salt, sol&liquids",
+    "name": "Carrots, canned, no salt, solids&liquids",
     "alternative_names": [],
-    "description": "Carrots, cnd, no salt, sol&liquids from the USDA database."
+    "description": "Carrots, canned, no salt, solids&liquids."
   },
   "carrots_cnd_no_salt_drnd_sol": {
-    "name": "Carrots, cnd, no salt , drnd sol",
+    "name": "Carrots, canned, no salt , drained solids",
     "alternative_names": [],
-    "description": "Carrots, cnd, no salt , drnd sol from the USDA database."
+    "description": "Carrots, canned, no salt , drained solids."
   },
   "carrots_frz_ckd_bld_drnd_wsalt": {
-    "name": "Carrots, frz, ckd, bld, drnd, w/salt",
+    "name": "Carrots, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Carrots, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Carrots, frozen, cooked, boiled, drained, withsalt."
   },
   "cauliflower_ckd_bld_drnd_wsalt": {
-    "name": "Cauliflower, ckd, bld, drnd, w/salt",
+    "name": "Cauliflower, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Cauliflower, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Cauliflower, cooked, boiled, drained, withsalt."
   },
   "cauliflower_frz_ckd_bld_drnd_wsalt": {
-    "name": "Cauliflower, frz, ckd, bld, drnd, w/salt",
+    "name": "Cauliflower, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Cauliflower, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Cauliflower, frozen, cooked, boiled, drained, withsalt."
   },
   "celery_ckd_bld_drnd_wsalt": {
-    "name": "Celery, ckd, bld, drnd, w/salt",
+    "name": "Celery, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Celery, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Celery, cooked, boiled, drained, withsalt."
   },
   "cress_garden_ckd_bld_drnd_wsalt": {
-    "name": "Cress, garden, ckd, bld, drnd, w/salt",
+    "name": "Cress, garden, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Cress, garden, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Cress, garden, cooked, boiled, drained, withsalt."
   },
   "jute_potherb_ckd_bld_drnd_wsalt": {
-    "name": "Jute, potherb, ckd, bld, drnd, w/salt",
+    "name": "Jute, potherb, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Jute, potherb, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Jute, potherb, cooked, boiled, drained, withsalt."
   },
   "kale_frz_ckd_bld_drnd_wsalt": {
-    "name": "Kale, frz, ckd, bld, drnd, w/salt",
+    "name": "Kale, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Kale, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Kale, frozen, cooked, boiled, drained, withsalt."
   },
   "leeks_ckd_bld_drnd_wsalt": {
-    "name": "Leeks, (bulb&lower leaf-portion), ckd, bld, drnd, w/salt",
+    "name": "Leeks, (bulb&lower leaf-portion), cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Leeks, (bulb&lower leaf-portion), ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Leeks, (bulb&lower leaf-portion), cooked, boiled, drained, withsalt."
   },
   "new_zealand_spinach_ckd_bld_drnd_wsalt": {
-    "name": "New zealand spinach, ckd, bld, drnd, w/salt",
+    "name": "New zealand spinach, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "New zealand spinach, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "New zealand spinach, cooked, boiled, drained, withsalt."
   },
   "okra_ckd_bld_drnd_wsalt": {
-    "name": "Okra, ckd, bld, drnd, w/salt",
+    "name": "Okra, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Okra, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Okra, cooked, boiled, drained, withsalt."
   },
   "okra_frz_ckd_bld_drnd_w_salt": {
-    "name": "Okra, frz, ckd, bld, drnd, w/ salt",
+    "name": "Okra, frozen, cooked, boiled, drained, with/ salt",
     "alternative_names": [],
-    "description": "Okra, frz, ckd, bld, drnd, w/ salt from the USDA database."
+    "description": "Okra, frozen, cooked, boiled, drained, with/ salt."
   },
   "onions_ckd_bld_drnd_wsalt": {
-    "name": "Onions, ckd, bld, drnd, w/salt",
+    "name": "Onions, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Onions, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Onions, cooked, boiled, drained, withsalt."
   },
   "onions_frz_chopd_ckd_bld_drnd_wsalt": {
-    "name": "Onions, frz, chopd, ckd, bld, drnd, w/salt",
+    "name": "Onions, frozen, chopped, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Onions, frz, chopd, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Onions, frozen, chopped, cooked, boiled, drained, withsalt."
   },
   "onions_frz_whl_ckd_bld_drnd_wsalt": {
-    "name": "Onions, frz, whl, ckd, bld, drnd, w/salt",
+    "name": "Onions, frozen, whole, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Onions, frz, whl, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Onions, frozen, whole, cooked, boiled, drained, withsalt."
   },
   "peas_edible_podded_ckd_bld_drnd_wsalt": {
-    "name": "Peas, edible-podded, ckd, bld, drnd, w/salt",
+    "name": "Peas, edible-podded, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Peas, edible-podded, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Peas, edible-podded, cooked, boiled, drained, withsalt."
   },
   "peas_edible_podded_frz_ckd_bld_drnd_wsalt": {
-    "name": "Peas, edible-podded, frz, ckd, bld, drnd, w/salt",
+    "name": "Peas, edible-podded, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Peas, edible-podded, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Peas, edible-podded, frozen, cooked, boiled, drained, withsalt."
   },
   "peas_grn_ckd_bld_drnd_wsalt": {
-    "name": "Peas, grn, ckd, bld, drnd, w/salt",
+    "name": "Peas, grn, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Peas, grn, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Peas, grn, cooked, boiled, drained, withsalt."
   },
   "peas_grn_cnd_no_salt_solliquids": {
-    "name": "Peas, grn, cnd, no salt, sol&liquids",
+    "name": "Peas, grn, canned, no salt, solids&liquids",
     "alternative_names": [],
-    "description": "Peas, grn, cnd, no salt, sol&liquids from the USDA database."
+    "description": "Peas, grn, canned, no salt, solids&liquids."
   },
   "peas_grn_cnd_no_salt_drnd_sol": {
-    "name": "Peas, grn, cnd, no salt, drnd sol",
+    "name": "Peas, grn, canned, no salt, drained solids",
     "alternative_names": [],
-    "description": "Peas, grn, cnd, no salt, drnd sol from the USDA database."
+    "description": "Peas, grn, canned, no salt, drained solids."
   },
   "peas_grn_frz_ckd_bld_drnd_wsalt": {
-    "name": "Peas, grn, frz, ckd, bld, drnd, w/salt",
+    "name": "Peas, grn, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Peas, grn, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Peas, grn, frozen, cooked, boiled, drained, withsalt."
   },
   "peascarrots_cnd_no_salt_solliquids": {
-    "name": "Peas&carrots, cnd, no salt, sol&liquids",
+    "name": "Peas&carrots, canned, no salt, solids&liquids",
     "alternative_names": [],
-    "description": "Peas&carrots, cnd, no salt, sol&liquids from the USDA database."
+    "description": "Peas&carrots, canned, no salt, solids&liquids."
   },
   "peascarrots_frz_ckd_bld_drnd_wsalt": {
-    "name": "Peas&carrots, frz, ckd, bld, drnd, w/salt",
+    "name": "Peas&carrots, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Peas&carrots, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Peas&carrots, frozen, cooked, boiled, drained, withsalt."
   },
   "peasonions_frz_ckd_bld_drnd_wsalt": {
-    "name": "Peas&onions, frz, ckd, bld, drnd, w/salt",
+    "name": "Peas&onions, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Peas&onions, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Peas&onions, frozen, cooked, boiled, drained, withsalt."
   },
   "pokeberry_shoots_ckd_bld_drnd_wsalt": {
-    "name": "Pokeberry shoots, (poke), ckd, bld, drnd, w/salt",
+    "name": "Pokeberry shoots, (poke), cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Pokeberry shoots, (poke), ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Pokeberry shoots, (poke), cooked, boiled, drained, withsalt."
   },
   "potatoes_bkd_flesh_skn_w_salt": {
-    "name": "Potatoes, bkd, flesh & skn, w/ salt",
+    "name": "Potatoes, bkd, flesh & skin, with/ salt",
     "alternative_names": [],
-    "description": "Potatoes, bkd, flesh & skn, w/ salt from the USDA database."
+    "description": "Potatoes, bkd, flesh & skin, with/ salt."
   },
   "potatoes_bkd_flesh_wsalt": {
-    "name": "Potatoes, bkd, flesh, w/salt",
+    "name": "Potatoes, bkd, flesh, withsalt",
     "alternative_names": [],
-    "description": "Potatoes, bkd, flesh, w/salt from the USDA database."
+    "description": "Potatoes, bkd, flesh, withsalt."
   },
   "potatoes_bkd_skn_w_salt": {
-    "name": "Potatoes, bkd, skn, w/ salt",
+    "name": "Potatoes, bkd, skin, with/ salt",
     "alternative_names": [],
-    "description": "Potatoes, bkd, skn, w/ salt from the USDA database."
+    "description": "Potatoes, bkd, skin, with/ salt."
   },
   "potatoes_bld_ckd_in_skn_flesh_wsalt": {
-    "name": "Potatoes, bld, ckd in skn, flesh, w/salt",
+    "name": "Potatoes, boiled, cooked in skin, flesh, withsalt",
     "alternative_names": [],
-    "description": "Potatoes, bld, ckd in skn, flesh, w/salt from the USDA database."
+    "description": "Potatoes, boiled, cooked in skin, flesh, withsalt."
   },
   "potatoes_bld_ckd_wo_skn_flesh_w_salt": {
-    "name": "Potatoes, bld, ckd wo/ skn, flesh, w/ salt",
+    "name": "Potatoes, boiled, cooked without skin, flesh, with/ salt",
     "alternative_names": [],
-    "description": "Potatoes, bld, ckd wo/ skn, flesh, w/ salt from the USDA database."
+    "description": "Potatoes, boiled, cooked without skin, flesh, with/ salt."
   },
   "potatoes_fr_fr_all_types_salt_not_added_in_pr": {
-    "name": "Potatoes, fr fr, all types, salt not added in proc, frz, ovn-htd",
+    "name": "Potatoes, fr fr, all types, salt not added in proc, frozen, ovn-heated",
     "alternative_names": [],
-    "description": "Potatoes, fr fr, all types, salt not added in proc, frz, ovn-htd from the USDA database."
+    "description": "Potatoes, fr fr, all types, salt not added in proc, frozen, ovn-heated."
   },
   "radishes_oriental_ckd_bld_drnd_wsalt": {
-    "name": "Radishes, oriental, ckd, bld, drnd, w/salt",
+    "name": "Radishes, oriental, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Radishes, oriental, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Radishes, oriental, cooked, boiled, drained, withsalt."
   },
   "spinach_ckd_bld_drnd_wsalt": {
-    "name": "Spinach, ckd, bld, drnd, w/salt",
+    "name": "Spinach, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Spinach, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Spinach, cooked, boiled, drained, withsalt."
   },
   "spinach_frz_chopd_or_leaf_ckd_bld_drnd_wsalt": {
-    "name": "Spinach, frz, chopd or leaf, ckd, bld, drnd, w/salt",
+    "name": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Spinach, frz, chopd or leaf, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, withsalt."
   },
   "squash_smmr_all_var_ckd_bld_drnd_wsalt": {
-    "name": "Squash, smmr, all var, ckd, bld, drnd, w/salt",
+    "name": "Squash, smmr, all var, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, all var, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Squash, smmr, all var, cooked, boiled, drained, withsalt."
   },
   "squash_smmr_crookneckstraightneck_ckd_bld_drn": {
-    "name": "Squash, smmr, crookneck&straightneck, ckd, bld, drnd, w/salt",
+    "name": "Squash, smmr, crookneck&straightneck, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, crookneck&straightneck, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Squash, smmr, crookneck&straightneck, cooked, boiled, drained, withsalt."
   },
   "squash_smmr_scallop_ckd_bld_drnd_wsalt": {
-    "name": "Squash, smmr, scallop, ckd, bld, drnd, w/salt",
+    "name": "Squash, smmr, scallop, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, scallop, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Squash, smmr, scallop, cooked, boiled, drained, withsalt."
   },
   "squash_smmr_zucchini_incl_skn_ckd_bld_drnd_ws": {
-    "name": "Squash, smmr, zucchini, incl skn, ckd, bld, drnd, w/salt",
+    "name": "Squash, smmr, zucchini, incl skin, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, zucchini, incl skn, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Squash, smmr, zucchini, incl skin, cooked, boiled, drained, withsalt."
   },
   "squash_wntr_all_var_ckd_bkd_wsalt": {
-    "name": "Squash, wntr, all var, ckd, bkd, w/salt",
+    "name": "Squash, wntr, all var, cooked, bkd, withsalt",
     "alternative_names": [],
-    "description": "Squash, wntr, all var, ckd, bkd, w/salt from the USDA database."
+    "description": "Squash, wntr, all var, cooked, bkd, withsalt."
   },
   "squash_wntr_butternut_ckd_bkd_wsalt": {
-    "name": "Squash, wntr, butternut, ckd, bkd, w/salt",
+    "name": "Squash, wntr, butternut, cooked, bkd, withsalt",
     "alternative_names": [],
-    "description": "Squash, wntr, butternut, ckd, bkd, w/salt from the USDA database."
+    "description": "Squash, wntr, butternut, cooked, bkd, withsalt."
   },
   "squash_wntr_hubbard_bkd_w_salt": {
-    "name": "Squash, wntr, hubbard, bkd, w/ salt",
+    "name": "Squash, wntr, hubbard, bkd, with/ salt",
     "alternative_names": [],
-    "description": "Squash, wntr, hubbard, bkd, w/ salt from the USDA database."
+    "description": "Squash, wntr, hubbard, bkd, with/ salt."
   },
   "squash_wntr_hubbard_ckd_bld_mshd_wsalt": {
-    "name": "Squash, wntr, hubbard, ckd, bld, mshd, w/salt",
+    "name": "Squash, wntr, hubbard, cooked, boiled, mshd, withsalt",
     "alternative_names": [],
-    "description": "Squash, wntr, hubbard, ckd, bld, mshd, w/salt from the USDA database."
+    "description": "Squash, wntr, hubbard, cooked, boiled, mshd, withsalt."
   },
   "sweet_potato_leaves_ckd_stmd_w_salt": {
-    "name": "Sweet potato leaves, ckd, stmd, w/ salt",
+    "name": "Sweet potato leaves, cooked, stmd, with/ salt",
     "alternative_names": [],
-    "description": "Sweet potato leaves, ckd, stmd, w/ salt from the USDA database."
+    "description": "Sweet potato leaves, cooked, stmd, with/ salt."
   },
   "sweet_potato_ckd_bkd_in_skn_w_salt": {
-    "name": "Sweet potato, ckd, bkd in skn, w/ salt",
+    "name": "Sweet potato, cooked, bkd in skin, with/ salt",
     "alternative_names": [],
-    "description": "Sweet potato, ckd, bkd in skn, w/ salt from the USDA database."
+    "description": "Sweet potato, cooked, bkd in skin, with/ salt."
   },
   "sweet_potato_ckd_bld_wo_skn_w_salt": {
-    "name": "Sweet potato, ckd, bld, wo/ skn, w/ salt",
+    "name": "Sweet potato, cooked, boiled, without skin, with/ salt",
     "alternative_names": [],
-    "description": "Sweet potato, ckd, bld, wo/ skn, w/ salt from the USDA database."
+    "description": "Sweet potato, cooked, boiled, without skin, with/ salt."
   },
   "tomatoes_red_ripe_ckd_w_salt": {
-    "name": "Tomatoes, red, ripe, ckd, w/ salt",
+    "name": "Tomatoes, red, ripe, cooked, with/ salt",
     "alternative_names": [],
-    "description": "Tomatoes, red, ripe, ckd, w/ salt from the USDA database."
+    "description": "Tomatoes, red, ripe, cooked, with/ salt."
   },
   "tomatoes_red_ripe_cnd_packed_in_tomato_juc_no": {
-    "name": "Tomatoes, red, ripe, cnd, packed in tomato juc, no salt added",
+    "name": "Tomatoes, red, ripe, canned, packed in tomato juc, no salt added",
     "alternative_names": [],
-    "description": "Tomatoes, red, ripe, cnd, packed in tomato juc, no salt added from the USDA database."
+    "description": "Tomatoes, red, ripe, canned, packed in tomato juc, no salt added."
   },
   "tomato_juc_cnd_wosalt": {
-    "name": "Tomato juc, cnd, wo/salt",
+    "name": "Tomato juc, canned, withoutsalt",
     "alternative_names": [],
-    "description": "Tomato juc, cnd, wo/salt from the USDA database."
+    "description": "Tomato juc, canned, withoutsalt."
   },
   "tomato_products_cnd_paste_wsalt": {
-    "name": "Tomato products, cnd, paste, w/salt",
+    "name": "Tomato products, canned, paste, withsalt",
     "alternative_names": [],
-    "description": "Tomato products, cnd, paste, w/salt from the USDA database."
+    "description": "Tomato products, canned, paste, withsalt."
   },
   "tomato_products_cnd_puree_wsalt": {
-    "name": "Tomato products, cnd, puree, w/salt",
+    "name": "Tomato products, canned, puree, withsalt",
     "alternative_names": [],
-    "description": "Tomato products, cnd, puree, w/salt from the USDA database."
+    "description": "Tomato products, canned, puree, withsalt."
   },
   "turnips_ckd_bld_drnd_wsalt": {
-    "name": "Turnips, ckd, bld, drnd, w/salt",
+    "name": "Turnips, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Turnips, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Turnips, cooked, boiled, drained, withsalt."
   },
   "turnips_frz_ckd_bld_drnd_wsalt": {
-    "name": "Turnips, frz, ckd, bld, drnd, w/salt",
+    "name": "Turnips, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Turnips, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Turnips, frozen, cooked, boiled, drained, withsalt."
   },
   "turnip_grns_ckd_bld_drnd_wsalt": {
-    "name": "Turnip grns, ckd, bld, drnd, w/salt",
+    "name": "Turnip grns, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Turnip grns, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Turnip grns, cooked, boiled, drained, withsalt."
   },
   "turnip_grns_frz_ckd_bld_drnd_wsalt": {
-    "name": "Turnip grns, frz, ckd, bld, drnd, w/salt",
+    "name": "Turnip grns, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Turnip grns, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Turnip grns, frozen, cooked, boiled, drained, withsalt."
   },
   "turnip_grnsturnips_frz_ckd_bld_drnd_wsalt": {
-    "name": "Turnip grns&turnips, frz, ckd, bld, drnd, w/salt",
+    "name": "Turnip grns&turnips, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Turnip grns&turnips, frz, ckd, bld, drnd, w/salt from the USDA database."
+    "description": "Turnip grns&turnips, frozen, cooked, boiled, drained, withsalt."
   },
   "yam_ckd_bld_drnd_or_bkd_wsalt": {
-    "name": "Yam, ckd, bld, drnd, or bkd, w/salt",
+    "name": "Yam, cooked, boiled, drained, or bkd, withsalt",
     "alternative_names": [],
-    "description": "Yam, ckd, bld, drnd, or bkd, w/salt from the USDA database."
+    "description": "Yam, cooked, boiled, drained, or bkd, withsalt."
   },
   "pickles_cucumber_dill_or_kosher_dill": {
     "name": "Pickles, cucumber, dill or kosher dill",
     "alternative_names": [],
-    "description": "Pickles, cucumber, dill or kosher dill from the USDA database."
+    "description": "Pickles, cucumber, dill or kosher dill."
   },
   "pickles_cucumber_sour": {
     "name": "Pickles, cucumber, sour",
     "alternative_names": [],
-    "description": "Pickles, cucumber, sour from the USDA database."
+    "description": "Pickles, cucumber, sour."
   },
   "pickles_cucumber_sour_lo_na": {
     "name": "Pickles, cucumber, sour, lo na",
     "alternative_names": [],
-    "description": "Pickles, cucumber, sour, lo na from the USDA database."
+    "description": "Pickles, cucumber, sour, lo na."
   },
   "pickles_cucumber_dill_lo_na": {
     "name": "Pickles, cucumber, dill, lo na",
     "alternative_names": [],
-    "description": "Pickles, cucumber, dill, lo na from the USDA database."
+    "description": "Pickles, cucumber, dill, lo na."
   },
   "tomatoes_sun_dried": {
     "name": "Tomatoes, sun-dried",
     "alternative_names": [],
-    "description": "Tomatoes, sun-dried from the USDA database."
+    "description": "Tomatoes, sun-dried."
   },
   "carrots_baby_raw": {
     "name": "Carrots, baby, raw",
     "alternative_names": [],
-    "description": "Carrots, baby, raw from the USDA database."
+    "description": "Carrots, baby, raw."
   },
   "broccoli_chinese_cooked": {
     "name": "Broccoli, chinese, cooked",
     "alternative_names": [],
-    "description": "Broccoli, chinese, cooked from the USDA database."
+    "description": "Broccoli, chinese, cooked."
   },
   "pickles_chowchow_wcauliflower_onion_mustard_s": {
-    "name": "Pickles, chowchow, w/cauliflower onion mustard, swt",
+    "name": "Pickles, chowchow, withcauliflower onion mustard, swt",
     "alternative_names": [],
-    "description": "Pickles, chowchow, w/cauliflower onion mustard, swt from the USDA database."
+    "description": "Pickles, chowchow, withcauliflower onion mustard, swt."
   },
   "pumpkinsquash_sd_krnls_dried": {
     "name": "Pumpkin&squash sd krnls, dried",
     "alternative_names": [],
-    "description": "Pumpkin&squash sd krnls, dried from the USDA database."
+    "description": "Pumpkin&squash sd krnls, dried."
   },
   "pumpkinsquash_sd_krnls_rstd_wosalt": {
-    "name": "Pumpkin&squash sd krnls, rstd, wo/salt",
+    "name": "Pumpkin&squash sd krnls, rstd, withoutsalt",
     "alternative_names": [],
-    "description": "Pumpkin&squash sd krnls, rstd, wo/salt from the USDA database."
+    "description": "Pumpkin&squash sd krnls, rstd, withoutsalt."
   },
   "pumpkinsquash_sd_krnls_rstd_wsalt": {
-    "name": "Pumpkin&squash sd krnls, rstd, w/salt",
+    "name": "Pumpkin&squash sd krnls, rstd, withsalt",
     "alternative_names": [],
-    "description": "Pumpkin&squash sd krnls, rstd, w/salt from the USDA database."
+    "description": "Pumpkin&squash sd krnls, rstd, withsalt."
   },
   "sardine_pacific_cnd_in_tomato_sau_drnd_sol_wb": {
-    "name": "Sardine, pacific, cnd in tomato sau, drnd sol w/bone",
+    "name": "Sardine, pacific, canned in tomato sauce, drained solids withbone",
     "alternative_names": [],
-    "description": "Sardine, pacific, cnd in tomato sau, drnd sol w/bone from the USDA database."
+    "description": "Sardine, pacific, canned in tomato sauce, drained solids withbone."
   },
   "peas_split_mature_seeds_raw": {
     "name": "Peas, split, mature seeds, raw",
     "alternative_names": [],
-    "description": "Peas, split, mature seeds, raw from the USDA database."
+    "description": "Peas, split, mature seeds, raw."
   },
   "peas_split_mature_seeds_ckd_bld_wosalt": {
-    "name": "Peas, split, mature seeds, ckd, bld, wo/salt",
+    "name": "Peas, split, mature seeds, cooked, boiled, withoutsalt",
     "alternative_names": [],
-    "description": "Peas, split, mature seeds, ckd, bld, wo/salt from the USDA database."
+    "description": "Peas, split, mature seeds, cooked, boiled, withoutsalt."
   },
   "peas_split_mature_seeds_ckd_bld_wsalt": {
-    "name": "Peas, split, mature seeds, ckd, bld, w/salt",
+    "name": "Peas, split, mature seeds, cooked, boiled, withsalt",
     "alternative_names": [],
-    "description": "Peas, split, mature seeds, ckd, bld, w/salt from the USDA database."
+    "description": "Peas, split, mature seeds, cooked, boiled, withsalt."
   },
   "fast_foods_potatoes_hashed_brown": {
     "name": "Fast foods, potatoes, hashed brown",
     "alternative_names": [],
-    "description": "Fast foods, potatoes, hashed brown from the USDA database."
+    "description": "Fast foods, potatoes, hashed brown."
   },
   "fast_foods_taco_w_bf_chs_lettuce_hard_shell": {
-    "name": "Fast foods, taco w/ bf, chs & lettuce, hard shell",
+    "name": "Fast foods, taco with/ bf, chs & lettuce, hard shell",
     "alternative_names": [],
-    "description": "Fast foods, taco w/ bf, chs & lettuce, hard shell from the USDA database."
+    "description": "Fast foods, taco with/ bf, chs & lettuce, hard shell."
   },
   "fast_foods_potato_mashed": {
     "name": "Fast foods, potato, mashed",
     "alternative_names": [],
-    "description": "Fast foods, potato, mashed from the USDA database."
+    "description": "Fast foods, potato, mashed."
   },
   "fast_foods_crispy_chick_filet_sndwch_w_lettuc": {
-    "name": "Fast foods, crispy chick filet sndwch, w/ lettuce & mayo",
+    "name": "Fast foods, crispy chick filet sndwch, with/ lettuce & mayo",
     "alternative_names": [],
-    "description": "Fast foods, crispy chick filet sndwch, w/ lettuce & mayo from the USDA database."
+    "description": "Fast foods, crispy chick filet sndwch, with/ lettuce & mayo."
   },
   "taco_bell_original_taco_w_bf_chs_lettuce": {
-    "name": "Taco bell, original taco w/ bf, chs & lettuce",
+    "name": "Taco bell, original taco with/ bf, chs & lettuce",
     "alternative_names": [],
-    "description": "Taco bell, original taco w/ bf, chs & lettuce from the USDA database."
+    "description": "Taco bell, original taco with/ bf, chs & lettuce."
   },
   "taco_bell_soft_taco_w_bf_chs_lettuce": {
-    "name": "Taco bell, soft taco w/ bf, chs & lettuce",
+    "name": "Taco bell, soft taco with/ bf, chs & lettuce",
     "alternative_names": [],
-    "description": "Taco bell, soft taco w/ bf, chs & lettuce from the USDA database."
+    "description": "Taco bell, soft taco with/ bf, chs & lettuce."
   },
   "taco_bell_soft_taco_w_chick_chs_lettuce": {
-    "name": "Taco bell, soft taco w/ chick, chs & lettuce",
+    "name": "Taco bell, soft taco with/ chick, chs & lettuce",
     "alternative_names": [],
-    "description": "Taco bell, soft taco w/ chick, chs & lettuce from the USDA database."
+    "description": "Taco bell, soft taco with/ chick, chs & lettuce."
   },
   "kentucky_fried_chick_potato_wedges_analyzed_p": {
     "name": "Kentucky fried chick, potato wedges, analyzed prior 2007",
     "alternative_names": [],
-    "description": "Kentucky fried chick, potato wedges, analyzed prior 2007 from the USDA database."
+    "description": "Kentucky fried chick, potato wedges, analyzed prior 2007."
   },
   "fast_foods_taco_w_bf_chs_lettuce_soft": {
-    "name": "Fast foods, taco w/ bf, chs & lettuce, soft",
+    "name": "Fast foods, taco with/ bf, chs & lettuce, soft",
     "alternative_names": [],
-    "description": "Fast foods, taco w/ bf, chs & lettuce, soft from the USDA database."
+    "description": "Fast foods, taco with/ bf, chs & lettuce, soft."
   },
   "fast_foods_taco_w_chick_lettuce_chs_soft": {
-    "name": "Fast foods, taco w/ chick, lettuce & chs, soft",
+    "name": "Fast foods, taco with/ chick, lettuce & chs, soft",
     "alternative_names": [],
-    "description": "Fast foods, taco w/ chick, lettuce & chs, soft from the USDA database."
+    "description": "Fast foods, taco with/ chick, lettuce & chs, soft."
   },
   "fast_fds_grilled_chick_filet_sndwch_w_lettuce": {
-    "name": "Fast fds, grilled chick filet sndwch, w/ lettuce, tomato & sprd",
+    "name": "Fast fds, grilled chick filet sndwch, with/ lettuce, tomato & sprd",
     "alternative_names": [],
-    "description": "Fast fds, grilled chick filet sndwch, w/ lettuce, tomato & sprd from the USDA database."
+    "description": "Fast fds, grilled chick filet sndwch, with/ lettuce, tomato & sprd."
   },
   "ravioli_meat_filled_w_tomato_sau_or_meat_sau": {
-    "name": "Ravioli, meat-filled, w/ tomato sau or meat sau, cnd",
+    "name": "Ravioli, meat-filled, with/ tomato sauce or meat sauce, canned",
     "alternative_names": [],
-    "description": "Ravioli, meat-filled, w/ tomato sau or meat sau, cnd from the USDA database."
+    "description": "Ravioli, meat-filled, with/ tomato sauce or meat sauce, canned."
   },
   "ravioli_chs_w_tomato_sau_frz_not_prep_incl_re": {
-    "name": "Ravioli, chs w/ tomato sau, frz, not prep, incl reg & lt entrees",
+    "name": "Ravioli, chs with/ tomato sauce, frozen, not prep, incl regular & lt entrees",
     "alternative_names": [],
-    "description": "Ravioli, chs w/ tomato sau, frz, not prep, incl reg & lt entrees from the USDA database."
+    "description": "Ravioli, chs with/ tomato sauce, frozen, not prep, incl regular & lt entrees."
   },
   "corned_bf_potatoes_in_tortilla": {
     "name": "Corned bf & potatoes in tortilla (apache)",
     "alternative_names": [],
-    "description": "Corned bf & potatoes in tortilla (apache) from the USDA database."
+    "description": "Corned bf & potatoes in tortilla (apache)."
   },
   "radishes_hawaiian_style_pickled": {
     "name": "Radishes, hawaiian style, pickled",
     "alternative_names": [],
-    "description": "Radishes, hawaiian style, pickled from the USDA database."
+    "description": "Radishes, hawaiian style, pickled."
   },
   "cabbage_japanese_style_frsh_pickled": {
     "name": "Cabbage, japanese style, frsh, pickled",
     "alternative_names": [],
-    "description": "Cabbage, japanese style, frsh, pickled from the USDA database."
+    "description": "Cabbage, japanese style, frsh, pickled."
   },
   "cabbage_mustard_salted": {
     "name": "Cabbage, mustard, salted",
     "alternative_names": [],
-    "description": "Cabbage, mustard, salted from the USDA database."
+    "description": "Cabbage, mustard, salted."
   },
   "tomato_sau_cnd_no_salt_added": {
-    "name": "Tomato sau, cnd, no salt added",
+    "name": "tomato sauce, canned, no salt added",
     "alternative_names": [],
-    "description": "Tomato sau, cnd, no salt added from the USDA database."
+    "description": "tomato sauce, canned, no salt added."
   },
   "potatoes_cnd_drnd_sol_no_salt": {
-    "name": "Potatoes, cnd, drnd sol, no salt",
+    "name": "Potatoes, canned, drained solids, no salt",
     "alternative_names": [],
-    "description": "Potatoes, cnd, drnd sol, no salt from the USDA database."
+    "description": "Potatoes, canned, drained solids, no salt."
   },
   "tomatoveg_juc_lo_na": {
-    "name": "Tomato&veg juc, lo na",
+    "name": "Tomato&vegetable juc, lo na",
     "alternative_names": [],
-    "description": "Tomato&veg juc, lo na from the USDA database."
+    "description": "Tomato&vegetable juc, lo na."
   },
   "turnip_grns_cnd_no_salt": {
-    "name": "Turnip grns, cnd, no salt",
+    "name": "Turnip grns, canned, no salt",
     "alternative_names": [],
-    "description": "Turnip grns, cnd, no salt from the USDA database."
+    "description": "Turnip grns, canned, no salt."
   },
   "celery_flakes_dried": {
     "name": "Celery flakes, dried",
     "alternative_names": [],
-    "description": "Celery flakes, dried from the USDA database."
+    "description": "Celery flakes, dried."
   },
   "swiss_chard_raw": {
     "name": "Swiss chard, raw",

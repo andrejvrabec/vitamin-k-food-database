@@ -10,7 +10,7 @@
   "asparagus_canned_drained_solids": {
     "name": "Špargľa, konzervované, odkvapkané pevné látky",
     "alternative_names": [],
-    "description": "Špargľa, konzervované, odkvapkané pevné látky podľa databázy USDA."
+    "description": "Špargľa, konzervované, odkvapkané pevné látky."
   },
   "asparagus_cooked": {
     "name": "Špargľa, varená",
@@ -22,12 +22,12 @@
   "asparagus_cooked_boiled_drained": {
     "name": "Špargľa uvarená, uvarená, scedená",
     "alternative_names": [],
-    "description": "Špargľa uvarená, uvarená, scedená podľa databázy USDA."
+    "description": "Špargľa uvarená, uvarená, scedená."
   },
   "asparagus_frozen_cooked_boiled_drained_w": {
-    "name": "Špargľa mrazená, varená, varená, scedená, bez soli",
+    "name": "Špargľa mrazená, varená, scedená, bez soli",
     "alternative_names": [],
-    "description": "Špargľa mrazená, varená, varená, scedená, bez soli podľa databázy USDA."
+    "description": "Špargľa mrazená, varená, scedená, bez soli."
   },
   "beet_greens_raw": {
     "name": "Cviklová vňať, surová",
@@ -40,12 +40,12 @@
   "beets_canned_regular_pack_solids_and_liq": {
     "name": "Repa, konzervy, bežné balenie, pevné látky a tekutiny",
     "alternative_names": [],
-    "description": "Repa, konzervy, bežné balenie, pevné látky a tekutiny podľa databázy USDA."
+    "description": "Repa, konzervy, bežné balenie, pevné látky a tekutiny."
   },
   "beets_raw": {
     "name": "Repa, surová",
     "alternative_names": [],
-    "description": "Repa, surová podľa databázy USDA."
+    "description": "Repa, surová."
   },
   "broccoli_cooked": {
     "name": "Brokolica, varená",
@@ -56,14 +56,14 @@
     "description": "Brokolica varená vo vode alebo parená bez pridaného tuku a soli."
   },
   "broccoli_frozen_chopped_cooked_boiled_dr": {
-    "name": "Brokolica mrazená, sekaná, varená, varená, scedená, bez",
+    "name": "Brokolica mrazená, sekaná, varená, scedená, bez",
     "alternative_names": [],
-    "description": "Brokolica mrazená, sekaná, varená, varená, scedená, bez podľa databázy USDA."
+    "description": "Brokolica mrazená, sekaná, varená, scedená, bez."
   },
   "broccoli_frozen_chopped_unprepared": {
     "name": "Brokolica, mrazená, nasekaná, neupravená",
     "alternative_names": [],
-    "description": "Brokolica, mrazená, nasekaná, neupravená podľa databázy USDA."
+    "description": "Brokolica, mrazená, nasekaná, neupravená."
   },
   "broccoli_raab_raw": {
     "name": "Brokolica raab (rapini), surová",
@@ -88,19 +88,19 @@
     "description": "Surový ružičkový kel, hlúbová zelenina s vysokým obsahom vitamínu K1."
   },
   "burdock_root_cooked_boiled_drained_witho": {
-    "name": "Koreň lopúcha, varený, varený, scedený, bez soli",
+    "name": "Koreň lopúcha, varený, scedený, bez soli",
     "alternative_names": [],
-    "description": "Koreň lopúcha, varený, varený, scedený, bez soli podľa databázy USDA."
+    "description": "Koreň lopúcha, varený, scedený, bez soli."
   },
   "cabbage_chinese_cooked_boiled_drained_wi": {
-    "name": "Kapusta, čínska (pak-choi), varená, varená, scedená, bez soli",
+    "name": "Kapusta, čínska (pak-choi), varená, scedená, bez soli",
     "alternative_names": [],
-    "description": "Kapusta, čínska (pak-choi), varená, varená, scedená, bez soli podľa databázy USDA."
+    "description": "Kapusta, čínska (pak-choi), varená, scedená, bez soli."
   },
   "cabbage_chinese_raw": {
     "name": "Kapusta, čínska (pe-tsai), surová",
     "alternative_names": [],
-    "description": "Kapusta, čínska (pe-tsai), surová podľa databázy USDA."
+    "description": "Kapusta, čínska (pe-tsai), surová."
   },
   "carrot_juice": {
     "name": "Mrkvová šťava",
@@ -112,17 +112,17 @@
   "carrots_canned_no_salt_added_solids_and": {
     "name": "Mrkva, konzervovaná, bez pridania soli, pevné a tekuté",
     "alternative_names": [],
-    "description": "Mrkva, konzervovaná, bez pridania soli, pevné a tekuté podľa databázy USDA."
+    "description": "Mrkva, konzervovaná, bez pridania soli, pevné a tekuté."
   },
   "carrots_canned_regular_pack_drained_soli": {
     "name": "Mrkva, konzerva, bežné balenie, odkvapkané pevné látky",
     "alternative_names": [],
-    "description": "Mrkva, konzerva, bežné balenie, odkvapkané pevné látky podľa databázy USDA."
+    "description": "Mrkva, konzerva, bežné balenie, odkvapkané pevné látky."
   },
   "carrots_frozen_unprepared": {
     "name": "Mrkva, mrazená, nepripravená (zahŕňa potraviny pre program distribúcie potravín USDA)",
     "alternative_names": [],
-    "description": "Mrkva, mrazená, nepripravená (zahŕňa potraviny pre program distribúcie potravín USDA) podľa databázy USDA."
+    "description": "Mrkva, mrazená, nepripravená (zahŕňa potraviny pre program distribúcie potravín USDA)."
   },
   "carrots_raw": {
     "name": "Mrkva, surová",
@@ -134,7 +134,7 @@
   "cauliflower_green_raw": {
     "name": "Karfiol, zelený, surový",
     "alternative_names": [],
-    "description": "Karfiol, zelený, surový podľa databázy USDA."
+    "description": "Karfiol, zelený, surový."
   },
   "celery_cooked": {
     "name": "Zeler, varený",
@@ -145,14 +145,14 @@
     "description": "Varené stonky zeleru (stopkového), obsahujúce stredné množstvo vitamínu K1."
   },
   "celery_cooked_boiled_drained_without_sal": {
-    "name": "Zeler varený, varený, scedený, bez soli",
+    "name": "Zeler varený, scedený, bez soli",
     "alternative_names": [],
-    "description": "Zeler varený, varený, scedený, bez soli podľa databázy USDA."
+    "description": "Zeler varený, scedený, bez soli."
   },
   "cress_garden_raw": {
     "name": "Žerucha, záhrada, surová",
     "alternative_names": [],
-    "description": "Žerucha, záhrada, surová podľa databázy USDA."
+    "description": "Žerucha, záhrada, surová."
   },
   "endive_raw": {
     "name": "Čakanka štrbáková (endívia), surová",
@@ -170,14 +170,14 @@
     "description": "Čerstvé listy žeruchy siatej, obsahujúce veľmi vysokú koncentráciu vitamínu K1."
   },
   "jute_potherb_cooked_boiled_drained_witho": {
-    "name": "Juta, potherb, varená, varená, scedená, bez soli",
+    "name": "Juta, potherb, varená, scedená, bez soli",
     "alternative_names": [],
-    "description": "Juta, potherb, varená, varená, scedená, bez soli podľa databázy USDA."
+    "description": "Juta, potherb, varená, scedená, bez soli."
   },
   "kale_frozen_unprepared": {
     "name": "Kel, mrazený, nepripravený",
     "alternative_names": [],
-    "description": "Kel, mrazený, nepripravený podľa databázy USDA."
+    "description": "Kel, mrazený, nepripravený."
   },
   "kale_raw": {
     "name": "Kučeravý kel, surový",
@@ -194,14 +194,14 @@
     "description": "Varené stonky póru pestovaného, obsahujúce stredné množstvo vitamínu K1."
   },
   "leeks_cooked_boiled_drained_without_salt": {
-    "name": "Pór (cibuľka a spodná listová časť), varený, varený, scedený, bez soli",
+    "name": "Pór (cibuľka a spodná listová časť), varený, scedený, bez soli",
     "alternative_names": [],
-    "description": "Pór (cibuľka a spodná listová časť), varený, varený, scedený, bez soli podľa databázy USDA."
+    "description": "Pór (cibuľka a spodná listová časť), varený, scedený, bez soli."
   },
   "mountain_yam_hawaii_raw": {
-    "name": "Mountain yam, Havaj, raw",
+    "name": "Mountain yam, Havaj, surové",
     "alternative_names": [],
-    "description": "Mountain yam, Havaj, raw podľa databázy USDA."
+    "description": "Mountain yam, Havaj, surové."
   },
   "okra_cooked": {
     "name": "Okra, varená",
@@ -212,44 +212,44 @@
     "description": "Varené plody ibišteka jedlého (okry), obsahujúce stredné množstvo vitamínu K1."
   },
   "okra_frozen_cooked_boiled_drained_withou": {
-    "name": "Okra, mrazená, varená, varená, scedená, bez soli",
+    "name": "Okra, mrazená, varená, scedená, bez soli",
     "alternative_names": [],
-    "description": "Okra, mrazená, varená, varená, scedená, bez soli podľa databázy USDA."
+    "description": "Okra, mrazená, varená, scedená, bez soli."
   },
   "okra_frozen_unprepared": {
     "name": "Okra, zamrznutá, nepripravená",
     "alternative_names": [],
-    "description": "Okra, zamrznutá, nepripravená podľa databázy USDA."
+    "description": "Okra, zamrznutá, nepripravená."
   },
   "onions_dehydrated_flakes": {
     "name": "Cibuľa, dehydrované vločky",
     "alternative_names": [],
-    "description": "Cibuľa, dehydrované vločky podľa databázy USDA."
+    "description": "Cibuľa, dehydrované vločky."
   },
   "onions_frozen_whole_cooked_boiled_draine": {
-    "name": "Cibuľa mrazená, celá, varená, varená, scedená, bez",
+    "name": "Cibuľa mrazená, celá, varená, scedená, bez",
     "alternative_names": [],
-    "description": "Cibuľa mrazená, celá, varená, varená, scedená, bez podľa databázy USDA."
+    "description": "Cibuľa mrazená, celá, varená, scedená, bez."
   },
   "onions_frozen_whole_unprepared": {
     "name": "Cibuľa, mrazená, celá, nepripravená",
     "alternative_names": [],
-    "description": "Cibuľa, mrazená, celá, nepripravená podľa databázy USDA."
+    "description": "Cibuľa, mrazená, celá, nepripravená."
   },
   "onions_raw": {
     "name": "Cibuľa, surová",
     "alternative_names": [],
-    "description": "Cibuľa, surová podľa databázy USDA."
+    "description": "Cibuľa, surová."
   },
   "peas_and_carrots_frozen_cooked_boiled_dr": {
-    "name": "Hrášok a mrkva mrazené, varené, varené, scedené, bez soli",
+    "name": "Hrášok a mrkva mrazené, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Hrášok a mrkva mrazené, varené, varené, scedené, bez soli podľa databázy USDA."
+    "description": "Hrášok a mrkva mrazené, varené, scedené, bez soli."
   },
   "peas_edible_podded_raw": {
     "name": "Hrášok, jedlý, strukovaný, surový",
     "alternative_names": [],
-    "description": "Hrášok, jedlý, strukovaný, surový podľa databázy USDA."
+    "description": "Hrášok, jedlý, strukovaný, surový."
   },
   "peas_green_raw": {
     "name": "Hrášok, surový",
@@ -262,42 +262,42 @@
   "plantains_yellow_baked": {
     "name": "Plantainy, žlté, pečené",
     "alternative_names": [],
-    "description": "Plantainy, žlté, pečené podľa databázy USDA."
+    "description": "Plantainy, žlté, pečené."
   },
   "plantains_yellow_raw": {
     "name": "Banány, žlté, surové",
     "alternative_names": [],
-    "description": "Banány, žlté, surové podľa databázy USDA."
+    "description": "Banány, žlté, surové."
   },
   "pokeberry_shoots_cooked_boiled_drained_w": {
-    "name": "Pokeberry výhonky, (poke), varené, varené, scedené, bez",
+    "name": "Pokeberry výhonky, (poke), varené, scedené, bez",
     "alternative_names": [],
-    "description": "Pokeberry výhonky, (poke), varené, varené, scedené, bez podľa databázy USDA."
+    "description": "Pokeberry výhonky, (poke), varené, scedené, bez."
   },
   "potatoes_boiled_cooked_without_skin_fles": {
-    "name": "Zemiaky, varené, varené bez šupky, dužiny, so soľou",
+    "name": "Zemiaky, varené bez šupky, dužiny, so soľou",
     "alternative_names": [],
-    "description": "Zemiaky, varené, varené bez šupky, dužiny, so soľou podľa databázy USDA."
+    "description": "Zemiaky, varené bez šupky, dužiny, so soľou."
   },
   "potatoes_flesh_and_skin_raw": {
     "name": "Zemiaky, dužina a šupka, surové",
     "alternative_names": [],
-    "description": "Zemiaky, dužina a šupka, surové podľa databázy USDA."
+    "description": "Zemiaky, dužina a šupka, surové."
   },
   "radishes_raw": {
     "name": "Reďkovky, surové",
     "alternative_names": [],
-    "description": "Reďkovky, surové podľa databázy USDA."
+    "description": "Reďkovky, surové."
   },
   "seeds_pumpkin_and_squash_seed_kernels_ro": {
     "name": "Semená, tekvicové a tekvicové jadrá, pražené, so soľou",
     "alternative_names": [],
-    "description": "Semená, tekvicové a tekvicové jadrá, pražené, so soľou podľa databázy USDA."
+    "description": "Semená, tekvicové a tekvicové jadrá, pražené, so soľou."
   },
   "spinach_canned_regular_pack_solids_and_l": {
     "name": "Špenát, konzervovaný, bežné balenie, pevné a tekuté",
     "alternative_names": [],
-    "description": "Špenát, konzervovaný, bežné balenie, pevné a tekuté podľa databázy USDA."
+    "description": "Špenát, konzervovaný, bežné balenie, pevné a tekuté."
   },
   "spinach_cooked": {
     "name": "Špenát, varený",
@@ -316,69 +316,69 @@
     "description": "Čerstvé listy surového špenátu siateho, mimoriadne bohaté na vitamín K1, železo a kyselinu listovú."
   },
   "squash_summer_crookneck_and_straightneck": {
-    "name": "Tekvica letná, krkovička a krkovička, mrazená, varená, varená, scedená, bez soli",
+    "name": "Tekvica letná, krkovička a krkovička, mrazená, varená, scedená, bez soli",
     "alternative_names": [],
-    "description": "Tekvica letná, krkovička a krkovička, mrazená, varená, varená, scedená, bez soli podľa databázy USDA."
+    "description": "Tekvica letná, krkovička a krkovička, mrazená, varená, scedená, bez soli."
   },
   "squash_summer_zucchini_includes_skin_coo": {
-    "name": "Squash, leto, cuketa, vrátane kože, varené, varené, scedené, bez soli",
+    "name": "Squash, leto, cuketa, vrátane kože, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Squash, leto, cuketa, vrátane kože, varené, varené, scedené, bez soli podľa databázy USDA."
+    "description": "Squash, leto, cuketa, vrátane kože, varené, scedené, bez soli."
   },
   "squash_winter_butternut_cooked_baked_wit": {
     "name": "Tekvicové, zimné, maslové, varené, pečené, bez soli",
     "alternative_names": [],
-    "description": "Tekvicové, zimné, maslové, varené, pečené, bez soli podľa databázy USDA."
+    "description": "Tekvicové, zimné, maslové, varené, pečené, bez soli."
   },
   "squash_winter_hubbard_baked_with_salt": {
     "name": "Tekvicová, zimná, hubbardská, pečená, so soľou",
     "alternative_names": [],
-    "description": "Tekvicová, zimná, hubbardská, pečená, so soľou podľa databázy USDA."
+    "description": "Tekvicová, zimná, hubbardská, pečená, so soľou."
   },
   "squash_winter_hubbard_cooked_boiled_mash": {
-    "name": "Tekvicová, zimná, hubbardská, varená, varená, roztlačená, so soľou",
+    "name": "Tekvicová, zimná, hubbardská, varená, roztlačená, so soľou",
     "alternative_names": [],
-    "description": "Tekvicová, zimná, hubbardská, varená, varená, roztlačená, so soľou podľa databázy USDA."
+    "description": "Tekvicová, zimná, hubbardská, varená, roztlačená, so soľou."
   },
   "sweet_potato_canned_syrup_pack_drained_s": {
     "name": "Sladké zemiaky, konzervy, balenie sirupu, odkvapkané pevné látky",
     "alternative_names": [],
-    "description": "Sladké zemiaky, konzervy, balenie sirupu, odkvapkané pevné látky podľa databázy USDA."
+    "description": "Sladké zemiaky, konzervy, balenie sirupu, odkvapkané pevné látky."
   },
   "tomato_juice_canned_with_salt_added": {
     "name": "Paradajková šťava, konzervovaná, s pridanou soľou",
     "alternative_names": [],
-    "description": "Paradajková šťava, konzervovaná, s pridanou soľou podľa databázy USDA."
+    "description": "Paradajková šťava, konzervovaná, s pridanou soľou."
   },
   "tomato_juice_canned_without_salt_added": {
     "name": "Paradajková šťava, konzervovaná, bez pridania soli",
     "alternative_names": [],
-    "description": "Paradajková šťava, konzervovaná, bez pridania soli podľa databázy USDA."
+    "description": "Paradajková šťava, konzervovaná, bez pridania soli."
   },
   "tomato_products_canned_puree_with_salt_a": {
     "name": "Paradajkové výrobky, konzervované, pretlak, s pridanou soľou",
     "alternative_names": [],
-    "description": "Paradajkové výrobky, konzervované, pretlak, s pridanou soľou podľa databázy USDA."
+    "description": "Paradajkové výrobky, konzervované, pretlak, s pridanou soľou."
   },
   "tomato_products_canned_puree_without_sal": {
     "name": "Paradajkové výrobky, konzervované, pretlak, bez pridania soli",
     "alternative_names": [],
-    "description": "Paradajkové výrobky, konzervované, pretlak, bez pridania soli podľa databázy USDA."
+    "description": "Paradajkové výrobky, konzervované, pretlak, bez pridania soli."
   },
   "tomatoes_red_ripe_canned_packed_in_tomat": {
     "name": "Paradajky, červené, zrelé, konzervované, balené v paradajkovej šťave",
     "alternative_names": [],
-    "description": "Paradajky, červené, zrelé, konzervované, balené v paradajkovej šťave podľa databázy USDA."
+    "description": "Paradajky, červené, zrelé, konzervované, balené v paradajkovej šťave."
   },
   "tomatoes_red_ripe_canned_stewed": {
     "name": "Paradajky, červené, zrelé, konzervované, dusené",
     "alternative_names": [],
-    "description": "Paradajky, červené, zrelé, konzervované, dusené podľa databázy USDA."
+    "description": "Paradajky, červené, zrelé, konzervované, dusené."
   },
   "turnip_greens_and_turnips_frozen_cooked": {
-    "name": "Vodnica a repa, mrazené, varené, varené, scedené,",
+    "name": "Vodnica a repa, mrazené, varené, scedené,",
     "alternative_names": [],
-    "description": "Vodnica a repa, mrazené, varené, varené, scedené, podľa databázy USDA."
+    "description": "Vodnica a repa, mrazené, varené, scedené,."
   },
   "turnip_greens_cooked": {
     "name": "Okrúhlicová vňať, varená",
@@ -389,1409 +389,1409 @@
     "description": "Varené listy okrúhlice, nutrične veľmi bohatá listová zelenina."
   },
   "turnip_greens_cooked_boiled_drained_with": {
-    "name": "Vodnica, varená, varená, scedená, bez soli",
+    "name": "Vodnica, varená, scedená, bez soli",
     "alternative_names": [],
-    "description": "Vodnica, varená, varená, scedená, bez soli podľa databázy USDA."
+    "description": "Vodnica, varená, scedená, bez soli."
   },
   "turnip_greens_frozen_cooked_boiled_drain": {
-    "name": "Vodnica mrazená, varená, varená, scedená, bez soli",
+    "name": "Vodnica mrazená, varená, scedená, bez soli",
     "alternative_names": [],
-    "description": "Vodnica mrazená, varená, varená, scedená, bez soli podľa databázy USDA."
+    "description": "Vodnica mrazená, varená, scedená, bez soli."
   },
   "turnips_frozen_cooked_boiled_drained_wit": {
-    "name": "Vodnica mrazená, varená, varená, scedená, bez soli",
+    "name": "Vodnica mrazená, varená, scedená, bez soli",
     "alternative_names": [],
-    "description": "Vodnica mrazená, varená, varená, scedená, bez soli podľa databázy USDA."
+    "description": "Vodnica mrazená, varená, scedená, bez soli."
   },
   "onion_powder": {
     "name": "Cibuľový prášok",
     "alternative_names": [],
-    "description": "Cibuľový prášok z databázy USDA."
+    "description": "Cibuľový prášok."
   },
   "plantains_raw": {
     "name": "Banány, surové",
     "alternative_names": [],
-    "description": "Banány, surové z databázy USDA."
+    "description": "Banány, surové."
   },
   "plantains_cooked": {
     "name": "Plantainy, varené",
     "alternative_names": [],
-    "description": "Plantainy, varené z databázy USDA."
+    "description": "Plantainy, varené."
   },
   "plantains_yel_fried_latino_restaurant": {
     "name": "Plantainy, yel, vyprážané, latino reštaurácia",
     "alternative_names": [],
-    "description": "Plantainy, yel, vyprážané, latino reštaurácia z databázy USDA."
+    "description": "Plantainy, yel, vyprážané, latino reštaurácia."
   },
   "asparagus_raw": {
     "name": "Špargľa, surová",
     "alternative_names": [],
-    "description": "Špargľa, surová z databázy USDA."
+    "description": "Špargľa, surová."
   },
   "asparagus_ckd_bld_drnd": {
-    "name": "Špargľa, ckd, bld, drnd",
+    "name": "Špargľa, varené, scedené",
     "alternative_names": [],
-    "description": "Špargľa, ckd, bld, drnd z databázy USDA."
+    "description": "Špargľa, varené, scedené."
   },
   "asparagus_cnd_drnd_sol": {
-    "name": "Špargľa, cnd, drnd sol",
+    "name": "Špargľa, konzervované, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Špargľa, cnd, drnd sol z databázy USDA."
+    "description": "Špargľa, konzervované, scedené pevný podiel."
   },
   "asparagus_frz_ckd_bld_drnd_wosalt": {
-    "name": "Špargľa, frz, ckd, bld, drnd, wo/soľ",
+    "name": "Špargľa, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Špargľa, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Špargľa, mrazené, varené, scedené, bezsoľ."
   },
   "beets_ckd_bld_drnd": {
-    "name": "Repa, ckd, bld, drnd",
+    "name": "Repa, varené, scedené",
     "alternative_names": [],
-    "description": "Repa, ckd, bld, drnd z databázy USDA."
+    "description": "Repa, varené, scedené."
   },
   "beets_cnd_reg_pk_solliquids": {
-    "name": "Repa, cnd, reg pk, sol&kvapaliny",
+    "name": "Repa, konzervované, reg pk, pevný podiel&kvapaliny",
     "alternative_names": [],
-    "description": "Repa, cnd, reg pk, sol&kvapaliny z databázy USDA."
+    "description": "Repa, konzervované, reg pk, pevný podiel&kvapaliny."
   },
   "beets_cnd_drnd_sol": {
-    "name": "Repa, cnd, drnd sol",
+    "name": "Repa, konzervované, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Repa, cnd, drnd sol z databázy USDA."
+    "description": "Repa, konzervované, scedené pevný podiel."
   },
   "beet_grns_ckd_bld_drnd_wosalt": {
-    "name": "Repa grns, ckd, bld, drnd, wo/soľ",
+    "name": "Repa grns, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Repa grns, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Repa grns, varené, scedené, bezsoľ."
   },
   "broccoli_ckd_bld_drnd_wosalt": {
-    "name": "Brokolica, ckd, bld, drnd, wo/soľ",
+    "name": "Brokolica, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Brokolica, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Brokolica, varené, scedené, bezsoľ."
   },
   "broccoli_frz_chopd_unprep": {
-    "name": "Brokolica, frz, sekaná, neupravená",
+    "name": "Brokolica, mrazené, sekaná, neupravená",
     "alternative_names": [],
-    "description": "Brokolica, frz, sekaná, neupravená z databázy USDA."
+    "description": "Brokolica, mrazené, sekaná, neupravená."
   },
   "broccoli_frz_chopd_ckd_bld_drnd_wosalt": {
-    "name": "Brokolica, frz, sekaná, ckd, bld, drnd, wo/soľ",
+    "name": "Brokolica, mrazené, sekaná, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Brokolica, frz, sekaná, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Brokolica, mrazené, sekaná, varené, scedené, bezsoľ."
   },
   "broccoli_frz_spears_unprep": {
-    "name": "Brokolica, frz, oštepy, nepripravené",
+    "name": "Brokolica, mrazené, oštepy, nepripravené",
     "alternative_names": [],
-    "description": "Brokolica, frz, oštepy, nepripravené z databázy USDA."
+    "description": "Brokolica, mrazené, oštepy, nepripravené."
   },
   "broccoli_frz_spears_ckd_bld_drnd_wosalt": {
-    "name": "Brokolica, frz, oštepy, ckd, bld, drnd, wo/soľ",
+    "name": "Brokolica, mrazené, oštepy, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Brokolica, frz, oštepy, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Brokolica, mrazené, oštepy, varené, scedené, bezsoľ."
   },
   "broccoli_raab_ckd": {
-    "name": "Brokolica raab, ckd",
+    "name": "Brokolica raab, varené",
     "alternative_names": [],
-    "description": "Brokolica raab, ckd z databázy USDA."
+    "description": "Brokolica raab, varené."
   },
   "brussels_sprouts_ckd_bld_drnd_wosalt": {
-    "name": "Ružičkový kel, ckd, bld, drnd, wo/soľ",
+    "name": "Ružičkový kel, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Ružičkový kel, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Ružičkový kel, varené, scedené, bezsoľ."
   },
   "brussels_sprouts_frz_ckd_bld_drnd_wosalt": {
-    "name": "Ružičkový kel, frz, ckd, bld, drnd, wo/soľ",
+    "name": "Ružičkový kel, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Ružičkový kel, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Ružičkový kel, mrazené, varené, scedené, bezsoľ."
   },
   "burdock_root_raw": {
     "name": "Koreň lopúcha, surový",
     "alternative_names": [],
-    "description": "Koreň lopúcha, surový z databázy USDA."
+    "description": "Koreň lopúcha, surový."
   },
   "burdock_root_ckd_bld_drnd_wosalt": {
-    "name": "Koreň lopúcha, ckd, bld, drnd, wo/soľ",
+    "name": "Koreň lopúcha, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Koreň lopúcha, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Koreň lopúcha, varené, scedené, bezsoľ."
   },
   "cabbage_raw": {
     "name": "Kapusta, surová",
     "alternative_names": [],
-    "description": "Kapusta, surová z databázy USDA."
+    "description": "Kapusta, surová."
   },
   "cabbage_ckd_bld_drnd_wosalt": {
-    "name": "Kapusta, ckd, bld, drnd, wo/soľ",
+    "name": "Kapusta, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Kapusta, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Kapusta, varené, scedené, bezsoľ."
   },
   "cabbage_red_raw": {
     "name": "Kapusta, červená, surová",
     "alternative_names": [],
-    "description": "Kapusta, červená, surová z databázy USDA."
+    "description": "Kapusta, červená, surová."
   },
   "cabbage_red_ckd_bld_drnd_wosalt": {
-    "name": "Kapusta, červená, ckd, bld, drnd, wo/soľ",
+    "name": "Kapusta, červená, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Kapusta, červená, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Kapusta, červená, varené, scedené, bezsoľ."
   },
   "cabbage_savoy_raw": {
     "name": "Kapusta, savojská, surová",
     "alternative_names": [],
-    "description": "Kapusta, savojská, surová z databázy USDA."
+    "description": "Kapusta, savojská, surová."
   },
   "cabbage_chinese_ckd_bld_drnd_wosalt": {
-    "name": "Kapusta, čínska (pak-choi), ckd, bld, drnd, wo/soľ",
+    "name": "Kapusta, čínska (pak-choi), varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Kapusta, čínska (pak-choi), ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Kapusta, čínska (pak-choi), varené, scedené, bezsoľ."
   },
   "carrots_ckd_bld_drnd_wosalt": {
-    "name": "Mrkva, ckd, bld, drnd, wo/soľ",
+    "name": "Mrkva, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Mrkva, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Mrkva, varené, scedené, bezsoľ."
   },
   "carrots_cnd_reg_pk_solliquids": {
-    "name": "Mrkva, cnd, reg pk, sol&tekutiny",
+    "name": "Mrkva, konzervované, reg pk, pevný podiel&tekutiny",
     "alternative_names": [],
-    "description": "Mrkva, cnd, reg pk, sol&tekutiny z databázy USDA."
+    "description": "Mrkva, konzervované, reg pk, pevný podiel&tekutiny."
   },
   "carrots_cnd_reg_pk_drnd_sol": {
-    "name": "Mrkva, cnd, reg pk, drnd sol",
+    "name": "Mrkva, konzervované, reg pk, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Mrkva, cnd, reg pk, drnd sol z databázy USDA."
+    "description": "Mrkva, konzervované, reg pk, scedené pevný podiel."
   },
   "carrots_frz_ckd_bld_drnd_wosalt": {
-    "name": "Mrkva, frz, ckd, bld, drnd, wo/soľ",
+    "name": "Mrkva, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Mrkva, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Mrkva, mrazené, varené, scedené, bezsoľ."
   },
   "cauliflower_raw": {
     "name": "Karfiol, surový",
     "alternative_names": [],
-    "description": "Karfiol, surový z databázy USDA."
+    "description": "Karfiol, surový."
   },
   "cauliflower_ckd_bld_drnd_wosalt": {
-    "name": "Karfiol, ckd, bld, drnd, wo/soľ",
+    "name": "Karfiol, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Karfiol, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Karfiol, varené, scedené, bezsoľ."
   },
   "cauliflower_frz_unprep": {
-    "name": "Karfiol, frz, nepripravený",
+    "name": "Karfiol, mrazené, nepripravený",
     "alternative_names": [],
-    "description": "Karfiol, frz, nepripravený z databázy USDA."
+    "description": "Karfiol, mrazené, nepripravený."
   },
   "cauliflower_frz_ckd_bld_drnd_wosalt": {
-    "name": "Karfiol, frz, ckd, bld, drnd, wo/soľ",
+    "name": "Karfiol, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Karfiol, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Karfiol, mrazené, varené, scedené, bezsoľ."
   },
   "celery_raw": {
     "name": "Zeler, surový",
     "alternative_names": [],
-    "description": "Zeler, surový z databázy USDA."
+    "description": "Zeler, surový."
   },
   "celery_ckd_bld_drnd_wosalt": {
-    "name": "Zeler, ckd, bld, drnd, wo/soľ",
+    "name": "Zeler, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Zeler, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Zeler, varené, scedené, bezsoľ."
   },
   "chicory_greens_raw": {
     "name": "Čakanka, surová",
     "alternative_names": [],
-    "description": "Čakanka, surová z databázy USDA."
+    "description": "Čakanka, surová."
   },
   "chives_raw": {
     "name": "Pažítka, surová",
     "alternative_names": [],
-    "description": "Pažítka, surová z databázy USDA."
+    "description": "Pažítka, surová."
   },
   "cress_garden_ckd_bld_drnd_wosalt": {
-    "name": "Žerucha, záhrada, ckd, bld, drnd, wo/soľ",
+    "name": "Žerucha, záhrada, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Žerucha, záhrada, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Žerucha, záhrada, varené, scedené, bezsoľ."
   },
   "cucumber_with_peel_raw": {
     "name": "Uhorka, so šupkou, surová",
     "alternative_names": [],
-    "description": "Uhorka, so šupkou, surová z databázy USDA."
+    "description": "Uhorka, so šupkou, surová."
   },
   "cucumber_peeled_raw": {
     "name": "Uhorka, lúpaná, surová",
     "alternative_names": [],
-    "description": "Uhorka, lúpaná, surová z databázy USDA."
+    "description": "Uhorka, lúpaná, surová."
   },
   "dandelion_greens_raw": {
     "name": "Púpava zelená, surová",
     "alternative_names": [],
-    "description": "Púpava zelená, surová z databázy USDA."
+    "description": "Púpava zelená, surová."
   },
   "jute_potherb_ckd_bld_drnd_wosalt": {
-    "name": "Juta, potherb, ckd, bld, drnd, wo/soľ",
+    "name": "Juta, potherb, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Juta, potherb, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Juta, potherb, varené, scedené, bezsoľ."
   },
   "kale_ckd_bld_drnd_wosalt": {
-    "name": "Kel, ckd, bld, drnd, wo/soľ",
+    "name": "Kel, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Kel, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Kel, varené, scedené, bezsoľ."
   },
   "kale_frz_ckd_bld_drnd_wosalt": {
-    "name": "Kel, frz, ckd, bld, drnd, wo/soľ",
+    "name": "Kel, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Kel, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Kel, mrazené, varené, scedené, bezsoľ."
   },
   "leeks_raw": {
     "name": "Pór, (cibuľa a spodná časť listu), surový",
     "alternative_names": [],
-    "description": "Pór, (cibuľa a spodná časť listu), surový z databázy USDA."
+    "description": "Pór, (cibuľa a spodná časť listu), surový."
   },
   "leeks_ckd_bld_drnd_wosalt": {
-    "name": "Pór, (cibuľa a spodná časť listu), ckd, bld, drnd, wo/soľ",
+    "name": "Pór, (cibuľa a spodná časť listu), varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Pór, (cibuľa a spodná časť listu), ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Pór, (cibuľa a spodná časť listu), varené, scedené, bezsoľ."
   },
   "lettuce_butterhead_raw": {
     "name": "Šalát, maslový (vrátane druhov boston&bibb), surové",
     "alternative_names": [],
-    "description": "Šalát, maslový (vrátane druhov boston&bibb), surové z databázy USDA."
+    "description": "Šalát, maslový (vrátane druhov boston&bibb), surové."
   },
   "lettuce_cos_or_romaine_raw": {
     "name": "Šalát, kos alebo rímska rasca, surový",
     "alternative_names": [],
-    "description": "Šalát, kos alebo rímska rasca, surový z databázy USDA."
+    "description": "Šalát, kos alebo rímska rasca, surový."
   },
   "lettuce_iceberg_raw": {
     "name": "Šalát, ľadový (vrátane chrumkavých hláv), surový",
     "alternative_names": [],
-    "description": "Šalát, ľadový (vrátane chrumkavých hláv), surový z databázy USDA."
+    "description": "Šalát, ľadový (vrátane chrumkavých hláv), surový."
   },
   "lettuce_grn_leaf_raw": {
     "name": "Šalát, zelený list, surový",
     "alternative_names": [],
-    "description": "Šalát, zelený list, surový z databázy USDA."
+    "description": "Šalát, zelený list, surový."
   },
   "lettuce_red_leaf_raw": {
     "name": "Šalát, červený list, surový",
     "alternative_names": [],
-    "description": "Šalát, červený list, surový z databázy USDA."
+    "description": "Šalát, červený list, surový."
   },
   "mustard_greens_raw": {
     "name": "Horčica, surová",
     "alternative_names": [],
-    "description": "Horčica, surová z databázy USDA."
+    "description": "Horčica, surová."
   },
   "new_zealand_spinach_raw": {
     "name": "Novozélandský špenát, surový",
     "alternative_names": [],
-    "description": "Novozélandský špenát, surový z databázy USDA."
+    "description": "Novozélandský špenát, surový."
   },
   "new_zealand_spinach_ckd_bld_drnd_wosalt": {
-    "name": "Novozélandský špenát, ckd, bld, drnd, wo/soľ",
+    "name": "Novozélandský špenát, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Novozélandský špenát, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Novozélandský špenát, varené, scedené, bezsoľ."
   },
   "okra_raw": {
     "name": "Okra, surová",
     "alternative_names": [],
-    "description": "Okra, surová z databázy USDA."
+    "description": "Okra, surová."
   },
   "okra_ckd_bld_drnd_wosalt": {
-    "name": "Okra, ckd, bld, drnd, wo/soľ",
+    "name": "Okra, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Okra, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Okra, varené, scedené, bezsoľ."
   },
   "okra_frz_ckd_bld_drnd_wosalt": {
-    "name": "Okra, frz, ckd, bld, drnd, wo/salt",
+    "name": "Okra, mrazené, varené, scedené, bezsalt",
     "alternative_names": [],
-    "description": "Okra, frz, ckd, bld, drnd, wo/salt z databázy USDA."
+    "description": "Okra, mrazené, varené, scedené, bezsalt."
   },
   "onions_ckd_bld_drnd_wosalt": {
-    "name": "Cibuľa, ckd, bld, drnd, wo/soľ",
+    "name": "Cibuľa, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Cibuľa, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Cibuľa, varené, scedené, bezsoľ."
   },
   "onions_cnd_solliquids": {
-    "name": "Cibuľa, cnd, sol&tekutiny",
+    "name": "Cibuľa, konzervované, pevný podiel&tekutiny",
     "alternative_names": [],
-    "description": "Cibuľa, cnd, sol&tekutiny z databázy USDA."
+    "description": "Cibuľa, konzervované, pevný podiel&tekutiny."
   },
   "onions_yel_sauteed": {
     "name": "Cibuľa, žltkastá, pražená",
     "alternative_names": [],
-    "description": "Cibuľa, žltkastá, pražená z databázy USDA."
+    "description": "Cibuľa, žltkastá, pražená."
   },
   "onions_frz_chopd_ckd_bld_drnd_wosalt": {
-    "name": "Cibuľa, frz, sekaná, ckd, bld, drnd, wo/soľ",
+    "name": "Cibuľa, mrazené, sekaná, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Cibuľa, frz, sekaná, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Cibuľa, mrazené, sekaná, varené, scedené, bezsoľ."
   },
   "onions_frz_whl_unprep": {
-    "name": "Cibuľa, frz, whl, neupravená",
+    "name": "Cibuľa, mrazené, whl, neupravená",
     "alternative_names": [],
-    "description": "Cibuľa, frz, whl, neupravená z databázy USDA."
+    "description": "Cibuľa, mrazené, whl, neupravená."
   },
   "onions_frz_whl_ckd_bld_drnd_wosalt": {
-    "name": "Cibuľa, frz, whl, ckd, bld, drnd, w/soľ",
+    "name": "Cibuľa, mrazené, whl, varené, scedené, ssoľ",
     "alternative_names": [],
-    "description": "Cibuľa, frz, whl, ckd, bld, drnd, w/soľ z databázy USDA."
+    "description": "Cibuľa, mrazené, whl, varené, scedené, ssoľ."
   },
   "onions_spring_or_scallions_raw": {
     "name": "Cibuľa, jarná alebo cibuľová cibuľa (vrátane vrchov a cibule), surová",
     "alternative_names": [],
-    "description": "Cibuľa, jarná alebo cibuľová cibuľa (vrátane vrchov a cibule), surová z databázy USDA."
+    "description": "Cibuľa, jarná alebo cibuľová cibuľa (vrátane vrchov a cibule), surová."
   },
   "onions_young_grn_tops_only": {
     "name": "Cibuľa, mladé zelené, iba vrcholy",
     "alternative_names": [],
-    "description": "Cibuľa, mladé zelené, iba vrcholy z databázy USDA."
+    "description": "Cibuľa, mladé zelené, iba vrcholy."
   },
   "onions_welsh_raw": {
     "name": "Cibuľa, waleská, surová",
     "alternative_names": [],
-    "description": "Cibuľa, waleská, surová z databázy USDA."
+    "description": "Cibuľa, waleská, surová."
   },
   "onions_swt_raw": {
     "name": "Cibuľa, swt, surová",
     "alternative_names": [],
-    "description": "Cibuľa, swt, surová z databázy USDA."
+    "description": "Cibuľa, swt, surová."
   },
   "peas_edible_podded_bld_drnd_wo_salt": {
-    "name": "Hrášok, jedlý-strukovaný, bld, drnd, wo/ soľ",
+    "name": "Hrášok, jedlý-strukovaný, varené, scedené, bez/ soľ",
     "alternative_names": [],
-    "description": "Hrášok, jedlý-strukovaný, bld, drnd, wo/ soľ z databázy USDA."
+    "description": "Hrášok, jedlý-strukovaný, varené, scedené, bez/ soľ."
   },
   "peas_edible_podded_frz_ckd_bld_drnd_wosalt": {
-    "name": "Hrášok, jedlý, strukový, frz, ckd, bld, drnd, wo/soľ",
+    "name": "Hrášok, jedlý, strukový, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Hrášok, jedlý, strukový, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Hrášok, jedlý, strukový, mrazené, varené, scedené, bezsoľ."
   },
   "peas_grn_ckd_bld_drnd_wosalt": {
-    "name": "Hrach, grn, ckd, bld, drnd, wo/soľ",
+    "name": "Hrach, grn, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Hrach, grn, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Hrach, grn, varené, scedené, bezsoľ."
   },
   "peas_grn_cnd_reg_pk_solliquids": {
-    "name": "Hrach, grn, cnd, reg pk, sol&tekutiny",
+    "name": "Hrach, grn, konzervované, reg pk, pevný podiel&tekutiny",
     "alternative_names": [],
-    "description": "Hrach, grn, cnd, reg pk, sol&tekutiny z databázy USDA."
+    "description": "Hrach, grn, konzervované, reg pk, pevný podiel&tekutiny."
   },
   "peas_grn_cnd_drnd_sol_unprep": {
-    "name": "Hrach, grn (zahŕňa baby & lesuer typy), cnd, drnd sol, nepripravené",
+    "name": "Hrach, grn (zahŕňa baby & lesuer typy), konzervované, scedené pevný podiel, nepripravené",
     "alternative_names": [],
-    "description": "Hrach, grn (zahŕňa baby & lesuer typy), cnd, drnd sol, nepripravené z databázy USDA."
+    "description": "Hrach, grn (zahŕňa baby & lesuer typy), konzervované, scedené pevný podiel, nepripravené."
   },
   "peas_grn_frz_unprep": {
-    "name": "Hrach, grn, frz, neupravený",
+    "name": "Hrach, grn, mrazené, neupravený",
     "alternative_names": [],
-    "description": "Hrach, grn, frz, neupravený z databázy USDA."
+    "description": "Hrach, grn, mrazené, neupravený."
   },
   "peas_grn_frz_ckd_bld_drnd_wosalt": {
-    "name": "Hrach, grn, frz, ckd, bld, drnd, wo/soľ",
+    "name": "Hrach, grn, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Hrach, grn, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Hrach, grn, mrazené, varené, scedené, bezsoľ."
   },
   "peascarrots_frz_ckd_bld_drnd_wosalt": {
-    "name": "Hrášok a mrkva, frz, ckd, bld, drnd, wo/soľ",
+    "name": "Hrášok a mrkva, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Hrášok a mrkva, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Hrášok a mrkva, mrazené, varené, scedené, bezsoľ."
   },
   "peasonions_frz_ckd_bld_drnd_wosalt": {
-    "name": "Hrášok a cibuľa, frz, ckd, bld, drnd, wo/soľ",
+    "name": "Hrášok a cibuľa, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Hrášok a cibuľa, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Hrášok a cibuľa, mrazené, varené, scedené, bezsoľ."
   },
   "pokeberry_shoots_ckd_bld_drnd_wosalt": {
-    "name": "Pokeberry výhonky, (poke), ckd, bld, drnd, wo/salt",
+    "name": "Pokeberry výhonky, (poke), varené, scedené, bezsalt",
     "alternative_names": [],
-    "description": "Pokeberry výhonky, (poke), ckd, bld, drnd, wo/salt z databázy USDA."
+    "description": "Pokeberry výhonky, (poke), varené, scedené, bezsalt."
   },
   "potato_flesh_skn_raw": {
-    "name": "Zemiaky, mäso a skn, surové",
+    "name": "Zemiaky, mäso a koža, surové",
     "alternative_names": [],
-    "description": "Zemiaky, mäso a skn, surové z databázy USDA."
+    "description": "Zemiaky, mäso a koža, surové."
   },
   "potatoes_russet_flesh_skn_raw": {
     "name": "Zemiaky hrdzavé, s dužinou a šupkou, surové",
     "alternative_names": [],
-    "description": "Zemiaky hrdzavé, s dužinou a šupkou, surové z databázy USDA."
+    "description": "Zemiaky hrdzavé, s dužinou a šupkou, surové."
   },
   "potatoes_white_flesh_skn_raw": {
     "name": "Zemiaky, biele, s dužinou a šupkou, surové",
     "alternative_names": [],
-    "description": "Zemiaky, biele, s dužinou a šupkou, surové z databázy USDA."
+    "description": "Zemiaky, biele, s dužinou a šupkou, surové."
   },
   "potatoes_red_flesh_skn_raw": {
-    "name": "Zemiaky, červené, s dužinou & skn, surové",
+    "name": "Zemiaky, červené, s dužinou & koža, surové",
     "alternative_names": [],
-    "description": "Zemiaky, červené, s dužinou & skn, surové z databázy USDA."
+    "description": "Zemiaky, červené, s dužinou & koža, surové."
   },
   "potatoes_russet_flesh_skn_bkd": {
-    "name": "Zemiaky hrdzavé, dužina a skn, bkd",
+    "name": "Zemiaky hrdzavé, dužina a koža, bkd",
     "alternative_names": [],
-    "description": "Zemiaky hrdzavé, dužina a skn, bkd z databázy USDA."
+    "description": "Zemiaky hrdzavé, dužina a koža, bkd."
   },
   "potatoes_white_flesh_skn_bkd": {
-    "name": "Zemiaky, biele, dužina a skn, bkd",
+    "name": "Zemiaky, biele, dužina a koža, bkd",
     "alternative_names": [],
-    "description": "Zemiaky, biele, dužina a skn, bkd z databázy USDA."
+    "description": "Zemiaky, biele, dužina a koža, bkd."
   },
   "potatoes_red_flesh_skn_bkd": {
-    "name": "Zemiaky, červené, mäso a skn, bkd",
+    "name": "Zemiaky, červené, mäso a koža, bkd",
     "alternative_names": [],
-    "description": "Zemiaky, červené, mäso a skn, bkd z databázy USDA."
+    "description": "Zemiaky, červené, mäso a koža, bkd."
   },
   "potatoes_fr_fr_crnkl_or_reg_salt_added_in_pro": {
-    "name": "Zemiaky, fr fr, crnkl alebo reg, soľ pridaná v proc, frz, ako nákup",
+    "name": "Zemiaky, fr fr, crnkl alebo reg, soľ pridaná v proc, mrazené, ako nákup",
     "alternative_names": [],
-    "description": "Zemiaky, fr fr, crnkl alebo reg, soľ pridaná v proc, frz, ako nákup z databázy USDA."
+    "description": "Zemiaky, fr fr, crnkl alebo reg, soľ pridaná v proc, mrazené, ako nákup."
   },
   "potatoes_fr_fr_crnklreg_cut_salt_added_in_pro": {
-    "name": "Zemiaky, fr fr, crnkl/reg rez, soľ pridaná in proc, frz, rúra-htd",
+    "name": "Zemiaky, fr fr, crnkl/reg rez, soľ pridaná in proc, mrazené, rúra-ohriate",
     "alternative_names": [],
-    "description": "Zemiaky, fr fr, crnkl/reg rez, soľ pridaná in proc, frz, rúra-htd z databázy USDA."
+    "description": "Zemiaky, fr fr, crnkl/reg rez, soľ pridaná in proc, mrazené, rúra-ohriate."
   },
   "potatoes_bkd_flesh_wosalt": {
-    "name": "Zemiaky, bkd, dužina, wo/soľ",
+    "name": "Zemiaky, bkd, dužina, bezsoľ",
     "alternative_names": [],
-    "description": "Zemiaky, bkd, dužina, wo/soľ z databázy USDA."
+    "description": "Zemiaky, bkd, dužina, bezsoľ."
   },
   "potatoes_bkd_skn_wosalt": {
-    "name": "Zemiaky, bkd, skn, wo/soľ",
+    "name": "Zemiaky, bkd, koža, bezsoľ",
     "alternative_names": [],
-    "description": "Zemiaky, bkd, skn, wo/soľ z databázy USDA."
+    "description": "Zemiaky, bkd, koža, bezsoľ."
   },
   "potatoes_bld_ckd_in_skn_flesh_wosalt": {
-    "name": "Zemiaky, bld, ckd v skn, dužina, wo/soľ",
+    "name": "Zemiaky, varené v koža, dužina, bezsoľ",
     "alternative_names": [],
-    "description": "Zemiaky, bld, ckd v skn, dužina, wo/soľ z databázy USDA."
+    "description": "Zemiaky, varené v koža, dužina, bezsoľ."
   },
   "potatoes_bld_ckd_wo_skn_flesh_wo_salt": {
-    "name": "Zemiaky, bld, ckd wo/ skn, dužina, wo/ soľ",
+    "name": "Zemiaky, varené bez šupky, dužina, bez/ soľ",
     "alternative_names": [],
-    "description": "Zemiaky, bld, ckd wo/ skn, dužina, wo/ soľ z databázy USDA."
+    "description": "Zemiaky, varené bez šupky, dužina, bez/ soľ."
   },
   "potatoes_hashed_brown_home_prepared": {
     "name": "Zemiaky, hnedé, doma pripravené",
     "alternative_names": [],
-    "description": "Zemiaky, hnedé, doma pripravené z databázy USDA."
+    "description": "Zemiaky, hnedé, doma pripravené."
   },
   "potatoes_hashed_brown_frz_pln_prep": {
-    "name": "Zemiaky, hnedé, frz, pln, príprava",
+    "name": "Zemiaky, hnedé, mrazené, pln, príprava",
     "alternative_names": [],
-    "description": "Zemiaky, hnedé, frz, pln, príprava z databázy USDA."
+    "description": "Zemiaky, hnedé, mrazené, pln, príprava."
   },
   "potatoes_french_fr_shoestring_salt_added_in_p": {
-    "name": "Zemiaky, french fr, snurka, sol pridaná in proc, frz, as prch",
+    "name": "Zemiaky, french fr, snurka, pevný podiel pridaná in proc, mrazené, as prch",
     "alternative_names": [],
-    "description": "Zemiaky, french fr, snurka, sol pridaná in proc, frz, as prch z databázy USDA."
+    "description": "Zemiaky, french fr, snurka, pevný podiel pridaná in proc, mrazené, as prch."
   },
   "potatoes_french_fr_shoestrng_salt_added_in_pr": {
-    "name": "Zemiaky, french fr, strng, sol pridaná in proc, frz, trouba-htd",
+    "name": "Zemiaky, french fr, strng, pevný podiel pridaná in proc, mrazené, trouba-ohriate",
     "alternative_names": [],
-    "description": "Zemiaky, french fr, strng, sol pridaná in proc, frz, trouba-htd z databázy USDA."
+    "description": "Zemiaky, french fr, strng, pevný podiel pridaná in proc, mrazené, trouba-ohriate."
   },
   "potato_puffs_frz_unprep": {
-    "name": "Zemiakové oblátky, frz, neupravené",
+    "name": "Zemiakové oblátky, mrazené, neupravené",
     "alternative_names": [],
-    "description": "Zemiakové oblátky, frz, neupravené z databázy USDA."
+    "description": "Zemiakové oblátky, mrazené, neupravené."
   },
   "potato_puffs_frz_oven_heated": {
-    "name": "Zemiakové lupienky, frz, ohrievané v rúre",
+    "name": "Zemiakové lupienky, mrazené, ohrievané v rúre",
     "alternative_names": [],
-    "description": "Zemiakové lupienky, frz, ohrievané v rúre z databázy USDA."
+    "description": "Zemiakové lupienky, mrazené, ohrievané v rúre."
   },
   "potatoes_frz_whl_unprep": {
-    "name": "Zemiaky, frz, whl, neupravené",
+    "name": "Zemiaky, mrazené, whl, neupravené",
     "alternative_names": [],
-    "description": "Zemiaky, frz, whl, neupravené z databázy USDA."
+    "description": "Zemiaky, mrazené, whl, neupravené."
   },
   "potatoes_french_fr_all_types_salt_added_in_pr": {
-    "name": "Zemiaky, francúzske fr, všetky druhy, soľ pridaná in proc, frz, unprep",
+    "name": "Zemiaky, francúzske fr, všetky druhy, soľ pridaná in proc, mrazené, neupravené",
     "alternative_names": [],
-    "description": "Zemiaky, francúzske fr, všetky druhy, soľ pridaná in proc, frz, unprep z databázy USDA."
+    "description": "Zemiaky, francúzske fr, všetky druhy, soľ pridaná in proc, mrazené, neupravené."
   },
   "potatoes_french_fr_stk_fries_salt_added_in_pr": {
-    "name": "Zemiaky, french fr, stk hranolky, sol pridaná in proc, frz, as prch",
+    "name": "Zemiaky, french fr, steak hranolky, pevný podiel pridaná in proc, mrazené, as prch",
     "alternative_names": [],
-    "description": "Zemiaky, french fr, stk hranolky, sol pridaná in proc, frz, as prch z databázy USDA."
+    "description": "Zemiaky, french fr, steak hranolky, pevný podiel pridaná in proc, mrazené, as prch."
   },
   "radishes_oriental_raw": {
     "name": "Reďkovky, orientálne, surové",
     "alternative_names": [],
-    "description": "Reďkovky, orientálne, surové z databázy USDA."
+    "description": "Reďkovky, orientálne, surové."
   },
   "radishes_oriental_ckd_bld_drnd_wosalt": {
-    "name": "Reďkovky, orientálne, ckd, bld, drnd, wo/salt",
+    "name": "Reďkovky, orientálne, varené, scedené, bezsalt",
     "alternative_names": [],
-    "description": "Reďkovky, orientálne, ckd, bld, drnd, wo/salt z databázy USDA."
+    "description": "Reďkovky, orientálne, varené, scedené, bezsalt."
   },
   "radishes_oriental_dried": {
     "name": "Reďkovky, orientálne, sušené",
     "alternative_names": [],
-    "description": "Reďkovky, orientálne, sušené z databázy USDA."
+    "description": "Reďkovky, orientálne, sušené."
   },
   "spinach_ckd_bld_drnd_wo_salt": {
-    "name": "Špenát, ckd, bld, drnd, wo/ soľ",
+    "name": "Špenát, varené, scedené, bez/ soľ",
     "alternative_names": [],
-    "description": "Špenát, ckd, bld, drnd, wo/ soľ z databázy USDA."
+    "description": "Špenát, varené, scedené, bez/ soľ."
   },
   "spinach_cnd_reg_pk_drnd_sol": {
-    "name": "Špenát, cnd, reg pk, drnd sol",
+    "name": "Špenát, konzervované, reg pk, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Špenát, cnd, reg pk, drnd sol z databázy USDA."
+    "description": "Špenát, konzervované, reg pk, scedené pevný podiel."
   },
   "spinach_frz_chopd_or_leaf_unprep": {
-    "name": "Špenát, frz, sekaný alebo listový, neupravený",
+    "name": "Špenát, mrazené, sekaný alebo listový, neupravený",
     "alternative_names": [],
-    "description": "Špenát, frz, sekaný alebo listový, neupravený z databázy USDA."
+    "description": "Špenát, mrazené, sekaný alebo listový, neupravený."
   },
   "spinach_frz_chopd_or_leaf_ckd_bld_drnd_wosalt": {
-    "name": "Špenát, frz, sekaný alebo listový, ckd, bld, drnd, wo/soľ",
+    "name": "Špenát, mrazené, sekaný alebo listový, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Špenát, frz, sekaný alebo listový, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Špenát, mrazené, sekaný alebo listový, varené, scedené, bezsoľ."
   },
   "squash_smmr_crookneckstraightneck_raw": {
-    "name": "Squash, smmr, krčný a rovný krk, raw",
+    "name": "Squash, smmr, krčný a rovný krk, surové",
     "alternative_names": [],
-    "description": "Squash, smmr, krčný a rovný krk, raw z databázy USDA."
+    "description": "Squash, smmr, krčný a rovný krk, surové."
   },
   "squash_smmr_crookneck_straightneck_ckd_bld_dr": {
-    "name": "Squash, smmr, crookneck & straightneck, ckd, bld, drnd, wo/ salt",
+    "name": "Squash, smmr, crookneck & straightneck, varené, scedené, bez/ salt",
     "alternative_names": [],
-    "description": "Squash, smmr, crookneck & straightneck, ckd, bld, drnd, wo/ salt z databázy USDA."
+    "description": "Squash, smmr, crookneck & straightneck, varené, scedené, bez/ salt."
   },
   "squash_smmr_crookneckstraightneck_cnd_drnd_so": {
-    "name": "Squash, smmr, crookneck & straightneck, cnd, drnd, solid, wo/soľ",
+    "name": "Squash, smmr, crookneck & straightneck, konzervované, scedené, pevný podiel, bez soli",
     "alternative_names": [],
-    "description": "Squash, smmr, crookneck & straightneck, cnd, drnd, solid, wo/soľ z databázy USDA."
+    "description": "Squash, smmr, crookneck & straightneck, konzervované, scedené, pevný podiel, bez soli."
   },
   "squash_smmr_crookneckstraightneck_frz_ckd_bld": {
-    "name": "Squash, smmr, crookneck & straightneck, frz, ckd, bld, drnd, wo/salt",
+    "name": "Squash, smmr, crookneck & straightneck, mrazené, varené, scedené, bezsalt",
     "alternative_names": [],
-    "description": "Squash, smmr, crookneck & straightneck, frz, ckd, bld, drnd, wo/salt z databázy USDA."
+    "description": "Squash, smmr, crookneck & straightneck, mrazené, varené, scedené, bezsalt."
   },
   "squash_summer_scallop_raw": {
     "name": "Squash, leto, hrebenatky, surové",
     "alternative_names": [],
-    "description": "Squash, leto, hrebenatky, surové z databázy USDA."
+    "description": "Squash, leto, hrebenatky, surové."
   },
   "squash_smmr_scallop_ckd_bld_drnd_wosalt": {
-    "name": "Squash, smmr, hrebenatka, ckd, bld, drnd, wo/soľ",
+    "name": "Squash, smmr, hrebenatka, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Squash, smmr, hrebenatka, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Squash, smmr, hrebenatka, varené, scedené, bezsoľ."
   },
   "squash_smmr_zucchini_incl_skn_raw": {
-    "name": "Tekvica, smmr, cuketa, vrátane skn, surová",
+    "name": "Tekvica, smmr, cuketa, vrátane koža, surová",
     "alternative_names": [],
-    "description": "Tekvica, smmr, cuketa, vrátane skn, surová z databázy USDA."
+    "description": "Tekvica, smmr, cuketa, vrátane koža, surová."
   },
   "squash_smmr_zucchini_incl_skn_ckd_bld_drnd_wo": {
-    "name": "Squash, smmr, cuketa, vrátane skn, ckd, bld, drnd, wo/soľ",
+    "name": "Squash, smmr, cuketa, vrátane koža, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Squash, smmr, cuketa, vrátane skn, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Squash, smmr, cuketa, vrátane koža, varené, scedené, bezsoľ."
   },
   "squash_smmr_zucchini_incl_skn_frz_unprep": {
-    "name": "Squash, smmr, cuketa, vrátane skn, frz, neupravená",
+    "name": "Squash, smmr, cuketa, vrátane koža, mrazené, neupravená",
     "alternative_names": [],
-    "description": "Squash, smmr, cuketa, vrátane skn, frz, neupravená z databázy USDA."
+    "description": "Squash, smmr, cuketa, vrátane koža, mrazené, neupravená."
   },
   "squash_smmr_zucchini_incl_skn_frz_ckd_bld_drn": {
-    "name": "Squash, smmr, cuketa, vrátane skn, frz, ckd, bld, drnd, wo/soľ",
+    "name": "Squash, smmr, cuketa, vrátane koža, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Squash, smmr, cuketa, vrátane skn, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Squash, smmr, cuketa, vrátane koža, mrazené, varené, scedené, bezsoľ."
   },
   "squash_wntr_butternut_raw": {
     "name": "Squash, wntr, maslový orech, surový",
     "alternative_names": [],
-    "description": "Squash, wntr, maslový orech, surový z databázy USDA."
+    "description": "Squash, wntr, maslový orech, surový."
   },
   "squash_wntr_butternut_ckd_bkd_wosalt": {
-    "name": "Squash, wntr, butternut, ckd, bkd, w/soľ",
+    "name": "Squash, wntr, butternut, varené, bkd, ssoľ",
     "alternative_names": [],
-    "description": "Squash, wntr, butternut, ckd, bkd, w/soľ z databázy USDA."
+    "description": "Squash, wntr, butternut, varené, bkd, ssoľ."
   },
   "squash_wntr_butternut_frz_unprep": {
-    "name": "Squash, wntr, butternut, frz, unprep",
+    "name": "Squash, wntr, butternut, mrazené, neupravené",
     "alternative_names": [],
-    "description": "Squash, wntr, butternut, frz, unprep z databázy USDA."
+    "description": "Squash, wntr, butternut, mrazené, neupravené."
   },
   "squash_winter_hubbard_raw": {
-    "name": "Squash, zimný, hubbard, raw",
+    "name": "Squash, zimný, hubbard, surové",
     "alternative_names": [],
-    "description": "Squash, zimný, hubbard, raw z databázy USDA."
+    "description": "Squash, zimný, hubbard, surové."
   },
   "squash_wntr_hubbard_bkd_wo_salt": {
-    "name": "Squash, wntr, hubbard, bkd, wo/ soľ",
+    "name": "Squash, wntr, hubbard, bkd, bez/ soľ",
     "alternative_names": [],
-    "description": "Squash, wntr, hubbard, bkd, wo/ soľ z databázy USDA."
+    "description": "Squash, wntr, hubbard, bkd, bez/ soľ."
   },
   "squash_wntr_hubbard_ckd_bld_mshd_wosalt": {
-    "name": "Squash, wntr, hubbard, ckd, bld, mshd, wo/salt",
+    "name": "Squash, wntr, hubbard, varené, mshd, bezsalt",
     "alternative_names": [],
-    "description": "Squash, wntr, hubbard, ckd, bld, mshd, wo/salt z databázy USDA."
+    "description": "Squash, wntr, hubbard, varené, mshd, bezsalt."
   },
   "sweet_potato_leaves_raw": {
     "name": "Listy sladkých zemiakov, surové",
     "alternative_names": [],
-    "description": "Listy sladkých zemiakov, surové z databázy USDA."
+    "description": "Listy sladkých zemiakov, surové."
   },
   "sweet_potato_leaves_ckd_stmd_wo_salt": {
-    "name": "Sladké zemiakové listy, ckd, stmd, wo/ soľ",
+    "name": "Sladké zemiakové listy, varené, stmd, bez/ soľ",
     "alternative_names": [],
-    "description": "Sladké zemiakové listy, ckd, stmd, wo/ soľ z databázy USDA."
+    "description": "Sladké zemiakové listy, varené, stmd, bez/ soľ."
   },
   "sweet_potato_raw_unprep": {
     "name": "Sladké zemiaky, surové, nepripravené",
     "alternative_names": [],
-    "description": "Sladké zemiaky, surové, nepripravené z databázy USDA."
+    "description": "Sladké zemiaky, surové, nepripravené."
   },
   "sweet_potato_ckd_bkd_in_skn_wo_salt": {
-    "name": "Sladké zemiaky, ckd, bkd v skn, wo/ soľ",
+    "name": "Sladké zemiaky, varené, bkd v koža, bez/ soľ",
     "alternative_names": [],
-    "description": "Sladké zemiaky, ckd, bkd v skn, wo/ soľ z databázy USDA."
+    "description": "Sladké zemiaky, varené, bkd v koža, bez/ soľ."
   },
   "sweet_potato_ckd_bld_wo_skn": {
-    "name": "Sladké zemiaky, ckd, bld, wo/ skn",
+    "name": "Sladké zemiaky, varené, bez šupky",
     "alternative_names": [],
-    "description": "Sladké zemiaky, ckd, bld, wo/ skn z databázy USDA."
+    "description": "Sladké zemiaky, varené, bez šupky."
   },
   "sweetpotato_cnd_vacuum_pk": {
-    "name": "Sladké zemiaky, cnd, vákuové pk",
+    "name": "Sladké zemiaky, konzervované, vákuové pk",
     "alternative_names": [],
-    "description": "Sladké zemiaky, cnd, vákuové pk z databázy USDA."
+    "description": "Sladké zemiaky, konzervované, vákuové pk."
   },
   "sweet_potato_cnd_mshd": {
-    "name": "Sladké zemiaky, cnd, mshd",
+    "name": "Sladké zemiaky, konzervované, mshd",
     "alternative_names": [],
-    "description": "Sladké zemiaky, cnd, mshd z databázy USDA."
+    "description": "Sladké zemiaky, konzervované, mshd."
   },
   "sweet_potato_frz_ckd_bkd_wo_salt": {
-    "name": "Sladké zemiaky, frz, ckd, bkd, wo/ soľ",
+    "name": "Sladké zemiaky, mrazené, varené, bkd, bez/ soľ",
     "alternative_names": [],
-    "description": "Sladké zemiaky, frz, ckd, bkd, wo/ soľ z databázy USDA."
+    "description": "Sladké zemiaky, mrazené, varené, bkd, bez/ soľ."
   },
   "tomatoes_green_raw": {
     "name": "Paradajky, zelené, surové",
     "alternative_names": [],
-    "description": "Paradajky, zelené, surové z databázy USDA."
+    "description": "Paradajky, zelené, surové."
   },
   "tomatoes_red_ripe_raw_year_rnd_average": {
     "name": "Paradajky, červené, zrelé, surové, priemerný rok",
     "alternative_names": [],
-    "description": "Paradajky, červené, zrelé, surové, priemerný rok z databázy USDA."
+    "description": "Paradajky, červené, zrelé, surové, priemerný rok."
   },
   "tomatoes_red_ripe_ckd": {
-    "name": "Paradajky, červené, zrelé, ckd",
+    "name": "Paradajky, červené, zrelé, varené",
     "alternative_names": [],
-    "description": "Paradajky, červené, zrelé, ckd z databázy USDA."
+    "description": "Paradajky, červené, zrelé, varené."
   },
   "tomatoes_red_ripe_cnd_packed_in_tomato_juc": {
-    "name": "Paradajky, červené, zrelé, cnd, balené v paradajkovej šťave",
+    "name": "Paradajky, červené, zrelé, konzervované, balené v paradajkovej šťave",
     "alternative_names": [],
-    "description": "Paradajky, červené, zrelé, cnd, balené v paradajkovej šťave z databázy USDA."
+    "description": "Paradajky, červené, zrelé, konzervované, balené v paradajkovej šťave."
   },
   "tomatoes_red_ripe_cnd_stwd": {
-    "name": "Paradajky, červené, zrelé, cnd, stwd",
+    "name": "Paradajky, červené, zrelé, konzervované, dusené",
     "alternative_names": [],
-    "description": "Paradajky, červené, zrelé, cnd, stwd z databázy USDA."
+    "description": "Paradajky, červené, zrelé, konzervované, dusené."
   },
   "tomato_juc_cnd_wsalt": {
-    "name": "Paradajkový džús, cnd, so soľou",
+    "name": "Paradajkový džús, konzervované, so soľou",
     "alternative_names": [],
-    "description": "Paradajkový džús, cnd, so soľou z databázy USDA."
+    "description": "Paradajkový džús, konzervované, so soľou."
   },
   "tomato_products_cnd_paste_wo_salt_added": {
-    "name": "Paradajkové výrobky, cnd, pasta, s prídavkom soli",
+    "name": "Paradajkové výrobky, konzervované, pasta, bez pridania soli",
     "alternative_names": [],
-    "description": "Paradajkové výrobky, cnd, pasta, s prídavkom soli z databázy USDA."
+    "description": "Paradajkové výrobky, konzervované, pasta, bez pridania soli."
   },
   "tomato_products_cnd_puree_wosalt": {
-    "name": "Paradajkové výrobky, cnd, pretlak, wo/soľ",
+    "name": "Paradajkové výrobky, konzervované, pretlak, bezsoľ",
     "alternative_names": [],
-    "description": "Paradajkové výrobky, cnd, pretlak, wo/soľ z databázy USDA."
+    "description": "Paradajkové výrobky, konzervované, pretlak, bezsoľ."
   },
   "tomato_powder": {
     "name": "Paradajkový prášok",
     "alternative_names": [],
-    "description": "Paradajkový prášok z databázy USDA."
+    "description": "Paradajkový prášok."
   },
   "tomato_products_cnd_sau": {
-    "name": "Paradajkové výrobky, cnd, sau",
+    "name": "Paradajkové výrobky, konzervované, omáčka",
     "alternative_names": [],
-    "description": "Paradajkové výrobky, cnd, sau z databázy USDA."
+    "description": "Paradajkové výrobky, konzervované, omáčka."
   },
   "tomato_products_cnd_sau_wmushrooms": {
-    "name": "Paradajkové výrobky, cnd, sau, s hubami",
+    "name": "Paradajkové výrobky, konzervované, omáčka, s hubami",
     "alternative_names": [],
-    "description": "Paradajkové výrobky, cnd, sau, s hubami z databázy USDA."
+    "description": "Paradajkové výrobky, konzervované, omáčka, s hubami."
   },
   "tomato_products_cnd_sau_wonions_grn_peppers_c": {
-    "name": "Paradajkové výrobky, cnd, sau, s cibuľou, zeleninou paprikou a zelerom",
+    "name": "Paradajkové výrobky, konzervované, omáčka, s cibuľou, zeleninou paprikou a zelerom",
     "alternative_names": [],
-    "description": "Paradajkové výrobky, cnd, sau, s cibuľou, zeleninou paprikou a zelerom z databázy USDA."
+    "description": "Paradajkové výrobky, konzervované, omáčka, s cibuľou, zeleninou paprikou a zelerom."
   },
   "turnips_raw": {
     "name": "Vodnica, surová",
     "alternative_names": [],
-    "description": "Vodnica, surová z databázy USDA."
+    "description": "Vodnica, surová."
   },
   "turnips_ckd_bld_drnd_wosalt": {
-    "name": "Vodnica, ckd, bld, drnd, wo/soľ",
+    "name": "Vodnica, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Vodnica, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Vodnica, varené, scedené, bezsoľ."
   },
   "turnips_frz_ckd_bld_drnd_wosalt": {
-    "name": "repa, frz, ckd, bld, drnd, wo/soľ",
+    "name": "repa, mrazené, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "repa, frz, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "repa, mrazené, varené, scedené, bezsoľ."
   },
   "turnip_greens_raw": {
     "name": "Vodnica, surová",
     "alternative_names": [],
-    "description": "Vodnica, surová z databázy USDA."
+    "description": "Vodnica, surová."
   },
   "turnip_grns_ckd_bld_drnd_wosalt": {
-    "name": "Repík grns, ckd, bld, drnd, wo/salt",
+    "name": "Repík grns, varené, scedené, bezsalt",
     "alternative_names": [],
-    "description": "Repík grns, ckd, bld, drnd, wo/salt z databázy USDA."
+    "description": "Repík grns, varené, scedené, bezsalt."
   },
   "turnip_grns_frz_ckd_bld_drnd_wosalt": {
-    "name": "Repík grns, frz, ckd, bld, drnd, wo/salt",
+    "name": "Repík grns, mrazené, varené, scedené, bezsalt",
     "alternative_names": [],
-    "description": "Repík grns, frz, ckd, bld, drnd, wo/salt z databázy USDA."
+    "description": "Repík grns, mrazené, varené, scedené, bezsalt."
   },
   "turnip_grnsturnips_frz_ckd_bld_drnd_wosalt": {
-    "name": "Repík grns&turnips, frz, ckd, bld, drnd, wo/salt",
+    "name": "Repík grns&turnips, mrazené, varené, scedené, bezsalt",
     "alternative_names": [],
-    "description": "Repík grns&turnips, frz, ckd, bld, drnd, wo/salt z databázy USDA."
+    "description": "Repík grns&turnips, mrazené, varené, scedené, bezsalt."
   },
   "watercress_raw": {
     "name": "Žerucha, surová",
     "alternative_names": [],
-    "description": "Žerucha, surová z databázy USDA."
+    "description": "Žerucha, surová."
   },
   "yam_raw": {
     "name": "Yam, surový",
     "alternative_names": [],
-    "description": "Yam, surový z databázy USDA."
+    "description": "Yam, surový."
   },
   "yam_ckd_bld_drnd_or_bkd_wosalt": {
-    "name": "Yam, ckd, bld, drnd alebo bkd, wo/soľ",
+    "name": "Yam, varené, scedené alebo bkd, bezsoľ",
     "alternative_names": [],
-    "description": "Yam, ckd, bld, drnd alebo bkd, wo/soľ z databázy USDA."
+    "description": "Yam, varené, scedené alebo bkd, bezsoľ."
   },
   "beets_pickled_cnd_solliquids": {
-    "name": "Repa, nakladaná, cnd, sólo&tekutiny",
+    "name": "Repa, nakladaná, konzervované, sólo&tekutiny",
     "alternative_names": [],
-    "description": "Repa, nakladaná, cnd, sólo&tekutiny z databázy USDA."
+    "description": "Repa, nakladaná, konzervované, sólo&tekutiny."
   },
   "squash_smmr_all_var_raw": {
     "name": "Squash, smmr, všetky var, surové",
     "alternative_names": [],
-    "description": "Squash, smmr, všetky var, surové z databázy USDA."
+    "description": "Squash, smmr, všetky var, surové."
   },
   "squash_smmr_all_var_ckd_bld_drnd_wosalt": {
-    "name": "Squash, smmr, všetky var, ckd, bld, drnd, wo/soľ",
+    "name": "Squash, smmr, všetky var, varené, scedené, bezsoľ",
     "alternative_names": [],
-    "description": "Squash, smmr, všetky var, ckd, bld, drnd, wo/soľ z databázy USDA."
+    "description": "Squash, smmr, všetky var, varené, scedené, bezsoľ."
   },
   "squash_wntr_all_var_raw": {
     "name": "Squash, wntr, všetky var, surové",
     "alternative_names": [],
-    "description": "Squash, wntr, všetky var, surové z databázy USDA."
+    "description": "Squash, wntr, všetky var, surové."
   },
   "squash_wntr_all_var_ckd_bkd_wosalt": {
-    "name": "Squash, wntr, všetky var, ckd, bkd, wo/soľ",
+    "name": "Squash, wntr, všetky var, varené, bkd, bezsoľ",
     "alternative_names": [],
-    "description": "Squash, wntr, všetky var, ckd, bkd, wo/soľ z databázy USDA."
+    "description": "Squash, wntr, všetky var, varené, bkd, bezsoľ."
   },
   "sweet_potato_cnd_syrup_pk_sol_liquids": {
-    "name": "Sladké zemiaky, cnd, sirup pk, sol & tekutiny",
+    "name": "Sladké zemiaky, konzervované, sirup pk, pevný podiel & tekutiny",
     "alternative_names": [],
-    "description": "Sladké zemiaky, cnd, sirup pk, sol & tekutiny z databázy USDA."
+    "description": "Sladké zemiaky, konzervované, sirup pk, pevný podiel & tekutiny."
   },
   "sweet_potato_cnd_syrup_pk_drnd_sol": {
-    "name": "Sladké zemiaky, cnd, sirup pk, drnd sol",
+    "name": "Sladké zemiaky, konzervované, sirup pk, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Sladké zemiaky, cnd, sirup pk, drnd sol z databázy USDA."
+    "description": "Sladké zemiaky, konzervované, sirup pk, scedené pevný podiel."
   },
   "carrot_juice_canned": {
     "name": "Mrkvová šťava, konzervovaná",
     "alternative_names": [],
-    "description": "Mrkvová šťava, konzervovaná z databázy USDA."
+    "description": "Mrkvová šťava, konzervovaná."
   },
   "spinach_souffle": {
     "name": "Špenátové suflé",
     "alternative_names": [],
-    "description": "Špenátové suflé z databázy USDA."
+    "description": "Špenátové suflé."
   },
   "sweet_potato_ckd_candied_home_prepared": {
-    "name": "Sladké zemiaky, ckd, kandizované, doma pripravené",
+    "name": "Sladké zemiaky, varené, kandizované, doma pripravené",
     "alternative_names": [],
-    "description": "Sladké zemiaky, ckd, kandizované, doma pripravené z databázy USDA."
+    "description": "Sladké zemiaky, varené, kandizované, doma pripravené."
   },
   "potato_bkd_flesh_skn_wo_salt": {
-    "name": "Zemiaky, bkd, dužina a skn, wo/ soľ",
+    "name": "Zemiaky, bkd, dužina a koža, bez/ soľ",
     "alternative_names": [],
-    "description": "Zemiaky, bkd, dužina a skn, wo/ soľ z databázy USDA."
+    "description": "Zemiaky, bkd, dužina a koža, bez/ soľ."
   },
   "carrot_dehydrated": {
     "name": "Mrkva, dehydrovaná",
     "alternative_names": [],
-    "description": "Mrkva, dehydrovaná z databázy USDA."
+    "description": "Mrkva, dehydrovaná."
   },
   "tomatoes_crushed_canned": {
     "name": "Paradajky, drvené, konzervované",
     "alternative_names": [],
-    "description": "Paradajky, drvené, konzervované z databázy USDA."
+    "description": "Paradajky, drvené, konzervované."
   },
   "asparagus_ckd_bld_drnd_wsalt": {
-    "name": "Špargľa, ckd, bld, drnd, so soľou",
+    "name": "Špargľa, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Špargľa, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Špargľa, varené, scedené, so soľou."
   },
   "asparagus_cnd_no_salt_solliquids": {
-    "name": "Špargľa, cnd, bez soli, sól a kvapalín",
+    "name": "Špargľa, konzervované, bez soli, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Špargľa, cnd, bez soli, sól a kvapalín z databázy USDA."
+    "description": "Špargľa, konzervované, bez soli, pevný podiel a tekutina."
   },
   "asparagus_frz_ckd_bld_drnd_wsalt": {
-    "name": "Špargľa, frz, ckd, bld, drnd, so soľou",
+    "name": "Špargľa, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Špargľa, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Špargľa, mrazené, varené, scedené, so soľou."
   },
   "beets_ckd_boiled_drnd_wsalt": {
-    "name": "Cvikla, ckd, var. drnd, so soľou",
+    "name": "Cvikla, varené, var. scedené, so soľou",
     "alternative_names": [],
-    "description": "Cvikla, ckd, var. drnd, so soľou z databázy USDA."
+    "description": "Cvikla, varené, var. scedené, so soľou."
   },
   "beets_cnd_no_salt_solliquids": {
-    "name": "Repa, cnd, bez soli, sól a kvapalín",
+    "name": "Repa, konzervované, bez soli, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Repa, cnd, bez soli, sól a kvapalín z databázy USDA."
+    "description": "Repa, konzervované, bez soli, pevný podiel a tekutina."
   },
   "beet_grns_ckd_bld_drnd_wsalt": {
-    "name": "Repa grns, ckd, bld, drnd, so soľou",
+    "name": "Repa grns, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Repa grns, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Repa grns, varené, scedené, so soľou."
   },
   "broccoli_ckd_bld_drnd_wsalt": {
-    "name": "Brokolica, ckd, bld, drnd, so soľou",
+    "name": "Brokolica, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Brokolica, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Brokolica, varené, scedené, so soľou."
   },
   "broccoli_frz_chopd_ckd_bld_drnd_wsalt": {
-    "name": "Brokolica, frz, sekaná, ckd, bld, drnd, so soľou",
+    "name": "Brokolica, mrazené, sekaná, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Brokolica, frz, sekaná, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Brokolica, mrazené, sekaná, varené, scedené, so soľou."
   },
   "broccoli_frz_spears_ckd_bld_drnd_wsalt": {
-    "name": "Brokolica, frz, oštepy, ckd, bld, drnd, so soľou",
+    "name": "Brokolica, mrazené, oštepy, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Brokolica, frz, oštepy, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Brokolica, mrazené, oštepy, varené, scedené, so soľou."
   },
   "brussels_sprouts_ckd_bld_drnd_wsalt": {
-    "name": "Ružičkový kel, ckd, bld, drnd, so soľou",
+    "name": "Ružičkový kel, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Ružičkový kel, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Ružičkový kel, varené, scedené, so soľou."
   },
   "brussels_sprouts_frz_ckd_bld_drnd_wsalt": {
-    "name": "Ružičkový kel, frz, ckd, bld, drnd, so soľou",
+    "name": "Ružičkový kel, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Ružičkový kel, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Ružičkový kel, mrazené, varené, scedené, so soľou."
   },
   "burdock_root_ckd_bld_drnd_wsalt": {
-    "name": "Koreň lopúcha, ckd, bld, drnd, so soľou",
+    "name": "Koreň lopúcha, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Koreň lopúcha, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Koreň lopúcha, varené, scedené, so soľou."
   },
   "cabbage_common_ckd_bld_drnd_wsalt": {
-    "name": "Kapusta obyčajná, ckd, bld, drnd, so soľou",
+    "name": "Kapusta obyčajná, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Kapusta obyčajná, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Kapusta obyčajná, varené, scedené, so soľou."
   },
   "cabbage_red_ckd_bld_drnd_wsalt": {
-    "name": "Kapusta, červená, ckd, bld, drnd, so soľou",
+    "name": "Kapusta, červená, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Kapusta, červená, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Kapusta, červená, varené, scedené, so soľou."
   },
   "cabbage_chinese_ckd_bld_drnd_wsalt": {
-    "name": "Kapusta, čínska (pak-choi), ckd, bld, drnd, so soľou",
+    "name": "Kapusta, čínska (pak-choi), varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Kapusta, čínska (pak-choi), ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Kapusta, čínska (pak-choi), varené, scedené, so soľou."
   },
   "carrots_ckd_bld_drnd_wsalt": {
-    "name": "Mrkva, ckd, bld, drnd, so soľou",
+    "name": "Mrkva, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Mrkva, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Mrkva, varené, scedené, so soľou."
   },
   "carrots_cnd_no_salt_solliquids": {
-    "name": "Mrkva, cnd, bez soli, soli a tekutín",
+    "name": "Mrkva, konzervované, bez soli, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Mrkva, cnd, bez soli, soli a tekutín z databázy USDA."
+    "description": "Mrkva, konzervované, bez soli, pevný podiel a tekutina."
   },
   "carrots_cnd_no_salt_drnd_sol": {
-    "name": "Mrkva, cnd, bez soli, drnd sol",
+    "name": "Mrkva, konzervované, bez soli, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Mrkva, cnd, bez soli, drnd sol z databázy USDA."
+    "description": "Mrkva, konzervované, bez soli, scedené pevný podiel."
   },
   "carrots_frz_ckd_bld_drnd_wsalt": {
-    "name": "Mrkva, frz, ckd, bld, drnd, so soľou",
+    "name": "Mrkva, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Mrkva, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Mrkva, mrazené, varené, scedené, so soľou."
   },
   "cauliflower_ckd_bld_drnd_wsalt": {
-    "name": "Karfiol, ckd, bld, drnd, so soľou",
+    "name": "Karfiol, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Karfiol, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Karfiol, varené, scedené, so soľou."
   },
   "cauliflower_frz_ckd_bld_drnd_wsalt": {
-    "name": "Karfiol, frz, ckd, bld, drnd, so soľou",
+    "name": "Karfiol, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Karfiol, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Karfiol, mrazené, varené, scedené, so soľou."
   },
   "celery_ckd_bld_drnd_wsalt": {
-    "name": "Zeler, ckd, bld, drnd, so soľou",
+    "name": "Zeler, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Zeler, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Zeler, varené, scedené, so soľou."
   },
   "cress_garden_ckd_bld_drnd_wsalt": {
-    "name": "Žerucha, záhrada, ckd, bld, drnd, so soľou",
+    "name": "Žerucha, záhrada, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Žerucha, záhrada, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Žerucha, záhrada, varené, scedené, so soľou."
   },
   "jute_potherb_ckd_bld_drnd_wsalt": {
-    "name": "Juta, potherb, ckd, bld, drnd, so soľou",
+    "name": "Juta, potherb, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Juta, potherb, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Juta, potherb, varené, scedené, so soľou."
   },
   "kale_frz_ckd_bld_drnd_wsalt": {
-    "name": "Kel, frz, ckd, bld, drnd, so soľou",
+    "name": "Kel, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Kel, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Kel, mrazené, varené, scedené, so soľou."
   },
   "leeks_ckd_bld_drnd_wsalt": {
-    "name": "Pór, (cibuľa a spodná časť listu), ckd, bld, drnd, so soľou",
+    "name": "Pór, (cibuľa a spodná časť listu), varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Pór, (cibuľa a spodná časť listu), ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Pór, (cibuľa a spodná časť listu), varené, scedené, so soľou."
   },
   "new_zealand_spinach_ckd_bld_drnd_wsalt": {
-    "name": "Novozélandský špenát, ckd, bld, drnd, so soľou",
+    "name": "Novozélandský špenát, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Novozélandský špenát, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Novozélandský špenát, varené, scedené, so soľou."
   },
   "okra_ckd_bld_drnd_wsalt": {
-    "name": "Okra, ckd, bld, drnd, so soľou",
+    "name": "Okra, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Okra, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Okra, varené, scedené, so soľou."
   },
   "okra_frz_ckd_bld_drnd_w_salt": {
-    "name": "Okra, frz, ckd, bld, drnd, so soľou",
+    "name": "Okra, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Okra, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Okra, mrazené, varené, scedené, so soľou."
   },
   "onions_ckd_bld_drnd_wsalt": {
-    "name": "Cibuľa, ckd, bld, drnd, so soľou",
+    "name": "Cibuľa, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Cibuľa, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Cibuľa, varené, scedené, so soľou."
   },
   "onions_frz_chopd_ckd_bld_drnd_wsalt": {
-    "name": "Cibuľa, frz, sekaná, ckd, bld, drnd, so soľou",
+    "name": "Cibuľa, mrazené, sekaná, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Cibuľa, frz, sekaná, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Cibuľa, mrazené, sekaná, varené, scedené, so soľou."
   },
   "onions_frz_whl_ckd_bld_drnd_wsalt": {
-    "name": "Cibuľa, frz, whl, ckd, bld, drnd, so soľou",
+    "name": "Cibuľa, mrazené, whl, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Cibuľa, frz, whl, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Cibuľa, mrazené, whl, varené, scedené, so soľou."
   },
   "peas_edible_podded_ckd_bld_drnd_wsalt": {
-    "name": "Hrášok, jedlý-strukovaný, ckd, bld, drnd, so soľou",
+    "name": "Hrášok, jedlý-strukovaný, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Hrášok, jedlý-strukovaný, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Hrášok, jedlý-strukovaný, varené, scedené, so soľou."
   },
   "peas_edible_podded_frz_ckd_bld_drnd_wsalt": {
-    "name": "Hrášok, jedlý, strukový, frz, ckd, bld, drnd, so soľou",
+    "name": "Hrášok, jedlý, strukový, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Hrášok, jedlý, strukový, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Hrášok, jedlý, strukový, mrazené, varené, scedené, so soľou."
   },
   "peas_grn_ckd_bld_drnd_wsalt": {
-    "name": "Hrach, grn, ckd, bld, drnd, so soľou",
+    "name": "Hrach, grn, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Hrach, grn, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Hrach, grn, varené, scedené, so soľou."
   },
   "peas_grn_cnd_no_salt_solliquids": {
-    "name": "Hrach, grn, cnd, bez soli, soli a kvapalín",
+    "name": "Hrach, grn, konzervované, bez soli, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Hrach, grn, cnd, bez soli, soli a kvapalín z databázy USDA."
+    "description": "Hrach, grn, konzervované, bez soli, pevný podiel a tekutina."
   },
   "peas_grn_cnd_no_salt_drnd_sol": {
-    "name": "Hrach, grn, cnd, bez soli, drnd sol",
+    "name": "Hrach, grn, konzervované, bez soli, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Hrach, grn, cnd, bez soli, drnd sol z databázy USDA."
+    "description": "Hrach, grn, konzervované, bez soli, scedené pevný podiel."
   },
   "peas_grn_frz_ckd_bld_drnd_wsalt": {
-    "name": "Hrach, grn, frz, ckd, bld, drnd, so soľou",
+    "name": "Hrach, grn, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Hrach, grn, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Hrach, grn, mrazené, varené, scedené, so soľou."
   },
   "peascarrots_cnd_no_salt_solliquids": {
-    "name": "Hrášok a mrkva, cnd, bez soli, soli a tekutín",
+    "name": "Hrášok a mrkva, konzervované, bez soli, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Hrášok a mrkva, cnd, bez soli, soli a tekutín z databázy USDA."
+    "description": "Hrášok a mrkva, konzervované, bez soli, pevný podiel a tekutina."
   },
   "peascarrots_frz_ckd_bld_drnd_wsalt": {
-    "name": "Hrášok a mrkva, frz, ckd, bld, drnd, so soľou",
+    "name": "Hrášok a mrkva, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Hrášok a mrkva, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Hrášok a mrkva, mrazené, varené, scedené, so soľou."
   },
   "peasonions_frz_ckd_bld_drnd_wsalt": {
-    "name": "Hrášok a cibuľa, frz, ckd, bld, drnd, so soľou",
+    "name": "Hrášok a cibuľa, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Hrášok a cibuľa, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Hrášok a cibuľa, mrazené, varené, scedené, so soľou."
   },
   "pokeberry_shoots_ckd_bld_drnd_wsalt": {
-    "name": "Pokeberry výhonky, (poke), ckd, bld, drnd, so soľou",
+    "name": "Pokeberry výhonky, (poke), varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Pokeberry výhonky, (poke), ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Pokeberry výhonky, (poke), varené, scedené, so soľou."
   },
   "potatoes_bkd_flesh_skn_w_salt": {
-    "name": "Zemiaky, bkd, dužina a skn, so soľou",
+    "name": "Zemiaky, bkd, dužina a koža, so soľou",
     "alternative_names": [],
-    "description": "Zemiaky, bkd, dužina a skn, so soľou z databázy USDA."
+    "description": "Zemiaky, bkd, dužina a koža, so soľou."
   },
   "potatoes_bkd_flesh_wsalt": {
     "name": "Zemiaky, bkd, dužina, so soľou",
     "alternative_names": [],
-    "description": "Zemiaky, bkd, dužina, so soľou z databázy USDA."
+    "description": "Zemiaky, bkd, dužina, so soľou."
   },
   "potatoes_bkd_skn_w_salt": {
-    "name": "Zemiaky, bkd, skn, so soľou",
+    "name": "Zemiaky, bkd, koža, so soľou",
     "alternative_names": [],
-    "description": "Zemiaky, bkd, skn, so soľou z databázy USDA."
+    "description": "Zemiaky, bkd, koža, so soľou."
   },
   "potatoes_bld_ckd_in_skn_flesh_wsalt": {
-    "name": "Zemiaky, bld, ckd v skn, dužina, so soľou",
+    "name": "Zemiaky, varené v koža, dužina, so soľou",
     "alternative_names": [],
-    "description": "Zemiaky, bld, ckd v skn, dužina, so soľou z databázy USDA."
+    "description": "Zemiaky, varené v koža, dužina, so soľou."
   },
   "potatoes_bld_ckd_wo_skn_flesh_w_salt": {
-    "name": "Zemiaky, bld, ckd wo/ skn, dužina, so soľou",
+    "name": "Zemiaky, varené bez šupky, dužina, so soľou",
     "alternative_names": [],
-    "description": "Zemiaky, bld, ckd wo/ skn, dužina, so soľou z databázy USDA."
+    "description": "Zemiaky, varené bez šupky, dužina, so soľou."
   },
   "potatoes_fr_fr_all_types_salt_not_added_in_pr": {
-    "name": "Zemiaky, fr fr, všetky druhy, soľ nepridaná in proc, frz, ovn-htd",
+    "name": "Zemiaky, fr fr, všetky druhy, soľ nepridaná in proc, mrazené, ovn-ohriate",
     "alternative_names": [],
-    "description": "Zemiaky, fr fr, všetky druhy, soľ nepridaná in proc, frz, ovn-htd z databázy USDA."
+    "description": "Zemiaky, fr fr, všetky druhy, soľ nepridaná in proc, mrazené, ovn-ohriate."
   },
   "radishes_oriental_ckd_bld_drnd_wsalt": {
-    "name": "Reďkovky, orientálne, ckd, bld, drnd, so soľou",
+    "name": "Reďkovky, orientálne, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Reďkovky, orientálne, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Reďkovky, orientálne, varené, scedené, so soľou."
   },
   "spinach_ckd_bld_drnd_wsalt": {
-    "name": "Špenát, ckd, bld, drnd, so soľou",
+    "name": "Špenát, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Špenát, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Špenát, varené, scedené, so soľou."
   },
   "spinach_frz_chopd_or_leaf_ckd_bld_drnd_wsalt": {
-    "name": "Špenát, frz, sekaný alebo listový, ckd, bld, drnd, so soľou",
+    "name": "Špenát, mrazené, sekaný alebo listový, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Špenát, frz, sekaný alebo listový, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Špenát, mrazené, sekaný alebo listový, varené, scedené, so soľou."
   },
   "squash_smmr_all_var_ckd_bld_drnd_wsalt": {
-    "name": "Squash, smmr, všetky var, ckd, bld, drnd, so soľou",
+    "name": "Squash, smmr, všetky var, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Squash, smmr, všetky var, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Squash, smmr, všetky var, varené, scedené, so soľou."
   },
   "squash_smmr_crookneckstraightneck_ckd_bld_drn": {
-    "name": "Squash, smmr, crookneck & straightneck, ckd, bld, drnd, so soľou",
+    "name": "Squash, smmr, crookneck & straightneck, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Squash, smmr, crookneck & straightneck, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Squash, smmr, crookneck & straightneck, varené, scedené, so soľou."
   },
   "squash_smmr_scallop_ckd_bld_drnd_wsalt": {
-    "name": "Squash, smmr, hrebenatka, ckd, bld, drnd, so soľou",
+    "name": "Squash, smmr, hrebenatka, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Squash, smmr, hrebenatka, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Squash, smmr, hrebenatka, varené, scedené, so soľou."
   },
   "squash_smmr_zucchini_incl_skn_ckd_bld_drnd_ws": {
-    "name": "Squash, smmr, cuketa, vrátane skn, ckd, bld, drnd, so soľou",
+    "name": "Squash, smmr, cuketa, vrátane koža, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Squash, smmr, cuketa, vrátane skn, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Squash, smmr, cuketa, vrátane koža, varené, scedené, so soľou."
   },
   "squash_wntr_all_var_ckd_bkd_wsalt": {
-    "name": "Squash, wntr, všetky var, ckd, bkd, so soľou",
+    "name": "Squash, wntr, všetky var, varené, bkd, so soľou",
     "alternative_names": [],
-    "description": "Squash, wntr, všetky var, ckd, bkd, so soľou z databázy USDA."
+    "description": "Squash, wntr, všetky var, varené, bkd, so soľou."
   },
   "squash_wntr_butternut_ckd_bkd_wsalt": {
-    "name": "Squash, wntr, butternut, ckd, bkd, so soľou",
+    "name": "Squash, wntr, butternut, varené, bkd, so soľou",
     "alternative_names": [],
-    "description": "Squash, wntr, butternut, ckd, bkd, so soľou z databázy USDA."
+    "description": "Squash, wntr, butternut, varené, bkd, so soľou."
   },
   "squash_wntr_hubbard_bkd_w_salt": {
     "name": "Squash, wntr, hubbard, bkd, so soľou",
     "alternative_names": [],
-    "description": "Squash, wntr, hubbard, bkd, so soľou z databázy USDA."
+    "description": "Squash, wntr, hubbard, bkd, so soľou."
   },
   "squash_wntr_hubbard_ckd_bld_mshd_wsalt": {
-    "name": "Squash, wntr, hubbard, ckd, bld, mshd, so soľou",
+    "name": "Squash, wntr, hubbard, varené, mshd, so soľou",
     "alternative_names": [],
-    "description": "Squash, wntr, hubbard, ckd, bld, mshd, so soľou z databázy USDA."
+    "description": "Squash, wntr, hubbard, varené, mshd, so soľou."
   },
   "sweet_potato_leaves_ckd_stmd_w_salt": {
-    "name": "Sladké zemiakové listy, ckd, stmd, so soľou",
+    "name": "Sladké zemiakové listy, varené, stmd, so soľou",
     "alternative_names": [],
-    "description": "Sladké zemiakové listy, ckd, stmd, so soľou z databázy USDA."
+    "description": "Sladké zemiakové listy, varené, stmd, so soľou."
   },
   "sweet_potato_ckd_bkd_in_skn_w_salt": {
-    "name": "Sladké zemiaky, ckd, bkd v skn, so soľou",
+    "name": "Sladké zemiaky, varené, bkd v koža, so soľou",
     "alternative_names": [],
-    "description": "Sladké zemiaky, ckd, bkd v skn, so soľou z databázy USDA."
+    "description": "Sladké zemiaky, varené, bkd v koža, so soľou."
   },
   "sweet_potato_ckd_bld_wo_skn_w_salt": {
-    "name": "Sladké zemiaky, ckd, bld, wo/ skn, so soľou",
+    "name": "Sladké zemiaky, varené, bez šupky, so soľou",
     "alternative_names": [],
-    "description": "Sladké zemiaky, ckd, bld, wo/ skn, so soľou z databázy USDA."
+    "description": "Sladké zemiaky, varené, bez šupky, so soľou."
   },
   "tomatoes_red_ripe_ckd_w_salt": {
-    "name": "Paradajky, červené, zrelé, CKD, so soľou",
+    "name": "Paradajky, červené, zrelé, varené, so soľou",
     "alternative_names": [],
-    "description": "Paradajky, červené, zrelé, CKD, so soľou z databázy USDA."
+    "description": "Paradajky, červené, zrelé, varené, so soľou."
   },
   "tomatoes_red_ripe_cnd_packed_in_tomato_juc_no": {
-    "name": "Paradajky, červené, zrelé, cnd, balené v paradajkovej šťave, bez pridania soli",
+    "name": "Paradajky, červené, zrelé, konzervované, balené v paradajkovej šťave, bez pridania soli",
     "alternative_names": [],
-    "description": "Paradajky, červené, zrelé, cnd, balené v paradajkovej šťave, bez pridania soli z databázy USDA."
+    "description": "Paradajky, červené, zrelé, konzervované, balené v paradajkovej šťave, bez pridania soli."
   },
   "tomato_juc_cnd_wosalt": {
-    "name": "Paradajkový džús, cnd, wo/soľ",
+    "name": "Paradajkový džús, konzervované, bezsoľ",
     "alternative_names": [],
-    "description": "Paradajkový džús, cnd, wo/soľ z databázy USDA."
+    "description": "Paradajkový džús, konzervované, bezsoľ."
   },
   "tomato_products_cnd_paste_wsalt": {
-    "name": "Paradajkové výrobky, cnd, pasta, so soľou",
+    "name": "Paradajkové výrobky, konzervované, pasta, so soľou",
     "alternative_names": [],
-    "description": "Paradajkové výrobky, cnd, pasta, so soľou z databázy USDA."
+    "description": "Paradajkové výrobky, konzervované, pasta, so soľou."
   },
   "tomato_products_cnd_puree_wsalt": {
-    "name": "Paradajkové výrobky, cnd, pretlak, so soľou",
+    "name": "Paradajkové výrobky, konzervované, pretlak, so soľou",
     "alternative_names": [],
-    "description": "Paradajkové výrobky, cnd, pretlak, so soľou z databázy USDA."
+    "description": "Paradajkové výrobky, konzervované, pretlak, so soľou."
   },
   "turnips_ckd_bld_drnd_wsalt": {
-    "name": "Vodnica, ckd, bld, drnd, so soľou",
+    "name": "Vodnica, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Vodnica, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Vodnica, varené, scedené, so soľou."
   },
   "turnips_frz_ckd_bld_drnd_wsalt": {
-    "name": "repa, frz, ckd, bld, drnd, so soľou",
+    "name": "repa, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "repa, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "repa, mrazené, varené, scedené, so soľou."
   },
   "turnip_grns_ckd_bld_drnd_wsalt": {
-    "name": "Repík grns, ckd, bld, drnd, so soľou",
+    "name": "Repík grns, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Repík grns, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Repík grns, varené, scedené, so soľou."
   },
   "turnip_grns_frz_ckd_bld_drnd_wsalt": {
-    "name": "Repík grns, frz, ckd, bld, drnd, so soľou",
+    "name": "Repík grns, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Repík grns, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Repík grns, mrazené, varené, scedené, so soľou."
   },
   "turnip_grnsturnips_frz_ckd_bld_drnd_wsalt": {
-    "name": "Repík grns&turnips, frz, ckd, bld, drnd, so soľou",
+    "name": "Repík grns&turnips, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Repík grns&turnips, frz, ckd, bld, drnd, so soľou z databázy USDA."
+    "description": "Repík grns&turnips, mrazené, varené, scedené, so soľou."
   },
   "yam_ckd_bld_drnd_or_bkd_wsalt": {
-    "name": "Yam, ckd, bld, drnd alebo bkd, so soľou",
+    "name": "Yam, varené, scedené alebo bkd, so soľou",
     "alternative_names": [],
-    "description": "Yam, ckd, bld, drnd alebo bkd, so soľou z databázy USDA."
+    "description": "Yam, varené, scedené alebo bkd, so soľou."
   },
   "pickles_cucumber_dill_or_kosher_dill": {
     "name": "Kyslá uhorka, kôpor alebo kóšer kôpor",
     "alternative_names": [],
-    "description": "Kyslá uhorka, kôpor alebo kóšer kôpor z databázy USDA."
+    "description": "Kyslá uhorka, kôpor alebo kóšer kôpor."
   },
   "pickles_cucumber_sour": {
     "name": "Kyslá uhorka, kyslá",
     "alternative_names": [],
-    "description": "Kyslá uhorka, kyslá z databázy USDA."
+    "description": "Kyslá uhorka, kyslá."
   },
   "pickles_cucumber_sour_lo_na": {
     "name": "Kyslé uhorky, kyslé, lo na",
     "alternative_names": [],
-    "description": "Kyslé uhorky, kyslé, lo na z databázy USDA."
+    "description": "Kyslé uhorky, kyslé, lo na."
   },
   "pickles_cucumber_dill_lo_na": {
     "name": "Uhorky, uhorka, kôpor, lo na",
     "alternative_names": [],
-    "description": "Uhorky, uhorka, kôpor, lo na z databázy USDA."
+    "description": "Uhorky, uhorka, kôpor, lo na."
   },
   "tomatoes_sun_dried": {
     "name": "Paradajky, sušené na slnku",
     "alternative_names": [],
-    "description": "Paradajky, sušené na slnku z databázy USDA."
+    "description": "Paradajky, sušené na slnku."
   },
   "carrots_baby_raw": {
     "name": "Mrkva, detská, surová",
     "alternative_names": [],
-    "description": "Mrkva, detská, surová z databázy USDA."
+    "description": "Mrkva, detská, surová."
   },
   "broccoli_chinese_cooked": {
     "name": "Brokolica, čínska, varená",
     "alternative_names": [],
-    "description": "Brokolica, čínska, varená z databázy USDA."
+    "description": "Brokolica, čínska, varená."
   },
   "pickles_chowchow_wcauliflower_onion_mustard_s": {
     "name": "Nakladané uhorky, čau-čau, s karfiolovou cibuľovou horčicou, swt",
     "alternative_names": [],
-    "description": "Nakladané uhorky, čau-čau, s karfiolovou cibuľovou horčicou, swt z databázy USDA."
+    "description": "Nakladané uhorky, čau-čau, s karfiolovou cibuľovou horčicou, swt."
   },
   "pumpkinsquash_sd_krnls_dried": {
     "name": "Tekvica&squash sd krnls, sušená",
     "alternative_names": [],
-    "description": "Tekvica&squash sd krnls, sušená z databázy USDA."
+    "description": "Tekvica&squash sd krnls, sušená."
   },
   "pumpkinsquash_sd_krnls_rstd_wosalt": {
-    "name": "Tekvica&squash sd krnls, rstd, w/soľ",
+    "name": "Tekvica&squash sd krnls, pečené, ssoľ",
     "alternative_names": [],
-    "description": "Tekvica&squash sd krnls, rstd, w/soľ z databázy USDA."
+    "description": "Tekvica&squash sd krnls, pečené, ssoľ."
   },
   "pumpkinsquash_sd_krnls_rstd_wsalt": {
-    "name": "Tekvica&squash sd krnls, rstd, so soľou",
+    "name": "Tekvica&squash sd krnls, pečené, so soľou",
     "alternative_names": [],
-    "description": "Tekvica&squash sd krnls, rstd, so soľou z databázy USDA."
+    "description": "Tekvica&squash sd krnls, pečené, so soľou."
   },
   "sardine_pacific_cnd_in_tomato_sau_drnd_sol_wb": {
-    "name": "Sardinka, pacific, cnd v paradajkovom sau, drnd sol s kosťou",
+    "name": "Sardinka, pacific, konzervované v paradajkovej omáčke, scedené pevný podiel s kosťou",
     "alternative_names": [],
-    "description": "Sardinka, pacific, cnd v paradajkovom sau, drnd sol s kosťou z databázy USDA."
+    "description": "Sardinka, pacific, konzervované v paradajkovej omáčke, scedené pevný podiel s kosťou."
   },
   "peas_split_mature_seeds_raw": {
     "name": "Hrach, štiepaný, zrelé semená, surový",
     "alternative_names": [],
-    "description": "Hrach, štiepaný, zrelé semená, surový z databázy USDA."
+    "description": "Hrach, štiepaný, zrelé semená, surový."
   },
   "peas_split_mature_seeds_ckd_bld_wosalt": {
-    "name": "Hrach, štiepaný, zrelé semená, ckd, bld, wo/soľ",
+    "name": "Hrach, štiepaný, zrelé semená, varené, bezsoľ",
     "alternative_names": [],
-    "description": "Hrach, štiepaný, zrelé semená, ckd, bld, wo/soľ z databázy USDA."
+    "description": "Hrach, štiepaný, zrelé semená, varené, bezsoľ."
   },
   "peas_split_mature_seeds_ckd_bld_wsalt": {
-    "name": "Hrach, štiepaný, zrelé semená, ckd, bld, so soľou",
+    "name": "Hrach, štiepaný, zrelé semená, varené, so soľou",
     "alternative_names": [],
-    "description": "Hrach, štiepaný, zrelé semená, ckd, bld, so soľou z databázy USDA."
+    "description": "Hrach, štiepaný, zrelé semená, varené, so soľou."
   },
   "fast_foods_potatoes_hashed_brown": {
     "name": "Rýchle občerstvenie, zemiaky, hnedá",
     "alternative_names": [],
-    "description": "Rýchle občerstvenie, zemiaky, hnedá z databázy USDA."
+    "description": "Rýchle občerstvenie, zemiaky, hnedá."
   },
   "fast_foods_taco_w_bf_chs_lettuce_hard_shell": {
     "name": "Rýchle občerstvenie, taco s bf, chs & šalát, tvrdá škrupina",
     "alternative_names": [],
-    "description": "Rýchle občerstvenie, taco s bf, chs & šalát, tvrdá škrupina z databázy USDA."
+    "description": "Rýchle občerstvenie, taco s bf, chs & šalát, tvrdá škrupina."
   },
   "fast_foods_potato_mashed": {
     "name": "Rýchle občerstvenie, zemiaková kaša",
     "alternative_names": [],
-    "description": "Rýchle občerstvenie, zemiaková kaša z databázy USDA."
+    "description": "Rýchle občerstvenie, zemiaková kaša."
   },
   "fast_foods_crispy_chick_filet_sndwch_w_lettuc": {
     "name": "Rýchle občerstvenie, chrumkavé kuracie filety sndwch, so šalátom a majonézou",
     "alternative_names": [],
-    "description": "Rýchle občerstvenie, chrumkavé kuracie filety sndwch, so šalátom a majonézou z databázy USDA."
+    "description": "Rýchle občerstvenie, chrumkavé kuracie filety sndwch, so šalátom a majonézou."
   },
   "taco_bell_original_taco_w_bf_chs_lettuce": {
-    "name": "Taco bell, originálne taco w/ bf, chs & šalát",
+    "name": "Taco bell, originálne taco s/ bf, chs & šalát",
     "alternative_names": [],
-    "description": "Taco bell, originálne taco w/ bf, chs & šalát z databázy USDA."
+    "description": "Taco bell, originálne taco s/ bf, chs & šalát."
   },
   "taco_bell_soft_taco_w_bf_chs_lettuce": {
     "name": "Taco bell, mäkké taco s bf, chs a šalátom",
     "alternative_names": [],
-    "description": "Taco bell, mäkké taco s bf, chs a šalátom z databázy USDA."
+    "description": "Taco bell, mäkké taco s bf, chs a šalátom."
   },
   "taco_bell_soft_taco_w_chick_chs_lettuce": {
     "name": "Taco bell, mäkké taco s kuracím mäsom, chs a šalátom",
     "alternative_names": [],
-    "description": "Taco bell, mäkké taco s kuracím mäsom, chs a šalátom z databázy USDA."
+    "description": "Taco bell, mäkké taco s kuracím mäsom, chs a šalátom."
   },
   "kentucky_fried_chick_potato_wedges_analyzed_p": {
     "name": "Vyprážané kurča z Kentucky, zemiakové plátky, analyzované pred rokom 2007",
     "alternative_names": [],
-    "description": "Vyprážané kurča z Kentucky, zemiakové plátky, analyzované pred rokom 2007 z databázy USDA."
+    "description": "Vyprážané kurča z Kentucky, zemiakové plátky, analyzované pred rokom 2007."
   },
   "fast_foods_taco_w_bf_chs_lettuce_soft": {
     "name": "Rýchle občerstvenie, taco s bf, chs a šalát, mäkké",
     "alternative_names": [],
-    "description": "Rýchle občerstvenie, taco s bf, chs a šalát, mäkké z databázy USDA."
+    "description": "Rýchle občerstvenie, taco s bf, chs a šalát, mäkké."
   },
   "fast_foods_taco_w_chick_lettuce_chs_soft": {
     "name": "Rýchle občerstvenie, taco s kuracím mäsom, šalátom a chs, mäkké",
     "alternative_names": [],
-    "description": "Rýchle občerstvenie, taco s kuracím mäsom, šalátom a chs, mäkké z databázy USDA."
+    "description": "Rýchle občerstvenie, taco s kuracím mäsom, šalátom a chs, mäkké."
   },
   "fast_fds_grilled_chick_filet_sndwch_w_lettuce": {
     "name": "Rýchle fds, grilovaný kurací filet sndwch, so šalátom, paradajkami a sprd",
     "alternative_names": [],
-    "description": "Rýchle fds, grilovaný kurací filet sndwch, so šalátom, paradajkami a sprd z databázy USDA."
+    "description": "Rýchle fds, grilovaný kurací filet sndwch, so šalátom, paradajkami a sprd."
   },
   "ravioli_meat_filled_w_tomato_sau_or_meat_sau": {
-    "name": "Ravioli, plnené mäsom, s paradajkovou omáčkou alebo mäsovou omáčkou, cnd",
+    "name": "Ravioli, plnené mäsom, s paradajkovou omáčkou alebo mäsovou omáčkou, konzervované",
     "alternative_names": [],
-    "description": "Ravioli, plnené mäsom, s paradajkovou omáčkou alebo mäsovou omáčkou, cnd z databázy USDA."
+    "description": "Ravioli, plnené mäsom, s paradajkovou omáčkou alebo mäsovou omáčkou, konzervované."
   },
   "ravioli_chs_w_tomato_sau_frz_not_prep_incl_re": {
-    "name": "Ravioli, chs s paradajkovou omáčkou, frz, bez prípravy, vrátane reg & lt predkrmov",
+    "name": "Ravioli, chs s paradajkovou omáčkou, mrazené, bez prípravy, vrátane reg & lt predkrmov",
     "alternative_names": [],
-    "description": "Ravioli, chs s paradajkovou omáčkou, frz, bez prípravy, vrátane reg & lt predkrmov z databázy USDA."
+    "description": "Ravioli, chs s paradajkovou omáčkou, mrazené, bez prípravy, vrátane reg & lt predkrmov."
   },
   "corned_bf_potatoes_in_tortilla": {
     "name": "Kukurica a zemiaky v tortille (apache)",
     "alternative_names": [],
-    "description": "Kukurica a zemiaky v tortille (apache) z databázy USDA."
+    "description": "Kukurica a zemiaky v tortille (apache)."
   },
   "radishes_hawaiian_style_pickled": {
     "name": "Reďkovky, na havajský spôsob, nakladané",
     "alternative_names": [],
-    "description": "Reďkovky, na havajský spôsob, nakladané z databázy USDA."
+    "description": "Reďkovky, na havajský spôsob, nakladané."
   },
   "cabbage_japanese_style_frsh_pickled": {
     "name": "Kapusta, na japonský spôsob, čerstvá, nakladaná",
     "alternative_names": [],
-    "description": "Kapusta, na japonský spôsob, čerstvá, nakladaná z databázy USDA."
+    "description": "Kapusta, na japonský spôsob, čerstvá, nakladaná."
   },
   "cabbage_mustard_salted": {
     "name": "Kapusta, horčica, solená",
     "alternative_names": [],
-    "description": "Kapusta, horčica, solená z databázy USDA."
+    "description": "Kapusta, horčica, solená."
   },
   "tomato_sau_cnd_no_salt_added": {
-    "name": "Paradajková omáčka, cnd, bez pridania soli",
+    "name": "Paradajková omáčka, konzervované, bez pridania soli",
     "alternative_names": [],
-    "description": "Paradajková omáčka, cnd, bez pridania soli z databázy USDA."
+    "description": "Paradajková omáčka, konzervované, bez pridania soli."
   },
   "potatoes_cnd_drnd_sol_no_salt": {
-    "name": "Zemiaky, cnd, drnd sol, bez soli",
+    "name": "Zemiaky, konzervované, scedené pevný podiel, bez soli",
     "alternative_names": [],
-    "description": "Zemiaky, cnd, drnd sol, bez soli z databázy USDA."
+    "description": "Zemiaky, konzervované, scedené pevný podiel, bez soli."
   },
   "tomatoveg_juc_lo_na": {
-    "name": "Tomato&veg juc, lo na",
+    "name": "Tomato&zelenina juc, lo na",
     "alternative_names": [],
-    "description": "Tomato&veg juc, lo na z databázy USDA."
+    "description": "Tomato&zelenina juc, lo na."
   },
   "turnip_grns_cnd_no_salt": {
-    "name": "Repík grns, cnd, bez soli",
+    "name": "Repík grns, konzervované, bez soli",
     "alternative_names": [],
-    "description": "Repík grns, cnd, bez soli z databázy USDA."
+    "description": "Repík grns, konzervované, bez soli."
   },
   "celery_flakes_dried": {
     "name": "Zelerové vločky, sušené",
     "alternative_names": [],
-    "description": "Zelerové vločky, sušené z databázy USDA."
+    "description": "Zelerové vločky, sušené."
   },
   "swiss_chard_raw": {
     "name": "Mangold, surový",

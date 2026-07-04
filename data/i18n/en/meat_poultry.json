@@ -2,7 +2,7 @@
   "bacon_and_beef_sticks": {
     "name": "Bacon and beef sticks",
     "alternative_names": [],
-    "description": "Bacon and beef sticks as defined by the USDA database."
+    "description": "Bacon and beef sticks."
   },
   "beef_liver_cooked": {
     "name": "Beef liver, cooked",
@@ -15,22 +15,22 @@
   "beerwurst_beer_salami_pork_and_beef": {
     "name": "Beerwurst, beer salami, pork and beef",
     "alternative_names": [],
-    "description": "Beerwurst, beer salami, pork and beef as defined by the USDA database."
+    "description": "Beerwurst, beer salami, pork and beef."
   },
   "beerwurst_pork_and_beef": {
     "name": "Beerwurst, pork and beef",
     "alternative_names": [],
-    "description": "Beerwurst, pork and beef as defined by the USDA database."
+    "description": "Beerwurst, pork and beef."
   },
   "bologna_meat_and_poultry": {
     "name": "Bologna, meat and poultry",
     "alternative_names": [],
-    "description": "Bologna, meat and poultry as defined by the USDA database."
+    "description": "Bologna, meat and poultry."
   },
   "braunschweiger_pork": {
     "name": "Braunschweiger (a liver sausage), pork",
     "alternative_names": [],
-    "description": "Braunschweiger (a liver sausage), pork as defined by the USDA database."
+    "description": "Braunschweiger (a liver sausage), pork."
   },
   "chicken_breast_cooked": {
     "name": "Chicken breast, cooked",
@@ -43,1361 +43,1361 @@
   "chicken_broilers_or_fryers_back_meat_and": {
     "name": "Chicken, broilers or fryers, back, meat and skin, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat and skin, raw as defined by the USDA database."
+    "description": "Chicken, broilers or fryers, back, meat and skin, raw."
   },
   "chicken_broilers_or_fryers_back_meat_onl": {
     "name": "Chicken, broilers or fryers, back, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat only, raw as defined by the USDA database."
+    "description": "Chicken, broilers or fryers, back, meat only, raw."
   },
   "chicken_broilers_or_fryers_drumstick_mea": {
     "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed as defined by the USDA database."
+    "description": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed."
   },
   "chicken_broilers_or_fryers_leg_meat_and": {
     "name": "Chicken, broilers or fryers, leg, meat and skin, cooked,",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, leg, meat and skin, cooked, as defined by the USDA database."
+    "description": "Chicken, broilers or fryers, leg, meat and skin, cooked,."
   },
   "chicken_broilers_or_fryers_light_meat_me": {
     "name": "Chicken, broilers or fryers, light meat, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, light meat, meat only, raw as defined by the USDA database."
+    "description": "Chicken, broilers or fryers, light meat, meat only, raw."
   },
   "chicken_broilers_or_fryers_meat_and_skin": {
     "name": "Chicken, broilers or fryers, meat and skin, cooked, fried,",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat and skin, cooked, fried, as defined by the USDA database."
+    "description": "Chicken, broilers or fryers, meat and skin, cooked, fried,."
   },
   "chicken_skin_raw": {
     "name": "Chicken, skin (drumsticks and thighs), raw",
     "alternative_names": [],
-    "description": "Chicken, skin (drumsticks and thighs), raw as defined by the USDA database."
+    "description": "Chicken, skin (drumsticks and thighs), raw."
   },
   "chicken_stewing_meat_and_skin_and_giblet": {
     "name": "Chicken, stewing, meat and skin, and giblets and neck, cooked, stewed",
     "alternative_names": [],
-    "description": "Chicken, stewing, meat and skin, and giblets and neck, cooked, stewed as defined by the USDA database."
+    "description": "Chicken, stewing, meat and skin, and giblets and neck, cooked, stewed."
   },
   "fish_cod_atlantic_canned_solids_and_liqu": {
     "name": "Fish, cod, Atlantic, canned, solids and liquid",
     "alternative_names": [],
-    "description": "Fish, cod, Atlantic, canned, solids and liquid as defined by the USDA database."
+    "description": "Fish, cod, Atlantic, canned, solids and liquid."
   },
   "fish_flatfish_cooked_dry_heat": {
     "name": "Fish, flatfish (flounder and sole species), cooked, dry heat",
     "alternative_names": [],
-    "description": "Fish, flatfish (flounder and sole species), cooked, dry heat as defined by the USDA database."
+    "description": "Fish, flatfish (flounder and sole species), cooked, dry heat."
   },
   "fish_haddock_raw": {
     "name": "Fish, haddock, raw",
     "alternative_names": [],
-    "description": "Fish, haddock, raw as defined by the USDA database."
+    "description": "Fish, haddock, raw."
   },
   "fish_herring_atlantic_pickled": {
     "name": "Fish, herring, Atlantic, pickled",
     "alternative_names": [],
-    "description": "Fish, herring, Atlantic, pickled as defined by the USDA database."
+    "description": "Fish, herring, Atlantic, pickled."
   },
   "fish_mackerel_spanish_raw": {
     "name": "Fish, mackerel, spanish, raw",
     "alternative_names": [],
-    "description": "Fish, mackerel, spanish, raw as defined by the USDA database."
+    "description": "Fish, mackerel, spanish, raw."
   },
   "fish_ocean_perch_atlantic_cooked_dry_hea": {
     "name": "Fish, ocean perch, Atlantic, cooked, dry heat",
     "alternative_names": [],
-    "description": "Fish, ocean perch, Atlantic, cooked, dry heat as defined by the USDA database."
+    "description": "Fish, ocean perch, Atlantic, cooked, dry heat."
   },
   "fish_salmon_pink_canned_drained_solids": {
     "name": "Fish, salmon, pink, canned, drained solids",
     "alternative_names": [],
-    "description": "Fish, salmon, pink, canned, drained solids as defined by the USDA database."
+    "description": "Fish, salmon, pink, canned, drained solids."
   },
   "fish_swordfish_cooked_dry_heat": {
     "name": "Fish, swordfish, cooked, dry heat",
     "alternative_names": [],
-    "description": "Fish, swordfish, cooked, dry heat as defined by the USDA database."
+    "description": "Fish, swordfish, cooked, dry heat."
   },
   "fish_tilapia_raw": {
     "name": "Fish, tilapia, raw",
     "alternative_names": [],
-    "description": "Fish, tilapia, raw as defined by the USDA database."
+    "description": "Fish, tilapia, raw."
   },
   "fish_trout_rainbow_farmed_cooked_dry_hea": {
     "name": "Fish, trout, rainbow, farmed, cooked, dry heat",
     "alternative_names": [],
-    "description": "Fish, trout, rainbow, farmed, cooked, dry heat as defined by the USDA database."
+    "description": "Fish, trout, rainbow, farmed, cooked, dry heat."
   },
   "mollusks_mussel_blue_raw": {
     "name": "Mollusks, mussel, blue, raw",
     "alternative_names": [],
-    "description": "Mollusks, mussel, blue, raw as defined by the USDA database."
+    "description": "Mollusks, mussel, blue, raw."
   },
   "mollusks_octopus_common_raw": {
     "name": "Mollusks, octopus, common, raw",
     "alternative_names": [],
-    "description": "Mollusks, octopus, common, raw as defined by the USDA database."
+    "description": "Mollusks, octopus, common, raw."
   },
   "mollusks_oyster_eastern_wild_cooked_dry": {
     "name": "Mollusks, oyster, eastern, wild, cooked, dry heat",
     "alternative_names": [],
-    "description": "Mollusks, oyster, eastern, wild, cooked, dry heat as defined by the USDA database."
+    "description": "Mollusks, oyster, eastern, wild, cooked, dry heat."
   },
   "mollusks_oyster_eastern_wild_cooked_mois": {
     "name": "Mollusks, oyster, eastern, wild, cooked, moist heat",
     "alternative_names": [],
-    "description": "Mollusks, oyster, eastern, wild, cooked, moist heat as defined by the USDA database."
+    "description": "Mollusks, oyster, eastern, wild, cooked, moist heat."
   },
   "sausage_pork_and_turkey_pre_cooked": {
     "name": "Sausage, pork and turkey, pre-cooked",
     "alternative_names": [],
-    "description": "Sausage, pork and turkey, pre-cooked as defined by the USDA database."
+    "description": "Sausage, pork and turkey, pre-cooked."
   },
   "sausage_turkey_hot_smoked": {
     "name": "Sausage, turkey, hot, smoked",
     "alternative_names": [],
-    "description": "Sausage, turkey, hot, smoked as defined by the USDA database."
+    "description": "Sausage, turkey, hot, smoked."
   },
   "turkey_all_classes_back_meat_and_skin_co": {
     "name": "Turkey, all classes, back, meat and skin, cooked, roasted",
     "alternative_names": [],
-    "description": "Turkey, all classes, back, meat and skin, cooked, roasted as defined by the USDA database."
+    "description": "Turkey, all classes, back, meat and skin, cooked, roasted."
   },
   "chicken_broilers_or_fryers_meatskngibletsneck": {
-    "name": "Chicken, broilers or fryers, meat&skn&giblets&neck, rstd",
+    "name": "Chicken, broilers or fryers, meat&skin&giblets&neck, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat&skn&giblets&neck, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, meat&skin&giblets&neck, rstd."
   },
   "chicken_broilers_or_fryers_meat_skn_raw": {
-    "name": "Chicken, broilers or fryers, meat & skn, raw",
+    "name": "Chicken, broilers or fryers, meat & skin, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat & skn, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, meat & skin, raw."
   },
   "chicken_broilers_or_fryers_meatskn_ckd_fried": {
-    "name": "Chicken, broilers or fryers, meat&skn, ckd, fried, batter",
+    "name": "Chicken, broilers or fryers, meat&skin, cooked, fried, batter",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat&skn, ckd, fried, batter from the USDA database."
+    "description": "Chicken, broilers or fryers, meat&skin, cooked, fried, batter."
   },
   "chicken_broilers_or_fryers_meatskn_ckd_rstd": {
-    "name": "Chicken, broilers or fryers, meat&skn, ckd, rstd",
+    "name": "Chicken, broilers or fryers, meat&skin, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat&skn, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, meat&skin, cooked, rstd."
   },
   "chicken_broilers_or_fryers_meatskn_ckd_stwd": {
-    "name": "Chicken, broilers or fryers, meat&skn, ckd, stwd",
+    "name": "Chicken, broilers or fryers, meat&skin, cooked, stwd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat&skn, ckd, stwd from the USDA database."
+    "description": "Chicken, broilers or fryers, meat&skin, cooked, stwd."
   },
   "chicken_broilers_or_fryers_meat_only_raw": {
     "name": "Chicken, broilers or fryers, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat only, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, meat only, raw."
   },
   "chicken_broilers_or_fryers_meat_only_ckd_frie": {
-    "name": "Chicken, broilers or fryers, meat only, ckd, fried",
+    "name": "Chicken, broilers or fryers, meat only, cooked, fried",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat only, ckd, fried from the USDA database."
+    "description": "Chicken, broilers or fryers, meat only, cooked, fried."
   },
   "chicken_broilers_or_fryers_meat_only_rstd": {
     "name": "Chicken, broilers or fryers, meat only, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat only, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, meat only, rstd."
   },
   "chicken_broilers_or_fryers_meat_only_stwd": {
     "name": "Chicken, broilers or fryers, meat only, stwd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat only, stwd from the USDA database."
+    "description": "Chicken, broilers or fryers, meat only, stwd."
   },
   "chicken_broilers_or_fryers_skn_only_raw": {
-    "name": "Chicken, broilers or fryers, skn only, raw",
+    "name": "Chicken, broilers or fryers, skin only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, skn only, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, skin only, raw."
   },
   "chicken_broilers_or_fryers_skn_only_ckd_rstd": {
-    "name": "Chicken, broilers or fryers, skn only, ckd, rstd",
+    "name": "Chicken, broilers or fryers, skin only, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, skn only, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, skin only, cooked, rstd."
   },
   "chicken_broilers_or_fryers_lt_meat_meat_skn_r": {
-    "name": "Chicken, broilers or fryers, lt meat, meat & skn, raw",
+    "name": "Chicken, broilers or fryers, lt meat, meat & skin, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, lt meat, meat & skn, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, lt meat, meat & skin, raw."
   },
   "chicken_broilers_or_fryers_lt_meat_meatskn_ck": {
-    "name": "Chicken, broilers or fryers, lt meat, meat&skn, ckd, fried, flr",
+    "name": "Chicken, broilers or fryers, lt meat, meat&skin, cooked, fried, flr",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, lt meat, meat&skn, ckd, fried, flr from the USDA database."
+    "description": "Chicken, broilers or fryers, lt meat, meat&skin, cooked, fried, flr."
   },
   "chicken_broilers_or_fryers_dk_meat_meat_skn_r": {
-    "name": "Chicken, broilers or fryers, dk meat, meat & skn, raw",
+    "name": "Chicken, broilers or fryers, dark meat, meat & skin, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, dk meat, meat & skn, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, dark meat, meat & skin, raw."
   },
   "chicken_broilers_or_fryers_dk_meat_meatskn_ck": {
-    "name": "Chicken, broilers or fryers, dk meat, meat&skn, ckd, fried, flr",
+    "name": "Chicken, broilers or fryers, dark meat, meat&skin, cooked, fried, flr",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, dk meat, meat&skn, ckd, fried, flr from the USDA database."
+    "description": "Chicken, broilers or fryers, dark meat, meat&skin, cooked, fried, flr."
   },
   "chicken_broilers_or_fryers_lt_meat_meat_only": {
     "name": "Chicken, broilers or fryers, lt meat, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, lt meat, meat only, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, lt meat, meat only, raw."
   },
   "chicken_broilers_or_fryers_dk_meat_meat_only": {
-    "name": "Chicken, broilers or fryers, dk meat, meat only, raw",
+    "name": "Chicken, broilers or fryers, dark meat, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, dk meat, meat only, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, dark meat, meat only, raw."
   },
   "chicken_broilers_or_fryers_back_meatskn_raw": {
-    "name": "Chicken, broilers or fryers, back, meat&skn, raw",
+    "name": "Chicken, broilers or fryers, back, meat&skin, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat&skn, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, back, meat&skin, raw."
   },
   "chicken_broilers_or_fryers_back_meatskn_ckd_r": {
-    "name": "Chicken, broilers or fryers, back, meat&skn, ckd, rstd",
+    "name": "Chicken, broilers or fryers, back, meat&skin, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat&skn, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, back, meat&skin, cooked, rstd."
   },
   "chicken_broilers_or_fryers_back_meatskn_ckd_s": {
-    "name": "Chicken, broilers or fryers, back, meat&skn, ckd, stwd",
+    "name": "Chicken, broilers or fryers, back, meat&skin, cooked, stwd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat&skn, ckd, stwd from the USDA database."
+    "description": "Chicken, broilers or fryers, back, meat&skin, cooked, stwd."
   },
   "chicken_broilers_or_fryers_back_meat_only_raw": {
     "name": "Chicken, broilers or fryers, back, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat only, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, back, meat only, raw."
   },
   "chicken_broilers_or_fryers_back_meat_only_ckd": {
-    "name": "Chicken, broilers or fryers, back, meat only, ckd, rstd",
+    "name": "Chicken, broilers or fryers, back, meat only, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat only, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, back, meat only, cooked, rstd."
   },
   "chicken_broilers_or_fryers_breast_meatskn_ckd": {
-    "name": "Chicken, broilers or fryers, breast, meat&skn, ckd, fried, batter",
+    "name": "Chicken, broilers or fryers, breast, meat&skin, cooked, fried, batter",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, breast, meat&skn, ckd, fried, batter from the USDA database."
+    "description": "Chicken, broilers or fryers, breast, meat&skin, cooked, fried, batter."
   },
   "chicken_broilers_or_fryers_breast_meat_only_r": {
     "name": "Chicken, broilers or fryers, breast, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, breast, meat only, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, breast, meat only, raw."
   },
   "chicken_broilers_or_fryers_breast_meat_only_c": {
-    "name": "Chicken, broilers or fryers, breast, meat only, ckd, fried",
+    "name": "Chicken, broilers or fryers, breast, meat only, cooked, fried",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, breast, meat only, ckd, fried from the USDA database."
+    "description": "Chicken, broilers or fryers, breast, meat only, cooked, fried."
   },
   "chicken_broilers_or_fryers_drumstk_meatskn_ra": {
-    "name": "Chicken, broilers or fryers, drumstk, meat&skn, raw",
+    "name": "Chicken, broilers or fryers, drumstk, meat&skin, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, drumstk, meat&skn, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, drumstk, meat&skin, raw."
   },
   "chicken_broilers_or_fryers_drumstk_meatskn_ck": {
-    "name": "Chicken, broilers or fryers, drumstk, meat&skn, ckd, rstd",
+    "name": "Chicken, broilers or fryers, drumstk, meat&skin, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, drumstk, meat&skn, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, drumstk, meat&skin, cooked, rstd."
   },
   "chicken_broilers_or_fryers_dk_meat_drumstk_me": {
-    "name": "Chicken, broilers or fryers, dk meat, drumstk, meat only, raw",
+    "name": "Chicken, broilers or fryers, dark meat, drumstk, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, dk meat, drumstk, meat only, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, dark meat, drumstk, meat only, raw."
   },
   "chicken_broilers_or_fryers_drumstk_meat_only": {
-    "name": "Chicken, broilers or fryers, drumstk, meat only, ckd, stwd",
+    "name": "Chicken, broilers or fryers, drumstk, meat only, cooked, stwd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, drumstk, meat only, ckd, stwd from the USDA database."
+    "description": "Chicken, broilers or fryers, drumstk, meat only, cooked, stwd."
   },
   "chicken_broilers_or_fryers_leg_meatskn_raw": {
-    "name": "Chicken, broilers or fryers, leg, meat&skn, raw",
+    "name": "Chicken, broilers or fryers, leg, meat&skin, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, leg, meat&skn, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, leg, meat&skin, raw."
   },
   "chicken_broilers_or_fryers_leg_meatskn_ckd_rs": {
-    "name": "Chicken, broilers or fryers, leg, meat&skn, ckd, rstd",
+    "name": "Chicken, broilers or fryers, leg, meat&skin, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, leg, meat&skn, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, leg, meat&skin, cooked, rstd."
   },
   "chicken_broilers_or_fryers_leg_meatskn_ckd_st": {
-    "name": "Chicken, broilers or fryers, leg, meat&skn, ckd, stwd",
+    "name": "Chicken, broilers or fryers, leg, meat&skin, cooked, stwd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, leg, meat&skn, ckd, stwd from the USDA database."
+    "description": "Chicken, broilers or fryers, leg, meat&skin, cooked, stwd."
   },
   "chicken_broilers_or_fryers_leg_meat_only_raw": {
     "name": "Chicken, broilers or fryers, leg, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, leg, meat only, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, leg, meat only, raw."
   },
   "chicken_broilers_or_fryers_leg_meat_only_ckd": {
-    "name": "Chicken, broilers or fryers, leg, meat only, ckd, rstd",
+    "name": "Chicken, broilers or fryers, leg, meat only, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, leg, meat only, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, leg, meat only, cooked, rstd."
   },
   "chicken_broilers_or_fryers_neck_meatskn_ckd_s": {
-    "name": "Chicken, broilers or fryers, neck, meat&skn, ckd simmrd",
+    "name": "Chicken, broilers or fryers, neck, meat&skin, cooked simmrd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, neck, meat&skn, ckd simmrd from the USDA database."
+    "description": "Chicken, broilers or fryers, neck, meat&skin, cooked simmrd."
   },
   "chicken_broilers_or_fryers_thigh_meatskn_raw": {
-    "name": "Chicken, broilers or fryers, thigh, meat&skn, raw",
+    "name": "Chicken, broilers or fryers, thigh, meat&skin, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, thigh, meat&skn, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, thigh, meat&skin, raw."
   },
   "chicken_broilers_or_fryers_thigh_meatskn_ckd": {
-    "name": "Chicken, broilers or fryers, thigh, meat&skn, ckd, rstd",
+    "name": "Chicken, broilers or fryers, thigh, meat&skin, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, thigh, meat&skn, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, thigh, meat&skin, cooked, rstd."
   },
   "chicken_broilers_or_fryers_dk_meat_thigh_meat": {
-    "name": "Chicken, broilers or fryers, dk meat, thigh, meat only, raw",
+    "name": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, dk meat, thigh, meat only, raw from the USDA database."
+    "description": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw."
   },
   "chicken_broilers_or_fryers_thigh_meat_only_ck": {
-    "name": "Chicken, broilers or fryers, thigh, meat only, ckd, rstd",
+    "name": "Chicken, broilers or fryers, thigh, meat only, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, thigh, meat only, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, thigh, meat only, cooked, rstd."
   },
   "chicken_broilers_or_fryers_wing_meatskn_ckd_r": {
-    "name": "Chicken, broilers or fryers, wing, meat&skn, ckd, rstd",
+    "name": "Chicken, broilers or fryers, wing, meat&skin, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, wing, meat&skn, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, wing, meat&skin, cooked, rstd."
   },
   "chicken_broilers_or_fryers_wing_meatskn_ckd_s": {
-    "name": "Chicken, broilers or fryers, wing, meat&skn, ckd, stwd",
+    "name": "Chicken, broilers or fryers, wing, meat&skin, cooked, stwd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, wing, meat&skn, ckd, stwd from the USDA database."
+    "description": "Chicken, broilers or fryers, wing, meat&skin, cooked, stwd."
   },
   "chicken_broilers_or_fryers_wing_meat_only_ckd": {
-    "name": "Chicken, broilers or fryers, wing, meat only, ckd, rstd",
+    "name": "Chicken, broilers or fryers, wing, meat only, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, wing, meat only, ckd, rstd from the USDA database."
+    "description": "Chicken, broilers or fryers, wing, meat only, cooked, rstd."
   },
   "chicken_roasting_meat_only_raw": {
     "name": "Chicken, roasting, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, roasting, meat only, raw from the USDA database."
+    "description": "Chicken, roasting, meat only, raw."
   },
   "chicken_roasting_lt_meat_meat_only_raw": {
     "name": "Chicken, roasting, lt meat, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, roasting, lt meat, meat only, raw from the USDA database."
+    "description": "Chicken, roasting, lt meat, meat only, raw."
   },
   "chicken_roasting_lt_meat_meat_only_ckd_rstd": {
-    "name": "Chicken, roasting, lt meat, meat only, ckd, rstd",
+    "name": "Chicken, roasting, lt meat, meat only, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, roasting, lt meat, meat only, ckd, rstd from the USDA database."
+    "description": "Chicken, roasting, lt meat, meat only, cooked, rstd."
   },
   "chicken_roasting_dk_meat_meat_only_raw": {
-    "name": "Chicken, roasting, dk meat, meat only, raw",
+    "name": "Chicken, roasting, dark meat, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, roasting, dk meat, meat only, raw from the USDA database."
+    "description": "Chicken, roasting, dark meat, meat only, raw."
   },
   "chicken_stewing_meat_skn_giblets_neck_ckd_stw": {
-    "name": "Chicken, stewing, meat & skn, & giblets & neck, ckd, stwd",
+    "name": "Chicken, stewing, meat & skin, & giblets & neck, cooked, stwd",
     "alternative_names": [],
-    "description": "Chicken, stewing, meat & skn, & giblets & neck, ckd, stwd from the USDA database."
+    "description": "Chicken, stewing, meat & skin, & giblets & neck, cooked, stwd."
   },
   "chicken_stewing_meatskn_raw": {
-    "name": "Chicken, stewing, meat&skn, raw",
+    "name": "Chicken, stewing, meat&skin, raw",
     "alternative_names": [],
-    "description": "Chicken, stewing, meat&skn, raw from the USDA database."
+    "description": "Chicken, stewing, meat&skin, raw."
   },
   "chicken_stewing_meat_only_raw": {
     "name": "Chicken, stewing, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, stewing, meat only, raw from the USDA database."
+    "description": "Chicken, stewing, meat only, raw."
   },
   "chicken_stewing_meat_only_ckd_stwd": {
-    "name": "Chicken, stewing, meat only, ckd, stwd",
+    "name": "Chicken, stewing, meat only, cooked, stwd",
     "alternative_names": [],
-    "description": "Chicken, stewing, meat only, ckd, stwd from the USDA database."
+    "description": "Chicken, stewing, meat only, cooked, stwd."
   },
   "chicken_stewing_lt_meat_meat_only_raw": {
     "name": "Chicken, stewing, lt meat, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, stewing, lt meat, meat only, raw from the USDA database."
+    "description": "Chicken, stewing, lt meat, meat only, raw."
   },
   "chicken_stewing_dk_meat_meat_only_raw": {
-    "name": "Chicken, stewing, dk meat, meat only, raw",
+    "name": "Chicken, stewing, dark meat, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, stewing, dk meat, meat only, raw from the USDA database."
+    "description": "Chicken, stewing, dark meat, meat only, raw."
   },
   "chicken_capons_meatskn_raw": {
-    "name": "Chicken, capons, meat&skn, raw",
+    "name": "Chicken, capons, meat&skin, raw",
     "alternative_names": [],
-    "description": "Chicken, capons, meat&skn, raw from the USDA database."
+    "description": "Chicken, capons, meat&skin, raw."
   },
   "turkey_whl_giblets_raw": {
-    "name": "Turkey, whl, giblets, raw",
+    "name": "Turkey, whole, giblets, raw",
     "alternative_names": [],
-    "description": "Turkey, whl, giblets, raw from the USDA database."
+    "description": "Turkey, whole, giblets, raw."
   },
   "turkey_whl_giblets_ckd_simmrd": {
-    "name": "Turkey, whl, giblets, ckd, simmrd",
+    "name": "Turkey, whole, giblets, cooked, simmrd",
     "alternative_names": [],
-    "description": "Turkey, whl, giblets, ckd, simmrd from the USDA database."
+    "description": "Turkey, whole, giblets, cooked, simmrd."
   },
   "turkey_liver_all_classes_raw": {
     "name": "Turkey, liver, all classes, raw",
     "alternative_names": [],
-    "description": "Turkey, liver, all classes, raw from the USDA database."
+    "description": "Turkey, liver, all classes, raw."
   },
   "turkey_liver_all_classes_ckd_simmrd": {
-    "name": "Turkey, liver, all classes, ckd, simmrd",
+    "name": "Turkey, liver, all classes, cooked, simmrd",
     "alternative_names": [],
-    "description": "Turkey, liver, all classes, ckd, simmrd from the USDA database."
+    "description": "Turkey, liver, all classes, cooked, simmrd."
   },
   "turkey_all_classes_back_meatskn_ckd_rstd": {
-    "name": "Turkey, all classes, back, meat&skn, ckd, rstd",
+    "name": "Turkey, all classes, back, meat&skin, cooked, rstd",
     "alternative_names": [],
-    "description": "Turkey, all classes, back, meat&skn, ckd, rstd from the USDA database."
+    "description": "Turkey, all classes, back, meat&skin, cooked, rstd."
   },
   "turkey_all_classes_leg_meatskn_ckd_rstd": {
-    "name": "Turkey, all classes, leg, meat&skn, ckd, rstd",
+    "name": "Turkey, all classes, leg, meat&skin, cooked, rstd",
     "alternative_names": [],
-    "description": "Turkey, all classes, leg, meat&skn, ckd, rstd from the USDA database."
+    "description": "Turkey, all classes, leg, meat&skin, cooked, rstd."
   },
   "turkey_fryer_roasters_meatskn_ckd_rstd": {
-    "name": "Turkey, fryer-roasters, meat&skn, ckd, rstd",
+    "name": "Turkey, fryer-roasters, meat&skin, cooked, rstd",
     "alternative_names": [],
-    "description": "Turkey, fryer-roasters, meat&skn, ckd, rstd from the USDA database."
+    "description": "Turkey, fryer-roasters, meat&skin, cooked, rstd."
   },
   "turkey_fryer_roasters_wing_meat_only_ckd_rstd": {
-    "name": "Turkey, fryer-roasters, wing, meat only, ckd, rstd",
+    "name": "Turkey, fryer-roasters, wing, meat only, cooked, rstd",
     "alternative_names": [],
-    "description": "Turkey, fryer-roasters, wing, meat only, ckd, rstd from the USDA database."
+    "description": "Turkey, fryer-roasters, wing, meat only, cooked, rstd."
   },
   "chicken_cnd_meat_only_wbroth": {
-    "name": "Chicken, cnd, meat only, w/broth",
+    "name": "Chicken, canned, meat only, withbroth",
     "alternative_names": [],
-    "description": "Chicken, cnd, meat only, w/broth from the USDA database."
+    "description": "Chicken, canned, meat only, withbroth."
   },
   "turkey_cnd_meat_only_wbroth": {
-    "name": "Turkey, cnd, meat only, w/broth",
+    "name": "Turkey, canned, meat only, withbroth",
     "alternative_names": [],
-    "description": "Turkey, cnd, meat only, w/broth from the USDA database."
+    "description": "Turkey, canned, meat only, withbroth."
   },
   "turkey_patties_breaded_battered_fried": {
     "name": "Turkey patties, breaded, battered, fried",
     "alternative_names": [],
-    "description": "Turkey patties, breaded, battered, fried from the USDA database."
+    "description": "Turkey patties, breaded, battered, fried."
   },
   "turkey_rst_bnless_frz_seasoned_ltdk_meat_rstd": {
-    "name": "Turkey rst, bnless, frz, seasoned, lt&dk meat, rstd",
+    "name": "Turkey rst, boneless, frozen, seasoned, lt&dark meat, rstd",
     "alternative_names": [],
-    "description": "Turkey rst, bnless, frz, seasoned, lt&dk meat, rstd from the USDA database."
+    "description": "Turkey rst, boneless, frozen, seasoned, lt&dark meat, rstd."
   },
   "chicken_cornish_game_hens_meatskn_raw": {
-    "name": "Chicken, cornish game hens, meat&skn, raw",
+    "name": "Chicken, cornish game hens, meat&skin, raw",
     "alternative_names": [],
-    "description": "Chicken, cornish game hens, meat&skn, raw from the USDA database."
+    "description": "Chicken, cornish game hens, meat&skin, raw."
   },
   "chicken_cornish_game_hens_meatskn_ckd_rstd": {
-    "name": "Chicken, cornish game hens, meat&skn, ckd, rstd",
+    "name": "Chicken, cornish game hens, meat&skin, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, cornish game hens, meat&skn, ckd, rstd from the USDA database."
+    "description": "Chicken, cornish game hens, meat&skin, cooked, rstd."
   },
   "chicken_cornish_game_hens_meat_only_raw": {
     "name": "Chicken, cornish game hens, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, cornish game hens, meat only, raw from the USDA database."
+    "description": "Chicken, cornish game hens, meat only, raw."
   },
   "chicken_cornish_game_hens_meat_only_ckd_rstd": {
-    "name": "Chicken, cornish game hens, meat only, ckd, rstd",
+    "name": "Chicken, cornish game hens, meat only, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, cornish game hens, meat only, ckd, rstd from the USDA database."
+    "description": "Chicken, cornish game hens, meat only, cooked, rstd."
   },
   "chicken_canned_no_broth": {
     "name": "Chicken, canned, no broth",
     "alternative_names": [],
-    "description": "Chicken, canned, no broth from the USDA database."
+    "description": "Chicken, canned, no broth."
   },
   "chicken_nuggets_frz_ckd": {
-    "name": "Chicken nuggets, frz, ckd",
+    "name": "Chicken nuggets, frozen, cooked",
     "alternative_names": [],
-    "description": "Chicken nuggets, frz, ckd from the USDA database."
+    "description": "Chicken nuggets, frozen, cooked."
   },
   "chicken_nuggets_frz_unckd": {
-    "name": "Chicken nuggets, frz, unckd",
+    "name": "Chicken nuggets, frozen, uncooked",
     "alternative_names": [],
-    "description": "Chicken nuggets, frz, unckd from the USDA database."
+    "description": "Chicken nuggets, frozen, uncooked."
   },
   "chicken_patty_frz_unckd": {
-    "name": "Chicken patty, frz, unckd",
+    "name": "Chicken patty, frozen, uncooked",
     "alternative_names": [],
-    "description": "Chicken patty, frz, unckd from the USDA database."
+    "description": "Chicken patty, frozen, uncooked."
   },
   "chicken_patty_frz_ckd": {
-    "name": "Chicken patty, frz, ckd",
+    "name": "Chicken patty, frozen, cooked",
     "alternative_names": [],
-    "description": "Chicken patty, frz, ckd from the USDA database."
+    "description": "Chicken patty, frozen, cooked."
   },
   "chicken_breast_tenders_ckd_conventional_oven": {
-    "name": "Chicken breast tenders, ckd, conventional oven",
+    "name": "Chicken breast tenders, cooked, conventional oven",
     "alternative_names": [],
-    "description": "Chicken breast tenders, ckd, conventional oven from the USDA database."
+    "description": "Chicken breast tenders, cooked, conventional oven."
   },
   "chicken_breast_tenders_ckd_microwaved": {
-    "name": "Chicken breast tenders, ckd, microwaved",
+    "name": "Chicken breast tenders, cooked, microwaved",
     "alternative_names": [],
-    "description": "Chicken breast tenders, ckd, microwaved from the USDA database."
+    "description": "Chicken breast tenders, cooked, microwaved."
   },
   "chicken_breast_tenders_breaded_unckd": {
-    "name": "Chicken breast tenders, breaded, unckd",
+    "name": "Chicken breast tenders, breaded, uncooked",
     "alternative_names": [],
-    "description": "Chicken breast tenders, breaded, unckd from the USDA database."
+    "description": "Chicken breast tenders, breaded, uncooked."
   },
   "chicken_ground_raw": {
     "name": "Chicken, ground, raw",
     "alternative_names": [],
-    "description": "Chicken, ground, raw from the USDA database."
+    "description": "Chicken, ground, raw."
   },
   "chicken_ground_crumbles_ckd_pan_browned": {
-    "name": "Chicken, ground, crumbles, ckd, pan-browned",
+    "name": "Chicken, ground, crumbles, cooked, pan-browned",
     "alternative_names": [],
-    "description": "Chicken, ground, crumbles, ckd, pan-browned from the USDA database."
+    "description": "Chicken, ground, crumbles, cooked, pan-browned."
   },
   "usda_cmdty_turkey_taco_meat_frz_ckd": {
-    "name": "Usda cmdty, turkey taco meat, frz, ckd",
+    "name": "Usda cmdty, turkey taco meat, frozen, cooked",
     "alternative_names": [],
-    "description": "Usda cmdty, turkey taco meat, frz, ckd from the USDA database."
+    "description": "Usda cmdty, turkey taco meat, frozen, cooked."
   },
   "chicken_skn_ckd_brsd": {
-    "name": "Chicken, skn (drumsticks & thighs), ckd, brsd",
+    "name": "Chicken, skin (drumsticks & thighs), cooked, brsd",
     "alternative_names": [],
-    "description": "Chicken, skn (drumsticks & thighs), ckd, brsd from the USDA database."
+    "description": "Chicken, skin (drumsticks & thighs), cooked, brsd."
   },
   "chicken_skn_raw": {
-    "name": "Chicken, skn (drumsticks & thighs), raw",
+    "name": "Chicken, skin (drumsticks & thighs), raw",
     "alternative_names": [],
-    "description": "Chicken, skn (drumsticks & thighs), raw from the USDA database."
+    "description": "Chicken, skin (drumsticks & thighs), raw."
   },
   "chicken_skn_ckd_rstd": {
-    "name": "Chicken, skn (drumsticks & thighs), ckd, rstd",
+    "name": "Chicken, skin (drumsticks & thighs), cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, skn (drumsticks & thighs), ckd, rstd from the USDA database."
+    "description": "Chicken, skin (drumsticks & thighs), cooked, rstd."
   },
   "chicken_broilers_or_fryers_dk_meat_drumstk_mt": {
-    "name": "Chicken, broilers or fryers, dk meat, drumstk, mt & skn, ckd, brsd",
+    "name": "Chicken, broilers or fryers, dark meat, drumstk, mt & skin, cooked, brsd",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, dk meat, drumstk, mt & skn, ckd, brsd from the USDA database."
+    "description": "Chicken, broilers or fryers, dark meat, drumstk, mt & skin, cooked, brsd."
   },
   "fish_broth": {
     "name": "Fish broth",
     "alternative_names": [],
-    "description": "Fish broth from the USDA database."
+    "description": "Fish broth."
   },
   "beerwurst_beer_salami_pork_bf": {
     "name": "Beerwurst, beer salami, pork & bf",
     "alternative_names": [],
-    "description": "Beerwurst, beer salami, pork & bf from the USDA database."
+    "description": "Beerwurst, beer salami, pork & bf."
   },
   "sausage_berliner_pork_bf": {
-    "name": "Sausage  berliner  pork  bf",
+    "name": "Sausage berliner pork bf",
     "alternative_names": [],
-    "description": "Sausage  berliner  pork  bf from the USDA database."
+    "description": "Sausage berliner pork bf."
   },
   "bockwurst_pork_veal_raw": {
-    "name": "Bockwurst  pork  veal  raw",
+    "name": "Bockwurst pork veal raw",
     "alternative_names": [],
-    "description": "Bockwurst  pork  veal  raw from the USDA database."
+    "description": "Bockwurst pork veal raw."
   },
   "bologna_bf": {
     "name": "Bologna, bf",
     "alternative_names": [],
-    "description": "Bologna, bf from the USDA database."
+    "description": "Bologna, bf."
   },
   "bologna_bf_pork": {
     "name": "Bologna, bf & pork",
     "alternative_names": [],
-    "description": "Bologna, bf & pork from the USDA database."
+    "description": "Bologna, bf & pork."
   },
   "bologna_pork": {
     "name": "Bologna, pork",
     "alternative_names": [],
-    "description": "Bologna, pork from the USDA database."
+    "description": "Bologna, pork."
   },
   "bologna_turkey": {
-    "name": "Bologna  turkey",
+    "name": "Bologna turkey",
     "alternative_names": [],
-    "description": "Bologna  turkey from the USDA database."
+    "description": "Bologna turkey."
   },
   "bratwurst_pork_ckd": {
-    "name": "Bratwurst, pork, ckd",
+    "name": "Bratwurst, pork, cooked",
     "alternative_names": [],
-    "description": "Bratwurst, pork, ckd from the USDA database."
+    "description": "Bratwurst, pork, cooked."
   },
   "cheesefurter_chs_smokie_pork_bf": {
     "name": "Cheesefurter, chs smokie, pork, bf",
     "alternative_names": [],
-    "description": "Cheesefurter, chs smokie, pork, bf from the USDA database."
+    "description": "Cheesefurter, chs smokie, pork, bf."
   },
   "chorizo_pork_and_beef": {
     "name": "Chorizo, pork and beef",
     "alternative_names": [],
-    "description": "Chorizo, pork and beef from the USDA database."
+    "description": "Chorizo, pork and beef."
   },
   "frankfurter_bf_unhtd": {
-    "name": "Frankfurter, bf, unhtd",
+    "name": "Frankfurter, bf, unheated",
     "alternative_names": [],
-    "description": "Frankfurter, bf, unhtd from the USDA database."
+    "description": "Frankfurter, bf, unheated."
   },
   "frankfurter_bf_pork": {
-    "name": "Frankfurter  bf & pork",
+    "name": "Frankfurter bf & pork",
     "alternative_names": [],
-    "description": "Frankfurter  bf & pork from the USDA database."
+    "description": "Frankfurter bf & pork."
   },
   "headcheese_pork": {
     "name": "Headcheese, pork",
     "alternative_names": [],
-    "description": "Headcheese, pork from the USDA database."
+    "description": "Headcheese, pork."
   },
   "honey_loaf_pork_bf": {
-    "name": "Honey loaf  pork  bf",
+    "name": "Honey loaf pork bf",
     "alternative_names": [],
-    "description": "Honey loaf  pork  bf from the USDA database."
+    "description": "Honey loaf pork bf."
   },
   "knackwurst_knockwurst_pork_bf": {
-    "name": "Knackwurst  knockwurst  pork  bf",
+    "name": "Knackwurst knockwurst pork bf",
     "alternative_names": [],
-    "description": "Knackwurst  knockwurst  pork  bf from the USDA database."
+    "description": "Knackwurst knockwurst pork bf."
   },
   "lebanon_bologna_bf": {
-    "name": "Lebanon bologna  bf",
+    "name": "Lebanon bologna bf",
     "alternative_names": [],
-    "description": "Lebanon bologna  bf from the USDA database."
+    "description": "Lebanon bologna bf."
   },
   "luncheon_meat_beef_loaved": {
     "name": "Luncheon meat, beef, loaved",
     "alternative_names": [],
-    "description": "Luncheon meat, beef, loaved from the USDA database."
+    "description": "Luncheon meat, beef, loaved."
   },
   "luncheon_meat_pork_beef": {
     "name": "Luncheon meat, pork, beef",
     "alternative_names": [],
-    "description": "Luncheon meat, pork, beef from the USDA database."
+    "description": "Luncheon meat, pork, beef."
   },
   "mortadella_beef_pork": {
     "name": "Mortadella, beef, pork",
     "alternative_names": [],
-    "description": "Mortadella, beef, pork from the USDA database."
+    "description": "Mortadella, beef, pork."
   },
   "olive_loaf_pork": {
     "name": "Olive loaf, pork",
     "alternative_names": [],
-    "description": "Olive loaf, pork from the USDA database."
+    "description": "Olive loaf, pork."
   },
   "peppered_loaf_pork_bf": {
-    "name": "Peppered loaf  pork  bf",
+    "name": "Peppered loaf pork bf",
     "alternative_names": [],
-    "description": "Peppered loaf  pork  bf from the USDA database."
+    "description": "Peppered loaf pork bf."
   },
   "pepperoni_pork_beef": {
     "name": "Pepperoni, pork, beef",
     "alternative_names": [],
-    "description": "Pepperoni, pork, beef from the USDA database."
+    "description": "Pepperoni, pork, beef."
   },
   "picklepimiento_loaf_pork": {
     "name": "Pickle&pimiento loaf, pork",
     "alternative_names": [],
-    "description": "Pickle&pimiento loaf, pork from the USDA database."
+    "description": "Pickle&pimiento loaf, pork."
   },
   "pork_sausage_frsh_raw": {
     "name": "Pork sausage, frsh, raw",
     "alternative_names": [],
-    "description": "Pork sausage, frsh, raw from the USDA database."
+    "description": "Pork sausage, frsh, raw."
   },
   "pork_sausage_frsh_ckd": {
-    "name": "Pork sausage, frsh, ckd",
+    "name": "Pork sausage, frsh, cooked",
     "alternative_names": [],
-    "description": "Pork sausage, frsh, ckd from the USDA database."
+    "description": "Pork sausage, frsh, cooked."
   },
   "porkbf_sausage_frsh_ckd": {
-    "name": "Pork&bf sausage, frsh, ckd",
+    "name": "Pork&bf sausage, frsh, cooked",
     "alternative_names": [],
-    "description": "Pork&bf sausage, frsh, ckd from the USDA database."
+    "description": "Pork&bf sausage, frsh, cooked."
   },
   "salami_ckd_bfpork": {
-    "name": "Salami, ckd, bf&pork",
+    "name": "Salami, cooked, bf&pork",
     "alternative_names": [],
-    "description": "Salami, ckd, bf&pork from the USDA database."
+    "description": "Salami, cooked, bf&pork."
   },
   "salami_cooked_turkey": {
     "name": "Salami, cooked, turkey",
     "alternative_names": [],
-    "description": "Salami, cooked, turkey from the USDA database."
+    "description": "Salami, cooked, turkey."
   },
   "thuringer_cervelat_smmr_sausage_bf_pork": {
     "name": "Thuringer, cervelat, smmr sausage, bf, pork",
     "alternative_names": [],
-    "description": "Thuringer, cervelat, smmr sausage, bf, pork from the USDA database."
+    "description": "Thuringer, cervelat, smmr sausage, bf, pork."
   },
   "sausage_vienna_cnd_chick_bf_pork": {
-    "name": "Sausage, vienna, cnd, chick, bf, pork",
+    "name": "Sausage, vienna, canned, chick, bf, pork",
     "alternative_names": [],
-    "description": "Sausage, vienna, cnd, chick, bf, pork from the USDA database."
+    "description": "Sausage, vienna, canned, chick, bf, pork."
   },
   "sausage_italian_pork_ckd": {
-    "name": "Sausage, italian, pork, ckd",
+    "name": "Sausage, italian, pork, cooked",
     "alternative_names": [],
-    "description": "Sausage, italian, pork, ckd from the USDA database."
+    "description": "Sausage, italian, pork, cooked."
   },
   "sausage_turkey_brkfst_links_mild": {
-    "name": "Sausage  turkey  brkfst links  mild",
+    "name": "Sausage turkey brkfst links mild",
     "alternative_names": [],
-    "description": "Sausage  turkey  brkfst links  mild from the USDA database."
+    "description": "Sausage turkey brkfst links mild."
   },
   "bacon_bf_stks": {
-    "name": "Bacon & bf stks",
+    "name": "Bacon & bf steaks",
     "alternative_names": [],
-    "description": "Bacon & bf stks from the USDA database."
+    "description": "Bacon & bf steaks."
   },
   "beerwurst_pork_bf": {
-    "name": "Beerwurst  pork & bf",
+    "name": "Beerwurst pork & bf",
     "alternative_names": [],
-    "description": "Beerwurst  pork & bf from the USDA database."
+    "description": "Beerwurst pork & bf."
   },
   "salami_italian_pork_bf_dry_sliced_50_less_na": {
-    "name": "Salami  italian  pork & bf  dry  sliced  50% less na",
+    "name": "Salami italian pork & bf dry sliced 50% less na",
     "alternative_names": [],
-    "description": "Salami  italian  pork & bf  dry  sliced  50% less na from the USDA database."
+    "description": "Salami italian pork & bf dry sliced 50% less na."
   },
   "frankfurter_bf_htd": {
-    "name": "Frankfurter  bf  htd",
+    "name": "Frankfurter bf heated",
     "alternative_names": [],
-    "description": "Frankfurter  bf  htd from the USDA database."
+    "description": "Frankfurter bf heated."
   },
   "scrapple_pork": {
     "name": "Scrapple, pork",
     "alternative_names": [],
-    "description": "Scrapple, pork from the USDA database."
+    "description": "Scrapple, pork."
   },
   "pork_sausage_pre_cooked": {
     "name": "Pork sausage, pre-cooked",
     "alternative_names": [],
-    "description": "Pork sausage, pre-cooked from the USDA database."
+    "description": "Pork sausage, pre-cooked."
   },
   "beef_sausage_pre_cooked": {
     "name": "Beef sausage, pre-cooked",
     "alternative_names": [],
-    "description": "Beef sausage, pre-cooked from the USDA database."
+    "description": "Beef sausage, pre-cooked."
   },
   "beef_sausage_frsh_ckd": {
-    "name": "Beef sausage, frsh, ckd",
+    "name": "Beef sausage, frsh, cooked",
     "alternative_names": [],
-    "description": "Beef sausage, frsh, ckd from the USDA database."
+    "description": "Beef sausage, frsh, cooked."
   },
   "pork_turkey_sausage_pre_cooked": {
     "name": "Pork & turkey sausage, pre-cooked",
     "alternative_names": [],
-    "description": "Pork & turkey sausage, pre-cooked from the USDA database."
+    "description": "Pork & turkey sausage, pre-cooked."
   },
   "turkey_sausage_frsh_ckd": {
-    "name": "Turkey sausage, frsh, ckd",
+    "name": "Turkey sausage, frsh, cooked",
     "alternative_names": [],
-    "description": "Turkey sausage, frsh, ckd from the USDA database."
+    "description": "Turkey sausage, frsh, cooked."
   },
   "bologna_chick_pork_bf": {
     "name": "Bologna, chick, pork, bf",
     "alternative_names": [],
-    "description": "Bologna, chick, pork, bf from the USDA database."
+    "description": "Bologna, chick, pork, bf."
   },
   "bologna_chick_pork": {
     "name": "Bologna, chick, pork",
     "alternative_names": [],
-    "description": "Bologna, chick, pork from the USDA database."
+    "description": "Bologna, chick, pork."
   },
   "pork_cured_bacon_ckd_brld_pan_fried_or_rstd": {
-    "name": "Pork, cured, bacon, ckd, brld, pan-fried or rstd",
+    "name": "Pork, cured, bacon, cooked, broiled, pan-fried or rstd",
     "alternative_names": [],
-    "description": "Pork, cured, bacon, ckd, brld, pan-fried or rstd from the USDA database."
+    "description": "Pork, cured, bacon, cooked, broiled, pan-fried or rstd."
   },
   "pork_cured_bacon_ckd_bkd": {
-    "name": "Pork, cured, bacon, ckd, bkd",
+    "name": "Pork, cured, bacon, cooked, bkd",
     "alternative_names": [],
-    "description": "Pork, cured, bacon, ckd, bkd from the USDA database."
+    "description": "Pork, cured, bacon, cooked, bkd."
   },
   "pork_cured_ham_h2o_product_rump_bone_in_ln_ht": {
-    "name": "Pork, cured, ham & h2o product, rump, bone-in, ln, htd, rstd",
+    "name": "Pork, cured, ham & h2o product, rump, bone-in, lean, heated, rstd",
     "alternative_names": [],
-    "description": "Pork, cured, ham & h2o product, rump, bone-in, ln, htd, rstd from the USDA database."
+    "description": "Pork, cured, ham & h2o product, rump, bone-in, lean, heated, rstd."
   },
   "pork_cured_ham_slice_bone_in_ln_unhtd": {
-    "name": "Pork, cured, ham, slice, bone-in, ln, unhtd",
+    "name": "Pork, cured, ham, slice, bone-in, lean, unheated",
     "alternative_names": [],
-    "description": "Pork, cured, ham, slice, bone-in, ln, unhtd from the USDA database."
+    "description": "Pork, cured, ham, slice, bone-in, lean, unheated."
   },
   "beef_grass_fed_strip_steaks_ln_raw": {
-    "name": "Beef, grass-fed, strip steaks, ln, raw",
+    "name": "Beef, grass-fed, strip steaks, lean, raw",
     "alternative_names": [],
-    "description": "Beef, grass-fed, strip steaks, ln, raw from the USDA database."
+    "description": "Beef, grass-fed, strip steaks, lean, raw."
   },
   "beef_brisket_whl_ln_all_grds_raw": {
-    "name": "Beef, brisket, whl, ln, all grds, raw",
+    "name": "Beef, brisket, whole, lean, all grades, raw",
     "alternative_names": [],
-    "description": "Beef, brisket, whl, ln, all grds, raw from the USDA database."
+    "description": "Beef, brisket, whole, lean, all grades, raw."
   },
   "beef_grass_fed_ground_raw": {
     "name": "Beef, grass-fed, ground, raw",
     "alternative_names": [],
-    "description": "Beef, grass-fed, ground, raw from the USDA database."
+    "description": "Beef, grass-fed, ground, raw."
   },
   "beef_rib_shortribs_ln_choic_ckd_brsd": {
-    "name": "Beef, rib, shortribs, ln, choic, ckd, brsd",
+    "name": "Beef, rib, shortribs, lean, choice, cooked, brsd",
     "alternative_names": [],
-    "description": "Beef, rib, shortribs, ln, choic, ckd, brsd from the USDA database."
+    "description": "Beef, rib, shortribs, lean, choice, cooked, brsd."
   },
   "beef_ground_patties_frz_ckd_brld": {
-    "name": "Beef, ground, patties, frz, ckd, brld",
+    "name": "Beef, ground, patties, frozen, cooked, broiled",
     "alternative_names": [],
-    "description": "Beef, ground, patties, frz, ckd, brld from the USDA database."
+    "description": "Beef, ground, patties, frozen, cooked, broiled."
   },
   "beef_var_meatsby_products_brain_ckd_simmrd": {
-    "name": "Beef, var meats&by-products, brain, ckd, simmrd",
+    "name": "Beef, var meats&by-products, brain, cooked, simmrd",
     "alternative_names": [],
-    "description": "Beef, var meats&by-products, brain, ckd, simmrd from the USDA database."
+    "description": "Beef, var meats&by-products, brain, cooked, simmrd."
   },
   "beef_var_meatsby_products_heart_ckd_simmrd": {
-    "name": "Beef, var meats&by-products, heart, ckd, simmrd",
+    "name": "Beef, var meats&by-products, heart, cooked, simmrd",
     "alternative_names": [],
-    "description": "Beef, var meats&by-products, heart, ckd, simmrd from the USDA database."
+    "description": "Beef, var meats&by-products, heart, cooked, simmrd."
   },
   "beef_var_meatsby_products_liver_raw": {
     "name": "Beef, var meats&by-products, liver, raw",
     "alternative_names": [],
-    "description": "Beef, var meats&by-products, liver, raw from the USDA database."
+    "description": "Beef, var meats&by-products, liver, raw."
   },
   "beef_var_meats_by_products_liver_ckd_brsd": {
-    "name": "Beef, var meats & by-products, liver, ckd, brsd",
+    "name": "Beef, var meats & by-products, liver, cooked, brsd",
     "alternative_names": [],
-    "description": "Beef, var meats & by-products, liver, ckd, brsd from the USDA database."
+    "description": "Beef, var meats & by-products, liver, cooked, brsd."
   },
   "beef_var_meatsby_products_liver_ckd_pan_fried": {
-    "name": "Beef,  var meats&by-products,  liver,  ckd,  pan-fried",
+    "name": "Beef, var meats&by-products, liver, cooked, pan-fried",
     "alternative_names": [],
-    "description": "Beef,  var meats&by-products,  liver,  ckd,  pan-fried from the USDA database."
+    "description": "Beef, var meats&by-products, liver, cooked, pan-fried."
   },
   "beef_var_meats_by_products_suet_raw": {
     "name": "Beef, var meats & by-products, suet, raw",
     "alternative_names": [],
-    "description": "Beef, var meats & by-products, suet, raw from the USDA database."
+    "description": "Beef, var meats & by-products, suet, raw."
   },
   "beef_var_meatsby_products_tongue_ckd_simmrd": {
-    "name": "Beef, var meats&by-products, tongue, ckd, simmrd",
+    "name": "Beef, var meats&by-products, tongue, cooked, simmrd",
     "alternative_names": [],
-    "description": "Beef, var meats&by-products, tongue, ckd, simmrd from the USDA database."
+    "description": "Beef, var meats&by-products, tongue, cooked, simmrd."
   },
   "beef_sndwch_steaks_flaked_chopd_formed_thinly": {
-    "name": "Beef, sndwch steaks, flaked, chopd, formed & thinly sliced, raw",
+    "name": "Beef, sndwch steaks, flaked, chopped, formed & thinly sliced, raw",
     "alternative_names": [],
-    "description": "Beef, sndwch steaks, flaked, chopd, formed & thinly sliced, raw from the USDA database."
+    "description": "Beef, sndwch steaks, flaked, chopped, formed & thinly sliced, raw."
   },
   "beef_cured_brkfst_strips_ckd": {
-    "name": "Beef, cured, brkfst strips, ckd",
+    "name": "Beef, cured, brkfst strips, cooked",
     "alternative_names": [],
-    "description": "Beef, cured, brkfst strips, ckd from the USDA database."
+    "description": "Beef, cured, brkfst strips, cooked."
   },
   "beef_cured_corned_bf_brisket_ckd": {
-    "name": "Beef, cured, corned bf, brisket, ckd",
+    "name": "Beef, cured, corned bf, brisket, cooked",
     "alternative_names": [],
-    "description": "Beef, cured, corned bf, brisket, ckd from the USDA database."
+    "description": "Beef, cured, corned bf, brisket, cooked."
   },
   "beef_cured_corned_bf_cnd": {
-    "name": "Beef, cured, corned bf, cnd",
+    "name": "Beef, cured, corned bf, canned",
     "alternative_names": [],
-    "description": "Beef, cured, corned bf, cnd from the USDA database."
+    "description": "Beef, cured, corned bf, canned."
   },
   "beef_cured_dried": {
     "name": "Beef, cured, dried",
     "alternative_names": [],
-    "description": "Beef, cured, dried from the USDA database."
+    "description": "Beef, cured, dried."
   },
   "beef_chuck_under_blade_cntr_steak_bnless_denv": {
-    "name": "\"beef, chuck, under blade cntr steak, bnless, denver cut, ln, 0\"\" fa\"",
+    "name": "beef, chuck, under blade center steak, boneless, denver cut, lean, 0\" fa",
     "alternative_names": [],
-    "description": "\"beef, chuck, under blade cntr steak, bnless, denver cut, ln, 0\"\" fa\" from the USDA database."
+    "description": "\"beef, chuck, under blade center steak, boneless, denver cut, lean, 0\" fa\"."
   },
   "beef_chk_und_bl_cntr_stk_bnless_den_cut_ln_0": {
-    "name": "\"beef, chk, und bl cntr stk, bnless, den cut, ln, 0\"\" fa,  sel,  ckd\"",
+    "name": "beef, chk, und bl center steak, boneless, den cut, lean, 0\" fa, select, cooked",
     "alternative_names": [],
-    "description": "\"beef, chk, und bl cntr stk, bnless, den cut, ln, 0\"\" fa,  sel,  ckd\" from the USDA database."
+    "description": "\"beef, chk, und bl center steak, boneless, den cut, lean, 0\" fa, select, cooked\"."
   },
   "beef_cured_pastrami": {
     "name": "Beef, cured, pastrami",
     "alternative_names": [],
-    "description": "Beef, cured, pastrami from the USDA database."
+    "description": "Beef, cured, pastrami."
   },
   "beef_chk_undbl_cntr_stk_bnless_dencut_ln_0_fa": {
-    "name": "\"beef, chk, undbl cntr stk, bnless, dencut, ln, 0\"\" fa,  all grd,  raw\"",
+    "name": "beef, chk, undbl center steak, boneless, dencut, lean, 0\" fa, all grade, raw",
     "alternative_names": [],
-    "description": "\"beef, chk, undbl cntr stk, bnless, dencut, ln, 0\"\" fa,  all grd,  raw\" from the USDA database."
+    "description": "\"beef, chk, undbl center steak, boneless, dencut, lean, 0\" fa, all grade, raw\"."
   },
   "beef_chk_und_blcntr_stk_bnless_den_cut_ln_0_f": {
-    "name": "\"beef, chk, und blcntr stk, bnless, den cut, ln, 0\"\" fa,  choice,  raw\"",
+    "name": "beef, chk, und blcntr steak, boneless, den cut, lean, 0\" fa, choice, raw",
     "alternative_names": [],
-    "description": "\"beef, chk, und blcntr stk, bnless, den cut, ln, 0\"\" fa,  choice,  raw\" from the USDA database."
+    "description": "\"beef, chk, und blcntr steak, boneless, den cut, lean, 0\" fa, choice, raw\"."
   },
   "beef_shrt_loin_top_loin_stk_ln_ft_18_ft_all_g": {
-    "name": "\"beef, shrt loin, top loin, stk, ln & ft, 1/8\"\" ft, all grd, ckd, brld\"",
+    "name": "beef, short loin, top loin, steak, lean & fat, 1/8\" fat, all grade, cooked, broiled",
     "alternative_names": [],
-    "description": "\"beef, shrt loin, top loin, stk, ln & ft, 1/8\"\" ft, all grd, ckd, brld\" from the USDA database."
+    "description": "\"beef, short loin, top loin, steak, lean & fat, 1/8\" fat, all grade, cooked, broiled\"."
   },
   "beef_shoulder_steak_boneless_lean_only_0_choi": {
-    "name": "\"beef,  shoulder steak,  boneless,  lean only,  0\"\",  choice,  grill\"",
+    "name": "beef, shoulder steak, boneless, lean only, 0\", choice, grill",
     "alternative_names": [],
-    "description": "\"beef,  shoulder steak,  boneless,  lean only,  0\"\",  choice,  grill\" from the USDA database."
+    "description": "\"beef, shoulder steak, boneless, lean only, 0\", choice, grill\"."
   },
   "fish_portionsstks_frz_prehtd": {
-    "name": "Fish portions&stks, frz, prehtd",
+    "name": "Fish portions&steaks, frozen, preheated",
     "alternative_names": [],
-    "description": "Fish portions&stks, frz, prehtd from the USDA database."
+    "description": "Fish portions&steaks, frozen, preheated."
   },
   "herring_atlantic_raw": {
     "name": "Herring, atlantic, raw",
     "alternative_names": [],
-    "description": "Herring, atlantic, raw from the USDA database."
+    "description": "Herring, atlantic, raw."
   },
   "herring_atlantic_ckd_dry_heat": {
-    "name": "Herring, atlantic, ckd, dry heat",
+    "name": "Herring, atlantic, cooked, dry heat",
     "alternative_names": [],
-    "description": "Herring, atlantic, ckd, dry heat from the USDA database."
+    "description": "Herring, atlantic, cooked, dry heat."
   },
   "herring_atlantic_pickled": {
     "name": "Herring, atlantic, pickled",
     "alternative_names": [],
-    "description": "Herring, atlantic, pickled from the USDA database."
+    "description": "Herring, atlantic, pickled."
   },
   "herring_atlantic_kippered": {
     "name": "Herring, atlantic, kippered",
     "alternative_names": [],
-    "description": "Herring, atlantic, kippered from the USDA database."
+    "description": "Herring, atlantic, kippered."
   },
   "fish_pollock_alaska_ckd_dry_heat": {
-    "name": "Fish, pollock, alaska, ckd, dry heat",
+    "name": "Fish, pollock, alaska, cooked, dry heat",
     "alternative_names": [],
-    "description": "Fish, pollock, alaska, ckd, dry heat from the USDA database."
+    "description": "Fish, pollock, alaska, cooked, dry heat."
   },
   "fish_salmon_chum_cnd_drnd_sol_w_bone": {
-    "name": "Fish, salmon, chum, cnd, drnd sol w/ bone",
+    "name": "Fish, salmon, chum, canned, drained solids with/ bone",
     "alternative_names": [],
-    "description": "Fish, salmon, chum, cnd, drnd sol w/ bone from the USDA database."
+    "description": "Fish, salmon, chum, canned, drained solids with/ bone."
   },
   "fish_salmon_pink_cnd_total_can_contents": {
-    "name": "Fish, salmon, pink, cnd, total can contents",
+    "name": "Fish, salmon, pink, canned, total can contents",
     "alternative_names": [],
-    "description": "Fish, salmon, pink, cnd, total can contents from the USDA database."
+    "description": "Fish, salmon, pink, canned, total can contents."
   },
   "fish_salmon_sockeye_cnd_drnd_sol": {
-    "name": "Fish, salmon, sockeye, cnd, drnd sol",
+    "name": "Fish, salmon, sockeye, canned, drained solids",
     "alternative_names": [],
-    "description": "Fish, salmon, sockeye, cnd, drnd sol from the USDA database."
+    "description": "Fish, salmon, sockeye, canned, drained solids."
   },
   "fish_tuna_lt_cnd_in_h2o_drnd_sol": {
-    "name": "Fish, tuna, lt, cnd in h2o, drnd sol",
+    "name": "Fish, tuna, lt, canned in h2o, drained solids",
     "alternative_names": [],
-    "description": "Fish, tuna, lt, cnd in h2o, drnd sol from the USDA database."
+    "description": "Fish, tuna, lt, canned in h2o, drained solids."
   },
   "tuna_white_cnd_in_h2o_drnd_sol": {
-    "name": "Tuna, white, cnd in h2o, drnd sol",
+    "name": "Tuna, white, canned in h2o, drained solids",
     "alternative_names": [],
-    "description": "Tuna, white, cnd in h2o, drnd sol from the USDA database."
+    "description": "Tuna, white, canned in h2o, drained solids."
   },
   "tuna_fresh_yellowfin_raw": {
     "name": "Tuna, fresh, yellowfin, raw",
     "alternative_names": [],
-    "description": "Tuna, fresh, yellowfin, raw from the USDA database."
+    "description": "Tuna, fresh, yellowfin, raw."
   },
   "mussel_blue_raw": {
     "name": "Mussel, blue, raw",
     "alternative_names": [],
-    "description": "Mussel, blue, raw from the USDA database."
+    "description": "Mussel, blue, raw."
   },
   "oyster_eastern_wild_raw": {
     "name": "Oyster, eastern, wild, raw",
     "alternative_names": [],
-    "description": "Oyster, eastern, wild, raw from the USDA database."
+    "description": "Oyster, eastern, wild, raw."
   },
   "oyster_eastern_wild_ckd_moist_heat": {
-    "name": "Oyster, eastern, wild, ckd, moist heat",
+    "name": "Oyster, eastern, wild, cooked, moist heat",
     "alternative_names": [],
-    "description": "Oyster, eastern, wild, ckd, moist heat from the USDA database."
+    "description": "Oyster, eastern, wild, cooked, moist heat."
   },
   "oyster_eastern_canned": {
     "name": "Oyster, eastern, canned",
     "alternative_names": [],
-    "description": "Oyster, eastern, canned from the USDA database."
+    "description": "Oyster, eastern, canned."
   },
   "tuna_yellowfin_frsh_ckd_dry_heat": {
-    "name": "Tuna, yellowfin, frsh, ckd, dry heat",
+    "name": "Tuna, yellowfin, frsh, cooked, dry heat",
     "alternative_names": [],
-    "description": "Tuna, yellowfin, frsh, ckd, dry heat from the USDA database."
+    "description": "Tuna, yellowfin, frsh, cooked, dry heat."
   },
   "oyster_pacific_ckd_moist_heat": {
-    "name": "Oyster, pacific, ckd, moist heat",
+    "name": "Oyster, pacific, cooked, moist heat",
     "alternative_names": [],
-    "description": "Oyster, pacific, ckd, moist heat from the USDA database."
+    "description": "Oyster, pacific, cooked, moist heat."
   },
   "oyster_eastern_wild_ckd_dry_heat": {
-    "name": "Oyster, eastern, wild, ckd, dry heat",
+    "name": "Oyster, eastern, wild, cooked, dry heat",
     "alternative_names": [],
-    "description": "Oyster, eastern, wild, ckd, dry heat from the USDA database."
+    "description": "Oyster, eastern, wild, cooked, dry heat."
   },
   "fish_salmon_pink_cnd_drnd_sol": {
-    "name": "Fish, salmon, pink, cnd, drnd sol",
+    "name": "Fish, salmon, pink, canned, drained solids",
     "alternative_names": [],
-    "description": "Fish, salmon, pink, cnd, drnd sol from the USDA database."
+    "description": "Fish, salmon, pink, canned, drained solids."
   },
   "fish_tilapia_ckd_dry_heat": {
-    "name": "Fish, tilapia, ckd, dry heat",
+    "name": "Fish, tilapia, cooked, dry heat",
     "alternative_names": [],
-    "description": "Fish, tilapia, ckd, dry heat from the USDA database."
+    "description": "Fish, tilapia, cooked, dry heat."
   },
   "fish_salmon_pink_cnd_drnd_sol_wo_skn_bones": {
-    "name": "Fish, salmon, pink, cnd, drnd sol, wo/ skn & bones",
+    "name": "Fish, salmon, pink, canned, drained solids, without skin & bones",
     "alternative_names": [],
-    "description": "Fish, salmon, pink, cnd, drnd sol, wo/ skn & bones from the USDA database."
+    "description": "Fish, salmon, pink, canned, drained solids, without skin & bones."
   },
   "beans_bkd_cnd_wporkswt_sau": {
-    "name": "Beans, bkd, cnd, w/pork&swt sau",
+    "name": "Beans, bkd, canned, withpork&swt sauce",
     "alternative_names": [],
-    "description": "Beans, bkd, cnd, w/pork&swt sau from the USDA database."
+    "description": "Beans, bkd, canned, withpork&swt sauce."
   },
   "beans_bkd_cnd_wporktomato_sau": {
-    "name": "Beans, bkd, cnd, w/pork&tomato sau",
+    "name": "Beans, bkd, canned, withpork&tomato sauce",
     "alternative_names": [],
-    "description": "Beans, bkd, cnd, w/pork&tomato sau from the USDA database."
+    "description": "Beans, bkd, canned, withpork&tomato sauce."
   },
   "lamb_nz_imp_frz_rib_ln_ckd_rstd": {
-    "name": "Lamb, nz, imp, frz, rib, ln, ckd, rstd",
+    "name": "Lamb, nz, imp, frozen, rib, lean, cooked, rstd",
     "alternative_names": [],
-    "description": "Lamb, nz, imp, frz, rib, ln, ckd, rstd from the USDA database."
+    "description": "Lamb, nz, imp, frozen, rib, lean, cooked, rstd."
   },
   "veal_comp_of_rtl_cuts_ln_ckd": {
-    "name": "Veal, comp of rtl cuts, ln, ckd",
+    "name": "Veal, comp of rtl cuts, lean, cooked",
     "alternative_names": [],
-    "description": "Veal, comp of rtl cuts, ln, ckd from the USDA database."
+    "description": "Veal, comp of rtl cuts, lean, cooked."
   },
   "veal_leg_ln_ckd_pan_fried_breaded": {
-    "name": "Veal, leg (top rnd), ln, ckd, pan-fried, breaded",
+    "name": "Veal, leg (top rnd), lean, cooked, pan-fried, breaded",
     "alternative_names": [],
-    "description": "Veal, leg (top rnd), ln, ckd, pan-fried, breaded from the USDA database."
+    "description": "Veal, leg (top rnd), lean, cooked, pan-fried, breaded."
   },
   "veal_leg_ln_ckd_pan_fried_not_breaded": {
-    "name": "Veal, leg (top rnd), ln, ckd, pan-fried, not breaded",
+    "name": "Veal, leg (top rnd), lean, cooked, pan-fried, not breaded",
     "alternative_names": [],
-    "description": "Veal, leg (top rnd), ln, ckd, pan-fried, not breaded from the USDA database."
+    "description": "Veal, leg (top rnd), lean, cooked, pan-fried, not breaded."
   },
   "veal_loin_ln_ckd_brsd": {
-    "name": "Veal, loin, ln, ckd, brsd",
+    "name": "Veal, loin, lean, cooked, brsd",
     "alternative_names": [],
-    "description": "Veal, loin, ln, ckd, brsd from the USDA database."
+    "description": "Veal, loin, lean, cooked, brsd."
   },
   "veal_loin_ln_ckd_rstd": {
-    "name": "Veal, loin, ln, ckd, rstd",
+    "name": "Veal, loin, lean, cooked, rstd",
     "alternative_names": [],
-    "description": "Veal, loin, ln, ckd, rstd from the USDA database."
+    "description": "Veal, loin, lean, cooked, rstd."
   },
   "veal_rib_ln_ckd_brsd": {
-    "name": "Veal, rib, ln, ckd, brsd",
+    "name": "Veal, rib, lean, cooked, brsd",
     "alternative_names": [],
-    "description": "Veal, rib, ln, ckd, brsd from the USDA database."
+    "description": "Veal, rib, lean, cooked, brsd."
   },
   "veal_shldr_blade_ln_ckd_brsd": {
-    "name": "Veal, shldr, blade, ln, ckd, brsd",
+    "name": "Veal, shoulder, blade, lean, cooked, brsd",
     "alternative_names": [],
-    "description": "Veal, shldr, blade, ln, ckd, brsd from the USDA database."
+    "description": "Veal, shoulder, blade, lean, cooked, brsd."
   },
   "veal_ground_ckd_brld": {
-    "name": "Veal, ground, ckd, brld",
+    "name": "Veal, ground, cooked, broiled",
     "alternative_names": [],
-    "description": "Veal, ground, ckd, brld from the USDA database."
+    "description": "Veal, ground, cooked, broiled."
   },
   "game_meat_deer_raw": {
     "name": "Game meat, deer, raw",
     "alternative_names": [],
-    "description": "Game meat, deer, raw from the USDA database."
+    "description": "Game meat, deer, raw."
   },
   "veal_var_meatsby_products_liver_raw": {
     "name": "Veal, var meats&by-products, liver, raw",
     "alternative_names": [],
-    "description": "Veal, var meats&by-products, liver, raw from the USDA database."
+    "description": "Veal, var meats&by-products, liver, raw."
   },
   "veal_var_meatsby_products_liver_ckd_brsd": {
-    "name": "Veal, var meats&by-products, liver, ckd, brsd",
+    "name": "Veal, var meats&by-products, liver, cooked, brsd",
     "alternative_names": [],
-    "description": "Veal, var meats&by-products, liver, ckd, brsd from the USDA database."
+    "description": "Veal, var meats&by-products, liver, cooked, brsd."
   },
   "veal_var_meatsby_products_liver_ckd_pan_fried": {
-    "name": "Veal, var meats&by-products, liver, ckd, pan-fried",
+    "name": "Veal, var meats&by-products, liver, cooked, pan-fried",
     "alternative_names": [],
-    "description": "Veal, var meats&by-products, liver, ckd, pan-fried from the USDA database."
+    "description": "Veal, var meats&by-products, liver, cooked, pan-fried."
   },
   "lamb_ground_raw": {
     "name": "Lamb, ground, raw",
     "alternative_names": [],
-    "description": "Lamb, ground, raw from the USDA database."
+    "description": "Lamb, ground, raw."
   },
   "lamb_ground_ckd_brld": {
-    "name": "Lamb, ground, ckd, brld",
+    "name": "Lamb, ground, cooked, broiled",
     "alternative_names": [],
-    "description": "Lamb, ground, ckd, brld from the USDA database."
+    "description": "Lamb, ground, cooked, broiled."
   },
   "game_meat_deer_ground_raw": {
     "name": "Game meat, deer, ground, raw",
     "alternative_names": [],
-    "description": "Game meat, deer, ground, raw from the USDA database."
+    "description": "Game meat, deer, ground, raw."
   },
   "game_meat_deer_ground_ckd_pan_broiled": {
-    "name": "Game meat, deer, ground, ckd, pan-broiled",
+    "name": "Game meat, deer, ground, cooked, pan-broiled",
     "alternative_names": [],
-    "description": "Game meat, deer, ground, ckd, pan-broiled from the USDA database."
+    "description": "Game meat, deer, ground, cooked, pan-broiled."
   },
   "game_meat_deer_loin_ln_1_steak_ckd_brld": {
-    "name": "\"game meat, deer, loin, ln, 1\"\" steak, ckd, brld\"",
+    "name": "game meat, deer, loin, lean, 1\" steak, cooked, broiled",
     "alternative_names": [],
-    "description": "\"game meat, deer, loin, ln, 1\"\" steak, ckd, brld\" from the USDA database."
+    "description": "\"game meat, deer, loin, lean, 1\" steak, cooked, broiled\"."
   },
   "game_meat_deer_shldr_clod_ln_3_5_lb_rst_ckd_b": {
-    "name": "Game meat, deer, shldr clod, ln, 3-5 lb rst, ckd, brsd",
+    "name": "Game meat, deer, shoulder clod, lean, 3-5 lb rst, cooked, brsd",
     "alternative_names": [],
-    "description": "Game meat, deer, shldr clod, ln, 3-5 lb rst, ckd, brsd from the USDA database."
+    "description": "Game meat, deer, shoulder clod, lean, 3-5 lb rst, cooked, brsd."
   },
   "beef_jerky_chopdformed": {
-    "name": "Beef jerky, chopd&formed",
+    "name": "Beef jerky, chopped&formed",
     "alternative_names": [],
-    "description": "Beef jerky, chopd&formed from the USDA database."
+    "description": "Beef jerky, chopped&formed."
   },
   "fast_foods_biscuit_wham": {
-    "name": "Fast foods, biscuit, w/ham",
+    "name": "Fast foods, biscuit, withham",
     "alternative_names": [],
-    "description": "Fast foods, biscuit, w/ham from the USDA database."
+    "description": "Fast foods, biscuit, withham."
   },
   "fast_foods_biscuit_wsausage": {
-    "name": "Fast foods, biscuit, w/sausage",
+    "name": "Fast foods, biscuit, withsausage",
     "alternative_names": [],
-    "description": "Fast foods, biscuit, w/sausage from the USDA database."
+    "description": "Fast foods, biscuit, withsausage."
   },
   "burger_king_premium_fish_sndwch": {
     "name": "Burger king, premium fish sndwch",
     "alternative_names": [],
-    "description": "Burger king, premium fish sndwch from the USDA database."
+    "description": "Burger king, premium fish sndwch."
   },
   "fast_foods_griddle_cake_sndwch_sausage": {
     "name": "Fast foods, griddle cake sndwch, sausage",
     "alternative_names": [],
-    "description": "Fast foods, griddle cake sndwch, sausage from the USDA database."
+    "description": "Fast foods, griddle cake sndwch, sausage."
   },
   "burger_king_croissanwich_w_sausage_chs": {
-    "name": "Burger king, croissan'wich w/ sausage & chs",
+    "name": "Burger king, croissan'wich with/ sausage & chs",
     "alternative_names": [],
-    "description": "Burger king, croissan'wich w/ sausage & chs from the USDA database."
+    "description": "Burger king, croissan'wich with/ sausage & chs."
   },
   "grilled_chick_bacon_tomo_clb_sndwch_w_chs_let": {
-    "name": "Grilled chick, bacon & tomo clb sndwch, w/ chs, lettuce, & mayo",
+    "name": "Grilled chick, bacon & tomo clb sndwch, with/ chs, lettuce, & mayo",
     "alternative_names": [],
-    "description": "Grilled chick, bacon & tomo clb sndwch, w/ chs, lettuce, & mayo from the USDA database."
+    "description": "Grilled chick, bacon & tomo clb sndwch, with/ chs, lettuce, & mayo."
   },
   "crispy_chick_bacon_tomato_club_sndwch_w_chs_l": {
-    "name": "Crispy chick, bacon, & tomato club sndwch, w/ chs, letuce, & mayo",
+    "name": "Crispy chick, bacon, & tomato club sndwch, with/ chs, letuce, & mayo",
     "alternative_names": [],
-    "description": "Crispy chick, bacon, & tomato club sndwch, w/ chs, letuce, & mayo from the USDA database."
+    "description": "Crispy chick, bacon, & tomato club sndwch, with/ chs, letuce, & mayo."
   },
   "hot_pockets_ham_n_chs_stuffed_sndwch_frz": {
-    "name": "Hot pockets ham 'n chs stuffed sndwch, frz",
+    "name": "Hot pockets ham 'n chs stuffed sndwch, frozen",
     "alternative_names": [],
-    "description": "Hot pockets ham 'n chs stuffed sndwch, frz from the USDA database."
+    "description": "Hot pockets ham 'n chs stuffed sndwch, frozen."
   },
   "beef_stew_canned_entree": {
     "name": "Beef stew, canned entree",
     "alternative_names": [],
-    "description": "Beef stew, canned entree from the USDA database."
+    "description": "Beef stew, canned entree."
   },
   "beef_corned_bf_hash_w_potato_cnd": {
-    "name": "Beef, corned bf hash, w/ potato, cnd",
+    "name": "Beef, corned bf hash, with/ potato, canned",
     "alternative_names": [],
-    "description": "Beef, corned bf hash, w/ potato, cnd from the USDA database."
+    "description": "Beef, corned bf hash, with/ potato, canned."
   },
   "pulled_pork_in_barbecue_sau": {
-    "name": "Pulled pork in barbecue sau",
+    "name": "Pulled pork in barbecue sauce",
     "alternative_names": [],
-    "description": "Pulled pork in barbecue sau from the USDA database."
+    "description": "Pulled pork in barbecue sauce."
   },
   "chicken_nuggets_dk_white_meat_preckd_frz_not": {
-    "name": "Chicken, nuggets, dk & white meat, preckd, frz, not rehtd",
+    "name": "Chicken, nuggets, dark & white meat, precooked, frozen, not reheated",
     "alternative_names": [],
-    "description": "Chicken, nuggets, dk & white meat, preckd, frz, not rehtd from the USDA database."
+    "description": "Chicken, nuggets, dark & white meat, precooked, frozen, not reheated."
   },
   "chicken_nuggets_white_meat_preckd_frz_not_reh": {
-    "name": "Chicken, nuggets, white meat, preckd, frz, not rehtd",
+    "name": "Chicken, nuggets, white meat, precooked, frozen, not reheated",
     "alternative_names": [],
-    "description": "Chicken, nuggets, white meat, preckd, frz, not rehtd from the USDA database."
+    "description": "Chicken, nuggets, white meat, precooked, frozen, not reheated."
   },
   "chicken_tenders_breaded_frz_prep": {
-    "name": "Chicken tenders, breaded, frz, prep",
+    "name": "Chicken tenders, breaded, frozen, prep",
     "alternative_names": [],
-    "description": "Chicken tenders, breaded, frz, prep from the USDA database."
+    "description": "Chicken tenders, breaded, frozen, prep."
   },
   "beef_chck_clod_shldr_topcntr_stks_ln_ft_0_all": {
-    "name": "\"beef, chck, clod, shldr top&cntr stks, ln & ft, 0\"\", all grds, grld\"",
+    "name": "beef, chck, clod, shoulder top&center steaks, lean & fat, 0\", all grades, grilled",
     "alternative_names": [],
-    "description": "\"beef, chck, clod, shldr top&cntr stks, ln & ft, 0\"\", all grds, grld\" from the USDA database."
+    "description": "\"beef, chck, clod, shoulder top&center steaks, lean & fat, 0\", all grades, grilled\"."
   },
   "beef_chk_und_bl_pot_rststk_bnl_ln_ft_0_ft_all": {
-    "name": "\"beef, chk, und bl pot rst/stk, bnl, ln & ft, 0\"\" ft,  all gr,  raw\"",
+    "name": "beef, chk, und bl pot rst/steak, boneless, lean & fat, 0\" fat, all gr, raw",
     "alternative_names": [],
-    "description": "\"beef, chk, und bl pot rst/stk, bnl, ln & ft, 0\"\" ft,  all gr,  raw\" from the USDA database."
+    "description": "\"beef, chk, und bl pot rst/steak, boneless, lean & fat, 0\" fat, all gr, raw\"."
   },
   "beef_chk_und_ble_cntr_stk_bnl_den_ct_lnft_0_f": {
-    "name": "\"beef, chk, und ble cntr stk, bnl, den ct, ln&ft,  0\"\" ft, ch, ckd, gld\"",
+    "name": "beef, chk, und ble center steak, boneless, den ct, lean&fat, 0\" fat, ch, cooked, grilled",
     "alternative_names": [],
-    "description": "\"beef, chk, und ble cntr stk, bnl, den ct, ln&ft,  0\"\" ft, ch, ckd, gld\" from the USDA database."
+    "description": "\"beef, chk, und ble center steak, boneless, den ct, lean&fat, 0\" fat, ch, cooked, grilled\"."
   },
   "beef_chk_und_bl_cntr_stk_bnl_den_cut_ln_ft_0f": {
-    "name": "\"beef, chk, und bl cntr stk, bnl, den cut, ln & ft, 0\"\"ft, all gr,  rw\"",
+    "name": "beef, chk, und bl center steak, boneless, den cut, lean & fat, 0\"fat, all gr, rw",
     "alternative_names": [],
-    "description": "\"beef, chk, und bl cntr stk, bnl, den cut, ln & ft, 0\"\"ft, all gr,  rw\" from the USDA database."
+    "description": "\"beef, chk, und bl center steak, boneless, den cut, lean & fat, 0\"fat, all gr, rw\"."
   },
   "beef_chk_und_ble_cntr_stk_bnl_den_cut_ln_ft_0": {
-    "name": "\"beef, chk, und ble cntr stk, bnl, den cut, ln & ft, 0\"\"ft,  sel, rw\"",
+    "name": "beef, chk, und ble center steak, boneless, den cut, lean & fat, 0\"fat, select, rw",
     "alternative_names": [],
-    "description": "\"beef, chk, und ble cntr stk, bnl, den cut, ln & ft, 0\"\"ft,  sel, rw\" from the USDA database."
+    "description": "\"beef, chk, und ble center steak, boneless, den cut, lean & fat, 0\"fat, select, rw\"."
   },
   "beef_rib_eye_rst_bne_in_lip_on_ln_18_ft_all_g": {
-    "name": "\"beef, rib eye rst, bne-in, lip-on, ln, 1/8\"\" ft, all grds, ckd, rstd\"",
+    "name": "beef, rib eye rst, bne-in, lip-on, lean, 1/8\" fat, all grades, cooked, rstd",
     "alternative_names": [],
-    "description": "\"beef, rib eye rst, bne-in, lip-on, ln, 1/8\"\" ft, all grds, ckd, rstd\" from the USDA database."
+    "description": "\"beef, rib eye rst, bne-in, lip-on, lean, 1/8\" fat, all grades, cooked, rstd\"."
   },
   "beef_rib_eye_stk_bn_in_lip_on_ln_ft_18_ft_al": {
-    "name": "\"beef, rib eye stk, bn-in, lip-on, ln & ft, 1/8\"\" ft, al gds, ckd, grl\"",
+    "name": "beef, rib eye steak, bun-in, lip-on, lean & fat, 1/8\" fat, all grades, cooked, grl",
     "alternative_names": [],
-    "description": "\"beef, rib eye stk, bn-in, lip-on, ln & ft, 1/8\"\" ft, al gds, ckd, grl\" from the USDA database."
+    "description": "\"beef, rib eye steak, bun-in, lip-on, lean & fat, 1/8\" fat, all grades, cooked, grl\"."
   },
   "beef_rib_eye_rst_bne_in_lp_on_ln_ft_18_ft_al": {
-    "name": "\"beef, rib eye rst, bne-in, lp-on, ln & ft, 1/8\"\" ft, al grd, ckd, rst\"",
+    "name": "beef, rib eye rst, bne-in, lp-on, lean & fat, 1/8\" fat, all grades, cooked, rst",
     "alternative_names": [],
-    "description": "\"beef, rib eye rst, bne-in, lp-on, ln & ft, 1/8\"\" ft, al grd, ckd, rst\" from the USDA database."
+    "description": "\"beef, rib eye rst, bne-in, lp-on, lean & fat, 1/8\" fat, all grades, cooked, rst\"."
   },
   "beef_rib_eye_stkrst_bne_in_ip_on_ln_ft_18_ft": {
-    "name": "\"beef, rib eye stk/rst, bne-in, ip-on, ln & ft, 1/8\"\" ft, al grds, rw\"",
+    "name": "beef, rib eye steak/rst, bne-in, ip-on, lean & fat, 1/8\" fat, al grades, rw",
     "alternative_names": [],
-    "description": "\"beef, rib eye stk/rst, bne-in, ip-on, ln & ft, 1/8\"\" ft, al grds, rw\" from the USDA database."
+    "description": "\"beef, rib eye steak/rst, bne-in, ip-on, lean & fat, 1/8\" fat, al grades, rw\"."
   },
   "beef_rib_eye_stk_bnls_lip_on_ln_ft_18_ft_al_g": {
-    "name": "\"beef, rib eye stk, bnls, lip-on, ln & ft, 1/8\"\" ft, al grd, ckd, grld\"",
+    "name": "beef, rib eye steak, bnls, lip-on, lean & fat, 1/8\" fat, all grades, cooked, grilled",
     "alternative_names": [],
-    "description": "\"beef, rib eye stk, bnls, lip-on, ln & ft, 1/8\"\" ft, al grd, ckd, grld\" from the USDA database."
+    "description": "\"beef, rib eye steak, bnls, lip-on, lean & fat, 1/8\" fat, all grades, cooked, grilled\"."
   },
   "beef_rib_eye_rst_bnls_lp_on_ln_ft_18_ft_all_g": {
-    "name": "\"beef, rib eye rst, bnls, lp-on, ln & ft, 1/8\"\" ft, all grd, ckd, rstd\"",
+    "name": "beef, rib eye rst, bnls, lp-on, lean & fat, 1/8\" fat, all grade, cooked, rstd",
     "alternative_names": [],
-    "description": "\"beef, rib eye rst, bnls, lp-on, ln & ft, 1/8\"\" ft, all grd, ckd, rstd\" from the USDA database."
+    "description": "\"beef, rib eye rst, bnls, lp-on, lean & fat, 1/8\" fat, all grade, cooked, rstd\"."
   },
   "beef_loin_top_srl_cp_stk_bnls_ln_ft_18_ft_alg": {
-    "name": "\"beef, loin, top srl cp stk, bnls, ln & ft, 1/8\"\" ft, algds, ckd, grld\"",
+    "name": "beef, loin, top srl cp steak, bnls, lean & fat, 1/8\" fat, algds, cooked, grilled",
     "alternative_names": [],
-    "description": "\"beef, loin, top srl cp stk, bnls, ln & ft, 1/8\"\" ft, algds, ckd, grld\" from the USDA database."
+    "description": "\"beef, loin, top srl cp steak, bnls, lean & fat, 1/8\" fat, algds, cooked, grilled\"."
   },
   "fish_salmon_coho_raw": {
     "name": "Fish, salmon, coho (silver), raw (alaska native)",
     "alternative_names": [],
-    "description": "Fish, salmon, coho (silver), raw (alaska native) from the USDA database."
+    "description": "Fish, salmon, coho (silver), raw (alaska native)."
   },
   "fish_salmon_sockeye_raw": {
     "name": "Fish, salmon, sockeye (red), raw (alaska native)",
     "alternative_names": [],
-    "description": "Fish, salmon, sockeye (red), raw (alaska native) from the USDA database."
+    "description": "Fish, salmon, sockeye (red), raw (alaska native)."
   },
   "fish_salmon_chum_raw": {
     "name": "Fish, salmon, chum, raw (alaska native)",
     "alternative_names": [],
-    "description": "Fish, salmon, chum, raw (alaska native) from the USDA database."
+    "description": "Fish, salmon, chum, raw (alaska native)."
   },
   "fish_salmon_king_raw": {
     "name": "Fish, salmon, king (chinook), raw (alaska native)",
     "alternative_names": [],
-    "description": "Fish, salmon, king (chinook), raw (alaska native) from the USDA database."
+    "description": "Fish, salmon, king (chinook), raw (alaska native)."
   },
   "fish_whitefish_dried": {
     "name": "Fish, whitefish, dried (alaska native)",
     "alternative_names": [],
-    "description": "Fish, whitefish, dried (alaska native) from the USDA database."
+    "description": "Fish, whitefish, dried (alaska native)."
   },
   "tamales_masa_pork_filling": {
     "name": "Tamales, masa & pork filling (hopi)",
     "alternative_names": [],
-    "description": "Tamales, masa & pork filling (hopi) from the USDA database."
+    "description": "Tamales, masa & pork filling (hopi)."
   },
   "restaurant_latino_pupusas_del_cerdo": {
     "name": "Restaurant, latino, pupusas del cerdo (pupusas, pork)",
     "alternative_names": [],
-    "description": "Restaurant, latino, pupusas del cerdo (pupusas, pork) from the USDA database."
+    "description": "Restaurant, latino, pupusas del cerdo (pupusas, pork)."
   },
   "restaurant_latino_tamale_pork": {
     "name": "Restaurant, latino, tamale, pork",
     "alternative_names": [],
-    "description": "Restaurant, latino, tamale, pork from the USDA database."
+    "description": "Restaurant, latino, tamale, pork."
   },
   "restaurant_chinese_swt_sour_pork": {
     "name": "Restaurant, chinese, swt & sour pork",
     "alternative_names": [],
-    "description": "Restaurant, chinese, swt & sour pork from the USDA database."
+    "description": "Restaurant, chinese, swt & sour pork."
   },
   "bologna_bfpork_lofat": {
     "name": "Bologna, bf&pork, lofat",
     "alternative_names": [],
-    "description": "Bologna, bf&pork, lofat from the USDA database."
+    "description": "Bologna, bf&pork, lofat."
   },
   "turkey_bacon_cooked": {
     "name": "Turkey bacon, cooked",
     "alternative_names": [],
-    "description": "Turkey bacon, cooked from the USDA database."
+    "description": "Turkey bacon, cooked."
   },
   "turkeypork_sausage_frsh_bulk_patty_or_link_ck": {
-    "name": "Turkey&pork sausage, frsh, bulk, patty or link, ckd",
+    "name": "Turkey&pork sausage, frsh, bulk, patty or link, cooked",
     "alternative_names": [],
-    "description": "Turkey&pork sausage, frsh, bulk, patty or link, ckd from the USDA database."
+    "description": "Turkey&pork sausage, frsh, bulk, patty or link, cooked."
   },
   "salad_drsng_bacontomato": {
-    "name": "Salad drsng, bacon&tomato",
+    "name": "Salad dressing, bacon&tomato",
     "alternative_names": [],
-    "description": "Salad drsng, bacon&tomato from the USDA database."
+    "description": "Salad dressing, bacon&tomato."
   },
   "turkey_wing_smoked_ckd_wskn_bone_removed": {
-    "name": "Turkey, wing, smoked, ckd, w/skn, bone removed",
+    "name": "Turkey, wing, smoked, cooked, with skin, bone removed",
     "alternative_names": [],
-    "description": "Turkey, wing, smoked, ckd, w/skn, bone removed from the USDA database."
+    "description": "Turkey, wing, smoked, cooked, with skin, bone removed."
   },
   "turkey_drumstk_smoked_ckd_wskn_bone_removed": {
-    "name": "Turkey, drumstk, smoked, ckd, w/skn, bone removed",
+    "name": "Turkey, drumstk, smoked, cooked, with skin, bone removed",
     "alternative_names": [],
-    "description": "Turkey, drumstk, smoked, ckd, w/skn, bone removed from the USDA database."
+    "description": "Turkey, drumstk, smoked, cooked, with skin, bone removed."
   },
   "pork_cured_bacon_ckd_brld_pan_fried_or_rstd_r": {
-    "name": "Pork, cured, bacon, ckd, brld, pan-fried or rstd, red na",
+    "name": "Pork, cured, bacon, cooked, broiled, pan-fried or rstd, red na",
     "alternative_names": [],
-    "description": "Pork, cured, bacon, ckd, brld, pan-fried or rstd, red na from the USDA database."
+    "description": "Pork, cured, bacon, cooked, broiled, pan-fried or rstd, red na."
   },
   "beef_bologna_red_na": {
     "name": "Beef, bologna, red na",
     "alternative_names": [],
-    "description": "Beef, bologna, red na from the USDA database."
+    "description": "Beef, bologna, red na."
   },
   "turkey_lt_or_dk_meat_smoked_ckd_wskn_bone_rem": {
-    "name": "Turkey, lt or dk meat, smoked, ckd, w/skn, bone removed",
+    "name": "Turkey, lt or dark meat, smoked, cooked, with skin, bone removed",
     "alternative_names": [],
-    "description": "Turkey, lt or dk meat, smoked, ckd, w/skn, bone removed from the USDA database."
+    "description": "Turkey, lt or dark meat, smoked, cooked, with skin, bone removed."
   },
   "turkey_lt_or_dk_meat_smoked_ckd_skn_bone_remo": {
-    "name": "Turkey, lt or dk meat, smoked, ckd, skn & bone removed",
+    "name": "Turkey, lt or dark meat, smoked, cooked, skin & bone removed",
     "alternative_names": [],
-    "description": "Turkey, lt or dk meat, smoked, ckd, skn & bone removed from the USDA database."
+    "description": "Turkey, lt or dark meat, smoked, cooked, skin & bone removed."
   },
   "frankfurter_lo_na": {
     "name": "Frankfurter, lo na",
     "alternative_names": [],
-    "description": "Frankfurter, lo na from the USDA database."
+    "description": "Frankfurter, lo na."
   }
 }

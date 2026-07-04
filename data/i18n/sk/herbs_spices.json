@@ -2,7 +2,7 @@
   "garlic_raw": {
     "name": "Cesnak, surový",
     "alternative_names": [],
-    "description": "Cesnak, surový podľa databázy USDA."
+    "description": "Cesnak, surový."
   },
   "parsley_dried": {
     "name": "Petržlenová vňať, sušená",
@@ -22,32 +22,32 @@
   "spices_cinnamon_ground": {
     "name": "Korenie, škorica, mleté",
     "alternative_names": [],
-    "description": "Korenie, škorica, mleté podľa databázy USDA."
+    "description": "Korenie, škorica, mleté."
   },
   "spices_curry_powder": {
     "name": "Korenie, kari",
     "alternative_names": [],
-    "description": "Korenie, kari podľa databázy USDA."
+    "description": "Korenie, kari."
   },
   "spices_marjoram_dried": {
     "name": "Korenie, majoránka, sušené",
     "alternative_names": [],
-    "description": "Korenie, majoránka, sušené podľa databázy USDA."
+    "description": "Korenie, majoránka, sušené."
   },
   "spices_mustard_seed_ground": {
     "name": "Korenie, horčičné semienko, mleté",
     "alternative_names": [],
-    "description": "Korenie, horčičné semienko, mleté podľa databázy USDA."
+    "description": "Korenie, horčičné semienko, mleté."
   },
   "spices_thyme_dried": {
     "name": "Korenie, tymian, sušené",
     "alternative_names": [],
-    "description": "Korenie, tymian, sušené podľa databázy USDA."
+    "description": "Korenie, tymian, sušené."
   },
   "spices_turmeric_ground": {
     "name": "Korenie, kurkuma, mleté",
     "alternative_names": [],
-    "description": "Korenie, kurkuma, mleté podľa databázy USDA."
+    "description": "Korenie, kurkuma, mleté."
   },
   "thyme_dried": {
     "name": "Tymian, sušený",
@@ -59,76 +59,79 @@
   "spices_basil_dried": {
     "name": "Korenie, bazalka, sušené",
     "alternative_names": [],
-    "description": "Korenie, bazalka, sušené z databázy USDA."
+    "description": "Korenie, bazalka, sušené."
   },
   "cinnamon_ground": {
     "name": "Škorica, mletá",
     "alternative_names": [],
-    "description": "Škorica, mletá z databázy USDA."
+    "description": "Škorica, mletá."
   },
   "curry_powder": {
     "name": "Kari prášok",
     "alternative_names": [],
-    "description": "Kari prášok z databázy USDA."
+    "description": "Kari prášok."
   },
   "garlic_powder": {
     "name": "Cesnakový prášok",
     "alternative_names": [],
-    "description": "Cesnakový prášok z databázy USDA."
+    "description": "Cesnakový prášok."
   },
   "marjoram_dried": {
     "name": "Majorán, sušený",
     "alternative_names": [],
-    "description": "Majorán, sušený z databázy USDA."
+    "description": "Majorán, sušený."
   },
   "spices_mustard_sd_ground": {
     "name": "Korenie, horčica sd, mletá",
     "alternative_names": [],
-    "description": "Korenie, horčica sd, mletá z databázy USDA."
+    "description": "Korenie, horčica sd, mletá."
   },
   "spices_oregano_dried": {
     "name": "Korenie, oregano, sušené",
     "alternative_names": [],
-    "description": "Korenie, oregano, sušené z databázy USDA."
+    "description": "Korenie, oregano, sušené."
   },
   "sage_ground": {
     "name": "Šalvia, zem",
     "alternative_names": [],
-    "description": "Šalvia, zem z databázy USDA."
+    "description": "Šalvia, zem."
   },
   "turmeric_ground": {
     "name": "Kurkuma, mletá",
     "alternative_names": [],
-    "description": "Kurkuma, mletá z databázy USDA."
+    "description": "Kurkuma, mletá."
   },
   "basil_fresh": {
     "name": "Bazalka, čerstvá",
     "alternative_names": [],
-    "description": "Bazalka, čerstvá z databázy USDA."
+    "description": "Bazalka, čerstvá."
   },
   "parsley_frsh": {
     "name": "Petržlen, čerstvý",
     "alternative_names": [],
-    "description": "Petržlen, čerstvý z databázy USDA."
+    "description": "Petržlen, čerstvý."
   },
   "english_muffins_raisin_cinnamon": {
     "name": "Anglické muffiny, hrozienkovo-škoricové (vrátane jablkovo-škoricového)",
     "alternative_names": [],
-    "description": "Anglické muffiny, hrozienkovo-škoricové (vrátane jablkovo-škoricového) z databázy USDA."
+    "description": "Anglické muffiny, hrozienkovo-škoricové (vrátane jablkovo-škoricového)."
   },
   "english_muffins_raisin_cinnamon_tstd": {
     "name": "Anglické muffiny, hrozienka-škorica, tstd (vrátane jablko-škorica)",
     "alternative_names": [],
-    "description": "Anglické muffiny, hrozienka-škorica, tstd (vrátane jablko-škorica) z databázy USDA."
+    "description": "Anglické muffiny, hrozienka-škorica, tstd (vrátane jablko-škorica)."
   },
   "cinnamon_buns_frstd": {
     "name": "Škoricové buchty, frstd (vrátane medových buchiet)",
     "alternative_names": [],
-    "description": "Škoricové buchty, frstd (vrátane medových buchiet) z databázy USDA."
+    "description": "Škoricové buchty, frstd (vrátane medových buchiet)."
   },
   "st_johns_wort": {
     "name": "Ľubovník bodkovaný",
-    "alternative_names": ["Třezalka tečkovaná", "bylina svätého Jána"],
+    "alternative_names": [
+      "Třezalka tečkovaná",
+      "bylina svätého Jána"
+    ],
     "description": "Bylinný extrakt alebo doplnok stravy z ľubovníka bodkovaného."
   },
   "ginger_raw": {
