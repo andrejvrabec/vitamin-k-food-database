@@ -22,7 +22,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "flour"
+      }
     },
     {
       "id": "biscuits_plain_or_buttermilk_refrigerate",
@@ -47,7 +50,10 @@
         "bakery",
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "bread_cheese",
@@ -72,7 +78,10 @@
         "bakery",
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "bread_french_or_vienna_toasted",
@@ -97,7 +106,10 @@
         "bakery",
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_oat_bran",
@@ -121,7 +133,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_oatmeal_toasted",
@@ -146,7 +161,10 @@
         "bakery",
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_pan_dulce_sweet_yeast_bread",
@@ -170,7 +188,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_protein",
@@ -194,7 +215,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_reduced_calorie_wheat",
@@ -218,7 +242,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_reduced_calorie_white",
@@ -242,7 +269,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_rye",
@@ -266,7 +296,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_salvadoran_sweet_cheese",
@@ -291,7 +324,10 @@
         "bakery",
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "bread_stuffing_cornbread_dry_mix_prepare",
@@ -315,7 +351,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_stuffing_dry_mix",
@@ -339,7 +378,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_wheat",
@@ -363,7 +405,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_white_commercially_prepared_toaste",
@@ -388,7 +433,10 @@
         "bakery",
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_white_wheat",
@@ -412,7 +460,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_whole_wheat_commercially_prepared",
@@ -437,7 +488,10 @@
         "bakery",
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "cereals_cream_of_wheat_instant_dry",
@@ -461,7 +515,13 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cream",
+        "related_ids": [
+          "cereals_cream_of_wheat_instant_prepared"
+        ]
+      }
     },
     {
       "id": "cereals_cream_of_wheat_instant_prepared",
@@ -486,7 +546,13 @@
         "cooked",
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cream",
+        "related_ids": [
+          "cereals_cream_of_wheat_instant_dry"
+        ]
+      }
     },
     {
       "id": "cereals_oats_instant_fortified_with_rais",
@@ -510,7 +576,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_quaker_multigrain_oatmeal",
@@ -534,7 +603,13 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal",
+        "related_ids": [
+          "cereals_quaker_quaker_multigrain_oatmeal_dry"
+        ]
+      }
     },
     {
       "id": "cereals_ready_to_eat_barbaras_puffins_or",
@@ -558,7 +633,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_ready_to_eat_granola_homemade",
@@ -582,7 +660,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_ready_to_eat_natures_path_organi",
@@ -605,7 +686,10 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_ready_to_eat_post_cocoa_pebbles",
@@ -630,7 +714,10 @@
         "bakery",
         "chocolate",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_ready_to_eat_post_honey_bunches",
@@ -654,7 +741,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_ready_to_eat_post_honeycomb_cere",
@@ -678,7 +768,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_ready_to_eat_post_shredded_wheat",
@@ -702,7 +795,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_ready_to_eat_quaker_quaker_crunc",
@@ -726,7 +822,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_ready_to_eat_quaker_quaker_oat_l",
@@ -750,7 +849,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_ready_to_eat_quaker_quaker_puffe",
@@ -774,7 +876,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cookies_chocolate_chip_commercially_prep",
@@ -801,7 +906,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_chocolate_sandwich_with_creme_fi",
@@ -829,7 +937,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_chocolate_sandwich_with_extra_cr",
@@ -857,7 +968,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_chocolate_wafers",
@@ -884,7 +998,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_oatmeal_commercially_prepared_re",
@@ -911,7 +1028,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_oatmeal_commercially_prepared_sp",
@@ -938,7 +1058,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_peanut_butter_sandwich_regular",
@@ -967,7 +1090,10 @@
         "legumes",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "butter"
+      }
     },
     {
       "id": "cookies_vanilla_sandwich_with_creme_fill",
@@ -994,7 +1120,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "corn_sweet_yellow_frozen_kernels_cut_off",
@@ -1017,7 +1146,10 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "cracker_meal",
@@ -1042,7 +1174,10 @@
         "bakery",
         "k1",
         "processed"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "crackers_cheese_sandwich_type_with_chees",
@@ -1069,7 +1204,10 @@
         "fast_food",
         "k2",
         "processed"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "crackers_saltines_whole_wheat",
@@ -1094,7 +1232,10 @@
         "bakery",
         "k1",
         "processed"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "crackers_standard_snack_type_sandwich_wi",
@@ -1120,7 +1261,10 @@
         "fast_food",
         "k1",
         "processed"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "crackers_wheat_regular",
@@ -1145,7 +1289,10 @@
         "bakery",
         "k1",
         "processed"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "croutons_seasoned",
@@ -1195,7 +1342,10 @@
         "dairy",
         "k2",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "danish_pastry_cinnamon_enriched",
@@ -1220,7 +1370,10 @@
         "bakery",
         "k1",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cinnamon"
+      }
     },
     {
       "id": "fast_foods_croissant_with_egg_cheese_and",
@@ -1246,7 +1399,10 @@
         "egg",
         "fast_food",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "focaccia_italian_flatbread_plain",
@@ -1294,7 +1450,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "garlic"
+      }
     },
     {
       "id": "macaroni_vegetable_enriched_cooked",
@@ -1319,7 +1478,10 @@
         "bakery",
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "noodles_egg_dry_unenriched",
@@ -1343,7 +1505,10 @@
       "tags": [
         "egg",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "noodles_egg_spinach_enriched_cooked",
@@ -1369,7 +1534,10 @@
         "egg",
         "k1",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "oat_flour_partially_debranned",
@@ -1393,7 +1561,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "pancakes_buckwheat_dry_mix_incomplete",
@@ -1418,7 +1589,10 @@
         "bakery",
         "k1",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pancakes_plain_frozen_ready_to_heat_micr",
@@ -1443,7 +1617,10 @@
         "bakery",
         "k1",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pasta_dry_enriched",
@@ -1467,7 +1644,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "pasta_dry_unenriched",
@@ -1491,7 +1671,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "pasta_whole_wheat_dry",
@@ -1515,7 +1698,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "pie_banana_cream_prepared_from_recipe",
@@ -1543,7 +1729,10 @@
         "k2",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "banana"
+      }
     },
     {
       "id": "pie_blueberry_commercially_prepared",
@@ -1570,7 +1759,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "blueberry"
+      }
     },
     {
       "id": "pie_cherry_commercially_prepared",
@@ -1597,7 +1789,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cherry"
+      }
     },
     {
       "id": "pie_crust_cookie_type_chocolate_ready_cr",
@@ -1624,7 +1819,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "pie_fried_pies_fruit",
@@ -1651,7 +1849,10 @@
         "k1",
         "processed",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "popcorn_sugar_syrupcaramel_fat_free",
@@ -1675,7 +1876,10 @@
       "tags": [
         "k1",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "fat"
+      }
     },
     {
       "id": "puddings_rice_ready_to_eat",
@@ -1699,7 +1903,10 @@
       "tags": [
         "k1",
         "processed"
-      ]
+      ],
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "rice_white_long_grain_regular_raw_unenri",
@@ -1724,7 +1931,10 @@
         "k1",
         "processed",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "sorghum_flour_whole_grain",
@@ -1748,7 +1958,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "flour"
+      }
     },
     {
       "id": "wheat_flour_white_all_purpose_unenriched",
@@ -1772,7 +1985,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "flour"
+      }
     },
     {
       "id": "wheat_flour_white_bread_enriched",
@@ -1796,7 +2012,10 @@
       "tags": [
         "bakery",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "ice_crm_cookie_sndwch",
@@ -1822,7 +2041,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01239)"
+      "source": "USDA SR28 (NDB No: 01239)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "pumpkin_pie_spice",
@@ -1856,7 +2078,10 @@
           "vitamin_k_100g_mcg": 50.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02035)"
+      "source": "USDA SR28 (NDB No: 02035)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "babyfood_cookie_baby_fruit",
@@ -1882,7 +2107,10 @@
           "vitamin_k_100g_mcg": 3.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 03206)"
+      "source": "USDA SR28 (NDB No: 03206)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "babyfood_crackers_veg",
@@ -1907,7 +2135,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 03209)"
+      "source": "USDA SR28 (NDB No: 03209)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "babyfood_cookies",
@@ -1940,7 +2171,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 03213)"
+      "source": "USDA SR28 (NDB No: 03213)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "babyfood_cookies_arrowroot",
@@ -1973,7 +2207,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 03214)"
+      "source": "USDA SR28 (NDB No: 03214)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "oil_rice_bran",
@@ -2004,7 +2241,10 @@
           "vitamin_k_100g_mcg": 24.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 04037)"
+      "source": "USDA SR28 (NDB No: 04037)",
+      "relations": {
+        "group": "oil"
+      }
     },
     {
       "id": "oil_wheat_germ",
@@ -2035,7 +2275,10 @@
           "vitamin_k_100g_mcg": 24.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 04038)"
+      "source": "USDA SR28 (NDB No: 04038)",
+      "relations": {
+        "group": "oil"
+      }
     },
     {
       "id": "oil_corn_industrial_rtl_allpurp_salad_or_cook",
@@ -2066,7 +2309,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 04518)"
+      "source": "USDA SR28 (NDB No: 04518)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "margarine_80_fat_stk_incl_reg_hydr_corn_soybn",
@@ -2092,7 +2338,10 @@
           "vitamin_k_100g_mcg": 75.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 04628)"
+      "source": "USDA SR28 (NDB No: 04628)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "oil_industrial_soy_for_popcorn_flavoring_veg",
@@ -2125,7 +2374,10 @@
           "vitamin_k_100g_mcg": 24.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 04648)"
+      "source": "USDA SR28 (NDB No: 04648)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "shortening_industrial_soy_corn_for_frying",
@@ -2158,7 +2410,10 @@
           "vitamin_k_100g_mcg": 43.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 04666)"
+      "source": "USDA SR28 (NDB No: 04666)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "healthy_request_chick_w_rice_cond",
@@ -2182,7 +2437,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 06029)"
+      "source": "USDA SR28 (NDB No: 06029)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_all_bran_origina",
@@ -2206,7 +2464,10 @@
           "vitamin_k_100g_mcg": 5.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08001)"
+      "source": "USDA SR28 (NDB No: 08001)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_alpha_bits",
@@ -2237,7 +2498,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08002)"
+      "source": "USDA SR28 (NDB No: 08002)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_appl_jacks",
@@ -2261,7 +2525,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08003)"
+      "source": "USDA SR28 (NDB No: 08003)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_all_bran_bran_bu",
@@ -2285,7 +2552,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08005)"
+      "source": "USDA SR28 (NDB No: 08005)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_capn_crunch",
@@ -2309,7 +2579,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08010)"
+      "source": "USDA SR28 (NDB No: 08010)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_capn_crunch_w_crunchberrie",
@@ -2333,7 +2606,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08011)"
+      "source": "USDA SR28 (NDB No: 08011)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_capn_crunchs_pnut_butter_c",
@@ -2358,7 +2634,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08012)"
+      "source": "USDA SR28 (NDB No: 08012)",
+      "relations": {
+        "group": "butter"
+      }
     },
     {
       "id": "cereals_rte_general_mills_cheerios",
@@ -2382,7 +2661,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 08013)"
+      "source": "USDA SR28 (NDB No: 08013)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_cocoa_krispies",
@@ -2409,7 +2691,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08014)"
+      "source": "USDA SR28 (NDB No: 08014)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_cocoa_pebbles",
@@ -2434,7 +2719,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08015)"
+      "source": "USDA SR28 (NDB No: 08015)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_cookie_crisp",
@@ -2460,7 +2748,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 08017)"
+      "source": "USDA SR28 (NDB No: 08017)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cereals_rte_quaker_quaker_crunchy_bran",
@@ -2484,7 +2775,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08018)"
+      "source": "USDA SR28 (NDB No: 08018)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_corn_chex",
@@ -2508,7 +2802,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08019)"
+      "source": "USDA SR28 (NDB No: 08019)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "cereals_rte_corn_flakes_lo_na",
@@ -2539,7 +2836,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08022)"
+      "source": "USDA SR28 (NDB No: 08022)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_cracklin_oat_bra",
@@ -2563,7 +2863,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08023)"
+      "source": "USDA SR28 (NDB No: 08023)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_all_bran_complet",
@@ -2587,7 +2890,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08028)"
+      "source": "USDA SR28 (NDB No: 08028)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_bran_flakes_single_brand",
@@ -2611,7 +2917,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08029)"
+      "source": "USDA SR28 (NDB No: 08029)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_froot_loops",
@@ -2635,7 +2944,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08030)"
+      "source": "USDA SR28 (NDB No: 08030)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kelloggs_frstd_mini_wheats_big_bi",
@@ -2659,7 +2971,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08031)"
+      "source": "USDA SR28 (NDB No: 08031)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_frstd_rice_krisp",
@@ -2683,7 +2998,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08032)"
+      "source": "USDA SR28 (NDB No: 08032)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cereals_rte_post_fruity_pebbles",
@@ -2707,7 +3025,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08034)"
+      "source": "USDA SR28 (NDB No: 08034)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_golden_grahams",
@@ -2732,7 +3053,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08035)"
+      "source": "USDA SR28 (NDB No: 08035)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_granola_homemade",
@@ -2763,7 +3087,10 @@
           "vitamin_k_100g_mcg": 8.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08037)"
+      "source": "USDA SR28 (NDB No: 08037)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_grape_nuts_crl",
@@ -2787,7 +3114,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08038)"
+      "source": "USDA SR28 (NDB No: 08038)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_post_grape_nuts_flakes",
@@ -2811,7 +3141,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 08039)"
+      "source": "USDA SR28 (NDB No: 08039)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_general_mills_honey_nut_cheerios",
@@ -2835,7 +3168,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08045)"
+      "source": "USDA SR28 (NDB No: 08045)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_honeycomb_crl",
@@ -2859,7 +3195,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08046)"
+      "source": "USDA SR28 (NDB No: 08046)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_king_vitaman",
@@ -2883,7 +3222,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08047)"
+      "source": "USDA SR28 (NDB No: 08047)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_kix",
@@ -2907,7 +3249,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08048)"
+      "source": "USDA SR28 (NDB No: 08048)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_quaker_oat_life_pln",
@@ -2938,7 +3283,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08049)"
+      "source": "USDA SR28 (NDB No: 08049)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_lucky_charms",
@@ -2962,7 +3310,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 08050)"
+      "source": "USDA SR28 (NDB No: 08050)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_100_nat_granola_oats_wheat",
@@ -2986,7 +3337,10 @@
           "vitamin_k_100g_mcg": 7.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 08054)"
+      "source": "USDA SR28 (NDB No: 08054)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_honey_nut_chex",
@@ -3010,7 +3364,10 @@
           "vitamin_k_100g_mcg": 0.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08057)"
+      "source": "USDA SR28 (NDB No: 08057)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_product_19",
@@ -3034,7 +3391,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08058)"
+      "source": "USDA SR28 (NDB No: 08058)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_swt_crunchquisp",
@@ -3058,7 +3418,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08059)"
+      "source": "USDA SR28 (NDB No: 08059)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_raisin_bran",
@@ -3082,7 +3445,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08060)"
+      "source": "USDA SR28 (NDB No: 08060)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_post_raisin_bran_crl",
@@ -3106,7 +3472,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08061)"
+      "source": "USDA SR28 (NDB No: 08061)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_general_mills_rice_chex",
@@ -3130,7 +3499,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08064)"
+      "source": "USDA SR28 (NDB No: 08064)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cereals_rte_quaker_quaker_puffed_rice",
@@ -3154,7 +3526,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08066)"
+      "source": "USDA SR28 (NDB No: 08066)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_spl_k",
@@ -3178,7 +3553,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08067)"
+      "source": "USDA SR28 (NDB No: 08067)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_frstd_flakes",
@@ -3209,7 +3587,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08069)"
+      "source": "USDA SR28 (NDB No: 08069)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_honey_smacks",
@@ -3233,7 +3614,10 @@
           "vitamin_k_100g_mcg": 3.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08071)"
+      "source": "USDA SR28 (NDB No: 08071)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_golden_crisp",
@@ -3257,7 +3641,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08073)"
+      "source": "USDA SR28 (NDB No: 08073)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_ralston_tasteeos",
@@ -3288,7 +3675,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08074)"
+      "source": "USDA SR28 (NDB No: 08074)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_toasties_corn_flakes",
@@ -3320,7 +3710,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 08076)"
+      "source": "USDA SR28 (NDB No: 08076)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "cereals_rte_general_mills_whl_grain_total",
@@ -3344,7 +3737,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08077)"
+      "source": "USDA SR28 (NDB No: 08077)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_trix",
@@ -3368,7 +3764,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08078)"
+      "source": "USDA SR28 (NDB No: 08078)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_honey_nut_shredded_wheat",
@@ -3392,7 +3791,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 08081)"
+      "source": "USDA SR28 (NDB No: 08081)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_wheat_chex",
@@ -3416,7 +3818,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08082)"
+      "source": "USDA SR28 (NDB No: 08082)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_corn_bursts",
@@ -3440,7 +3845,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08083)"
+      "source": "USDA SR28 (NDB No: 08083)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "cereals_rte_wheat_germ_tstd_pln",
@@ -3471,7 +3879,10 @@
           "vitamin_k_100g_mcg": 3.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08084)"
+      "source": "USDA SR28 (NDB No: 08084)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_multi_grain_cheerio",
@@ -3495,7 +3906,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08087)"
+      "source": "USDA SR28 (NDB No: 08087)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_wheaties",
@@ -3519,7 +3933,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08089)"
+      "source": "USDA SR28 (NDB No: 08089)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_corn_grits_inst_cheddar_chs_fl",
@@ -3544,7 +3961,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 08094)"
+      "source": "USDA SR28 (NDB No: 08094)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "cereals_crm_of_rice_dry",
@@ -3568,7 +3988,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08100)"
+      "source": "USDA SR28 (NDB No: 08100)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cereals_crm_of_wheat_reg_10_minute_cooking_dr",
@@ -3599,7 +4022,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08102)"
+      "source": "USDA SR28 (NDB No: 08102)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_crm_of_wheat_reg_ckd_w_h2o_wo_salt",
@@ -3630,7 +4056,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08103)"
+      "source": "USDA SR28 (NDB No: 08103)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_cream_of_wheat_inst_dry",
@@ -3662,7 +4091,10 @@
           "vitamin_k_100g_mcg": 0.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08106)"
+      "source": "USDA SR28 (NDB No: 08106)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cereals_cream_of_wheat_inst_prep_w_h2o_wo_sal",
@@ -3694,7 +4126,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08107)"
+      "source": "USDA SR28 (NDB No: 08107)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cereals_maltex_dry",
@@ -3725,7 +4160,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08114)"
+      "source": "USDA SR28 (NDB No: 08114)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_maltex_ckd_w_h2o_wo_salt",
@@ -3756,7 +4194,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08115)"
+      "source": "USDA SR28 (NDB No: 08115)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_maypo_dry",
@@ -3787,7 +4228,10 @@
           "vitamin_k_100g_mcg": 3.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08118)"
+      "source": "USDA SR28 (NDB No: 08118)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_maypo_ckd_w_h2o_wo_salt",
@@ -3818,7 +4262,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08119)"
+      "source": "USDA SR28 (NDB No: 08119)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_oats_reg_quick_not_fort_dry",
@@ -3849,7 +4296,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08120)"
+      "source": "USDA SR28 (NDB No: 08120)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_oats_reg_quick_unenr_ckd_w_h2o_wo_sal",
@@ -3880,7 +4330,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08121)"
+      "source": "USDA SR28 (NDB No: 08121)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_oats_inst_fort_pln_dry",
@@ -3904,7 +4357,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 08122)"
+      "source": "USDA SR28 (NDB No: 08122)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_oats_inst_fort_pln_prep_w_h2o",
@@ -3935,7 +4391,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08123)"
+      "source": "USDA SR28 (NDB No: 08123)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_inst_oatmeal_appls_cinn_dry",
@@ -3959,7 +4418,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08124)"
+      "source": "USDA SR28 (NDB No: 08124)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_oats_inst_fort_w_cinn_spice_dry",
@@ -3983,7 +4445,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08128)"
+      "source": "USDA SR28 (NDB No: 08128)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_oats_inst_fort_w_cinn_spice_prep_w_h2",
@@ -4014,7 +4479,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08129)"
+      "source": "USDA SR28 (NDB No: 08129)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_oats_inst_fort_w_raisins_spice_dry",
@@ -4038,7 +4506,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08132)"
+      "source": "USDA SR28 (NDB No: 08132)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_oats_inst_fort_w_raisins_spice_prep_w",
@@ -4069,7 +4540,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08133)"
+      "source": "USDA SR28 (NDB No: 08133)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_marshmllw_mateys",
@@ -4093,7 +4567,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08138)"
+      "source": "USDA SR28 (NDB No: 08138)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_wheatena_dry",
@@ -4124,7 +4601,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08142)"
+      "source": "USDA SR28 (NDB No: 08142)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_whl_wheat_hot_nat_crl_dry",
@@ -4155,7 +4635,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08144)"
+      "source": "USDA SR28 (NDB No: 08144)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_whl_wheat_hot_nat_crl_ckd_w_h2o_wo_sa",
@@ -4186,7 +4669,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08145)"
+      "source": "USDA SR28 (NDB No: 08145)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_quaker_puffed_wheat",
@@ -4210,7 +4696,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08146)"
+      "source": "USDA SR28 (NDB No: 08146)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_wheat_shredded_pln_sugar_salt_fre",
@@ -4242,7 +4731,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08147)"
+      "source": "USDA SR28 (NDB No: 08147)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_shredded_wheat_spoon_size",
@@ -4266,7 +4758,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08148)"
+      "source": "USDA SR28 (NDB No: 08148)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_corn_grits_white_reg_quick_unenr_dry",
@@ -4297,7 +4792,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08158)"
+      "source": "USDA SR28 (NDB No: 08158)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "cereals_corn_grits_yel_reg_quick_unenr_dry",
@@ -4328,7 +4826,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08160)"
+      "source": "USDA SR28 (NDB No: 08160)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "cereals_crm_of_wheat_reg_ckd_w_h2o_w_salt",
@@ -4352,7 +4853,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 08169)"
+      "source": "USDA SR28 (NDB No: 08169)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_maltex_ckd_w_h2o_w_salt",
@@ -4383,7 +4887,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08176)"
+      "source": "USDA SR28 (NDB No: 08176)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_maypo_ckd_w_h2o_w_salt",
@@ -4414,7 +4921,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08179)"
+      "source": "USDA SR28 (NDB No: 08179)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_oats_reg_quick_inst_unenr_ckd_w_h2o_w",
@@ -4445,7 +4955,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08180)"
+      "source": "USDA SR28 (NDB No: 08180)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_wheatena_ckd_w_h2o_w_salt",
@@ -4476,7 +4989,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08182)"
+      "source": "USDA SR28 (NDB No: 08182)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_whl_wheat_hot_nat_crl_ckd_w_h2o_w_sal",
@@ -4507,7 +5023,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08183)"
+      "source": "USDA SR28 (NDB No: 08183)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_lofat_granola_wo",
@@ -4531,7 +5050,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08189)"
+      "source": "USDA SR28 (NDB No: 08189)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_shredded_wheat_lightly_frstd",
@@ -4555,7 +5077,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08191)"
+      "source": "USDA SR28 (NDB No: 08191)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_blueberry_morning",
@@ -4579,7 +5104,10 @@
           "vitamin_k_100g_mcg": 10.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 08192)"
+      "source": "USDA SR28 (NDB No: 08192)",
+      "relations": {
+        "group": "blueberry"
+      }
     },
     {
       "id": "cereals_rte_general_mills_reeses_puffs",
@@ -4603,7 +5131,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08194)"
+      "source": "USDA SR28 (NDB No: 08194)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_quaker_multigrain_oatmeal_dry",
@@ -4627,7 +5158,13 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08200)"
+      "source": "USDA SR28 (NDB No: 08200)",
+      "relations": {
+        "group": "cereal",
+        "related_ids": [
+          "cereals_quaker_quaker_multigrain_oatmeal"
+        ]
+      }
     },
     {
       "id": "cereals_rte_general_mills_oatmeal_crisp_crunc",
@@ -4651,7 +5188,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 08202)"
+      "source": "USDA SR28 (NDB No: 08202)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_coco_roos",
@@ -4675,7 +5215,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08206)"
+      "source": "USDA SR28 (NDB No: 08206)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_quaker_oat_cinn_life",
@@ -4699,7 +5242,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08210)"
+      "source": "USDA SR28 (NDB No: 08210)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_honey_graham_ohs",
@@ -4724,7 +5270,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08211)"
+      "source": "USDA SR28 (NDB No: 08211)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_sun_country_granola_w_almo",
@@ -4748,7 +5297,10 @@
           "vitamin_k_100g_mcg": 4.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08212)"
+      "source": "USDA SR28 (NDB No: 08212)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_quaker_oatmeal_squares",
@@ -4772,7 +5324,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08214)"
+      "source": "USDA SR28 (NDB No: 08214)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_quaker_cinn_oatmeal_square",
@@ -4796,7 +5351,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08215)"
+      "source": "USDA SR28 (NDB No: 08215)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_quaker_oat_bran_crl",
@@ -4820,7 +5378,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 08216)"
+      "source": "USDA SR28 (NDB No: 08216)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_quaker_granola_w_oats_whea",
@@ -4844,7 +5405,10 @@
           "vitamin_k_100g_mcg": 6.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 08218)"
+      "source": "USDA SR28 (NDB No: 08218)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_quaker_lofat_100_nat_granola_w_ra",
@@ -4868,7 +5432,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08220)"
+      "source": "USDA SR28 (NDB No: 08220)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_inst_oatmeal_fruit_crm_var_dry",
@@ -4892,7 +5459,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08225)"
+      "source": "USDA SR28 (NDB No: 08225)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_inst_oatmeal_raisins_dates_wal",
@@ -4916,7 +5486,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08228)"
+      "source": "USDA SR28 (NDB No: 08228)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_general_mills_berry_burst_cheerio",
@@ -4940,7 +5513,10 @@
           "vitamin_k_100g_mcg": 4.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 08239)"
+      "source": "USDA SR28 (NDB No: 08239)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_honey_nut_clusters",
@@ -4964,7 +5540,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 08243)"
+      "source": "USDA SR28 (NDB No: 08243)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_fiber_one_bran_crl",
@@ -4988,7 +5567,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08244)"
+      "source": "USDA SR28 (NDB No: 08244)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_oatmeal_crisp_heart",
@@ -5012,7 +5594,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 08245)"
+      "source": "USDA SR28 (NDB No: 08245)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_total_raisin_bran",
@@ -5036,7 +5621,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08247)"
+      "source": "USDA SR28 (NDB No: 08247)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_general_mills_raisin_nut_bran",
@@ -5060,7 +5648,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08261)"
+      "source": "USDA SR28 (NDB No: 08261)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_general_mills_basic_4",
@@ -5084,7 +5675,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 08262)"
+      "source": "USDA SR28 (NDB No: 08262)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_appl_cinn_cheerios",
@@ -5108,7 +5702,10 @@
           "vitamin_k_100g_mcg": 3.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08263)"
+      "source": "USDA SR28 (NDB No: 08263)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_frstd_cheerios",
@@ -5132,7 +5729,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08267)"
+      "source": "USDA SR28 (NDB No: 08267)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_frankenberry",
@@ -5156,7 +5756,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08268)"
+      "source": "USDA SR28 (NDB No: 08268)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_count_chocula",
@@ -5180,7 +5783,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 08270)"
+      "source": "USDA SR28 (NDB No: 08270)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_cocoa_puffs",
@@ -5205,7 +5811,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08271)"
+      "source": "USDA SR28 (NDB No: 08271)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_cinn_toast_crunch",
@@ -5230,7 +5839,10 @@
           "vitamin_k_100g_mcg": 7.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08272)"
+      "source": "USDA SR28 (NDB No: 08272)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "cereals_rte_general_mills_boo_berry",
@@ -5254,7 +5866,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 08273)"
+      "source": "USDA SR28 (NDB No: 08273)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_berry_berry_kix",
@@ -5278,7 +5893,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08274)"
+      "source": "USDA SR28 (NDB No: 08274)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_nature_valley_lofat",
@@ -5302,7 +5920,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08277)"
+      "source": "USDA SR28 (NDB No: 08277)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_lofat_granola_w",
@@ -5326,7 +5947,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08284)"
+      "source": "USDA SR28 (NDB No: 08284)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_mueslix",
@@ -5350,7 +5974,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08286)"
+      "source": "USDA SR28 (NDB No: 08286)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_rice_krispies_tr",
@@ -5376,7 +6003,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08288)"
+      "source": "USDA SR28 (NDB No: 08288)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cereals_rte_health_valley_fiber_7_flakes",
@@ -5400,7 +6030,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08290)"
+      "source": "USDA SR28 (NDB No: 08290)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_oat_cornwheat_squares_presweetene",
@@ -5424,7 +6057,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08305)"
+      "source": "USDA SR28 (NDB No: 08305)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_honey_crunch_cor",
@@ -5448,7 +6084,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08309)"
+      "source": "USDA SR28 (NDB No: 08309)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_smart_start_anti",
@@ -5472,7 +6111,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08318)"
+      "source": "USDA SR28 (NDB No: 08318)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kelloggs_frstd_mini_wheats_bite_s",
@@ -5503,7 +6145,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08319)"
+      "source": "USDA SR28 (NDB No: 08319)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_multi_bran_chex",
@@ -5527,7 +6172,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08345)"
+      "source": "USDA SR28 (NDB No: 08345)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_colossal_crunch",
@@ -5551,7 +6199,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08346)"
+      "source": "USDA SR28 (NDB No: 08346)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_berry_colossal_crunch",
@@ -5575,7 +6226,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08347)"
+      "source": "USDA SR28 (NDB No: 08347)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_tootie_fruities",
@@ -5599,7 +6253,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08349)"
+      "source": "USDA SR28 (NDB No: 08349)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_marshmllw_froot",
@@ -5623,7 +6280,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08376)"
+      "source": "USDA SR28 (NDB No: 08376)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_raisin_bran_crun",
@@ -5647,7 +6307,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08380)"
+      "source": "USDA SR28 (NDB No: 08380)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_spl_k_red_berrie",
@@ -5671,7 +6334,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08383)"
+      "source": "USDA SR28 (NDB No: 08383)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kashi_golean_crunch",
@@ -5695,7 +6361,10 @@
           "vitamin_k_100g_mcg": 6.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08386)"
+      "source": "USDA SR28 (NDB No: 08386)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kashi_heart_to_heart_honey_tstd_o",
@@ -5719,7 +6388,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08387)"
+      "source": "USDA SR28 (NDB No: 08387)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kashi_7_whl_grain_puffs",
@@ -5743,7 +6415,10 @@
           "vitamin_k_100g_mcg": 2.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08388)"
+      "source": "USDA SR28 (NDB No: 08388)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kashi_7_whl_grain_honey_puffs",
@@ -5767,7 +6442,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08389)"
+      "source": "USDA SR28 (NDB No: 08389)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kashi_good_friends",
@@ -5791,7 +6469,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 08390)"
+      "source": "USDA SR28 (NDB No: 08390)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kashi_golean",
@@ -5815,7 +6496,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 08393)"
+      "source": "USDA SR28 (NDB No: 08393)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_quick_oats_dry",
@@ -5839,7 +6523,10 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08402)"
+      "source": "USDA SR28 (NDB No: 08402)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_frstd_flakes",
@@ -5870,7 +6557,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08409)"
+      "source": "USDA SR28 (NDB No: 08409)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_inst_oatmeal_cinnamon_spice_dr",
@@ -5894,7 +6584,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08410)"
+      "source": "USDA SR28 (NDB No: 08410)",
+      "relations": {
+        "group": "cinnamon"
+      }
     },
     {
       "id": "cereals_quaker_inst_oatmeal_express_golden_br",
@@ -5918,7 +6611,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08414)"
+      "source": "USDA SR28 (NDB No: 08414)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_inst_oatmeal_banana_bread_dry",
@@ -5942,7 +6638,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08417)"
+      "source": "USDA SR28 (NDB No: 08417)",
+      "relations": {
+        "group": "banana"
+      }
     },
     {
       "id": "cereals_quaker_inst_oatmeal_express_bkd_appl",
@@ -5966,7 +6665,10 @@
           "vitamin_k_100g_mcg": 5.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08418)"
+      "source": "USDA SR28 (NDB No: 08418)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_inst_oatmeal_express_cinn_roll",
@@ -5990,7 +6692,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08419)"
+      "source": "USDA SR28 (NDB No: 08419)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "cereals_rte_uncle_sam_crl",
@@ -6014,7 +6719,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 08435)"
+      "source": "USDA SR28 (NDB No: 08435)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_quaker_inst_oatmeal_raisin_spice_dry",
@@ -6038,7 +6746,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08436)"
+      "source": "USDA SR28 (NDB No: 08436)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_kelloggs_fruit_harvest_strawberry",
@@ -6063,7 +6774,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08458)"
+      "source": "USDA SR28 (NDB No: 08458)",
+      "relations": {
+        "group": "strawberry"
+      }
     },
     {
       "id": "cereals_rte_kellgs_frstd_mini_whts_mple_brwn",
@@ -6087,7 +6801,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08459)"
+      "source": "USDA SR28 (NDB No: 08459)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kashi_good_friends_cinna_raisin_c",
@@ -6111,7 +6828,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 08461)"
+      "source": "USDA SR28 (NDB No: 08461)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_kashi_organic_promise_autumn_whea",
@@ -6135,7 +6855,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08462)"
+      "source": "USDA SR28 (NDB No: 08462)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kelloggs_red_sugar_frstd_flakes_c",
@@ -6160,7 +6883,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08469)"
+      "source": "USDA SR28 (NDB No: 08469)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kelloggs_spl_k_prot_plus",
@@ -6184,7 +6910,10 @@
           "vitamin_k_100g_mcg": 12.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08471)"
+      "source": "USDA SR28 (NDB No: 08471)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_honey_buzzers",
@@ -6208,7 +6937,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08476)"
+      "source": "USDA SR28 (NDB No: 08476)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_golden_puffs",
@@ -6239,7 +6971,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 08478)"
+      "source": "USDA SR28 (NDB No: 08478)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_honey_graham_squares",
@@ -6264,7 +6999,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08481)"
+      "source": "USDA SR28 (NDB No: 08481)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_puffed_wheat_crl",
@@ -6288,7 +7026,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08483)"
+      "source": "USDA SR28 (NDB No: 08483)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_raisin_bran_crl",
@@ -6312,7 +7053,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08484)"
+      "source": "USDA SR28 (NDB No: 08484)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_blueberry_muffin_tops",
@@ -6339,7 +7083,10 @@
           "vitamin_k_100g_mcg": 4.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08487)"
+      "source": "USDA SR28 (NDB No: 08487)",
+      "relations": {
+        "group": "blueberry"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_honey_nut_toasty_os_c",
@@ -6364,7 +7111,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08491)"
+      "source": "USDA SR28 (NDB No: 08491)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_puffed_rice_crl",
@@ -6388,7 +7138,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08492)"
+      "source": "USDA SR28 (NDB No: 08492)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_appl_zings",
@@ -6412,7 +7165,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08493)"
+      "source": "USDA SR28 (NDB No: 08493)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_cinn_toasters",
@@ -6437,7 +7193,10 @@
           "vitamin_k_100g_mcg": 5.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08494)"
+      "source": "USDA SR28 (NDB No: 08494)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_cocoa_dyno_bites",
@@ -6462,7 +7221,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08495)"
+      "source": "USDA SR28 (NDB No: 08495)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_malt_o_meal_fruity_dyno_bites",
@@ -6486,7 +7248,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08501)"
+      "source": "USDA SR28 (NDB No: 08501)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_natures_path_optimum",
@@ -6510,7 +7275,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08502)"
+      "source": "USDA SR28 (NDB No: 08502)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_natures_path_optimum_slim",
@@ -6534,7 +7302,10 @@
           "vitamin_k_100g_mcg": 13.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 08503)"
+      "source": "USDA SR28 (NDB No: 08503)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_ralston_enr_bran_flakes",
@@ -6565,7 +7336,10 @@
           "vitamin_k_100g_mcg": 2.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 08504)"
+      "source": "USDA SR28 (NDB No: 08504)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_choc_lucky_charms",
@@ -6589,7 +7363,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08513)"
+      "source": "USDA SR28 (NDB No: 08513)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_cinn_mini_swirlz",
@@ -6613,7 +7390,10 @@
           "vitamin_k_100g_mcg": 12.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08520)"
+      "source": "USDA SR28 (NDB No: 08520)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_smorz",
@@ -6637,7 +7417,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 08530)"
+      "source": "USDA SR28 (NDB No: 08530)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_spl_k_fruit_yogurt",
@@ -6663,7 +7446,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08531)"
+      "source": "USDA SR28 (NDB No: 08531)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "cereals_rte_kelloggs_spl_k_vanilla_almond",
@@ -6687,7 +7473,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08543)"
+      "source": "USDA SR28 (NDB No: 08543)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_great_grains_cranberry_almon",
@@ -6711,7 +7500,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08544)"
+      "source": "USDA SR28 (NDB No: 08544)",
+      "relations": {
+        "group": "cranberry"
+      }
     },
     {
       "id": "rice_wheat_crl_bar",
@@ -6735,7 +7527,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08546)"
+      "source": "USDA SR28 (NDB No: 08546)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cereals_rte_quaker_christmas_crunch",
@@ -6759,7 +7554,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 08550)"
+      "source": "USDA SR28 (NDB No: 08550)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_cheerios_yogurt_bur",
@@ -6785,7 +7583,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 08553)"
+      "source": "USDA SR28 (NDB No: 08553)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "cereals_rte_rolled_oats_whl_wheat_rice_maple",
@@ -6809,7 +7610,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08554)"
+      "source": "USDA SR28 (NDB No: 08554)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cereals_rte_kashi_go_ln_crunch_honey_almond_f",
@@ -6833,7 +7637,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 08560)"
+      "source": "USDA SR28 (NDB No: 08560)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_25_less_sugar_cinn",
@@ -6858,7 +7665,10 @@
           "vitamin_k_100g_mcg": 10.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08579)"
+      "source": "USDA SR28 (NDB No: 08579)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_dora_the_explorer",
@@ -6882,7 +7692,10 @@
           "vitamin_k_100g_mcg": 3.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08582)"
+      "source": "USDA SR28 (NDB No: 08582)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_fruity_cheerios",
@@ -6906,7 +7719,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 08583)"
+      "source": "USDA SR28 (NDB No: 08583)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kelloggs_spl_k_chocolatey_delight",
@@ -6931,7 +7747,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08584)"
+      "source": "USDA SR28 (NDB No: 08584)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_general_mills_total_cranberry_cru",
@@ -6955,7 +7774,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08585)"
+      "source": "USDA SR28 (NDB No: 08585)",
+      "relations": {
+        "group": "cranberry"
+      }
     },
     {
       "id": "cereals_rte_general_mills_25_less_sugar_trix",
@@ -6980,7 +7802,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08586)"
+      "source": "USDA SR28 (NDB No: 08586)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_kellogg_kelloggs_spl_k_cinn_pecan",
@@ -7004,7 +7829,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 08602)"
+      "source": "USDA SR28 (NDB No: 08602)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_honey_bunches_of_oats_w_vani",
@@ -7028,7 +7856,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 08633)"
+      "source": "USDA SR28 (NDB No: 08633)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "corn_swt_yel_raw",
@@ -7060,7 +7891,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11167)"
+      "source": "USDA SR28 (NDB No: 11167)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_yel_ckd_bld_drnd_wosalt",
@@ -7091,7 +7925,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11168)"
+      "source": "USDA SR28 (NDB No: 11168)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_yel_frz_krnls_cut_off_cob_unprep",
@@ -7122,7 +7959,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11178)"
+      "source": "USDA SR28 (NDB No: 11178)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_yel_frz_krnls_cut_off_cob_bld_drnd_w",
@@ -7153,7 +7993,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11179)"
+      "source": "USDA SR28 (NDB No: 11179)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_yel_frz_krnls_on_cob_unprep",
@@ -7184,7 +8027,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11180)"
+      "source": "USDA SR28 (NDB No: 11180)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_yel_frz_krnls_on_cob_ckd_bld_drnd_wo",
@@ -7215,7 +8061,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11181)"
+      "source": "USDA SR28 (NDB No: 11181)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_yel_whl_kernel_frz_microwaved",
@@ -7240,7 +8089,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11182)"
+      "source": "USDA SR28 (NDB No: 11182)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "squash_wntr_spaghetti_raw",
@@ -7265,7 +8117,10 @@
           "vitamin_k_100g_mcg": 0.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11492)"
+      "source": "USDA SR28 (NDB No: 11492)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_spaghetti_ckd_bld_drnd_or_bkd_wos",
@@ -7289,7 +8144,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11493)"
+      "source": "USDA SR28 (NDB No: 11493)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "succotash_frz_ckd_bld_drnd_wosalt",
@@ -7344,7 +8202,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11656)"
+      "source": "USDA SR28 (NDB No: 11656)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "potato_pancakes",
@@ -7376,7 +8237,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11672)"
+      "source": "USDA SR28 (NDB No: 11672)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "corn_swt_yel_ckd_bld_drnd_wsalt",
@@ -7407,7 +8271,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11770)"
+      "source": "USDA SR28 (NDB No: 11770)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_yel_frz_krnls_on_cob_ckd_bld_drnd_ws",
@@ -7438,7 +8305,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11775)"
+      "source": "USDA SR28 (NDB No: 11775)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "squash_wntr_spaghetti_ckd_bld_drnd_or_bkd_wsa",
@@ -7462,7 +8332,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11870)"
+      "source": "USDA SR28 (NDB No: 11870)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "succotash_frz_ckd_bld_drnd_wsalt",
@@ -7518,7 +8391,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11900)"
+      "source": "USDA SR28 (NDB No: 11900)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_white_ckd_bld_drnd_wosalt",
@@ -7549,7 +8425,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11901)"
+      "source": "USDA SR28 (NDB No: 11901)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_white_ckd_bld_drnd_wsalt",
@@ -7580,7 +8459,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11902)"
+      "source": "USDA SR28 (NDB No: 11902)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_white_cnd_whl_kernel_drnd_sol",
@@ -7611,7 +8493,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11905)"
+      "source": "USDA SR28 (NDB No: 11905)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_white_cnd_crm_style_reg_pk",
@@ -7642,7 +8527,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11906)"
+      "source": "USDA SR28 (NDB No: 11906)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_white_cnd_crm_style_no_salt",
@@ -7673,7 +8561,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11907)"
+      "source": "USDA SR28 (NDB No: 11907)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_swt_white_frz_krnls_cut_off_cob_bld_drnd",
@@ -7704,7 +8595,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11911)"
+      "source": "USDA SR28 (NDB No: 11911)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "pickles_cucumber_swt",
@@ -7735,7 +8629,10 @@
           "vitamin_k_100g_mcg": 47.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11940)"
+      "source": "USDA SR28 (NDB No: 11940)",
+      "relations": {
+        "group": "cucumber"
+      }
     },
     {
       "id": "pickles_cucumber_swt_lo_na",
@@ -7766,7 +8663,10 @@
           "vitamin_k_100g_mcg": 76.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11948)"
+      "source": "USDA SR28 (NDB No: 11948)",
+      "relations": {
+        "group": "cucumber"
+      }
     },
     {
       "id": "cranberry_juc_cocktail_btld_lo_cal_wca_saccha",
@@ -7798,7 +8698,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 14243)"
+      "source": "USDA SR28 (NDB No: 14243)",
+      "relations": {
+        "group": "cranberry"
+      }
     },
     {
       "id": "rice_drk_unswtnd_w_added_ca_vitamins_a_d",
@@ -7822,7 +8725,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 14639)"
+      "source": "USDA SR28 (NDB No: 14639)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "soy_flour_full_fat_raw",
@@ -7856,7 +8762,10 @@
           "vitamin_k_100g_mcg": 72.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16115)"
+      "source": "USDA SR28 (NDB No: 16115)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "soy_flour_defatted",
@@ -7889,7 +8798,10 @@
           "vitamin_k_100g_mcg": 5.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16117)"
+      "source": "USDA SR28 (NDB No: 16117)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "soy_flour_low_fat",
@@ -7922,7 +8834,10 @@
           "vitamin_k_100g_mcg": 4.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16118)"
+      "source": "USDA SR28 (NDB No: 16118)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "chickpea_flour",
@@ -7947,7 +8862,10 @@
           "vitamin_k_100g_mcg": 9.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 16157)"
+      "source": "USDA SR28 (NDB No: 16157)",
+      "relations": {
+        "group": "flour"
+      }
     },
     {
       "id": "bagel_pln_tstd_enr_wca_prop",
@@ -7978,7 +8896,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18001)"
+      "source": "USDA SR28 (NDB No: 18001)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bagels_pln_tstd_enr_wca_prop",
@@ -8009,7 +8930,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18002)"
+      "source": "USDA SR28 (NDB No: 18002)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bagels_cinnamon_raisin",
@@ -8040,7 +8964,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18005)"
+      "source": "USDA SR28 (NDB No: 18005)",
+      "relations": {
+        "group": "cinnamon"
+      }
     },
     {
       "id": "bagels_cinnamon_raisin_tstd",
@@ -8071,7 +8998,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 18006)"
+      "source": "USDA SR28 (NDB No: 18006)",
+      "relations": {
+        "group": "cinnamon"
+      }
     },
     {
       "id": "bagels_oat_bran",
@@ -8102,7 +9032,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18007)"
+      "source": "USDA SR28 (NDB No: 18007)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "biscuits_pln_or_bttrmlk_refr_dough_lower_fat",
@@ -8133,7 +9066,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 18012)"
+      "source": "USDA SR28 (NDB No: 18012)",
+      "relations": {
+        "group": "fat"
+      }
     },
     {
       "id": "biscuit_pln_or_butmlk_refri_dough_higher_fat",
@@ -8164,7 +9100,10 @@
           "vitamin_k_100g_mcg": 6.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18014)"
+      "source": "USDA SR28 (NDB No: 18014)",
+      "relations": {
+        "group": "fat"
+      }
     },
     {
       "id": "biscuits_pln_or_bttrmlk_refr_dough_higher_fat",
@@ -8195,7 +9134,10 @@
           "vitamin_k_100g_mcg": 6.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18015)"
+      "source": "USDA SR28 (NDB No: 18015)",
+      "relations": {
+        "group": "fat"
+      }
     },
     {
       "id": "bread_boston_brown_canned",
@@ -8228,7 +9170,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18021)"
+      "source": "USDA SR28 (NDB No: 18021)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_cornbread_dry_mix_enr",
@@ -8259,7 +9204,10 @@
           "vitamin_k_100g_mcg": 5.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18022)"
+      "source": "USDA SR28 (NDB No: 18022)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_egg",
@@ -8291,7 +9239,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18027)"
+      "source": "USDA SR28 (NDB No: 18027)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "bread_egg_toasted",
@@ -8324,7 +9275,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18028)"
+      "source": "USDA SR28 (NDB No: 18028)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "bread_french_or_vienna",
@@ -8355,7 +9309,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18029)"
+      "source": "USDA SR28 (NDB No: 18029)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_french_or_vienna_tstd",
@@ -8386,7 +9343,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18030)"
+      "source": "USDA SR28 (NDB No: 18030)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_italian",
@@ -8417,7 +9377,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18033)"
+      "source": "USDA SR28 (NDB No: 18033)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_multi_grain",
@@ -8448,7 +9411,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18035)"
+      "source": "USDA SR28 (NDB No: 18035)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_multi_grain_tstd",
@@ -8479,7 +9445,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18036)"
+      "source": "USDA SR28 (NDB No: 18036)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_oat_bran_toasted",
@@ -8511,7 +9480,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18038)"
+      "source": "USDA SR28 (NDB No: 18038)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_oatmeal",
@@ -8542,7 +9514,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18039)"
+      "source": "USDA SR28 (NDB No: 18039)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_pita_white_enriched",
@@ -8573,7 +9548,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18041)"
+      "source": "USDA SR28 (NDB No: 18041)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_pita_whole_wheat",
@@ -8604,7 +9582,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18042)"
+      "source": "USDA SR28 (NDB No: 18042)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_prot",
@@ -8635,7 +9616,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18043)"
+      "source": "USDA SR28 (NDB No: 18043)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_pumpernickel",
@@ -8666,7 +9650,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 18044)"
+      "source": "USDA SR28 (NDB No: 18044)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_pumpernickel_tstd",
@@ -8697,7 +9684,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18045)"
+      "source": "USDA SR28 (NDB No: 18045)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_raisin_enriched",
@@ -8728,7 +9718,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18047)"
+      "source": "USDA SR28 (NDB No: 18047)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "bread_raisin_tstd_enr",
@@ -8759,7 +9752,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18048)"
+      "source": "USDA SR28 (NDB No: 18048)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "bread_red_cal_oat_bran",
@@ -8790,7 +9786,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18049)"
+      "source": "USDA SR28 (NDB No: 18049)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_red_cal_oat_bran_tstd",
@@ -8821,7 +9820,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18050)"
+      "source": "USDA SR28 (NDB No: 18050)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_reduced_calorie_rye",
@@ -8852,7 +9854,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18053)"
+      "source": "USDA SR28 (NDB No: 18053)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_red_cal_wheat",
@@ -8883,7 +9888,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18055)"
+      "source": "USDA SR28 (NDB No: 18055)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_red_cal_white",
@@ -8914,7 +9922,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18057)"
+      "source": "USDA SR28 (NDB No: 18057)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_rice_bran",
@@ -8945,7 +9956,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18059)"
+      "source": "USDA SR28 (NDB No: 18059)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_rye_toasted",
@@ -8977,7 +9991,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18061)"
+      "source": "USDA SR28 (NDB No: 18061)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_wheat_tstd",
@@ -9008,7 +10025,10 @@
           "vitamin_k_100g_mcg": 5.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 18065)"
+      "source": "USDA SR28 (NDB No: 18065)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_wheat_bran",
@@ -9039,7 +10059,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18066)"
+      "source": "USDA SR28 (NDB No: 18066)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_wheat_germ",
@@ -9070,7 +10093,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18068)"
+      "source": "USDA SR28 (NDB No: 18068)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_white_commly_prep",
@@ -9101,7 +10127,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18069)"
+      "source": "USDA SR28 (NDB No: 18069)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_white_commly_prep_tstd",
@@ -9132,7 +10161,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18070)"
+      "source": "USDA SR28 (NDB No: 18070)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_whole_wheat_comm_prepared",
@@ -9164,7 +10196,10 @@
           "vitamin_k_100g_mcg": 7.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 18075)"
+      "source": "USDA SR28 (NDB No: 18075)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_whole_wheat_commer_prep_toasted",
@@ -9196,7 +10231,10 @@
           "vitamin_k_100g_mcg": 8.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 18076)"
+      "source": "USDA SR28 (NDB No: 18076)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_whole_wheat_prep_from_recipe",
@@ -9227,7 +10265,10 @@
           "vitamin_k_100g_mcg": 9.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18077)"
+      "source": "USDA SR28 (NDB No: 18077)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_whole_wheat_prep_from_recipe_tstd",
@@ -9258,7 +10299,10 @@
           "vitamin_k_100g_mcg": 10.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18078)"
+      "source": "USDA SR28 (NDB No: 18078)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_crumbs_dry_grated_pln",
@@ -9289,7 +10333,10 @@
           "vitamin_k_100g_mcg": 6.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18079)"
+      "source": "USDA SR28 (NDB No: 18079)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_sticks_plain",
@@ -9320,7 +10367,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18080)"
+      "source": "USDA SR28 (NDB No: 18080)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_stuffing_bread_dry_mix",
@@ -9351,7 +10401,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18081)"
+      "source": "USDA SR28 (NDB No: 18081)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_stuffing_bread_dry_mix_prep",
@@ -9382,7 +10435,10 @@
           "vitamin_k_100g_mcg": 13.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18082)"
+      "source": "USDA SR28 (NDB No: 18082)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_stuffing_cornbread_dry_mix_prep",
@@ -9413,7 +10469,10 @@
           "vitamin_k_100g_mcg": 8.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 18085)"
+      "source": "USDA SR28 (NDB No: 18085)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "cake_boston_crm_pie_commly_prep",
@@ -9446,7 +10505,10 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18090)"
+      "source": "USDA SR28 (NDB No: 18090)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "cookies_choc_sndwch_wcreme_filling_reg_chocol",
@@ -9479,7 +10541,10 @@
           "vitamin_k_100g_mcg": 11.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18167)"
+      "source": "USDA SR28 (NDB No: 18167)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_graham_crackers_chocolate_coated",
@@ -9514,7 +10579,10 @@
           "vitamin_k_100g_mcg": 5.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18174)"
+      "source": "USDA SR28 (NDB No: 18174)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_marshmllw_chocolate_coated",
@@ -9548,7 +10616,10 @@
           "vitamin_k_100g_mcg": 7.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18176)"
+      "source": "USDA SR28 (NDB No: 18176)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_oatmeal_commly_prep_reg",
@@ -9581,7 +10652,10 @@
           "vitamin_k_100g_mcg": 8.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18178)"
+      "source": "USDA SR28 (NDB No: 18178)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_oatmeal_commly_prep_spl_dietary",
@@ -9614,7 +10688,10 @@
           "vitamin_k_100g_mcg": 7.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18200)"
+      "source": "USDA SR28 (NDB No: 18200)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_sugar_refr_dough",
@@ -9647,7 +10724,10 @@
           "vitamin_k_100g_mcg": 8.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 18205)"
+      "source": "USDA SR28 (NDB No: 18205)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_sugar_refr_dough_bkd",
@@ -9680,7 +10760,10 @@
           "vitamin_k_100g_mcg": 10.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18206)"
+      "source": "USDA SR28 (NDB No: 18206)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "puff_pastry_frz_rtb_bkd",
@@ -9712,7 +10795,10 @@
           "vitamin_k_100g_mcg": 16.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18211)"
+      "source": "USDA SR28 (NDB No: 18211)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "crackers_chs_sandwich_type_wpnut_butter_filli",
@@ -9746,7 +10832,10 @@
           "vitamin_k_100g_mcg": 12.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18215)"
+      "source": "USDA SR28 (NDB No: 18215)",
+      "relations": {
+        "group": "butter"
+      }
     },
     {
       "id": "crackers_melba_toast_pln",
@@ -9779,7 +10868,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18220)"
+      "source": "USDA SR28 (NDB No: 18220)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "crackers_saltines",
@@ -9811,7 +10903,10 @@
           "vitamin_k_100g_mcg": 15.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18228)"
+      "source": "USDA SR28 (NDB No: 18228)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "crackers_whole_wheat",
@@ -9843,7 +10938,10 @@
           "vitamin_k_100g_mcg": 27.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18235)"
+      "source": "USDA SR28 (NDB No: 18235)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "danish_pastry_cinn_enr",
@@ -9875,7 +10973,10 @@
           "vitamin_k_100g_mcg": 9.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18244)"
+      "source": "USDA SR28 (NDB No: 18244)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "danish_pastry_fruit_enr",
@@ -9907,7 +11008,10 @@
           "vitamin_k_100g_mcg": 5.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18246)"
+      "source": "USDA SR28 (NDB No: 18246)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "danish_pastry_nut",
@@ -9939,7 +11043,10 @@
           "vitamin_k_100g_mcg": 6.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18247)"
+      "source": "USDA SR28 (NDB No: 18247)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "doughnuts_cake_type_wheat_sugared_or_glazed",
@@ -9971,7 +11078,10 @@
           "vitamin_k_100g_mcg": 9.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18252)"
+      "source": "USDA SR28 (NDB No: 18252)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "english_muffin_pln_enchedwca_prop",
@@ -10005,7 +11115,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18258)"
+      "source": "USDA SR28 (NDB No: 18258)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "english_muffin_pln_tstd_enr_wca_prop",
@@ -10039,7 +11152,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18259)"
+      "source": "USDA SR28 (NDB No: 18259)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "english_muffins_wheat",
@@ -10073,7 +11189,10 @@
           "vitamin_k_100g_mcg": 0.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 18264)"
+      "source": "USDA SR28 (NDB No: 18264)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "english_muffins_wheat_tstd",
@@ -10107,7 +11226,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18265)"
+      "source": "USDA SR28 (NDB No: 18265)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "english_muffins_whole_wheat",
@@ -10141,7 +11263,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18266)"
+      "source": "USDA SR28 (NDB No: 18266)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "english_muffins_whole_wheat_tstd",
@@ -10175,7 +11300,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18267)"
+      "source": "USDA SR28 (NDB No: 18267)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "muffins_corn_commly_prep",
@@ -10209,7 +11337,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18279)"
+      "source": "USDA SR28 (NDB No: 18279)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "muffins_wheat_bran_toaster_type_wraisins",
@@ -10244,7 +11375,10 @@
           "vitamin_k_100g_mcg": 16.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18286)"
+      "source": "USDA SR28 (NDB No: 18286)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pancakes_pln_frz_rth",
@@ -10276,7 +11410,10 @@
           "vitamin_k_100g_mcg": 6.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18288)"
+      "source": "USDA SR28 (NDB No: 18288)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pancakes_pln_dry_mix_incomplete",
@@ -10308,7 +11445,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18291)"
+      "source": "USDA SR28 (NDB No: 18291)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_appl_commly_prep_enr_flr",
@@ -10341,7 +11481,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18301)"
+      "source": "USDA SR28 (NDB No: 18301)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_banana_crm_prep_from_recipe",
@@ -10374,7 +11517,10 @@
           "vitamin_k_100g_mcg": 6.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18304)"
+      "source": "USDA SR28 (NDB No: 18304)",
+      "relations": {
+        "group": "banana"
+      }
     },
     {
       "id": "pie_blueberry_commly_prep",
@@ -10407,7 +11553,10 @@
           "vitamin_k_100g_mcg": 10.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18305)"
+      "source": "USDA SR28 (NDB No: 18305)",
+      "relations": {
+        "group": "blueberry"
+      }
     },
     {
       "id": "pie_cherry_commly_prep",
@@ -10440,7 +11589,10 @@
           "vitamin_k_100g_mcg": 7.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18308)"
+      "source": "USDA SR28 (NDB No: 18308)",
+      "relations": {
+        "group": "cherry"
+      }
     },
     {
       "id": "pie_cocnt_creme_commly_prep",
@@ -10473,7 +11625,10 @@
           "vitamin_k_100g_mcg": 5.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18313)"
+      "source": "USDA SR28 (NDB No: 18313)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_egg_custard_commly_prep",
@@ -10507,7 +11662,10 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18317)"
+      "source": "USDA SR28 (NDB No: 18317)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "pie_lemon_meringue_commly_prep",
@@ -10540,7 +11698,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18320)"
+      "source": "USDA SR28 (NDB No: 18320)",
+      "relations": {
+        "group": "citrus"
+      }
     },
     {
       "id": "pie_mince_prep_from_recipe",
@@ -10573,7 +11734,10 @@
           "vitamin_k_100g_mcg": 5.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18322)"
+      "source": "USDA SR28 (NDB No: 18322)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_peach",
@@ -10607,7 +11771,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18323)"
+      "source": "USDA SR28 (NDB No: 18323)",
+      "relations": {
+        "group": "peach"
+      }
     },
     {
       "id": "pie_pecan_commly_prep",
@@ -10640,7 +11807,10 @@
           "vitamin_k_100g_mcg": 15.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18324)"
+      "source": "USDA SR28 (NDB No: 18324)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_pumpkin_commly_prep",
@@ -10674,7 +11844,10 @@
           "vitamin_k_100g_mcg": 13.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18326)"
+      "source": "USDA SR28 (NDB No: 18326)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "pie_vanilla_crm_prep_from_recipe",
@@ -10707,7 +11880,10 @@
           "vitamin_k_100g_mcg": 6.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18328)"
+      "source": "USDA SR28 (NDB No: 18328)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_crust_cookie_type_prep_from_recipe_graham",
@@ -10741,7 +11917,10 @@
           "vitamin_k_100g_mcg": 24.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18330)"
+      "source": "USDA SR28 (NDB No: 18330)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "pie_crust_standard_type_frz_rtb_enr",
@@ -10767,7 +11946,10 @@
           "vitamin_k_100g_mcg": 7.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18334)"
+      "source": "USDA SR28 (NDB No: 18334)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_crust_standard_type_frz_rtb_enr_bkd",
@@ -10793,7 +11975,10 @@
           "vitamin_k_100g_mcg": 7.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 18335)"
+      "source": "USDA SR28 (NDB No: 18335)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_crust_standard_type_prep_from_recipe_bkd",
@@ -10826,7 +12011,10 @@
           "vitamin_k_100g_mcg": 14.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 18336)"
+      "source": "USDA SR28 (NDB No: 18336)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "puff_pastry_frz_rtb",
@@ -10858,7 +12046,10 @@
           "vitamin_k_100g_mcg": 16.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18337)"
+      "source": "USDA SR28 (NDB No: 18337)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "phyllo_dough",
@@ -10913,7 +12104,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 18347)"
+      "source": "USDA SR28 (NDB No: 18347)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "rolls_dinner_whole_wheat",
@@ -10944,7 +12138,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18348)"
+      "source": "USDA SR28 (NDB No: 18348)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "waffles_pln_frz_rth",
@@ -10976,7 +12173,10 @@
           "vitamin_k_100g_mcg": 7.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18365)"
+      "source": "USDA SR28 (NDB No: 18365)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "bread_crumbs_dry_grated_seasoned",
@@ -11007,7 +12207,10 @@
           "vitamin_k_100g_mcg": 46.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18376)"
+      "source": "USDA SR28 (NDB No: 18376)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_prot_tstd",
@@ -11038,7 +12241,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18383)"
+      "source": "USDA SR28 (NDB No: 18383)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_rice_bran_toasted",
@@ -11070,7 +12276,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18384)"
+      "source": "USDA SR28 (NDB No: 18384)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_wheat_germ_toasted",
@@ -11102,7 +12311,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18385)"
+      "source": "USDA SR28 (NDB No: 18385)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "muffins_wheat_bran_toaster_type_wraisins_tstd",
@@ -11137,7 +12349,10 @@
           "vitamin_k_100g_mcg": 17.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18388)"
+      "source": "USDA SR28 (NDB No: 18388)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_crust_cookie_type_prep_from_recipe_choc_w",
@@ -11170,7 +12385,10 @@
           "vitamin_k_100g_mcg": 25.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18398)"
+      "source": "USDA SR28 (NDB No: 18398)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "pie_crust_cookie_type_prep_fr_recipe_graham_c",
@@ -11204,7 +12422,10 @@
           "vitamin_k_100g_mcg": 24.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18399)"
+      "source": "USDA SR28 (NDB No: 18399)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "pie_crust_cookie_type_prep_from_recipe_vanill",
@@ -11237,7 +12458,10 @@
           "vitamin_k_100g_mcg": 34.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18401)"
+      "source": "USDA SR28 (NDB No: 18401)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "pie_crust_standard_type_prep_from_recipe_unba",
@@ -11270,7 +12494,10 @@
           "vitamin_k_100g_mcg": 13.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18402)"
+      "source": "USDA SR28 (NDB No: 18402)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "waffles_pln_frz_ready_to_heat_tstd",
@@ -11302,7 +12529,10 @@
           "vitamin_k_100g_mcg": 6.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18403)"
+      "source": "USDA SR28 (NDB No: 18403)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "bread_white_commly_prep_lo_na_no_salt",
@@ -11333,7 +12563,10 @@
           "vitamin_k_100g_mcg": 3.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18416)"
+      "source": "USDA SR28 (NDB No: 18416)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "crackers_saltines_lo_salt",
@@ -11365,7 +12598,10 @@
           "vitamin_k_100g_mcg": 15.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18425)"
+      "source": "USDA SR28 (NDB No: 18425)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "crackers_wheat_low_salt",
@@ -11397,7 +12633,10 @@
           "vitamin_k_100g_mcg": 9.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18428)"
+      "source": "USDA SR28 (NDB No: 18428)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "crackers_whole_wheat_lo_salt",
@@ -11429,7 +12668,10 @@
           "vitamin_k_100g_mcg": 8.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18429)"
+      "source": "USDA SR28 (NDB No: 18429)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cookies_oatmeal_commly_prep_fat_free",
@@ -11455,7 +12697,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18456)"
+      "source": "USDA SR28 (NDB No: 18456)",
+      "relations": {
+        "group": "fat"
+      }
     },
     {
       "id": "crackers_chs_sandwich_type_w_chs_filling",
@@ -11488,7 +12733,10 @@
           "vitamin_k_100g_mcg": 21.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18927)"
+      "source": "USDA SR28 (NDB No: 18927)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "waffles_bttrmlk_frz_rth",
@@ -11520,7 +12768,10 @@
           "vitamin_k_100g_mcg": 10.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18932)"
+      "source": "USDA SR28 (NDB No: 18932)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pancakes_pln_frz_rth_microwave",
@@ -11553,7 +12804,10 @@
           "vitamin_k_100g_mcg": 7.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18936)"
+      "source": "USDA SR28 (NDB No: 18936)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "muffin_blueberry_commly_prep_low_fat",
@@ -11587,7 +12841,10 @@
           "vitamin_k_100g_mcg": 5.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18940)"
+      "source": "USDA SR28 (NDB No: 18940)",
+      "relations": {
+        "group": "blueberry"
+      }
     },
     {
       "id": "pie_crust_cookie_type_graham_cracker_ready_cr",
@@ -11621,7 +12878,10 @@
           "vitamin_k_100g_mcg": 22.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 18942)"
+      "source": "USDA SR28 (NDB No: 18942)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "pie_crust_cookie_type_choc_ready_crust",
@@ -11647,7 +12907,10 @@
           "vitamin_k_100g_mcg": 18.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18943)"
+      "source": "USDA SR28 (NDB No: 18943)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "pie_dutch_appl_commly_prep",
@@ -11680,7 +12943,10 @@
           "vitamin_k_100g_mcg": 16.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18944)"
+      "source": "USDA SR28 (NDB No: 18944)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_crust_deep_dish_frz_unbaked_made_w_enr_fl",
@@ -11707,7 +12973,10 @@
           "vitamin_k_100g_mcg": 15.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18945)"
+      "source": "USDA SR28 (NDB No: 18945)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_crust_refr_reg_bkd",
@@ -11733,7 +13002,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18946)"
+      "source": "USDA SR28 (NDB No: 18946)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pie_crust_deep_dish_frz_bkd_made_w_enr_flr",
@@ -11759,7 +13031,10 @@
           "vitamin_k_100g_mcg": 16.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18947)"
+      "source": "USDA SR28 (NDB No: 18947)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "crackers_whole_wheat_red_fat",
@@ -11791,7 +13066,10 @@
           "vitamin_k_100g_mcg": 12.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18949)"
+      "source": "USDA SR28 (NDB No: 18949)",
+      "relations": {
+        "group": "fat"
+      }
     },
     {
       "id": "crackers_wheat_red_fat",
@@ -11823,7 +13101,10 @@
           "vitamin_k_100g_mcg": 40.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18950)"
+      "source": "USDA SR28 (NDB No: 18950)",
+      "relations": {
+        "group": "fat"
+      }
     },
     {
       "id": "waffles_choc_chip_frz_rth",
@@ -11848,7 +13129,10 @@
           "vitamin_k_100g_mcg": 9.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 18951)"
+      "source": "USDA SR28 (NDB No: 18951)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "bread_salvadoran_swt_chs",
@@ -11879,7 +13163,10 @@
           "vitamin_k_100g_mcg": 11.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 18953)"
+      "source": "USDA SR28 (NDB No: 18953)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_pan_dulce_swt_yeast_bread",
@@ -11903,7 +13190,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18955)"
+      "source": "USDA SR28 (NDB No: 18955)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "pastry_pastelitos_de_guava",
@@ -11928,7 +13218,10 @@
           "vitamin_k_100g_mcg": 12.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18959)"
+      "source": "USDA SR28 (NDB No: 18959)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "garlic_bread_frz",
@@ -11959,7 +13252,10 @@
           "vitamin_k_100g_mcg": 29.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18963)"
+      "source": "USDA SR28 (NDB No: 18963)",
+      "relations": {
+        "group": "garlic"
+      }
     },
     {
       "id": "crackers_saltines_whl_wheat",
@@ -11984,7 +13280,10 @@
           "vitamin_k_100g_mcg": 18.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18966)"
+      "source": "USDA SR28 (NDB No: 18966)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "bread_wheat_white_wheat",
@@ -12008,7 +13307,10 @@
           "vitamin_k_100g_mcg": 7.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 18967)"
+      "source": "USDA SR28 (NDB No: 18967)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bagel_wheat",
@@ -12032,7 +13334,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18968)"
+      "source": "USDA SR28 (NDB No: 18968)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "bread_potato",
@@ -12056,7 +13361,10 @@
           "vitamin_k_100g_mcg": 6.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 18971)"
+      "source": "USDA SR28 (NDB No: 18971)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "bread_chs",
@@ -12080,7 +13388,10 @@
           "vitamin_k_100g_mcg": 32.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18972)"
+      "source": "USDA SR28 (NDB No: 18972)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "focaccia_italian_flatbread_pln",
@@ -12128,7 +13439,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 19023)"
+      "source": "USDA SR28 (NDB No: 19023)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "oriental_mix_rice_based",
@@ -12159,7 +13473,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 19031)"
+      "source": "USDA SR28 (NDB No: 19031)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "popcorn_air_popped",
@@ -12190,7 +13507,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 19034)"
+      "source": "USDA SR28 (NDB No: 19034)",
+      "relations": {
+        "group": "snack"
+      }
     },
     {
       "id": "popcorn_oil_popped",
@@ -12221,7 +13541,10 @@
           "vitamin_k_100g_mcg": 4.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 19035)"
+      "source": "USDA SR28 (NDB No: 19035)",
+      "relations": {
+        "group": "oil"
+      }
     },
     {
       "id": "popcorn_cakes",
@@ -12253,7 +13576,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 19036)"
+      "source": "USDA SR28 (NDB No: 19036)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "popcorn_caramel_coated_wpnuts",
@@ -12284,7 +13610,10 @@
           "vitamin_k_100g_mcg": 3.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 19038)"
+      "source": "USDA SR28 (NDB No: 19038)",
+      "relations": {
+        "group": "snack"
+      }
     },
     {
       "id": "popcorn_caramel_coated_wopnuts",
@@ -12308,7 +13637,10 @@
           "vitamin_k_100g_mcg": 12.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 19039)"
+      "source": "USDA SR28 (NDB No: 19039)",
+      "relations": {
+        "group": "snack"
+      }
     },
     {
       "id": "rice_cakes_brown_rice_pln",
@@ -12340,7 +13672,13 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 19051)"
+      "source": "USDA SR28 (NDB No: 19051)",
+      "relations": {
+        "group": "rice",
+        "related_ids": [
+          "rice_cakes_brown_rice_pln_unsalted"
+        ]
+      }
     },
     {
       "id": "candies_mars_snackfood_us_twix_caramel_cookie",
@@ -12373,7 +13711,10 @@
           "vitamin_k_100g_mcg": 5.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 19160)"
+      "source": "USDA SR28 (NDB No: 19160)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "candies_mars_snackfood_us_twix_pnut_butter_co",
@@ -12407,7 +13748,10 @@
           "vitamin_k_100g_mcg": 6.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 19161)"
+      "source": "USDA SR28 (NDB No: 19161)",
+      "relations": {
+        "group": "butter"
+      }
     },
     {
       "id": "puddings_rice_rte",
@@ -12438,7 +13782,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 19193)"
+      "source": "USDA SR28 (NDB No: 19193)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "pie_fillings_appl_cnd",
@@ -12471,7 +13818,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 19312)"
+      "source": "USDA SR28 (NDB No: 19312)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "sesame_stks_wheat_based_salted",
@@ -12504,7 +13854,10 @@
           "vitamin_k_100g_mcg": 8.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 19418)"
+      "source": "USDA SR28 (NDB No: 19418)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "cheese_puffs_twists_corn_bsd_bkd_lofat",
@@ -12529,7 +13882,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 19434)"
+      "source": "USDA SR28 (NDB No: 19434)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "rice_cakes_brown_rice_pln_unsalted",
@@ -12562,7 +13918,13 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 19816)"
+      "source": "USDA SR28 (NDB No: 19816)",
+      "relations": {
+        "group": "rice",
+        "related_ids": [
+          "rice_cakes_brown_rice_pln"
+        ]
+      }
     },
     {
       "id": "barley_hulled",
@@ -12662,7 +14024,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 20014)"
+      "source": "USDA SR28 (NDB No: 20014)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_bran_crude",
@@ -12686,7 +14051,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 20015)"
+      "source": "USDA SR28 (NDB No: 20015)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_flr_whole_grain_yel",
@@ -12710,7 +14078,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 20016)"
+      "source": "USDA SR28 (NDB No: 20016)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_flr_degermed_unenr_yel",
@@ -12734,7 +14105,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 20018)"
+      "source": "USDA SR28 (NDB No: 20018)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "rice_brown_long_grain_raw",
@@ -12759,7 +14133,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 20036)"
+      "source": "USDA SR28 (NDB No: 20036)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "rice_brown_long_grain_ckd",
@@ -12783,7 +14160,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 20037)"
+      "source": "USDA SR28 (NDB No: 20037)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "rice_white_long_grain_reg_raw_enr",
@@ -12808,7 +14188,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 20044)"
+      "source": "USDA SR28 (NDB No: 20044)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "rice_white_long_grain_parbld_enr_dry",
@@ -12832,7 +14215,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 20046)"
+      "source": "USDA SR28 (NDB No: 20046)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "rice_white_long_grain_preckd_or_inst_enr_dry",
@@ -12856,7 +14242,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 20048)"
+      "source": "USDA SR28 (NDB No: 20048)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "rice_bran_crude",
@@ -12880,7 +14269,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 20060)"
+      "source": "USDA SR28 (NDB No: 20060)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "rye_flour_dark",
@@ -12904,7 +14296,10 @@
           "vitamin_k_100g_mcg": 5.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 20063)"
+      "source": "USDA SR28 (NDB No: 20063)",
+      "relations": {
+        "group": "flour"
+      }
     },
     {
       "id": "rye_flour_medium",
@@ -12928,7 +14323,10 @@
           "vitamin_k_100g_mcg": 5.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 20064)"
+      "source": "USDA SR28 (NDB No: 20064)",
+      "relations": {
+        "group": "flour"
+      }
     },
     {
       "id": "rye_flour_light",
@@ -12952,7 +14350,10 @@
           "vitamin_k_100g_mcg": 5.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 20065)"
+      "source": "USDA SR28 (NDB No: 20065)",
+      "relations": {
+        "group": "flour"
+      }
     },
     {
       "id": "wheat_hard_red_spring",
@@ -13096,7 +14497,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 20080)"
+      "source": "USDA SR28 (NDB No: 20080)",
+      "relations": {
+        "group": "flour"
+      }
     },
     {
       "id": "wheat_flr_white_all_purpose_enr_bleached",
@@ -13168,7 +14572,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 20083)"
+      "source": "USDA SR28 (NDB No: 20083)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "wheat_flr_white_cake_enr",
@@ -13193,7 +14600,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 20084)"
+      "source": "USDA SR28 (NDB No: 20084)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "wheat_flr_white_tortilla_mix_enr",
@@ -13242,7 +14652,13 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 20088)"
+      "source": "USDA SR28 (NDB No: 20088)",
+      "relations": {
+        "group": "rice",
+        "related_ids": [
+          "wild_rice_cooked"
+        ]
+      }
     },
     {
       "id": "wild_rice_cooked",
@@ -13267,7 +14683,13 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 20089)"
+      "source": "USDA SR28 (NDB No: 20089)",
+      "relations": {
+        "group": "rice",
+        "related_ids": [
+          "wild_rice_raw"
+        ]
+      }
     },
     {
       "id": "macaroni_dry_enr",
@@ -13298,7 +14720,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 20099)"
+      "source": "USDA SR28 (NDB No: 20099)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "macaroni_veg_ckd_enr",
@@ -13322,7 +14747,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 20106)"
+      "source": "USDA SR28 (NDB No: 20106)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "macaroni_whole_wheat_ckd",
@@ -13346,7 +14774,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 20108)"
+      "source": "USDA SR28 (NDB No: 20108)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "noodles_egg_dry_enriched",
@@ -13378,7 +14809,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 20109)"
+      "source": "USDA SR28 (NDB No: 20109)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "noodles_egg_spinach_ckd_enr",
@@ -13403,7 +14837,10 @@
           "vitamin_k_100g_mcg": 101.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 20112)"
+      "source": "USDA SR28 (NDB No: 20112)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "noodles_chinese_chow_mein",
@@ -13434,7 +14871,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 20113)"
+      "source": "USDA SR28 (NDB No: 20113)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "noodles_flat_crunchy_chinese_restaurant",
@@ -13458,7 +14898,10 @@
           "vitamin_k_100g_mcg": 6.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 20118)"
+      "source": "USDA SR28 (NDB No: 20118)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "spaghetti_dry_enriched",
@@ -13482,7 +14925,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 20120)"
+      "source": "USDA SR28 (NDB No: 20120)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "spaghetti_whole_wheat_ckd",
@@ -13506,7 +14952,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 20125)"
+      "source": "USDA SR28 (NDB No: 20125)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "spaghetti_spinach_dry",
@@ -13530,7 +14979,10 @@
           "vitamin_k_100g_mcg": 151.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 20126)"
+      "source": "USDA SR28 (NDB No: 20126)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "wheat_flours_bread_unenr",
@@ -13554,7 +15006,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 20129)"
+      "source": "USDA SR28 (NDB No: 20129)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "barley_malt_flr",
@@ -13602,7 +15057,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 20316)"
+      "source": "USDA SR28 (NDB No: 20316)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "noodles_egg_dry_unenr",
@@ -13627,7 +15085,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 20409)"
+      "source": "USDA SR28 (NDB No: 20409)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "spaghetti_dry_unenriched",
@@ -13651,7 +15112,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 20420)"
+      "source": "USDA SR28 (NDB No: 20420)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "rice_white_long_grain_reg_raw_unenr",
@@ -13676,7 +15140,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 20444)"
+      "source": "USDA SR28 (NDB No: 20444)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "rice_white_long_grain_parbld_unenr_dry",
@@ -13700,7 +15167,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 20446)"
+      "source": "USDA SR28 (NDB No: 20446)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "wheat_flr_white_all_purpose_unenr",
@@ -13755,7 +15225,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 20499)"
+      "source": "USDA SR28 (NDB No: 20499)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "wheat_flr_white_all_purpose_enr_unbleached",
@@ -14029,7 +15502,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 21020)"
+      "source": "USDA SR28 (NDB No: 21020)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "fast_foods_eng_muffin_wegg_chs_canadian_bacon",
@@ -14059,7 +15535,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 21021)"
+      "source": "USDA SR28 (NDB No: 21021)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "fast_foods_eng_muffin_wegg_chs_sausage",
@@ -14089,7 +15568,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 21022)"
+      "source": "USDA SR28 (NDB No: 21022)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "fast_foods_french_toast_stks",
@@ -14121,7 +15603,10 @@
           "vitamin_k_100g_mcg": 14.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 21024)"
+      "source": "USDA SR28 (NDB No: 21024)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "burger_king_french_toast_stks",
@@ -14153,7 +15638,10 @@
           "vitamin_k_100g_mcg": 14.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 21386)"
+      "source": "USDA SR28 (NDB No: 21386)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "fast_foods_bagel_w_ham_egg_chs",
@@ -14179,7 +15667,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 21409)"
+      "source": "USDA SR28 (NDB No: 21409)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "fast_foods_bagel_w_egg_sausage_patty_chs_cond",
@@ -14206,7 +15697,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 21410)"
+      "source": "USDA SR28 (NDB No: 21410)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "fast_foods_bagel_w_brkfst_steak_egg_chs_condm",
@@ -14231,7 +15725,10 @@
           "vitamin_k_100g_mcg": 3.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 21411)"
+      "source": "USDA SR28 (NDB No: 21411)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "light_ice_crm_soft_serve_blended_w_cookie_pie",
@@ -14257,7 +15754,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 21413)"
+      "source": "USDA SR28 (NDB No: 21413)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "kentucky_fried_chick_popcorn_chick",
@@ -14289,7 +15789,10 @@
           "vitamin_k_100g_mcg": 17.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 21422)"
+      "source": "USDA SR28 (NDB No: 21422)",
+      "relations": {
+        "group": "snack"
+      }
     },
     {
       "id": "macaroni_chs_cnd_entree",
@@ -14313,7 +15816,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 22247)"
+      "source": "USDA SR28 (NDB No: 22247)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "spaghetti_w_meat_sau_frz_entree",
@@ -14344,7 +15850,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 22401)"
+      "source": "USDA SR28 (NDB No: 22401)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "pasta_wsliced_franks_in_tomato_sau_cnd_entree",
@@ -14368,7 +15877,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 22522)"
+      "source": "USDA SR28 (NDB No: 22522)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "beef_pot_pie_frz_entree_prep",
@@ -14395,7 +15907,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 22529)"
+      "source": "USDA SR28 (NDB No: 22529)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "hot_pockets_croissant_pockts_chik_brocchdr_st",
@@ -14420,7 +15935,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 22535)"
+      "source": "USDA SR28 (NDB No: 22535)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "tortellini_pasta_w_chs_filling_fresh_refriger",
@@ -14445,7 +15963,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 22901)"
+      "source": "USDA SR28 (NDB No: 22901)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "chicken_pot_pie_frz_entree_prep",
@@ -14472,7 +15993,10 @@
           "vitamin_k_100g_mcg": 5.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 22906)"
+      "source": "USDA SR28 (NDB No: 22906)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "pasta_wmeatballs_in_tomato_sau_cnd_entree",
@@ -14496,7 +16020,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 22907)"
+      "source": "USDA SR28 (NDB No: 22907)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "spaghetti_w_meatballs_cnd",
@@ -14527,7 +16054,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 22912)"
+      "source": "USDA SR28 (NDB No: 22912)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "pasta_w_tomato_sau_no_meat_cnd",
@@ -14558,7 +16088,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 22914)"
+      "source": "USDA SR28 (NDB No: 22914)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "rice_bowl_w_chick_frz_entree_prep",
@@ -14582,7 +16115,10 @@
           "vitamin_k_100g_mcg": 3.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 22958)"
+      "source": "USDA SR28 (NDB No: 22958)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "macaroni_chs_dinner_w_dry_sau_mix_boxed_unckd",
@@ -14606,7 +16142,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 22959)"
+      "source": "USDA SR28 (NDB No: 22959)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "macaroni_chs_frz_entree",
@@ -14637,7 +16176,10 @@
           "vitamin_k_100g_mcg": 5.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 22970)"
+      "source": "USDA SR28 (NDB No: 22970)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "corn_dogs_frz_prep",
@@ -14668,7 +16210,10 @@
           "vitamin_k_100g_mcg": 4.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 22973)"
+      "source": "USDA SR28 (NDB No: 22973)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "popcorn_oil_popped_lofat",
@@ -14692,7 +16237,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 25000)"
+      "source": "USDA SR28 (NDB No: 25000)",
+      "relations": {
+        "group": "oil"
+      }
     },
     {
       "id": "popcorn_microwave_reg_flavor_made_w_palm_oil",
@@ -14724,7 +16272,10 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 25026)"
+      "source": "USDA SR28 (NDB No: 25026)",
+      "relations": {
+        "group": "oil"
+      }
     },
     {
       "id": "corn_dried",
@@ -14741,7 +16292,10 @@
           "vitamin_k_100g_mcg": 0.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 35134)"
+      "source": "USDA SR28 (NDB No: 35134)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "corn_white_stmd",
@@ -14758,7 +16312,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 35135)"
+      "source": "USDA SR28 (NDB No: 35135)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "bread_kneel_down",
@@ -14782,7 +16339,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 35140)"
+      "source": "USDA SR28 (NDB No: 35140)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "stew_mutton_corn_squash",
@@ -14806,7 +16366,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 35146)"
+      "source": "USDA SR28 (NDB No: 35146)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "stew_stmd_corn",
@@ -14823,7 +16386,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 35148)"
+      "source": "USDA SR28 (NDB No: 35148)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "tennis_bread_pln",
@@ -14840,7 +16406,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 35187)"
+      "source": "USDA SR28 (NDB No: 35187)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "piki_bread_made_from_blue_cornmeal",
@@ -14871,7 +16440,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 35234)"
+      "source": "USDA SR28 (NDB No: 35234)",
+      "relations": {
+        "group": "bread"
+      }
     },
     {
       "id": "restaurant_latino_chick_rice_entree_prep",
@@ -14895,7 +16467,10 @@
           "vitamin_k_100g_mcg": 4.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 36401)"
+      "source": "USDA SR28 (NDB No: 36401)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "restaurant_latino_arroz_con_frijoles_negros",
@@ -15012,7 +16587,10 @@
           "vitamin_k_100g_mcg": 5.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 36411)"
+      "source": "USDA SR28 (NDB No: 36411)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "restaurant_latino_arepa",
@@ -15085,7 +16663,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 36602)"
+      "source": "USDA SR28 (NDB No: 36602)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cracker_barrel_chick_tenderloin_platter_fried",
@@ -15118,7 +16699,10 @@
           "vitamin_k_100g_mcg": 33.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 36604)"
+      "source": "USDA SR28 (NDB No: 36604)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cracker_barrel_country_fried_shrimp_platter",
@@ -15151,7 +16735,10 @@
           "vitamin_k_100g_mcg": 47.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 36605)"
+      "source": "USDA SR28 (NDB No: 36605)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cracker_barrel_farm_raised_catfish_platter",
@@ -15184,7 +16771,10 @@
           "vitamin_k_100g_mcg": 24.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 36606)"
+      "source": "USDA SR28 (NDB No: 36606)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cracker_barrel_steak_fries",
@@ -15209,7 +16799,10 @@
           "vitamin_k_100g_mcg": 19.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 36607)"
+      "source": "USDA SR28 (NDB No: 36607)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cracker_barrel_grilled_sirloin_steak",
@@ -15234,7 +16827,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 36608)"
+      "source": "USDA SR28 (NDB No: 36608)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "cracker_barrel_macaroni_n_chs_plate_from_kids",
@@ -15259,7 +16855,10 @@
           "vitamin_k_100g_mcg": 9.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 36609)"
+      "source": "USDA SR28 (NDB No: 36609)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "dennys_macaroni_chs_from_kids_menu",
@@ -15283,7 +16882,10 @@
           "vitamin_k_100g_mcg": 3.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 36613)"
+      "source": "USDA SR28 (NDB No: 36613)",
+      "relations": {
+        "group": "pasta"
+      }
     },
     {
       "id": "cereals_rte_marshmllw_alpha_bits",
@@ -15307,7 +16909,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 42100)"
+      "source": "USDA SR28 (NDB No: 42100)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "candies_mars_snackfood_us_twix_choc_fudge_coo",
@@ -15334,7 +16939,10 @@
           "vitamin_k_100g_mcg": 18.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 42183)"
+      "source": "USDA SR28 (NDB No: 42183)",
+      "relations": {
+        "group": "candy"
+      }
     },
     {
       "id": "cereals_rte_muesli_dried_fruit_nuts",
@@ -15358,7 +16966,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 42184)"
+      "source": "USDA SR28 (NDB No: 42184)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "pork_sausage_rice_links_brownserve_ckd",
@@ -15391,7 +17002,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 42190)"
+      "source": "USDA SR28 (NDB No: 42190)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "rice_cake_cracker",
@@ -15417,7 +17031,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 42204)"
+      "source": "USDA SR28 (NDB No: 42204)",
+      "relations": {
+        "group": "rice"
+      }
     },
     {
       "id": "cereals_rte_frstd_oat_crl_wmarshmallows",
@@ -15441,7 +17058,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 42236)"
+      "source": "USDA SR28 (NDB No: 42236)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_weetabix_whl_wheat_crl",
@@ -15472,7 +17092,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 42237)"
+      "source": "USDA SR28 (NDB No: 42237)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_honey_bunches_of_oats_w_almo",
@@ -15496,7 +17119,10 @@
           "vitamin_k_100g_mcg": 3.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 42240)"
+      "source": "USDA SR28 (NDB No: 42240)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_great_grains_crunchy_pecan_c",
@@ -15520,7 +17146,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 42261)"
+      "source": "USDA SR28 (NDB No: 42261)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_great_grains_raisin_date_pec",
@@ -15544,7 +17173,10 @@
           "vitamin_k_100g_mcg": 2.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 42265)"
+      "source": "USDA SR28 (NDB No: 42265)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "oil_corn_and_canola",
@@ -15575,7 +17207,10 @@
           "vitamin_k_100g_mcg": 42.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 42289)"
+      "source": "USDA SR28 (NDB No: 42289)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "cereals_rte_post_great_grains_banana_nut_crun",
@@ -15599,7 +17234,10 @@
           "vitamin_k_100g_mcg": 3.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 42297)"
+      "source": "USDA SR28 (NDB No: 42297)",
+      "relations": {
+        "group": "banana"
+      }
     },
     {
       "id": "breakfast_bars_oats_sugar_raisins_cocnt",
@@ -15617,7 +17255,10 @@
           "vitamin_k_100g_mcg": 15.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 43100)"
+      "source": "USDA SR28 (NDB No: 43100)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "cereals_rte_alpen",
@@ -15641,7 +17282,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 43218)"
+      "source": "USDA SR28 (NDB No: 43218)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_familia",
@@ -15665,7 +17309,10 @@
           "vitamin_k_100g_mcg": 3.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 43241)"
+      "source": "USDA SR28 (NDB No: 43241)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_wheatbran_presweetened_wnutsfruit",
@@ -15690,7 +17337,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 43245)"
+      "source": "USDA SR28 (NDB No: 43245)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "vegetables_mxd_cnd_no_salt",
@@ -15738,7 +17388,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 43393)"
+      "source": "USDA SR28 (NDB No: 43393)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_oat_bran_flakes_health_valley",
@@ -15762,7 +17415,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 43495)"
+      "source": "USDA SR28 (NDB No: 43495)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "cereals_rte_post_honey_bunches_of_oats_honey",
@@ -15786,7 +17442,10 @@
           "vitamin_k_100g_mcg": 3.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 43570)"
+      "source": "USDA SR28 (NDB No: 43570)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "popcorn_microwave_lofatna",
@@ -15811,7 +17470,10 @@
           "vitamin_k_100g_mcg": 16.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 43572)"
+      "source": "USDA SR28 (NDB No: 43572)",
+      "relations": {
+        "group": "snack"
+      }
     },
     {
       "id": "cereals_rte_amaranth_flakes",
@@ -15835,7 +17497,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 43584)"
+      "source": "USDA SR28 (NDB No: 43584)",
+      "relations": {
+        "group": "cereal"
+      }
     },
     {
       "id": "breakfast_bar_corn_flake_crust_wfruit",
@@ -15859,7 +17524,10 @@
           "vitamin_k_100g_mcg": 13.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 43595)"
+      "source": "USDA SR28 (NDB No: 43595)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "oil_corn_peanut_and_olive",
@@ -15891,7 +17559,10 @@
           "vitamin_k_100g_mcg": 22.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 44005)"
+      "source": "USDA SR28 (NDB No: 44005)",
+      "relations": {
+        "group": "corn"
+      }
     },
     {
       "id": "pie_fillings_blueberry_cnd",
@@ -15917,7 +17588,10 @@
           "vitamin_k_100g_mcg": 3.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 44158)"
+      "source": "USDA SR28 (NDB No: 44158)",
+      "relations": {
+        "group": "blueberry"
+      }
     }
   ]
 }

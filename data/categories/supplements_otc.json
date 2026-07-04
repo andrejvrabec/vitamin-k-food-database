@@ -62,7 +62,10 @@
         "processed",
         "affects_warfarin",
         "affects_coagulation"
-      ]
+      ],
+      "relations": {
+        "group": "oil"
+      }
     },
     {
       "id": "vitamin_e_supplement",

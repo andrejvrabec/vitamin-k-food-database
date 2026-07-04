@@ -23,7 +23,10 @@
         "high_sodium",
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_liver_cooked",
@@ -42,7 +45,10 @@
         "k2",
         "meat",
         "organ_meat"
-      ]
+      ],
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beerwurst_beer_salami_pork_and_beef",
@@ -68,7 +74,10 @@
         "high_sodium",
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beerwurst_pork_and_beef",
@@ -94,7 +103,10 @@
         "high_sodium",
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "bologna_meat_and_poultry",
@@ -119,7 +131,10 @@
         "high_sodium",
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "braunschweiger_pork",
@@ -143,7 +158,10 @@
       "tags": [
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "chicken_breast_cooked",
@@ -162,7 +180,10 @@
           "vitamin_k_100g_mcg": 8.5
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 171477)"
+      "source": "USDA FoodData Central (FDC ID: 171477)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_back_meat_and",
@@ -186,7 +207,10 @@
       "tags": [
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_back_meat_onl",
@@ -210,7 +234,10 @@
       "tags": [
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_drumstick_mea",
@@ -234,7 +261,10 @@
       "tags": [
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_leg_meat_and",
@@ -258,7 +288,10 @@
       "tags": [
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_light_meat_me",
@@ -282,7 +315,10 @@
       "tags": [
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_meat_and_skin",
@@ -306,7 +342,10 @@
       "tags": [
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_skin_raw",
@@ -331,7 +370,10 @@
         "k2",
         "meat",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_stewing_meat_and_skin_and_giblet",
@@ -355,7 +397,10 @@
       "tags": [
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "fish_cod_atlantic_canned_solids_and_liqu",
@@ -381,7 +426,10 @@
         "high_sodium",
         "k2",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_flatfish_cooked_dry_heat",
@@ -406,7 +454,10 @@
         "cooked",
         "k2",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_haddock_raw",
@@ -431,7 +482,10 @@
         "k2",
         "raw",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_herring_atlantic_pickled",
@@ -455,7 +509,10 @@
       "tags": [
         "k2",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_mackerel_spanish_raw",
@@ -480,7 +537,10 @@
         "k2",
         "raw",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_ocean_perch_atlantic_cooked_dry_hea",
@@ -505,7 +565,10 @@
         "cooked",
         "k2",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_salmon_pink_canned_drained_solids",
@@ -531,7 +594,10 @@
         "high_sodium",
         "k2",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_swordfish_cooked_dry_heat",
@@ -556,7 +622,10 @@
         "cooked",
         "k2",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_tilapia_raw",
@@ -581,7 +650,10 @@
         "k2",
         "raw",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_trout_rainbow_farmed_cooked_dry_hea",
@@ -606,7 +678,10 @@
         "cooked",
         "k2",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "mollusks_mussel_blue_raw",
@@ -631,7 +706,10 @@
         "k2",
         "raw",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "seafood"
+      }
     },
     {
       "id": "mollusks_octopus_common_raw",
@@ -656,7 +734,10 @@
         "k2",
         "raw",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "seafood"
+      }
     },
     {
       "id": "mollusks_oyster_eastern_wild_cooked_dry",
@@ -681,7 +762,10 @@
         "cooked",
         "k2",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "seafood"
+      }
     },
     {
       "id": "mollusks_oyster_eastern_wild_cooked_mois",
@@ -706,7 +790,10 @@
         "cooked",
         "k2",
         "seafood"
-      ]
+      ],
+      "relations": {
+        "group": "seafood"
+      }
     },
     {
       "id": "sausage_pork_and_turkey_pre_cooked",
@@ -732,7 +819,10 @@
         "high_sodium",
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "sausage_turkey_hot_smoked",
@@ -757,7 +847,10 @@
         "high_sodium",
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_all_classes_back_meat_and_skin_co",
@@ -781,7 +874,10 @@
       "tags": [
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_meatskngibletsneck",
@@ -813,7 +909,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05004)"
+      "source": "USDA SR28 (NDB No: 05004)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_meat_skn_raw",
@@ -845,7 +944,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05006)"
+      "source": "USDA SR28 (NDB No: 05006)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_meatskn_ckd_fried",
@@ -877,7 +979,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05007)"
+      "source": "USDA SR28 (NDB No: 05007)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_meatskn_ckd_rstd",
@@ -908,7 +1013,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05009)"
+      "source": "USDA SR28 (NDB No: 05009)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_meatskn_ckd_stwd",
@@ -939,7 +1047,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 05010)"
+      "source": "USDA SR28 (NDB No: 05010)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_meat_only_raw",
@@ -971,7 +1082,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 05011)"
+      "source": "USDA SR28 (NDB No: 05011)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_meat_only_ckd_frie",
@@ -1002,7 +1116,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 05012)"
+      "source": "USDA SR28 (NDB No: 05012)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_meat_only_rstd",
@@ -1033,7 +1150,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05013)"
+      "source": "USDA SR28 (NDB No: 05013)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_meat_only_stwd",
@@ -1064,7 +1184,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05014)"
+      "source": "USDA SR28 (NDB No: 05014)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_skn_only_raw",
@@ -1096,7 +1219,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 05015)"
+      "source": "USDA SR28 (NDB No: 05015)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_skn_only_ckd_rstd",
@@ -1127,7 +1253,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 05018)"
+      "source": "USDA SR28 (NDB No: 05018)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_lt_meat_meat_skn_r",
@@ -1158,7 +1287,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05029)"
+      "source": "USDA SR28 (NDB No: 05029)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_lt_meat_meatskn_ck",
@@ -1189,7 +1321,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05031)"
+      "source": "USDA SR28 (NDB No: 05031)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_dk_meat_meat_skn_r",
@@ -1220,7 +1355,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05034)"
+      "source": "USDA SR28 (NDB No: 05034)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_dk_meat_meatskn_ck",
@@ -1251,7 +1389,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05036)"
+      "source": "USDA SR28 (NDB No: 05036)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_lt_meat_meat_only",
@@ -1282,7 +1423,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05039)"
+      "source": "USDA SR28 (NDB No: 05039)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_dk_meat_meat_only",
@@ -1313,7 +1457,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05043)"
+      "source": "USDA SR28 (NDB No: 05043)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_back_meatskn_raw",
@@ -1345,7 +1492,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05048)"
+      "source": "USDA SR28 (NDB No: 05048)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_back_meatskn_ckd_r",
@@ -1376,7 +1526,10 @@
           "vitamin_k_100g_mcg": 4.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 05051)"
+      "source": "USDA SR28 (NDB No: 05051)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_back_meatskn_ckd_s",
@@ -1407,7 +1560,10 @@
           "vitamin_k_100g_mcg": 4.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 05052)"
+      "source": "USDA SR28 (NDB No: 05052)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_back_meat_only_raw",
@@ -1439,7 +1595,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05053)"
+      "source": "USDA SR28 (NDB No: 05053)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_back_meat_only_ckd",
@@ -1470,7 +1629,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05055)"
+      "source": "USDA SR28 (NDB No: 05055)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_breast_meatskn_ckd",
@@ -1501,7 +1663,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05058)"
+      "source": "USDA SR28 (NDB No: 05058)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_breast_meat_only_r",
@@ -1532,7 +1697,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 05062)"
+      "source": "USDA SR28 (NDB No: 05062)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_breast_meat_only_c",
@@ -1563,7 +1731,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05063)"
+      "source": "USDA SR28 (NDB No: 05063)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_drumstk_meatskn_ra",
@@ -1594,7 +1765,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05066)"
+      "source": "USDA SR28 (NDB No: 05066)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_drumstk_meatskn_ck",
@@ -1625,7 +1799,10 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 05069)"
+      "source": "USDA SR28 (NDB No: 05069)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_dk_meat_drumstk_me",
@@ -1656,7 +1833,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 05071)"
+      "source": "USDA SR28 (NDB No: 05071)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_drumstk_meat_only",
@@ -1687,7 +1867,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 05074)"
+      "source": "USDA SR28 (NDB No: 05074)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_leg_meatskn_raw",
@@ -1719,7 +1902,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 05075)"
+      "source": "USDA SR28 (NDB No: 05075)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_leg_meatskn_ckd_rs",
@@ -1750,7 +1936,10 @@
           "vitamin_k_100g_mcg": 3.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 05078)"
+      "source": "USDA SR28 (NDB No: 05078)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_leg_meatskn_ckd_st",
@@ -1781,7 +1970,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05079)"
+      "source": "USDA SR28 (NDB No: 05079)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_leg_meat_only_raw",
@@ -1813,7 +2005,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 05080)"
+      "source": "USDA SR28 (NDB No: 05080)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_leg_meat_only_ckd",
@@ -1844,7 +2039,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 05082)"
+      "source": "USDA SR28 (NDB No: 05082)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_neck_meatskn_ckd_s",
@@ -1876,7 +2074,10 @@
           "vitamin_k_100g_mcg": 3.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 05087)"
+      "source": "USDA SR28 (NDB No: 05087)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_thigh_meatskn_raw",
@@ -1908,7 +2109,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 05091)"
+      "source": "USDA SR28 (NDB No: 05091)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_thigh_meatskn_ckd",
@@ -1939,7 +2143,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 05094)"
+      "source": "USDA SR28 (NDB No: 05094)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_dk_meat_thigh_meat",
@@ -1970,7 +2177,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 05096)"
+      "source": "USDA SR28 (NDB No: 05096)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_thigh_meat_only_ck",
@@ -2001,7 +2211,10 @@
           "vitamin_k_100g_mcg": 3.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 05098)"
+      "source": "USDA SR28 (NDB No: 05098)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_wing_meatskn_ckd_r",
@@ -2032,7 +2245,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05103)"
+      "source": "USDA SR28 (NDB No: 05103)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_wing_meatskn_ckd_s",
@@ -2063,7 +2279,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 05104)"
+      "source": "USDA SR28 (NDB No: 05104)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_wing_meat_only_ckd",
@@ -2094,7 +2313,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05107)"
+      "source": "USDA SR28 (NDB No: 05107)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_roasting_meat_only_raw",
@@ -2126,7 +2348,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05113)"
+      "source": "USDA SR28 (NDB No: 05113)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_roasting_lt_meat_meat_only_raw",
@@ -2158,7 +2383,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05117)"
+      "source": "USDA SR28 (NDB No: 05117)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_roasting_lt_meat_meat_only_ckd_rstd",
@@ -2189,7 +2417,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 05118)"
+      "source": "USDA SR28 (NDB No: 05118)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_roasting_dk_meat_meat_only_raw",
@@ -2221,7 +2452,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05119)"
+      "source": "USDA SR28 (NDB No: 05119)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_stewing_meat_skn_giblets_neck_ckd_stw",
@@ -2253,7 +2487,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 05122)"
+      "source": "USDA SR28 (NDB No: 05122)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_stewing_meatskn_raw",
@@ -2285,7 +2522,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05123)"
+      "source": "USDA SR28 (NDB No: 05123)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_stewing_meat_only_raw",
@@ -2317,7 +2557,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 05125)"
+      "source": "USDA SR28 (NDB No: 05125)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_stewing_meat_only_ckd_stwd",
@@ -2348,7 +2591,10 @@
           "vitamin_k_100g_mcg": 3.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 05126)"
+      "source": "USDA SR28 (NDB No: 05126)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_stewing_lt_meat_meat_only_raw",
@@ -2380,7 +2626,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05129)"
+      "source": "USDA SR28 (NDB No: 05129)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_stewing_dk_meat_meat_only_raw",
@@ -2412,7 +2661,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05131)"
+      "source": "USDA SR28 (NDB No: 05131)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_capons_meatskn_raw",
@@ -2444,7 +2696,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05135)"
+      "source": "USDA SR28 (NDB No: 05135)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "turkey_whl_giblets_raw",
@@ -2477,7 +2732,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05171)"
+      "source": "USDA SR28 (NDB No: 05171)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_whl_giblets_ckd_simmrd",
@@ -2502,7 +2760,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05172)"
+      "source": "USDA SR28 (NDB No: 05172)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_liver_all_classes_raw",
@@ -2528,7 +2789,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 05177)"
+      "source": "USDA SR28 (NDB No: 05177)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_liver_all_classes_ckd_simmrd",
@@ -2553,7 +2817,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 05178)"
+      "source": "USDA SR28 (NDB No: 05178)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_all_classes_back_meatskn_ckd_rstd",
@@ -2584,7 +2851,10 @@
           "vitamin_k_100g_mcg": 4.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05190)"
+      "source": "USDA SR28 (NDB No: 05190)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_all_classes_leg_meatskn_ckd_rstd",
@@ -2615,7 +2885,10 @@
           "vitamin_k_100g_mcg": 4.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 05194)"
+      "source": "USDA SR28 (NDB No: 05194)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_fryer_roasters_meatskn_ckd_rstd",
@@ -2646,7 +2919,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 05200)"
+      "source": "USDA SR28 (NDB No: 05200)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "turkey_fryer_roasters_wing_meat_only_ckd_rstd",
@@ -2677,7 +2953,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 05228)"
+      "source": "USDA SR28 (NDB No: 05228)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_cnd_meat_only_wbroth",
@@ -2701,7 +2980,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 05277)"
+      "source": "USDA SR28 (NDB No: 05277)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "turkey_cnd_meat_only_wbroth",
@@ -2732,7 +3014,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 05284)"
+      "source": "USDA SR28 (NDB No: 05284)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_patties_breaded_battered_fried",
@@ -2765,7 +3050,10 @@
           "vitamin_k_100g_mcg": 15.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05292)"
+      "source": "USDA SR28 (NDB No: 05292)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_rst_bnless_frz_seasoned_ltdk_meat_rstd",
@@ -2796,7 +3084,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 05296)"
+      "source": "USDA SR28 (NDB No: 05296)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "chicken_cornish_game_hens_meatskn_raw",
@@ -2821,7 +3112,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05307)"
+      "source": "USDA SR28 (NDB No: 05307)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_cornish_game_hens_meatskn_ckd_rstd",
@@ -2852,7 +3146,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05308)"
+      "source": "USDA SR28 (NDB No: 05308)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_cornish_game_hens_meat_only_raw",
@@ -2884,7 +3181,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05309)"
+      "source": "USDA SR28 (NDB No: 05309)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_cornish_game_hens_meat_only_ckd_rstd",
@@ -2915,7 +3215,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05310)"
+      "source": "USDA SR28 (NDB No: 05310)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_canned_no_broth",
@@ -2948,7 +3251,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 05311)"
+      "source": "USDA SR28 (NDB No: 05311)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_nuggets_frz_ckd",
@@ -2972,7 +3278,10 @@
           "vitamin_k_100g_mcg": 11.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 05321)"
+      "source": "USDA SR28 (NDB No: 05321)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_nuggets_frz_unckd",
@@ -2996,7 +3305,10 @@
           "vitamin_k_100g_mcg": 10.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 05322)"
+      "source": "USDA SR28 (NDB No: 05322)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_patty_frz_unckd",
@@ -3020,7 +3332,10 @@
           "vitamin_k_100g_mcg": 11.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 05323)"
+      "source": "USDA SR28 (NDB No: 05323)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_patty_frz_ckd",
@@ -3044,7 +3359,10 @@
           "vitamin_k_100g_mcg": 4.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 05324)"
+      "source": "USDA SR28 (NDB No: 05324)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_breast_tenders_ckd_conventional_oven",
@@ -3068,7 +3386,10 @@
           "vitamin_k_100g_mcg": 4.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05325)"
+      "source": "USDA SR28 (NDB No: 05325)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_breast_tenders_ckd_microwaved",
@@ -3100,7 +3421,10 @@
           "vitamin_k_100g_mcg": 4.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 05326)"
+      "source": "USDA SR28 (NDB No: 05326)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_breast_tenders_breaded_unckd",
@@ -3132,7 +3456,10 @@
           "vitamin_k_100g_mcg": 14.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 05327)"
+      "source": "USDA SR28 (NDB No: 05327)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_ground_raw",
@@ -3157,7 +3484,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 05332)"
+      "source": "USDA SR28 (NDB No: 05332)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_ground_crumbles_ckd_pan_browned",
@@ -3181,7 +3511,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 05333)"
+      "source": "USDA SR28 (NDB No: 05333)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "usda_cmdty_turkey_taco_meat_frz_ckd",
@@ -3205,7 +3538,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 05354)"
+      "source": "USDA SR28 (NDB No: 05354)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "chicken_skn_ckd_brsd",
@@ -3236,7 +3572,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05673)"
+      "source": "USDA SR28 (NDB No: 05673)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_skn_raw",
@@ -3268,7 +3607,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 05674)"
+      "source": "USDA SR28 (NDB No: 05674)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_skn_ckd_rstd",
@@ -3299,7 +3641,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 05675)"
+      "source": "USDA SR28 (NDB No: 05675)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_broilers_or_fryers_dk_meat_drumstk_mt",
@@ -3330,7 +3675,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 05676)"
+      "source": "USDA SR28 (NDB No: 05676)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "fish_broth",
@@ -3361,7 +3709,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 06963)"
+      "source": "USDA SR28 (NDB No: 06963)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "beerwurst_beer_salami_pork_bf",
@@ -3387,7 +3738,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 07002)"
+      "source": "USDA SR28 (NDB No: 07002)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "sausage_berliner_pork_bf",
@@ -3419,7 +3773,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 07004)"
+      "source": "USDA SR28 (NDB No: 07004)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "bockwurst_pork_veal_raw",
@@ -3444,7 +3801,10 @@
           "vitamin_k_100g_mcg": 70.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 07006)"
+      "source": "USDA SR28 (NDB No: 07006)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "bologna_bf",
@@ -3476,7 +3836,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 07007)"
+      "source": "USDA SR28 (NDB No: 07007)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "bologna_bf_pork",
@@ -3501,7 +3864,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 07008)"
+      "source": "USDA SR28 (NDB No: 07008)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "bologna_pork",
@@ -3533,7 +3899,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07010)"
+      "source": "USDA SR28 (NDB No: 07010)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "bologna_turkey",
@@ -3565,7 +3934,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07011)"
+      "source": "USDA SR28 (NDB No: 07011)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "bratwurst_pork_ckd",
@@ -3589,7 +3961,10 @@
           "vitamin_k_100g_mcg": 3.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07013)"
+      "source": "USDA SR28 (NDB No: 07013)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "cheesefurter_chs_smokie_pork_bf",
@@ -3614,7 +3989,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 07016)"
+      "source": "USDA SR28 (NDB No: 07016)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "chorizo_pork_and_beef",
@@ -3645,7 +4023,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 07019)"
+      "source": "USDA SR28 (NDB No: 07019)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "frankfurter_bf_unhtd",
@@ -3677,7 +4058,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 07022)"
+      "source": "USDA SR28 (NDB No: 07022)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "frankfurter_bf_pork",
@@ -3702,7 +4086,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 07023)"
+      "source": "USDA SR28 (NDB No: 07023)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "headcheese_pork",
@@ -3733,7 +4120,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 07034)"
+      "source": "USDA SR28 (NDB No: 07034)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "honey_loaf_pork_bf",
@@ -3764,7 +4154,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07035)"
+      "source": "USDA SR28 (NDB No: 07035)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "knackwurst_knockwurst_pork_bf",
@@ -3795,7 +4188,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 07038)"
+      "source": "USDA SR28 (NDB No: 07038)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "lebanon_bologna_bf",
@@ -3827,7 +4223,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07039)"
+      "source": "USDA SR28 (NDB No: 07039)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "luncheon_meat_beef_loaved",
@@ -3858,7 +4257,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 07042)"
+      "source": "USDA SR28 (NDB No: 07042)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "luncheon_meat_pork_beef",
@@ -3889,7 +4291,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 07047)"
+      "source": "USDA SR28 (NDB No: 07047)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "mortadella_beef_pork",
@@ -3920,7 +4325,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 07050)"
+      "source": "USDA SR28 (NDB No: 07050)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "olive_loaf_pork",
@@ -3951,7 +4359,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 07051)"
+      "source": "USDA SR28 (NDB No: 07051)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "peppered_loaf_pork_bf",
@@ -3975,7 +4386,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 07056)"
+      "source": "USDA SR28 (NDB No: 07056)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "pepperoni_pork_beef",
@@ -4006,7 +4420,10 @@
           "vitamin_k_100g_mcg": 5.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 07057)"
+      "source": "USDA SR28 (NDB No: 07057)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "picklepimiento_loaf_pork",
@@ -4037,7 +4454,10 @@
           "vitamin_k_100g_mcg": 5.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 07058)"
+      "source": "USDA SR28 (NDB No: 07058)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "pork_sausage_frsh_raw",
@@ -4063,7 +4483,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07063)"
+      "source": "USDA SR28 (NDB No: 07063)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "pork_sausage_frsh_ckd",
@@ -4088,7 +4511,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07064)"
+      "source": "USDA SR28 (NDB No: 07064)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "porkbf_sausage_frsh_ckd",
@@ -4120,7 +4546,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 07065)"
+      "source": "USDA SR28 (NDB No: 07065)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "salami_ckd_bfpork",
@@ -4144,7 +4573,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 07069)"
+      "source": "USDA SR28 (NDB No: 07069)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "salami_cooked_turkey",
@@ -4169,7 +4601,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07070)"
+      "source": "USDA SR28 (NDB No: 07070)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "thuringer_cervelat_smmr_sausage_bf_pork",
@@ -4194,7 +4629,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 07078)"
+      "source": "USDA SR28 (NDB No: 07078)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "sausage_vienna_cnd_chick_bf_pork",
@@ -4226,7 +4664,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 07083)"
+      "source": "USDA SR28 (NDB No: 07083)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "sausage_italian_pork_ckd",
@@ -4258,7 +4699,10 @@
           "vitamin_k_100g_mcg": 3.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07089)"
+      "source": "USDA SR28 (NDB No: 07089)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "sausage_turkey_brkfst_links_mild",
@@ -4283,7 +4727,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 07919)"
+      "source": "USDA SR28 (NDB No: 07919)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "bacon_bf_stks",
@@ -4308,7 +4755,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07921)"
+      "source": "USDA SR28 (NDB No: 07921)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "beerwurst_pork_bf",
@@ -4334,7 +4784,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 07931)"
+      "source": "USDA SR28 (NDB No: 07931)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "salami_italian_pork_bf_dry_sliced_50_less_na",
@@ -4358,7 +4811,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 07941)"
+      "source": "USDA SR28 (NDB No: 07941)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "frankfurter_bf_htd",
@@ -4390,7 +4846,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 07945)"
+      "source": "USDA SR28 (NDB No: 07945)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "scrapple_pork",
@@ -4421,7 +4880,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 07951)"
+      "source": "USDA SR28 (NDB No: 07951)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "pork_sausage_pre_cooked",
@@ -4447,7 +4909,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 07953)"
+      "source": "USDA SR28 (NDB No: 07953)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "beef_sausage_pre_cooked",
@@ -4473,7 +4938,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 07954)"
+      "source": "USDA SR28 (NDB No: 07954)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_sausage_frsh_ckd",
@@ -4498,7 +4966,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 07956)"
+      "source": "USDA SR28 (NDB No: 07956)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "pork_turkey_sausage_pre_cooked",
@@ -4524,7 +4995,10 @@
           "vitamin_k_100g_mcg": 5.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 07957)"
+      "source": "USDA SR28 (NDB No: 07957)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "turkey_sausage_frsh_ckd",
@@ -4549,7 +5023,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 07958)"
+      "source": "USDA SR28 (NDB No: 07958)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "bologna_chick_pork_bf",
@@ -4581,7 +5058,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 07959)"
+      "source": "USDA SR28 (NDB No: 07959)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "bologna_chick_pork",
@@ -4613,7 +5093,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 07960)"
+      "source": "USDA SR28 (NDB No: 07960)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "pork_cured_bacon_ckd_brld_pan_fried_or_rstd",
@@ -4639,7 +5122,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 10124)"
+      "source": "USDA SR28 (NDB No: 10124)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "pork_cured_bacon_ckd_bkd",
@@ -4664,7 +5150,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 10860)"
+      "source": "USDA SR28 (NDB No: 10860)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "pork_cured_ham_h2o_product_rump_bone_in_ln_ht",
@@ -4695,7 +5184,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 10877)"
+      "source": "USDA SR28 (NDB No: 10877)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "pork_cured_ham_slice_bone_in_ln_unhtd",
@@ -4726,7 +5218,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 10938)"
+      "source": "USDA SR28 (NDB No: 10938)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "beef_grass_fed_strip_steaks_ln_raw",
@@ -4751,7 +5246,10 @@
           "vitamin_k_100g_mcg": 0.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 13000)"
+      "source": "USDA SR28 (NDB No: 13000)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_brisket_whl_ln_all_grds_raw",
@@ -4783,7 +5281,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 13023)"
+      "source": "USDA SR28 (NDB No: 13023)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_grass_fed_ground_raw",
@@ -4808,7 +5309,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 13047)"
+      "source": "USDA SR28 (NDB No: 13047)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_rib_shortribs_ln_choic_ckd_brsd",
@@ -4839,7 +5343,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 13150)"
+      "source": "USDA SR28 (NDB No: 13150)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_ground_patties_frz_ckd_brld",
@@ -4870,7 +5377,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 13317)"
+      "source": "USDA SR28 (NDB No: 13317)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_var_meatsby_products_brain_ckd_simmrd",
@@ -4901,7 +5411,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 13320)"
+      "source": "USDA SR28 (NDB No: 13320)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_var_meatsby_products_heart_ckd_simmrd",
@@ -4925,7 +5438,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 13322)"
+      "source": "USDA SR28 (NDB No: 13322)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_var_meatsby_products_liver_raw",
@@ -4951,7 +5467,10 @@
           "vitamin_k_100g_mcg": 3.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 13325)"
+      "source": "USDA SR28 (NDB No: 13325)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_var_meats_by_products_liver_ckd_brsd",
@@ -4976,7 +5495,10 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 13326)"
+      "source": "USDA SR28 (NDB No: 13326)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_var_meatsby_products_liver_ckd_pan_fried",
@@ -5002,7 +5524,10 @@
           "vitamin_k_100g_mcg": 3.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 13327)"
+      "source": "USDA SR28 (NDB No: 13327)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_var_meats_by_products_suet_raw",
@@ -5034,7 +5559,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 13335)"
+      "source": "USDA SR28 (NDB No: 13335)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_var_meatsby_products_tongue_ckd_simmrd",
@@ -5058,7 +5586,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 13340)"
+      "source": "USDA SR28 (NDB No: 13340)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_sndwch_steaks_flaked_chopd_formed_thinly",
@@ -5089,7 +5620,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 13342)"
+      "source": "USDA SR28 (NDB No: 13342)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_cured_brkfst_strips_ckd",
@@ -5120,7 +5654,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 13345)"
+      "source": "USDA SR28 (NDB No: 13345)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_cured_corned_bf_brisket_ckd",
@@ -5151,7 +5688,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 13347)"
+      "source": "USDA SR28 (NDB No: 13347)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_cured_corned_bf_cnd",
@@ -5182,7 +5722,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 13348)"
+      "source": "USDA SR28 (NDB No: 13348)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_cured_dried",
@@ -5206,7 +5749,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 13350)"
+      "source": "USDA SR28 (NDB No: 13350)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_chuck_under_blade_cntr_steak_bnless_denv",
@@ -5230,7 +5776,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 13351)"
+      "source": "USDA SR28 (NDB No: 13351)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_chk_und_bl_cntr_stk_bnless_den_cut_ln_0",
@@ -5254,7 +5803,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 13354)"
+      "source": "USDA SR28 (NDB No: 13354)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_cured_pastrami",
@@ -5285,7 +5837,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 13355)"
+      "source": "USDA SR28 (NDB No: 13355)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_chk_undbl_cntr_stk_bnless_dencut_ln_0_fa",
@@ -5309,7 +5864,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 13356)"
+      "source": "USDA SR28 (NDB No: 13356)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_chk_und_blcntr_stk_bnless_den_cut_ln_0_f",
@@ -5333,7 +5891,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 13359)"
+      "source": "USDA SR28 (NDB No: 13359)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_shrt_loin_top_loin_stk_ln_ft_18_ft_all_g",
@@ -5364,7 +5925,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 13910)"
+      "source": "USDA SR28 (NDB No: 13910)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_shoulder_steak_boneless_lean_only_0_choi",
@@ -5388,7 +5952,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 13943)"
+      "source": "USDA SR28 (NDB No: 13943)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "fish_portionsstks_frz_prehtd",
@@ -5419,7 +5986,10 @@
           "vitamin_k_100g_mcg": 10.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 15027)"
+      "source": "USDA SR28 (NDB No: 15027)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "herring_atlantic_raw",
@@ -5451,7 +6021,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 15039)"
+      "source": "USDA SR28 (NDB No: 15039)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "herring_atlantic_ckd_dry_heat",
@@ -5482,7 +6055,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 15040)"
+      "source": "USDA SR28 (NDB No: 15040)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "herring_atlantic_pickled",
@@ -5513,7 +6089,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 15041)"
+      "source": "USDA SR28 (NDB No: 15041)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "herring_atlantic_kippered",
@@ -5544,7 +6123,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 15042)"
+      "source": "USDA SR28 (NDB No: 15042)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_pollock_alaska_ckd_dry_heat",
@@ -5575,7 +6157,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 15067)"
+      "source": "USDA SR28 (NDB No: 15067)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_salmon_chum_cnd_drnd_sol_w_bone",
@@ -5606,7 +6191,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 15080)"
+      "source": "USDA SR28 (NDB No: 15080)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_salmon_pink_cnd_total_can_contents",
@@ -5637,7 +6225,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 15084)"
+      "source": "USDA SR28 (NDB No: 15084)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_salmon_sockeye_cnd_drnd_sol",
@@ -5668,7 +6259,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 15087)"
+      "source": "USDA SR28 (NDB No: 15087)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_tuna_lt_cnd_in_h2o_drnd_sol",
@@ -5699,7 +6293,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 15121)"
+      "source": "USDA SR28 (NDB No: 15121)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "tuna_white_cnd_in_h2o_drnd_sol",
@@ -5730,7 +6327,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 15126)"
+      "source": "USDA SR28 (NDB No: 15126)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "tuna_fresh_yellowfin_raw",
@@ -5762,7 +6362,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 15127)"
+      "source": "USDA SR28 (NDB No: 15127)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "mussel_blue_raw",
@@ -5794,7 +6397,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 15164)"
+      "source": "USDA SR28 (NDB No: 15164)",
+      "relations": {
+        "group": "seafood"
+      }
     },
     {
       "id": "oyster_eastern_wild_raw",
@@ -5826,7 +6432,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 15167)"
+      "source": "USDA SR28 (NDB No: 15167)",
+      "relations": {
+        "group": "seafood"
+      }
     },
     {
       "id": "oyster_eastern_wild_ckd_moist_heat",
@@ -5857,7 +6466,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 15169)"
+      "source": "USDA SR28 (NDB No: 15169)",
+      "relations": {
+        "group": "seafood"
+      }
     },
     {
       "id": "oyster_eastern_canned",
@@ -5890,7 +6502,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 15170)"
+      "source": "USDA SR28 (NDB No: 15170)",
+      "relations": {
+        "group": "seafood"
+      }
     },
     {
       "id": "tuna_yellowfin_frsh_ckd_dry_heat",
@@ -5914,7 +6529,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 15221)"
+      "source": "USDA SR28 (NDB No: 15221)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "oyster_pacific_ckd_moist_heat",
@@ -5945,7 +6563,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 15231)"
+      "source": "USDA SR28 (NDB No: 15231)",
+      "relations": {
+        "group": "seafood"
+      }
     },
     {
       "id": "oyster_eastern_wild_ckd_dry_heat",
@@ -5976,7 +6597,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 15244)"
+      "source": "USDA SR28 (NDB No: 15244)",
+      "relations": {
+        "group": "seafood"
+      }
     },
     {
       "id": "fish_salmon_pink_cnd_drnd_sol",
@@ -6000,7 +6624,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 15260)"
+      "source": "USDA SR28 (NDB No: 15260)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_tilapia_ckd_dry_heat",
@@ -6031,7 +6658,10 @@
           "vitamin_k_100g_mcg": 0.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 15262)"
+      "source": "USDA SR28 (NDB No: 15262)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_salmon_pink_cnd_drnd_sol_wo_skn_bones",
@@ -6055,7 +6685,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 15265)"
+      "source": "USDA SR28 (NDB No: 15265)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "beans_bkd_cnd_wporkswt_sau",
@@ -6080,7 +6713,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 16010)"
+      "source": "USDA SR28 (NDB No: 16010)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_bkd_cnd_wporktomato_sau",
@@ -6105,7 +6741,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 16011)"
+      "source": "USDA SR28 (NDB No: 16011)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "lamb_nz_imp_frz_rib_ln_ckd_rstd",
@@ -6136,7 +6775,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 17083)"
+      "source": "USDA SR28 (NDB No: 17083)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "veal_comp_of_rtl_cuts_ln_ckd",
@@ -6167,7 +6809,10 @@
           "vitamin_k_100g_mcg": 6.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 17091)"
+      "source": "USDA SR28 (NDB No: 17091)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "veal_leg_ln_ckd_pan_fried_breaded",
@@ -6200,7 +6845,10 @@
           "vitamin_k_100g_mcg": 5.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 17101)"
+      "source": "USDA SR28 (NDB No: 17101)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "veal_leg_ln_ckd_pan_fried_not_breaded",
@@ -6233,7 +6881,10 @@
           "vitamin_k_100g_mcg": 4.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 17102)"
+      "source": "USDA SR28 (NDB No: 17102)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "veal_loin_ln_ckd_brsd",
@@ -6264,7 +6915,10 @@
           "vitamin_k_100g_mcg": 7.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 17108)"
+      "source": "USDA SR28 (NDB No: 17108)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "veal_loin_ln_ckd_rstd",
@@ -6295,7 +6949,10 @@
           "vitamin_k_100g_mcg": 5.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 17109)"
+      "source": "USDA SR28 (NDB No: 17109)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "veal_rib_ln_ckd_brsd",
@@ -6326,7 +6983,10 @@
           "vitamin_k_100g_mcg": 7.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 17114)"
+      "source": "USDA SR28 (NDB No: 17114)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "veal_shldr_blade_ln_ckd_brsd",
@@ -6357,7 +7017,10 @@
           "vitamin_k_100g_mcg": 6.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 17132)"
+      "source": "USDA SR28 (NDB No: 17132)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "veal_ground_ckd_brld",
@@ -6388,7 +7051,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 17143)"
+      "source": "USDA SR28 (NDB No: 17143)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "game_meat_deer_raw",
@@ -6453,7 +7119,10 @@
           "vitamin_k_100g_mcg": 0.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 17202)"
+      "source": "USDA SR28 (NDB No: 17202)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "veal_var_meatsby_products_liver_ckd_brsd",
@@ -6478,7 +7147,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 17203)"
+      "source": "USDA SR28 (NDB No: 17203)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "veal_var_meatsby_products_liver_ckd_pan_fried",
@@ -6504,7 +7176,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 17204)"
+      "source": "USDA SR28 (NDB No: 17204)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "lamb_ground_raw",
@@ -6536,7 +7211,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 17224)"
+      "source": "USDA SR28 (NDB No: 17224)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "lamb_ground_ckd_brld",
@@ -6567,7 +7245,10 @@
           "vitamin_k_100g_mcg": 5.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 17225)"
+      "source": "USDA SR28 (NDB No: 17225)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "game_meat_deer_ground_raw",
@@ -6661,7 +7342,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 17345)"
+      "source": "USDA SR28 (NDB No: 17345)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "game_meat_deer_shldr_clod_ln_3_5_lb_rst_ckd_b",
@@ -6723,7 +7407,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 19002)"
+      "source": "USDA SR28 (NDB No: 19002)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "fast_foods_biscuit_wham",
@@ -6748,7 +7435,10 @@
           "vitamin_k_100g_mcg": 5.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 21008)"
+      "source": "USDA SR28 (NDB No: 21008)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "fast_foods_biscuit_wsausage",
@@ -6774,7 +7464,10 @@
           "vitamin_k_100g_mcg": 5.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 21009)"
+      "source": "USDA SR28 (NDB No: 21009)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "burger_king_premium_fish_sndwch",
@@ -6798,7 +7491,10 @@
           "vitamin_k_100g_mcg": 22.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 21258)"
+      "source": "USDA SR28 (NDB No: 21258)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fast_foods_griddle_cake_sndwch_sausage",
@@ -6824,7 +7520,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 21306)"
+      "source": "USDA SR28 (NDB No: 21306)",
+      "relations": {
+        "group": "pastry"
+      }
     },
     {
       "id": "burger_king_croissanwich_w_sausage_chs",
@@ -6849,7 +7548,10 @@
           "vitamin_k_100g_mcg": 6.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 21384)"
+      "source": "USDA SR28 (NDB No: 21384)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "grilled_chick_bacon_tomo_clb_sndwch_w_chs_let",
@@ -6874,7 +7576,10 @@
           "vitamin_k_100g_mcg": 8.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 21461)"
+      "source": "USDA SR28 (NDB No: 21461)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "crispy_chick_bacon_tomato_club_sndwch_w_chs_l",
@@ -6899,7 +7604,10 @@
           "vitamin_k_100g_mcg": 8.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 21462)"
+      "source": "USDA SR28 (NDB No: 21462)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "hot_pockets_ham_n_chs_stuffed_sndwch_frz",
@@ -6930,7 +7638,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 22537)"
+      "source": "USDA SR28 (NDB No: 22537)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "beef_stew_canned_entree",
@@ -6956,7 +7667,10 @@
           "vitamin_k_100g_mcg": 6.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 22905)"
+      "source": "USDA SR28 (NDB No: 22905)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_corned_bf_hash_w_potato_cnd",
@@ -6980,7 +7694,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 22908)"
+      "source": "USDA SR28 (NDB No: 22908)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "pulled_pork_in_barbecue_sau",
@@ -7004,7 +7721,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 22972)"
+      "source": "USDA SR28 (NDB No: 22972)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "chicken_nuggets_dk_white_meat_preckd_frz_not",
@@ -7035,7 +7755,10 @@
           "vitamin_k_100g_mcg": 10.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 22974)"
+      "source": "USDA SR28 (NDB No: 22974)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_nuggets_white_meat_preckd_frz_not_reh",
@@ -7066,7 +7789,10 @@
           "vitamin_k_100g_mcg": 10.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 22975)"
+      "source": "USDA SR28 (NDB No: 22975)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "chicken_tenders_breaded_frz_prep",
@@ -7091,7 +7817,10 @@
           "vitamin_k_100g_mcg": 5.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 22978)"
+      "source": "USDA SR28 (NDB No: 22978)",
+      "relations": {
+        "group": "chicken"
+      }
     },
     {
       "id": "beef_chck_clod_shldr_topcntr_stks_ln_ft_0_all",
@@ -7122,7 +7851,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 23058)"
+      "source": "USDA SR28 (NDB No: 23058)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_chk_und_bl_pot_rststk_bnl_ln_ft_0_ft_all",
@@ -7153,7 +7885,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 23102)"
+      "source": "USDA SR28 (NDB No: 23102)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_chk_und_ble_cntr_stk_bnl_den_ct_lnft_0_f",
@@ -7177,7 +7912,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 23106)"
+      "source": "USDA SR28 (NDB No: 23106)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_chk_und_bl_cntr_stk_bnl_den_cut_ln_ft_0f",
@@ -7201,7 +7939,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 23108)"
+      "source": "USDA SR28 (NDB No: 23108)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_chk_und_ble_cntr_stk_bnl_den_cut_ln_ft_0",
@@ -7225,7 +7966,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 23110)"
+      "source": "USDA SR28 (NDB No: 23110)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_rib_eye_rst_bne_in_lip_on_ln_18_ft_all_g",
@@ -7249,7 +7993,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 23146)"
+      "source": "USDA SR28 (NDB No: 23146)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_rib_eye_stk_bn_in_lip_on_ln_ft_18_ft_al",
@@ -7273,7 +8020,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 23188)"
+      "source": "USDA SR28 (NDB No: 23188)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_rib_eye_rst_bne_in_lp_on_ln_ft_18_ft_al",
@@ -7297,7 +8047,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 23191)"
+      "source": "USDA SR28 (NDB No: 23191)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_rib_eye_stkrst_bne_in_ip_on_ln_ft_18_ft",
@@ -7328,7 +8081,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 23192)"
+      "source": "USDA SR28 (NDB No: 23192)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_rib_eye_stk_bnls_lip_on_ln_ft_18_ft_al_g",
@@ -7352,7 +8108,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 23197)"
+      "source": "USDA SR28 (NDB No: 23197)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_rib_eye_rst_bnls_lp_on_ln_ft_18_ft_all_g",
@@ -7376,7 +8135,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 23198)"
+      "source": "USDA SR28 (NDB No: 23198)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "beef_loin_top_srl_cp_stk_bnls_ln_ft_18_ft_alg",
@@ -7400,7 +8162,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 23278)"
+      "source": "USDA SR28 (NDB No: 23278)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "fish_salmon_coho_raw",
@@ -7418,7 +8183,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 35150)"
+      "source": "USDA SR28 (NDB No: 35150)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_salmon_sockeye_raw",
@@ -7436,7 +8204,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 35151)"
+      "source": "USDA SR28 (NDB No: 35151)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_salmon_chum_raw",
@@ -7454,7 +8225,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 35152)"
+      "source": "USDA SR28 (NDB No: 35152)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_salmon_king_raw",
@@ -7472,7 +8246,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 35153)"
+      "source": "USDA SR28 (NDB No: 35153)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "fish_whitefish_dried",
@@ -7489,7 +8266,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 35165)"
+      "source": "USDA SR28 (NDB No: 35165)",
+      "relations": {
+        "group": "fish"
+      }
     },
     {
       "id": "tamales_masa_pork_filling",
@@ -7513,7 +8293,10 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 35237)"
+      "source": "USDA SR28 (NDB No: 35237)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "restaurant_latino_pupusas_del_cerdo",
@@ -7560,7 +8343,10 @@
           "vitamin_k_100g_mcg": 5.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 36412)"
+      "source": "USDA SR28 (NDB No: 36412)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "restaurant_chinese_swt_sour_pork",
@@ -7591,7 +8377,10 @@
           "vitamin_k_100g_mcg": 27.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 36622)"
+      "source": "USDA SR28 (NDB No: 36622)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "bologna_bfpork_lofat",
@@ -7623,7 +8412,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 42129)"
+      "source": "USDA SR28 (NDB No: 42129)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "turkey_bacon_cooked",
@@ -7656,7 +8448,10 @@
           "vitamin_k_100g_mcg": 7.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 42130)"
+      "source": "USDA SR28 (NDB No: 42130)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "turkeypork_sausage_frsh_bulk_patty_or_link_ck",
@@ -7688,7 +8483,10 @@
           "vitamin_k_100g_mcg": 5.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 42173)"
+      "source": "USDA SR28 (NDB No: 42173)",
+      "relations": {
+        "group": "other_meat"
+      }
     },
     {
       "id": "salad_drsng_bacontomato",
@@ -7744,7 +8542,10 @@
           "vitamin_k_100g_mcg": 2.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 43366)"
+      "source": "USDA SR28 (NDB No: 43366)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_drumstk_smoked_ckd_wskn_bone_removed",
@@ -7768,7 +8569,10 @@
           "vitamin_k_100g_mcg": 4.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 43367)"
+      "source": "USDA SR28 (NDB No: 43367)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "pork_cured_bacon_ckd_brld_pan_fried_or_rstd_r",
@@ -7794,7 +8598,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 43378)"
+      "source": "USDA SR28 (NDB No: 43378)",
+      "relations": {
+        "group": "pork"
+      }
     },
     {
       "id": "beef_bologna_red_na",
@@ -7826,7 +8633,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 43384)"
+      "source": "USDA SR28 (NDB No: 43384)",
+      "relations": {
+        "group": "beef"
+      }
     },
     {
       "id": "turkey_lt_or_dk_meat_smoked_ckd_wskn_bone_rem",
@@ -7850,7 +8660,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 43390)"
+      "source": "USDA SR28 (NDB No: 43390)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "turkey_lt_or_dk_meat_smoked_ckd_skn_bone_remo",
@@ -7867,7 +8680,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 43391)"
+      "source": "USDA SR28 (NDB No: 43391)",
+      "relations": {
+        "group": "turkey"
+      }
     },
     {
       "id": "frankfurter_lo_na",
@@ -7899,7 +8715,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 43507)"
+      "source": "USDA SR28 (NDB No: 43507)",
+      "relations": {
+        "group": "other_meat"
+      }
     }
   ]
 }

@@ -41,14 +41,15 @@ A public, open-source dataset containing Vitamin K levels in various foods. The 
 ## Data Schema & Rules
 
 ### 1. Root Metadata (`data/metadata.json`)
-Defines the global `data_version`, supported translation languages, valid categories, and valid tags.
+Defines the global `data_version`, supported translation languages, valid categories, valid tags, and valid relations groups.
 - Example:
   ```json
   {
     "data_version": "0.1.0",
     "languages": ["en", "sk"],
     "tags": ["green_leaves", "berries"],
-    "categories": ["vegetables", "fruits"]
+    "categories": ["vegetables", "fruits"],
+    "groups": ["broccoli", "spinach", "blueberry"]
   }
   ```
 
@@ -56,19 +57,19 @@ Defines the global `data_version`, supported translation languages, valid catego
 Each file corresponds to a category named `<category_id>.json` and contains:
 - `version`: Version of this specific file (e.g., `"0.1.0"`).
 - `data`: An array of food items containing:
-  - `id`: Unique lowercase identifier (e.g., `spinach_raw`).
-  - `category`: Must match the `<category_id>` of the filename.
-  - `tags`: List of tags defined in `metadata.json`.
-  - `portions` (optional/`null`): A list of portion measurements. Can be set to `null` or omitted entirely for items where Vitamin K content is unknown or not relevant.
-    - `amount`: Number (e.g. `100` or `1`).
-    - `unit`: One of `["g", "ml", "piece", "cup", "tbsp", "tsp"]`.
-    - `vitamin_k_mcg`: Amount of Vitamin K in micrograms.
-    - `gram_equivalent`: The equivalent weight in grams. **Required if the unit is NOT `"g"`**. If unit is `"g"`, it is omitted.
-    - `vitamin_k_100g_mcg`: **Required**. The calculated amount of Vitamin K in micrograms per 100g of this food item (calculated from the portion weight and vitamin K content).
-  - `source`: Reference source for the data (e.g. USDA FoodData Central ID).
-  - `relations` (optional): Grouping and relation identifier (e.g. linking raw spinach to cooked spinach).
-    - `group`: String grouping identifier.
-    - `related_ids`: List of related food IDs.
+- `id`: Unique lowercase identifier (e.g., `spinach_raw`).
+- `category`: Must match the `<category_id>` of the filename.
+- `tags`: List of tags defined in `metadata.json`.
+- `portions` (optional/`null`): A list of portion measurements. Can be set to `null` or omitted entirely for items where Vitamin K content is unknown or not relevant.
+  - `amount`: Number (e.g. `100` or `1`).
+  - `unit`: One of `["g", "ml", "piece", "cup", "tbsp", "tsp"]`.
+  - `vitamin_k_mcg`: Amount of Vitamin K in micrograms.
+  - `gram_equivalent`: The equivalent weight in grams. **Required if the unit is NOT `"g"`**. If unit is `"g"`, it is omitted.
+  - `vitamin_k_100g_mcg`: **Required**. The calculated amount of Vitamin K in micrograms per 100g of this food item (calculated from the portion weight and vitamin K content).
+- `source`: Reference source for the data (e.g. USDA FoodData Central ID).
+- `relations` (optional): Grouping and relation identifier (omitted if the food item does not belong to any obvious food group).
+  - `group`: String grouping identifier. Must be registered in the global `"groups"` list of `metadata.json`.
+  - `related_ids`: List of related food IDs (other variants in the category sharing the same base ID).
 
 - Example:
   ```json

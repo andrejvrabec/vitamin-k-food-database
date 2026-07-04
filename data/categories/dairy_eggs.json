@@ -23,7 +23,10 @@
         "beverages",
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "cheese_blue",
@@ -47,7 +50,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_camembert",
@@ -71,7 +77,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_cheddar",
@@ -95,7 +104,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_cottage_creamed_with_fruit",
@@ -119,7 +131,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_cottage_lowfat_1_milkfat",
@@ -143,7 +158,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_cream",
@@ -167,7 +185,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_feta",
@@ -191,7 +212,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_food_pasteurized_process_american",
@@ -215,7 +239,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_mexican_queso_chihuahua",
@@ -239,7 +266,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_mozzarella_low_moisture_part_skim",
@@ -263,7 +293,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_mozzarella_whole_milk",
@@ -287,7 +320,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_muenster",
@@ -311,7 +347,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_neufchatel",
@@ -335,7 +374,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_parmesan_grated",
@@ -359,7 +401,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_pasteurized_process_american_fort",
@@ -383,7 +428,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_pasteurized_process_swiss",
@@ -407,7 +455,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_provolone",
@@ -431,7 +482,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_ricotta_part_skim_milk",
@@ -455,7 +509,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_ricotta_whole_milk",
@@ -479,7 +536,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_substitute_mozzarella",
@@ -503,7 +563,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_swiss",
@@ -527,7 +590,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "crackers_cheese_regular",
@@ -553,7 +619,10 @@
         "dairy",
         "k2",
         "processed"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "crackers_cream_gamesa_sabrosas",
@@ -579,7 +648,10 @@
         "dairy",
         "k2",
         "processed"
-      ]
+      ],
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_fluid_half_and_half",
@@ -603,7 +675,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_fluid_heavy_whipping",
@@ -627,7 +702,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_fluid_light",
@@ -651,7 +729,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_fluid_light_whipping",
@@ -675,7 +756,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_puff_eclair_custard_or_cream_fille",
@@ -699,7 +783,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_sour_cultured",
@@ -723,7 +810,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "croissants_cheese",
@@ -749,7 +839,10 @@
         "dairy",
         "fast_food",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "egg_whole_cooked_omelet",
@@ -774,7 +867,10 @@
         "cooked",
         "egg",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_yolk_raw",
@@ -799,7 +895,10 @@
         "egg",
         "k2",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_yolk_raw_frozen_sugared_pasteurized",
@@ -825,7 +924,10 @@
         "k2",
         "raw",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "eggnog",
@@ -850,7 +952,10 @@
         "beverages",
         "egg",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "fast_foods_biscuit_with_egg_and_bacon",
@@ -877,7 +982,10 @@
         "high_sodium",
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "fast_foods_biscuit_with_egg_and_sausage",
@@ -904,7 +1012,10 @@
         "high_sodium",
         "k2",
         "meat"
-      ]
+      ],
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "gouda_cheese",
@@ -929,7 +1040,10 @@
           "vitamin_k_100g_mcg": 72.9
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 172166)"
+      "source": "USDA FoodData Central (FDC ID: 172166)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "milk_buttermilk_dried",
@@ -953,7 +1067,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_canned_condensed_sweetened",
@@ -980,7 +1097,10 @@
         "high_sodium",
         "k2",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_canned_evaporated_with_added_vitami",
@@ -1006,7 +1126,10 @@
         "dairy",
         "high_sodium",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "potatoes_mashed_dehydrated_flakes_withou",
@@ -1030,7 +1153,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "whey_sweet_dried",
@@ -1054,7 +1180,10 @@
       "tags": [
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "cheese_brick",
@@ -1085,7 +1214,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01005)"
+      "source": "USDA SR28 (NDB No: 01005)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_brie",
@@ -1116,7 +1248,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01006)"
+      "source": "USDA SR28 (NDB No: 01006)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_colby",
@@ -1147,7 +1282,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 01011)"
+      "source": "USDA SR28 (NDB No: 01011)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_cottage_crmd_wfruit",
@@ -1178,7 +1316,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 01013)"
+      "source": "USDA SR28 (NDB No: 01013)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_edam",
@@ -1209,7 +1350,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01018)"
+      "source": "USDA SR28 (NDB No: 01018)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_fontina",
@@ -1240,7 +1384,10 @@
           "vitamin_k_100g_mcg": 2.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 01020)"
+      "source": "USDA SR28 (NDB No: 01020)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_gouda",
@@ -1271,7 +1418,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01022)"
+      "source": "USDA SR28 (NDB No: 01022)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_gruyere",
@@ -1302,7 +1452,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 01023)"
+      "source": "USDA SR28 (NDB No: 01023)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_limburger",
@@ -1333,7 +1486,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01024)"
+      "source": "USDA SR28 (NDB No: 01024)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_monterey",
@@ -1364,7 +1520,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01025)"
+      "source": "USDA SR28 (NDB No: 01025)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_mozzarella_whl_milk",
@@ -1395,7 +1554,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01026)"
+      "source": "USDA SR28 (NDB No: 01026)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_mozzarella_whl_milk_lo_moist",
@@ -1426,7 +1588,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 01027)"
+      "source": "USDA SR28 (NDB No: 01027)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_mozzarella_part_skim_milk",
@@ -1450,7 +1615,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 01028)"
+      "source": "USDA SR28 (NDB No: 01028)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_mozzarella_part_skim_milk_lo_moist",
@@ -1481,7 +1649,10 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01029)"
+      "source": "USDA SR28 (NDB No: 01029)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_parmesan_hard",
@@ -1512,7 +1683,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01033)"
+      "source": "USDA SR28 (NDB No: 01033)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_port_de_salut",
@@ -1543,7 +1717,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 01034)"
+      "source": "USDA SR28 (NDB No: 01034)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_romano",
@@ -1574,7 +1751,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01038)"
+      "source": "USDA SR28 (NDB No: 01038)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_past_process_american_fort_w_vitamin_d",
@@ -1605,7 +1785,10 @@
           "vitamin_k_100g_mcg": 3.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 01042)"
+      "source": "USDA SR28 (NDB No: 01042)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_past_process_pimento",
@@ -1636,7 +1819,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 01043)"
+      "source": "USDA SR28 (NDB No: 01043)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_past_process_swiss",
@@ -1667,7 +1853,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01044)"
+      "source": "USDA SR28 (NDB No: 01044)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_fd_past_process_american_vitamin_d_for",
@@ -1698,7 +1887,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 01046)"
+      "source": "USDA SR28 (NDB No: 01046)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_sprd_past_process_american",
@@ -1729,7 +1921,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 01048)"
+      "source": "USDA SR28 (NDB No: 01048)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cream_fluid_lt",
@@ -1760,7 +1955,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01050)"
+      "source": "USDA SR28 (NDB No: 01050)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_fluid_lt_whipping",
@@ -1791,7 +1989,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 01052)"
+      "source": "USDA SR28 (NDB No: 01052)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_fluid_hvy_whipping",
@@ -1822,7 +2023,10 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01053)"
+      "source": "USDA SR28 (NDB No: 01053)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "sour_drsng_non_butterfat_cultured_filled_crea",
@@ -1884,7 +2088,10 @@
           "vitamin_k_100g_mcg": 10.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01069)"
+      "source": "USDA SR28 (NDB No: 01069)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "milk_whl_325_milkfat_w_added_vitamin_d",
@@ -1915,7 +2122,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01077)"
+      "source": "USDA SR28 (NDB No: 01077)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_lowfat_fluid_1_milkfat_w_added_vit_a_vit",
@@ -1946,7 +2156,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01082)"
+      "source": "USDA SR28 (NDB No: 01082)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_bttrmlk_fluid_cultured_lowfat",
@@ -1977,7 +2190,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01088)"
+      "source": "USDA SR28 (NDB No: 01088)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_lo_na_fluid",
@@ -2008,7 +2224,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01089)"
+      "source": "USDA SR28 (NDB No: 01089)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_dry_whl_w_added_vitamin_d",
@@ -2039,7 +2258,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01090)"
+      "source": "USDA SR28 (NDB No: 01090)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_dry_nonfat_reg_wo_added_vit_a_vitamin_d",
@@ -2070,7 +2292,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01091)"
+      "source": "USDA SR28 (NDB No: 01091)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_cnd_cond_swtnd",
@@ -2101,7 +2326,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01095)"
+      "source": "USDA SR28 (NDB No: 01095)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_cnd_evap_w_added_vitamin_d_wo_added_vit",
@@ -2132,7 +2360,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 01096)"
+      "source": "USDA SR28 (NDB No: 01096)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_choc_fluid_comm_whl_w_added_vit_a_vitami",
@@ -2163,7 +2394,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01102)"
+      "source": "USDA SR28 (NDB No: 01102)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_choc_fluid_comm_lowfat_w_added_vit_a_vit",
@@ -2194,7 +2428,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01104)"
+      "source": "USDA SR28 (NDB No: 01104)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_choc_bev_hot_cocoa_homemade",
@@ -2226,7 +2463,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01105)"
+      "source": "USDA SR28 (NDB No: 01105)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_goat_fluid_w_added_vitamin_d",
@@ -2257,7 +2497,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01106)"
+      "source": "USDA SR28 (NDB No: 01106)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_human_mature_fluid",
@@ -2288,7 +2531,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01107)"
+      "source": "USDA SR28 (NDB No: 01107)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_shakes_thick_choc",
@@ -2319,7 +2565,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01110)"
+      "source": "USDA SR28 (NDB No: 01110)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_shakes_thick_vanilla",
@@ -2350,7 +2599,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01111)"
+      "source": "USDA SR28 (NDB No: 01111)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "yogurt_pln_whl_milk_8_grams_prot_per_8_oz",
@@ -2382,7 +2634,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01116)"
+      "source": "USDA SR28 (NDB No: 01116)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "yogurt_pln_lofat_12_grams_prot_per_8_oz",
@@ -2414,7 +2669,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01117)"
+      "source": "USDA SR28 (NDB No: 01117)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "yogurt_pln_skim_milk_13_grams_prot_per_8_oz",
@@ -2446,7 +2704,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01118)"
+      "source": "USDA SR28 (NDB No: 01118)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "yogurt_vanilla_lofat_11_grams_prot_per_8_oz",
@@ -2478,7 +2739,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01119)"
+      "source": "USDA SR28 (NDB No: 01119)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "yogurt_fruit_lofat_9_grams_prot_per_8_oz",
@@ -2510,7 +2774,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01120)"
+      "source": "USDA SR28 (NDB No: 01120)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "yogurt_fruit_lofat_10_grams_prot_per_8_oz",
@@ -2542,7 +2809,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01121)"
+      "source": "USDA SR28 (NDB No: 01121)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "egg_whl_raw_frsh",
@@ -2574,7 +2844,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 01123)"
+      "source": "USDA SR28 (NDB No: 01123)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_yolk_raw_frsh",
@@ -2606,7 +2879,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 01125)"
+      "source": "USDA SR28 (NDB No: 01125)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_yolk_raw_frz_past",
@@ -2631,7 +2907,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 01126)"
+      "source": "USDA SR28 (NDB No: 01126)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_yolk_raw_frz_sugared_past",
@@ -2657,7 +2936,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 01127)"
+      "source": "USDA SR28 (NDB No: 01127)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_whl_ckd_fried",
@@ -2682,7 +2964,10 @@
           "vitamin_k_100g_mcg": 5.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 01128)"
+      "source": "USDA SR28 (NDB No: 01128)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_whl_ckd_hard_boiled",
@@ -2714,7 +2999,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01129)"
+      "source": "USDA SR28 (NDB No: 01129)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_whl_ckd_poached",
@@ -2738,7 +3026,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01131)"
+      "source": "USDA SR28 (NDB No: 01131)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_whl_ckd_scrmbld",
@@ -2769,7 +3060,10 @@
           "vitamin_k_100g_mcg": 3.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 01132)"
+      "source": "USDA SR28 (NDB No: 01132)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_whole_dried",
@@ -2800,7 +3094,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01133)"
+      "source": "USDA SR28 (NDB No: 01133)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_yolk_dried",
@@ -2831,7 +3128,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01137)"
+      "source": "USDA SR28 (NDB No: 01137)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_duck_whole_fresh_raw",
@@ -2856,7 +3156,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 01138)"
+      "source": "USDA SR28 (NDB No: 01138)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_goose_whole_fresh_raw",
@@ -2881,7 +3184,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 01139)"
+      "source": "USDA SR28 (NDB No: 01139)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_quail_whole_fresh_raw",
@@ -2906,7 +3212,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01140)"
+      "source": "USDA SR28 (NDB No: 01140)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_substitute_powder",
@@ -2937,7 +3246,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01144)"
+      "source": "USDA SR28 (NDB No: 01144)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "cheese_parmesan_shredded",
@@ -2961,7 +3273,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01146)"
+      "source": "USDA SR28 (NDB No: 01146)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "milk_dry_nonfat_reg_w_added_vit_a_vitamin_d",
@@ -2992,7 +3307,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01154)"
+      "source": "USDA SR28 (NDB No: 01154)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "cheese_goat_hard_type",
@@ -3016,7 +3334,10 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01156)"
+      "source": "USDA SR28 (NDB No: 01156)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_goat_semisoft_type",
@@ -3040,7 +3361,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01157)"
+      "source": "USDA SR28 (NDB No: 01157)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_goat_soft_type",
@@ -3064,7 +3388,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 01159)"
+      "source": "USDA SR28 (NDB No: 01159)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "egg_yolk_raw_frz_salted_past",
@@ -3090,7 +3417,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 01160)"
+      "source": "USDA SR28 (NDB No: 01160)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "cheese_sub_mozzarella",
@@ -3121,7 +3451,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01161)"
+      "source": "USDA SR28 (NDB No: 01161)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_sau_prep_from_recipe",
@@ -3152,7 +3485,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01164)"
+      "source": "USDA SR28 (NDB No: 01164)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_mexican_queso_anejo",
@@ -3183,7 +3519,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01165)"
+      "source": "USDA SR28 (NDB No: 01165)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_mexican_queso_asadero",
@@ -3214,7 +3553,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 01166)"
+      "source": "USDA SR28 (NDB No: 01166)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_lofat_cheddar_or_colby",
@@ -3245,7 +3587,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 01168)"
+      "source": "USDA SR28 (NDB No: 01168)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_low_sodium_cheddar_or_colby",
@@ -3276,7 +3621,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 01169)"
+      "source": "USDA SR28 (NDB No: 01169)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "egg_whl_raw_frz_past",
@@ -3294,7 +3642,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01171)"
+      "source": "USDA SR28 (NDB No: 01171)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "sour_cream_light",
@@ -3325,7 +3676,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01179)"
+      "source": "USDA SR28 (NDB No: 01179)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "yogurt_fruit_lofat_wlo_cal_sweetener",
@@ -3357,7 +3711,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01203)"
+      "source": "USDA SR28 (NDB No: 01203)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "cream_sub_flav_liq",
@@ -3381,7 +3738,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01205)"
+      "source": "USDA SR28 (NDB No: 01205)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_sub_flav_pdr",
@@ -3405,7 +3765,10 @@
           "vitamin_k_100g_mcg": 9.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01206)"
+      "source": "USDA SR28 (NDB No: 01206)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "egg_mix_usda_cmdty",
@@ -3436,7 +3799,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 01210)"
+      "source": "USDA SR28 (NDB No: 01210)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "milk_whl_325_milkfat_wo_added_vit_a_vitamin_d",
@@ -3467,7 +3833,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01211)"
+      "source": "USDA SR28 (NDB No: 01211)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_dry_whl_wo_added_vitamin_d",
@@ -3498,7 +3867,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01212)"
+      "source": "USDA SR28 (NDB No: 01212)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_cnd_evap_wo_added_vit_a_vitamin_d",
@@ -3529,7 +3901,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 01214)"
+      "source": "USDA SR28 (NDB No: 01214)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "yogurt_fruit_lofat_9_grams_prot_per_8_oz_fort",
@@ -3561,7 +3936,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01216)"
+      "source": "USDA SR28 (NDB No: 01216)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "yogurt_fruit_lofat_10_grams_prot_per_8_oz_for",
@@ -3593,7 +3971,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01217)"
+      "source": "USDA SR28 (NDB No: 01217)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "yogurt_fruit_var_nonfat_fort_w_vitamin_d",
@@ -3625,7 +4006,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01218)"
+      "source": "USDA SR28 (NDB No: 01218)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "yogurt_fruit_lowfat_w_lo_cal_swtnr_fort_w_vit",
@@ -3657,7 +4041,10 @@
           "vitamin_k_100g_mcg": 1.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01219)"
+      "source": "USDA SR28 (NDB No: 01219)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "yogurt_vanilla_lofat_11_grams_prot_per_8_oz_f",
@@ -3689,7 +4076,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01220)"
+      "source": "USDA SR28 (NDB No: 01220)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "protein_supp_milk_bsd_muscle_milk_pdr",
@@ -3713,7 +4103,10 @@
           "vitamin_k_100g_mcg": 0.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 01223)"
+      "source": "USDA SR28 (NDB No: 01223)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "protein_supp_milk_bsd_muscle_milk_lt_pdr",
@@ -3737,7 +4130,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 01224)"
+      "source": "USDA SR28 (NDB No: 01224)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "cheese_dry_white_queso_seco",
@@ -3761,7 +4157,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01227)"
+      "source": "USDA SR28 (NDB No: 01227)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_frsh_queso_fresco",
@@ -3785,7 +4184,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 01228)"
+      "source": "USDA SR28 (NDB No: 01228)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_white_queso_blanco",
@@ -3809,7 +4211,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 01229)"
+      "source": "USDA SR28 (NDB No: 01229)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "milk_bttrmlk_fluid_whl",
@@ -3833,7 +4238,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01230)"
+      "source": "USDA SR28 (NDB No: 01230)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "yogurt_vanilla_flavor_lowfat_milk_swtnd_w_lo",
@@ -3858,7 +4266,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01231)"
+      "source": "USDA SR28 (NDB No: 01231)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "yogurt_frz_flavors_not_choc_nonfat_milk_w_low",
@@ -3883,7 +4294,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01235)"
+      "source": "USDA SR28 (NDB No: 01235)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "milk_dssrt_bar_frz_made_from_lowfat_milk",
@@ -3907,7 +4321,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 01244)"
+      "source": "USDA SR28 (NDB No: 01244)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "cheese_mexican_blend",
@@ -3931,7 +4348,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01251)"
+      "source": "USDA SR28 (NDB No: 01251)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_product_past_process_american_vitamin",
@@ -3962,7 +4382,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01252)"
+      "source": "USDA SR28 (NDB No: 01252)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_past_process_american_wo_added_vitamin",
@@ -3993,7 +4416,10 @@
           "vitamin_k_100g_mcg": 2.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 01253)"
+      "source": "USDA SR28 (NDB No: 01253)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_fd_past_process_american_wo_added_vita",
@@ -4024,7 +4450,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01254)"
+      "source": "USDA SR28 (NDB No: 01254)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "egg_whl_raw_frz_salted_past",
@@ -4043,7 +4472,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01255)"
+      "source": "USDA SR28 (NDB No: 01255)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "yogurt_greek_pln_nonfat",
@@ -4068,7 +4500,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 01256)"
+      "source": "USDA SR28 (NDB No: 01256)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "kielbasa_kolbassy_pork_bf_nonfat_dry_milk",
@@ -4100,7 +4535,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 07037)"
+      "source": "USDA SR28 (NDB No: 07037)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "smoked_link_sausage_porkbf_flrnonfat_dry_milk",
@@ -4133,7 +4571,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 07076)"
+      "source": "USDA SR28 (NDB No: 07076)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "milk_crl_bar",
@@ -4157,7 +4598,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 08510)"
+      "source": "USDA SR28 (NDB No: 08510)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "chard_swiss_raw",
@@ -4189,7 +4633,10 @@
           "vitamin_k_100g_mcg": 830.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11147)"
+      "source": "USDA SR28 (NDB No: 11147)",
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "chard_swiss_ckd_bld_drnd_wosalt",
@@ -4213,7 +4660,10 @@
           "vitamin_k_100g_mcg": 327.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11148)"
+      "source": "USDA SR28 (NDB No: 11148)",
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "potatoes_mshd_dehyd_flakes_womilk_dry_form",
@@ -4237,7 +4687,10 @@
           "vitamin_k_100g_mcg": 8.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11378)"
+      "source": "USDA SR28 (NDB No: 11378)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_mshd_dehyd_prep_from_flakes_wo_milk",
@@ -4261,7 +4714,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11379)"
+      "source": "USDA SR28 (NDB No: 11379)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_mshd_dehyd_granules_womilk_dry_form",
@@ -4285,7 +4741,10 @@
           "vitamin_k_100g_mcg": 9.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11380)"
+      "source": "USDA SR28 (NDB No: 11380)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_mshd_dehyd_granules_wmilk_dry_form",
@@ -4309,7 +4768,10 @@
           "vitamin_k_100g_mcg": 8.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11382)"
+      "source": "USDA SR28 (NDB No: 11382)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_mshd_dehyd_prep_from_gran_w_milk_h2o",
@@ -4333,7 +4795,10 @@
           "vitamin_k_100g_mcg": 6.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11383)"
+      "source": "USDA SR28 (NDB No: 11383)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_mshd_home_prepared_whl_milk_added",
@@ -4358,7 +4823,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11657)"
+      "source": "USDA SR28 (NDB No: 11657)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "chard_swiss_ckd_bld_drnd_wsalt",
@@ -4382,7 +4850,10 @@
           "vitamin_k_100g_mcg": 327.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11765)"
+      "source": "USDA SR28 (NDB No: 11765)",
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "coconut_milk_raw",
@@ -4414,7 +4885,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 12117)"
+      "source": "USDA SR28 (NDB No: 12117)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "eggnog_flavor_mix_pdr_prep_w_whl_milk",
@@ -4439,7 +4913,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 14245)"
+      "source": "USDA SR28 (NDB No: 14245)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "malted_drk_mix_nat_w_added_nutr_pdr_prep_w_wh",
@@ -4487,7 +4964,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 14312)"
+      "source": "USDA SR28 (NDB No: 14312)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "malted_drk_mix_choc_w_added_nutr_pdr_prep_w_w",
@@ -4535,7 +5015,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 14318)"
+      "source": "USDA SR28 (NDB No: 14318)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "crackers_milk",
@@ -4568,7 +5051,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18223)"
+      "source": "USDA SR28 (NDB No: 18223)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "cream_puffs_prep_from_recipe_shell",
@@ -4599,7 +5085,10 @@
           "vitamin_k_100g_mcg": 24.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18237)"
+      "source": "USDA SR28 (NDB No: 18237)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_puffs_prep_from_recipe_shell_wcustard_f",
@@ -4630,7 +5119,10 @@
           "vitamin_k_100g_mcg": 12.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18238)"
+      "source": "USDA SR28 (NDB No: 18238)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "rolls_dinner_egg",
@@ -4661,7 +5153,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 18344)"
+      "source": "USDA SR28 (NDB No: 18344)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "cream_puff_eclair_custard_or_crm_filled_iced",
@@ -4685,7 +5180,10 @@
           "vitamin_k_100g_mcg": 6.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18969)"
+      "source": "USDA SR28 (NDB No: 18969)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "desserts_egg_custard_bkd_prepared_from_recipe",
@@ -4717,7 +5215,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 19168)"
+      "source": "USDA SR28 (NDB No: 19168)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_custards_dry_mix_prep_w_whl_milk",
@@ -4741,7 +5242,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 19170)"
+      "source": "USDA SR28 (NDB No: 19170)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "puddings_choc_dry_mix_inst_prep_w_whole_milk",
@@ -4772,7 +5276,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 19189)"
+      "source": "USDA SR28 (NDB No: 19189)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "puddings_choc_dry_mix_reg_prep_w_2_milk",
@@ -4796,7 +5303,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 19190)"
+      "source": "USDA SR28 (NDB No: 19190)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "egg_custards_dry_mix_prep_w_2_milk",
@@ -4820,7 +5330,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 19205)"
+      "source": "USDA SR28 (NDB No: 19205)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "puddings_vanilla_dry_mix_reg_prep_w_whl_milk",
@@ -4851,7 +5364,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 19207)"
+      "source": "USDA SR28 (NDB No: 19207)",
+      "relations": {
+        "group": "milk"
+      }
     },
     {
       "id": "puddings_banana_dry_mix_inst_prep_w_whl_milk",
@@ -4875,7 +5391,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 19319)"
+      "source": "USDA SR28 (NDB No: 19319)",
+      "relations": {
+        "group": "banana"
+      }
     },
     {
       "id": "puddings_banana_dry_mix_reg_prep_w_whl_milk",
@@ -4899,7 +5418,10 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 19321)"
+      "source": "USDA SR28 (NDB No: 19321)",
+      "relations": {
+        "group": "banana"
+      }
     },
     {
       "id": "fast_foods_biscuit_weggbacon",
@@ -4926,7 +5448,10 @@
           "vitamin_k_100g_mcg": 4.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 21003)"
+      "source": "USDA SR28 (NDB No: 21003)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "fast_foods_biscuit_weggham",
@@ -4952,7 +5477,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 21004)"
+      "source": "USDA SR28 (NDB No: 21004)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "breakfast_items_biscuit_weggsausage",
@@ -4979,7 +5507,10 @@
           "vitamin_k_100g_mcg": 4.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 21005)"
+      "source": "USDA SR28 (NDB No: 21005)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "fast_foods_biscuit_wegg_chs_bacon",
@@ -5006,7 +5537,10 @@
           "vitamin_k_100g_mcg": 4.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 21007)"
+      "source": "USDA SR28 (NDB No: 21007)",
+      "relations": {
+        "group": "cookie"
+      }
     },
     {
       "id": "fast_foods_egg_scrambled",
@@ -5030,7 +5564,10 @@
           "vitamin_k_100g_mcg": 9.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 21018)"
+      "source": "USDA SR28 (NDB No: 21018)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "fast_foods_griddle_cake_sndwch_egg_chs_sausag",
@@ -5055,7 +5592,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 21305)"
+      "source": "USDA SR28 (NDB No: 21305)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "fast_foods_griddle_cake_sndwch_egg_chs_bacon",
@@ -5082,7 +5622,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 21307)"
+      "source": "USDA SR28 (NDB No: 21307)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "burger_king_croissanwich_w_sausage_egg_chs",
@@ -5108,7 +5651,10 @@
           "vitamin_k_100g_mcg": 9.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 21383)"
+      "source": "USDA SR28 (NDB No: 21383)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "burger_king_croissanwich_w_egg_chs",
@@ -5132,7 +5678,10 @@
           "vitamin_k_100g_mcg": 9.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 21385)"
+      "source": "USDA SR28 (NDB No: 21385)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "yogurt_parfait_lowfat_w_fruit_granola",
@@ -5157,7 +5706,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 21463)"
+      "source": "USDA SR28 (NDB No: 21463)",
+      "relations": {
+        "group": "yogurt"
+      }
     },
     {
       "id": "salad_grape_appl_w_yogurt_candied_walnuts",
@@ -5182,7 +5734,10 @@
           "vitamin_k_100g_mcg": 4.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 21489)"
+      "source": "USDA SR28 (NDB No: 21489)",
+      "relations": {
+        "group": "grape"
+      }
     },
     {
       "id": "ravioli_cheese_filled_cnd",
@@ -5206,7 +5761,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 22899)"
+      "source": "USDA SR28 (NDB No: 22899)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "burrito_bean_and_cheese_frozen",
@@ -5231,7 +5789,10 @@
           "vitamin_k_100g_mcg": 7.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 22918)"
+      "source": "USDA SR28 (NDB No: 22918)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "egg_rolls_pork_refr_htd",
@@ -5263,7 +5824,10 @@
           "vitamin_k_100g_mcg": 22.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 22953)"
+      "source": "USDA SR28 (NDB No: 22953)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_rolls_chick_refr_htd",
@@ -5294,7 +5858,10 @@
           "vitamin_k_100g_mcg": 23.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 22954)"
+      "source": "USDA SR28 (NDB No: 22954)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "egg_rolls_veg_refr_htd",
@@ -5325,7 +5892,10 @@
           "vitamin_k_100g_mcg": 42.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 22955)"
+      "source": "USDA SR28 (NDB No: 22955)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "hot_pockets_meatballs_mozzarella_stuffed_sndw",
@@ -5349,7 +5919,10 @@
           "vitamin_k_100g_mcg": 10.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 22961)"
+      "source": "USDA SR28 (NDB No: 22961)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "lean_pockets_ham_n_cheddar",
@@ -5381,7 +5954,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 22962)"
+      "source": "USDA SR28 (NDB No: 22962)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "lean_pockets_meatballs_mozzarella",
@@ -5405,7 +5981,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 22963)"
+      "source": "USDA SR28 (NDB No: 22963)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "potato_salad_w_egg",
@@ -5429,7 +6008,10 @@
           "vitamin_k_100g_mcg": 14.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 22971)"
+      "source": "USDA SR28 (NDB No: 22971)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "fish_whitefish_eggs",
@@ -5447,7 +6029,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 35158)"
+      "source": "USDA SR28 (NDB No: 35158)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "applebees_mozzarella_stks",
@@ -5478,7 +6063,10 @@
           "vitamin_k_100g_mcg": 22.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 36004)"
+      "source": "USDA SR28 (NDB No: 36004)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "tgi_fridays_fried_mozzarella",
@@ -5510,7 +6098,10 @@
           "vitamin_k_100g_mcg": 21.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 36008)"
+      "source": "USDA SR28 (NDB No: 36008)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "restaurant_family_style_fried_mozzarella_stks",
@@ -5542,7 +6133,10 @@
           "vitamin_k_100g_mcg": 22.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 36012)"
+      "source": "USDA SR28 (NDB No: 36012)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "restaurant_latino_pupusas_con_queso",
@@ -5566,7 +6160,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 36409)"
+      "source": "USDA SR28 (NDB No: 36409)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "restaurant_chinese_egg_rolls_assorted",
@@ -5590,7 +6187,10 @@
           "vitamin_k_100g_mcg": 58.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 36601)"
+      "source": "USDA SR28 (NDB No: 36601)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "dennys_mozzarella_chs_stks",
@@ -5621,7 +6221,10 @@
           "vitamin_k_100g_mcg": 25.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 36611)"
+      "source": "USDA SR28 (NDB No: 36611)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "imitation_chs_american_or_cheddar_lo_chol",
@@ -5652,7 +6255,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 42117)"
+      "source": "USDA SR28 (NDB No: 42117)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cream_sub_pdr_lt",
@@ -5683,7 +6289,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 42136)"
+      "source": "USDA SR28 (NDB No: 42136)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cream_sub_liq_lt",
@@ -5714,7 +6323,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 42141)"
+      "source": "USDA SR28 (NDB No: 42141)",
+      "relations": {
+        "group": "cream"
+      }
     },
     {
       "id": "cheese_cottage_lowfat_1_milkfat_lactose_red",
@@ -5738,7 +6350,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 42235)"
+      "source": "USDA SR28 (NDB No: 42235)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_cottage_wveg",
@@ -5762,7 +6377,10 @@
           "vitamin_k_100g_mcg": 11.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 43273)"
+      "source": "USDA SR28 (NDB No: 43273)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_past_process_american_lofat",
@@ -5793,7 +6411,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 43275)"
+      "source": "USDA SR28 (NDB No: 43275)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_sprd_crm_chs_base",
@@ -5824,7 +6445,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 43276)"
+      "source": "USDA SR28 (NDB No: 43276)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_american_cheddar_imitn",
@@ -5855,7 +6479,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 43278)"
+      "source": "USDA SR28 (NDB No: 43278)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "eggs_scrmbld_frz_mixture",
@@ -5879,7 +6506,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 43285)"
+      "source": "USDA SR28 (NDB No: 43285)",
+      "relations": {
+        "group": "egg"
+      }
     },
     {
       "id": "soybean_curd_cheese",
@@ -5905,7 +6535,10 @@
           "vitamin_k_100g_mcg": 4.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 43299)"
+      "source": "USDA SR28 (NDB No: 43299)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "cheese_parmesan_lo_na",
@@ -5936,7 +6569,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 43340)"
+      "source": "USDA SR28 (NDB No: 43340)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_cottage_lowfat_1_milkfat_no_na",
@@ -5960,7 +6596,10 @@
           "vitamin_k_100g_mcg": 0.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 43352)"
+      "source": "USDA SR28 (NDB No: 43352)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_past_process_swiss_lofat",
@@ -5991,7 +6630,10 @@
           "vitamin_k_100g_mcg": 0.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 43379)"
+      "source": "USDA SR28 (NDB No: 43379)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_cottage_lowfat_1_milkfat_wveg",
@@ -6015,7 +6657,10 @@
           "vitamin_k_100g_mcg": 2.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 43396)"
+      "source": "USDA SR28 (NDB No: 43396)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_past_process_cheddar_or_american_lo_na",
@@ -6046,7 +6691,10 @@
           "vitamin_k_100g_mcg": 2.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 43398)"
+      "source": "USDA SR28 (NDB No: 43398)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_swiss_low_sodium",
@@ -6077,7 +6725,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 43405)"
+      "source": "USDA SR28 (NDB No: 43405)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "tofu_yogurt",
@@ -6103,7 +6754,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 43476)"
+      "source": "USDA SR28 (NDB No: 43476)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "cheese_mozzarella_lo_na",
@@ -6134,7 +6788,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 43597)"
+      "source": "USDA SR28 (NDB No: 43597)",
+      "relations": {
+        "group": "cheese"
+      }
     },
     {
       "id": "cheese_food_imitation",
@@ -6158,7 +6815,10 @@
           "vitamin_k_100g_mcg": 37.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 44048)"
+      "source": "USDA SR28 (NDB No: 44048)",
+      "relations": {
+        "group": "cheese"
+      }
     }
   ]
 }

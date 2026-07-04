@@ -676,6 +676,17 @@
             </div>
           </div>
 
+          <!-- Card: Database Groups -->
+          <div class="card">
+            <h3>Food Relations Groups</h3>
+            <p style="font-size: 0.85rem; color: var(--text-muted);">
+              Obvious food items are categorized into these groups. Consumption apps can use them to group raw/cooked variants.
+            </p>
+            <div class="tags-container" id="groups-container">
+              <p style="color: var(--text-muted); font-size: 0.9rem;">Loading groups...</p>
+            </div>
+          </div>
+
           <!-- Card: Metadata & Translation Files -->
           <div class="card">
             <h3>Metadata & Translations</h3>
@@ -717,6 +728,10 @@
                 <span class="manifest-label">tags</span>
                 <span class="manifest-value" style="font-family: monospace; color: #60a5fa;">["green_leaves", "raw", "cooked", "affects_warfarin", "affects_coagulation", ...]</span>
               </div>
+              <div class="manifest-row">
+                <span class="manifest-label">groups</span>
+                <span class="manifest-value" style="font-family: monospace; color: #60a5fa;">["broccoli", "spinach", "beef", "pasta", "tea", ...]</span>
+              </div>
             </div>
             <div class="info-box">
               <svg viewBox="0 0 24 24"><path d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg>
@@ -745,7 +760,11 @@
     { "amount": 100, "unit": "g", "vitamin_k_mcg": 19.3, "vitamin_k_100g_mcg": 19.3 },
     { "amount": 1, "unit": "cup", "gram_equivalent": 148, "vitamin_k_mcg": 28.6, "vitamin_k_100g_mcg": 19.3 }
   ],
-  "tags": ["berries", "k1", "raw"]
+  "tags": ["berries", "k1", "raw"],
+  "relations": {
+    "group": "blueberry",
+    "related_ids": ["blueberries_frozen_sweetened"]
+  }
 }</code></pre>
             </div>
           </div>
@@ -1099,6 +1118,7 @@
         renderLanguagesBadges();
         renderCategories();
         renderTags();
+        renderGroups();
         renderSystemFiles();
       } catch (err) {
         console.error("Failed to initialize API portal dashboard", err);
@@ -1179,6 +1199,22 @@
         // Format tag for display
         let displayTag = tag.replace(/_/g, ' ');
         html += `<span class="tag-badge" title="Tag ID: ${tag}">${displayTag}</span>`;
+      });
+      container.innerHTML = html;
+    }
+
+    function renderGroups() {
+      const container = document.getElementById('groups-container');
+      if (!databaseMetadata || !databaseMetadata.groups) {
+        container.innerHTML = `<p style="color: var(--text-muted); font-size: 0.9rem;">No groups found.</p>`;
+        return;
+      }
+
+      let html = '';
+      databaseMetadata.groups.forEach(group => {
+        // Format group for display
+        let displayGroup = group.replace(/_/g, ' ');
+        html += `<span class="tag-badge" title="Group ID: ${group}">${displayGroup}</span>`;
       });
       container.innerHTML = html;
     }

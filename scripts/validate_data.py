@@ -83,6 +83,7 @@ def main():
     languages = metadata.get("languages", [])
     valid_tags = set(metadata.get("tags", []))
     valid_categories = set(metadata.get("categories", []))
+    valid_groups = set(metadata.get("groups", []))
     expected_units = {"g", "ml", "piece", "cup", "tbsp", "tsp"}
 
     # 3. Load and Validate Category files
@@ -127,6 +128,13 @@ def main():
             for tag in food.get("tags", []):
                 if tag not in valid_tags:
                     errors.append(f"Food item '{food_id}' uses undefined tag '{tag}'")
+
+            # Check group is defined in metadata
+            relations = food.get("relations")
+            if relations:
+                group = relations.get("group")
+                if group and group not in valid_groups:
+                    errors.append(f"Food item '{food_id}' uses undefined group '{group}' in relations")
 
     translated_interaction_keys = {}
 

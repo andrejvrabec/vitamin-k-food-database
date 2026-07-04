@@ -24,7 +24,10 @@
         "raw",
         "affects_coagulation",
         "affects_warfarin"
-      ]
+      ],
+      "relations": {
+        "group": "garlic"
+      }
     },
     {
       "id": "parsley_dried",
@@ -50,10 +53,7 @@
       ],
       "source": "USDA FoodData Central (FDC ID: 170932)",
       "relations": {
-        "group": "parsley",
-        "related_ids": [
-          "parsley_fresh"
-        ]
+        "group": "parsley"
       }
     },
     {
@@ -83,10 +83,7 @@
       ],
       "source": "USDA FoodData Central (FDC ID: 170416), FDA Coumadin Prescribing Information",
       "relations": {
-        "group": "parsley",
-        "related_ids": [
-          "parsley_dried"
-        ]
+        "group": "parsley"
       }
     },
     {
@@ -110,7 +107,10 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cinnamon"
+      }
     },
     {
       "id": "spices_curry_powder",
@@ -133,7 +133,10 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     },
     {
       "id": "spices_marjoram_dried",
@@ -156,7 +159,10 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     },
     {
       "id": "spices_mustard_seed_ground",
@@ -180,7 +186,10 @@
       "tags": [
         "k1",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     },
     {
       "id": "spices_thyme_dried",
@@ -203,7 +212,10 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "thyme"
+      }
     },
     {
       "id": "spices_turmeric_ground",
@@ -226,7 +238,10 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     },
     {
       "id": "thyme_dried",
@@ -250,7 +265,10 @@
           "vitamin_k_100g_mcg": 1710.0
         }
       ],
-      "source": "USDA FDC (derived from PDF page 2)"
+      "source": "USDA FDC (derived from PDF page 2)",
+      "relations": {
+        "group": "thyme"
+      }
     },
     {
       "id": "spices_basil_dried",
@@ -280,7 +298,10 @@
           "vitamin_k_100g_mcg": 1800.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02003)"
+      "source": "USDA SR28 (NDB No: 02003)",
+      "relations": {
+        "group": "basil"
+      }
     },
     {
       "id": "cinnamon_ground",
@@ -311,7 +332,10 @@
           "vitamin_k_100g_mcg": 40.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02010), FDA Warning"
+      "source": "USDA SR28 (NDB No: 02010), FDA Warning",
+      "relations": {
+        "group": "cinnamon"
+      }
     },
     {
       "id": "curry_powder",
@@ -371,7 +395,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02020)"
+      "source": "USDA SR28 (NDB No: 02020)",
+      "relations": {
+        "group": "garlic"
+      }
     },
     {
       "id": "marjoram_dried",
@@ -401,7 +428,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02023)"
+      "source": "USDA SR28 (NDB No: 02023)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     },
     {
       "id": "spices_mustard_sd_ground",
@@ -431,7 +461,10 @@
           "vitamin_k_100g_mcg": 5.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02024)"
+      "source": "USDA SR28 (NDB No: 02024)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     },
     {
       "id": "spices_oregano_dried",
@@ -461,7 +494,10 @@
           "vitamin_k_100g_mcg": 1120.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02027)"
+      "source": "USDA SR28 (NDB No: 02027)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     },
     {
       "id": "sage_ground",
@@ -491,7 +527,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02038)"
+      "source": "USDA SR28 (NDB No: 02038)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     },
     {
       "id": "turmeric_ground",
@@ -523,7 +562,10 @@
           "vitamin_k_100g_mcg": 15.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02043), MSKCC About Herbs"
+      "source": "USDA SR28 (NDB No: 02043), MSKCC About Herbs",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     },
     {
       "id": "basil_fresh",
@@ -556,7 +598,10 @@
           "vitamin_k_100g_mcg": 520.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02044), FDA Coumadin Prescribing Information"
+      "source": "USDA SR28 (NDB No: 02044), FDA Coumadin Prescribing Information",
+      "relations": {
+        "group": "basil"
+      }
     },
     {
       "id": "parsley_frsh",
@@ -586,7 +631,10 @@
           "vitamin_k_100g_mcg": 2076.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11297)"
+      "source": "USDA SR28 (NDB No: 11297)",
+      "relations": {
+        "group": "parsley"
+      }
     },
     {
       "id": "english_muffins_raisin_cinnamon",
@@ -620,7 +668,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18262)"
+      "source": "USDA SR28 (NDB No: 18262)",
+      "relations": {
+        "group": "cinnamon"
+      }
     },
     {
       "id": "english_muffins_raisin_cinnamon_tstd",
@@ -654,7 +705,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 18263)"
+      "source": "USDA SR28 (NDB No: 18263)",
+      "relations": {
+        "group": "cinnamon"
+      }
     },
     {
       "id": "cinnamon_buns_frstd",
@@ -677,7 +731,10 @@
           "vitamin_k_100g_mcg": 9.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 18964)"
+      "source": "USDA SR28 (NDB No: 18964)",
+      "relations": {
+        "group": "cinnamon"
+      }
     },
     {
       "id": "st_johns_wort",
@@ -713,7 +770,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA FoodData Central, NIH NCCIH, MSKCC About Herbs"
+      "source": "USDA FoodData Central, NIH NCCIH, MSKCC About Herbs",
+      "relations": {
+        "group": "ginger"
+      }
     },
     {
       "id": "ginkgo_biloba",
@@ -818,7 +878,10 @@
           "vitamin_k_100g_mcg": 310.0
         }
       ],
-      "source": "USDA FoodData Central, FDA Coumadin Prescribing Information"
+      "source": "USDA FoodData Central, FDA Coumadin Prescribing Information",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     }
   ]
 }

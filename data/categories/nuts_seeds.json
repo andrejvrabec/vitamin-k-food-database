@@ -24,7 +24,10 @@
         "legumes",
         "raw",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_black_turtle_mature_seeds_canned",
@@ -51,7 +54,13 @@
         "k1",
         "legumes",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "beans_black_turtle_mature_seeds_raw"
+        ]
+      }
     },
     {
       "id": "beans_black_turtle_mature_seeds_cooked_b",
@@ -77,7 +86,10 @@
         "k1",
         "legumes",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_pink_mature_seeds_raw",
@@ -103,7 +115,10 @@
         "legumes",
         "raw",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_green_frozen_cooked_boiled_dr",
@@ -128,7 +143,13 @@
         "cooked",
         "k1",
         "legumes"
-      ]
+      ],
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "beans_snap_green_raw"
+        ]
+      }
     },
     {
       "id": "cashews_raw",
@@ -179,7 +200,10 @@
         "k1",
         "legumes",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "cowpeas_immature_seeds_frozen_cooked_boi",
@@ -205,7 +229,10 @@
         "k1",
         "legumes",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "edamame_frozen",
@@ -231,7 +258,10 @@
           "vitamin_k_100g_mcg": 31.4
         }
       ],
-      "source": "USDA FDC (derived from PDF page 2)"
+      "source": "USDA FDC (derived from PDF page 2)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "edamame_frozen_unprepared",
@@ -257,7 +287,10 @@
         "k1",
         "legumes",
         "soy"
-      ]
+      ],
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "lima_beans_immature_seeds_cooked_boiled",
@@ -283,7 +316,10 @@
         "k1",
         "legumes",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "lima_beans_immature_seeds_frozen_baby_co",
@@ -308,7 +344,10 @@
         "k1",
         "legumes",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "lima_beans_immature_seeds_frozen_fordhoo",
@@ -333,7 +372,10 @@
         "k1",
         "legumes",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "mung_beans_mature_seeds_sprouted_cooked",
@@ -359,7 +401,10 @@
         "k1",
         "legumes",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "nuts_coconut_meat_dried_not_sweetened",
@@ -383,7 +428,10 @@
       "tags": [
         "k2",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "nuts_hazelnuts_or_filberts",
@@ -406,7 +454,10 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "pumpkin_seeds_roasted",
@@ -432,7 +483,10 @@
           "vitamin_k_100g_mcg": 51.5
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 170188)"
+      "source": "USDA FoodData Central (FDC ID: 170188)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "soybean_sprouts_cooked",
@@ -459,7 +513,10 @@
           "vitamin_k_100g_mcg": 70.6
         }
       ],
-      "source": "USDA FDC (derived from PDF page 1)"
+      "source": "USDA FDC (derived from PDF page 1)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "soybeans_mature_seeds_sprouted_cooked_st",
@@ -486,7 +543,10 @@
         "legumes",
         "seeds",
         "soy"
-      ]
+      ],
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "ice_crm_cone_choc_covered_w_nuts_flavors_othe",
@@ -509,7 +569,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 01240)"
+      "source": "USDA SR28 (NDB No: 01240)",
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "salad_drsng_sesame_sd_drsng_reg",
@@ -540,7 +603,10 @@
           "vitamin_k_100g_mcg": 56.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 04016)"
+      "source": "USDA SR28 (NDB No: 04016)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "alfalfa_seeds_sprouted_raw",
@@ -572,7 +638,10 @@
           "vitamin_k_100g_mcg": 30.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11001)"
+      "source": "USDA SR28 (NDB No: 11001)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "lima_bns_immat_seeds_raw",
@@ -597,7 +666,10 @@
           "vitamin_k_100g_mcg": 5.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11031)"
+      "source": "USDA SR28 (NDB No: 11031)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "lima_bns_immat_seeds_ckd_bld_drnd_wosalt",
@@ -621,7 +693,10 @@
           "vitamin_k_100g_mcg": 6.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11032)"
+      "source": "USDA SR28 (NDB No: 11032)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "lima_bns_immat_seeds_frz_fordhook_unprep",
@@ -652,7 +727,10 @@
           "vitamin_k_100g_mcg": 5.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11037)"
+      "source": "USDA SR28 (NDB No: 11037)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "lima_bns_immat_seeds_frz_fordhook_ckd_bld_drn",
@@ -683,7 +761,10 @@
           "vitamin_k_100g_mcg": 5.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11038)"
+      "source": "USDA SR28 (NDB No: 11038)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "lima_bns_immat_seeds_frz_baby_ckd_bld_drnd_wo",
@@ -714,7 +795,10 @@
           "vitamin_k_100g_mcg": 5.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11040)"
+      "source": "USDA SR28 (NDB No: 11040)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "mung_bns_mature_seeds_sprouted_raw",
@@ -746,7 +830,10 @@
           "vitamin_k_100g_mcg": 33.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11043)"
+      "source": "USDA SR28 (NDB No: 11043)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "mung_bns_mature_seeds_sprouted_ckd_bld_drnd_w",
@@ -770,7 +857,10 @@
           "vitamin_k_100g_mcg": 22.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11044)"
+      "source": "USDA SR28 (NDB No: 11044)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "beans_shellie_cnd_sol_liquids",
@@ -794,7 +884,10 @@
           "vitamin_k_100g_mcg": 8.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11050)"
+      "source": "USDA SR28 (NDB No: 11050)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_green_raw",
@@ -826,7 +919,13 @@
           "vitamin_k_100g_mcg": 14.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11052)"
+      "source": "USDA SR28 (NDB No: 11052)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "beans_snap_green_frozen_cooked_boiled_dr"
+        ]
+      }
     },
     {
       "id": "beans_snap_grn_ckd_bld_drnd_wosalt",
@@ -850,7 +949,10 @@
           "vitamin_k_100g_mcg": 16.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11053)"
+      "source": "USDA SR28 (NDB No: 11053)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_grn_var_cnd_reg_pk_solliquids",
@@ -881,7 +983,10 @@
           "vitamin_k_100g_mcg": 7.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11054)"
+      "source": "USDA SR28 (NDB No: 11054)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_grn_cnd_reg_pk_drnd_sol",
@@ -912,7 +1017,10 @@
           "vitamin_k_100g_mcg": 38.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11056)"
+      "source": "USDA SR28 (NDB No: 11056)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_grn_frz_all_styles_unprep",
@@ -943,7 +1051,10 @@
           "vitamin_k_100g_mcg": 44.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11060)"
+      "source": "USDA SR28 (NDB No: 11060)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_grn_frz_ckd_bld_drnd_wosalt",
@@ -967,7 +1078,10 @@
           "vitamin_k_100g_mcg": 12.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11061)"
+      "source": "USDA SR28 (NDB No: 11061)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_grn_frz_all_styles_microwaved",
@@ -992,7 +1106,10 @@
           "vitamin_k_100g_mcg": 57.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11062)"
+      "source": "USDA SR28 (NDB No: 11062)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "cowpeas_immat_seeds_ckd_bld_drnd_wo_salt",
@@ -1017,7 +1134,10 @@
           "vitamin_k_100g_mcg": 26.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11192)"
+      "source": "USDA SR28 (NDB No: 11192)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "cowpeas_immtre_seeds_frz_ckd_bld_drnd_wosalt",
@@ -1042,7 +1162,10 @@
           "vitamin_k_100g_mcg": 36.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11196)"
+      "source": "USDA SR28 (NDB No: 11196)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "cowpeas_young_pods_wseeds_raw",
@@ -1107,7 +1230,10 @@
           "vitamin_k_100g_mcg": 31.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11211)"
+      "source": "USDA SR28 (NDB No: 11211)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "edamame_frz_prep",
@@ -1132,7 +1258,10 @@
           "vitamin_k_100g_mcg": 26.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11212)"
+      "source": "USDA SR28 (NDB No: 11212)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "hyacinth_beans_immat_seeds_raw",
@@ -1158,7 +1287,10 @@
           "vitamin_k_100g_mcg": 18.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11224)"
+      "source": "USDA SR28 (NDB No: 11224)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "peppers_hot_chili_grn_cnd_pods_excluding_seed",
@@ -1189,7 +1321,10 @@
           "vitamin_k_100g_mcg": 8.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11329)"
+      "source": "USDA SR28 (NDB No: 11329)",
+      "relations": {
+        "group": "pepper"
+      }
     },
     {
       "id": "pigeonpeas_immat_seeds_raw",
@@ -1222,7 +1357,10 @@
           "vitamin_k_100g_mcg": 25.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11344)"
+      "source": "USDA SR28 (NDB No: 11344)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "pigeonpeas_immat_seeds_ckd_bld_drnd_wosalt",
@@ -1247,7 +1385,10 @@
           "vitamin_k_100g_mcg": 19.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11345)"
+      "source": "USDA SR28 (NDB No: 11345)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "pumpkin_leaves_ckd_bld_drnd_wosalt",
@@ -1271,7 +1412,10 @@
           "vitamin_k_100g_mcg": 108.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11419)"
+      "source": "USDA SR28 (NDB No: 11419)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "pumpkin_raw",
@@ -1296,7 +1440,13 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11422)"
+      "source": "USDA SR28 (NDB No: 11422)",
+      "relations": {
+        "group": "squash",
+        "related_ids": [
+          "pumpkin_canned_with_salt"
+        ]
+      }
     },
     {
       "id": "pumpkin_ckd_bld_drnd_wosalt",
@@ -1320,7 +1470,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11423)"
+      "source": "USDA SR28 (NDB No: 11423)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "pumpkin_cnd_wosalt",
@@ -1344,7 +1497,10 @@
           "vitamin_k_100g_mcg": 16.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11424)"
+      "source": "USDA SR28 (NDB No: 11424)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "soybeans_mature_seeds_sprouted_ckd_stmd",
@@ -1370,7 +1526,10 @@
           "vitamin_k_100g_mcg": 70.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11453)"
+      "source": "USDA SR28 (NDB No: 11453)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "beans_mung_mature_seeds_sprouted_cnd_drnd_sol",
@@ -1395,7 +1554,10 @@
           "vitamin_k_100g_mcg": 13.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11626)"
+      "source": "USDA SR28 (NDB No: 11626)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "lima_bns_immat_seeds_ckd_bld_drnd_wsalt",
@@ -1419,7 +1581,10 @@
           "vitamin_k_100g_mcg": 6.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11714)"
+      "source": "USDA SR28 (NDB No: 11714)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "lima_bns_immat_seeds_cnd_no_salt_solliquids",
@@ -1450,7 +1615,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11715)"
+      "source": "USDA SR28 (NDB No: 11715)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "lima_bns_immat_seeds_frz_baby_ckd_bld_drnd_ws",
@@ -1481,7 +1649,10 @@
           "vitamin_k_100g_mcg": 5.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11716)"
+      "source": "USDA SR28 (NDB No: 11716)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "beans_snap_grn_ckd_bld_drnd_wsalt",
@@ -1505,7 +1676,10 @@
           "vitamin_k_100g_mcg": 16.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11723)"
+      "source": "USDA SR28 (NDB No: 11723)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_yel_ckd_bld_drnd_wosalt",
@@ -1529,7 +1703,10 @@
           "vitamin_k_100g_mcg": 16.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11724)"
+      "source": "USDA SR28 (NDB No: 11724)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_yel_ckd_bld_drnd_wsalt",
@@ -1553,7 +1730,10 @@
           "vitamin_k_100g_mcg": 16.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11725)"
+      "source": "USDA SR28 (NDB No: 11725)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_grn_cnd_no_salt_drnd_sol",
@@ -1584,7 +1764,10 @@
           "vitamin_k_100g_mcg": 38.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11729)"
+      "source": "USDA SR28 (NDB No: 11729)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_grn_frz_ckd_bld_drnd_wsalt",
@@ -1608,7 +1791,10 @@
           "vitamin_k_100g_mcg": 12.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11731)"
+      "source": "USDA SR28 (NDB No: 11731)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_yel_frz_ckd_bld_drnd_wosalt",
@@ -1632,7 +1818,10 @@
           "vitamin_k_100g_mcg": 12.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11732)"
+      "source": "USDA SR28 (NDB No: 11732)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_yel_frz_ckd_bld_drnd_wsalt",
@@ -1656,7 +1845,10 @@
           "vitamin_k_100g_mcg": 12.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11733)"
+      "source": "USDA SR28 (NDB No: 11733)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "cowpeas_immat_seeds_frz_ckd_bld_drnd_w_salt",
@@ -1681,7 +1873,10 @@
           "vitamin_k_100g_mcg": 36.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11778)"
+      "source": "USDA SR28 (NDB No: 11778)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "peppers_hot_chili_red_cnd_excluding_seeds_sol",
@@ -1712,7 +1907,10 @@
           "vitamin_k_100g_mcg": 8.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11820)"
+      "source": "USDA SR28 (NDB No: 11820)",
+      "relations": {
+        "group": "pepper"
+      }
     },
     {
       "id": "pigeonpeas_immat_seeds_ckd_bld_drnd_wsalt",
@@ -1737,7 +1935,10 @@
           "vitamin_k_100g_mcg": 19.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11826)"
+      "source": "USDA SR28 (NDB No: 11826)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "pumpkin_ckd_bld_drnd_wsalt",
@@ -1761,7 +1962,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11845)"
+      "source": "USDA SR28 (NDB No: 11845)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "pumpkin_canned_with_salt",
@@ -1787,7 +1991,13 @@
           "vitamin_k_100g_mcg": 16.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11846)"
+      "source": "USDA SR28 (NDB No: 11846)",
+      "relations": {
+        "group": "squash",
+        "related_ids": [
+          "pumpkin_raw"
+        ]
+      }
     },
     {
       "id": "pumpkin_leaves_ckd_bld_drnd_w_salt",
@@ -1811,7 +2021,10 @@
           "vitamin_k_100g_mcg": 108.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11848)"
+      "source": "USDA SR28 (NDB No: 11848)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "soybeans_mature_seeds_sprouted_ckd_stmd_wsalt",
@@ -1837,7 +2050,10 @@
           "vitamin_k_100g_mcg": 33.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11923)"
+      "source": "USDA SR28 (NDB No: 11923)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "beans_snap_yel_cnd_reg_pk_drnd_sol",
@@ -1868,7 +2084,10 @@
           "vitamin_k_100g_mcg": 9.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11932)"
+      "source": "USDA SR28 (NDB No: 11932)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_snap_yel_cnd_no_salt_drnd_sol",
@@ -1899,7 +2118,10 @@
           "vitamin_k_100g_mcg": 9.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11933)"
+      "source": "USDA SR28 (NDB No: 11933)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_fava_in_pod_raw",
@@ -1931,7 +2153,10 @@
           "vitamin_k_100g_mcg": 41.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11973)"
+      "source": "USDA SR28 (NDB No: 11973)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "sunflower_sd_krnls_dry_rstd_wosalt",
@@ -1962,7 +2187,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 12037)"
+      "source": "USDA SR28 (NDB No: 12037)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "cashew_nuts_dry_rstd_wosalt",
@@ -1992,7 +2220,10 @@
           "vitamin_k_100g_mcg": 37.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 12085)"
+      "source": "USDA SR28 (NDB No: 12085)",
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "nuts_cashew_nuts_raw",
@@ -2016,7 +2247,10 @@
           "vitamin_k_100g_mcg": 34.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 12087)"
+      "source": "USDA SR28 (NDB No: 12087)",
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "nuts_cocnt_crm_cnd_swtnd",
@@ -2046,7 +2280,10 @@
           "vitamin_k_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 12116)"
+      "source": "USDA SR28 (NDB No: 12116)",
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "hazelnuts_or_filberts",
@@ -2106,7 +2343,10 @@
           "vitamin_k_100g_mcg": 54.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 12147)"
+      "source": "USDA SR28 (NDB No: 12147)",
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "pistachio_nuts_dry_rstd_wosalt",
@@ -2136,7 +2376,10 @@
           "vitamin_k_100g_mcg": 13.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 12152)"
+      "source": "USDA SR28 (NDB No: 12152)",
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "seeds_flaxseed",
@@ -2167,7 +2410,10 @@
           "vitamin_k_100g_mcg": 4.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 12220)"
+      "source": "USDA SR28 (NDB No: 12220)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "sunflower_sd_krnls_dry_rstd_wsalt",
@@ -2198,7 +2444,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 12537)"
+      "source": "USDA SR28 (NDB No: 12537)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "cashew_nuts_dry_rstd_wsalt",
@@ -2228,7 +2477,10 @@
           "vitamin_k_100g_mcg": 35.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 12585)"
+      "source": "USDA SR28 (NDB No: 12585)",
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "mixed_nuts_dry_rstd_wpnuts_wsalt",
@@ -2258,7 +2510,10 @@
           "vitamin_k_100g_mcg": 13.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 12635)"
+      "source": "USDA SR28 (NDB No: 12635)",
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "pistachio_nuts_dry_rstd_wsalt",
@@ -2288,7 +2543,10 @@
           "vitamin_k_100g_mcg": 13.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 12652)"
+      "source": "USDA SR28 (NDB No: 12652)",
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "horchata_dry_mix_unprep_var_of_brands_all_w_m",
@@ -2342,7 +2600,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 16006)"
+      "source": "USDA SR28 (NDB No: 16006)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_bkd_cnd_wfranks",
@@ -2366,7 +2627,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16008)"
+      "source": "USDA SR28 (NDB No: 16008)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_black_turtle_mature_seeds_raw",
@@ -2392,7 +2656,13 @@
           "vitamin_k_100g_mcg": 5.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 16016)"
+      "source": "USDA SR28 (NDB No: 16016)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "beans_black_turtle_mature_seeds_canned"
+        ]
+      }
     },
     {
       "id": "beans_black_turtle_mature_seeds_ckd_bld_wo_sa",
@@ -2417,7 +2687,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 16017)"
+      "source": "USDA SR28 (NDB No: 16017)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_great_northern_mature_seeds_raw",
@@ -2443,7 +2716,10 @@
           "vitamin_k_100g_mcg": 6.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16024)"
+      "source": "USDA SR28 (NDB No: 16024)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_kidney_all_types_mature_seeds_raw",
@@ -2469,7 +2745,13 @@
           "vitamin_k_100g_mcg": 19.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16027)"
+      "source": "USDA SR28 (NDB No: 16027)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "beans_kidney_all_types_mature_seeds_cnd"
+        ]
+      }
     },
     {
       "id": "beans_kidney_all_types_mature_seeds_ckd_bld_w",
@@ -2501,7 +2783,10 @@
           "vitamin_k_100g_mcg": 8.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 16028)"
+      "source": "USDA SR28 (NDB No: 16028)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_kidney_all_types_mature_seeds_cnd",
@@ -2526,7 +2811,13 @@
           "vitamin_k_100g_mcg": 4.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 16029)"
+      "source": "USDA SR28 (NDB No: 16029)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "beans_kidney_all_types_mature_seeds_raw"
+        ]
+      }
     },
     {
       "id": "beans_kidney_red_mature_seeds_raw",
@@ -2559,7 +2850,10 @@
           "vitamin_k_100g_mcg": 5.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 16032)"
+      "source": "USDA SR28 (NDB No: 16032)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_kidney_red_mature_seeds_ckd_bld_wosalt",
@@ -2591,7 +2885,10 @@
           "vitamin_k_100g_mcg": 8.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 16033)"
+      "source": "USDA SR28 (NDB No: 16033)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_kidney_red_mature_seeds_cnd_sol_liquids",
@@ -2623,7 +2920,10 @@
           "vitamin_k_100g_mcg": 4.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 16034)"
+      "source": "USDA SR28 (NDB No: 16034)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_navy_mature_seeds_raw",
@@ -2649,7 +2949,13 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 16037)"
+      "source": "USDA SR28 (NDB No: 16037)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "beans_navy_mature_seeds_cnd"
+        ]
+      }
     },
     {
       "id": "beans_navy_mature_seeds_ckd_bld_wosalt",
@@ -2674,7 +2980,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 16038)"
+      "source": "USDA SR28 (NDB No: 16038)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_navy_mature_seeds_cnd",
@@ -2699,7 +3008,13 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 16039)"
+      "source": "USDA SR28 (NDB No: 16039)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "beans_navy_mature_seeds_raw"
+        ]
+      }
     },
     {
       "id": "beans_pink_mature_seeds_ckd_bld_wosalt",
@@ -2724,7 +3039,10 @@
           "vitamin_k_100g_mcg": 3.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 16041)"
+      "source": "USDA SR28 (NDB No: 16041)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_pinto_mature_seeds_raw",
@@ -2757,7 +3075,10 @@
           "vitamin_k_100g_mcg": 5.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 16042)"
+      "source": "USDA SR28 (NDB No: 16042)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_pinto_mature_seeds_ckd_bld_wosalt",
@@ -2789,7 +3110,10 @@
           "vitamin_k_100g_mcg": 4.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16043)"
+      "source": "USDA SR28 (NDB No: 16043)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_pinto_mature_seeds_cnd_sol_liquids",
@@ -2821,7 +3145,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 16044)"
+      "source": "USDA SR28 (NDB No: 16044)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_white_mature_seeds_raw",
@@ -2854,7 +3181,13 @@
           "vitamin_k_100g_mcg": 5.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 16049)"
+      "source": "USDA SR28 (NDB No: 16049)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "beans_white_mature_seeds_cnd"
+        ]
+      }
     },
     {
       "id": "beans_white_mature_seeds_ckd_bld_wosalt",
@@ -2886,7 +3219,10 @@
           "vitamin_k_100g_mcg": 3.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 16050)"
+      "source": "USDA SR28 (NDB No: 16050)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_white_mature_seeds_cnd",
@@ -2911,7 +3247,13 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 16051)"
+      "source": "USDA SR28 (NDB No: 16051)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "beans_white_mature_seeds_raw"
+        ]
+      }
     },
     {
       "id": "broadbeans_mature_seeds_raw",
@@ -2944,7 +3286,10 @@
           "vitamin_k_100g_mcg": 8.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 16052)"
+      "source": "USDA SR28 (NDB No: 16052)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "broadbeans_mature_seeds_ckd_bld_wosalt",
@@ -2969,7 +3314,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 16053)"
+      "source": "USDA SR28 (NDB No: 16053)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "chickpeas_mature_seeds_raw",
@@ -3002,7 +3350,10 @@
           "vitamin_k_100g_mcg": 9.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 16056)"
+      "source": "USDA SR28 (NDB No: 16056)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "chickpeas_mature_seeds_ckd_bld_wosalt",
@@ -3027,7 +3378,10 @@
           "vitamin_k_100g_mcg": 4.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16057)"
+      "source": "USDA SR28 (NDB No: 16057)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "chili_with_beans_canned",
@@ -3060,7 +3414,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 16059)"
+      "source": "USDA SR28 (NDB No: 16059)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "cowpeas_common_mtre_seeds_raw",
@@ -3093,7 +3450,10 @@
           "vitamin_k_100g_mcg": 5.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16062)"
+      "source": "USDA SR28 (NDB No: 16062)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "cowpeas_common_mture_ckd_bld_wosalt",
@@ -3149,7 +3509,10 @@
           "vitamin_k_100g_mcg": 5.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16069)"
+      "source": "USDA SR28 (NDB No: 16069)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "lentils_mature_seeds_ckd_bld_wosalt",
@@ -3181,7 +3544,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 16070)"
+      "source": "USDA SR28 (NDB No: 16070)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "lima_bns_lrg_mature_seeds_raw",
@@ -3213,7 +3579,10 @@
           "vitamin_k_100g_mcg": 6.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 16071)"
+      "source": "USDA SR28 (NDB No: 16071)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "lima_bns_lrg_mature_seeds_ckd_bld_wosalt",
@@ -3244,7 +3613,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 16072)"
+      "source": "USDA SR28 (NDB No: 16072)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "lima_bns_thin_seeded_mature_seeds_raw",
@@ -3269,7 +3641,10 @@
           "vitamin_k_100g_mcg": 5.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 16074)"
+      "source": "USDA SR28 (NDB No: 16074)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "mung_bns_mature_seeds_raw",
@@ -3301,7 +3676,10 @@
           "vitamin_k_100g_mcg": 9.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 16080)"
+      "source": "USDA SR28 (NDB No: 16080)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "mung_bns_mature_seeds_ckd_bld_wosalt",
@@ -3325,7 +3703,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 16081)"
+      "source": "USDA SR28 (NDB No: 16081)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "mungo_bns_mature_seeds_ckd_bld_wosalt",
@@ -3356,7 +3737,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 16084)"
+      "source": "USDA SR28 (NDB No: 16084)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "soybeans_mature_seeds_raw",
@@ -3383,7 +3767,10 @@
           "vitamin_k_100g_mcg": 47.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16108)"
+      "source": "USDA SR28 (NDB No: 16108)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "soybeans_mature_ckd_bld_wosalt",
@@ -3415,7 +3802,10 @@
           "vitamin_k_100g_mcg": 21.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16109)"
+      "source": "USDA SR28 (NDB No: 16109)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "soybeans_mature_seeds_rstd_salted",
@@ -3442,7 +3832,10 @@
           "vitamin_k_100g_mcg": 50.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 16110)"
+      "source": "USDA SR28 (NDB No: 16110)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "soybeans_mature_seeds_dry_rstd",
@@ -3468,7 +3861,10 @@
           "vitamin_k_100g_mcg": 37.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16111)"
+      "source": "USDA SR28 (NDB No: 16111)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "beans_black_turtle_mature_seeds_ckd_bld_w_sal",
@@ -3493,7 +3889,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 16317)"
+      "source": "USDA SR28 (NDB No: 16317)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_kidney_red_mature_seeds_ckd_bld_wsalt",
@@ -3518,7 +3917,10 @@
           "vitamin_k_100g_mcg": 8.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 16333)"
+      "source": "USDA SR28 (NDB No: 16333)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_navy_mature_seeds_ckd_bld_wsalt",
@@ -3543,7 +3945,10 @@
           "vitamin_k_100g_mcg": 0.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 16338)"
+      "source": "USDA SR28 (NDB No: 16338)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_pink_mature_seeds_ckd_bld_wsalt",
@@ -3568,7 +3973,10 @@
           "vitamin_k_100g_mcg": 3.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 16341)"
+      "source": "USDA SR28 (NDB No: 16341)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_pinto_mature_seeds_ckd_bld_wsalt",
@@ -3593,7 +4001,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 16343)"
+      "source": "USDA SR28 (NDB No: 16343)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_white_mature_seeds_ckd_bld_w_salt",
@@ -3618,7 +4029,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 16350)"
+      "source": "USDA SR28 (NDB No: 16350)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "broadbeans_mature_seeds_ckd_bld_wsalt",
@@ -3643,7 +4057,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 16353)"
+      "source": "USDA SR28 (NDB No: 16353)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "chickpeas_mature_seeds_ckd_bld_wsalt",
@@ -3668,7 +4085,10 @@
           "vitamin_k_100g_mcg": 4.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16357)"
+      "source": "USDA SR28 (NDB No: 16357)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "cowpeas_common_mature_seeds_ckd_bld_wsalt",
@@ -3693,7 +4113,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 16363)"
+      "source": "USDA SR28 (NDB No: 16363)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "lentils_mature_seeds_ckd_bld_wsalt",
@@ -3718,7 +4141,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 16370)"
+      "source": "USDA SR28 (NDB No: 16370)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "lima_bns_lrg_mature_seeds_ckd_bld_wsalt",
@@ -3742,7 +4168,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16372)"
+      "source": "USDA SR28 (NDB No: 16372)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "mung_bns_mature_seeds_ckd_bld_wsalt",
@@ -3766,7 +4195,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 16381)"
+      "source": "USDA SR28 (NDB No: 16381)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "mungo_bns_mature_seeds_ckd_bld_wsalt",
@@ -3790,7 +4222,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 16384)"
+      "source": "USDA SR28 (NDB No: 16384)",
+      "relations": {
+        "group": "seed"
+      }
     },
     {
       "id": "soybeans_mature_seeds_ckd_bld_wsalt",
@@ -3816,7 +4251,10 @@
           "vitamin_k_100g_mcg": 19.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 16409)"
+      "source": "USDA SR28 (NDB No: 16409)",
+      "relations": {
+        "group": "soy"
+      }
     },
     {
       "id": "toppings_nuts_in_syrup",
@@ -3848,7 +4286,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 19367)"
+      "source": "USDA SR28 (NDB No: 19367)",
+      "relations": {
+        "group": "nut"
+      }
     },
     {
       "id": "beans_chili_barbecue_ranch_style_ckd",
@@ -3872,7 +4313,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 43112)"
+      "source": "USDA SR28 (NDB No: 43112)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "beans_bkd_cnd_no_salt_added",
@@ -3896,7 +4340,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 43449)"
+      "source": "USDA SR28 (NDB No: 43449)",
+      "relations": {
+        "group": "beans"
+      }
     },
     {
       "id": "ice_crm_bar_choc_or_caramel_covered_wnuts",

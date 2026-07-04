@@ -23,7 +23,10 @@
           "vitamin_k_100g_mcg": 109.0
         }
       ],
-      "source": "USDA FDC (derived from PDF page 6)"
+      "source": "USDA FDC (derived from PDF page 6)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "asparagus_canned_drained_solids",
@@ -48,7 +51,15 @@
         "cooked",
         "high_sodium",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "asparagus",
+        "related_ids": [
+          "asparagus_cooked",
+          "asparagus_cooked_boiled_drained",
+          "asparagus_raw"
+        ]
+      }
     },
     {
       "id": "asparagus_cooked",
@@ -72,7 +83,15 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "asparagus",
+        "related_ids": [
+          "asparagus_canned_drained_solids",
+          "asparagus_cooked_boiled_drained",
+          "asparagus_raw"
+        ]
+      }
     },
     {
       "id": "asparagus_cooked_boiled_drained",
@@ -96,7 +115,15 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "asparagus",
+        "related_ids": [
+          "asparagus_canned_drained_solids",
+          "asparagus_cooked",
+          "asparagus_raw"
+        ]
+      }
     },
     {
       "id": "asparagus_frozen_cooked_boiled_drained_w",
@@ -120,7 +147,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "asparagus"
+      }
     },
     {
       "id": "beet_greens_raw",
@@ -218,6 +248,7 @@
       "relations": {
         "group": "broccoli",
         "related_ids": [
+          "broccoli_frozen_chopped_cooked_boiled_dr",
           "broccoli_raw"
         ]
       },
@@ -250,7 +281,14 @@
         "cooked",
         "cruciferous",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "broccoli",
+        "related_ids": [
+          "broccoli_cooked",
+          "broccoli_raw"
+        ]
+      }
     },
     {
       "id": "broccoli_frozen_chopped_unprepared",
@@ -275,7 +313,10 @@
         "cooked",
         "cruciferous",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "broccoli_raab_raw",
@@ -300,7 +341,10 @@
         "cruciferous",
         "k1",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "broccoli_raw",
@@ -324,7 +368,8 @@
       "relations": {
         "group": "broccoli",
         "related_ids": [
-          "broccoli_cooked"
+          "broccoli_cooked",
+          "broccoli_frozen_chopped_cooked_boiled_dr"
         ]
       },
       "tags": [
@@ -360,7 +405,10 @@
         "raw",
         "affects_warfarin",
         "affects_coagulation"
-      ]
+      ],
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "burdock_root_cooked_boiled_drained_witho",
@@ -409,7 +457,10 @@
         "cooked",
         "cruciferous",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "cabbage_chinese_raw",
@@ -434,7 +485,10 @@
         "cruciferous",
         "k1",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "carrot_juice",
@@ -459,7 +513,13 @@
       "tags": [
         "beverages",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "carrot",
+        "related_ids": [
+          "carrot_juice_canned"
+        ]
+      }
     },
     {
       "id": "carrots_canned_no_salt_added_solids_and",
@@ -484,7 +544,10 @@
         "cooked",
         "high_sodium",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "carrots_canned_regular_pack_drained_soli",
@@ -509,7 +572,10 @@
         "cooked",
         "high_sodium",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "carrots_frozen_unprepared",
@@ -533,7 +599,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "carrots_raw",
@@ -557,7 +626,10 @@
       "tags": [
         "k1",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "cauliflower_green_raw",
@@ -606,7 +678,13 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "celery",
+        "related_ids": [
+          "celery_raw"
+        ]
+      }
     },
     {
       "id": "celery_cooked_boiled_drained_without_sal",
@@ -630,7 +708,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "celery"
+      }
     },
     {
       "id": "cress_garden_raw",
@@ -654,7 +735,10 @@
       "tags": [
         "k1",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "endive_raw",
@@ -679,7 +763,10 @@
           "vitamin_k_100g_mcg": 231.2
         }
       ],
-      "source": "USDA FDC (derived from PDF page 1)"
+      "source": "USDA FDC (derived from PDF page 1)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "garden_cress_raw",
@@ -704,7 +791,10 @@
           "vitamin_k_100g_mcg": 541.8
         }
       ],
-      "source": "USDA FDC (derived from PDF page 1)"
+      "source": "USDA FDC (derived from PDF page 1)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "jute_potherb_cooked_boiled_drained_witho",
@@ -753,7 +843,10 @@
         "cooked",
         "cruciferous",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "kale_raw",
@@ -781,7 +874,10 @@
           "vitamin_k_100g_mcg": 389.5
         }
       ],
-      "source": "USDA FDC (derived from PDF page 1), FDA Coumadin Prescribing Information"
+      "source": "USDA FDC (derived from PDF page 1), FDA Coumadin Prescribing Information",
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "leeks_cooked",
@@ -805,7 +901,14 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "onion",
+        "related_ids": [
+          "leeks_cooked_boiled_drained_without_salt",
+          "leeks_raw"
+        ]
+      }
     },
     {
       "id": "leeks_cooked_boiled_drained_without_salt",
@@ -829,7 +932,14 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "onion",
+        "related_ids": [
+          "leeks_cooked",
+          "leeks_raw"
+        ]
+      }
     },
     {
       "id": "mountain_yam_hawaii_raw",
@@ -853,7 +963,10 @@
       "tags": [
         "k1",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "okra_cooked",
@@ -948,7 +1061,10 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_frozen_whole_cooked_boiled_draine",
@@ -972,7 +1088,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_frozen_whole_unprepared",
@@ -996,7 +1115,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_raw",
@@ -1020,7 +1142,13 @@
       "tags": [
         "k1",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "onion",
+        "related_ids": [
+          "onions_cnd_solliquids"
+        ]
+      }
     },
     {
       "id": "peas_and_carrots_frozen_cooked_boiled_dr",
@@ -1045,7 +1173,10 @@
         "cooked",
         "k1",
         "legumes"
-      ]
+      ],
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "peas_edible_podded_raw",
@@ -1070,7 +1201,10 @@
         "k1",
         "legumes",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_green_raw",
@@ -1095,7 +1229,10 @@
         "k1",
         "legumes",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "plantains_yellow_baked",
@@ -1191,7 +1328,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_flesh_and_skin_raw",
@@ -1215,7 +1355,10 @@
       "tags": [
         "k1",
         "raw"
-      ]
+      ],
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "radishes_raw",
@@ -1263,7 +1406,10 @@
       "tags": [
         "k1",
         "seeds"
-      ]
+      ],
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "spinach_canned_regular_pack_solids_and_l",
@@ -1288,7 +1434,10 @@
         "cooked",
         "high_sodium",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "spinach_cooked",
@@ -1377,7 +1526,10 @@
         "k1",
         "k2",
         "organ_meat"
-      ]
+      ],
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_summer_zucchini_includes_skin_coo",
@@ -1400,7 +1552,10 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_winter_butternut_cooked_baked_wit",
@@ -1425,7 +1580,10 @@
         "cooked",
         "dairy",
         "k2"
-      ]
+      ],
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_winter_hubbard_baked_with_salt",
@@ -1449,7 +1607,13 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "squash",
+        "related_ids": [
+          "squash_winter_hubbard_raw"
+        ]
+      }
     },
     {
       "id": "squash_winter_hubbard_cooked_boiled_mash",
@@ -1473,7 +1637,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "sweet_potato_canned_syrup_pack_drained_s",
@@ -1499,7 +1666,10 @@
         "high_sodium",
         "k1",
         "sweetened"
-      ]
+      ],
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "tomato_juice_canned_with_salt_added",
@@ -1525,7 +1695,10 @@
         "cooked",
         "high_sodium",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_juice_canned_without_salt_added",
@@ -1551,7 +1724,10 @@
         "cooked",
         "high_sodium",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_products_canned_puree_with_salt_a",
@@ -1576,7 +1752,10 @@
         "cooked",
         "high_sodium",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_products_canned_puree_without_sal",
@@ -1601,7 +1780,10 @@
         "cooked",
         "high_sodium",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomatoes_red_ripe_canned_packed_in_tomat",
@@ -1626,7 +1808,10 @@
         "cooked",
         "high_sodium",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomatoes_red_ripe_canned_stewed",
@@ -1651,7 +1836,10 @@
         "cooked",
         "high_sodium",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "turnip_greens_and_turnips_frozen_cooked",
@@ -1675,7 +1863,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "turnip_greens_cooked",
@@ -1700,7 +1891,13 @@
           "vitamin_k_100g_mcg": 367.6
         }
       ],
-      "source": "USDA FDC (derived from PDF page 1)"
+      "source": "USDA FDC (derived from PDF page 1)",
+      "relations": {
+        "group": "kale",
+        "related_ids": [
+          "turnip_greens_raw"
+        ]
+      }
     },
     {
       "id": "turnip_greens_cooked_boiled_drained_with",
@@ -1724,7 +1921,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "turnip_greens_frozen_cooked_boiled_drain",
@@ -1748,7 +1948,10 @@
       "tags": [
         "cooked",
         "k1"
-      ]
+      ],
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "turnips_frozen_cooked_boiled_drained_wit",
@@ -1802,7 +2005,10 @@
           "vitamin_k_100g_mcg": 5.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 02026)"
+      "source": "USDA SR28 (NDB No: 02026)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "plantains_raw",
@@ -1919,7 +2125,15 @@
           "vitamin_k_100g_mcg": 41.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11011)"
+      "source": "USDA SR28 (NDB No: 11011)",
+      "relations": {
+        "group": "asparagus",
+        "related_ids": [
+          "asparagus_canned_drained_solids",
+          "asparagus_cooked",
+          "asparagus_cooked_boiled_drained"
+        ]
+      }
     },
     {
       "id": "asparagus_ckd_bld_drnd",
@@ -1949,7 +2163,10 @@
           "vitamin_k_100g_mcg": 50.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11012)"
+      "source": "USDA SR28 (NDB No: 11012)",
+      "relations": {
+        "group": "asparagus"
+      }
     },
     {
       "id": "asparagus_cnd_drnd_sol",
@@ -1979,7 +2196,10 @@
           "vitamin_k_100g_mcg": 41.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11015)"
+      "source": "USDA SR28 (NDB No: 11015)",
+      "relations": {
+        "group": "asparagus"
+      }
     },
     {
       "id": "asparagus_frz_ckd_bld_drnd_wosalt",
@@ -2009,7 +2229,10 @@
           "vitamin_k_100g_mcg": 80.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11019)"
+      "source": "USDA SR28 (NDB No: 11019)",
+      "relations": {
+        "group": "asparagus"
+      }
     },
     {
       "id": "beets_ckd_bld_drnd",
@@ -2153,7 +2376,10 @@
           "vitamin_k_100g_mcg": 141.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11091)"
+      "source": "USDA SR28 (NDB No: 11091)",
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "broccoli_frz_chopd_unprep",
@@ -2184,7 +2410,10 @@
           "vitamin_k_100g_mcg": 81.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11092)"
+      "source": "USDA SR28 (NDB No: 11092)",
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "broccoli_frz_chopd_ckd_bld_drnd_wosalt",
@@ -2208,7 +2437,10 @@
           "vitamin_k_100g_mcg": 88.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11093)"
+      "source": "USDA SR28 (NDB No: 11093)",
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "broccoli_frz_spears_unprep",
@@ -2240,7 +2472,10 @@
           "vitamin_k_100g_mcg": 101.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11094)"
+      "source": "USDA SR28 (NDB No: 11094)",
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "broccoli_frz_spears_ckd_bld_drnd_wosalt",
@@ -2272,7 +2507,10 @@
           "vitamin_k_100g_mcg": 88.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11095)"
+      "source": "USDA SR28 (NDB No: 11095)",
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "broccoli_raab_ckd",
@@ -2303,7 +2541,10 @@
           "vitamin_k_100g_mcg": 256.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11097)"
+      "source": "USDA SR28 (NDB No: 11097)",
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "brussels_sprouts_ckd_bld_drnd_wosalt",
@@ -2334,7 +2575,10 @@
           "vitamin_k_100g_mcg": 140.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11099)"
+      "source": "USDA SR28 (NDB No: 11099)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "brussels_sprouts_frz_ckd_bld_drnd_wosalt",
@@ -2358,7 +2602,10 @@
           "vitamin_k_100g_mcg": 193.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11101)"
+      "source": "USDA SR28 (NDB No: 11101)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "burdock_root_raw",
@@ -2453,7 +2700,10 @@
           "vitamin_k_100g_mcg": 76.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11109), FDA Coumadin Prescribing Information"
+      "source": "USDA SR28 (NDB No: 11109), FDA Coumadin Prescribing Information",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "cabbage_ckd_bld_drnd_wosalt",
@@ -2484,7 +2734,10 @@
           "vitamin_k_100g_mcg": 108.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11110)"
+      "source": "USDA SR28 (NDB No: 11110)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "cabbage_red_raw",
@@ -2516,7 +2769,10 @@
           "vitamin_k_100g_mcg": 38.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11112)"
+      "source": "USDA SR28 (NDB No: 11112)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "cabbage_red_ckd_bld_drnd_wosalt",
@@ -2547,7 +2803,10 @@
           "vitamin_k_100g_mcg": 47.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11113)"
+      "source": "USDA SR28 (NDB No: 11113)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "cabbage_savoy_raw",
@@ -2572,7 +2831,10 @@
           "vitamin_k_100g_mcg": 68.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11114)"
+      "source": "USDA SR28 (NDB No: 11114)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "cabbage_chinese_ckd_bld_drnd_wosalt",
@@ -2596,7 +2858,10 @@
           "vitamin_k_100g_mcg": 34.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11117)"
+      "source": "USDA SR28 (NDB No: 11117)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "carrots_ckd_bld_drnd_wosalt",
@@ -2626,7 +2891,10 @@
           "vitamin_k_100g_mcg": 13.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11125)"
+      "source": "USDA SR28 (NDB No: 11125)",
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "carrots_cnd_reg_pk_solliquids",
@@ -2656,7 +2924,10 @@
           "vitamin_k_100g_mcg": 9.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11126)"
+      "source": "USDA SR28 (NDB No: 11126)",
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "carrots_cnd_reg_pk_drnd_sol",
@@ -2686,7 +2957,10 @@
           "vitamin_k_100g_mcg": 9.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11128)"
+      "source": "USDA SR28 (NDB No: 11128)",
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "carrots_frz_ckd_bld_drnd_wosalt",
@@ -2709,7 +2983,10 @@
           "vitamin_k_100g_mcg": 13.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11131)"
+      "source": "USDA SR28 (NDB No: 11131)",
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "cauliflower_raw",
@@ -2858,7 +3135,13 @@
           "vitamin_k_100g_mcg": 29.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11143)"
+      "source": "USDA SR28 (NDB No: 11143)",
+      "relations": {
+        "group": "celery",
+        "related_ids": [
+          "celery_cooked"
+        ]
+      }
     },
     {
       "id": "celery_ckd_bld_drnd_wosalt",
@@ -2888,7 +3171,10 @@
           "vitamin_k_100g_mcg": 37.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11144)"
+      "source": "USDA SR28 (NDB No: 11144)",
+      "relations": {
+        "group": "celery"
+      }
     },
     {
       "id": "chicory_greens_raw",
@@ -2943,7 +3229,10 @@
           "vitamin_k_100g_mcg": 210.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11156)"
+      "source": "USDA SR28 (NDB No: 11156)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "cress_garden_ckd_bld_drnd_wosalt",
@@ -2973,7 +3262,10 @@
           "vitamin_k_100g_mcg": 383.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11204)"
+      "source": "USDA SR28 (NDB No: 11204)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "cucumber_with_peel_raw",
@@ -3004,7 +3296,10 @@
           "vitamin_k_100g_mcg": 16.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11205)"
+      "source": "USDA SR28 (NDB No: 11205)",
+      "relations": {
+        "group": "cucumber"
+      }
     },
     {
       "id": "cucumber_peeled_raw",
@@ -3035,7 +3330,10 @@
           "vitamin_k_100g_mcg": 7.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11206)"
+      "source": "USDA SR28 (NDB No: 11206)",
+      "relations": {
+        "group": "cucumber"
+      }
     },
     {
       "id": "dandelion_greens_raw",
@@ -3106,7 +3404,10 @@
           "vitamin_k_100g_mcg": 817.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11234)"
+      "source": "USDA SR28 (NDB No: 11234)",
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "kale_frz_ckd_bld_drnd_wosalt",
@@ -3137,7 +3438,10 @@
           "vitamin_k_100g_mcg": 882.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11236)"
+      "source": "USDA SR28 (NDB No: 11236)",
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "leeks_raw",
@@ -3168,7 +3472,14 @@
           "vitamin_k_100g_mcg": 47.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11246)"
+      "source": "USDA SR28 (NDB No: 11246)",
+      "relations": {
+        "group": "onion",
+        "related_ids": [
+          "leeks_cooked",
+          "leeks_cooked_boiled_drained_without_salt"
+        ]
+      }
     },
     {
       "id": "leeks_ckd_bld_drnd_wosalt",
@@ -3198,7 +3509,10 @@
           "vitamin_k_100g_mcg": 25.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11247)"
+      "source": "USDA SR28 (NDB No: 11247)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "lettuce_butterhead_raw",
@@ -3230,7 +3544,10 @@
           "vitamin_k_100g_mcg": 102.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11250)"
+      "source": "USDA SR28 (NDB No: 11250)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "lettuce_cos_or_romaine_raw",
@@ -3261,7 +3578,10 @@
           "vitamin_k_100g_mcg": 101.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11251)"
+      "source": "USDA SR28 (NDB No: 11251)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "lettuce_iceberg_raw",
@@ -3292,7 +3612,10 @@
           "vitamin_k_100g_mcg": 24.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11252)"
+      "source": "USDA SR28 (NDB No: 11252)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "lettuce_grn_leaf_raw",
@@ -3323,7 +3646,10 @@
           "vitamin_k_100g_mcg": 126.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11253)"
+      "source": "USDA SR28 (NDB No: 11253)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "lettuce_red_leaf_raw",
@@ -3354,7 +3680,10 @@
           "vitamin_k_100g_mcg": 180.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11257)"
+      "source": "USDA SR28 (NDB No: 11257)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "mustard_greens_raw",
@@ -3380,7 +3709,10 @@
           "vitamin_k_100g_mcg": 257.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11270), FDA Coumadin Prescribing Information"
+      "source": "USDA SR28 (NDB No: 11270), FDA Coumadin Prescribing Information",
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "new_zealand_spinach_raw",
@@ -3404,7 +3736,10 @@
           "vitamin_k_100g_mcg": 337.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11276)"
+      "source": "USDA SR28 (NDB No: 11276)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "new_zealand_spinach_ckd_bld_drnd_wosalt",
@@ -3427,7 +3762,10 @@
           "vitamin_k_100g_mcg": 292.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11277)"
+      "source": "USDA SR28 (NDB No: 11277)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "okra_raw",
@@ -3548,7 +3886,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11283)"
+      "source": "USDA SR28 (NDB No: 11283)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_cnd_solliquids",
@@ -3578,7 +3919,13 @@
           "vitamin_k_100g_mcg": 0.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11285)"
+      "source": "USDA SR28 (NDB No: 11285)",
+      "relations": {
+        "group": "onion",
+        "related_ids": [
+          "onions_raw"
+        ]
+      }
     },
     {
       "id": "onions_yel_sauteed",
@@ -3601,7 +3948,10 @@
           "vitamin_k_100g_mcg": 21.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11286)"
+      "source": "USDA SR28 (NDB No: 11286)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_frz_chopd_ckd_bld_drnd_wosalt",
@@ -3631,7 +3981,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11288)"
+      "source": "USDA SR28 (NDB No: 11288)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_frz_whl_unprep",
@@ -3654,7 +4007,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11289)"
+      "source": "USDA SR28 (NDB No: 11289)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_frz_whl_ckd_bld_drnd_wosalt",
@@ -3677,7 +4033,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11290)"
+      "source": "USDA SR28 (NDB No: 11290)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_spring_or_scallions_raw",
@@ -3710,7 +4069,10 @@
           "vitamin_k_100g_mcg": 206.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11291), FDA Coumadin Prescribing Information"
+      "source": "USDA SR28 (NDB No: 11291), FDA Coumadin Prescribing Information",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_young_grn_tops_only",
@@ -3740,7 +4102,10 @@
           "vitamin_k_100g_mcg": 156.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11292)"
+      "source": "USDA SR28 (NDB No: 11292)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_welsh_raw",
@@ -3757,7 +4122,10 @@
           "vitamin_k_100g_mcg": 193.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11293)"
+      "source": "USDA SR28 (NDB No: 11293)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_swt_raw",
@@ -3788,7 +4156,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11294)"
+      "source": "USDA SR28 (NDB No: 11294)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "peas_edible_podded_bld_drnd_wo_salt",
@@ -3812,7 +4183,10 @@
           "vitamin_k_100g_mcg": 25.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11301)"
+      "source": "USDA SR28 (NDB No: 11301)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_edible_podded_frz_ckd_bld_drnd_wosalt",
@@ -3843,7 +4217,10 @@
           "vitamin_k_100g_mcg": 30.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11303)"
+      "source": "USDA SR28 (NDB No: 11303)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_grn_ckd_bld_drnd_wosalt",
@@ -3867,7 +4244,10 @@
           "vitamin_k_100g_mcg": 25.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11305)"
+      "source": "USDA SR28 (NDB No: 11305)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_grn_cnd_reg_pk_solliquids",
@@ -3898,7 +4278,10 @@
           "vitamin_k_100g_mcg": 20.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11306)"
+      "source": "USDA SR28 (NDB No: 11306)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_grn_cnd_drnd_sol_unprep",
@@ -3929,7 +4312,10 @@
           "vitamin_k_100g_mcg": 36.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11308)"
+      "source": "USDA SR28 (NDB No: 11308)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_grn_frz_unprep",
@@ -3960,7 +4346,10 @@
           "vitamin_k_100g_mcg": 27.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11312)"
+      "source": "USDA SR28 (NDB No: 11312)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_grn_frz_ckd_bld_drnd_wosalt",
@@ -3991,7 +4380,10 @@
           "vitamin_k_100g_mcg": 24.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11313)"
+      "source": "USDA SR28 (NDB No: 11313)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peascarrots_frz_ckd_bld_drnd_wosalt",
@@ -4107,7 +4499,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11352)"
+      "source": "USDA SR28 (NDB No: 11352)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_russet_flesh_skn_raw",
@@ -4138,7 +4533,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11353)"
+      "source": "USDA SR28 (NDB No: 11353)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_white_flesh_skn_raw",
@@ -4169,7 +4567,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11354)"
+      "source": "USDA SR28 (NDB No: 11354)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_red_flesh_skn_raw",
@@ -4200,7 +4601,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11355)"
+      "source": "USDA SR28 (NDB No: 11355)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_russet_flesh_skn_bkd",
@@ -4230,7 +4634,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11356)"
+      "source": "USDA SR28 (NDB No: 11356)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_white_flesh_skn_bkd",
@@ -4260,7 +4667,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11357)"
+      "source": "USDA SR28 (NDB No: 11357)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_red_flesh_skn_bkd",
@@ -4290,7 +4700,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11358)"
+      "source": "USDA SR28 (NDB No: 11358)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_fr_fr_crnkl_or_reg_salt_added_in_pro",
@@ -4313,7 +4726,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11359)"
+      "source": "USDA SR28 (NDB No: 11359)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_fr_fr_crnklreg_cut_salt_added_in_pro",
@@ -4336,7 +4752,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11360)"
+      "source": "USDA SR28 (NDB No: 11360)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_bkd_flesh_wosalt",
@@ -4366,7 +4785,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11363)"
+      "source": "USDA SR28 (NDB No: 11363)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_bkd_skn_wosalt",
@@ -4389,7 +4811,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11364)"
+      "source": "USDA SR28 (NDB No: 11364)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_bld_ckd_in_skn_flesh_wosalt",
@@ -4419,7 +4844,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11365)"
+      "source": "USDA SR28 (NDB No: 11365)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_bld_ckd_wo_skn_flesh_wo_salt",
@@ -4449,7 +4877,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11367)"
+      "source": "USDA SR28 (NDB No: 11367)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_hashed_brown_home_prepared",
@@ -4473,7 +4904,10 @@
           "vitamin_k_100g_mcg": 3.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11370)"
+      "source": "USDA SR28 (NDB No: 11370)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_hashed_brown_frz_pln_prep",
@@ -4503,7 +4937,10 @@
           "vitamin_k_100g_mcg": 3.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11391)"
+      "source": "USDA SR28 (NDB No: 11391)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_french_fr_shoestring_salt_added_in_p",
@@ -4526,7 +4963,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11394)"
+      "source": "USDA SR28 (NDB No: 11394)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_french_fr_shoestrng_salt_added_in_pr",
@@ -4549,7 +4989,10 @@
           "vitamin_k_100g_mcg": 2.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11395)"
+      "source": "USDA SR28 (NDB No: 11395)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potato_puffs_frz_unprep",
@@ -4579,7 +5022,10 @@
           "vitamin_k_100g_mcg": 3.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11398)"
+      "source": "USDA SR28 (NDB No: 11398)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potato_puffs_frz_oven_heated",
@@ -4609,7 +5055,10 @@
           "vitamin_k_100g_mcg": 3.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11399)"
+      "source": "USDA SR28 (NDB No: 11399)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_frz_whl_unprep",
@@ -4632,7 +5081,10 @@
           "vitamin_k_100g_mcg": 1.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11400)"
+      "source": "USDA SR28 (NDB No: 11400)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_french_fr_all_types_salt_added_in_pr",
@@ -4662,7 +5114,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11402)"
+      "source": "USDA SR28 (NDB No: 11402)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_french_fr_stk_fries_salt_added_in_pr",
@@ -4685,7 +5140,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11411)"
+      "source": "USDA SR28 (NDB No: 11411)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "radishes_oriental_raw",
@@ -4778,7 +5236,10 @@
           "vitamin_k_100g_mcg": 493.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11458)"
+      "source": "USDA SR28 (NDB No: 11458)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "spinach_cnd_reg_pk_drnd_sol",
@@ -4801,7 +5262,10 @@
           "vitamin_k_100g_mcg": 461.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11461)"
+      "source": "USDA SR28 (NDB No: 11461)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "spinach_frz_chopd_or_leaf_unprep",
@@ -4831,7 +5295,10 @@
           "vitamin_k_100g_mcg": 372.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11463)"
+      "source": "USDA SR28 (NDB No: 11463)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "spinach_frz_chopd_or_leaf_ckd_bld_drnd_wosalt",
@@ -4861,7 +5328,10 @@
           "vitamin_k_100g_mcg": 540.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11464)"
+      "source": "USDA SR28 (NDB No: 11464)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "squash_smmr_crookneckstraightneck_raw",
@@ -4886,7 +5356,10 @@
           "vitamin_k_100g_mcg": 3.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11467)"
+      "source": "USDA SR28 (NDB No: 11467)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_crookneck_straightneck_ckd_bld_dr",
@@ -4917,7 +5390,10 @@
           "vitamin_k_100g_mcg": 4.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11468)"
+      "source": "USDA SR28 (NDB No: 11468)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_crookneckstraightneck_cnd_drnd_so",
@@ -4948,7 +5424,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11471)"
+      "source": "USDA SR28 (NDB No: 11471)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_crookneckstraightneck_frz_ckd_bld",
@@ -4972,7 +5451,10 @@
           "vitamin_k_100g_mcg": 5.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11474)"
+      "source": "USDA SR28 (NDB No: 11474)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_summer_scallop_raw",
@@ -4996,7 +5478,10 @@
           "vitamin_k_100g_mcg": 3.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11475)"
+      "source": "USDA SR28 (NDB No: 11475)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_scallop_ckd_bld_drnd_wosalt",
@@ -5026,7 +5511,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11476)"
+      "source": "USDA SR28 (NDB No: 11476)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_zucchini_incl_skn_raw",
@@ -5057,7 +5545,10 @@
           "vitamin_k_100g_mcg": 4.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11477)"
+      "source": "USDA SR28 (NDB No: 11477)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_zucchini_incl_skn_ckd_bld_drnd_wo",
@@ -5087,7 +5578,10 @@
           "vitamin_k_100g_mcg": 4.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11478)"
+      "source": "USDA SR28 (NDB No: 11478)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_zucchini_incl_skn_frz_unprep",
@@ -5117,7 +5611,10 @@
           "vitamin_k_100g_mcg": 4.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11479)"
+      "source": "USDA SR28 (NDB No: 11479)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_zucchini_incl_skn_frz_ckd_bld_drn",
@@ -5140,7 +5637,10 @@
           "vitamin_k_100g_mcg": 4.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11480)"
+      "source": "USDA SR28 (NDB No: 11480)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_butternut_raw",
@@ -5165,7 +5665,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11485)"
+      "source": "USDA SR28 (NDB No: 11485)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_butternut_ckd_bkd_wosalt",
@@ -5189,7 +5692,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11486)"
+      "source": "USDA SR28 (NDB No: 11486)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_butternut_frz_unprep",
@@ -5220,7 +5726,10 @@
           "vitamin_k_100g_mcg": 1.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11487)"
+      "source": "USDA SR28 (NDB No: 11487)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_winter_hubbard_raw",
@@ -5244,7 +5753,13 @@
           "vitamin_k_100g_mcg": 1.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11489)"
+      "source": "USDA SR28 (NDB No: 11489)",
+      "relations": {
+        "group": "squash",
+        "related_ids": [
+          "squash_winter_hubbard_baked_with_salt"
+        ]
+      }
     },
     {
       "id": "squash_wntr_hubbard_bkd_wo_salt",
@@ -5267,7 +5782,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11490)"
+      "source": "USDA SR28 (NDB No: 11490)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_hubbard_ckd_bld_mshd_wosalt",
@@ -5290,7 +5808,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11491)"
+      "source": "USDA SR28 (NDB No: 11491)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "sweet_potato_leaves_raw",
@@ -5321,7 +5842,10 @@
           "vitamin_k_100g_mcg": 302.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11505)"
+      "source": "USDA SR28 (NDB No: 11505)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "sweet_potato_leaves_ckd_stmd_wo_salt",
@@ -5344,7 +5868,10 @@
           "vitamin_k_100g_mcg": 108.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11506)"
+      "source": "USDA SR28 (NDB No: 11506)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "sweet_potato_raw_unprep",
@@ -5375,7 +5902,10 @@
           "vitamin_k_100g_mcg": 1.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11507)"
+      "source": "USDA SR28 (NDB No: 11507)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "sweet_potato_ckd_bkd_in_skn_wo_salt",
@@ -5405,7 +5935,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11508)"
+      "source": "USDA SR28 (NDB No: 11508)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "sweet_potato_ckd_bld_wo_skn",
@@ -5435,7 +5968,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11510)"
+      "source": "USDA SR28 (NDB No: 11510)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "sweetpotato_cnd_vacuum_pk",
@@ -5465,7 +6001,10 @@
           "vitamin_k_100g_mcg": 2.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11512)"
+      "source": "USDA SR28 (NDB No: 11512)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "sweet_potato_cnd_mshd",
@@ -5495,7 +6034,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11514)"
+      "source": "USDA SR28 (NDB No: 11514)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "sweet_potato_frz_ckd_bkd_wo_salt",
@@ -5518,7 +6060,10 @@
           "vitamin_k_100g_mcg": 2.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11517)"
+      "source": "USDA SR28 (NDB No: 11517)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "tomatoes_green_raw",
@@ -5549,7 +6094,10 @@
           "vitamin_k_100g_mcg": 10.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11527)"
+      "source": "USDA SR28 (NDB No: 11527)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomatoes_red_ripe_raw_year_rnd_average",
@@ -5580,7 +6128,10 @@
           "vitamin_k_100g_mcg": 7.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11529)"
+      "source": "USDA SR28 (NDB No: 11529)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomatoes_red_ripe_ckd",
@@ -5610,7 +6161,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11530)"
+      "source": "USDA SR28 (NDB No: 11530)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomatoes_red_ripe_cnd_packed_in_tomato_juc",
@@ -5640,7 +6194,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11531)"
+      "source": "USDA SR28 (NDB No: 11531)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomatoes_red_ripe_cnd_stwd",
@@ -5663,7 +6220,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11533)"
+      "source": "USDA SR28 (NDB No: 11533)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_juc_cnd_wsalt",
@@ -5693,7 +6253,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11540)"
+      "source": "USDA SR28 (NDB No: 11540)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_products_cnd_paste_wo_salt_added",
@@ -5723,7 +6286,10 @@
           "vitamin_k_100g_mcg": 11.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11546)"
+      "source": "USDA SR28 (NDB No: 11546)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_products_cnd_puree_wosalt",
@@ -5753,7 +6319,10 @@
           "vitamin_k_100g_mcg": 3.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11547)"
+      "source": "USDA SR28 (NDB No: 11547)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_powder",
@@ -5769,7 +6338,10 @@
           "vitamin_k_100g_mcg": 48.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11548)"
+      "source": "USDA SR28 (NDB No: 11548)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_products_cnd_sau",
@@ -5792,7 +6364,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11549)"
+      "source": "USDA SR28 (NDB No: 11549)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_products_cnd_sau_wmushrooms",
@@ -5816,7 +6391,10 @@
           "vitamin_k_100g_mcg": 3.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11551)"
+      "source": "USDA SR28 (NDB No: 11551)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_products_cnd_sau_wonions_grn_peppers_c",
@@ -5846,7 +6424,10 @@
           "vitamin_k_100g_mcg": 3.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11557)"
+      "source": "USDA SR28 (NDB No: 11557)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "turnips_raw",
@@ -5956,7 +6537,13 @@
           "vitamin_k_100g_mcg": 250.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11568), FDA Coumadin Prescribing Information"
+      "source": "USDA SR28 (NDB No: 11568), FDA Coumadin Prescribing Information",
+      "relations": {
+        "group": "kale",
+        "related_ids": [
+          "turnip_greens_cooked"
+        ]
+      }
     },
     {
       "id": "turnip_grns_ckd_bld_drnd_wosalt",
@@ -6087,7 +6674,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11601)"
+      "source": "USDA SR28 (NDB No: 11601)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "yam_ckd_bld_drnd_or_bkd_wosalt",
@@ -6117,7 +6707,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11602)"
+      "source": "USDA SR28 (NDB No: 11602)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "beets_pickled_cnd_solliquids",
@@ -6171,7 +6764,10 @@
           "vitamin_k_100g_mcg": 3.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11641)"
+      "source": "USDA SR28 (NDB No: 11641)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_all_var_ckd_bld_drnd_wosalt",
@@ -6194,7 +6790,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11642)"
+      "source": "USDA SR28 (NDB No: 11642)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_all_var_raw",
@@ -6218,7 +6817,10 @@
           "vitamin_k_100g_mcg": 1.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11643)"
+      "source": "USDA SR28 (NDB No: 11643)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_all_var_ckd_bkd_wosalt",
@@ -6241,7 +6843,10 @@
           "vitamin_k_100g_mcg": 4.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11644)"
+      "source": "USDA SR28 (NDB No: 11644)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "sweet_potato_cnd_syrup_pk_sol_liquids",
@@ -6272,7 +6877,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11645)"
+      "source": "USDA SR28 (NDB No: 11645)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "sweet_potato_cnd_syrup_pk_drnd_sol",
@@ -6296,7 +6904,10 @@
           "vitamin_k_100g_mcg": 2.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11647)"
+      "source": "USDA SR28 (NDB No: 11647)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "carrot_juice_canned",
@@ -6329,7 +6940,13 @@
           "vitamin_k_100g_mcg": 15.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11655)"
+      "source": "USDA SR28 (NDB No: 11655)",
+      "relations": {
+        "group": "carrot",
+        "related_ids": [
+          "carrot_juice"
+        ]
+      }
     },
     {
       "id": "spinach_souffle",
@@ -6359,7 +6976,10 @@
           "vitamin_k_100g_mcg": 126.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11658)"
+      "source": "USDA SR28 (NDB No: 11658)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "sweet_potato_ckd_candied_home_prepared",
@@ -6383,7 +7003,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11659)"
+      "source": "USDA SR28 (NDB No: 11659)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potato_bkd_flesh_skn_wo_salt",
@@ -6413,7 +7036,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11674)"
+      "source": "USDA SR28 (NDB No: 11674)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "carrot_dehydrated",
@@ -6436,7 +7062,10 @@
           "vitamin_k_100g_mcg": 108.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11683)"
+      "source": "USDA SR28 (NDB No: 11683)",
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "tomatoes_crushed_canned",
@@ -6461,7 +7090,10 @@
           "vitamin_k_100g_mcg": 5.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11693)"
+      "source": "USDA SR28 (NDB No: 11693)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "asparagus_ckd_bld_drnd_wsalt",
@@ -6491,7 +7123,10 @@
           "vitamin_k_100g_mcg": 50.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11705)"
+      "source": "USDA SR28 (NDB No: 11705)",
+      "relations": {
+        "group": "asparagus"
+      }
     },
     {
       "id": "asparagus_cnd_no_salt_solliquids",
@@ -6521,7 +7156,10 @@
           "vitamin_k_100g_mcg": 39.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11707)"
+      "source": "USDA SR28 (NDB No: 11707)",
+      "relations": {
+        "group": "asparagus"
+      }
     },
     {
       "id": "asparagus_frz_ckd_bld_drnd_wsalt",
@@ -6551,7 +7189,10 @@
           "vitamin_k_100g_mcg": 80.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11709)"
+      "source": "USDA SR28 (NDB No: 11709)",
+      "relations": {
+        "group": "asparagus"
+      }
     },
     {
       "id": "beets_ckd_boiled_drnd_wsalt",
@@ -6659,7 +7300,10 @@
           "vitamin_k_100g_mcg": 141.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11742)"
+      "source": "USDA SR28 (NDB No: 11742)",
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "broccoli_frz_chopd_ckd_bld_drnd_wsalt",
@@ -6683,7 +7327,10 @@
           "vitamin_k_100g_mcg": 88.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11743)"
+      "source": "USDA SR28 (NDB No: 11743)",
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "broccoli_frz_spears_ckd_bld_drnd_wsalt",
@@ -6715,7 +7362,10 @@
           "vitamin_k_100g_mcg": 99.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11744)"
+      "source": "USDA SR28 (NDB No: 11744)",
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "brussels_sprouts_ckd_bld_drnd_wsalt",
@@ -6746,7 +7396,10 @@
           "vitamin_k_100g_mcg": 140.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11745)"
+      "source": "USDA SR28 (NDB No: 11745)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "brussels_sprouts_frz_ckd_bld_drnd_wsalt",
@@ -6770,7 +7423,10 @@
           "vitamin_k_100g_mcg": 193.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11746)"
+      "source": "USDA SR28 (NDB No: 11746)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "burdock_root_ckd_bld_drnd_wsalt",
@@ -6831,7 +7487,10 @@
           "vitamin_k_100g_mcg": 108.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11751)"
+      "source": "USDA SR28 (NDB No: 11751)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "cabbage_red_ckd_bld_drnd_wsalt",
@@ -6862,7 +7521,10 @@
           "vitamin_k_100g_mcg": 47.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11752)"
+      "source": "USDA SR28 (NDB No: 11752)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "cabbage_chinese_ckd_bld_drnd_wsalt",
@@ -6886,7 +7548,10 @@
           "vitamin_k_100g_mcg": 34.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11754)"
+      "source": "USDA SR28 (NDB No: 11754)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "carrots_ckd_bld_drnd_wsalt",
@@ -6916,7 +7581,10 @@
           "vitamin_k_100g_mcg": 13.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11757)"
+      "source": "USDA SR28 (NDB No: 11757)",
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "carrots_cnd_no_salt_solliquids",
@@ -6946,7 +7614,10 @@
           "vitamin_k_100g_mcg": 9.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11758)"
+      "source": "USDA SR28 (NDB No: 11758)",
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "carrots_cnd_no_salt_drnd_sol",
@@ -6976,7 +7647,10 @@
           "vitamin_k_100g_mcg": 9.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11759)"
+      "source": "USDA SR28 (NDB No: 11759)",
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "carrots_frz_ckd_bld_drnd_wsalt",
@@ -6999,7 +7673,10 @@
           "vitamin_k_100g_mcg": 13.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11760)"
+      "source": "USDA SR28 (NDB No: 11760)",
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "cauliflower_ckd_bld_drnd_wsalt",
@@ -7084,7 +7761,10 @@
           "vitamin_k_100g_mcg": 37.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11764)"
+      "source": "USDA SR28 (NDB No: 11764)",
+      "relations": {
+        "group": "celery"
+      }
     },
     {
       "id": "cress_garden_ckd_bld_drnd_wsalt",
@@ -7107,7 +7787,10 @@
           "vitamin_k_100g_mcg": 383.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11781)"
+      "source": "USDA SR28 (NDB No: 11781)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "jute_potherb_ckd_bld_drnd_wsalt",
@@ -7154,7 +7837,10 @@
           "vitamin_k_100g_mcg": 882.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11791)"
+      "source": "USDA SR28 (NDB No: 11791)",
+      "relations": {
+        "group": "kale"
+      }
     },
     {
       "id": "leeks_ckd_bld_drnd_wsalt",
@@ -7184,7 +7870,10 @@
           "vitamin_k_100g_mcg": 25.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11795)"
+      "source": "USDA SR28 (NDB No: 11795)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "new_zealand_spinach_ckd_bld_drnd_wsalt",
@@ -7207,7 +7896,10 @@
           "vitamin_k_100g_mcg": 292.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11802)"
+      "source": "USDA SR28 (NDB No: 11802)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "okra_ckd_bld_drnd_wsalt",
@@ -7297,7 +7989,10 @@
           "vitamin_k_100g_mcg": 0.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11805)"
+      "source": "USDA SR28 (NDB No: 11805)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_frz_chopd_ckd_bld_drnd_wsalt",
@@ -7327,7 +8022,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11806)"
+      "source": "USDA SR28 (NDB No: 11806)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "onions_frz_whl_ckd_bld_drnd_wsalt",
@@ -7350,7 +8048,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11807)"
+      "source": "USDA SR28 (NDB No: 11807)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "peas_edible_podded_ckd_bld_drnd_wsalt",
@@ -7374,7 +8075,10 @@
           "vitamin_k_100g_mcg": 25.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11809)"
+      "source": "USDA SR28 (NDB No: 11809)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_edible_podded_frz_ckd_bld_drnd_wsalt",
@@ -7405,7 +8109,10 @@
           "vitamin_k_100g_mcg": 30.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11810)"
+      "source": "USDA SR28 (NDB No: 11810)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_grn_ckd_bld_drnd_wsalt",
@@ -7429,7 +8136,10 @@
           "vitamin_k_100g_mcg": 25.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 11811)"
+      "source": "USDA SR28 (NDB No: 11811)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_grn_cnd_no_salt_solliquids",
@@ -7460,7 +8170,10 @@
           "vitamin_k_100g_mcg": 16.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11812)"
+      "source": "USDA SR28 (NDB No: 11812)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_grn_cnd_no_salt_drnd_sol",
@@ -7491,7 +8204,10 @@
           "vitamin_k_100g_mcg": 21.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11813)"
+      "source": "USDA SR28 (NDB No: 11813)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_grn_frz_ckd_bld_drnd_wsalt",
@@ -7522,7 +8238,10 @@
           "vitamin_k_100g_mcg": 24.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11814)"
+      "source": "USDA SR28 (NDB No: 11814)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peascarrots_cnd_no_salt_solliquids",
@@ -7654,7 +8373,10 @@
           "vitamin_k_100g_mcg": 2.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11828)"
+      "source": "USDA SR28 (NDB No: 11828)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_bkd_flesh_wsalt",
@@ -7684,7 +8406,10 @@
           "vitamin_k_100g_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11829)"
+      "source": "USDA SR28 (NDB No: 11829)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_bkd_skn_w_salt",
@@ -7707,7 +8432,10 @@
           "vitamin_k_100g_mcg": 1.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11830)"
+      "source": "USDA SR28 (NDB No: 11830)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_bld_ckd_in_skn_flesh_wsalt",
@@ -7737,7 +8465,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11831)"
+      "source": "USDA SR28 (NDB No: 11831)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_bld_ckd_wo_skn_flesh_w_salt",
@@ -7767,7 +8498,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11833)"
+      "source": "USDA SR28 (NDB No: 11833)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "potatoes_fr_fr_all_types_salt_not_added_in_pr",
@@ -7790,7 +8524,10 @@
           "vitamin_k_100g_mcg": 2.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11841)"
+      "source": "USDA SR28 (NDB No: 11841)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "radishes_oriental_ckd_bld_drnd_wsalt",
@@ -7836,7 +8573,10 @@
           "vitamin_k_100g_mcg": 493.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11854)"
+      "source": "USDA SR28 (NDB No: 11854)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "spinach_frz_chopd_or_leaf_ckd_bld_drnd_wsalt",
@@ -7866,7 +8606,10 @@
           "vitamin_k_100g_mcg": 540.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11856)"
+      "source": "USDA SR28 (NDB No: 11856)",
+      "relations": {
+        "group": "spinach"
+      }
     },
     {
       "id": "squash_smmr_all_var_ckd_bld_drnd_wsalt",
@@ -7889,7 +8632,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11857)"
+      "source": "USDA SR28 (NDB No: 11857)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_crookneckstraightneck_ckd_bld_drn",
@@ -7913,7 +8659,10 @@
           "vitamin_k_100g_mcg": 4.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11858)"
+      "source": "USDA SR28 (NDB No: 11858)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_scallop_ckd_bld_drnd_wsalt",
@@ -7943,7 +8692,10 @@
           "vitamin_k_100g_mcg": 3.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 11860)"
+      "source": "USDA SR28 (NDB No: 11860)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_smmr_zucchini_incl_skn_ckd_bld_drnd_ws",
@@ -7973,7 +8725,10 @@
           "vitamin_k_100g_mcg": 4.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 11861)"
+      "source": "USDA SR28 (NDB No: 11861)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_all_var_ckd_bkd_wsalt",
@@ -7996,7 +8751,10 @@
           "vitamin_k_100g_mcg": 4.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11863)"
+      "source": "USDA SR28 (NDB No: 11863)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_butternut_ckd_bkd_wsalt",
@@ -8020,7 +8778,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11866)"
+      "source": "USDA SR28 (NDB No: 11866)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_hubbard_bkd_w_salt",
@@ -8043,7 +8804,10 @@
           "vitamin_k_100g_mcg": 1.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11868)"
+      "source": "USDA SR28 (NDB No: 11868)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "squash_wntr_hubbard_ckd_bld_mshd_wsalt",
@@ -8066,7 +8830,10 @@
           "vitamin_k_100g_mcg": 1.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11869)"
+      "source": "USDA SR28 (NDB No: 11869)",
+      "relations": {
+        "group": "squash"
+      }
     },
     {
       "id": "sweet_potato_leaves_ckd_stmd_w_salt",
@@ -8089,7 +8856,10 @@
           "vitamin_k_100g_mcg": 108.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11874)"
+      "source": "USDA SR28 (NDB No: 11874)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "sweet_potato_ckd_bkd_in_skn_w_salt",
@@ -8119,7 +8889,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11875)"
+      "source": "USDA SR28 (NDB No: 11875)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "sweet_potato_ckd_bld_wo_skn_w_salt",
@@ -8149,7 +8922,10 @@
           "vitamin_k_100g_mcg": 2.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11876)"
+      "source": "USDA SR28 (NDB No: 11876)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "tomatoes_red_ripe_ckd_w_salt",
@@ -8179,7 +8955,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11884)"
+      "source": "USDA SR28 (NDB No: 11884)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomatoes_red_ripe_cnd_packed_in_tomato_juc_no",
@@ -8209,7 +8988,10 @@
           "vitamin_k_100g_mcg": 2.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11885)"
+      "source": "USDA SR28 (NDB No: 11885)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_juc_cnd_wosalt",
@@ -8239,7 +9021,10 @@
           "vitamin_k_100g_mcg": 2.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11886)"
+      "source": "USDA SR28 (NDB No: 11886)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_products_cnd_paste_wsalt",
@@ -8269,7 +9054,10 @@
           "vitamin_k_100g_mcg": 11.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11887)"
+      "source": "USDA SR28 (NDB No: 11887)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "tomato_products_cnd_puree_wsalt",
@@ -8299,7 +9087,10 @@
           "vitamin_k_100g_mcg": 3.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11888)"
+      "source": "USDA SR28 (NDB No: 11888)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "turnips_ckd_bld_drnd_wsalt",
@@ -8465,7 +9256,10 @@
           "vitamin_k_100g_mcg": 2.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 11897)"
+      "source": "USDA SR28 (NDB No: 11897)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "pickles_cucumber_dill_or_kosher_dill",
@@ -8495,7 +9289,10 @@
           "vitamin_k_100g_mcg": 39.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11937)"
+      "source": "USDA SR28 (NDB No: 11937)",
+      "relations": {
+        "group": "cucumber"
+      }
     },
     {
       "id": "pickles_cucumber_sour",
@@ -8525,7 +9322,10 @@
           "vitamin_k_100g_mcg": 47.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11941)"
+      "source": "USDA SR28 (NDB No: 11941)",
+      "relations": {
+        "group": "cucumber"
+      }
     },
     {
       "id": "pickles_cucumber_sour_lo_na",
@@ -8555,7 +9355,10 @@
           "vitamin_k_100g_mcg": 47.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11946)"
+      "source": "USDA SR28 (NDB No: 11946)",
+      "relations": {
+        "group": "cucumber"
+      }
     },
     {
       "id": "pickles_cucumber_dill_lo_na",
@@ -8585,7 +9388,10 @@
           "vitamin_k_100g_mcg": 66.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 11947)"
+      "source": "USDA SR28 (NDB No: 11947)",
+      "relations": {
+        "group": "cucumber"
+      }
     },
     {
       "id": "tomatoes_sun_dried",
@@ -8615,7 +9421,10 @@
           "vitamin_k_100g_mcg": 45.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11955)"
+      "source": "USDA SR28 (NDB No: 11955)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "carrots_baby_raw",
@@ -8646,7 +9455,10 @@
           "vitamin_k_100g_mcg": 9.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11960)"
+      "source": "USDA SR28 (NDB No: 11960)",
+      "relations": {
+        "group": "carrot"
+      }
     },
     {
       "id": "broccoli_chinese_cooked",
@@ -8671,7 +9483,10 @@
           "vitamin_k_100g_mcg": 84.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 11969)"
+      "source": "USDA SR28 (NDB No: 11969)",
+      "relations": {
+        "group": "broccoli"
+      }
     },
     {
       "id": "pickles_chowchow_wcauliflower_onion_mustard_s",
@@ -8695,7 +9510,10 @@
           "vitamin_k_100g_mcg": 61.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11983)"
+      "source": "USDA SR28 (NDB No: 11983)",
+      "relations": {
+        "group": "onion"
+      }
     },
     {
       "id": "pumpkinsquash_sd_krnls_dried",
@@ -8818,7 +9636,10 @@
           "vitamin_k_100g_mcg": 0.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 15089)"
+      "source": "USDA SR28 (NDB No: 15089)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "peas_split_mature_seeds_raw",
@@ -8851,7 +9672,10 @@
           "vitamin_k_100g_mcg": 14.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 16085)"
+      "source": "USDA SR28 (NDB No: 16085)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_split_mature_seeds_ckd_bld_wosalt",
@@ -8883,7 +9707,10 @@
           "vitamin_k_100g_mcg": 5.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16086)"
+      "source": "USDA SR28 (NDB No: 16086)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "peas_split_mature_seeds_ckd_bld_wsalt",
@@ -8908,7 +9735,10 @@
           "vitamin_k_100g_mcg": 5.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 16386)"
+      "source": "USDA SR28 (NDB No: 16386)",
+      "relations": {
+        "group": "peas"
+      }
     },
     {
       "id": "fast_foods_potatoes_hashed_brown",
@@ -8938,7 +9768,10 @@
           "vitamin_k_100g_mcg": 9.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 21026)"
+      "source": "USDA SR28 (NDB No: 21026)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "fast_foods_taco_w_bf_chs_lettuce_hard_shell",
@@ -8961,7 +9794,10 @@
           "vitamin_k_100g_mcg": 15.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 21082)"
+      "source": "USDA SR28 (NDB No: 21082)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "fast_foods_potato_mashed",
@@ -8985,7 +9821,10 @@
           "vitamin_k_100g_mcg": 5.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 21139)"
+      "source": "USDA SR28 (NDB No: 21139)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "fast_foods_crispy_chick_filet_sndwch_w_lettuc",
@@ -9031,7 +9870,10 @@
           "vitamin_k_100g_mcg": 15.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 21260)"
+      "source": "USDA SR28 (NDB No: 21260)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "taco_bell_soft_taco_w_bf_chs_lettuce",
@@ -9054,7 +9896,10 @@
           "vitamin_k_100g_mcg": 11.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 21261)"
+      "source": "USDA SR28 (NDB No: 21261)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "taco_bell_soft_taco_w_chick_chs_lettuce",
@@ -9077,7 +9922,10 @@
           "vitamin_k_100g_mcg": 8.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 21262)"
+      "source": "USDA SR28 (NDB No: 21262)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "kentucky_fried_chick_potato_wedges_analyzed_p",
@@ -9108,7 +9956,10 @@
           "vitamin_k_100g_mcg": 8.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 21423)"
+      "source": "USDA SR28 (NDB No: 21423)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "fast_foods_taco_w_bf_chs_lettuce_soft",
@@ -9131,7 +9982,10 @@
           "vitamin_k_100g_mcg": 7.4
         }
       ],
-      "source": "USDA SR28 (NDB No: 21486)"
+      "source": "USDA SR28 (NDB No: 21486)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "fast_foods_taco_w_chick_lettuce_chs_soft",
@@ -9154,7 +10008,10 @@
           "vitamin_k_100g_mcg": 7.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 21487)"
+      "source": "USDA SR28 (NDB No: 21487)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "fast_fds_grilled_chick_filet_sndwch_w_lettuce",
@@ -9177,7 +10034,10 @@
           "vitamin_k_100g_mcg": 6.7
         }
       ],
-      "source": "USDA SR28 (NDB No: 21490)"
+      "source": "USDA SR28 (NDB No: 21490)",
+      "relations": {
+        "group": "lettuce"
+      }
     },
     {
       "id": "ravioli_meat_filled_w_tomato_sau_or_meat_sau",
@@ -9200,7 +10060,10 @@
           "vitamin_k_100g_mcg": 0.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 22900)"
+      "source": "USDA SR28 (NDB No: 22900)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "ravioli_chs_w_tomato_sau_frz_not_prep_incl_re",
@@ -9223,7 +10086,10 @@
           "vitamin_k_100g_mcg": 16.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 22976)"
+      "source": "USDA SR28 (NDB No: 22976)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "corned_bf_potatoes_in_tortilla",
@@ -9239,7 +10105,10 @@
           "vitamin_k_100g_mcg": 3.1
         }
       ],
-      "source": "USDA SR28 (NDB No: 35186)"
+      "source": "USDA SR28 (NDB No: 35186)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "radishes_hawaiian_style_pickled",
@@ -9286,7 +10155,10 @@
           "vitamin_k_100g_mcg": 125.9
         }
       ],
-      "source": "USDA SR28 (NDB No: 43143)"
+      "source": "USDA SR28 (NDB No: 43143)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "cabbage_mustard_salted",
@@ -9311,7 +10183,10 @@
           "vitamin_k_100g_mcg": 115.6
         }
       ],
-      "source": "USDA SR28 (NDB No: 43144)"
+      "source": "USDA SR28 (NDB No: 43144)",
+      "relations": {
+        "group": "cabbage"
+      }
     },
     {
       "id": "tomato_sau_cnd_no_salt_added",
@@ -9334,7 +10209,10 @@
           "vitamin_k_100g_mcg": 2.8
         }
       ],
-      "source": "USDA SR28 (NDB No: 43217)"
+      "source": "USDA SR28 (NDB No: 43217)",
+      "relations": {
+        "group": "tomato"
+      }
     },
     {
       "id": "potatoes_cnd_drnd_sol_no_salt",
@@ -9357,7 +10235,10 @@
           "vitamin_k_100g_mcg": 1.5
         }
       ],
-      "source": "USDA SR28 (NDB No: 43311)"
+      "source": "USDA SR28 (NDB No: 43311)",
+      "relations": {
+        "group": "potato"
+      }
     },
     {
       "id": "tomatoveg_juc_lo_na",
@@ -9426,7 +10307,10 @@
           "vitamin_k_100g_mcg": 584.2
         }
       ],
-      "source": "USDA SR28 (NDB No: 44055)"
+      "source": "USDA SR28 (NDB No: 44055)",
+      "relations": {
+        "group": "celery"
+      }
     },
     {
       "id": "swiss_chard_raw",
@@ -9453,7 +10337,10 @@
           "vitamin_k_100g_mcg": 830.0
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 170410), FDA Coumadin Prescribing Information"
+      "source": "USDA FoodData Central (FDC ID: 170410), FDA Coumadin Prescribing Information",
+      "relations": {
+        "group": "kale"
+      }
     }
   ]
 }

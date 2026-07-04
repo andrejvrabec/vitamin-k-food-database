@@ -17,8 +17,13 @@
       "type": "array",
       "items": { "type": "string", "pattern": "^[a-z0-9_]+$" },
       "uniqueItems": true
+    },
+    "groups": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+      "uniqueItems": true
     }
   },
-  "required": ["languages", "tags", "categories"],
+  "required": ["languages", "tags", "categories", "groups"],
   "additionalProperties": false
 }
