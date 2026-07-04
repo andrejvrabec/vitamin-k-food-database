@@ -1418,9 +1418,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
-        "k1",
-        "k2",
-        "organ_meat"
+        "k1"
       ],
       "relations": {
         "group": "squash"
@@ -1469,8 +1467,7 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "cooked",
-        "dairy",
-        "k2"
+        "k1"
       ],
       "relations": {
         "group": "squash"
@@ -3246,8 +3243,7 @@
       "id": "lettuce_butterhead_raw",
       "category": "vegetables",
       "tags": [
-        "dairy",
-        "k2",
+        "k1",
         "raw"
       ],
       "portions": [
@@ -4909,8 +4905,7 @@
       "id": "squash_smmr_crookneckstraightneck_raw",
       "category": "vegetables",
       "tags": [
-        "k2",
-        "organ_meat",
+        "k1",
         "raw"
       ],
       "portions": [
@@ -4935,8 +4930,8 @@
       "id": "squash_smmr_crookneck_straightneck_ckd_bld_dr",
       "category": "vegetables",
       "tags": [
-        "k2",
-        "organ_meat"
+        "cooked",
+        "k1"
       ],
       "portions": [
         {
@@ -4966,8 +4961,8 @@
       "id": "squash_smmr_crookneckstraightneck_cnd_drnd_so",
       "category": "vegetables",
       "tags": [
-        "k2",
-        "organ_meat"
+        "cooked",
+        "k1"
       ],
       "portions": [
         {
@@ -4997,8 +4992,8 @@
       "id": "squash_smmr_crookneckstraightneck_frz_ckd_bld",
       "category": "vegetables",
       "tags": [
-        "k2",
-        "organ_meat"
+        "cooked",
+        "k1"
       ],
       "portions": [
         {
@@ -5192,8 +5187,7 @@
       "id": "squash_wntr_butternut_raw",
       "category": "vegetables",
       "tags": [
-        "dairy",
-        "k2",
+        "k1",
         "raw"
       ],
       "portions": [
@@ -5218,8 +5212,8 @@
       "id": "squash_wntr_butternut_ckd_bkd_wosalt",
       "category": "vegetables",
       "tags": [
-        "dairy",
-        "k2"
+        "cooked",
+        "k1"
       ],
       "portions": [
         {
@@ -5243,8 +5237,7 @@
       "id": "squash_wntr_butternut_frz_unprep",
       "category": "vegetables",
       "tags": [
-        "dairy",
-        "k2"
+        "k1"
       ],
       "portions": [
         {
@@ -7931,8 +7924,8 @@
       "id": "squash_smmr_crookneckstraightneck_ckd_bld_drn",
       "category": "vegetables",
       "tags": [
-        "k2",
-        "organ_meat"
+        "cooked",
+        "k1"
       ],
       "portions": [
         {
@@ -8040,8 +8033,8 @@
       "id": "squash_wntr_butternut_ckd_bkd_wsalt",
       "category": "vegetables",
       "tags": [
-        "dairy",
-        "k2"
+        "cooked",
+        "k1"
       ],
       "portions": [
         {
