@@ -89,7 +89,7 @@
     "mechanism": "procoagulant_properties",
     "recommendation_key": "warfarin_limit_excessive"
   },
-  "coriander_leaves_fresh": {
+  "coriander_leaves_raw": {
     "effect": "decreases_efficacy",
     "severity": "moderate",
     "mechanism": "vitamin_k_antagonism",

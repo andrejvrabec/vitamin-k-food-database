@@ -9,11 +9,6 @@
     "alternative_names": [],
     "description": "Biscuits, plain or buttermilk, refrigerated dough, higher fat."
   },
-  "bread_cheese": {
-    "name": "Bread, cheese",
-    "alternative_names": [],
-    "description": "Bread, cheese."
-  },
   "bread_french_or_vienna_toasted": {
     "name": "Bread, french or vienna, toasted (includes sourdough)",
     "alternative_names": [],
@@ -48,16 +43,6 @@
     "name": "Bread, rye",
     "alternative_names": [],
     "description": "Bread, rye."
-  },
-  "bread_salvadoran_sweet_cheese": {
-    "name": "Bread, salvadoran sweet cheese (quesadilla salvadorena)",
-    "alternative_names": [],
-    "description": "Bread, salvadoran sweet cheese (quesadilla salvadorena)."
-  },
-  "bread_stuffing_cornbread_dry_mix_prepare": {
-    "name": "Bread, stuffing, cornbread, dry mix, prepared",
-    "alternative_names": [],
-    "description": "Bread, stuffing, cornbread, dry mix, prepared."
   },
   "bread_stuffing_dry_mix": {
     "name": "Bread, stuffing, dry mix",
@@ -179,11 +164,6 @@
     "alternative_names": [],
     "description": "Cracker, meal."
   },
-  "crackers_cheese_sandwich_type_with_chees": {
-    "name": "Crackers, cheese, sandwich-type with cheese filling",
-    "alternative_names": [],
-    "description": "Crackers, cheese, sandwich-type with cheese filling."
-  },
   "crackers_standard_snack_type_sandwich_wi": {
     "name": "Crackers, standard snack-type, sandwich, with peanut",
     "alternative_names": [],
@@ -254,11 +234,6 @@
     "alternative_names": [],
     "description": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)."
   },
-  "pie_banana_cream_prepared_from_recipe": {
-    "name": "Pie, banana cream, prepared from recipe",
-    "alternative_names": [],
-    "description": "Pie, banana cream, prepared from recipe."
-  },
   "pie_blueberry_commercially_prepared": {
     "name": "Pie, blueberry, commercially prepared",
     "alternative_names": [],
@@ -293,11 +268,6 @@
     "name": "Wheat flour, white, all-purpose, unenriched",
     "alternative_names": [],
     "description": "Wheat flour, white, all-purpose, unenriched."
-  },
-  "wheat_flour_white_bread_enriched": {
-    "name": "Wheat flour, white, bread, enriched",
-    "alternative_names": [],
-    "description": "Wheat flour, white, bread, enriched."
   },
   "ice_crm_cookie_sndwch": {
     "name": "Ice cream cookie sndwch",
@@ -3323,5 +3293,55 @@
     "name": "Dairy and cereal-based beverage for baby's dinner, with vegetables, from 4/6 months",
     "alternative_names": [],
     "description": "Dairy and cereal-based beverage for baby's dinner, with vegetables, from 4/6 months."
+  },
+  "muffins_oat_bran": {
+    "name": "Muffins, oat bran",
+    "alternative_names": [],
+    "description": "Muffins, oat bran."
+  },
+  "granola_bars_hard_plain": {
+    "name": "Granola bars, hard, plain",
+    "alternative_names": [],
+    "description": "Granola bars, hard, plain."
+  },
+  "granola_bars_hard_peanut": {
+    "name": "Granola bars, hard, peanut",
+    "alternative_names": [],
+    "description": "Granola bars, hard, peanut."
+  },
+  "granola_bars_soft_uncoated_choc_chip": {
+    "name": "Granola bars, soft, uncoated, chocolate chip",
+    "alternative_names": [],
+    "description": "Granola bars, soft, uncoated, chocolate chip."
+  },
+  "oat_bran_raw": {
+    "name": "Oat bran, raw",
+    "alternative_names": [],
+    "description": "Oat bran, raw."
+  },
+  "lasagna_chs_frz_prep": {
+    "name": "Lasagna, cheese, frozen, prepared",
+    "alternative_names": [],
+    "description": "Lasagna, cheese, frozen, prepared."
+  },
+  "lasagna_w_meat_sau_frz_entree": {
+    "name": "Lasagna with/ meat & sauce, frozen entree",
+    "alternative_names": [],
+    "description": "Lasagna with/ meat & sauce, frozen entree."
+  },
+  "lasagna_veg_frz_bkd": {
+    "name": "Lasagna, vegetable, frozen, baked",
+    "alternative_names": [],
+    "description": "Lasagna, vegetable, frozen, baked."
+  },
+  "lasagna_w_meat_sau_frz_prep": {
+    "name": "Lasagna with/ meat sauce, frozen, prepared",
+    "alternative_names": [],
+    "description": "Lasagna with/ meat sauce, frozen, prepared."
+  },
+  "lasagna_or_cannelloni_with_vegetables_prepacked": {
+    "name": "Lasagna or cannelloni with vegetables, prepacked",
+    "alternative_names": [],
+    "description": "Lasagna or cannelloni with vegetables, prepacked."
   }
 }

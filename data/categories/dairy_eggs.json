@@ -606,81 +606,6 @@
       }
     },
     {
-      "id": "cream_fluid_heavy_whipping",
-      "category": "dairy_eggs",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 3.8,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "relations": {
-        "group": "cream"
-      }
-    },
-    {
-      "id": "cream_fluid_light",
-      "category": "dairy_eggs",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "ml",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 29
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "relations": {
-        "group": "cream"
-      }
-    },
-    {
-      "id": "cream_fluid_light_whipping",
-      "category": "dairy_eggs",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 3.2,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "relations": {
-        "group": "cream"
-      }
-    },
-    {
       "id": "cream_puff_eclair_custard_or_cream_fille",
       "category": "dairy_eggs",
       "portions": [
@@ -1723,7 +1648,7 @@
           "gram_equivalent": 15
         }
       ],
-      "source": "USDA SR28 (NDB No: 01050)",
+      "source": "USDA SR28 (NDB No: 01050), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "cream"
       }
@@ -1754,7 +1679,7 @@
           "gram_equivalent": 239
         }
       ],
-      "source": "USDA SR28 (NDB No: 01052)",
+      "source": "USDA SR28 (NDB No: 01052), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "cream"
       }
@@ -1785,7 +1710,7 @@
           "gram_equivalent": 238
         }
       ],
-      "source": "USDA SR28 (NDB No: 01053)",
+      "source": "USDA SR28 (NDB No: 01053), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "cream"
       }

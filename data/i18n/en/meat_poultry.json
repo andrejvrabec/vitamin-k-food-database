@@ -40,11 +40,6 @@
     "alternative_names": [],
     "description": "Chicken, broilers or fryers, leg, meat and skin, cooked,."
   },
-  "chicken_broilers_or_fryers_light_meat_me": {
-    "name": "Chicken, broilers or fryers, light meat, meat only, raw",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, light meat, meat only, raw."
-  },
   "chicken_broilers_or_fryers_meat_and_skin": {
     "name": "Chicken, broilers or fryers, meat and skin, cooked, fried,",
     "alternative_names": [],
@@ -1694,5 +1689,50 @@
     "name": "Baby meal, vegetables with meat/fish and starchy food, from 12 months",
     "alternative_names": [],
     "description": "Baby meal, vegetables with meat/fish and starchy food, from 12 months."
+  },
+  "duck_domesticated_meat_only_ckd_rstd": {
+    "name": "Duck, domesticated, meat only, cooked, rstd",
+    "alternative_names": [],
+    "description": "Duck, domesticated, meat only, cooked, rstd."
+  },
+  "goose_domesticated_meatskn_ckd_rstd": {
+    "name": "Goose, domesticated, meat&skin, cooked, rstd",
+    "alternative_names": [],
+    "description": "Goose, domesticated, meat&skin, cooked, rstd."
+  },
+  "salami_ckd_bf": {
+    "name": "Salami cooked beef",
+    "alternative_names": [],
+    "description": "Salami cooked beef."
+  },
+  "bison_ground_grass_fed_ckd": {
+    "name": "Bison, ground, grass-fed, cooked",
+    "alternative_names": [],
+    "description": "Bison, ground, grass-fed, cooked."
+  },
+  "bison_ground_grass_fed_raw": {
+    "name": "Bison, ground, grass-fed, raw",
+    "alternative_names": [],
+    "description": "Bison, ground, grass-fed, raw."
+  },
+  "game_meat_bison_ln_ckd_rstd": {
+    "name": "Game meat, bison, lean, cooked, rstd",
+    "alternative_names": [],
+    "description": "Game meat, bison, lean, cooked, rstd."
+  },
+  "game_meat_goat_ckd_rstd": {
+    "name": "Game meat, goat, cooked, rstd",
+    "alternative_names": [],
+    "description": "Game meat, goat, cooked, rstd."
+  },
+  "duck_meat_raw": {
+    "name": "Duck, meat, raw",
+    "alternative_names": [],
+    "description": "Duck, meat, raw."
+  },
+  "goose_meat_raw": {
+    "name": "Goose, meat, raw",
+    "alternative_names": [],
+    "description": "Goose, meat, raw."
   }
 }

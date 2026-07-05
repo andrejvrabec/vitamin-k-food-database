@@ -233,9 +233,9 @@
     "description": "Plantainy, žlté, pečené."
   },
   "plantains_yellow_raw": {
-    "name": "Banány, žlté, surové",
+    "name": "Plantainy, žlté, surové",
     "alternative_names": [],
-    "description": "Banány, žlté, surové."
+    "description": "Plantainy, žlté, surové."
   },
   "pokeberry_shoots_cooked_boiled_drained_w": {
     "name": "Pokeberry výhonky, (poke), varené, scedené, bez",
@@ -347,9 +347,9 @@
     "description": "Cibuľový prášok."
   },
   "plantains_raw": {
-    "name": "Banány, surové",
+    "name": "Plantainy, surové",
     "alternative_names": [],
-    "description": "Banány, surové."
+    "description": "Plantainy, surové."
   },
   "plantains_cooked": {
     "name": "Plantainy, varené",
@@ -2223,5 +2223,70 @@
     "name": "Paradajkový kaviár (ochutený paradajkový pretlak)",
     "alternative_names": [],
     "description": "Paradajkový kaviár (ochutený paradajkový pretlak)."
+  },
+  "collards_raw": {
+    "name": "Obojky, surové",
+    "alternative_names": [],
+    "description": "Obojky, surové."
+  },
+  "collards_ckd_bld_drnd_wosalt": {
+    "name": "Collards, varené, scedené, bezsalt",
+    "alternative_names": [],
+    "description": "Collards, varené, scedené, bezsalt."
+  },
+  "collards_frz_chopd_ckd_bld_drnd_wosalt": {
+    "name": "Collards, mrazené, sekané, varené, scedené, bez soli",
+    "alternative_names": [],
+    "description": "Collards, mrazené, sekané, varené, scedené, bez soli."
+  },
+  "kohlrabi_raw": {
+    "name": "Kaleráb, surový",
+    "alternative_names": [],
+    "description": "Kaleráb, surový."
+  },
+  "kohlrabi_ckd_bld_drnd_wosalt": {
+    "name": "Kaleráb, varené, scedené, bez soli",
+    "alternative_names": [],
+    "description": "Kaleráb, varené, scedené, bez soli."
+  },
+  "collards_ckd_bld_drnd_wsalt": {
+    "name": "Collards, varené, scedené, so soľou",
+    "alternative_names": [],
+    "description": "Collards, varené, scedené, so soľou."
+  },
+  "collards_frz_chopd_ckd_bld_drnd_wsalt": {
+    "name": "Collards, mrazené, sekané, varené, scedené, so soľou",
+    "alternative_names": [],
+    "description": "Collards, mrazené, sekané, varené, scedené, so soľou."
+  },
+  "kohlrabi_ckd_bld_drnd_wsalt": {
+    "name": "Kaleráb, varené, scedené, so soľou",
+    "alternative_names": [],
+    "description": "Kaleráb, varené, scedené, so soľou."
+  },
+  "snow_pea_raw": {
+    "name": "Snehový hrášok, surový",
+    "alternative_names": [],
+    "description": "Snehový hrášok, surový."
+  },
+  "snow_pea_boiledcooked_in_water": {
+    "name": "Snehový hrášok, varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Snehový hrášok, varený/varený vo vode."
+  },
+  "snow_pea_cooked": {
+    "name": "Snehový hrášok, varený",
+    "alternative_names": [],
+    "description": "Snehový hrášok, varený."
+  },
+  "split_pea_boiledcooked_in_water": {
+    "name": "Hrášok, varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Hrášok, varený/varený vo vode."
+  },
+  "chick_pea_boiledcooked_in_water": {
+    "name": "Cícer varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Cícer varený/varený vo vode."
   }
 }

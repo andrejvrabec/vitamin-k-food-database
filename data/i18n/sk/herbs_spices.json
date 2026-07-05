@@ -189,14 +189,6 @@
     ],
     "description": "Surové klíčky lucerny siatej, bohaté na vitamín K1, ktorý môže znižovať účinnok Warfarínu."
   },
-  "coriander_leaves_fresh": {
-    "name": "Koriander, čerstvé listy (Koriandrová vňať)",
-    "alternative_names": [
-      "Koriandrová vňať",
-      "Čerstvý koriander"
-    ],
-    "description": "Čerstvé listy koriandra (koriandrová vňať), zelené bylinky obsahujúce stredné až vysoké množstvo vitamínu K1."
-  },
   "piperade_basque_style_fondue_of_sweet_peppers_and_tomatoes_with_onions_and_garlic_pre": {
     "name": "Piperáda na baskický spôsob (fondu zo sladkej papriky a paradajok s cibuľou a cesnakom), balené",
     "alternative_names": [],
@@ -236,5 +228,40 @@
     "name": "Šalvia, sušená",
     "alternative_names": [],
     "description": "Šalvia, sušená."
+  },
+  "cloves_ground": {
+    "name": "Klinčeky, mleté",
+    "alternative_names": [],
+    "description": "Klinčeky, mleté."
+  },
+  "coriander_leaf_dried": {
+    "name": "List koriandra, sušený",
+    "alternative_names": [],
+    "description": "List koriandra, sušený."
+  },
+  "cumin_seed": {
+    "name": "Semená rasce",
+    "alternative_names": [],
+    "description": "Semená rasce."
+  },
+  "ginger_ground": {
+    "name": "Zázvor, mletý",
+    "alternative_names": [],
+    "description": "Zázvor, mletý."
+  },
+  "coriander_leaves_raw": {
+    "name": "Listy koriandra (koriandra), surové",
+    "alternative_names": [],
+    "description": "Listy koriandra (koriandra), surové."
+  },
+  "ginger_root_raw": {
+    "name": "Koreň zázvoru, surový",
+    "alternative_names": [],
+    "description": "Koreň zázvoru, surový."
+  },
+  "cloves": {
+    "name": "Klinčeky",
+    "alternative_names": [],
+    "description": "Klinčeky."
   }
 }

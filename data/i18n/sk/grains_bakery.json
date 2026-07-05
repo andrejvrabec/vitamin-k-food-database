@@ -9,11 +9,6 @@
     "alternative_names": [],
     "description": "Sušienky, hladké alebo cmar, chladené cesto, vyšší obsah tuku."
   },
-  "bread_cheese": {
-    "name": "Chlieb, syr",
-    "alternative_names": [],
-    "description": "Chlieb, syr."
-  },
   "bread_french_or_vienna_toasted": {
     "name": "Chlieb, francúzsky alebo viedenský, toastový (vrátane kysnutého cesta)",
     "alternative_names": [],
@@ -48,16 +43,6 @@
     "name": "Chlieb, raž",
     "alternative_names": [],
     "description": "Chlieb, raž."
-  },
-  "bread_salvadoran_sweet_cheese": {
-    "name": "Chlieb, salvadorský sladký syr (quesadilla salvadorena)",
-    "alternative_names": [],
-    "description": "Chlieb, salvadorský sladký syr (quesadilla salvadorena)."
-  },
-  "bread_stuffing_cornbread_dry_mix_prepare": {
-    "name": "Chlieb, plnka, kukuričný chlieb, suchá zmes, pripravené",
-    "alternative_names": [],
-    "description": "Chlieb, plnka, kukuričný chlieb, suchá zmes, pripravené."
   },
   "bread_stuffing_dry_mix": {
     "name": "Chlieb, plnka, suchá zmes",
@@ -179,11 +164,6 @@
     "alternative_names": [],
     "description": "Kreker, jedlo."
   },
-  "crackers_cheese_sandwich_type_with_chees": {
-    "name": "Krekry, syrové, sendvičového typu so syrovou náplňou",
-    "alternative_names": [],
-    "description": "Krekry, syrové, sendvičového typu so syrovou náplňou."
-  },
   "crackers_standard_snack_type_sandwich_wi": {
     "name": "Krekry, štandardný snack typu, sendvičové, s arašidmi",
     "alternative_names": [],
@@ -254,11 +234,6 @@
     "alternative_names": [],
     "description": "Cestoviny, celozrnné, suché ()."
   },
-  "pie_banana_cream_prepared_from_recipe": {
-    "name": "Koláč, banánový krém, pripravený podľa receptu",
-    "alternative_names": [],
-    "description": "Koláč, banánový krém, pripravený podľa receptu."
-  },
   "pie_blueberry_commercially_prepared": {
     "name": "Koláč, čučoriedkový, komerčne pripravený",
     "alternative_names": [],
@@ -293,11 +268,6 @@
     "name": "Pšeničná múka, biela, viacúčelová, neobohatená",
     "alternative_names": [],
     "description": "Pšeničná múka, biela, viacúčelová, neobohatená."
-  },
-  "wheat_flour_white_bread_enriched": {
-    "name": "Pšeničná múka, biela, chlebová, obohatená",
-    "alternative_names": [],
-    "description": "Pšeničná múka, biela, chlebová, obohatená."
   },
   "ice_crm_cookie_sndwch": {
     "name": "Ice krém cookie sndwch",
@@ -3323,5 +3293,55 @@
     "name": "Mliečny a cereálny nápoj na detskú večeru, so zeleninou, od 4/6 mesiacov",
     "alternative_names": [],
     "description": "Mliečny a cereálny nápoj na detskú večeru, so zeleninou, od 4/6 mesiacov."
+  },
+  "muffins_oat_bran": {
+    "name": "Muffiny, ovsené otruby",
+    "alternative_names": [],
+    "description": "Muffiny, ovsené otruby."
+  },
+  "granola_bars_hard_plain": {
+    "name": "Granolové tyčinky, tvrdé, hladké",
+    "alternative_names": [],
+    "description": "Granolové tyčinky, tvrdé, hladké."
+  },
+  "granola_bars_hard_peanut": {
+    "name": "Granolové tyčinky, tvrdé, arašidové",
+    "alternative_names": [],
+    "description": "Granolové tyčinky, tvrdé, arašidové."
+  },
+  "granola_bars_soft_uncoated_choc_chip": {
+    "name": "Granolové tyčinky, mäkké, nepotiahnuté, čokoláda",
+    "alternative_names": [],
+    "description": "Granolové tyčinky, mäkké, nepotiahnuté, čokoláda."
+  },
+  "oat_bran_raw": {
+    "name": "Ovsené otruby, surové",
+    "alternative_names": [],
+    "description": "Ovsené otruby, surové."
+  },
+  "lasagna_chs_frz_prep": {
+    "name": "Lasagne, syr, mrazené, príprava",
+    "alternative_names": [],
+    "description": "Lasagne, syr, mrazené, príprava."
+  },
+  "lasagna_w_meat_sau_frz_entree": {
+    "name": "Lasagne s mäsom a omáčkou, predjedlo",
+    "alternative_names": [],
+    "description": "Lasagne s mäsom a omáčkou, predjedlo."
+  },
+  "lasagna_veg_frz_bkd": {
+    "name": "Lasagne, zelenina, mrazené, pečené",
+    "alternative_names": [],
+    "description": "Lasagne, zelenina, mrazené, pečené."
+  },
+  "lasagna_w_meat_sau_frz_prep": {
+    "name": "Lasagne s mäsovou omáčkou, mrazené, príprava",
+    "alternative_names": [],
+    "description": "Lasagne s mäsovou omáčkou, mrazené, príprava."
+  },
+  "lasagna_or_cannelloni_with_vegetables_prepacked": {
+    "name": "Lasagne alebo cannelloni so zeleninou, balené",
+    "alternative_names": [],
+    "description": "Lasagne alebo cannelloni so zeleninou, balené."
   }
 }

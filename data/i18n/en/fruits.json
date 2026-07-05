@@ -832,11 +832,6 @@
     "alternative_names": [],
     "description": "Morello cherry, raw."
   },
-  "cranberry_raw": {
-    "name": "Cranberry, raw",
-    "alternative_names": [],
-    "description": "Cranberry, raw."
-  },
   "blueberry_frozen_raw": {
     "name": "Blueberry, frozen, raw",
     "alternative_names": [],
@@ -941,5 +936,150 @@
     "name": "Pear tart with almonds",
     "alternative_names": [],
     "description": "Pear tart with almonds."
+  },
+  "bananas_raw": {
+    "name": "Bananas, raw",
+    "alternative_names": [],
+    "description": "Bananas, raw."
+  },
+  "bananas_dehyd_or_banana_pdr": {
+    "name": "Bananas, dehydrated, or banana powder",
+    "alternative_names": [],
+    "description": "Bananas, dehydrated, or banana powder."
+  },
+  "banana_flesh_without_skin_dried": {
+    "name": "Banana, flesh without skin, dried",
+    "alternative_names": [],
+    "description": "Banana, flesh without skin, dried."
+  },
+  "avocados_raw_all_comm_var": {
+    "name": "Avocados, raw, all commercial var",
+    "alternative_names": [],
+    "description": "Avocados, raw, all commercial var."
+  },
+  "avocados_raw_california": {
+    "name": "Avocados, raw, california",
+    "alternative_names": [],
+    "description": "Avocados, raw, california."
+  },
+  "cranberries_raw": {
+    "name": "Cranberries, raw",
+    "alternative_names": [],
+    "description": "Cranberries, raw."
+  },
+  "cranberries_dried_swtnd": {
+    "name": "Cranberries, dried, sweetened",
+    "alternative_names": [],
+    "description": "Cranberries, dried, sweetened."
+  },
+  "grapefruit_juc_white_frz_conc_unswtnd_undil": {
+    "name": "Grapefruit juice, white, frozen concentrate, unswtnd, undiluted",
+    "alternative_names": [],
+    "description": "Grapefruit juice, white, frozen concentrate, unswtnd, undiluted."
+  },
+  "kiwifruit_grn_raw": {
+    "name": "Kiwifruit, grn, raw",
+    "alternative_names": [],
+    "description": "Kiwifruit, grn, raw."
+  },
+  "limes_raw": {
+    "name": "Limes, raw",
+    "alternative_names": [],
+    "description": "Limes, raw."
+  },
+  "melons_cantaloupe_raw": {
+    "name": "Melons, cantaloupe, raw",
+    "alternative_names": [],
+    "description": "Melons, cantaloupe, raw."
+  },
+  "melons_casaba_raw": {
+    "name": "Melons, casaba, raw",
+    "alternative_names": [],
+    "description": "Melons, casaba, raw."
+  },
+  "melons_honeydew_raw": {
+    "name": "Melons, honeydew, raw",
+    "alternative_names": [],
+    "description": "Melons, honeydew, raw."
+  },
+  "nectarines_raw": {
+    "name": "Nectarines, raw",
+    "alternative_names": [],
+    "description": "Nectarines, raw."
+  },
+  "orange_juc_cnd_unswtnd": {
+    "name": "Orange juice, canned, unswtnd",
+    "alternative_names": [],
+    "description": "Orange juice, canned, unswtnd."
+  },
+  "orange_juc_frz_conc_unswtnd_undil": {
+    "name": "Orange juice, frozen concentrate, unswtnd, undiluted",
+    "alternative_names": [],
+    "description": "Orange juice, frozen concentrate, unswtnd, undiluted."
+  },
+  "orange_juc_frz_conc_unswtnd_dil_w3_volume_h2o": {
+    "name": "Orange juice, frozen concentrate, unswtnd, dil with3 volumes of water",
+    "alternative_names": [],
+    "description": "Orange juice, frozen concentrate, unswtnd, dil with3 volumes of water."
+  },
+  "orange_grapefruit_juc_cnd_unswtnd": {
+    "name": "Orange-grapefruit juice, canned, unswtnd",
+    "alternative_names": [],
+    "description": "Orange-grapefruit juice, canned, unswtnd."
+  },
+  "pomegranates_raw": {
+    "name": "Pomegranates, raw",
+    "alternative_names": [],
+    "description": "Pomegranates, raw."
+  },
+  "raisins_golden_seedless": {
+    "name": "Raisins, golden seedless",
+    "alternative_names": [],
+    "description": "Raisins, golden seedless."
+  },
+  "raisins_seedless": {
+    "name": "Raisins, seedless",
+    "alternative_names": [],
+    "description": "Raisins, seedless."
+  },
+  "watermelon_raw": {
+    "name": "Watermelon, raw",
+    "alternative_names": [],
+    "description": "Watermelon, raw."
+  },
+  "kiwifruit_gold_raw": {
+    "name": "Kiwifruit, gold, raw",
+    "alternative_names": [],
+    "description": "Kiwifruit, gold, raw."
+  },
+  "orange_pnappl_juc_blend": {
+    "name": "Orange pnappl juice blend",
+    "alternative_names": [],
+    "description": "Orange pnappl juice blend."
+  },
+  "orange_flavor_drk_brkfst_type_wpulp_frz_conc": {
+    "name": "Orange-flavor drink, breakfast type, withpulp, frozen concentrate",
+    "alternative_names": [],
+    "description": "Orange-flavor drink, breakfast type, withpulp, frozen concentrate."
+  },
+  "melon_banana": {
+    "name": "Melon, banana (navajo)",
+    "alternative_names": [],
+    "description": "Melon, banana (navajo)."
+  },
+  "mirabelle_plum_pitted_raw": {
+    "name": "Mirabelle plum, pitted, raw",
+    "alternative_names": [],
+    "description": "Mirabelle plum, pitted, raw."
+  },
+  "prune_pitted": {
+    "name": "Prune, pitted",
+    "alternative_names": [],
+    "description": "Prune, pitted."
+  },
+  "raisin": {
+    "name": "Raisin",
+    "alternative_names": [],
+    "description": "Raisin."
   }
 }

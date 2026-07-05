@@ -189,15 +189,6 @@
     ],
     "description": "Raw alfalfa sprouts, high in Vitamin K1 which can antagonize Warfarin."
   },
-  "coriander_leaves_fresh": {
-    "name": "Coriander leaves (Cilantro), fresh",
-    "alternative_names": [
-      "Cilantro",
-      "Chinese parsley",
-      "Fresh coriander"
-    ],
-    "description": "Fresh coriander leaves (cilantro), a green herb containing moderate-to-high Vitamin K1."
-  },
   "piperade_basque_style_fondue_of_sweet_peppers_and_tomatoes_with_onions_and_garlic_pre": {
     "name": "Piperade, Basque-style (fondue of sweet peppers and tomatoes with onions and garlic), prepacked",
     "alternative_names": [],
@@ -237,5 +228,40 @@
     "name": "Sage, dried",
     "alternative_names": [],
     "description": "Sage, dried."
+  },
+  "cloves_ground": {
+    "name": "Cloves, ground",
+    "alternative_names": [],
+    "description": "Cloves, ground."
+  },
+  "coriander_leaf_dried": {
+    "name": "Coriander leaf, dried",
+    "alternative_names": [],
+    "description": "Coriander leaf, dried."
+  },
+  "cumin_seed": {
+    "name": "Cumin seed",
+    "alternative_names": [],
+    "description": "Cumin seed."
+  },
+  "ginger_ground": {
+    "name": "Ginger, ground",
+    "alternative_names": [],
+    "description": "Ginger, ground."
+  },
+  "coriander_leaves_raw": {
+    "name": "Coriander (cilantro) leaves, raw",
+    "alternative_names": [],
+    "description": "Coriander (cilantro) leaves, raw."
+  },
+  "ginger_root_raw": {
+    "name": "Ginger root, raw",
+    "alternative_names": [],
+    "description": "Ginger root, raw."
+  },
+  "cloves": {
+    "name": "Cloves",
+    "alternative_names": [],
+    "description": "Cloves."
   }
 }

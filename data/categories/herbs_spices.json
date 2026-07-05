@@ -790,33 +790,6 @@
       "source": "USDA FoodData Central, Stockley's Drug Interactions"
     },
     {
-      "id": "coriander_leaves_fresh",
-      "category": "herbs_spices",
-      "tags": [
-        "raw",
-        "k1",
-        "affects_warfarin",
-        "affects_coagulation"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 310.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 49.6,
-          "gram_equivalent": 16
-        }
-      ],
-      "source": "USDA FoodData Central, FDA Coumadin Prescribing Information",
-      "relations": {
-        "group": "other_herbs_spices"
-      }
-    },
-    {
       "id": "piperade_basque_style_fondue_of_sweet_peppers_and_tomatoes_with_onions_and_garlic_pre",
       "category": "herbs_spices",
       "tags": [
@@ -957,6 +930,209 @@
         }
       ],
       "source": "Ciqual 2025 (Food Code: 11037)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "cloves_ground",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 141.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 9.2,
+          "gram_equivalent": 6
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 3.0,
+          "gram_equivalent": 2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02011)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "coriander_leaf_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1359.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 24.5,
+          "gram_equivalent": 1
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 8.2,
+          "gram_equivalent": 0
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02012)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "cumin_seed",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 6
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 2
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02014)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "ginger_ground",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 5
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 1
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 02021)",
+      "relations": {
+        "group": "ginger"
+      }
+    },
+    {
+      "id": "coriander_leaves_raw",
+      "category": "herbs_spices",
+      "tags": [
+        "affects_coagulation",
+        "affects_warfarin",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 310.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 12.4,
+          "gram_equivalent": 4
+        },
+        {
+          "amount": 9.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 62.0,
+          "gram_equivalent": 20
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 11165), USDA FoodData Central, FDA Coumadin Prescribing Information",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "ginger_root_raw",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 24
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 11216)",
+      "relations": {
+        "group": "ginger"
+      }
+    },
+    {
+      "id": "cloves",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 142.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11052)",
       "relations": {
         "group": "other_herbs_spices"
       }

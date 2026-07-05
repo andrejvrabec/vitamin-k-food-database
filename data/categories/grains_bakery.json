@@ -52,32 +52,6 @@
       }
     },
     {
-      "id": "bread_cheese",
-      "category": "grains_bakery",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 55.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 15.6,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "dairy",
-        "k2"
-      ],
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
       "id": "bread_french_or_vienna_toasted",
       "category": "grains_bakery",
       "portions": [
@@ -242,57 +216,6 @@
           "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "relations": {
-        "group": "bread"
-      }
-    },
-    {
-      "id": "bread_salvadoran_sweet_cheese",
-      "category": "grains_bakery",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.2,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "dairy",
-        "k2"
-      ],
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
-      "id": "bread_stuffing_cornbread_dry_mix_prepare",
-      "category": "grains_bakery",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 8.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.5,
           "gram_equivalent": 28
         }
       ],
@@ -936,34 +859,6 @@
       }
     },
     {
-      "id": "crackers_cheese_sandwich_type_with_chees",
-      "category": "grains_bakery",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 6.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 600
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "dairy",
-        "fast_food",
-        "k2",
-        "processed"
-      ],
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
       "id": "crackers_standard_snack_type_sandwich_wi",
       "category": "grains_bakery",
       "portions": [
@@ -1318,35 +1213,6 @@
       }
     },
     {
-      "id": "pie_banana_cream_prepared_from_recipe",
-      "category": "grains_bakery",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.8,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "cooked",
-        "dairy",
-        "k2",
-        "processed",
-        "sweetened"
-      ],
-      "relations": {
-        "group": "banana"
-      }
-    },
-    {
       "id": "pie_blueberry_commercially_prepared",
       "category": "grains_bakery",
       "portions": [
@@ -1529,31 +1395,6 @@
       ],
       "relations": {
         "group": "flour"
-      }
-    },
-    {
-      "id": "wheat_flour_white_bread_enriched",
-      "category": "grains_bakery",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 150
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "relations": {
-        "group": "bread"
       }
     },
     {
@@ -9136,7 +8977,7 @@
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA SR28 (NDB No: 18085)",
+      "source": "USDA SR28 (NDB No: 18085), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "bread"
       }
@@ -10074,7 +9915,10 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
+        "cooked",
+        "dairy",
         "k1",
+        "k2",
         "processed",
         "sweetened"
       ],
@@ -10097,7 +9941,7 @@
           "gram_equivalent": 1186
         }
       ],
-      "source": "USDA SR28 (NDB No: 18304)",
+      "source": "USDA SR28 (NDB No: 18304), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "banana"
       }
@@ -11189,8 +11033,10 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
+        "dairy",
         "fast_food",
         "k1",
+        "k2",
         "processed"
       ],
       "portions": [
@@ -11212,7 +11058,7 @@
           "gram_equivalent": 6
         }
       ],
-      "source": "USDA SR28 (NDB No: 18927)",
+      "source": "USDA SR28 (NDB No: 18927), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "cookie"
       }
@@ -11588,7 +11434,9 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
-        "k1"
+        "dairy",
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -11609,7 +11457,7 @@
           "gram_equivalent": 399
         }
       ],
-      "source": "USDA SR28 (NDB No: 18953)",
+      "source": "USDA SR28 (NDB No: 18953), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "bread"
       }
@@ -11802,7 +11650,9 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
-        "k1"
+        "dairy",
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -11817,7 +11667,7 @@
           "gram_equivalent": 48
         }
       ],
-      "source": "USDA SR28 (NDB No: 18972)",
+      "source": "USDA SR28 (NDB No: 18972), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "bread"
       }
@@ -12908,7 +12758,7 @@
           "gram_equivalent": 137
         }
       ],
-      "source": "USDA SR28 (NDB No: 20083)",
+      "source": "USDA SR28 (NDB No: 20083), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "bread"
       }
@@ -17682,6 +17532,288 @@
       "source": "Ciqual 2025 (Food Code: 13161)",
       "relations": {
         "group": "cereal"
+      }
+    },
+    {
+      "id": "muffins_oat_bran",
+      "category": "grains_bakery",
+      "tags": [
+        "bakery",
+        "fast_food",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.7,
+          "gram_equivalent": 28
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.2,
+          "gram_equivalent": 17
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 18283)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "granola_bars_hard_plain",
+      "category": "grains_bakery",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.1,
+          "gram_equivalent": 21
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.1,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 19015)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "granola_bars_hard_peanut",
+      "category": "grains_bakery",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 19019)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "granola_bars_soft_uncoated_choc_chip",
+      "category": "grains_bakery",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.1,
+          "gram_equivalent": 43
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.6,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 19404)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "oat_bran_raw",
+      "category": "grains_bakery",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.0,
+          "gram_equivalent": 94
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 20033), Ciqual 2025 (Food Code: 9640)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "lasagna_chs_frz_prep",
+      "category": "grains_bakery",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 22.1,
+          "gram_equivalent": 243
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22910)",
+      "relations": {
+        "group": "pasta"
+      }
+    },
+    {
+      "id": "lasagna_w_meat_sau_frz_entree",
+      "category": "grains_bakery",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 8.6,
+          "gram_equivalent": 134
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 7.4,
+          "gram_equivalent": 115
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22916)",
+      "relations": {
+        "group": "pasta"
+      }
+    },
+    {
+      "id": "lasagna_veg_frz_bkd",
+      "category": "grains_bakery",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 17.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 40.4,
+          "gram_equivalent": 227
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 40.2,
+          "gram_equivalent": 226
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22956)",
+      "relations": {
+        "group": "pasta"
+      }
+    },
+    {
+      "id": "lasagna_w_meat_sau_frz_prep",
+      "category": "grains_bakery",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 8.6,
+          "gram_equivalent": 123
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 8.0,
+          "gram_equivalent": 114
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 22977)",
+      "relations": {
+        "group": "pasta"
+      }
+    },
+    {
+      "id": "lasagna_or_cannelloni_with_vegetables_prepacked",
+      "category": "grains_bakery",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25131)",
+      "relations": {
+        "group": "pasta"
       }
     }
   ]

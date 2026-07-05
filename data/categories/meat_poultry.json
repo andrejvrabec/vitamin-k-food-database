@@ -173,31 +173,6 @@
       }
     },
     {
-      "id": "chicken_broilers_or_fryers_light_meat_me",
-      "category": "meat_poultry",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.1,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
       "id": "chicken_broilers_or_fryers_meat_and_skin",
       "category": "meat_poultry",
       "portions": [
@@ -1132,7 +1107,7 @@
           "gram_equivalent": 147
         }
       ],
-      "source": "USDA SR28 (NDB No: 05039)",
+      "source": "USDA SR28 (NDB No: 05039), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "chicken"
       }
@@ -9199,6 +9174,255 @@
         }
       ],
       "source": "Ciqual 2025 (Food Code: 42605), Ciqual 2025 (Food Code: 42603), Ciqual 2025 (Food Code: 42604)"
+    },
+    {
+      "id": "duck_domesticated_meat_only_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.3,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 3.8,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05142)",
+      "relations": {
+        "group": "other_poultry"
+      }
+    },
+    {
+      "id": "goose_domesticated_meatskn_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 7.1,
+          "gram_equivalent": 140
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 9.6,
+          "gram_equivalent": 188
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 05147)",
+      "relations": {
+        "group": "other_poultry"
+      }
+    },
+    {
+      "id": "salami_ckd_bf",
+      "category": "meat_poultry",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 26
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 07068)",
+      "relations": {
+        "group": "other_meat"
+      }
+    },
+    {
+      "id": "bison_ground_grass_fed_ckd",
+      "category": "meat_poultry",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17148)",
+      "relations": {
+        "group": "other_meat"
+      }
+    },
+    {
+      "id": "bison_ground_grass_fed_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 85
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17149)",
+      "relations": {
+        "group": "other_meat"
+      }
+    },
+    {
+      "id": "game_meat_bison_ln_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.4,
+          "gram_equivalent": 340
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.1,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17157)",
+      "relations": {
+        "group": "other_meat"
+      }
+    },
+    {
+      "id": "game_meat_goat_ckd_rstd",
+      "category": "meat_poultry",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.1,
+          "gram_equivalent": 340
+        },
+        {
+          "amount": 3.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 85
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 17169)",
+      "relations": {
+        "group": "other_meat"
+      }
+    },
+    {
+      "id": "duck_meat_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.4,
+          "vitamin_k1_100g_mcg": 2.8,
+          "vitamin_k2_100g_mcg": 3.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36201)",
+      "relations": {
+        "group": "other_poultry"
+      }
+    },
+    {
+      "id": "goose_meat_raw",
+      "category": "meat_poultry",
+      "tags": [
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 35.1,
+          "vitamin_k1_100g_mcg": 4.1,
+          "vitamin_k2_100g_mcg": 31.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36500)",
+      "relations": {
+        "group": "other_poultry"
+      }
     }
   ]
 }

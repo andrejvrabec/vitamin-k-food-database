@@ -206,127 +206,6 @@
       }
     },
     {
-      "id": "cloves_ground",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 141.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 9.2,
-          "gram_equivalent": 6
-        },
-        {
-          "amount": 1.0,
-          "unit": "tsp",
-          "vitamin_k_mcg": 3.0,
-          "gram_equivalent": 2
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 02011)",
-      "relations": {
-        "group": "other_herbs_spices"
-      }
-    },
-    {
-      "id": "coriander_leaf_dried",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1359.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 24.5,
-          "gram_equivalent": 1
-        },
-        {
-          "amount": 1.0,
-          "unit": "tsp",
-          "vitamin_k_mcg": 8.2,
-          "gram_equivalent": 0
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 02012)",
-      "relations": {
-        "group": "other_herbs_spices"
-      }
-    },
-    {
-      "id": "cumin_seed",
-      "category": "other",
-      "tags": [
-        "k1",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 6
-        },
-        {
-          "amount": 1.0,
-          "unit": "tsp",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 2
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 02014)",
-      "relations": {
-        "group": "other_herbs_spices"
-      }
-    },
-    {
-      "id": "ginger_ground",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 5
-        },
-        {
-          "amount": 1.0,
-          "unit": "tsp",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 1
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 02021)",
-      "relations": {
-        "group": "ginger"
-      }
-    },
-    {
       "id": "paprika",
       "category": "other",
       "tags": [
@@ -1358,30 +1237,6 @@
       "source": "USDA SR28 (NDB No: 03964)"
     },
     {
-      "id": "salad_drsng_kraft_mayo_lt_mayo",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 155.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 23.3,
-          "gram_equivalent": 15
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 04011)",
-      "relations": {
-        "group": "mayonnaise"
-      }
-    },
-    {
       "id": "salad_drsng_russian_drsng",
       "category": "other",
       "tags": [
@@ -1436,36 +1291,6 @@
       "source": "USDA SR28 (NDB No: 04017)"
     },
     {
-      "id": "salad_drsng_mayo_type_reg_wsalt",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 42.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 6.2,
-          "gram_equivalent": 14
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 99.2,
-          "gram_equivalent": 235
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 04018)",
-      "relations": {
-        "group": "mayonnaise"
-      }
-    },
-    {
       "id": "salad_drsng_russian_drsng_lo_cal",
       "category": "other",
       "tags": [
@@ -1491,100 +1316,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 04022)"
-    },
-    {
-      "id": "salad_drsng_mayo_reg",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 163.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 22.5,
-          "gram_equivalent": 13
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 358.6,
-          "gram_equivalent": 220
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 04025)",
-      "relations": {
-        "group": "mayonnaise"
-      }
-    },
-    {
-      "id": "salad_drsng_mayo_imitn_soybn",
-      "category": "other",
-      "tags": [
-        "k1",
-        "legumes",
-        "soy"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 42.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 101.3,
-          "gram_equivalent": 240
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 6.3,
-          "gram_equivalent": 15
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 04027)",
-      "relations": {
-        "group": "mayonnaise"
-      }
-    },
-    {
-      "id": "salad_drsng_mayo_imitn_soybn_wochol",
-      "category": "other",
-      "tags": [
-        "k1",
-        "legumes",
-        "soy"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 42.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 14
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 95.0,
-          "gram_equivalent": 225
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 04029)",
-      "relations": {
-        "group": "mayonnaise"
-      }
     },
     {
       "id": "salad_drsng_italian_drsng_comm_reg",
@@ -1975,66 +1706,6 @@
       }
     },
     {
-      "id": "duck_domesticated_meat_only_ckd_rstd",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.3,
-          "gram_equivalent": 140
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.8,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05142)",
-      "relations": {
-        "group": "other_poultry"
-      }
-    },
-    {
-      "id": "goose_domesticated_meatskn_ckd_rstd",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 7.1,
-          "gram_equivalent": 140
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 9.6,
-          "gram_equivalent": 188
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05147)",
-      "relations": {
-        "group": "other_poultry"
-      }
-    },
-    {
       "id": "chick_feet_boiled",
       "category": "other",
       "tags": [
@@ -2297,36 +1968,6 @@
       "source": "USDA SR28 (NDB No: 07043)"
     },
     {
-      "id": "salami_ckd_bf",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 26
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 07068)",
-      "relations": {
-        "group": "other_meat"
-      }
-    },
-    {
       "id": "oven_roasted_chick_breast_roll",
       "category": "other",
       "tags": [
@@ -2415,129 +2056,6 @@
       "source": "USDA SR28 (NDB No: 09020)"
     },
     {
-      "id": "avocados_raw_all_comm_var",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 21.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 31.5,
-          "gram_equivalent": 150
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 48.3,
-          "gram_equivalent": 230
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09037)",
-      "relations": {
-        "group": "avocado"
-      }
-    },
-    {
-      "id": "avocados_raw_california",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 21.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 48.3,
-          "gram_equivalent": 230
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 28.6,
-          "gram_equivalent": 136
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09038)",
-      "relations": {
-        "group": "avocado"
-      }
-    },
-    {
-      "id": "bananas_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 1.1,
-          "gram_equivalent": 225
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 150
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09040)",
-      "relations": {
-        "group": "banana"
-      }
-    },
-    {
-      "id": "bananas_dehyd_or_banana_pdr",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 100
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 6
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09041)",
-      "relations": {
-        "group": "banana"
-      }
-    },
-    {
       "id": "boysenberries_frz_unswtnd",
       "category": "other",
       "tags": [
@@ -2592,61 +2110,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 09059)"
-    },
-    {
-      "id": "cranberries_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.6,
-          "gram_equivalent": 110
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.1,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09078)",
-      "relations": {
-        "group": "cranberry"
-      }
-    },
-    {
-      "id": "cranberries_dried_swtnd",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.5,
-          "gram_equivalent": 40
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09079)",
-      "relations": {
-        "group": "cranberry"
-      }
     },
     {
       "id": "currants_redwhite_raw",
@@ -2831,30 +2294,6 @@
       "source": "USDA SR28 (NDB No: 09105)"
     },
     {
-      "id": "grapefruit_juc_white_frz_conc_unswtnd_undil",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 207
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09125)",
-      "relations": {
-        "group": "grapefruit"
-      }
-    },
-    {
       "id": "guavas_common_raw",
       "category": "other",
       "tags": [
@@ -2883,68 +2322,6 @@
       "source": "USDA SR28 (NDB No: 09139)"
     },
     {
-      "id": "kiwifruit_grn_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 40.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 72.5,
-          "gram_equivalent": 180
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 27.8,
-          "gram_equivalent": 69
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09148)",
-      "relations": {
-        "group": "kiwi"
-      }
-    },
-    {
-      "id": "limes_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 67
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 67
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09159)",
-      "relations": {
-        "group": "citrus"
-      }
-    },
-    {
       "id": "loganberries_frozen",
       "category": "other",
       "tags": [
@@ -2964,99 +2341,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 09167)"
-    },
-    {
-      "id": "melons_cantaloupe_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.4,
-          "gram_equivalent": 177
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.0,
-          "gram_equivalent": 160
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09181)",
-      "relations": {
-        "group": "melon"
-      }
-    },
-    {
-      "id": "melons_casaba_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.2,
-          "gram_equivalent": 170
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 41.0,
-          "gram_equivalent": 1640
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09183)",
-      "relations": {
-        "group": "melon"
-      }
-    },
-    {
-      "id": "melons_honeydew_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.1,
-          "gram_equivalent": 177
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.9,
-          "gram_equivalent": 170
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09184)",
-      "relations": {
-        "group": "melon"
-      }
     },
     {
       "id": "mulberries_raw",
@@ -3085,37 +2369,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 09190)"
-    },
-    {
-      "id": "nectarines_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 3.1,
-          "gram_equivalent": 143
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.8,
-          "gram_equivalent": 129
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09191)",
-      "relations": {
-        "group": "peach"
-      }
     },
     {
       "id": "olives_ripe_cnd",
@@ -3164,126 +2417,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 09195)"
-    },
-    {
-      "id": "orange_juc_cnd_unswtnd",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 249
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 31
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09207)",
-      "relations": {
-        "group": "orange"
-      }
-    },
-    {
-      "id": "orange_juc_frz_conc_unswtnd_undil",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 1.1,
-          "gram_equivalent": 284
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 35
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09214)",
-      "relations": {
-        "group": "orange"
-      }
-    },
-    {
-      "id": "orange_juc_frz_conc_unswtnd_dil_w3_volume_h2o",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 249
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 31
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09215)",
-      "relations": {
-        "group": "orange"
-      }
-    },
-    {
-      "id": "orange_grapefruit_juc_cnd_unswtnd",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 247
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 30
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09217)",
-      "relations": {
-        "group": "grapefruit"
-      }
     },
     {
       "id": "pineapple_raw_all_var",
@@ -3547,99 +2680,6 @@
       }
     },
     {
-      "id": "pomegranates_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 16.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 46.2,
-          "gram_equivalent": 282
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 14.3,
-          "gram_equivalent": 87
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09286)",
-      "relations": {
-        "group": "pomegranate"
-      }
-    },
-    {
-      "id": "raisins_golden_seedless",
-      "category": "other",
-      "tags": [
-        "k1",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.8,
-          "gram_equivalent": 165
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.1,
-          "gram_equivalent": 145
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09297)",
-      "relations": {
-        "group": "grape"
-      }
-    },
-    {
-      "id": "raisins_seedless",
-      "category": "other",
-      "tags": [
-        "k1",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.8,
-          "gram_equivalent": 165
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.1,
-          "gram_equivalent": 145
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09298)",
-      "relations": {
-        "group": "grape"
-      }
-    },
-    {
       "id": "rhubarb_raw",
       "category": "other",
       "tags": [
@@ -3766,37 +2806,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 09322)"
-    },
-    {
-      "id": "watermelon_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 154
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 152
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09326)",
-      "relations": {
-        "group": "melon"
-      }
     },
     {
       "id": "feijoa_raw",
@@ -4071,37 +3080,6 @@
       "source": "USDA SR28 (NDB No: 09437)"
     },
     {
-      "id": "kiwifruit_gold_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 10.2,
-          "gram_equivalent": 186
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.7,
-          "gram_equivalent": 86
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09445)",
-      "relations": {
-        "group": "kiwi"
-      }
-    },
-    {
       "id": "nance_frz_unswtnd",
       "category": "other",
       "tags": [
@@ -4148,30 +3126,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 09450)"
-    },
-    {
-      "id": "orange_pnappl_juc_blend",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 8.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 246
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09452)",
-      "relations": {
-        "group": "orange"
-      }
     },
     {
       "id": "amaranth_leaves_raw",
@@ -4411,115 +3365,6 @@
       "source": "USDA SR28 (NDB No: 11158)"
     },
     {
-      "id": "collards_raw",
-      "category": "other",
-      "tags": [
-        "cruciferous",
-        "k1",
-        "raw",
-        "affects_warfarin",
-        "affects_coagulation"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 437.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 157.4,
-          "gram_equivalent": 36
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11161), FDA Coumadin Prescribing Information",
-      "relations": {
-        "group": "kale"
-      }
-    },
-    {
-      "id": "collards_ckd_bld_drnd_wosalt",
-      "category": "other",
-      "tags": [
-        "cruciferous",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 406.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 772.5,
-          "gram_equivalent": 190
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11162)",
-      "relations": {
-        "group": "kale"
-      }
-    },
-    {
-      "id": "collards_frz_chopd_ckd_bld_drnd_wosalt",
-      "category": "other",
-      "tags": [
-        "cruciferous",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 623.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 1059.4,
-          "gram_equivalent": 170
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11164)",
-      "relations": {
-        "group": "kale"
-      }
-    },
-    {
-      "id": "coriander_leaves_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 310.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 12.4,
-          "gram_equivalent": 4
-        },
-        {
-          "amount": 9.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 62.0,
-          "gram_equivalent": 20
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11165)",
-      "relations": {
-        "group": "other_herbs_spices"
-      }
-    },
-    {
       "id": "dandelion_grns_ckd_bld_drnd_wosalt",
       "category": "other",
       "tags": [
@@ -4590,37 +3435,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11210)"
-    },
-    {
-      "id": "ginger_root_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "tsp",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 24
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11216)",
-      "relations": {
-        "group": "ginger"
-      }
     },
     {
       "id": "gourd_dishcloth_raw",
@@ -4698,61 +3512,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11226)"
-    },
-    {
-      "id": "kohlrabi_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 135
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 16
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11241)",
-      "relations": {
-        "group": "cabbage"
-      }
-    },
-    {
-      "id": "kohlrabi_ckd_bld_drnd_wosalt",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 165
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11242)",
-      "relations": {
-        "group": "cabbage"
-      }
     },
     {
       "id": "lambsquarters_ckd_bld_drnd_wosalt",
@@ -5684,56 +4443,6 @@
       "source": "USDA SR28 (NDB No: 11767)"
     },
     {
-      "id": "collards_ckd_bld_drnd_wsalt",
-      "category": "other",
-      "tags": [
-        "cruciferous",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 406.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 772.5,
-          "gram_equivalent": 190
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11768)",
-      "relations": {
-        "group": "kale"
-      }
-    },
-    {
-      "id": "collards_frz_chopd_ckd_bld_drnd_wsalt",
-      "category": "other",
-      "tags": [
-        "cruciferous",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 623.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 1059.4,
-          "gram_equivalent": 170
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11769)",
-      "relations": {
-        "group": "kale"
-      }
-    },
-    {
       "id": "dandelion_grns_ckd_bld_drnd_wsalt",
       "category": "other",
       "tags": [
@@ -5823,30 +4532,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11786), USDA SR28 (NDB No: 11223)"
-    },
-    {
-      "id": "kohlrabi_ckd_bld_drnd_wsalt",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 165
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11793)",
-      "relations": {
-        "group": "cabbage"
-      }
     },
     {
       "id": "lambs_quarters_ckd_bld_drnd_wsalt",
@@ -6958,68 +5643,6 @@
       "source": "USDA SR28 (NDB No: 14017)"
     },
     {
-      "id": "alcoholic_bev_wine_table_red",
-      "category": "other",
-      "tags": [
-        "beverages",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 29
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 147
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14096)",
-      "relations": {
-        "group": "alcohol"
-      }
-    },
-    {
-      "id": "alcoholic_bev_wine_table_white",
-      "category": "other",
-      "tags": [
-        "beverages",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 29
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 147
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14106)",
-      "relations": {
-        "group": "alcohol"
-      }
-    },
-    {
       "id": "mixed_veg_fruit_juc_drk_w_added_nutr",
       "category": "other",
       "tags": [
@@ -7039,94 +5662,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 14119)"
-    },
-    {
-      "id": "cocoa_mix_pdr",
-      "category": "other",
-      "tags": [
-        "chocolate",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "tsp",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14192)",
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
-      "id": "cocoa_mix_pdr_prep_w_h2o",
-      "category": "other",
-      "tags": [
-        "chocolate",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 206
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 34
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14194)",
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
-      "id": "cocoa_mix_no_sugar_added_pdr",
-      "category": "other",
-      "tags": [
-        "chocolate",
-        "k1",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 19
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 15
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14196)",
-      "relations": {
-        "group": "candy"
-      }
     },
     {
       "id": "coffee_brewed_from_grounds_prep_w_tap_h2o_dec",
@@ -7694,67 +6229,6 @@
       "source": "USDA SR28 (NDB No: 14347)"
     },
     {
-      "id": "cocoa_mix_w_asprt_pdr_prep_w_h2o",
-      "category": "other",
-      "tags": [
-        "chocolate",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 192
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 32
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14390)",
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
-      "id": "alcoholic_bev_liqueur_coffee_wcrm_34_proof",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 31
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 47
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14415)",
-      "relations": {
-        "group": "alcohol"
-      }
-    },
-    {
       "id": "dairy_drk_mix_choc_red_cal_w_low_calorie_swee",
       "category": "other",
       "tags": [
@@ -7795,36 +6269,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 14423)"
-    },
-    {
-      "id": "orange_flavor_drk_brkfst_type_wpulp_frz_conc",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 35
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 424
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14424)",
-      "relations": {
-        "group": "orange"
-      }
     },
     {
       "id": "orange_drk_brkfst_type_w_juc_pulp_frz_conc",
@@ -7882,37 +6326,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 14460)"
-    },
-    {
-      "id": "cocoa_mix_w_aspt_lo_cal_pdr_w_add_ca_p_wo_add",
-      "category": "other",
-      "tags": [
-        "chocolate",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 15
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 19
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14538)",
-      "relations": {
-        "group": "candy"
-      }
     },
     {
       "id": "lemonade_frz_conc_pink",
@@ -10778,61 +9191,6 @@
       "source": "USDA SR28 (NDB No: 17147)"
     },
     {
-      "id": "bison_ground_grass_fed_ckd",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.1,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 17148)",
-      "relations": {
-        "group": "other_meat"
-      }
-    },
-    {
-      "id": "bison_ground_grass_fed_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 17149)",
-      "relations": {
-        "group": "other_meat"
-      }
-    },
-    {
       "id": "game_meat_beaver_ckd_rstd",
       "category": "other",
       "tags": [
@@ -10858,36 +9216,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 17151)"
-    },
-    {
-      "id": "game_meat_bison_ln_ckd_rstd",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.4,
-          "gram_equivalent": 340
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.1,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 17157)",
-      "relations": {
-        "group": "other_meat"
-      }
     },
     {
       "id": "game_meat_boar_wild_ckd_rstd",
@@ -10942,36 +9270,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 17163)"
-    },
-    {
-      "id": "game_meat_goat_ckd_rstd",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.1,
-          "gram_equivalent": 340
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 17169)",
-      "relations": {
-        "group": "other_meat"
-      }
     },
     {
       "id": "game_meat_moose_ckd_rstd",
@@ -12842,40 +11140,6 @@
       "source": "USDA SR28 (NDB No: 18272)"
     },
     {
-      "id": "muffins_oat_bran",
-      "category": "other",
-      "tags": [
-        "bakery",
-        "fast_food",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 13.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.7,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.2,
-          "gram_equivalent": 17
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18283)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
       "id": "rolls_dinner_pln_comm_prepared",
       "category": "other",
       "tags": [
@@ -13658,61 +11922,6 @@
       "source": "USDA SR28 (NDB No: 19014)",
       "relations": {
         "group": "bread"
-      }
-    },
-    {
-      "id": "granola_bars_hard_plain",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 14.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.1,
-          "gram_equivalent": 21
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.1,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19015)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "granola_bars_hard_peanut",
-      "category": "other",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19019)",
-      "relations": {
-        "group": "cereal"
       }
     },
     {
@@ -14557,36 +12766,6 @@
       }
     },
     {
-      "id": "granola_bars_soft_uncoated_choc_chip",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 16.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.1,
-          "gram_equivalent": 43
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.6,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19404)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
       "id": "frosting_glaz_chc_prep_frm_rcip_w_butr_nfsmi",
       "category": "other",
       "tags": [
@@ -14886,31 +13065,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 20032)"
-    },
-    {
-      "id": "oat_bran_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 3.0,
-          "gram_equivalent": 94
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 20033), Ciqual 2025 (Food Code: 9640)",
-      "relations": {
-        "group": "cereal"
-      }
     },
     {
       "id": "rye",
@@ -15219,31 +13373,6 @@
       "source": "USDA SR28 (NDB No: 21090)"
     },
     {
-      "id": "fast_foods_hamburger_single_reg_patty_w_condm",
-      "category": "other",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.8,
-          "gram_equivalent": 97
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21108)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
       "id": "fast_foods_coleslaw",
       "category": "other",
       "tags": [
@@ -15293,31 +13422,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 21129)"
-    },
-    {
-      "id": "fast_foods_hamburger_lrg_single_patty_wcondmn",
-      "category": "other",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 8.6,
-          "gram_equivalent": 171
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21202)",
-      "relations": {
-        "group": "beef"
-      }
     },
     {
       "id": "fast_foods_chick_breaded_fried_bnless_pieces",
@@ -15397,81 +13501,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 21238)"
-    },
-    {
-      "id": "wendys_classic_single_hamburger_no_chs",
-      "category": "other",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 9.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 19.6,
-          "gram_equivalent": 218
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21239)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
-      "id": "wendys_classic_single_hamburger_w_chs",
-      "category": "other",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 9.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 21.9,
-          "gram_equivalent": 236
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21240)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
-      "id": "wendys_jr_hamburger_w_chs",
-      "category": "other",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.4,
-          "gram_equivalent": 129
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21242), USDA SR28 (NDB No: 21241)",
-      "relations": {
-        "group": "beef"
-      }
     },
     {
       "id": "wendys_classic_double_w_chs",
@@ -16412,66 +14441,6 @@
       }
     },
     {
-      "id": "lasagna_chs_frz_prep",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 9.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 22.1,
-          "gram_equivalent": 243
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.6,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 22910)",
-      "relations": {
-        "group": "pasta"
-      }
-    },
-    {
-      "id": "lasagna_w_meat_sau_frz_entree",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 8.6,
-          "gram_equivalent": 134
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.4,
-          "gram_equivalent": 115
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 22916)",
-      "relations": {
-        "group": "pasta"
-      }
-    },
-    {
       "id": "burrito_bf_bean_frz",
       "category": "other",
       "tags": [
@@ -16535,36 +14504,6 @@
       }
     },
     {
-      "id": "lasagna_veg_frz_bkd",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 17.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 40.4,
-          "gram_equivalent": 227
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 40.2,
-          "gram_equivalent": 226
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 22956)",
-      "relations": {
-        "group": "pasta"
-      }
-    },
-    {
       "id": "chili_w_bns_microwavable_bowls",
       "category": "other",
       "tags": [
@@ -16595,36 +14534,6 @@
       }
     },
     {
-      "id": "lasagna_w_meat_sau_frz_prep",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 8.6,
-          "gram_equivalent": 123
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 8.0,
-          "gram_equivalent": 114
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 22977)",
-      "relations": {
-        "group": "pasta"
-      }
-    },
-    {
       "id": "formbar_marssnack_snickers_marathonprotperfba",
       "category": "other",
       "tags": [
@@ -16644,36 +14553,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 25015)"
-    },
-    {
-      "id": "form_bar_mars_snack_us_snickers_marathon_ener",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 55
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 44
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 25016)",
-      "relations": {
-        "group": "snack"
-      }
     },
     {
       "id": "pretzels_soft_unsalted",
@@ -16746,30 +14625,6 @@
       "source": "USDA SR28 (NDB No: 25053)"
     },
     {
-      "id": "snack_gran_bar_general_mills_nature_valley_w",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.4,
-          "gram_equivalent": 35
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 25054)",
-      "relations": {
-        "group": "snack"
-      }
-    },
-    {
       "id": "snac_grano_bar_gener_mills_natur_valle_chewy",
       "category": "other",
       "tags": [
@@ -16783,114 +14638,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 25055)"
-    },
-    {
-      "id": "dip_salsa_con_queso_chs_salsa_med",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 17.6
-        },
-        {
-          "amount": 2.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 5.3,
-          "gram_equivalent": 30
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 22.0,
-          "gram_equivalent": 125
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 27052)",
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
-      "id": "dip_old_el_paso_chs_n_salsa_med",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 8.1
-        },
-        {
-          "amount": 2.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 2.6,
-          "gram_equivalent": 32
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 10.0,
-          "gram_equivalent": 124
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 27053)",
-      "relations": {
-        "group": "sauce"
-      }
-    },
-    {
-      "id": "dip_tostitos_salsa_con_queso_med",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 2.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 30
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.9,
-          "gram_equivalent": 125
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 27054)",
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
-      "id": "melon_banana",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.9
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 35132)",
-      "relations": {
-        "group": "banana"
-      }
     },
     {
       "id": "cornmeal_white",
@@ -18113,38 +15860,6 @@
       "source": "USDA SR28 (NDB No: 43021)"
     },
     {
-      "id": "beverage_milkshake_mix_dry_not_choc",
-      "category": "other",
-      "tags": [
-        "beverages",
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 21
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 43078)",
-      "relations": {
-        "group": "beverages"
-      }
-    },
-    {
       "id": "pretzels_soft",
       "category": "other",
       "tags": [
@@ -18241,37 +15956,6 @@
       "source": "USDA SR28 (NDB No: 43146)"
     },
     {
-      "id": "beverage_inst_brkfst_pdr_choc_not_recon",
-      "category": "other",
-      "tags": [
-        "beverages",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 90.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 6.7,
-          "gram_equivalent": 7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 33.3,
-          "gram_equivalent": 37
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 43205)",
-      "relations": {
-        "group": "beverages"
-      }
-    },
-    {
       "id": "salad_drsng_bttrmlk_lite",
       "category": "other",
       "tags": [
@@ -18297,38 +15981,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 43215)"
-    },
-    {
-      "id": "beverage_inst_brkfst_pdr_choc_sugar_free_not",
-      "category": "other",
-      "tags": [
-        "beverages",
-        "k1",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 120.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 6.7,
-          "gram_equivalent": 5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 24.0,
-          "gram_equivalent": 20
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 43260)",
-      "relations": {
-        "group": "beverages"
-      }
     },
     {
       "id": "frozen_novelties_ice_crm_type_sundae_prepacka",
@@ -18859,60 +16511,6 @@
       "source": "USDA SR28 (NDB No: 93600)"
     },
     {
-      "id": "tea_green_brewed",
-      "category": "other",
-      "tags": [
-        "beverages",
-        "k1",
-        "affects_warfarin",
-        "affects_coagulation"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 9.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 23.3,
-          "gram_equivalent": 240
-        }
-      ],
-      "source": "USDA FoodData Central, FDA Coumadin Prescribing Information",
-      "relations": {
-        "group": "tea"
-      }
-    },
-    {
-      "id": "chamomile_tea",
-      "category": "other",
-      "tags": [
-        "beverages",
-        "k1",
-        "affects_warfarin",
-        "affects_coagulation"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 240
-        }
-      ],
-      "source": "USDA FoodData Central, MSKCC About Herbs",
-      "relations": {
-        "group": "tea"
-      }
-    },
-    {
       "id": "seaweed_kelp",
       "category": "other",
       "tags": [
@@ -19090,24 +16688,6 @@
       "source": "Ciqual 2025 (Food Code: 25590)"
     },
     {
-      "id": "lasagna_or_cannelloni_with_vegetables_prepacked",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.4
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 25131)",
-      "relations": {
-        "group": "pasta"
-      }
-    },
-    {
       "id": "soy_based_minced_meat_imitate_prepacked",
       "category": "other",
       "tags": [
@@ -19181,25 +16761,6 @@
       }
     },
     {
-      "id": "cheeseburger_from_fast_food",
-      "category": "other",
-      "tags": [
-        "dairy",
-        "k1",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 15.2,
-          "vitamin_k1_100g_mcg": 12.3,
-          "vitamin_k2_100g_mcg": 2.93
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 25414)"
-    },
-    {
       "id": "vol_au_vent_with_meatpoultryquenelle",
       "category": "other",
       "tags": [
@@ -19214,25 +16775,6 @@
         }
       ],
       "source": "Ciqual 2025 (Food Code: 25412)"
-    },
-    {
-      "id": "avocado_flesh_without_skin_pitted_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 14.5
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 13004)",
-      "relations": {
-        "group": "avocado"
-      }
     },
     {
       "id": "chayote_raw",
@@ -19370,29 +16912,6 @@
       "source": "Ciqual 2025 (Food Code: 20168)",
       "relations": {
         "group": "pepper"
-      }
-    },
-    {
-      "id": "snow_pea_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "legumes",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 25.0
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 20173)",
-      "relations": {
-        "group": "peas",
-        "related_ids": [
-          "snow_pea_cooked"
-        ]
       }
     },
     {
@@ -19624,49 +17143,6 @@
         }
       ],
       "source": "Ciqual 2025 (Food Code: 20156)"
-    },
-    {
-      "id": "snow_pea_boiledcooked_in_water",
-      "category": "other",
-      "tags": [
-        "cooked",
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.9
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 20216)",
-      "relations": {
-        "group": "peas"
-      }
-    },
-    {
-      "id": "snow_pea_cooked",
-      "category": "other",
-      "tags": [
-        "cooked",
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 30.2
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 20243)",
-      "relations": {
-        "group": "peas",
-        "related_ids": [
-          "snow_pea_raw"
-        ]
-      }
     },
     {
       "id": "vegetables_3_4_types_mashed",
@@ -19950,46 +17426,6 @@
       "source": "Ciqual 2025 (Food Code: 20503)",
       "relations": {
         "group": "beans"
-      }
-    },
-    {
-      "id": "split_pea_boiledcooked_in_water",
-      "category": "other",
-      "tags": [
-        "cooked",
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.5
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 20506)",
-      "relations": {
-        "group": "peas"
-      }
-    },
-    {
-      "id": "chick_pea_boiledcooked_in_water",
-      "category": "other",
-      "tags": [
-        "cooked",
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.5
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 20507)",
-      "relations": {
-        "group": "peas"
       }
     },
     {
@@ -20439,25 +17875,6 @@
       "source": "Ciqual 2025 (Food Code: 13019)"
     },
     {
-      "id": "mirabelle_plum_pitted_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 13027)",
-      "relations": {
-        "group": "plum"
-      }
-    },
-    {
       "id": "rhubarb_stalk_raw",
       "category": "other",
       "tags": [
@@ -20504,25 +17921,6 @@
         }
       ],
       "source": "Ciqual 2025 (Food Code: 13083)"
-    },
-    {
-      "id": "plum_flesh_and_skin_pitted_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.4
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 13100)",
-      "relations": {
-        "group": "plum"
-      }
     },
     {
       "id": "fruit_raw_average",
@@ -20604,79 +18002,6 @@
         }
       ],
       "source": "Ciqual 2025 (Food Code: 13011)"
-    },
-    {
-      "id": "prune_pitted",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 12.8
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 13042)",
-      "relations": {
-        "group": "plum"
-      }
-    },
-    {
-      "id": "raisin",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 12.6
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 13046)",
-      "relations": {
-        "group": "grape"
-      }
-    },
-    {
-      "id": "tropical_fruit_mix_sweetened_for_snack_dried",
-      "category": "other",
-      "tags": [
-        "k1",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.5
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 13051)",
-      "relations": {
-        "group": "snack"
-      }
-    },
-    {
-      "id": "banana_flesh_without_skin_dried",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 13089)",
-      "relations": {
-        "group": "banana"
-      }
     },
     {
       "id": "goji_berry_dried",
@@ -21411,50 +18736,6 @@
       "source": "Ciqual 2025 (Food Code: 36050)"
     },
     {
-      "id": "duck_meat_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "k2",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.4,
-          "vitamin_k1_100g_mcg": 2.8,
-          "vitamin_k2_100g_mcg": 3.6
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 36201)",
-      "relations": {
-        "group": "other_poultry"
-      }
-    },
-    {
-      "id": "goose_meat_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "k2",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 35.1,
-          "vitamin_k1_100g_mcg": 4.1,
-          "vitamin_k2_100g_mcg": 31.0
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 36500)",
-      "relations": {
-        "group": "other_poultry"
-      }
-    },
-    {
       "id": "duck_terrine",
       "category": "other",
       "tags": [
@@ -21911,24 +19192,6 @@
       }
     },
     {
-      "id": "plant_based_drink_prepacked_average",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.0
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 18112)",
-      "relations": {
-        "group": "beverages"
-      }
-    },
-    {
       "id": "soy_drink_prepacked_average",
       "category": "other",
       "tags": [
@@ -22082,24 +19345,6 @@
         }
       ],
       "source": "Ciqual 2025 (Food Code: 31014)"
-    },
-    {
-      "id": "calisson_from_aix_en_provence_marzipan_and_candied_melon_sweet",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 31092)",
-      "relations": {
-        "group": "melon"
-      }
     },
     {
       "id": "other_jam_reduced_sugar",
@@ -22392,24 +19637,6 @@
       "source": "Ciqual 2025 (Food Code: 23008)",
       "relations": {
         "group": "pastry"
-      }
-    },
-    {
-      "id": "rum_baba_from_bakery",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.9
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 23021)",
-      "relations": {
-        "group": "alcohol"
       }
     },
     {
@@ -22888,24 +20115,6 @@
       "source": "Ciqual 2025 (Food Code: 11049)",
       "relations": {
         "group": "pepper"
-      }
-    },
-    {
-      "id": "cloves",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 142.0
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 11052)",
-      "relations": {
-        "group": "other_herbs_spices"
       }
     },
     {

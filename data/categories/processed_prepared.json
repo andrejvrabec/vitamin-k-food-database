@@ -1,32 +1,6 @@
 {
   "data": [
     {
-      "id": "alcoholic_beverage_wine_table_white",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "ml",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 29
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "beverages",
-        "k1",
-        "processed"
-      ],
-      "relations": {
-        "group": "alcohol"
-      }
-    },
-    {
       "id": "applesauce_canned_sweetened_without_salt",
       "category": "processed_prepared",
       "portions": [
@@ -606,31 +580,6 @@
       }
     },
     {
-      "id": "chocolate_flavored_hazelnut_spread",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "chocolate",
-        "k1"
-      ],
-      "relations": {
-        "group": "margarine"
-      }
-    },
-    {
       "id": "cookies_molasses",
       "category": "processed_prepared",
       "portions": [
@@ -911,35 +860,6 @@
       ],
       "relations": {
         "group": "candy"
-      }
-    },
-    {
-      "id": "digiorno_pizza_cheese_topping_rising_cru",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 12.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 12.6,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "dairy",
-        "fast_food",
-        "high_sodium",
-        "k2",
-        "processed",
-        "sweetened"
-      ],
-      "relations": {
-        "group": "cheese"
       }
     },
     {
@@ -12719,7 +12639,7 @@
           "gram_equivalent": 37
         }
       ],
-      "source": "USDA SR28 (NDB No: 19125)",
+      "source": "USDA SR28 (NDB No: 19125), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "candy"
       }
@@ -15269,9 +15189,11 @@
       "category": "processed_prepared",
       "tags": [
         "bakery",
+        "dairy",
         "fast_food",
         "high_sodium",
         "k1",
+        "k2",
         "processed",
         "sweetened"
       ],
@@ -15294,7 +15216,7 @@
           "gram_equivalent": 729
         }
       ],
-      "source": "USDA SR28 (NDB No: 21474)",
+      "source": "USDA SR28 (NDB No: 21474), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "pastry"
       }
@@ -20139,6 +20061,907 @@
       "source": "Ciqual 2025 (Food Code: 20253)",
       "relations": {
         "group": "milk"
+      }
+    },
+    {
+      "id": "salad_drsng_kraft_mayo_lt_mayo",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 155.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 23.3,
+          "gram_equivalent": 15
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 04011)",
+      "relations": {
+        "group": "mayonnaise"
+      }
+    },
+    {
+      "id": "salad_drsng_mayo_type_reg_wsalt",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 42.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 6.2,
+          "gram_equivalent": 14
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 99.2,
+          "gram_equivalent": 235
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 04018)",
+      "relations": {
+        "group": "mayonnaise"
+      }
+    },
+    {
+      "id": "salad_drsng_mayo_reg",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 163.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 22.5,
+          "gram_equivalent": 13
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 358.6,
+          "gram_equivalent": 220
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 04025)",
+      "relations": {
+        "group": "mayonnaise"
+      }
+    },
+    {
+      "id": "salad_drsng_mayo_imitn_soybn",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 42.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 101.3,
+          "gram_equivalent": 240
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 6.3,
+          "gram_equivalent": 15
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 04027)",
+      "relations": {
+        "group": "mayonnaise"
+      }
+    },
+    {
+      "id": "salad_drsng_mayo_imitn_soybn_wochol",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 42.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 6.0,
+          "gram_equivalent": 14
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 95.0,
+          "gram_equivalent": 225
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 04029)",
+      "relations": {
+        "group": "mayonnaise"
+      }
+    },
+    {
+      "id": "alcoholic_bev_wine_table_red",
+      "category": "processed_prepared",
+      "tags": [
+        "beverages",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 29
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 147
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14096)",
+      "relations": {
+        "group": "alcohol"
+      }
+    },
+    {
+      "id": "alcoholic_bev_wine_table_white",
+      "category": "processed_prepared",
+      "tags": [
+        "beverages",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 29
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 147
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14106), USDA Database for Standard Reference Legacy (2018)",
+      "relations": {
+        "group": "alcohol"
+      }
+    },
+    {
+      "id": "cocoa_mix_pdr",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "vitamin_k_mcg": 0.3,
+          "gram_equivalent": 28
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14192)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "cocoa_mix_pdr_prep_w_h2o",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 206
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 34
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14194)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "cocoa_mix_no_sugar_added_pdr",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 19
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 15
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14196)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "cocoa_mix_w_asprt_pdr_prep_w_h2o",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 192
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 32
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14390)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "alcoholic_bev_liqueur_coffee_wcrm_34_proof",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 31
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 47
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14415)",
+      "relations": {
+        "group": "alcohol"
+      }
+    },
+    {
+      "id": "cocoa_mix_w_aspt_lo_cal_pdr_w_add_ca_p_wo_add",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.6,
+          "gram_equivalent": 15
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 19
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14538)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "fast_foods_hamburger_single_reg_patty_w_condm",
+      "category": "processed_prepared",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.8,
+          "gram_equivalent": 97
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21108)",
+      "relations": {
+        "group": "beef"
+      }
+    },
+    {
+      "id": "fast_foods_hamburger_lrg_single_patty_wcondmn",
+      "category": "processed_prepared",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 8.6,
+          "gram_equivalent": 171
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21202)",
+      "relations": {
+        "group": "beef"
+      }
+    },
+    {
+      "id": "wendys_classic_single_hamburger_no_chs",
+      "category": "processed_prepared",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 19.6,
+          "gram_equivalent": 218
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21239)",
+      "relations": {
+        "group": "beef"
+      }
+    },
+    {
+      "id": "wendys_classic_single_hamburger_w_chs",
+      "category": "processed_prepared",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 21.9,
+          "gram_equivalent": 236
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21240)",
+      "relations": {
+        "group": "beef"
+      }
+    },
+    {
+      "id": "wendys_jr_hamburger_w_chs",
+      "category": "processed_prepared",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 5.4,
+          "gram_equivalent": 129
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 21242), USDA SR28 (NDB No: 21241)",
+      "relations": {
+        "group": "beef"
+      }
+    },
+    {
+      "id": "form_bar_mars_snack_us_snickers_marathon_ener",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.0,
+          "gram_equivalent": 55
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 44
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 25016)",
+      "relations": {
+        "group": "snack"
+      }
+    },
+    {
+      "id": "snack_gran_bar_general_mills_nature_valley_w",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.4,
+          "gram_equivalent": 35
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 25054)",
+      "relations": {
+        "group": "snack"
+      }
+    },
+    {
+      "id": "dip_salsa_con_queso_chs_salsa_med",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 17.6
+        },
+        {
+          "amount": 2.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 5.3,
+          "gram_equivalent": 30
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 22.0,
+          "gram_equivalent": 125
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 27052)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "dip_old_el_paso_chs_n_salsa_med",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.1
+        },
+        {
+          "amount": 2.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 2.6,
+          "gram_equivalent": 32
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 10.0,
+          "gram_equivalent": 124
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 27053)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "dip_tostitos_salsa_con_queso_med",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        },
+        {
+          "amount": 2.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 30
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.9,
+          "gram_equivalent": 125
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 27054)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "beverage_milkshake_mix_dry_not_choc",
+      "category": "processed_prepared",
+      "tags": [
+        "beverages",
+        "dairy",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 21
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43078)",
+      "relations": {
+        "group": "beverages"
+      }
+    },
+    {
+      "id": "beverage_inst_brkfst_pdr_choc_not_recon",
+      "category": "processed_prepared",
+      "tags": [
+        "beverages",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 90.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 6.7,
+          "gram_equivalent": 7
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 33.3,
+          "gram_equivalent": 37
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43205)",
+      "relations": {
+        "group": "beverages"
+      }
+    },
+    {
+      "id": "beverage_inst_brkfst_pdr_choc_sugar_free_not",
+      "category": "processed_prepared",
+      "tags": [
+        "beverages",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 120.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 6.7,
+          "gram_equivalent": 5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 24.0,
+          "gram_equivalent": 20
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 43260)",
+      "relations": {
+        "group": "beverages"
+      }
+    },
+    {
+      "id": "tea_green_brewed",
+      "category": "processed_prepared",
+      "tags": [
+        "beverages",
+        "k1",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.7
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 23.3,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA FoodData Central, FDA Coumadin Prescribing Information",
+      "relations": {
+        "group": "tea"
+      }
+    },
+    {
+      "id": "chamomile_tea",
+      "category": "processed_prepared",
+      "tags": [
+        "beverages",
+        "k1",
+        "affects_warfarin",
+        "affects_coagulation"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 240
+        }
+      ],
+      "source": "USDA FoodData Central, MSKCC About Herbs",
+      "relations": {
+        "group": "tea"
+      }
+    },
+    {
+      "id": "cheeseburger_from_fast_food",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 15.2,
+          "vitamin_k1_100g_mcg": 12.3,
+          "vitamin_k2_100g_mcg": 2.93
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25414)"
+    },
+    {
+      "id": "tropical_fruit_mix_sweetened_for_snack_dried",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13051)",
+      "relations": {
+        "group": "snack"
+      }
+    },
+    {
+      "id": "plant_based_drink_prepacked_average",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 18112)",
+      "relations": {
+        "group": "beverages"
+      }
+    },
+    {
+      "id": "calisson_from_aix_en_provence_marzipan_and_candied_melon_sweet",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31092)",
+      "relations": {
+        "group": "melon"
+      }
+    },
+    {
+      "id": "rum_baba_from_bakery",
+      "category": "processed_prepared",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23021)",
+      "relations": {
+        "group": "alcohol"
       }
     }
   ]

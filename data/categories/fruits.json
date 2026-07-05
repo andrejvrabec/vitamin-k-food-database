@@ -2698,7 +2698,7 @@
           "gram_equivalent": 66
         }
       ],
-      "source": "USDA SR28 (NDB No: 09279)",
+      "source": "USDA SR28 (NDB No: 09279), Ciqual 2025 (Food Code: 13100)",
       "relations": {
         "group": "plum"
       }
@@ -4300,9 +4300,9 @@
       "id": "avocado_raw",
       "category": "fruits",
       "tags": [
-        "raw",
+        "affects_warfarin",
         "k1",
-        "affects_warfarin"
+        "raw"
       ],
       "portions": [
         {
@@ -4317,7 +4317,7 @@
           "gram_equivalent": 230
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 171705), Stockley's Drug Interactions",
+      "source": "USDA FoodData Central (FDC ID: 171705), Stockley's Drug Interactions, Ciqual 2025 (Food Code: 13004)",
       "relations": {
         "group": "avocado"
       }
@@ -4460,25 +4460,6 @@
       "source": "Ciqual 2025 (Food Code: 13110)",
       "relations": {
         "group": "cherry"
-      }
-    },
-    {
-      "id": "cranberry_raw",
-      "category": "fruits",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.1
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 13113)",
-      "relations": {
-        "group": "cranberry"
       }
     },
     {
@@ -4869,6 +4850,814 @@
       "source": "Ciqual 2025 (Food Code: 24663)",
       "relations": {
         "group": "pear"
+      }
+    },
+    {
+      "id": "bananas_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.1,
+          "gram_equivalent": 225
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 150
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09040)",
+      "relations": {
+        "group": "banana"
+      }
+    },
+    {
+      "id": "bananas_dehyd_or_banana_pdr",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 2.0,
+          "gram_equivalent": 100
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 6
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09041)",
+      "relations": {
+        "group": "banana"
+      }
+    },
+    {
+      "id": "banana_flesh_without_skin_dried",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13089)",
+      "relations": {
+        "group": "banana"
+      }
+    },
+    {
+      "id": "avocados_raw_all_comm_var",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 21.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 31.5,
+          "gram_equivalent": 150
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 48.3,
+          "gram_equivalent": 230
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09037)",
+      "relations": {
+        "group": "avocado"
+      }
+    },
+    {
+      "id": "avocados_raw_california",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 21.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 48.3,
+          "gram_equivalent": 230
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 28.6,
+          "gram_equivalent": 136
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09038)",
+      "relations": {
+        "group": "avocado"
+      }
+    },
+    {
+      "id": "cranberries_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.6,
+          "gram_equivalent": 110
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.1,
+          "gram_equivalent": 100
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09078), Ciqual 2025 (Food Code: 13113)",
+      "relations": {
+        "group": "cranberry"
+      }
+    },
+    {
+      "id": "cranberries_dried_swtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.8
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 1.5,
+          "gram_equivalent": 40
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09079)",
+      "relations": {
+        "group": "cranberry"
+      }
+    },
+    {
+      "id": "grapefruit_juc_white_frz_conc_unswtnd_undil",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 207
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09125)",
+      "relations": {
+        "group": "grapefruit"
+      }
+    },
+    {
+      "id": "kiwifruit_grn_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 40.3
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 72.5,
+          "gram_equivalent": 180
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 27.8,
+          "gram_equivalent": 69
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09148)",
+      "relations": {
+        "group": "kiwi"
+      }
+    },
+    {
+      "id": "limes_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.6
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 67
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.4,
+          "gram_equivalent": 67
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09159)",
+      "relations": {
+        "group": "citrus"
+      }
+    },
+    {
+      "id": "melons_cantaloupe_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.4,
+          "gram_equivalent": 177
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.0,
+          "gram_equivalent": 160
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09181)",
+      "relations": {
+        "group": "melon"
+      }
+    },
+    {
+      "id": "melons_casaba_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.2,
+          "gram_equivalent": 170
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 41.0,
+          "gram_equivalent": 1640
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09183)",
+      "relations": {
+        "group": "melon"
+      }
+    },
+    {
+      "id": "melons_honeydew_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.1,
+          "gram_equivalent": 177
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 4.9,
+          "gram_equivalent": 170
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09184)",
+      "relations": {
+        "group": "melon"
+      }
+    },
+    {
+      "id": "nectarines_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 3.1,
+          "gram_equivalent": 143
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 2.8,
+          "gram_equivalent": 129
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09191)",
+      "relations": {
+        "group": "peach"
+      }
+    },
+    {
+      "id": "orange_juc_cnd_unswtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 249
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09207)",
+      "relations": {
+        "group": "orange"
+      }
+    },
+    {
+      "id": "orange_juc_frz_conc_unswtnd_undil",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 1.1,
+          "gram_equivalent": 284
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 35
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09214)",
+      "relations": {
+        "group": "orange"
+      }
+    },
+    {
+      "id": "orange_juc_frz_conc_unswtnd_dil_w3_volume_h2o",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 249
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 31
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09215)",
+      "relations": {
+        "group": "orange"
+      }
+    },
+    {
+      "id": "orange_grapefruit_juc_cnd_unswtnd",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 247
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.0,
+          "gram_equivalent": 30
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09217)",
+      "relations": {
+        "group": "grapefruit"
+      }
+    },
+    {
+      "id": "pomegranates_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.4
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 46.2,
+          "gram_equivalent": 282
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 14.3,
+          "gram_equivalent": 87
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09286)",
+      "relations": {
+        "group": "pomegranate"
+      }
+    },
+    {
+      "id": "raisins_golden_seedless",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.8,
+          "gram_equivalent": 165
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.1,
+          "gram_equivalent": 145
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09297)",
+      "relations": {
+        "group": "grape"
+      }
+    },
+    {
+      "id": "raisins_seedless",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.8,
+          "gram_equivalent": 165
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 5.1,
+          "gram_equivalent": 145
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09298)",
+      "relations": {
+        "group": "grape"
+      }
+    },
+    {
+      "id": "watermelon_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 154
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 152
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09326)",
+      "relations": {
+        "group": "melon"
+      }
+    },
+    {
+      "id": "kiwifruit_gold_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 10.2,
+          "gram_equivalent": 186
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 4.7,
+          "gram_equivalent": 86
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09445)",
+      "relations": {
+        "group": "kiwi"
+      }
+    },
+    {
+      "id": "orange_pnappl_juc_blend",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.1
+        },
+        {
+          "amount": 8.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.2,
+          "gram_equivalent": 246
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 09452)",
+      "relations": {
+        "group": "orange"
+      }
+    },
+    {
+      "id": "orange_flavor_drk_brkfst_type_wpulp_frz_conc",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 0.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.1,
+          "gram_equivalent": 35
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "vitamin_k_mcg": 0.8,
+          "gram_equivalent": 424
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 14424)",
+      "relations": {
+        "group": "orange"
+      }
+    },
+    {
+      "id": "melon_banana",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.9
+        }
+      ],
+      "source": "USDA SR28 (NDB No: 35132)",
+      "relations": {
+        "group": "banana"
+      }
+    },
+    {
+      "id": "mirabelle_plum_pitted_raw",
+      "category": "fruits",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13027)",
+      "relations": {
+        "group": "plum"
+      }
+    },
+    {
+      "id": "prune_pitted",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13042)",
+      "relations": {
+        "group": "plum"
+      }
+    },
+    {
+      "id": "raisin",
+      "category": "fruits",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13046)",
+      "relations": {
+        "group": "grape"
       }
     }
   ]

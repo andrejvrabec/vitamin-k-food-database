@@ -40,11 +40,6 @@
     "alternative_names": [],
     "description": "Kurčatá, brojlery alebo fritézy, stehno, mäso a koža, varené,."
   },
-  "chicken_broilers_or_fryers_light_meat_me": {
-    "name": "Kuracie mäso, brojlery alebo fritézy, ľahké mäso, iba mäso, surové",
-    "alternative_names": [],
-    "description": "Kuracie mäso, brojlery alebo fritézy, ľahké mäso, iba mäso, surové."
-  },
   "chicken_broilers_or_fryers_meat_and_skin": {
     "name": "Kurčatá, brojlery alebo fritézy, mäso a koža, varené, vyprážané,",
     "alternative_names": [],
@@ -1694,5 +1689,50 @@
     "name": "Detská strava, zelenina s mäsom/rybou a škrobová strava, od 12 mesiacov",
     "alternative_names": [],
     "description": "Detská strava, zelenina s mäsom/rybou a škrobová strava, od 12 mesiacov."
+  },
+  "duck_domesticated_meat_only_ckd_rstd": {
+    "name": "Kačica, domestikovaná, len mäso, varené, pečené",
+    "alternative_names": [],
+    "description": "Kačica, domestikovaná, len mäso, varené, pečené."
+  },
+  "goose_domesticated_meatskn_ckd_rstd": {
+    "name": "Hus, domestikovaná, mäso a koža, varené, pečené",
+    "alternative_names": [],
+    "description": "Hus, domestikovaná, mäso a koža, varené, pečené."
+  },
+  "salami_ckd_bf": {
+    "name": "Saláma varené hovädzie",
+    "alternative_names": [],
+    "description": "Saláma varené hovädzie."
+  },
+  "bison_ground_grass_fed_ckd": {
+    "name": "Bison, mletý, kŕmený trávou, varené",
+    "alternative_names": [],
+    "description": "Bison, mletý, kŕmený trávou, varené."
+  },
+  "bison_ground_grass_fed_raw": {
+    "name": "Zubry, mleté, kŕmené trávou, surové",
+    "alternative_names": [],
+    "description": "Zubry, mleté, kŕmené trávou, surové."
+  },
+  "game_meat_bison_ln_ckd_rstd": {
+    "name": "Mäso z diviny, bizón, chudé, varené, pečené",
+    "alternative_names": [],
+    "description": "Mäso z diviny, bizón, chudé, varené, pečené."
+  },
+  "game_meat_goat_ckd_rstd": {
+    "name": "Zverina, koza, varené, pečené",
+    "alternative_names": [],
+    "description": "Zverina, koza, varené, pečené."
+  },
+  "duck_meat_raw": {
+    "name": "Kačica, mäso, surové",
+    "alternative_names": [],
+    "description": "Kačica, mäso, surové."
+  },
+  "goose_meat_raw": {
+    "name": "Hus, mäso, surové",
+    "alternative_names": [],
+    "description": "Hus, mäso, surové."
   }
 }

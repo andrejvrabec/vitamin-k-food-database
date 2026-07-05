@@ -1,9 +1,4 @@
 {
-  "alcoholic_beverage_wine_table_white": {
-    "name": "Alcoholic beverage, wine, table, white",
-    "alternative_names": [],
-    "description": "Alcoholic beverage, wine, table, white."
-  },
   "applesauce_canned_sweetened_without_salt": {
     "name": "Applesauce, canned, sweetened, without salt",
     "alternative_names": [],
@@ -114,11 +109,6 @@
     "alternative_names": [],
     "description": "Candies, truffles, prepared-from-recipe."
   },
-  "chocolate_flavored_hazelnut_spread": {
-    "name": "Chocolate-flavored hazelnut spread",
-    "alternative_names": [],
-    "description": "Chocolate-flavored hazelnut spread."
-  },
   "cookies_molasses": {
     "name": "Cookies, molasses",
     "alternative_names": [],
@@ -173,11 +163,6 @@
     "name": "Desserts, mousse, chocolate, prepared-from-recipe",
     "alternative_names": [],
     "description": "Desserts, mousse, chocolate, prepared-from-recipe."
-  },
-  "digiorno_pizza_cheese_topping_rising_cru": {
-    "name": "DIGIORNO Pizza, cheese topping, rising crust, frozen, baked",
-    "alternative_names": [],
-    "description": "DIGIORNO Pizza, cheese topping, rising crust, frozen, baked."
   },
   "frostings_coconut_nut_ready_to_eat": {
     "name": "Frostings, coconut-nut, ready-to-eat",
@@ -3593,5 +3578,177 @@
     "name": "Baby soup, with vegetables, cereals and milk",
     "alternative_names": [],
     "description": "Baby soup, with vegetables, cereals and milk."
+  },
+  "salad_drsng_kraft_mayo_lt_mayo": {
+    "name": "Salad dressing, kraft mayo light mayo",
+    "alternative_names": [],
+    "description": "Salad dressing, kraft mayo light mayo."
+  },
+  "salad_drsng_mayo_type_reg_wsalt": {
+    "name": "Salad dressing, mayo type, regular, withsalt",
+    "alternative_names": [],
+    "description": "Salad dressing, mayo type, regular, withsalt."
+  },
+  "salad_drsng_mayo_reg": {
+    "name": "Salad dressing, mayo, regular",
+    "alternative_names": [],
+    "description": "Salad dressing, mayo, regular."
+  },
+  "salad_drsng_mayo_imitn_soybn": {
+    "name": "Salad dressing, mayo, imitn, soybn",
+    "alternative_names": [],
+    "description": "Salad dressing, mayo, imitn, soybn."
+  },
+  "salad_drsng_mayo_imitn_soybn_wochol": {
+    "name": "Salad dressing, mayo, imitn, soybn withoutchol",
+    "alternative_names": [],
+    "description": "Salad dressing, mayo, imitn, soybn withoutchol."
+  },
+  "alcoholic_bev_wine_table_red": {
+    "name": "Alcoholic beverage, wine, table, red",
+    "alternative_names": [],
+    "description": "Alcoholic beverage, wine, table, red."
+  },
+  "alcoholic_bev_wine_table_white": {
+    "name": "Alcoholic beverage, wine, table, white",
+    "alternative_names": [],
+    "description": "Alcoholic beverage, wine, table, white."
+  },
+  "cocoa_mix_pdr": {
+    "name": "Cocoa mix, powder",
+    "alternative_names": [],
+    "description": "Cocoa mix, powder."
+  },
+  "cocoa_mix_pdr_prep_w_h2o": {
+    "name": "Cocoa mix, powder, prepared with/ h2o",
+    "alternative_names": [],
+    "description": "Cocoa mix, powder, prepared with/ h2o."
+  },
+  "cocoa_mix_no_sugar_added_pdr": {
+    "name": "Cocoa mix, no sugar added, powder",
+    "alternative_names": [],
+    "description": "Cocoa mix, no sugar added, powder."
+  },
+  "cocoa_mix_w_asprt_pdr_prep_w_h2o": {
+    "name": "Cocoa mix, with/ asprt, powder, prepared with/ h2o",
+    "alternative_names": [],
+    "description": "Cocoa mix, with/ asprt, powder, prepared with/ h2o."
+  },
+  "alcoholic_bev_liqueur_coffee_wcrm_34_proof": {
+    "name": "Alcoholic beverage, liqueur, coffee withcrm, 34 proof",
+    "alternative_names": [],
+    "description": "Alcoholic beverage, liqueur, coffee withcrm, 34 proof."
+  },
+  "cocoa_mix_w_aspt_lo_cal_pdr_w_add_ca_p_wo_add": {
+    "name": "Cocoa mix, with/ aspt, lo cal, powder, with/ add ca p, without/ add na or vit a",
+    "alternative_names": [],
+    "description": "Cocoa mix, with/ aspt, lo cal, powder, with/ add ca p, without/ add na or vit a."
+  },
+  "fast_foods_hamburger_single_reg_patty_w_condm": {
+    "name": "Fast foods, hamburger; single, regular patty; with/ condmnt",
+    "alternative_names": [],
+    "description": "Fast foods, hamburger; single, regular patty; with/ condmnt."
+  },
+  "fast_foods_hamburger_lrg_single_patty_wcondmn": {
+    "name": "Fast foods, hamburger, lrg, single patty, withcondmnt",
+    "alternative_names": [],
+    "description": "Fast foods, hamburger, lrg, single patty, withcondmnt."
+  },
+  "wendys_classic_single_hamburger_no_chs": {
+    "name": "Wendy's, classic single hamburger, no cheese",
+    "alternative_names": [],
+    "description": "Wendy's, classic single hamburger, no cheese."
+  },
+  "wendys_classic_single_hamburger_w_chs": {
+    "name": "Wendy's, classic single hamburger, with/ cheese",
+    "alternative_names": [],
+    "description": "Wendy's, classic single hamburger, with/ cheese."
+  },
+  "wendys_jr_hamburger_w_chs": {
+    "name": "Wendy's, jr. hamburger, with/ cheese",
+    "alternative_names": [],
+    "description": "Wendy's, jr. hamburger, with/ cheese."
+  },
+  "form_bar_mars_snack_us_snickers_marathon_ener": {
+    "name": "Form bar, mars snack us, snickers marathon energy bar, all flav",
+    "alternative_names": [],
+    "description": "Form bar, mars snack us, snickers marathon energy bar, all flav."
+  },
+  "snack_gran_bar_general_mills_nature_valley_w": {
+    "name": "Snack, gran bar, general mills, nature valley, with yogu coati",
+    "alternative_names": [],
+    "description": "Snack, gran bar, general mills, nature valley, with yogu coati."
+  },
+  "dip_salsa_con_queso_chs_salsa_med": {
+    "name": "Dip, salsa con queso, cheese & salsa- med",
+    "alternative_names": [],
+    "description": "Dip, salsa con queso, cheese & salsa- med."
+  },
+  "dip_old_el_paso_chs_n_salsa_med": {
+    "name": "Dip, old el paso, cheese 'n salsa, med",
+    "alternative_names": [],
+    "description": "Dip, old el paso, cheese 'n salsa, med."
+  },
+  "dip_tostitos_salsa_con_queso_med": {
+    "name": "Dip, tostitos, salsa con queso, med",
+    "alternative_names": [],
+    "description": "Dip, tostitos, salsa con queso, med."
+  },
+  "beverage_milkshake_mix_dry_not_choc": {
+    "name": "Beverage, milkshake mix, dry, not chocolate",
+    "alternative_names": [],
+    "description": "Beverage, milkshake mix, dry, not chocolate."
+  },
+  "beverage_inst_brkfst_pdr_choc_not_recon": {
+    "name": "Beverage, instant breakfast powder, chocolate, not recon",
+    "alternative_names": [],
+    "description": "Beverage, instant breakfast powder, chocolate, not recon."
+  },
+  "beverage_inst_brkfst_pdr_choc_sugar_free_not": {
+    "name": "Beverage, instant breakfast powder, chocolate, sugar-free, not recon",
+    "alternative_names": [],
+    "description": "Beverage, instant breakfast powder, chocolate, sugar-free, not recon."
+  },
+  "tea_green_brewed": {
+    "name": "Green tea, brewed",
+    "alternative_names": [
+      "Brewed green tea",
+      "Sencha",
+      "Matcha tea"
+    ],
+    "description": "Brewed green tea, containing moderate amounts of Vitamin K1 which can interfere with anticoagulants."
+  },
+  "chamomile_tea": {
+    "name": "Chamomile tea, brewed",
+    "alternative_names": [
+      "Manzanilla tea",
+      "Camomile tea"
+    ],
+    "description": "Brewed chamomile tea, containing natural coumarin compounds which may have additive antiplatelet effects."
+  },
+  "cheeseburger_from_fast_food": {
+    "name": "Cheeseburger, from fast food",
+    "alternative_names": [],
+    "description": "Cheeseburger, from fast food."
+  },
+  "tropical_fruit_mix_sweetened_for_snack_dried": {
+    "name": "Tropical fruit mix, sweetened, for snack, dried",
+    "alternative_names": [],
+    "description": "Tropical fruit mix, sweetened, for snack, dried."
+  },
+  "plant_based_drink_prepacked_average": {
+    "name": "Plant-based drink, prepacked (average)",
+    "alternative_names": [],
+    "description": "Plant-based drink, prepacked (average)."
+  },
+  "calisson_from_aix_en_provence_marzipan_and_candied_melon_sweet": {
+    "name": "Calisson from Aix en Provence (marzipan and candied melon sweet)",
+    "alternative_names": [],
+    "description": "Calisson from Aix en Provence (marzipan and candied melon sweet)."
+  },
+  "rum_baba_from_bakery": {
+    "name": "Rum baba, from bakery",
+    "alternative_names": [],
+    "description": "Rum baba, from bakery."
   }
 }

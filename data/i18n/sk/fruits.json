@@ -831,11 +831,6 @@
     "alternative_names": [],
     "description": "Čerešňa Morello, surová."
   },
-  "cranberry_raw": {
-    "name": "Brusnice, surové",
-    "alternative_names": [],
-    "description": "Brusnice, surové."
-  },
   "blueberry_frozen_raw": {
     "name": "Čučoriedky, mrazené, surové",
     "alternative_names": [],
@@ -940,5 +935,150 @@
     "name": "Hruškový koláč s mandľami",
     "alternative_names": [],
     "description": "Hruškový koláč s mandľami."
+  },
+  "bananas_raw": {
+    "name": "Banány, surové",
+    "alternative_names": [],
+    "description": "Banány, surové."
+  },
+  "bananas_dehyd_or_banana_pdr": {
+    "name": "Banány, sušené alebo banánový prášok",
+    "alternative_names": [],
+    "description": "Banány, sušené alebo banánový prášok."
+  },
+  "banana_flesh_without_skin_dried": {
+    "name": "Banán, dužina bez šupky, sušený",
+    "alternative_names": [],
+    "description": "Banán, dužina bez šupky, sušený."
+  },
+  "avocados_raw_all_comm_var": {
+    "name": "Avokádo, surové, všetky comm var",
+    "alternative_names": [],
+    "description": "Avokádo, surové, všetky comm var."
+  },
+  "avocados_raw_california": {
+    "name": "Avokádo, surové, Kalifornia",
+    "alternative_names": [],
+    "description": "Avokádo, surové, Kalifornia."
+  },
+  "cranberries_raw": {
+    "name": "Brusnice, surové",
+    "alternative_names": [],
+    "description": "Brusnice, surové."
+  },
+  "cranberries_dried_swtnd": {
+    "name": "Brusnice, sušené, sladené",
+    "alternative_names": [],
+    "description": "Brusnice, sušené, sladené."
+  },
+  "grapefruit_juc_white_frz_conc_unswtnd_undil": {
+    "name": "Grapefruitový džús, biela, mrazené koncentrát, nesladené, neriedené",
+    "alternative_names": [],
+    "description": "Grapefruitový džús, biela, mrazené koncentrát, nesladené, neriedené."
+  },
+  "kiwifruit_grn_raw": {
+    "name": "Kiwi, zelené, surové",
+    "alternative_names": [],
+    "description": "Kiwi, zelené, surové."
+  },
+  "limes_raw": {
+    "name": "Limety, surové",
+    "alternative_names": [],
+    "description": "Limety, surové."
+  },
+  "melons_cantaloupe_raw": {
+    "name": "Melóny, melón, surové",
+    "alternative_names": [],
+    "description": "Melóny, melón, surové."
+  },
+  "melons_casaba_raw": {
+    "name": "Melóny, casaba, surové",
+    "alternative_names": [],
+    "description": "Melóny, casaba, surové."
+  },
+  "melons_honeydew_raw": {
+    "name": "Melóny, medové, surové",
+    "alternative_names": [],
+    "description": "Melóny, medové, surové."
+  },
+  "nectarines_raw": {
+    "name": "Nektárinky, surové",
+    "alternative_names": [],
+    "description": "Nektárinky, surové."
+  },
+  "orange_juc_cnd_unswtnd": {
+    "name": "Pomarančový džús, konzervované, nesladené",
+    "alternative_names": [],
+    "description": "Pomarančový džús, konzervované, nesladené."
+  },
+  "orange_juc_frz_conc_unswtnd_undil": {
+    "name": "Pomarančový džús, mrazené koncentrát, nesladené, neriedené",
+    "alternative_names": [],
+    "description": "Pomarančový džús, mrazené koncentrát, nesladené, neriedené."
+  },
+  "orange_juc_frz_conc_unswtnd_dil_w3_volume_h2o": {
+    "name": "Pomarančový džús, mrazené koncentrát, nesladené, riedené 3 dielmi vody",
+    "alternative_names": [],
+    "description": "Pomarančový džús, mrazené koncentrát, nesladené, riedené 3 dielmi vody."
+  },
+  "orange_grapefruit_juc_cnd_unswtnd": {
+    "name": "Pomarančovo-grapefruitový džús, konzervované, nesladené",
+    "alternative_names": [],
+    "description": "Pomarančovo-grapefruitový džús, konzervované, nesladené."
+  },
+  "pomegranates_raw": {
+    "name": "Granátové jablká, surové",
+    "alternative_names": [],
+    "description": "Granátové jablká, surové."
+  },
+  "raisins_golden_seedless": {
+    "name": "Hrozienka, zlaté bez semien",
+    "alternative_names": [],
+    "description": "Hrozienka, zlaté bez semien."
+  },
+  "raisins_seedless": {
+    "name": "Hrozienka bez semien",
+    "alternative_names": [],
+    "description": "Hrozienka bez semien."
+  },
+  "watermelon_raw": {
+    "name": "Vodný melón, surový",
+    "alternative_names": [],
+    "description": "Vodný melón, surový."
+  },
+  "kiwifruit_gold_raw": {
+    "name": "Kivi, zlaté, surové",
+    "alternative_names": [],
+    "description": "Kivi, zlaté, surové."
+  },
+  "orange_pnappl_juc_blend": {
+    "name": "Pomarančovo-ananásová džúsová zmes",
+    "alternative_names": [],
+    "description": "Pomarančovo-ananásová džúsová zmes."
+  },
+  "orange_flavor_drk_brkfst_type_wpulp_frz_conc": {
+    "name": "Nápoj s pomarančovou príchuťou, typ raňajkový, s dužinou, mrazené koncentrát",
+    "alternative_names": [],
+    "description": "Nápoj s pomarančovou príchuťou, typ raňajkový, s dužinou, mrazené koncentrát."
+  },
+  "melon_banana": {
+    "name": "Melón, banán (navajo)",
+    "alternative_names": [],
+    "description": "Melón, banán (navajo)."
+  },
+  "mirabelle_plum_pitted_raw": {
+    "name": "Mirabelová slivka, odkôstkovaná, surová",
+    "alternative_names": [],
+    "description": "Mirabelová slivka, odkôstkovaná, surová."
+  },
+  "prune_pitted": {
+    "name": "Sušené slivky bez kôstok",
+    "alternative_names": [],
+    "description": "Sušené slivky bez kôstok."
+  },
+  "raisin": {
+    "name": "Hrozienka",
+    "alternative_names": [],
+    "description": "Hrozienka."
   }
 }

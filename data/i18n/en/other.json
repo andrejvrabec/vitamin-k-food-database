@@ -44,26 +44,6 @@
     "alternative_names": [],
     "description": "Chili powder."
   },
-  "cloves_ground": {
-    "name": "Cloves, ground",
-    "alternative_names": [],
-    "description": "Cloves, ground."
-  },
-  "coriander_leaf_dried": {
-    "name": "Coriander leaf, dried",
-    "alternative_names": [],
-    "description": "Coriander leaf, dried."
-  },
-  "cumin_seed": {
-    "name": "Cumin seed",
-    "alternative_names": [],
-    "description": "Cumin seed."
-  },
-  "ginger_ground": {
-    "name": "Ginger, ground",
-    "alternative_names": [],
-    "description": "Ginger, ground."
-  },
   "paprika": {
     "name": "Paprika",
     "alternative_names": [],
@@ -284,11 +264,6 @@
     "alternative_names": [],
     "description": "Baby fd, fort crl bar, fruit filling."
   },
-  "salad_drsng_kraft_mayo_lt_mayo": {
-    "name": "Salad dressing, kraft mayo light mayo",
-    "alternative_names": [],
-    "description": "Salad dressing, kraft mayo light mayo."
-  },
   "salad_drsng_russian_drsng": {
     "name": "Salad dressing, russian dressing",
     "alternative_names": [],
@@ -299,30 +274,10 @@
     "alternative_names": [],
     "description": "Salad dressing, 1000 island, commercial, regular."
   },
-  "salad_drsng_mayo_type_reg_wsalt": {
-    "name": "Salad dressing, mayo type, regular, withsalt",
-    "alternative_names": [],
-    "description": "Salad dressing, mayo type, regular, withsalt."
-  },
   "salad_drsng_russian_drsng_lo_cal": {
     "name": "Salad dressing, russian dressing, lo cal",
     "alternative_names": [],
     "description": "Salad dressing, russian dressing, lo cal."
-  },
-  "salad_drsng_mayo_reg": {
-    "name": "Salad dressing, mayo, regular",
-    "alternative_names": [],
-    "description": "Salad dressing, mayo, regular."
-  },
-  "salad_drsng_mayo_imitn_soybn": {
-    "name": "Salad dressing, mayo, imitn, soybn",
-    "alternative_names": [],
-    "description": "Salad dressing, mayo, imitn, soybn."
-  },
-  "salad_drsng_mayo_imitn_soybn_wochol": {
-    "name": "Salad dressing, mayo, imitn, soybn withoutchol",
-    "alternative_names": [],
-    "description": "Salad dressing, mayo, imitn, soybn withoutchol."
   },
   "salad_drsng_italian_drsng_comm_reg": {
     "name": "Salad dressing, italian dressing, commercial, regular",
@@ -399,16 +354,6 @@
     "alternative_names": [],
     "description": "Duck, domesticated, meat only, raw."
   },
-  "duck_domesticated_meat_only_ckd_rstd": {
-    "name": "Duck, domesticated, meat only, cooked, rstd",
-    "alternative_names": [],
-    "description": "Duck, domesticated, meat only, cooked, rstd."
-  },
-  "goose_domesticated_meatskn_ckd_rstd": {
-    "name": "Goose, domesticated, meat&skin, cooked, rstd",
-    "alternative_names": [],
-    "description": "Goose, domesticated, meat&skin, cooked, rstd."
-  },
   "chick_feet_boiled": {
     "name": "Chicken, feet, boiled",
     "alternative_names": [],
@@ -459,11 +404,6 @@
     "alternative_names": [],
     "description": "Luncheon meat, beef, thin sliced."
   },
-  "salami_ckd_bf": {
-    "name": "Salami cooked beef",
-    "alternative_names": [],
-    "description": "Salami cooked beef."
-  },
   "oven_roasted_chick_breast_roll": {
     "name": "Oven-roasted chicken breast roll",
     "alternative_names": [],
@@ -484,26 +424,6 @@
     "alternative_names": [],
     "description": "Applesauce, canned, sweetened, without/ salt (includes )."
   },
-  "avocados_raw_all_comm_var": {
-    "name": "Avocados, raw, all commercial var",
-    "alternative_names": [],
-    "description": "Avocados, raw, all commercial var."
-  },
-  "avocados_raw_california": {
-    "name": "Avocados, raw, california",
-    "alternative_names": [],
-    "description": "Avocados, raw, california."
-  },
-  "bananas_raw": {
-    "name": "Bananas, raw",
-    "alternative_names": [],
-    "description": "Bananas, raw."
-  },
-  "bananas_dehyd_or_banana_pdr": {
-    "name": "Bananas, dehydrated, or banana powder",
-    "alternative_names": [],
-    "description": "Bananas, dehydrated, or banana powder."
-  },
   "boysenberries_frz_unswtnd": {
     "name": "Boysenberries, frozen, unswtnd",
     "alternative_names": [],
@@ -513,16 +433,6 @@
     "name": "Breadfruit, raw",
     "alternative_names": [],
     "description": "Breadfruit, raw."
-  },
-  "cranberries_raw": {
-    "name": "Cranberries, raw",
-    "alternative_names": [],
-    "description": "Cranberries, raw."
-  },
-  "cranberries_dried_swtnd": {
-    "name": "Cranberries, dried, sweetened",
-    "alternative_names": [],
-    "description": "Cranberries, dried, sweetened."
   },
   "currants_redwhite_raw": {
     "name": "Currants, red&white, raw",
@@ -564,55 +474,20 @@
     "alternative_names": [],
     "description": "Fruit salad, canned, heavy syrup, solids&liquids."
   },
-  "grapefruit_juc_white_frz_conc_unswtnd_undil": {
-    "name": "Grapefruit juice, white, frozen concentrate, unswtnd, undiluted",
-    "alternative_names": [],
-    "description": "Grapefruit juice, white, frozen concentrate, unswtnd, undiluted."
-  },
   "guavas_common_raw": {
     "name": "Guavas, common, raw",
     "alternative_names": [],
     "description": "Guavas, common, raw."
-  },
-  "kiwifruit_grn_raw": {
-    "name": "Kiwifruit, grn, raw",
-    "alternative_names": [],
-    "description": "Kiwifruit, grn, raw."
-  },
-  "limes_raw": {
-    "name": "Limes, raw",
-    "alternative_names": [],
-    "description": "Limes, raw."
   },
   "loganberries_frozen": {
     "name": "Loganberries, frozen",
     "alternative_names": [],
     "description": "Loganberries, frozen."
   },
-  "melons_cantaloupe_raw": {
-    "name": "Melons, cantaloupe, raw",
-    "alternative_names": [],
-    "description": "Melons, cantaloupe, raw."
-  },
-  "melons_casaba_raw": {
-    "name": "Melons, casaba, raw",
-    "alternative_names": [],
-    "description": "Melons, casaba, raw."
-  },
-  "melons_honeydew_raw": {
-    "name": "Melons, honeydew, raw",
-    "alternative_names": [],
-    "description": "Melons, honeydew, raw."
-  },
   "mulberries_raw": {
     "name": "Mulberries, raw",
     "alternative_names": [],
     "description": "Mulberries, raw."
-  },
-  "nectarines_raw": {
-    "name": "Nectarines, raw",
-    "alternative_names": [],
-    "description": "Nectarines, raw."
   },
   "olives_ripe_cnd": {
     "name": "Olives, ripe, canned (small-extra lrg)",
@@ -623,26 +498,6 @@
     "name": "Olives, pickled, canned or bottled, grn",
     "alternative_names": [],
     "description": "Olives, pickled, canned or bottled, grn."
-  },
-  "orange_juc_cnd_unswtnd": {
-    "name": "Orange juice, canned, unswtnd",
-    "alternative_names": [],
-    "description": "Orange juice, canned, unswtnd."
-  },
-  "orange_juc_frz_conc_unswtnd_undil": {
-    "name": "Orange juice, frozen concentrate, unswtnd, undiluted",
-    "alternative_names": [],
-    "description": "Orange juice, frozen concentrate, unswtnd, undiluted."
-  },
-  "orange_juc_frz_conc_unswtnd_dil_w3_volume_h2o": {
-    "name": "Orange juice, frozen concentrate, unswtnd, dil with3 volumes of water",
-    "alternative_names": [],
-    "description": "Orange juice, frozen concentrate, unswtnd, dil with3 volumes of water."
-  },
-  "orange_grapefruit_juc_cnd_unswtnd": {
-    "name": "Orange-grapefruit juice, canned, unswtnd",
-    "alternative_names": [],
-    "description": "Orange-grapefruit juice, canned, unswtnd."
   },
   "pineapple_raw_all_var": {
     "name": "Pineapple, raw, all var",
@@ -689,21 +544,6 @@
     "alternative_names": [],
     "description": "Pineapple juice, frozen concentrate, unswtnd, dil with3 volumes of water."
   },
-  "pomegranates_raw": {
-    "name": "Pomegranates, raw",
-    "alternative_names": [],
-    "description": "Pomegranates, raw."
-  },
-  "raisins_golden_seedless": {
-    "name": "Raisins, golden seedless",
-    "alternative_names": [],
-    "description": "Raisins, golden seedless."
-  },
-  "raisins_seedless": {
-    "name": "Raisins, seedless",
-    "alternative_names": [],
-    "description": "Raisins, seedless."
-  },
   "rhubarb_raw": {
     "name": "Rhubarb, raw",
     "alternative_names": [],
@@ -728,11 +568,6 @@
     "name": "Tamarinds, raw",
     "alternative_names": [],
     "description": "Tamarinds, raw."
-  },
-  "watermelon_raw": {
-    "name": "Watermelon, raw",
-    "alternative_names": [],
-    "description": "Watermelon, raw."
   },
   "feijoa_raw": {
     "name": "Feijoa, raw",
@@ -789,11 +624,6 @@
     "alternative_names": [],
     "description": "Tamarind nectar, canned."
   },
-  "kiwifruit_gold_raw": {
-    "name": "Kiwifruit, gold, raw",
-    "alternative_names": [],
-    "description": "Kiwifruit, gold, raw."
-  },
   "nance_frz_unswtnd": {
     "name": "Nance, frozen, unswtnd",
     "alternative_names": [],
@@ -803,11 +633,6 @@
     "name": "Naranjilla (lulo) pulp, frozen, unswtnd",
     "alternative_names": [],
     "description": "Naranjilla (lulo) pulp, frozen, unswtnd."
-  },
-  "orange_pnappl_juc_blend": {
-    "name": "Orange pnappl juice blend",
-    "alternative_names": [],
-    "description": "Orange pnappl juice blend."
   },
   "amaranth_leaves_raw": {
     "name": "Amaranth leaves, raw",
@@ -854,26 +679,6 @@
     "alternative_names": [],
     "description": "Chrysanthemum, garland, cooked, boiled, drained, withoutsalt."
   },
-  "collards_raw": {
-    "name": "Collards, raw",
-    "alternative_names": [],
-    "description": "Collards, raw."
-  },
-  "collards_ckd_bld_drnd_wosalt": {
-    "name": "Collards, cooked, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Collards, cooked, boiled, drained, withoutsalt."
-  },
-  "collards_frz_chopd_ckd_bld_drnd_wosalt": {
-    "name": "Collards, frozen, chopped, cooked, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Collards, frozen, chopped, cooked, boiled, drained, withoutsalt."
-  },
-  "coriander_leaves_raw": {
-    "name": "Coriander (cilantro) leaves, raw",
-    "alternative_names": [],
-    "description": "Coriander (cilantro) leaves, raw."
-  },
   "dandelion_grns_ckd_bld_drnd_wosalt": {
     "name": "Dandelion grns, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
@@ -889,11 +694,6 @@
     "alternative_names": [],
     "description": "Eggplant, cooked, boiled, drained, withoutsalt."
   },
-  "ginger_root_raw": {
-    "name": "Ginger root, raw",
-    "alternative_names": [],
-    "description": "Ginger root, raw."
-  },
   "gourd_dishcloth_raw": {
     "name": "Gourd, dishcloth (towelgourd), raw",
     "alternative_names": [],
@@ -908,16 +708,6 @@
     "name": "Jerusalem-artichokes, raw",
     "alternative_names": [],
     "description": "Jerusalem-artichokes, raw."
-  },
-  "kohlrabi_raw": {
-    "name": "Kohlrabi, raw",
-    "alternative_names": [],
-    "description": "Kohlrabi, raw."
-  },
-  "kohlrabi_ckd_bld_drnd_wosalt": {
-    "name": "Kohlrabi, cooked, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Kohlrabi, cooked, boiled, drained, withoutsalt."
   },
   "lambsquarters_ckd_bld_drnd_wosalt": {
     "name": "Lambsquarters, cooked, boiled, drained, withoutsalt",
@@ -1104,16 +894,6 @@
     "alternative_names": [],
     "description": "Chrysanthemum, garland, cooked, boiled, drained, withsalt."
   },
-  "collards_ckd_bld_drnd_wsalt": {
-    "name": "Collards, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Collards, cooked, boiled, drained, withsalt."
-  },
-  "collards_frz_chopd_ckd_bld_drnd_wsalt": {
-    "name": "Collards, frozen, chopped, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Collards, frozen, chopped, cooked, boiled, drained, withsalt."
-  },
   "dandelion_grns_ckd_bld_drnd_wsalt": {
     "name": "Dandelion grns, cooked, boiled, drained, withsalt",
     "alternative_names": [],
@@ -1133,11 +913,6 @@
     "name": "Drumstick leaves, cooked, boiled, drained, with/ salt",
     "alternative_names": [],
     "description": "Drumstick leaves, cooked, boiled, drained, with/ salt."
-  },
-  "kohlrabi_ckd_bld_drnd_wsalt": {
-    "name": "Kohlrabi, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Kohlrabi, cooked, boiled, drained, withsalt."
   },
   "lambs_quarters_ckd_bld_drnd_wsalt": {
     "name": "Lambs quarters, cooked, boiled, drained, withsalt",
@@ -1344,35 +1119,10 @@
     "alternative_names": [],
     "description": "Alcoholic beverage, pina colada, prepared-from-recipe."
   },
-  "alcoholic_bev_wine_table_red": {
-    "name": "Alcoholic beverage, wine, table, red",
-    "alternative_names": [],
-    "description": "Alcoholic beverage, wine, table, red."
-  },
-  "alcoholic_bev_wine_table_white": {
-    "name": "Alcoholic beverage, wine, table, white",
-    "alternative_names": [],
-    "description": "Alcoholic beverage, wine, table, white."
-  },
   "mixed_veg_fruit_juc_drk_w_added_nutr": {
     "name": "Mixed vegetable & fruit juice drink, with/ added Nutramigen",
     "alternative_names": [],
     "description": "Mixed vegetable & fruit juice drink, with/ added Nutramigen."
-  },
-  "cocoa_mix_pdr": {
-    "name": "Cocoa mix, powder",
-    "alternative_names": [],
-    "description": "Cocoa mix, powder."
-  },
-  "cocoa_mix_pdr_prep_w_h2o": {
-    "name": "Cocoa mix, powder, prepared with/ h2o",
-    "alternative_names": [],
-    "description": "Cocoa mix, powder, prepared with/ h2o."
-  },
-  "cocoa_mix_no_sugar_added_pdr": {
-    "name": "Cocoa mix, no sugar added, powder",
-    "alternative_names": [],
-    "description": "Cocoa mix, no sugar added, powder."
   },
   "coffee_brewed_from_grounds_prep_w_tap_h2o_dec": {
     "name": "Coffee, brewed from grounds, prepared with/ tap h2o, decaffeinated",
@@ -1484,16 +1234,6 @@
     "alternative_names": [],
     "description": "Shake, fast food, vanilla."
   },
-  "cocoa_mix_w_asprt_pdr_prep_w_h2o": {
-    "name": "Cocoa mix, with/ asprt, powder, prepared with/ h2o",
-    "alternative_names": [],
-    "description": "Cocoa mix, with/ asprt, powder, prepared with/ h2o."
-  },
-  "alcoholic_bev_liqueur_coffee_wcrm_34_proof": {
-    "name": "Alcoholic beverage, liqueur, coffee withcrm, 34 proof",
-    "alternative_names": [],
-    "description": "Alcoholic beverage, liqueur, coffee withcrm, 34 proof."
-  },
   "dairy_drk_mix_choc_red_cal_w_low_calorie_swee": {
     "name": "Dairy drink mix, chocolate, red cal, with/ low-calorie sweeteners, powder",
     "alternative_names": [],
@@ -1504,11 +1244,6 @@
     "alternative_names": [],
     "description": "Dairy drink mix, chocolate, red cal, with/ asprt, powder, prepared with/ h2o & ice."
   },
-  "orange_flavor_drk_brkfst_type_wpulp_frz_conc": {
-    "name": "Orange-flavor drink, breakfast type, withpulp, frozen concentrate",
-    "alternative_names": [],
-    "description": "Orange-flavor drink, breakfast type, withpulp, frozen concentrate."
-  },
   "orange_drk_brkfst_type_w_juc_pulp_frz_conc": {
     "name": "Orange drink, breakfast type, with/ juice & pulp, frozen concentrate",
     "alternative_names": [],
@@ -1518,11 +1253,6 @@
     "name": "Sports drink, pepsico quaker gatorade, original, fruit-flavd, rtd",
     "alternative_names": [],
     "description": "Sports drink, pepsico quaker gatorade, original, fruit-flavd, rtd."
-  },
-  "cocoa_mix_w_aspt_lo_cal_pdr_w_add_ca_p_wo_add": {
-    "name": "Cocoa mix, with/ aspt, lo cal, powder, with/ add ca p, without/ add na or vit a",
-    "alternative_names": [],
-    "description": "Cocoa mix, with/ aspt, lo cal, powder, with/ add ca p, without/ add na or vit a."
   },
   "lemonade_frz_conc_pink": {
     "name": "Lemonade, frozen concentrate, pink",
@@ -2039,25 +1769,10 @@
     "alternative_names": [],
     "description": "Game meat, bear, cooked, simmrd."
   },
-  "bison_ground_grass_fed_ckd": {
-    "name": "Bison, ground, grass-fed, cooked",
-    "alternative_names": [],
-    "description": "Bison, ground, grass-fed, cooked."
-  },
-  "bison_ground_grass_fed_raw": {
-    "name": "Bison, ground, grass-fed, raw",
-    "alternative_names": [],
-    "description": "Bison, ground, grass-fed, raw."
-  },
   "game_meat_beaver_ckd_rstd": {
     "name": "Game meat, beaver, cooked, rstd",
     "alternative_names": [],
     "description": "Game meat, beaver, cooked, rstd."
-  },
-  "game_meat_bison_ln_ckd_rstd": {
-    "name": "Game meat, bison, lean, cooked, rstd",
-    "alternative_names": [],
-    "description": "Game meat, bison, lean, cooked, rstd."
   },
   "game_meat_boar_wild_ckd_rstd": {
     "name": "Game meat, boar, wild, cooked, rstd",
@@ -2068,11 +1783,6 @@
     "name": "Game meat, caribou, cooked, rstd",
     "alternative_names": [],
     "description": "Game meat, caribou, cooked, rstd."
-  },
-  "game_meat_goat_ckd_rstd": {
-    "name": "Game meat, goat, cooked, rstd",
-    "alternative_names": [],
-    "description": "Game meat, goat, cooked, rstd."
   },
   "game_meat_moose_ckd_rstd": {
     "name": "Game meat, moose, cooked, rstd",
@@ -2374,11 +2084,6 @@
     "alternative_names": [],
     "description": "Ice cream cones, sugar, rolled-type."
   },
-  "muffins_oat_bran": {
-    "name": "Muffins, oat bran",
-    "alternative_names": [],
-    "description": "Muffins, oat bran."
-  },
   "rolls_dinner_pln_comm_prepared": {
     "name": "Rolls, dinner, pln, commercial prepared (inc brown -n- serve)",
     "alternative_names": [],
@@ -2513,16 +2218,6 @@
     "name": "Fruit leather, rolls",
     "alternative_names": [],
     "description": "Fruit leather, rolls."
-  },
-  "granola_bars_hard_plain": {
-    "name": "Granola bars, hard, plain",
-    "alternative_names": [],
-    "description": "Granola bars, hard, plain."
-  },
-  "granola_bars_hard_peanut": {
-    "name": "Granola bars, hard, peanut",
-    "alternative_names": [],
-    "description": "Granola bars, hard, peanut."
   },
   "pretzels_hard_pln_salted": {
     "name": "Pretzels, hard, pln, salted",
@@ -2684,11 +2379,6 @@
     "alternative_names": [],
     "description": "Toppings, pineapple."
   },
-  "granola_bars_soft_uncoated_choc_chip": {
-    "name": "Granola bars, soft, uncoated, chocolate chip",
-    "alternative_names": [],
-    "description": "Granola bars, soft, uncoated, chocolate chip."
-  },
   "frosting_glaz_chc_prep_frm_rcip_w_butr_nfsmi": {
     "name": "Frosting, glaz, chc, prepared-frm-rcip, with/ butr, nfsmi recip no. c-32",
     "alternative_names": [],
@@ -2753,11 +2443,6 @@
     "name": "Millet, cooked",
     "alternative_names": [],
     "description": "Millet, cooked."
-  },
-  "oat_bran_raw": {
-    "name": "Oat bran, raw",
-    "alternative_names": [],
-    "description": "Oat bran, raw."
   },
   "rye": {
     "name": "Rye",
@@ -2829,11 +2514,6 @@
     "alternative_names": [],
     "description": "Fast foods, cheeseburger; single, regular patty, with/ condmnt."
   },
-  "fast_foods_hamburger_single_reg_patty_w_condm": {
-    "name": "Fast foods, hamburger; single, regular patty; with/ condmnt",
-    "alternative_names": [],
-    "description": "Fast foods, hamburger; single, regular patty; with/ condmnt."
-  },
   "fast_foods_coleslaw": {
     "name": "Fast foods, coleslaw",
     "alternative_names": [],
@@ -2843,11 +2523,6 @@
     "name": "Fast foods, hush puppies",
     "alternative_names": [],
     "description": "Fast foods, hush puppies."
-  },
-  "fast_foods_hamburger_lrg_single_patty_wcondmn": {
-    "name": "Fast foods, hamburger, lrg, single patty, withcondmnt",
-    "alternative_names": [],
-    "description": "Fast foods, hamburger, lrg, single patty, withcondmnt."
   },
   "fast_foods_chick_breaded_fried_bnless_pieces": {
     "name": "Fast foods, chicken, breaded & fried, boneless pieces, pln",
@@ -2863,21 +2538,6 @@
     "name": "Mcdonald's, french fr",
     "alternative_names": [],
     "description": "Mcdonald's, french fr."
-  },
-  "wendys_classic_single_hamburger_no_chs": {
-    "name": "Wendy's, classic single hamburger, no cheese",
-    "alternative_names": [],
-    "description": "Wendy's, classic single hamburger, no cheese."
-  },
-  "wendys_classic_single_hamburger_w_chs": {
-    "name": "Wendy's, classic single hamburger, with/ cheese",
-    "alternative_names": [],
-    "description": "Wendy's, classic single hamburger, with/ cheese."
-  },
-  "wendys_jr_hamburger_w_chs": {
-    "name": "Wendy's, jr. hamburger, with/ cheese",
-    "alternative_names": [],
-    "description": "Wendy's, jr. hamburger, with/ cheese."
   },
   "wendys_classic_double_w_chs": {
     "name": "Wendy's, classic double, with/ cheese",
@@ -3074,16 +2734,6 @@
     "alternative_names": [],
     "description": "Chili con carne withbns, canned entree."
   },
-  "lasagna_chs_frz_prep": {
-    "name": "Lasagna, cheese, frozen, prepared",
-    "alternative_names": [],
-    "description": "Lasagna, cheese, frozen, prepared."
-  },
-  "lasagna_w_meat_sau_frz_entree": {
-    "name": "Lasagna with/ meat & sauce, frozen entree",
-    "alternative_names": [],
-    "description": "Lasagna with/ meat & sauce, frozen entree."
-  },
   "burrito_bf_bean_frz": {
     "name": "Burrito, beef & bean, frozen",
     "alternative_names": [],
@@ -3094,30 +2744,15 @@
     "alternative_names": [],
     "description": "Burrito, beef & bean, microwaved."
   },
-  "lasagna_veg_frz_bkd": {
-    "name": "Lasagna, vegetable, frozen, baked",
-    "alternative_names": [],
-    "description": "Lasagna, vegetable, frozen, baked."
-  },
   "chili_w_bns_microwavable_bowls": {
     "name": "Chili with/ bns, microwavable bowls",
     "alternative_names": [],
     "description": "Chili with/ bns, microwavable bowls."
   },
-  "lasagna_w_meat_sau_frz_prep": {
-    "name": "Lasagna with/ meat sauce, frozen, prepared",
-    "alternative_names": [],
-    "description": "Lasagna with/ meat sauce, frozen, prepared."
-  },
   "formbar_marssnack_snickers_marathonprotperfba": {
     "name": "Formbar, marssnack, snickers marathonprotperfbar, carmelnutrush",
     "alternative_names": [],
     "description": "Formbar, marssnack, snickers marathonprotperfbar, carmelnutrush."
-  },
-  "form_bar_mars_snack_us_snickers_marathon_ener": {
-    "name": "Form bar, mars snack us, snickers marathon energy bar, all flav",
-    "alternative_names": [],
-    "description": "Form bar, mars snack us, snickers marathon energy bar, all flav."
   },
   "pretzels_soft_unsalted": {
     "name": "Pretzels, soft, unsalted",
@@ -3134,35 +2769,10 @@
     "alternative_names": [],
     "description": "Snac, grano bar, gener mills nature vall, swe&sal nut, peanu."
   },
-  "snack_gran_bar_general_mills_nature_valley_w": {
-    "name": "Snack, gran bar, general mills, nature valley, with yogu coati",
-    "alternative_names": [],
-    "description": "Snack, gran bar, general mills, nature valley, with yogu coati."
-  },
   "snac_grano_bar_gener_mills_natur_valle_chewy": {
     "name": "Snac, grano bar, gener mills, natur valle, chewy trail mix",
     "alternative_names": [],
     "description": "Snac, grano bar, gener mills, natur valle, chewy trail mix."
-  },
-  "dip_salsa_con_queso_chs_salsa_med": {
-    "name": "Dip, salsa con queso, cheese & salsa- med",
-    "alternative_names": [],
-    "description": "Dip, salsa con queso, cheese & salsa- med."
-  },
-  "dip_old_el_paso_chs_n_salsa_med": {
-    "name": "Dip, old el paso, cheese 'n salsa, med",
-    "alternative_names": [],
-    "description": "Dip, old el paso, cheese 'n salsa, med."
-  },
-  "dip_tostitos_salsa_con_queso_med": {
-    "name": "Dip, tostitos, salsa con queso, med",
-    "alternative_names": [],
-    "description": "Dip, tostitos, salsa con queso, med."
-  },
-  "melon_banana": {
-    "name": "Melon, banana (navajo)",
-    "alternative_names": [],
-    "description": "Melon, banana (navajo)."
   },
   "cornmeal_white": {
     "name": "Cornmeal, white (navajo)",
@@ -3429,11 +3039,6 @@
     "alternative_names": [],
     "description": "Salad dressing, caesar, lo cal."
   },
-  "beverage_milkshake_mix_dry_not_choc": {
-    "name": "Beverage, milkshake mix, dry, not chocolate",
-    "alternative_names": [],
-    "description": "Beverage, milkshake mix, dry, not chocolate."
-  },
   "pretzels_soft": {
     "name": "Pretzels, soft",
     "alternative_names": [],
@@ -3454,20 +3059,10 @@
     "alternative_names": [],
     "description": "Eggplant, pickled."
   },
-  "beverage_inst_brkfst_pdr_choc_not_recon": {
-    "name": "Beverage, instant breakfast powder, chocolate, not recon",
-    "alternative_names": [],
-    "description": "Beverage, instant breakfast powder, chocolate, not recon."
-  },
   "salad_drsng_bttrmlk_lite": {
     "name": "Salad dressing, buttermilk, lite",
     "alternative_names": [],
     "description": "Salad dressing, buttermilk, lite."
-  },
-  "beverage_inst_brkfst_pdr_choc_sugar_free_not": {
-    "name": "Beverage, instant breakfast powder, chocolate, sugar-free, not recon",
-    "alternative_names": [],
-    "description": "Beverage, instant breakfast powder, chocolate, sugar-free, not recon."
   },
   "frozen_novelties_ice_crm_type_sundae_prepacka": {
     "name": "Frozen novelties, ice cream type, sundae, prepackaged",
@@ -3579,23 +3174,6 @@
     "alternative_names": [],
     "description": "Turtle, green, raw."
   },
-  "tea_green_brewed": {
-    "name": "Green tea, brewed",
-    "alternative_names": [
-      "Brewed green tea",
-      "Sencha",
-      "Matcha tea"
-    ],
-    "description": "Brewed green tea, containing moderate amounts of Vitamin K1 which can interfere with anticoagulants."
-  },
-  "chamomile_tea": {
-    "name": "Chamomile tea, brewed",
-    "alternative_names": [
-      "Manzanilla tea",
-      "Camomile tea"
-    ],
-    "description": "Brewed chamomile tea, containing natural coumarin compounds which may have additive antiplatelet effects."
-  },
   "seaweed_kelp": {
     "name": "Kelp (Seaweed), raw",
     "alternative_names": [
@@ -3653,11 +3231,6 @@
     "alternative_names": [],
     "description": "Falafel, prepacked."
   },
-  "lasagna_or_cannelloni_with_vegetables_prepacked": {
-    "name": "Lasagna or cannelloni with vegetables, prepacked",
-    "alternative_names": [],
-    "description": "Lasagna or cannelloni with vegetables, prepacked."
-  },
   "soy_based_minced_meat_imitate_prepacked": {
     "name": "Soy-based minced meat imitate, prepacked",
     "alternative_names": [],
@@ -3678,20 +3251,10 @@
     "alternative_names": [],
     "description": "Hamburger, from fast food."
   },
-  "cheeseburger_from_fast_food": {
-    "name": "Cheeseburger, from fast food",
-    "alternative_names": [],
-    "description": "Cheeseburger, from fast food."
-  },
   "vol_au_vent_with_meatpoultryquenelle": {
     "name": "Vol-au-vent with meat/poultry/quenelle",
     "alternative_names": [],
     "description": "Vol-au-vent with meat/poultry/quenelle."
-  },
-  "avocado_flesh_without_skin_pitted_raw": {
-    "name": "Avocado, flesh without skin, pitted, raw",
-    "alternative_names": [],
-    "description": "Avocado, flesh without skin, pitted, raw."
   },
   "chayote_raw": {
     "name": "Chayote, raw",
@@ -3727,11 +3290,6 @@
     "name": "Sweet pepper, yellow, raw",
     "alternative_names": [],
     "description": "Sweet pepper, yellow, raw."
-  },
-  "snow_pea_raw": {
-    "name": "Snow pea, raw",
-    "alternative_names": [],
-    "description": "Snow pea, raw."
   },
   "roman_rocket_raw": {
     "name": "Roman rocket, raw",
@@ -3792,16 +3350,6 @@
     "name": "Artichoke, globe, base, canned, drained",
     "alternative_names": [],
     "description": "Artichoke, globe, base, canned, drained."
-  },
-  "snow_pea_boiledcooked_in_water": {
-    "name": "Snow pea, boiled/cooked in water",
-    "alternative_names": [],
-    "description": "Snow pea, boiled/cooked in water."
-  },
-  "snow_pea_cooked": {
-    "name": "Snow pea, cooked",
-    "alternative_names": [],
-    "description": "Snow pea, cooked."
   },
   "vegetables_3_4_types_mashed": {
     "name": "Vegetables (3-4 types), mashed",
@@ -3882,16 +3430,6 @@
     "name": "Red kidney bean, boiled/cooked in water",
     "alternative_names": [],
     "description": "Red kidney bean, boiled/cooked in water."
-  },
-  "split_pea_boiledcooked_in_water": {
-    "name": "Split pea, boiled/cooked in water",
-    "alternative_names": [],
-    "description": "Split pea, boiled/cooked in water."
-  },
-  "chick_pea_boiledcooked_in_water": {
-    "name": "Chicken pea, boiled/cooked in water",
-    "alternative_names": [],
-    "description": "Chicken pea, boiled/cooked in water."
   },
   "haricot_bean_canned_drained": {
     "name": "Haricot bean, canned, drained",
@@ -4008,11 +3546,6 @@
     "alternative_names": [],
     "description": "Red currant, raw."
   },
-  "mirabelle_plum_pitted_raw": {
-    "name": "Mirabelle plum, pitted, raw",
-    "alternative_names": [],
-    "description": "Mirabelle plum, pitted, raw."
-  },
   "rhubarb_stalk_raw": {
     "name": "Rhubarb, stalk, raw",
     "alternative_names": [],
@@ -4027,11 +3560,6 @@
     "name": "Guava, flesh without skin, raw",
     "alternative_names": [],
     "description": "Guava, flesh without skin, raw."
-  },
-  "plum_flesh_and_skin_pitted_raw": {
-    "name": "Plum, flesh and skin, pitted, raw",
-    "alternative_names": [],
-    "description": "Plum, flesh and skin, pitted, raw."
   },
   "fruit_raw_average": {
     "name": "Fruit, raw (average)",
@@ -4057,26 +3585,6 @@
     "name": "Date, flesh and skin, pitted, dried",
     "alternative_names": [],
     "description": "Date, flesh and skin, pitted, dried."
-  },
-  "prune_pitted": {
-    "name": "Prune, pitted",
-    "alternative_names": [],
-    "description": "Prune, pitted."
-  },
-  "raisin": {
-    "name": "Raisin",
-    "alternative_names": [],
-    "description": "Raisin."
-  },
-  "tropical_fruit_mix_sweetened_for_snack_dried": {
-    "name": "Tropical fruit mix, sweetened, for snack, dried",
-    "alternative_names": [],
-    "description": "Tropical fruit mix, sweetened, for snack, dried."
-  },
-  "banana_flesh_without_skin_dried": {
-    "name": "Banana, flesh without skin, dried",
-    "alternative_names": [],
-    "description": "Banana, flesh without skin, dried."
   },
   "goji_berry_dried": {
     "name": "Goji berry, dried",
@@ -4293,16 +3801,6 @@
     "alternative_names": [],
     "description": "Capon, meat and skin, raw."
   },
-  "duck_meat_raw": {
-    "name": "Duck, meat, raw",
-    "alternative_names": [],
-    "description": "Duck, meat, raw."
-  },
-  "goose_meat_raw": {
-    "name": "Goose, meat, raw",
-    "alternative_names": [],
-    "description": "Goose, meat, raw."
-  },
   "duck_terrine": {
     "name": "Duck terrine",
     "alternative_names": [],
@@ -4423,11 +3921,6 @@
     "alternative_names": [],
     "description": "Soy dessert, refrigerated (average)."
   },
-  "plant_based_drink_prepacked_average": {
-    "name": "Plant-based drink, prepacked (average)",
-    "alternative_names": [],
-    "description": "Plant-based drink, prepacked (average)."
-  },
   "soy_drink_prepacked_average": {
     "name": "Soy drink, prepacked (average)",
     "alternative_names": [],
@@ -4467,11 +3960,6 @@
     "name": "Fruit jelly or fruit paste",
     "alternative_names": [],
     "description": "Fruit jelly or fruit paste."
-  },
-  "calisson_from_aix_en_provence_marzipan_and_candied_melon_sweet": {
-    "name": "Calisson from Aix en Provence (marzipan and candied melon sweet)",
-    "alternative_names": [],
-    "description": "Calisson from Aix en Provence (marzipan and candied melon sweet)."
   },
   "other_jam_reduced_sugar": {
     "name": "Other jam, reduced sugar",
@@ -4557,11 +4045,6 @@
     "name": "Dessert, Opera cake type",
     "alternative_names": [],
     "description": "Dessert, Opera cake type."
-  },
-  "rum_baba_from_bakery": {
-    "name": "Rum baba, from bakery",
-    "alternative_names": [],
-    "description": "Rum baba, from bakery."
   },
   "christmas_log_cake": {
     "name": "Christmas log cake",
@@ -4697,11 +4180,6 @@
     "name": "Paprika, powder",
     "alternative_names": [],
     "description": "Paprika, powder."
-  },
-  "cloves": {
-    "name": "Cloves",
-    "alternative_names": [],
-    "description": "Cloves."
   },
   "spice_average": {
     "name": "Spice (average)",
