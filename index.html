@@ -555,6 +555,7 @@
         <ul class="nav-list">
           <li><a href="#welcome" class="nav-link active"><svg viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>Welcome</a></li>
           <li><a href="#directory" class="nav-link"><svg viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg>Data Tree Explorer</a></li>
+          <li><a href="#sources" class="nav-link"><svg viewBox="0 0 24 24"><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H8V4h12v12z"/></svg>Data Sources</a></li>
           <li><a href="#architecture" class="nav-link"><svg viewBox="0 0 24 24"><path d="M12 2C7.58 2 4 3.79 4 6v12c0 2.21 3.58 4 8 4s8-1.79 8-4V6c0-2.21-3.58-4-8-4zm0 2c3.87 0 6 1.43 6 2s-2.13 2-6 2-6-1.43-6-2 2.13-2 6-2zm0 6c3.87 0 6 1.43 6 2s-2.13 2-6 2-6-1.43-6-2 2.13-2 6-2zm0 6c3.87 0 6 1.43 6 2s-2.13 2-6 2-6-1.43-6-2 2.13-2 6-2z"/></svg>Data Architecture</a></li>
           <li><a href="#sync" class="nav-link"><svg viewBox="0 0 24 24"><path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm-1.79 9.8l-2.42-2.42-1.41 1.41 3.83 3.83 7.07-7.07-1.41-1.41-5.66 5.67z"/></svg>Data Sync Guide</a></li>
           <li><a href="#versioning" class="nav-link"><svg viewBox="0 0 24 24"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/></svg>Versioning & Hashes</a></li>
@@ -697,6 +698,48 @@
             <div class="explorer-list" id="system-files-container">
               <p style="color: var(--text-muted); font-size: 0.9rem;">Loading files...</p>
             </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section: Data Sources & Quality Criteria -->
+      <section id="sources">
+        <h2>
+          <svg viewBox="0 0 24 24" style="width: 24px; height: 24px; fill: currentColor; vertical-align: middle; margin-right: 0.5rem;"><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H8V4h12v12z"/></svg>
+          Data Sources & Quality Criteria
+        </h2>
+        <p class="section-intro">
+          To maintain clinical reliability and data integrity, all food entries and interaction mappings must trace back to official, high-quality reference databases.
+        </p>
+
+        <div class="card-grid">
+          <!-- Card: Requirements for adding sources -->
+          <div class="card">
+            <h3>Adding New Sources</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 0.75rem;">
+              Every time a new source of information is used in the database, it must meet the following criteria:
+            </p>
+            <ul style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; padding-left: 1.2rem; margin: 0;">
+              <li><strong>Credibility & Authority:</strong> Only official national/governmental food composition databases, peer-reviewed clinical studies, or recognized medical monographs are permitted. Ad-hoc recipe sites or unverified blogs are strictly prohibited.</li>
+              <li><strong>Traceability:</strong> The source must be explicitly documented in the <code>source</code> attribute of the food item, specifying the database name and record identifier (e.g. food code, NDB ID, or publication ID).</li>
+              <li><strong>Standardized Base:</strong> Nutritional values must be provided in micrograms (&mu;g) per 100g (or 100mL) for base portions.</li>
+            </ul>
+          </div>
+
+          <!-- Card: List of integrated sources -->
+          <div class="card">
+            <h3>Currently Integrated Sources</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 0.75rem;">
+              The database aggregates and cross-references data from the following verified databases:
+            </p>
+            <ul style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; padding-left: 1.2rem; margin: 0;">
+              <li><strong>USDA SR28 / FoodData Central:</strong> The primary source for raw food components and portions (US Department of Agriculture).</li>
+              <li><strong>CIQUAL 2025:</strong> The French food composition table managed by ANSES, providing detailed Vitamin K1 and K2 measurements.</li>
+              <li><strong>FDA Prescribing Information:</strong> Official US Food and Drug Administration drug labels (e.g. Coumadin/Warfarin).</li>
+              <li><strong>Stockley's Drug Interactions:</strong> Standard reference handbook for clinical drug-drug and food-drug interactions.</li>
+              <li><strong>MSKCC "About Herbs":</strong> Memorial Sloan Kettering Cancer Center database for herbal and botanical components.</li>
+              <li><strong>NIH NCCIH:</strong> National Center for Complementary and Integrative Health resources.</li>
+            </ul>
           </div>
         </div>
       </section>

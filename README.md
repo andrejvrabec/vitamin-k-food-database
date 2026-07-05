@@ -38,6 +38,27 @@ A public, open-source dataset containing Vitamin K levels in various foods. The 
 
 ---
 
+## Data Sources & Quality Criteria
+
+To maintain clinical reliability and data integrity, all food entries and interaction mappings must trace back to official, high-quality reference databases.
+
+### Requirements for Adding New Sources
+Whenever a new source is added to the database:
+1. **Credibility & Authority:** Only official national/governmental food composition databases, peer-reviewed clinical studies, or recognized medical monographs are permitted. Ad-hoc recipe sites or unverified blogs are strictly prohibited.
+2. **Traceability:** The source must be explicitly documented in the `source` attribute of the food item, specifying the database name and record identifier (e.g. food code, NDB ID, or publication ID).
+3. **Standardized Base:** Nutritional values must be provided in micrograms ($\mu\text{g}$) per 100g (or 100mL) for base portions.
+
+### Currently Integrated Sources
+The database aggregates and cross-references data from the following verified databases:
+- **USDA SR28 / FoodData Central:** The primary source for raw food components and portions (US Department of Agriculture).
+- **CIQUAL 2025:** The French food composition table managed by ANSES, providing detailed Vitamin K1 and K2 measurements.
+- **FDA Prescribing Information:** Official US Food and Drug Administration drug labels (e.g. Coumadin/Warfarin).
+- **Stockley's Drug Interactions:** Standard reference handbook for clinical drug-drug and food-drug interactions.
+- **MSKCC "About Herbs":** Memorial Sloan Kettering Cancer Center database for herbal and botanical components.
+- **NIH NCCIH:** National Center for Complementary and Integrative Health resources.
+
+---
+
 ## Data Schema & Rules
 
 ### 1. Root Metadata (`data/metadata.json`)
