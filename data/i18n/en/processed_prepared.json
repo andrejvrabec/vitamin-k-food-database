@@ -360,9 +360,9 @@
     "description": "Cream, whipped, cream topping, pressurized."
   },
   "dessert_topping_pdr_15_oz_prep_w12_cup_milk": {
-    "name": "Dessert topping, powder, 1.5 oz prep with1/2 cup milk",
+    "name": "Dessert topping, powder, 1.5 oz prepared with1/2 cup milk",
     "alternative_names": [],
-    "description": "Dessert topping, powder, 1.5 oz prep with1/2 cup milk."
+    "description": "Dessert topping, powder, 1.5 oz prepared with1/2 cup milk."
   },
   "dessert_topping_semi_solid_frz": {
     "name": "Dessert topping, semi solid, frozen",
@@ -370,9 +370,9 @@
     "description": "Dessert topping, semi solid, frozen."
   },
   "parmesan_chs_topping_fat_free": {
-    "name": "Parmesan chs topping, fat free",
+    "name": "Parmesan cheese topping, fat free",
     "alternative_names": [],
-    "description": "Parmesan chs topping, fat free."
+    "description": "Parmesan cheese topping, fat free."
   },
   "reddi_wip_fat_free_whipped_topping": {
     "name": "Reddi wip fat free whipped topping",
@@ -425,9 +425,9 @@
     "description": "Babyfood, dinner, macaroni&tomato&beef, jr."
   },
   "babyfood_ravioli_chs_filled_wtomato_sau": {
-    "name": "Babyfood, ravioli, chs filled, withtomato sauce",
+    "name": "Babyfood, ravioli, cheese filled, withtomato sauce",
     "alternative_names": [],
-    "description": "Babyfood, ravioli, chs filled, withtomato sauce."
+    "description": "Babyfood, ravioli, cheese filled, withtomato sauce."
   },
   "babyfood_dinner_bf_noodle_str": {
     "name": "Babyfood, dinner, beef noodle, str",
@@ -435,9 +435,9 @@
     "description": "Babyfood, dinner, beef noodle, str."
   },
   "babyfood_macaronichs_todd": {
-    "name": "Babyfood, macaroni&chs, todd",
+    "name": "Babyfood, macaroni&cheese, todd",
     "alternative_names": [],
-    "description": "Babyfood, macaroni&chs, todd."
+    "description": "Babyfood, macaroni&cheese, todd."
   },
   "babyfood_dinner_spaghettitomatomeat_jr": {
     "name": "Babyfood, dinner, spaghetti&tomato&meat, jr",
@@ -535,14 +535,14 @@
     "description": "Babyfood, dinner, vegetable&turkey, jr."
   },
   "babyfood_dinner_macaronichs_str": {
-    "name": "Babyfood, dinner, macaroni&chs, str",
+    "name": "Babyfood, dinner, macaroni&cheese, str",
     "alternative_names": [],
-    "description": "Babyfood, dinner, macaroni&chs, str."
+    "description": "Babyfood, dinner, macaroni&cheese, str."
   },
   "babyfood_dinner_macaronichs_jr": {
-    "name": "Babyfood, dinner, macaroni&chs, jr",
+    "name": "Babyfood, dinner, macaroni&cheese, jr",
     "alternative_names": [],
-    "description": "Babyfood, dinner, macaroni&chs, jr."
+    "description": "Babyfood, dinner, macaroni&cheese, jr."
   },
   "babyfood_veg_grn_bns_str": {
     "name": "Babyfood, vegetable, grn bns, str",
@@ -815,9 +815,9 @@
     "description": "Babyfood, juice, orange&apple&banana."
   },
   "babyfood_juc_mxd_fruit": {
-    "name": "Babyfood, juice, mxd fruit",
+    "name": "Babyfood, juice, mixed fruit",
     "alternative_names": [],
-    "description": "Babyfood, juice, mxd fruit."
+    "description": "Babyfood, juice, mixed fruit."
   },
   "babyfood_crl_barley_dry": {
     "name": "Babyfood, crl, barley, dry",
@@ -835,19 +835,19 @@
     "description": "Babyfood, cereal, mixed, dry."
   },
   "babyfood_crl_mxd_wbananas_dry": {
-    "name": "Babyfood, crl, mxd, withbananas, dry",
+    "name": "Babyfood, crl, mixed, withbananas, dry",
     "alternative_names": [],
-    "description": "Babyfood, crl, mxd, withbananas, dry."
+    "description": "Babyfood, crl, mixed, withbananas, dry."
   },
   "babyfood_crl_mxd_wapplsaucbananas_str": {
-    "name": "Babyfood, crl, mxd, withapplsauc&bananas, str",
+    "name": "Babyfood, crl, mixed, withapplsauc&bananas, str",
     "alternative_names": [],
-    "description": "Babyfood, crl, mxd, withapplsauc&bananas, str."
+    "description": "Babyfood, crl, mixed, withapplsauc&bananas, str."
   },
   "babyfood_crl_mxd_w_applsauc_bananas_jr": {
-    "name": "Babyfood, crl, mxd, with/ applsauc & bananas, jr",
+    "name": "Babyfood, crl, mixed, with/ applsauc & bananas, jr",
     "alternative_names": [],
-    "description": "Babyfood, crl, mxd, with/ applsauc & bananas, jr."
+    "description": "Babyfood, crl, mixed, with/ applsauc & bananas, jr."
   },
   "babyfood_crl_oatmeal_dry": {
     "name": "Babyfood, crl, oatmeal, dry",
@@ -1035,34 +1035,34 @@
     "description": "Babyfood, dinner, potatoes withchs&ham, todd."
   },
   "babyfood_crl_barley_prep_wwhl_milk": {
-    "name": "Babyfood, crl, barley, prep withwhl milk",
+    "name": "Babyfood, crl, barley, prepared withwhl milk",
     "alternative_names": [],
-    "description": "Babyfood, crl, barley, prep withwhl milk."
+    "description": "Babyfood, crl, barley, prepared withwhl milk."
   },
   "babyfood_crl_mxd_prep_wwhl_milk": {
-    "name": "Babyfood, crl, mxd, prep withwhl milk",
+    "name": "Babyfood, crl, mixed, prepared withwhl milk",
     "alternative_names": [],
-    "description": "Babyfood, crl, mxd, prep withwhl milk."
+    "description": "Babyfood, crl, mixed, prepared withwhl milk."
   },
   "babyfood_crl_mxd_wbananas_prep_wwhl_milk": {
-    "name": "Babyfood, crl, mxd, withbananas, prep withwhl milk",
+    "name": "Babyfood, crl, mixed, withbananas, prepared withwhl milk",
     "alternative_names": [],
-    "description": "Babyfood, crl, mxd, withbananas, prep withwhl milk."
+    "description": "Babyfood, crl, mixed, withbananas, prepared withwhl milk."
   },
   "babyfood_crl_oatmeal_wbananas_prep_wwhl_milk": {
-    "name": "Babyfood, crl, oatmeal, withbananas, prep withwhl milk",
+    "name": "Babyfood, crl, oatmeal, withbananas, prepared withwhl milk",
     "alternative_names": [],
-    "description": "Babyfood, crl, oatmeal, withbananas, prep withwhl milk."
+    "description": "Babyfood, crl, oatmeal, withbananas, prepared withwhl milk."
   },
   "babyfood_crl_rice_prep_wwhl_milk": {
-    "name": "Babyfood, crl, rice, prep withwhl milk",
+    "name": "Babyfood, crl, rice, prepared withwhl milk",
     "alternative_names": [],
-    "description": "Babyfood, crl, rice, prep withwhl milk."
+    "description": "Babyfood, crl, rice, prepared withwhl milk."
   },
   "babyfood_crl_rice_wbananas_prep_wwhl_milk": {
-    "name": "Babyfood, crl, rice, withbananas, prep withwhl milk",
+    "name": "Babyfood, crl, rice, withbananas, prepared withwhl milk",
     "alternative_names": [],
-    "description": "Babyfood, crl, rice, withbananas, prep withwhl milk."
+    "description": "Babyfood, crl, rice, withbananas, prepared withwhl milk."
   },
   "inf_formula_nestle_good_start_supreme_w_iron": {
     "name": "Infant formula, nestle, good start supreme, with iron, ready-to-feed",
@@ -1125,9 +1125,9 @@
     "description": "Toddler formula, mead johnson, portagen, with iron, powder, not recon."
   },
   "child_formula_mead_johnson_portagen_w_iron_pr": {
-    "name": "Toddler formula, mead johnson, portagen, with iron, prep from powder",
+    "name": "Toddler formula, mead johnson, portagen, with iron, prepared from powder",
     "alternative_names": [],
-    "description": "Toddler formula, mead johnson, portagen, with iron, prep from powder."
+    "description": "Toddler formula, mead johnson, portagen, with iron, prepared from powder."
   },
   "infant_formula_mead_johnson_pregestimil_wiron": {
     "name": "Infant formula, mead johnson, pregestimil, with iron, powder, not recon",
@@ -1340,9 +1340,9 @@
     "description": "Infant formula, mead johnson, enfamil, gentlease, powder."
   },
   "sandwich_sprd_wchopd_pickle_reg_unspec_oils": {
-    "name": "Sandwich sprd, withchopd pickle, regular, unspec oils",
+    "name": "Sandwich spread, withchopd pickle, regular, unspec oils",
     "alternative_names": [],
-    "description": "Sandwich sprd, withchopd pickle, regular, unspec oils."
+    "description": "Sandwich spread, withchopd pickle, regular, unspec oils."
   },
   "margarine_indus_soy_part_hydr_soy_oil_baking": {
     "name": "Margarine, indus, soy & part hydr soy oil, baking, sauces, candy",
@@ -1375,9 +1375,9 @@
     "description": "Soup, cream of celery, canned, condensed."
   },
   "soup_chs_cnd_cond": {
-    "name": "Soup, chs, canned, condensed",
+    "name": "Soup, cheese, canned, condensed",
     "alternative_names": [],
-    "description": "Soup, chs, canned, condensed."
+    "description": "Soup, cheese, canned, condensed."
   },
   "soup_chick_w_dumplings_cnd_cond": {
     "name": "Soup, chicken with/ dumplings, canned, condensed",
@@ -1555,9 +1555,9 @@
     "description": "Soup, cream of vegetable, dry, powder."
   },
   "sauce_chs_dry_pdr": {
-    "name": "Sauce, chs, dry, powder",
+    "name": "Sauce, cheese, dry, powder",
     "alternative_names": [],
-    "description": "Sauce, chs, dry, powder."
+    "description": "Sauce, cheese, dry, powder."
   },
   "gravy_bf_cnd_rts": {
     "name": "Gravy, beef, canned, rts",
@@ -1655,24 +1655,24 @@
     "description": "Soup, cream of mushroom, canned, condensed, red na."
   },
   "soup_beanham_cnd_red_na_prep_wh2o_or_rts": {
-    "name": "Soup, bean&ham, canned, red na, prep withh2o or rts",
+    "name": "Soup, bean&ham, canned, red na, prepared withh2o or rts",
     "alternative_names": [],
-    "description": "Soup, bean&ham, canned, red na, prep withh2o or rts."
+    "description": "Soup, bean&ham, canned, red na, prepared withh2o or rts."
   },
   "split_pea_soup_cnd_red_na_prep_w_h2o_or_ready": {
-    "name": "Split pea soup, canned, red na, prep with/ h2o or ready-to serve",
+    "name": "Split pea soup, canned, red na, prepared with/ h2o or ready-to serve",
     "alternative_names": [],
-    "description": "Split pea soup, canned, red na, prep with/ h2o or ready-to serve."
+    "description": "Split pea soup, canned, red na, prepared with/ h2o or ready-to serve."
   },
   "split_pea_w_ham_soup_cnd_red_na_prep_w_h2o_or": {
-    "name": "Split pea with/ ham soup, canned, red na, prep with/ h2o or rts",
+    "name": "Split pea with/ ham soup, canned, red na, prepared with/ h2o or rts",
     "alternative_names": [],
-    "description": "Split pea with/ ham soup, canned, red na, prep with/ h2o or rts."
+    "description": "Split pea with/ ham soup, canned, red na, prepared with/ h2o or rts."
   },
   "soup_chick_veg_wpotatochs_chunky_rts": {
-    "name": "Soup, chicken vegetable withpotato&chs, chunky, rts",
+    "name": "Soup, chicken vegetable withpotato&cheese, chunky, rts",
     "alternative_names": [],
-    "description": "Soup, chicken vegetable withpotato&chs, chunky, rts."
+    "description": "Soup, chicken vegetable withpotato&cheese, chunky, rts."
   },
   "soup_veg_cnd_lo_na_cond": {
     "name": "Soup, vegetable, canned, lo na, condensed",
@@ -1680,19 +1680,19 @@
     "description": "Soup, vegetable, canned, lo na, condensed."
   },
   "soup_clam_chowder_new_eng_cnd_prep_w_eq_vlm_l": {
-    "name": "Soup, clam chowder, new eng, canned, prep with/ eq vlm lofat (2%) milk",
+    "name": "Soup, clam chowder, new eng, canned, prepared with/ eq vlm low fat (2%) milk",
     "alternative_names": [],
-    "description": "Soup, clam chowder, new eng, canned, prep with/ eq vlm lofat (2%) milk."
+    "description": "Soup, clam chowder, new eng, canned, prepared with/ eq vlm low fat (2%) milk."
   },
   "soup_crm_of_mushroom_cnd_prep_w_eq_volume_lof": {
-    "name": "Soup, cream of mushroom, canned, prep with/ eq volume lofat (2%) milk",
+    "name": "Soup, cream of mushroom, canned, prepared with/ eq volume low fat (2%) milk",
     "alternative_names": [],
-    "description": "Soup, cream of mushroom, canned, prep with/ eq volume lofat (2%) milk."
+    "description": "Soup, cream of mushroom, canned, prepared with/ eq volume low fat (2%) milk."
   },
   "soup_crm_of_shrimp_cnd_prep_w_eq_volume_lofat": {
-    "name": "Soup, cream of shrimp, canned, prep with/ eq volume lofat (2%) milk",
+    "name": "Soup, cream of shrimp, canned, prepared with/ eq volume low fat (2%) milk",
     "alternative_names": [],
-    "description": "Soup, cream of shrimp, canned, prep with/ eq volume lofat (2%) milk."
+    "description": "Soup, cream of shrimp, canned, prepared with/ eq volume low fat (2%) milk."
   },
   "sauce_white_thin_prepared_from_recipe_w_butte": {
     "name": "Sauce, white, thin, prepared-from-recipe, with/ butter",
@@ -1710,149 +1710,149 @@
     "description": "Campbell's red & white, cream of mushroom soup, condensed."
   },
   "soup_tomato_cnd_prep_w_eq_volume_lofat_milk": {
-    "name": "Soup, tomato, canned, prep with/ eq volume lofat (2%) milk",
+    "name": "Soup, tomato, canned, prepared with/ eq volume low fat (2%) milk",
     "alternative_names": [],
-    "description": "Soup, tomato, canned, prep with/ eq volume lofat (2%) milk."
+    "description": "Soup, tomato, canned, prepared with/ eq volume low fat (2%) milk."
   },
   "soup_black_bean_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, black bean, canned, prep with/ eq volumes of water",
+    "name": "Soup, black bean, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, black bean, canned, prep with/ eq volumes of water."
+    "description": "Soup, black bean, canned, prepared with/ eq volumes of water."
   },
   "soup_bean_w_pork_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, bean with/ pork, canned, prep with/ eq volumes of water",
+    "name": "Soup, bean with/ pork, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, bean with/ pork, canned, prep with/ eq volumes of water."
+    "description": "Soup, bean with/ pork, canned, prepared with/ eq volumes of water."
   },
   "soup_bf_noodle_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, beef noodle, canned, prep with/ eq volumes of water",
+    "name": "Soup, beef noodle, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, beef noodle, canned, prep with/ eq volumes of water."
+    "description": "Soup, beef noodle, canned, prepared with/ eq volumes of water."
   },
   "soup_chick_w_dumplings_cnd_prep_w_eq_volume_h": {
-    "name": "Soup, chicken with/ dumplings, canned, prep with/ eq volumes of water",
+    "name": "Soup, chicken with/ dumplings, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, chicken with/ dumplings, canned, prep with/ eq volumes of water."
+    "description": "Soup, chicken with/ dumplings, canned, prepared with/ eq volumes of water."
   },
   "soup_chick_gumbo_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, chicken gumbo, canned, prep with/ eq volumes of water",
+    "name": "Soup, chicken gumbo, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, chicken gumbo, canned, prep with/ eq volumes of water."
+    "description": "Soup, chicken gumbo, canned, prepared with/ eq volumes of water."
   },
   "soup_chick_w_rice_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, chicken with/ rice, canned, prep with/ eq volumes of water",
+    "name": "Soup, chicken with/ rice, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, chicken with/ rice, canned, prep with/ eq volumes of water."
+    "description": "Soup, chicken with/ rice, canned, prepared with/ eq volumes of water."
   },
   "soup_chick_veg_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, chicken vegetable, canned, prep with/ eq volumes of water",
+    "name": "Soup, chicken vegetable, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, chicken vegetable, canned, prep with/ eq volumes of water."
+    "description": "Soup, chicken vegetable, canned, prepared with/ eq volumes of water."
   },
   "soup_chili_bf_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, chili beef, canned, prep with/ eq volumes of water",
+    "name": "Soup, chili beef, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, chili beef, canned, prep with/ eq volumes of water."
+    "description": "Soup, chili beef, canned, prepared with/ eq volumes of water."
   },
   "soup_clam_chowder_manhattan_cnd_prep_weq_volu": {
-    "name": "Soup, clam chowder, manhattan, canned, prep witheq volumes of water",
+    "name": "Soup, clam chowder, manhattan, canned, prepared witheq volumes of water",
     "alternative_names": [],
-    "description": "Soup, clam chowder, manhattan, canned, prep witheq volumes of water."
+    "description": "Soup, clam chowder, manhattan, canned, prepared witheq volumes of water."
   },
   "soup_clam_chowder_new_england_cnd_prep_w_eq_v": {
-    "name": "Soup, clam chowder, new england, canned, prep with/ eq volumes of water",
+    "name": "Soup, clam chowder, new england, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, clam chowder, new england, canned, prep with/ eq volumes of water."
+    "description": "Soup, clam chowder, new england, canned, prepared with/ eq volumes of water."
   },
   "soup_crm_of_mushroom_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, cream of mushroom, canned, prep with/ eq volumes of water",
+    "name": "Soup, cream of mushroom, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, cream of mushroom, canned, prep with/ eq volumes of water."
+    "description": "Soup, cream of mushroom, canned, prepared with/ eq volumes of water."
   },
   "soup_onion_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, onion, canned, prep with/ eq volumes of water",
+    "name": "Soup, onion, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, onion, canned, prep with/ eq volumes of water."
+    "description": "Soup, onion, canned, prepared with/ eq volumes of water."
   },
   "soup_pea_grn_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, pea, grn, canned, prep with/ eq volumes of water",
+    "name": "Soup, pea, grn, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, pea, grn, canned, prep with/ eq volumes of water."
+    "description": "Soup, pea, grn, canned, prepared with/ eq volumes of water."
   },
   "soup_tomato_rice_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, tomato rice, canned, prep with/ eq volumes of water",
+    "name": "Soup, tomato rice, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, tomato rice, canned, prep with/ eq volumes of water."
+    "description": "Soup, tomato rice, canned, prepared with/ eq volumes of water."
   },
   "soup_vegetarian_veg_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, vegetarian vegetable, canned, prep with/ eq volumes of water",
+    "name": "Soup, vegetarian vegetable, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, vegetarian vegetable, canned, prep with/ eq volumes of water."
+    "description": "Soup, vegetarian vegetable, canned, prepared with/ eq volumes of water."
   },
   "soup_veg_bf_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, vegetable beef, canned, prep with/ eq volumes of water",
+    "name": "Soup, vegetable beef, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, vegetable beef, canned, prep with/ eq volumes of water."
+    "description": "Soup, vegetable beef, canned, prepared with/ eq volumes of water."
   },
   "soup_veg_w_bf_broth_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, vegetable with/ beef broth, canned, prep with/ eq volumes of water",
+    "name": "Soup, vegetable with/ beef broth, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, vegetable with/ beef broth, canned, prep with/ eq volumes of water."
+    "description": "Soup, vegetable with/ beef broth, canned, prepared with/ eq volumes of water."
   },
   "soup_bean_w_bacon_dry_mix_prep_w_h2o": {
-    "name": "Soup, bean with/ bacon, dry, mix, prep with/ h2o",
+    "name": "Soup, bean with/ bacon, dry, mix, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Soup, bean with/ bacon, dry, mix, prep with/ h2o."
+    "description": "Soup, bean with/ bacon, dry, mix, prepared with/ h2o."
   },
   "soup_crm_of_chick_dry_mix_prep_w_h2o": {
-    "name": "Soup, cream of chicken, dry, mix, prep with/ h2o",
+    "name": "Soup, cream of chicken, dry, mix, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Soup, cream of chicken, dry, mix, prep with/ h2o."
+    "description": "Soup, cream of chicken, dry, mix, prepared with/ h2o."
   },
   "soup_chick_rice_dry_mix_prep_w_h2o": {
-    "name": "Soup, chicken rice, dry, mix, prep with/ h2o",
+    "name": "Soup, chicken rice, dry, mix, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Soup, chicken rice, dry, mix, prep with/ h2o."
+    "description": "Soup, chicken rice, dry, mix, prepared with/ h2o."
   },
   "soup_mushroom_dry_mix_prep_w_h2o": {
-    "name": "Soup, mushroom, dry, mix, prep with/ h2o",
+    "name": "Soup, mushroom, dry, mix, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Soup, mushroom, dry, mix, prep with/ h2o."
+    "description": "Soup, mushroom, dry, mix, prepared with/ h2o."
   },
   "soup_onion_dry_mix_prep_w_h2o": {
-    "name": "Soup, onion, dry, mix, prep with/ h2o",
+    "name": "Soup, onion, dry, mix, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Soup, onion, dry, mix, prep with/ h2o."
+    "description": "Soup, onion, dry, mix, prepared with/ h2o."
   },
   "soup_oxtail_dry_mix_prep_w_h2o": {
-    "name": "Soup, oxtail, dry, mix, prep with/ h2o",
+    "name": "Soup, oxtail, dry, mix, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Soup, oxtail, dry, mix, prep with/ h2o."
+    "description": "Soup, oxtail, dry, mix, prepared with/ h2o."
   },
   "soup_tomato_dry_mix_prep_w_h2o": {
-    "name": "Soup, tomato, dry, mix, prep with/ h2o",
+    "name": "Soup, tomato, dry, mix, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Soup, tomato, dry, mix, prep with/ h2o."
+    "description": "Soup, tomato, dry, mix, prepared with/ h2o."
   },
   "soup_tomato_veg_dry_mix_prep_w_h2o": {
-    "name": "Soup, tomato vegetable, dry, mix, prep with/ h2o",
+    "name": "Soup, tomato vegetable, dry, mix, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Soup, tomato vegetable, dry, mix, prep with/ h2o."
+    "description": "Soup, tomato vegetable, dry, mix, prepared with/ h2o."
   },
   "soup_veg_bf_dry_mix_prep_w_h2o": {
-    "name": "Soup, vegetable beef, dry, mix, prep with/ h2o",
+    "name": "Soup, vegetable beef, dry, mix, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Soup, vegetable beef, dry, mix, prep with/ h2o."
+    "description": "Soup, vegetable beef, dry, mix, prepared with/ h2o."
   },
   "soup_chick_noodle_dry_mix_prep_w_h2o": {
-    "name": "Soup, chicken noodle, dry, mix, prep with/ h2o",
+    "name": "Soup, chicken noodle, dry, mix, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Soup, chicken noodle, dry, mix, prep with/ h2o."
+    "description": "Soup, chicken noodle, dry, mix, prepared with/ h2o."
   },
   "soup_tomato_cnd_prep_weq_volume_h2o_comm": {
-    "name": "Soup, tomato, canned, prep witheq volumes of water, commercial",
+    "name": "Soup, tomato, canned, prepared witheq volumes of water, commercial",
     "alternative_names": [],
-    "description": "Soup, tomato, canned, prep witheq volumes of water, commercial."
+    "description": "Soup, tomato, canned, prepared witheq volumes of water, commercial."
   },
   "soup_ramen_noodle_any_flavor_dry": {
     "name": "Soup, ramen noodle, any flavor, dry",
@@ -1860,9 +1860,9 @@
     "description": "Soup, ramen noodle, any flavor, dry."
   },
   "soup_broccoli_chs_cnd_cond_comm": {
-    "name": "Soup, broccoli chs, canned, condensed, commercial",
+    "name": "Soup, broccoli cheese, canned, condensed, commercial",
     "alternative_names": [],
-    "description": "Soup, broccoli chs, canned, condensed, commercial."
+    "description": "Soup, broccoli cheese, canned, condensed, commercial."
   },
   "sauce_pasta_spaghettimarinara_rts": {
     "name": "Sauce, pasta, spaghetti/marinara, rts",
@@ -1915,14 +1915,14 @@
     "description": "Soup, tomato, lo na, withh2o."
   },
   "soup_pea_lo_na_prep_w_eq_volume_h2o": {
-    "name": "Soup, pea, lo na, prep with/ eq volumes of water",
+    "name": "Soup, pea, lo na, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, pea, lo na, prep with/ eq volumes of water."
+    "description": "Soup, pea, lo na, prepared with/ eq volumes of water."
   },
   "soup_veg_soup_cond_lo_na_prep_w_eq_volume_h2o": {
-    "name": "Soup, vegetable soup, condensed, lo na, prep with/ eq volumes of water",
+    "name": "Soup, vegetable soup, condensed, lo na, prepared with/ eq volumes of water",
     "alternative_names": [],
-    "description": "Soup, vegetable soup, condensed, lo na, prep with/ eq volumes of water."
+    "description": "Soup, vegetable soup, condensed, lo na, prepared with/ eq volumes of water."
   },
   "soup_crm_of_mushroom_lo_na_rts_cnd": {
     "name": "Soup, cream of mushroom, lo na, rts, canned",
@@ -1950,9 +1950,9 @@
     "description": "Sauce, tomato chili sauce, bottled, no salt, lo na."
   },
   "soup_veg_chick_cnd_prep_w_h2o_lo_na": {
-    "name": "Soup, vegetable chicken, canned, prep with/ h2o, lo na",
+    "name": "Soup, vegetable chicken, canned, prepared with/ h2o, lo na",
     "alternative_names": [],
-    "description": "Soup, vegetable chicken, canned, prep with/ h2o, lo na."
+    "description": "Soup, vegetable chicken, canned, prepared with/ h2o, lo na."
   },
   "sauce_barbecue_lo_na": {
     "name": "Sauce, barbecue, lo na",
@@ -1995,14 +1995,14 @@
     "description": "Guava sauce, cooked."
   },
   "chocolate_flavor_bev_mix_for_milk_pdr_wo_adde": {
-    "name": "Chocolate-flavor bev mix for milk, powder, without/ added Nutramigen",
+    "name": "Chocolate-flavor beverage mix for milk, powder, without/ added Nutramigen",
     "alternative_names": [],
-    "description": "Chocolate-flavor bev mix for milk, powder, without/ added Nutramigen."
+    "description": "Chocolate-flavor beverage mix for milk, powder, without/ added Nutramigen."
   },
   "chocolate_flavor_bev_mix_pdr_prep_w_whl_milk": {
-    "name": "Chocolate-flavor bev mix, powder, prep with/ whole milk",
+    "name": "Chocolate-flavor beverage mix, powder, prepared with/ whole milk",
     "alternative_names": [],
-    "description": "Chocolate-flavor bev mix, powder, prep with/ whole milk."
+    "description": "Chocolate-flavor beverage mix, powder, prepared with/ whole milk."
   },
   "chocolate_syrup": {
     "name": "Chocolate syrup",
@@ -2010,9 +2010,9 @@
     "description": "Chocolate syrup."
   },
   "chocolate_syrup_prep_w_whl_milk": {
-    "name": "Chocolate syrup, prep with/ whole milk",
+    "name": "Chocolate syrup, prepared with/ whole milk",
     "alternative_names": [],
-    "description": "Chocolate syrup, prep with/ whole milk."
+    "description": "Chocolate syrup, prepared with/ whole milk."
   },
   "shake_fast_food_chocolate": {
     "name": "Shake, fast food, chocolate",
@@ -2020,9 +2020,9 @@
     "description": "Shake, fast food, chocolate."
   },
   "chocolate_flavor_bev_mix_w_added_nutr_prep_w": {
-    "name": "Chocolate-flavor bev mix with/ added Nutramigen, prep with/ whole milk",
+    "name": "Chocolate-flavor beverage mix with/ added Nutramigen, prepared with/ whole milk",
     "alternative_names": [],
-    "description": "Chocolate-flavor bev mix with/ added Nutramigen, prep with/ whole milk."
+    "description": "Chocolate-flavor beverage mix with/ added Nutramigen, prepared with/ whole milk."
   },
   "cake_cherry_fudge_wchoc_frstng": {
     "name": "Cake, cherry fudge withchoc frstng",
@@ -2035,9 +2035,9 @@
     "description": "Coffeecake, cinn withcrumb topping, dry mix."
   },
   "coffeecake_cinn_wcrumb_topping_dry_mix_prep": {
-    "name": "Coffeecake, cinn withcrumb topping, dry mix, prep",
+    "name": "Coffeecake, cinn withcrumb topping, dry mix, prepared",
     "alternative_names": [],
-    "description": "Coffeecake, cinn withcrumb topping, dry mix, prep."
+    "description": "Coffeecake, cinn withcrumb topping, dry mix, prepared."
   },
   "doughnuts_cake_type_pln_chocolate_coated_or_f": {
     "name": "Doughnuts, cake-type, pln, chocolate-coated or frstd",
@@ -2060,9 +2060,9 @@
     "description": "Potato chips, barbecue-flavor."
   },
   "potato_chips_made_from_dried_potatoes_lt": {
-    "name": "Potato chips, made from dried potatoes, lt",
+    "name": "Potato chips, made from dried potatoes, light",
     "alternative_names": [],
-    "description": "Potato chips, made from dried potatoes, lt."
+    "description": "Potato chips, made from dried potatoes, light."
   },
   "tortilla_chips_plain": {
     "name": "Tortilla chips, plain",
@@ -2070,9 +2070,9 @@
     "description": "Tortilla chips, plain."
   },
   "snacks_tortilla_chips_nacho_chs": {
-    "name": "Snacks, tortilla chips, nacho chs",
+    "name": "Snacks, tortilla chips, nacho cheese",
     "alternative_names": [],
-    "description": "Snacks, tortilla chips, nacho chs."
+    "description": "Snacks, tortilla chips, nacho cheese."
   },
   "candies_tootsie_roll_chocolate_flavor_roll": {
     "name": "Candies, tootsie roll, chocolate-flavor roll",
@@ -2175,9 +2175,9 @@
     "description": "Candies, milk chocolate."
   },
   "chocolate_flavored_hazelnut_sprd": {
-    "name": "Chocolate-flavored hazelnut sprd",
+    "name": "Chocolate-flavored hazelnut spread",
     "alternative_names": [],
-    "description": "Chocolate-flavored hazelnut sprd."
+    "description": "Chocolate-flavored hazelnut spread."
   },
   "candies_milk_choc_coatd_pnuts": {
     "name": "Candies, milk chocolate coatd pnuts",
@@ -2335,9 +2335,9 @@
     "description": "Snacks, potato chips, red fat."
   },
   "tortilla_chips_lofat_bkd_wofat": {
-    "name": "Tortilla chips, lofat, baked withoutfat",
+    "name": "Tortilla chips, low fat, baked withoutfat",
     "alternative_names": [],
-    "description": "Tortilla chips, lofat, baked withoutfat."
+    "description": "Tortilla chips, low fat, baked withoutfat."
   },
   "snacks_granola_bar_fruit_filled_nonfat": {
     "name": "Snacks, granola bar, fruit-filled, nonfat",
@@ -2355,9 +2355,9 @@
     "description": "Snacks, kellogg's, nutri-grain crl bars, fruit."
   },
   "snacks_tortilla_chips_lofat_made_wolestra_nac": {
-    "name": "Snacks, tortilla chips, lofat, made witholestra, nacho chs",
+    "name": "Snacks, tortilla chips, low fat, made witholestra, nacho cheese",
     "alternative_names": [],
-    "description": "Snacks, tortilla chips, lofat, made witholestra, nacho chs."
+    "description": "Snacks, tortilla chips, low fat, made witholestra, nacho cheese."
   },
   "snacks_potato_chips_frm_dried_potatoes_fat_fr": {
     "name": "Snacks, potato chips, frm dried potatoes, fat-free, with/ olestra",
@@ -2380,9 +2380,9 @@
     "description": "Potato chips, pln, unsalted."
   },
   "snacks_pretzels_hard_pln_made_w_enr_flr_unsal": {
-    "name": "Snacks, pretzels, hard, pln, made with/ enriched flr, unsalted",
+    "name": "Snacks, pretzels, hard, pln, made with/ enriched flour, unsalted",
     "alternative_names": [],
-    "description": "Snacks, pretzels, hard, pln, made with/ enriched flr, unsalted."
+    "description": "Snacks, pretzels, hard, pln, made with/ enriched flour, unsalted."
   },
   "potato_chips_wosalt_red_fat": {
     "name": "Potato chips, withoutsalt, red fat",
@@ -2390,9 +2390,9 @@
     "description": "Potato chips, withoutsalt, red fat."
   },
   "tortilla_chips_lofat_unsalted": {
-    "name": "Tortilla chips, lofat, unsalted",
+    "name": "Tortilla chips, low fat, unsalted",
     "alternative_names": [],
-    "description": "Tortilla chips, lofat, unsalted."
+    "description": "Tortilla chips, low fat, unsalted."
   },
   "candies_soft_fruit_nut_squares": {
     "name": "Candies, soft fruit & nut squares",
@@ -2420,14 +2420,14 @@
     "description": "Candies, crispy bar with/ peanut butter filling."
   },
   "pizza_chs_topping_reg_crust_frz_ckd": {
-    "name": "Pizza, chs topping, regular crust, frozen, cooked",
+    "name": "Pizza, cheese topping, regular crust, frozen, cooked",
     "alternative_names": [],
-    "description": "Pizza, chs topping, regular crust, frozen, cooked."
+    "description": "Pizza, cheese topping, regular crust, frozen, cooked."
   },
   "pizza_chs_topping_rising_crust_frz_ckd": {
-    "name": "Pizza, chs topping, rising crust, frozen, cooked",
+    "name": "Pizza, cheese topping, rising crust, frozen, cooked",
     "alternative_names": [],
-    "description": "Pizza, chs topping, rising crust, frozen, cooked."
+    "description": "Pizza, cheese topping, rising crust, frozen, cooked."
   },
   "pizza_meat_veg_topping_reg_crust_frz_ckd": {
     "name": "Pizza, meat & vegetable topping, regular crust, frozen, cooked",
@@ -2440,19 +2440,19 @@
     "description": "Pizza, meat & vegetable topping, rising crust, frozen, cooked."
   },
   "pizza_hut_12_chs_pizza_hand_tossed_crust": {
-    "name": "Pizza hut 12\" chs pizza, hand-tossed crust",
+    "name": "Pizza hut 12\" cheese pizza, hand-tossed crust",
     "alternative_names": [],
-    "description": "\"pizza hut 12\" chs pizza, hand-tossed crust\"."
+    "description": "\"pizza hut 12\" cheese pizza, hand-tossed crust\"."
   },
   "pizza_hut_12_chs_pizza_pan_crust": {
-    "name": "Pizza hut 12\" chs pizza, pan crust",
+    "name": "Pizza hut 12\" cheese pizza, pan crust",
     "alternative_names": [],
-    "description": "\"pizza hut 12\" chs pizza, pan crust\"."
+    "description": "\"pizza hut 12\" cheese pizza, pan crust\"."
   },
   "pizza_hut_12_chs_pizza_thin_n_crispy_crust": {
-    "name": "Pizza hut 12\" chs pizza, thin 'n crispy crust",
+    "name": "Pizza hut 12\" cheese pizza, thin 'n crispy crust",
     "alternative_names": [],
-    "description": "\"pizza hut 12\" chs pizza, thin 'n crispy crust\"."
+    "description": "\"pizza hut 12\" cheese pizza, thin 'n crispy crust\"."
   },
   "pizza_hut_12_pepperoni_pizza_hand_tossed_crus": {
     "name": "Pizza hut 12\" pepperoni pizza, hand-tossed crust",
@@ -2470,19 +2470,19 @@
     "description": "\"pizza hut 12\" super supreme pizza, hand-tossed crust\"."
   },
   "dominos_14_chs_pizza_classic_hand_tossed_crus": {
-    "name": "Domino's 14\" chs pizza, classic hand-tossed crust",
+    "name": "Domino's 14\" cheese pizza, classic hand-tossed crust",
     "alternative_names": [],
-    "description": "\"domino's 14\" chs pizza, classic hand-tossed crust\"."
+    "description": "\"domino's 14\" cheese pizza, classic hand-tossed crust\"."
   },
   "dominos_14_chs_pizza_ultimate_deep_dish_crust": {
-    "name": "Domino's 14\" chs pizza, ultimate deep dish crust",
+    "name": "Domino's 14\" cheese pizza, ultimate deep dish crust",
     "alternative_names": [],
-    "description": "\"domino's 14\" chs pizza, ultimate deep dish crust\"."
+    "description": "\"domino's 14\" cheese pizza, ultimate deep dish crust\"."
   },
   "dominos_14_chs_pizza_crunchy_thin_crust": {
-    "name": "Domino's 14\" chs pizza, crunchy thin crust",
+    "name": "Domino's 14\" cheese pizza, crunchy thin crust",
     "alternative_names": [],
-    "description": "\"domino's 14\" chs pizza, crunchy thin crust\"."
+    "description": "\"domino's 14\" cheese pizza, crunchy thin crust\"."
   },
   "dominos_14_pepperoni_pizza_classic_hand_tosse": {
     "name": "Domino's 14\" pepperoni pizza, classic hand-tossed crust",
@@ -2500,9 +2500,9 @@
     "description": "\"domino's 14\" extravaganzza fst pizza, clssic hand-tossed crst\"."
   },
   "papa_johns_14_chs_pizza_original_crust": {
-    "name": "Papa john's 14\" chs pizza, original crust",
+    "name": "Papa john's 14\" cheese pizza, original crust",
     "alternative_names": [],
-    "description": "\"papa john's 14\" chs pizza, original crust\"."
+    "description": "\"papa john's 14\" cheese pizza, original crust\"."
   },
   "papa_johns_14_pepperoni_pizza_original_crust": {
     "name": "Papa john's 14\" pepperoni pizza, original crust",
@@ -2515,14 +2515,14 @@
     "description": "\"papa john's 14\" the works pizza, original crust\"."
   },
   "papa_johns_14_chs_pizza_thin_crust": {
-    "name": "Papa john's 14\" chs pizza, thin crust",
+    "name": "Papa john's 14\" cheese pizza, thin crust",
     "alternative_names": [],
-    "description": "\"papa john's 14\" chs pizza, thin crust\"."
+    "description": "\"papa john's 14\" cheese pizza, thin crust\"."
   },
   "little_caesars_14_original_rnd_chs_pizza_reg": {
-    "name": "Little caesars 14\" original rnd chs pizza, regular crust",
+    "name": "Little caesars 14\" original rnd cheese pizza, regular crust",
     "alternative_names": [],
-    "description": "\"little caesars 14\" original rnd chs pizza, regular crust\"."
+    "description": "\"little caesars 14\" original rnd cheese pizza, regular crust\"."
   },
   "little_caesars_14_original_rnd_pepperoni_pizz": {
     "name": "Little caesars 14\" original rnd pepperoni pizza, regular crust",
@@ -2535,9 +2535,9 @@
     "description": "\"little caesars 14\" original rnd meat & vegetable pizza, regular crust\"."
   },
   "little_caesars_14_chs_pizza_lrg_deep_dish_cru": {
-    "name": "Little caesars 14\" chs pizza, lrg deep dish crust",
+    "name": "Little caesars 14\" cheese pizza, lrg deep dish crust",
     "alternative_names": [],
-    "description": "\"little caesars 14\" chs pizza, lrg deep dish crust\"."
+    "description": "\"little caesars 14\" cheese pizza, lrg deep dish crust\"."
   },
   "little_caesars_14_pepperoni_pizza_lrg_deep_di": {
     "name": "Little caesars 14\" pepperoni pizza, lrg deep dish crust",
@@ -2545,24 +2545,24 @@
     "description": "\"little caesars 14\" pepperoni pizza, lrg deep dish crust\"."
   },
   "little_caesars_14_chs_pizza_thin_crust": {
-    "name": "Little caesars 14\" chs pizza, thin crust",
+    "name": "Little caesars 14\" cheese pizza, thin crust",
     "alternative_names": [],
-    "description": "\"little caesars 14\" chs pizza, thin crust\"."
+    "description": "\"little caesars 14\" cheese pizza, thin crust\"."
   },
   "fast_fd_pizza_chain_14_pizza_chs_topping_reg": {
-    "name": "Fast fd, pizza chain, 14\" pizza, chs topping, regular crust",
+    "name": "Fast fd, pizza chain, 14\" pizza, cheese topping, regular crust",
     "alternative_names": [],
-    "description": "\"fast fd, pizza chain, 14\" pizza, chs topping, regular crust\"."
+    "description": "\"fast fd, pizza chain, 14\" pizza, cheese topping, regular crust\"."
   },
   "fast_fd_pizza_chain_14_pizza_chs_topping_thic": {
-    "name": "Fast fd, pizza chain, 14\" pizza, chs topping, thick crust",
+    "name": "Fast fd, pizza chain, 14\" pizza, cheese topping, thick crust",
     "alternative_names": [],
-    "description": "\"fast fd, pizza chain, 14\" pizza, chs topping, thick crust\"."
+    "description": "\"fast fd, pizza chain, 14\" pizza, cheese topping, thick crust\"."
   },
   "fast_fd_pizza_chain_14_pizza_chs_topping_thin": {
-    "name": "Fast fd, pizza chain, 14\" pizza, chs topping, thin crust",
+    "name": "Fast fd, pizza chain, 14\" pizza, cheese topping, thin crust",
     "alternative_names": [],
-    "description": "\"fast fd, pizza chain, 14\" pizza, chs topping, thin crust\"."
+    "description": "\"fast fd, pizza chain, 14\" pizza, cheese topping, thin crust\"."
   },
   "fast_fd_pizza_chain_14_pizza_pepperoni_toppin": {
     "name": "Fast fd, pizza chain, 14\" pizza, pepperoni topping, regular crust",
@@ -2580,24 +2580,24 @@
     "description": "Light ice cream, soft serve, blended with/ milk chocolate candies."
   },
   "digiorno_pizza_chs_topping_chs_stuffed_crust": {
-    "name": "Digiorno pizza, chs topping, chs stuffed crust, frozen, baked",
+    "name": "Digiorno pizza, cheese topping, cheese stuffed crust, frozen, baked",
     "alternative_names": [],
-    "description": "Digiorno pizza, chs topping, chs stuffed crust, frozen, baked."
+    "description": "Digiorno pizza, cheese topping, cheese stuffed crust, frozen, baked."
   },
   "digiorno_pizza_chs_topping_rising_crust_frz_b": {
-    "name": "Digiorno pizza, chs topping, rising crust, frozen, baked",
+    "name": "Digiorno pizza, cheese topping, rising crust, frozen, baked",
     "alternative_names": [],
-    "description": "Digiorno pizza, chs topping, rising crust, frozen, baked."
+    "description": "Digiorno pizza, cheese topping, rising crust, frozen, baked."
   },
   "digiorno_pizza_chs_topping_thin_crispy_crust": {
-    "name": "Digiorno pizza, chs topping, thin crispy crust, frozen, baked",
+    "name": "Digiorno pizza, cheese topping, thin crispy crust, frozen, baked",
     "alternative_names": [],
-    "description": "Digiorno pizza, chs topping, thin crispy crust, frozen, baked."
+    "description": "Digiorno pizza, cheese topping, thin crispy crust, frozen, baked."
   },
   "digiorno_pizza_pepperoni_topping_chs_stuffed": {
-    "name": "Digiorno pizza, pepperoni topping, chs stuffed crust, frozen, baked",
+    "name": "Digiorno pizza, pepperoni topping, cheese stuffed crust, frozen, baked",
     "alternative_names": [],
-    "description": "Digiorno pizza, pepperoni topping, chs stuffed crust, frozen, baked."
+    "description": "Digiorno pizza, pepperoni topping, cheese stuffed crust, frozen, baked."
   },
   "digiorno_pizza_pepperoni_topping_rising_crust": {
     "name": "Digiorno pizza, pepperoni topping, rising crust, frozen, baked",
@@ -2685,19 +2685,19 @@
     "description": "Snacks, vegetable chips, hain celestial group, terra chips."
   },
   "snacks_granola_bar_kashi_golean_chewy_mxd_fla": {
-    "name": "Snacks, granola bar, kashi golean, chewy, mxd flavors",
+    "name": "Snacks, granola bar, kashi golean, chewy, mixed flavors",
     "alternative_names": [],
-    "description": "Snacks, granola bar, kashi golean, chewy, mxd flavors."
+    "description": "Snacks, granola bar, kashi golean, chewy, mixed flavors."
   },
   "snacks_granola_bar_kashi_tlc_bar_chewy_mxd_fl": {
-    "name": "Snacks, granola bar, kashi tlc bar, chewy, mxd flavors",
+    "name": "Snacks, granola bar, kashi tlc bar, chewy, mixed flavors",
     "alternative_names": [],
-    "description": "Snacks, granola bar, kashi tlc bar, chewy, mxd flavors."
+    "description": "Snacks, granola bar, kashi tlc bar, chewy, mixed flavors."
   },
   "snacks_granola_bar_kashi_golean_crunchy_mxd_f": {
-    "name": "Snacks, granola bar, kashi golean, crunchy, mxd flavors",
+    "name": "Snacks, granola bar, kashi golean, crunchy, mixed flavors",
     "alternative_names": [],
-    "description": "Snacks, granola bar, kashi golean, crunchy, mxd flavors."
+    "description": "Snacks, granola bar, kashi golean, crunchy, mixed flavors."
   },
   "snacks_granola_bar_chewy_red_sugar_all_flavor": {
     "name": "Snacks, granola bar, chewy, red sugar, all flavors",
@@ -2705,9 +2705,9 @@
     "description": "Snacks, granola bar, chewy, red sugar, all flavors."
   },
   "snacks_granola_bites_mxd_flavors": {
-    "name": "Snacks, granola bites, mxd flavors",
+    "name": "Snacks, granola bites, mixed flavors",
     "alternative_names": [],
-    "description": "Snacks, granola bites, mxd flavors."
+    "description": "Snacks, granola bites, mixed flavors."
   },
   "snacks_pita_chips_salted": {
     "name": "Snacks, pita chips, salted",
@@ -2730,9 +2730,9 @@
     "description": "Snacks, vegetable chips, made from garden vegetable."
   },
   "snacks_granola_bar_kashi_tlc_bar_crunchy_mxd": {
-    "name": "Snacks, granola bar, kashi tlc bar, crunchy, mxd flavors",
+    "name": "Snacks, granola bar, kashi tlc bar, crunchy, mixed flavors",
     "alternative_names": [],
-    "description": "Snacks, granola bar, kashi tlc bar, crunchy, mxd flavors."
+    "description": "Snacks, granola bar, kashi tlc bar, crunchy, mixed flavors."
   },
   "snacks_candy_bits_yogurt_covered_w_vit_c": {
     "name": "Snacks, candy bits, yogurt covered with/ vit c",
@@ -2845,14 +2845,14 @@
     "description": "Babyfood, banana juice withlofat yogurt."
   },
   "babyfood_mxd_fruit_juc_wlofat_yogurt": {
-    "name": "Babyfood, mxd fruit juice withlofat yogurt",
+    "name": "Babyfood, mixed fruit juice withlofat yogurt",
     "alternative_names": [],
-    "description": "Babyfood, mxd fruit juice withlofat yogurt."
+    "description": "Babyfood, mixed fruit juice withlofat yogurt."
   },
   "whipped_topping_frz_lofat": {
-    "name": "Whipped topping, frozen, lofat",
+    "name": "Whipped topping, frozen, low fat",
     "alternative_names": [],
-    "description": "Whipped topping, frozen, lofat."
+    "description": "Whipped topping, frozen, low fat."
   },
   "candies_mars_snackfood_us_mms_pnut_butter_cho": {
     "name": "Candies, mars snackfood us, m&m's peanut butter chocolate candies",
@@ -2990,9 +2990,9 @@
     "description": "Snacks, corn-based, extruded, chips, unsalted."
   },
   "babyfood_mxd_fruit_yogurt_str": {
-    "name": "Babyfood, mxd fruit yogurt, str",
+    "name": "Babyfood, mixed fruit yogurt, str",
     "alternative_names": [],
-    "description": "Babyfood, mxd fruit yogurt, str."
+    "description": "Babyfood, mixed fruit yogurt, str."
   },
   "babyfood_riceappls_dry": {
     "name": "Babyfood, rice&appls, dry",
@@ -3020,9 +3020,9 @@
     "description": "Babyfood, banana apple dssrt, str."
   },
   "snacks_tortilla_chips_lt": {
-    "name": "Snacks, tortilla chips, lt (baked with/ less oil)",
+    "name": "Snacks, tortilla chips, light (baked with/ less oil)",
     "alternative_names": [],
-    "description": "Snacks, tortilla chips, lt (baked with/ less oil)."
+    "description": "Snacks, tortilla chips, light (baked with/ less oil)."
   },
   "babyfood_fruit_supreme_dssrt": {
     "name": "Babyfood, fruit supreme dssrt",

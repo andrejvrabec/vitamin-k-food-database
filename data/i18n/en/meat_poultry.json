@@ -186,14 +186,14 @@
     "description": "Chicken, broilers or fryers, skin only, cooked, rstd."
   },
   "chicken_broilers_or_fryers_lt_meat_meat_skn_r": {
-    "name": "Chicken, broilers or fryers, lt meat, meat & skin, raw",
+    "name": "Chicken, broilers or fryers, light meat, meat & skin, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, lt meat, meat & skin, raw."
+    "description": "Chicken, broilers or fryers, light meat, meat & skin, raw."
   },
   "chicken_broilers_or_fryers_lt_meat_meatskn_ck": {
-    "name": "Chicken, broilers or fryers, lt meat, meat&skin, cooked, fried, flr",
+    "name": "Chicken, broilers or fryers, light meat, meat&skin, cooked, fried, flour",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, lt meat, meat&skin, cooked, fried, flr."
+    "description": "Chicken, broilers or fryers, light meat, meat&skin, cooked, fried, flour."
   },
   "chicken_broilers_or_fryers_dk_meat_meat_skn_r": {
     "name": "Chicken, broilers or fryers, dark meat, meat & skin, raw",
@@ -201,14 +201,14 @@
     "description": "Chicken, broilers or fryers, dark meat, meat & skin, raw."
   },
   "chicken_broilers_or_fryers_dk_meat_meatskn_ck": {
-    "name": "Chicken, broilers or fryers, dark meat, meat&skin, cooked, fried, flr",
+    "name": "Chicken, broilers or fryers, dark meat, meat&skin, cooked, fried, flour",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, dark meat, meat&skin, cooked, fried, flr."
+    "description": "Chicken, broilers or fryers, dark meat, meat&skin, cooked, fried, flour."
   },
   "chicken_broilers_or_fryers_lt_meat_meat_only": {
-    "name": "Chicken, broilers or fryers, lt meat, meat only, raw",
+    "name": "Chicken, broilers or fryers, light meat, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, broilers or fryers, lt meat, meat only, raw."
+    "description": "Chicken, broilers or fryers, light meat, meat only, raw."
   },
   "chicken_broilers_or_fryers_dk_meat_meat_only": {
     "name": "Chicken, broilers or fryers, dark meat, meat only, raw",
@@ -346,14 +346,14 @@
     "description": "Chicken, roasting, meat only, raw."
   },
   "chicken_roasting_lt_meat_meat_only_raw": {
-    "name": "Chicken, roasting, lt meat, meat only, raw",
+    "name": "Chicken, roasting, light meat, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, roasting, lt meat, meat only, raw."
+    "description": "Chicken, roasting, light meat, meat only, raw."
   },
   "chicken_roasting_lt_meat_meat_only_ckd_rstd": {
-    "name": "Chicken, roasting, lt meat, meat only, cooked, rstd",
+    "name": "Chicken, roasting, light meat, meat only, cooked, rstd",
     "alternative_names": [],
-    "description": "Chicken, roasting, lt meat, meat only, cooked, rstd."
+    "description": "Chicken, roasting, light meat, meat only, cooked, rstd."
   },
   "chicken_roasting_dk_meat_meat_only_raw": {
     "name": "Chicken, roasting, dark meat, meat only, raw",
@@ -381,9 +381,9 @@
     "description": "Chicken, stewing, meat only, cooked, stwd."
   },
   "chicken_stewing_lt_meat_meat_only_raw": {
-    "name": "Chicken, stewing, lt meat, meat only, raw",
+    "name": "Chicken, stewing, light meat, meat only, raw",
     "alternative_names": [],
-    "description": "Chicken, stewing, lt meat, meat only, raw."
+    "description": "Chicken, stewing, light meat, meat only, raw."
   },
   "chicken_stewing_dk_meat_meat_only_raw": {
     "name": "Chicken, stewing, dark meat, meat only, raw",
@@ -451,9 +451,9 @@
     "description": "Turkey patties, breaded, battered, fried."
   },
   "turkey_rst_bnless_frz_seasoned_ltdk_meat_rstd": {
-    "name": "Turkey rst, boneless, frozen, seasoned, lt&dark meat, rstd",
+    "name": "Turkey rst, boneless, frozen, seasoned, light&dark meat, rstd",
     "alternative_names": [],
-    "description": "Turkey rst, boneless, frozen, seasoned, lt&dark meat, rstd."
+    "description": "Turkey rst, boneless, frozen, seasoned, light&dark meat, rstd."
   },
   "chicken_cornish_game_hens_meatskn_raw": {
     "name": "Chicken, cornish game hens, meat&skin, raw",
@@ -596,9 +596,9 @@
     "description": "Bratwurst, pork, cooked."
   },
   "cheesefurter_chs_smokie_pork_bf": {
-    "name": "Cheesefurter, chs smokie, pork, beef",
+    "name": "Cheesefurter, cheese smokie, pork, beef",
     "alternative_names": [],
-    "description": "Cheesefurter, chs smokie, pork, beef."
+    "description": "Cheesefurter, cheese smokie, pork, beef."
   },
   "chorizo_pork_and_beef": {
     "name": "Chorizo, pork and beef",
@@ -886,9 +886,9 @@
     "description": "\"beef, chuck, under blade center steak, boneless, denver cut, lean, 0\" fa\"."
   },
   "beef_chk_und_bl_cntr_stk_bnless_den_cut_ln_0": {
-    "name": "Beef, chk, und bl center steak, boneless, den cut, lean, 0\" fa, select, cooked",
+    "name": "Beef, chuck, und bl center steak, boneless, den cut, lean, 0\" fa, select, cooked",
     "alternative_names": [],
-    "description": "\"beef, chk, und bl center steak, boneless, den cut, lean, 0\" fa, select, cooked\"."
+    "description": "\"beef, chuck, und bl center steak, boneless, den cut, lean, 0\" fa, select, cooked\"."
   },
   "beef_cured_pastrami": {
     "name": "Beef, cured, pastrami",
@@ -896,14 +896,14 @@
     "description": "Beef, cured, pastrami."
   },
   "beef_chk_undbl_cntr_stk_bnless_dencut_ln_0_fa": {
-    "name": "Beef, chk, undbl center steak, boneless, dencut, lean, 0\" fa, all grade, raw",
+    "name": "Beef, chuck, undbl center steak, boneless, dencut, lean, 0\" fa, all grade, raw",
     "alternative_names": [],
-    "description": "\"beef, chk, undbl center steak, boneless, dencut, lean, 0\" fa, all grade, raw\"."
+    "description": "\"beef, chuck, undbl center steak, boneless, dencut, lean, 0\" fa, all grade, raw\"."
   },
   "beef_chk_und_blcntr_stk_bnless_den_cut_ln_0_f": {
-    "name": "Beef, chk, und blcntr steak, boneless, den cut, lean, 0\" fa, choice, raw",
+    "name": "Beef, chuck, und blcntr steak, boneless, den cut, lean, 0\" fa, choice, raw",
     "alternative_names": [],
-    "description": "\"beef, chk, und blcntr steak, boneless, den cut, lean, 0\" fa, choice, raw\"."
+    "description": "\"beef, chuck, und blcntr steak, boneless, den cut, lean, 0\" fa, choice, raw\"."
   },
   "beef_shrt_loin_top_loin_stk_ln_ft_18_ft_all_g": {
     "name": "Beef, short loin, top loin, steak, lean & fat, 1/8\" fat, all grade, cooked, broiled",
@@ -961,9 +961,9 @@
     "description": "Fish, salmon, sockeye, canned, drained solids."
   },
   "fish_tuna_lt_cnd_in_h2o_drnd_sol": {
-    "name": "Fish, tuna, lt, canned in h2o, drained solids",
+    "name": "Fish, tuna, light, canned in h2o, drained solids",
     "alternative_names": [],
-    "description": "Fish, tuna, lt, canned in h2o, drained solids."
+    "description": "Fish, tuna, light, canned in h2o, drained solids."
   },
   "tuna_white_cnd_in_h2o_drnd_sol": {
     "name": "Tuna, white, canned in h2o, drained solids",
@@ -1156,24 +1156,24 @@
     "description": "Fast foods, griddle cake sndwch, sausage."
   },
   "burger_king_croissanwich_w_sausage_chs": {
-    "name": "Burger king, croissan'wich with/ sausage & chs",
+    "name": "Burger king, croissan'wich with/ sausage & cheese",
     "alternative_names": [],
-    "description": "Burger king, croissan'wich with/ sausage & chs."
+    "description": "Burger king, croissan'wich with/ sausage & cheese."
   },
   "grilled_chick_bacon_tomo_clb_sndwch_w_chs_let": {
-    "name": "Grilled chicken, bacon & tomo clb sndwch, with/ chs, lettuce, & mayo",
+    "name": "Grilled chicken, bacon & tomo clb sndwch, with/ cheese, lettuce, & mayo",
     "alternative_names": [],
-    "description": "Grilled chicken, bacon & tomo clb sndwch, with/ chs, lettuce, & mayo."
+    "description": "Grilled chicken, bacon & tomo clb sndwch, with/ cheese, lettuce, & mayo."
   },
   "crispy_chick_bacon_tomato_club_sndwch_w_chs_l": {
-    "name": "Crispy chicken, bacon, & tomato club sndwch, with/ chs, letuce, & mayo",
+    "name": "Crispy chicken, bacon, & tomato club sndwch, with/ cheese, letuce, & mayo",
     "alternative_names": [],
-    "description": "Crispy chicken, bacon, & tomato club sndwch, with/ chs, letuce, & mayo."
+    "description": "Crispy chicken, bacon, & tomato club sndwch, with/ cheese, letuce, & mayo."
   },
   "hot_pockets_ham_n_chs_stuffed_sndwch_frz": {
-    "name": "Hot pockets ham 'n chs stuffed sndwch, frozen",
+    "name": "Hot pockets ham 'n cheese stuffed sndwch, frozen",
     "alternative_names": [],
-    "description": "Hot pockets ham 'n chs stuffed sndwch, frozen."
+    "description": "Hot pockets ham 'n cheese stuffed sndwch, frozen."
   },
   "beef_stew_canned_entree": {
     "name": "Beef stew, canned entree",
@@ -1201,9 +1201,9 @@
     "description": "Chicken, nuggets, white meat, precooked, frozen, not reheated."
   },
   "chicken_tenders_breaded_frz_prep": {
-    "name": "Chicken tenders, breaded, frozen, prep",
+    "name": "Chicken tenders, breaded, frozen, prepared",
     "alternative_names": [],
-    "description": "Chicken tenders, breaded, frozen, prep."
+    "description": "Chicken tenders, breaded, frozen, prepared."
   },
   "beef_chck_clod_shldr_topcntr_stks_ln_ft_0_all": {
     "name": "Beef, chck, clod, shoulder top&center steaks, lean & fat, 0\", all grades, grilled",
@@ -1211,24 +1211,24 @@
     "description": "\"beef, chck, clod, shoulder top&center steaks, lean & fat, 0\", all grades, grilled\"."
   },
   "beef_chk_und_bl_pot_rststk_bnl_ln_ft_0_ft_all": {
-    "name": "Beef, chk, und bl pot rst/steak, boneless, lean & fat, 0\" fat, all gr, raw",
+    "name": "Beef, chuck, und bl pot rst/steak, boneless, lean & fat, 0\" fat, all gr, raw",
     "alternative_names": [],
-    "description": "\"beef, chk, und bl pot rst/steak, boneless, lean & fat, 0\" fat, all gr, raw\"."
+    "description": "\"beef, chuck, und bl pot rst/steak, boneless, lean & fat, 0\" fat, all gr, raw\"."
   },
   "beef_chk_und_ble_cntr_stk_bnl_den_ct_lnft_0_f": {
-    "name": "Beef, chk, und ble center steak, boneless, den ct, lean&fat, 0\" fat, ch, cooked, grilled",
+    "name": "Beef, chuck, und ble center steak, boneless, den ct, lean&fat, 0\" fat, ch, cooked, grilled",
     "alternative_names": [],
-    "description": "\"beef, chk, und ble center steak, boneless, den ct, lean&fat, 0\" fat, ch, cooked, grilled\"."
+    "description": "\"beef, chuck, und ble center steak, boneless, den ct, lean&fat, 0\" fat, ch, cooked, grilled\"."
   },
   "beef_chk_und_bl_cntr_stk_bnl_den_cut_ln_ft_0f": {
-    "name": "Beef, chk, und bl center steak, boneless, den cut, lean & fat, 0\"fat, all gr, rw",
+    "name": "Beef, chuck, und bl center steak, boneless, den cut, lean & fat, 0\"fat, all gr, rw",
     "alternative_names": [],
-    "description": "\"beef, chk, und bl center steak, boneless, den cut, lean & fat, 0\"fat, all gr, rw\"."
+    "description": "\"beef, chuck, und bl center steak, boneless, den cut, lean & fat, 0\"fat, all gr, rw\"."
   },
   "beef_chk_und_ble_cntr_stk_bnl_den_cut_ln_ft_0": {
-    "name": "Beef, chk, und ble center steak, boneless, den cut, lean & fat, 0\"fat, select, rw",
+    "name": "Beef, chuck, und ble center steak, boneless, den cut, lean & fat, 0\"fat, select, rw",
     "alternative_names": [],
-    "description": "\"beef, chk, und ble center steak, boneless, den cut, lean & fat, 0\"fat, select, rw\"."
+    "description": "\"beef, chuck, und ble center steak, boneless, den cut, lean & fat, 0\"fat, select, rw\"."
   },
   "beef_rib_eye_rst_bne_in_lip_on_ln_18_ft_all_g": {
     "name": "Beef, rib eye rst, bne-in, lip-on, lean, 1/8\" fat, all grades, cooked, rstd",
@@ -1311,9 +1311,9 @@
     "description": "Restaurant, chinese, sweet & sour pork."
   },
   "bologna_bfpork_lofat": {
-    "name": "Bologna, beef&pork, lofat",
+    "name": "Bologna, beef&pork, low fat",
     "alternative_names": [],
-    "description": "Bologna, beef&pork, lofat."
+    "description": "Bologna, beef&pork, low fat."
   },
   "turkey_bacon_cooked": {
     "name": "Turkey bacon, cooked",
@@ -1351,9 +1351,9 @@
     "description": "Beef, bologna, red na."
   },
   "turkey_lt_or_dk_meat_smoked_ckd_wskn_bone_rem": {
-    "name": "Turkey, lt or dark meat, smoked, cooked, with skin, bone removed",
+    "name": "Turkey, light or dark meat, smoked, cooked, with skin, bone removed",
     "alternative_names": [],
-    "description": "Turkey, lt or dark meat, smoked, cooked, with skin, bone removed."
+    "description": "Turkey, light or dark meat, smoked, cooked, with skin, bone removed."
   },
   "frankfurter_lo_na": {
     "name": "Frankfurter, lo na",

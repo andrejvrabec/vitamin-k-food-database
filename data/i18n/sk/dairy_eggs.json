@@ -307,14 +307,14 @@
     "description": "Syr fd, minulý proces, americký, fort vitamínu D."
   },
   "cheese_sprd_past_process_american": {
-    "name": "Syr sprd, minulý proces, americký",
+    "name": "Syr nátierka, minulý proces, americký",
     "alternative_names": [],
-    "description": "Syr sprd, minulý proces, americký."
+    "description": "Syr nátierka, minulý proces, americký."
   },
   "cream_fluid_lt": {
-    "name": "Krém, tekutý, lt (krém do kávy alebo stolový krém)",
+    "name": "Krém, tekutý, ľahké (krém do kávy alebo stolový krém)",
     "alternative_names": [],
-    "description": "Krém, tekutý, lt (krém do kávy alebo stolový krém)."
+    "description": "Krém, tekutý, ľahké (krém do kávy alebo stolový krém)."
   },
   "cream_fluid_lt_whipping": {
     "name": "Smotana, tekutá, na šľahanie",
@@ -322,9 +322,9 @@
     "description": "Smotana, tekutá, na šľahanie."
   },
   "cream_fluid_hvy_whipping": {
-    "name": "Krém, fluid, hvy šľahanie",
+    "name": "Krém, fluid, hustý šľahanie",
     "alternative_names": [],
-    "description": "Krém, fluid, hvy šľahanie."
+    "description": "Krém, fluid, hustý šľahanie."
   },
   "sour_drsng_non_butterfat_cultured_filled_crea": {
     "name": "Kyslý dresing, nemaslový, kultivovaný, plnený krémový typ",
@@ -362,9 +362,9 @@
     "description": "Mlieko, sušené, s prídavkom vitamínu D."
   },
   "milk_cnd_cond_swtnd": {
-    "name": "Mlieko, konzervované, cond, sladené",
+    "name": "Mlieko, konzervované, kondenzované, sladené",
     "alternative_names": [],
-    "description": "Mlieko, konzervované, cond, sladené."
+    "description": "Mlieko, konzervované, kondenzované, sladené."
   },
   "milk_cnd_evap_w_added_vitamin_d_wo_added_vit": {
     "name": "Mlieko, konzervované, evap, s pridaným vitamínom d & s / s prídavkom vitamínu",
@@ -382,9 +382,9 @@
     "description": "Mlieko, čokoláda, tekutiny, comm, nízkotučné, s pridaným vitamínom A a vitamínom D."
   },
   "milk_choc_bev_hot_cocoa_homemade": {
-    "name": "Mlieko, choc bev, horúce kakao, domáce",
+    "name": "Mlieko, čokoládový nápoj, horúce kakao, domáce",
     "alternative_names": [],
-    "description": "Mlieko, choc bev, horúce kakao, domáce."
+    "description": "Mlieko, čokoládový nápoj, horúce kakao, domáce."
   },
   "milk_goat_fluid_w_added_vitamin_d": {
     "name": "Mlieko, kozie, tekutiny, s pridaným vitamínom d",
@@ -412,9 +412,9 @@
     "description": "Jogurt, plnotučné mlieko, 8 gramov prot na 8 oz."
   },
   "yogurt_pln_lofat_12_grams_prot_per_8_oz": {
-    "name": "Jogurt, pln, lofat, 12 gramov prot na 8 oz",
+    "name": "Jogurt, pln, nízkotučný, 12 gramov prot na 8 oz",
     "alternative_names": [],
-    "description": "Jogurt, pln, lofat, 12 gramov prot na 8 oz."
+    "description": "Jogurt, pln, nízkotučný, 12 gramov prot na 8 oz."
   },
   "yogurt_pln_skim_milk_13_grams_prot_per_8_oz": {
     "name": "Jogurt, pln, odstredené mlieko, 13 gramov prot na 8 oz",
@@ -422,14 +422,14 @@
     "description": "Jogurt, pln, odstredené mlieko, 13 gramov prot na 8 oz."
   },
   "yogurt_vanilla_lofat_11_grams_prot_per_8_oz": {
-    "name": "Jogurt, vanilka, lofat, 11 gramov prot na 8 oz",
+    "name": "Jogurt, vanilka, nízkotučný, 11 gramov prot na 8 oz",
     "alternative_names": [],
-    "description": "Jogurt, vanilka, lofat, 11 gramov prot na 8 oz."
+    "description": "Jogurt, vanilka, nízkotučný, 11 gramov prot na 8 oz."
   },
   "yogurt_fruit_lofat_9_grams_prot_per_8_oz": {
-    "name": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz",
+    "name": "Jogurt, ovocie, nízkotučný, 9 gramov prot na 8 oz",
     "alternative_names": [],
-    "description": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz."
+    "description": "Jogurt, ovocie, nízkotučný, 9 gramov prot na 8 oz."
   },
   "egg_whl_raw_frsh": {
     "name": "Vajcia, whl, surové, čerstvé",
@@ -552,9 +552,9 @@
     "description": "Syr, mexický, queso asadero."
   },
   "cheese_lofat_cheddar_or_colby": {
-    "name": "Syr, lofat, čedar alebo colby",
+    "name": "Syr, nízkotučný, čedar alebo colby",
     "alternative_names": [],
-    "description": "Syr, lofat, čedar alebo colby."
+    "description": "Syr, nízkotučný, čedar alebo colby."
   },
   "cheese_low_sodium_cheddar_or_colby": {
     "name": "Syr, s nízkym obsahom sodíka, čedar alebo colby",
@@ -572,9 +572,9 @@
     "description": "Kyslá smotana svetlá."
   },
   "yogurt_fruit_lofat_wlo_cal_sweetener": {
-    "name": "Jogurt, ovocie, lofat, s lokálnym sladidlom",
+    "name": "Jogurt, ovocie, nízkotučný, s lokálnym sladidlom",
     "alternative_names": [],
-    "description": "Jogurt, ovocie, lofat, s lokálnym sladidlom."
+    "description": "Jogurt, ovocie, nízkotučný, s lokálnym sladidlom."
   },
   "cream_sub_flav_liq": {
     "name": "Smotana sub, flav, tekutina",
@@ -602,9 +602,9 @@
     "description": "Mlieko, konzervované, evap, bez/ pridaný vit a & vitamín d."
   },
   "yogurt_fruit_lofat_9_grams_prot_per_8_oz_fort": {
-    "name": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz, fort s vitamínom d",
+    "name": "Jogurt, ovocie, nízkotučný, 9 gramov prot na 8 oz, fort s vitamínom d",
     "alternative_names": [],
-    "description": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz, fort s vitamínom d."
+    "description": "Jogurt, ovocie, nízkotučný, 9 gramov prot na 8 oz, fort s vitamínom d."
   },
   "yogurt_fruit_var_nonfat_fort_w_vitamin_d": {
     "name": "Jogurt, ovocný var, odtučnený, fort s vitamínom d",
@@ -617,9 +617,9 @@
     "description": "Jogurt, ovocie, nízkotučné, s miestnym swtnr, fort s vitamínom d."
   },
   "yogurt_vanilla_lofat_11_grams_prot_per_8_oz_f": {
-    "name": "Jogurt, vanilka, lofat, 11 gramov prot na 8 oz, fort s vit",
+    "name": "Jogurt, vanilka, nízkotučný, 11 gramov prot na 8 oz, fort s vit",
     "alternative_names": [],
-    "description": "Jogurt, vanilka, lofat, 11 gramov prot na 8 oz, fort s vit."
+    "description": "Jogurt, vanilka, nízkotučný, 11 gramov prot na 8 oz, fort s vit."
   },
   "protein_supp_milk_bsd_muscle_milk_pdr": {
     "name": "Proteínová výživa, mlieko bsd, svalové mlieko, prášok",
@@ -627,9 +627,9 @@
     "description": "Proteínová výživa, mlieko bsd, svalové mlieko, prášok."
   },
   "protein_supp_milk_bsd_muscle_milk_lt_pdr": {
-    "name": "Protein supp, mlieko bsd, svalové mlieko lt, prášok",
+    "name": "Protein supp, mlieko bsd, svalové mlieko ľahké, prášok",
     "alternative_names": [],
-    "description": "Protein supp, mlieko bsd, svalové mlieko lt, prášok."
+    "description": "Protein supp, mlieko bsd, svalové mlieko ľahké, prášok."
   },
   "cheese_dry_white_queso_seco": {
     "name": "Syr, suchý biely, queso seco",
@@ -662,9 +662,9 @@
     "description": "Jogurt, mrazené, príchute nie čokoláda, odtučnené mlieko, s nízkokalorickým swtnr."
   },
   "milk_dssrt_bar_frz_made_from_lowfat_milk": {
-    "name": "Mliečna dssrt tyčinka, mrazené, vyrobená z nízkotučného mlieka",
+    "name": "Mliečna dezert tyčinka, mrazené, vyrobená z nízkotučného mlieka",
     "alternative_names": [],
-    "description": "Mliečna dssrt tyčinka, mrazené, vyrobená z nízkotučného mlieka."
+    "description": "Mliečna dezert tyčinka, mrazené, vyrobená z nízkotučného mlieka."
   },
   "cheese_mexican_blend": {
     "name": "Syr, mexická zmes",
@@ -862,9 +862,9 @@
     "description": "Raňajkové položky, sušienky s vajcom a klobásou."
   },
   "fast_foods_biscuit_wegg_chs_bacon": {
-    "name": "Rýchle občerstvenie, sušienky, s vajcom, chs a slaninou",
+    "name": "Rýchle občerstvenie, sušienky, s vajcom, syr a slaninou",
     "alternative_names": [],
-    "description": "Rýchle občerstvenie, sušienky, s vajcom, chs a slaninou."
+    "description": "Rýchle občerstvenie, sušienky, s vajcom, syr a slaninou."
   },
   "fast_foods_egg_scrambled": {
     "name": "Rýchle občerstvenie, vajcia, miešané",
@@ -872,24 +872,24 @@
     "description": "Rýchle občerstvenie, vajcia, miešané."
   },
   "fast_foods_griddle_cake_sndwch_egg_chs_sausag": {
-    "name": "Rýchle občerstvenie, tortový sndwch, vajcia, chs a klobása",
+    "name": "Rýchle občerstvenie, tortový sndwch, vajcia, syr a klobása",
     "alternative_names": [],
-    "description": "Rýchle občerstvenie, tortový sndwch, vajcia, chs a klobása."
+    "description": "Rýchle občerstvenie, tortový sndwch, vajcia, syr a klobása."
   },
   "fast_foods_griddle_cake_sndwch_egg_chs_bacon": {
-    "name": "Rýchle občerstvenie, tortový sndwch, vajcia, chs a slanina",
+    "name": "Rýchle občerstvenie, tortový sndwch, vajcia, syr a slanina",
     "alternative_names": [],
-    "description": "Rýchle občerstvenie, tortový sndwch, vajcia, chs a slanina."
+    "description": "Rýchle občerstvenie, tortový sndwch, vajcia, syr a slanina."
   },
   "burger_king_croissanwich_w_sausage_egg_chs": {
-    "name": "Burger king, croissan'wich s klobásou, vajcom a chs",
+    "name": "Burger king, croissan'wich s klobásou, vajcom a syr",
     "alternative_names": [],
-    "description": "Burger king, croissan'wich s klobásou, vajcom a chs."
+    "description": "Burger king, croissan'wich s klobásou, vajcom a syr."
   },
   "burger_king_croissanwich_w_egg_chs": {
-    "name": "Burger king, croissan'wich s vajcom a chs",
+    "name": "Burger king, croissan'wich s vajcom a syr",
     "alternative_names": [],
-    "description": "Burger king, croissan'wich s vajcom a chs."
+    "description": "Burger king, croissan'wich s vajcom a syr."
   },
   "yogurt_parfait_lowfat_w_fruit_granola": {
     "name": "Jogurtový parfait, nízkotučný, s ovocím a granolou",
@@ -982,19 +982,19 @@
     "description": "Denny's, mozzarella syrové tyčinky."
   },
   "imitation_chs_american_or_cheddar_lo_chol": {
-    "name": "Imitácia chs, americký alebo čedar, lo chol",
+    "name": "Imitácia syr, americký alebo čedar, lo chol",
     "alternative_names": [],
-    "description": "Imitácia chs, americký alebo čedar, lo chol."
+    "description": "Imitácia syr, americký alebo čedar, lo chol."
   },
   "cream_sub_pdr_lt": {
-    "name": "Krém sub, prášok, lt",
+    "name": "Krém sub, prášok, ľahké",
     "alternative_names": [],
-    "description": "Krém sub, prášok, lt."
+    "description": "Krém sub, prášok, ľahké."
   },
   "cream_sub_liq_lt": {
-    "name": "Krém sub, tekutina, lt",
+    "name": "Krém sub, tekutina, ľahké",
     "alternative_names": [],
-    "description": "Krém sub, tekutina, lt."
+    "description": "Krém sub, tekutina, ľahké."
   },
   "cheese_cottage_lowfat_1_milkfat_lactose_red": {
     "name": "Syr, cottage, nízkotučný, 1% mliečny tuk, červená laktóza",
@@ -1007,14 +1007,14 @@
     "description": "Syr, cottage, so zeleninou."
   },
   "cheese_past_process_american_lofat": {
-    "name": "Syr, minulý proces, americký, lofat",
+    "name": "Syr, minulý proces, americký, nízkotučný",
     "alternative_names": [],
-    "description": "Syr, minulý proces, americký, lofat."
+    "description": "Syr, minulý proces, americký, nízkotučný."
   },
   "cheese_sprd_crm_chs_base": {
-    "name": "Syr sprd, krém chs základ",
+    "name": "Syr nátierka, krém syr základ",
     "alternative_names": [],
-    "description": "Syr sprd, krém chs základ."
+    "description": "Syr nátierka, krém syr základ."
   },
   "cheese_american_cheddar_imitn": {
     "name": "Syr, americký čedar, imitn",
@@ -1042,9 +1042,9 @@
     "description": "Syr, tvaroh, nízkotučný, 1 % mliečneho tuku, bez."
   },
   "cheese_past_process_swiss_lofat": {
-    "name": "Syr, minulý proces, švajčiarsky, lofat",
+    "name": "Syr, minulý proces, švajčiarsky, nízkotučný",
     "alternative_names": [],
-    "description": "Syr, minulý proces, švajčiarsky, lofat."
+    "description": "Syr, minulý proces, švajčiarsky, nízkotučný."
   },
   "cheese_cottage_lowfat_1_milkfat_wveg": {
     "name": "Syr, cottage, nízkotučný, 1% mliečny tuk, so zeleninou",

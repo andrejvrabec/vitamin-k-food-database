@@ -806,9 +806,9 @@
     "description": "Potatoes, hashed brown, home-prepared."
   },
   "potatoes_hashed_brown_frz_pln_prep": {
-    "name": "Potatoes, hashed brown, frozen, pln, prep",
+    "name": "Potatoes, hashed brown, frozen, pln, prepared",
     "alternative_names": [],
-    "description": "Potatoes, hashed brown, frozen, pln, prep."
+    "description": "Potatoes, hashed brown, frozen, pln, prepared."
   },
   "potatoes_french_fr_shoestring_salt_added_in_p": {
     "name": "Potatoes, french fr, shoestring, salt added in proc, frozen, as prch",
@@ -1596,9 +1596,9 @@
     "description": "Fast foods, potatoes, hashed brown."
   },
   "fast_foods_taco_w_bf_chs_lettuce_hard_shell": {
-    "name": "Fast foods, taco with/ beef, chs & lettuce, hard shell",
+    "name": "Fast foods, taco with/ beef, cheese & lettuce, hard shell",
     "alternative_names": [],
-    "description": "Fast foods, taco with/ beef, chs & lettuce, hard shell."
+    "description": "Fast foods, taco with/ beef, cheese & lettuce, hard shell."
   },
   "fast_foods_potato_mashed": {
     "name": "Fast foods, potato, mashed",
@@ -1611,19 +1611,19 @@
     "description": "Fast foods, crispy chicken filet sndwch, with/ lettuce & mayo."
   },
   "taco_bell_original_taco_w_bf_chs_lettuce": {
-    "name": "Taco bell, original taco with/ beef, chs & lettuce",
+    "name": "Taco bell, original taco with/ beef, cheese & lettuce",
     "alternative_names": [],
-    "description": "Taco bell, original taco with/ beef, chs & lettuce."
+    "description": "Taco bell, original taco with/ beef, cheese & lettuce."
   },
   "taco_bell_soft_taco_w_bf_chs_lettuce": {
-    "name": "Taco bell, soft taco with/ beef, chs & lettuce",
+    "name": "Taco bell, soft taco with/ beef, cheese & lettuce",
     "alternative_names": [],
-    "description": "Taco bell, soft taco with/ beef, chs & lettuce."
+    "description": "Taco bell, soft taco with/ beef, cheese & lettuce."
   },
   "taco_bell_soft_taco_w_chick_chs_lettuce": {
-    "name": "Taco bell, soft taco with/ chicken, chs & lettuce",
+    "name": "Taco bell, soft taco with/ chicken, cheese & lettuce",
     "alternative_names": [],
-    "description": "Taco bell, soft taco with/ chicken, chs & lettuce."
+    "description": "Taco bell, soft taco with/ chicken, cheese & lettuce."
   },
   "kentucky_fried_chick_potato_wedges_analyzed_p": {
     "name": "Kentucky fried chicken, potato wedges, analyzed prior 2007",
@@ -1631,19 +1631,19 @@
     "description": "Kentucky fried chicken, potato wedges, analyzed prior 2007."
   },
   "fast_foods_taco_w_bf_chs_lettuce_soft": {
-    "name": "Fast foods, taco with/ beef, chs & lettuce, soft",
+    "name": "Fast foods, taco with/ beef, cheese & lettuce, soft",
     "alternative_names": [],
-    "description": "Fast foods, taco with/ beef, chs & lettuce, soft."
+    "description": "Fast foods, taco with/ beef, cheese & lettuce, soft."
   },
   "fast_foods_taco_w_chick_lettuce_chs_soft": {
-    "name": "Fast foods, taco with/ chicken, lettuce & chs, soft",
+    "name": "Fast foods, taco with/ chicken, lettuce & cheese, soft",
     "alternative_names": [],
-    "description": "Fast foods, taco with/ chicken, lettuce & chs, soft."
+    "description": "Fast foods, taco with/ chicken, lettuce & cheese, soft."
   },
   "fast_fds_grilled_chick_filet_sndwch_w_lettuce": {
-    "name": "Fast fds, grilled chicken filet sndwch, with/ lettuce, tomato & sprd",
+    "name": "Fast fds, grilled chicken filet sndwch, with/ lettuce, tomato & spread",
     "alternative_names": [],
-    "description": "Fast fds, grilled chicken filet sndwch, with/ lettuce, tomato & sprd."
+    "description": "Fast fds, grilled chicken filet sndwch, with/ lettuce, tomato & spread."
   },
   "ravioli_meat_filled_w_tomato_sau_or_meat_sau": {
     "name": "Ravioli, meat-filled, with/ tomato sauce or meat sauce, canned",
@@ -1651,9 +1651,9 @@
     "description": "Ravioli, meat-filled, with/ tomato sauce or meat sauce, canned."
   },
   "ravioli_chs_w_tomato_sau_frz_not_prep_incl_re": {
-    "name": "Ravioli, chs with/ tomato sauce, frozen, not prep, incl regular & lt entrees",
+    "name": "Ravioli, cheese with/ tomato sauce, frozen, not prepared, incl regular & light entrees",
     "alternative_names": [],
-    "description": "Ravioli, chs with/ tomato sauce, frozen, not prep, incl regular & lt entrees."
+    "description": "Ravioli, cheese with/ tomato sauce, frozen, not prepared, incl regular & light entrees."
   },
   "corned_bf_potatoes_in_tortilla": {
     "name": "Corned beef & potatoes in tortilla (apache)",
@@ -2220,9 +2220,9 @@
     "description": "Chive or spring onion, fresh."
   },
   "sea_lettuce_ulva_sp_dried_or_dehydrated": {
-    "name": "Sea lettuce (Ulva sp.), dried or dehydrated",
+    "name": "Sea lettuce (Ulva species.), dried or dehydrated",
     "alternative_names": [],
-    "description": "Sea lettuce (Ulva sp.), dried or dehydrated."
+    "description": "Sea lettuce (Ulva species.), dried or dehydrated."
   },
   "tomato_caviar_seasoned_tomato_puree": {
     "name": "Tomato caviar (seasoned tomato puree)",

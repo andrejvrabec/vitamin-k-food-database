@@ -308,9 +308,9 @@
     "description": "Kyslá smotana so zníženým obsahom tuku."
   },
   "usda_commodity_chs_cheddar_red_fat": {
-    "name": "USD komodita, chs, čedar, červený tuk",
+    "name": "USD komodita, syr, čedar, červený tuk",
     "alternative_names": [],
-    "description": "USD komodita, chs, čedar, červený tuk."
+    "description": "USD komodita, syr, čedar, červený tuk."
   },
   "cheese_cream_fat_free": {
     "name": "Syr, smotana, bez tuku",
@@ -488,9 +488,9 @@
     "description": "Priemyselný tuk, sójový (hydr)&cttnsd."
   },
   "shortening_frying_hvy_duty_soybn_hydr_linolei": {
-    "name": "Tuk na vyprážanie hvy duty, sójový hydr, linolová (menej ako 1 %",
+    "name": "Tuk na vyprážanie hustý duty, sójový hydr, linolová (menej ako 1 %",
     "alternative_names": [],
-    "description": "Tuk na vyprážanie hvy duty, sójový hydr, linolová (menej ako 1 %."
+    "description": "Tuk na vyprážanie hustý duty, sójový hydr, linolová (menej ako 1 %."
   },
   "oil_sunflower_hi_oleic": {
     "name": "Olej, slnečnica, hi-oleic (70 % a viac)",
@@ -523,14 +523,14 @@
     "description": "Margarínový, rastlinný olej-maslový šprot, vaňa, so soľou."
   },
   "butter_lt_stk_wsalt": {
-    "name": "Maslo, lt, steak, so soľou",
+    "name": "Maslo, ľahké, steak, so soľou",
     "alternative_names": [],
-    "description": "Maslo, lt, steak, so soľou."
+    "description": "Maslo, ľahké, steak, so soľou."
   },
   "butter_lt_stk_wosalt": {
-    "name": "Maslo, lt, steak, ssoľ",
+    "name": "Maslo, ľahké, steak, ssoľ",
     "alternative_names": [],
-    "description": "Maslo, lt, steak, ssoľ."
+    "description": "Maslo, ľahké, steak, ssoľ."
   },
   "margarine_reg_80_fat_comp_stk_w_salt": {
     "name": "Margarín, reg., 80% tuku, komp., steak, so soľou",
@@ -543,9 +543,9 @@
     "description": "Margarín, reg, 80% tuku, zložka, vaňa, so soľou."
   },
   "margarine_like_veg_oil_sprd_60_fat_stk_w_salt": {
-    "name": "Margarínový, rastlinný olej sprd, 60% tuku, steak, so soľou",
+    "name": "Margarínový, rastlinný olej nátierka, 60% tuku, steak, so soľou",
     "alternative_names": [],
-    "description": "Margarínový, rastlinný olej sprd, 60% tuku, steak, so soľou."
+    "description": "Margarínový, rastlinný olej nátierka, 60% tuku, steak, so soľou."
   },
   "margarine_like_veg_oil_sprd_60_fat_tub_w_salt": {
     "name": "Zeleninový olej podobný margarínu, 60% tuku, vaňa, so soľou",
@@ -563,34 +563,34 @@
     "description": "Kus, zelenina, domácnosť, komp."
   },
   "veg_oil_sprd_60_fat_sticktubbottle_wo_salt": {
-    "name": "Zeleninový olej sprd, 60% tuku, tyčinka/vanička/fľaša, ssoľ",
+    "name": "Zeleninový olej nátierka, 60% tuku, tyčinka/vanička/fľaša, ssoľ",
     "alternative_names": [],
-    "description": "Zeleninový olej sprd, 60% tuku, tyčinka/vanička/fľaša, ssoľ."
+    "description": "Zeleninový olej nátierka, 60% tuku, tyčinka/vanička/fľaša, ssoľ."
   },
   "margarine_like_veg_oil_sprd_fat_free_liq_w_sa": {
-    "name": "Margarínový, rastlinný olej sprd, bez tuku, likér, so soľou",
+    "name": "Margarínový, rastlinný olej nátierka, bez tuku, likér, so soľou",
     "alternative_names": [],
-    "description": "Margarínový, rastlinný olej sprd, bez tuku, likér, so soľou."
+    "description": "Margarínový, rastlinný olej nátierka, bez tuku, likér, so soľou."
   },
   "margarine_like_sprd_w_yogurt_70_fat_stk_w_sal": {
-    "name": "Sprd podobný margarínu s jogurtom, 70% tuku, steak, so soľou",
+    "name": "Nátierka podobný margarínu s jogurtom, 70% tuku, steak, so soľou",
     "alternative_names": [],
-    "description": "Sprd podobný margarínu s jogurtom, 70% tuku, steak, so soľou."
+    "description": "Nátierka podobný margarínu s jogurtom, 70% tuku, steak, so soľou."
   },
   "margarine_like_sprd_w_yogurt_approx_40_fat_tu": {
-    "name": "Sprd podobný margarínu s jogurtom, cca 40% tuku, vaňa, so soľou",
+    "name": "Nátierka podobný margarínu s jogurtom, cca 40% tuku, vaňa, so soľou",
     "alternative_names": [],
-    "description": "Sprd podobný margarínu s jogurtom, cca 40% tuku, vaňa, so soľou."
+    "description": "Nátierka podobný margarínu s jogurtom, cca 40% tuku, vaňa, so soľou."
   },
   "margarine_sprd_approx_48_fat_tub": {
-    "name": "Margarín sprd, cca 48% tuku, vaňa",
+    "name": "Margarín nátierka, cca 48% tuku, vaňa",
     "alternative_names": [],
-    "description": "Margarín sprd, cca 48% tuku, vaňa."
+    "description": "Margarín nátierka, cca 48% tuku, vaňa."
   },
   "margarine_like_veg_oil_sprd_fat_free_tub": {
-    "name": "Margarínový, rastlinný olej sprd, bez tuku, vaňa",
+    "name": "Margarínový, rastlinný olej nátierka, bez tuku, vaňa",
     "alternative_names": [],
-    "description": "Margarínový, rastlinný olej sprd, bez tuku, vaňa."
+    "description": "Margarínový, rastlinný olej nátierka, bez tuku, vaňa."
   },
   "margarine_like_veg_oil_sprd_20_fat_w_salt": {
     "name": "Zeleninový olej podobný margarínu, 20% tuku, so soľou",
@@ -648,9 +648,9 @@
     "description": "Tuk, indus, sója (často hydrog), tekuté tekuté smaženie."
   },
   "oil_industrial_soy_refined_for_woks_lt_frying": {
-    "name": "Olej, priemyselný, sójový, rafinovaný, na vyprážanie wok & lt",
+    "name": "Olej, priemyselný, sójový, rafinovaný, na vyprážanie wok & ľahké",
     "alternative_names": [],
-    "description": "Olej, priemyselný, sójový, rafinovaný, na vyprážanie wok & lt."
+    "description": "Olej, priemyselný, sójový, rafinovaný, na vyprážanie wok & ľahké."
   },
   "oil_industrial_soy_for_non_dairy_butter_flavo": {
     "name": "Olej, priemyselný, sójový (často hydr), pre nemliečnu masovú príchuť",
@@ -733,39 +733,39 @@
     "description": "Olej, zelenina, nasýtené tuky."
   },
   "margarine_like_sprd_smart_balance_reg_buttery": {
-    "name": "Margarín-ako sprd, smart balance reg maslový sprd",
+    "name": "Margarín-ako nátierka, smart balance reg maslový nátierka",
     "alternative_names": [],
-    "description": "Margarín-ako sprd, smart balance reg maslový sprd."
+    "description": "Margarín-ako nátierka, smart balance reg maslový nátierka."
   },
   "margarine_like_sprd_smart_balance_lt_buttery": {
-    "name": "Sprd podobný margarínu, inteligentný balans lt maslový sprd",
+    "name": "Nátierka podobný margarínu, inteligentný balans ľahké maslový nátierka",
     "alternative_names": [],
-    "description": "Sprd podobný margarínu, inteligentný balans lt maslový sprd."
+    "description": "Nátierka podobný margarínu, inteligentný balans ľahké maslový nátierka."
   },
   "margarine_like_sprd_smart_beat_super_lt_wo_sa": {
-    "name": "Sprd ako margarín, inteligentná šľahačka super lt bez/ nasýtené tuky",
+    "name": "Nátierka ako margarín, inteligentná šľahačka super ľahké bez/ nasýtené tuky",
     "alternative_names": [],
-    "description": "Sprd ako margarín, inteligentná šľahačka super lt bez/ nasýtené tuky."
+    "description": "Nátierka ako margarín, inteligentná šľahačka super ľahké bez/ nasýtené tuky."
   },
   "margarine_like_sprd_smart_beat_smart_squeeze": {
-    "name": "Sprd podobný margarínu, smart beat smart squeeze",
+    "name": "Nátierka podobný margarínu, smart beat smart squeeze",
     "alternative_names": [],
-    "description": "Sprd podobný margarínu, smart beat smart squeeze."
+    "description": "Nátierka podobný margarínu, smart beat smart squeeze."
   },
   "margarine_like_sprd_smart_balance_omega_plus": {
-    "name": "Sprd podobný margarínu, smart balance omega plus sprd",
+    "name": "Nátierka podobný margarínu, smart balance omega plus nátierka",
     "alternative_names": [],
-    "description": "Sprd podobný margarínu, smart balance omega plus sprd."
+    "description": "Nátierka podobný margarínu, smart balance omega plus nátierka."
   },
   "margarine_like_sprd_benecol_lt_sprd": {
-    "name": "Sprd podobný margarínu, benecol lt sprd",
+    "name": "Nátierka podobný margarínu, benecol ľahké nátierka",
     "alternative_names": [],
-    "description": "Sprd podobný margarínu, benecol lt sprd."
+    "description": "Nátierka podobný margarínu, benecol ľahké nátierka."
   },
   "veg_oil_sprd_37_fat_unspec_oils_w_salt_w_adde": {
-    "name": "Zeleninový olej sprd, 37% tuku, nešpecifikované oleje, so soľou, s pridaným vitamínom d",
+    "name": "Zeleninový olej nátierka, 37% tuku, nešpecifikované oleje, so soľou, s pridaným vitamínom d",
     "alternative_names": [],
-    "description": "Zeleninový olej sprd, 37% tuku, nešpecifikované oleje, so soľou, s pridaným vitamínom d."
+    "description": "Zeleninový olej nátierka, 37% tuku, nešpecifikované oleje, so soľou, s pridaným vitamínom d."
   },
   "margarine_reg_80_fat_comp_stk_w_salt_w_added": {
     "name": "Margarín, reg., 80% tuku, komp., steak, so soľou, s pridaným vitamínom d",
@@ -778,24 +778,24 @@
     "description": "Margarín, reg., 80% tuku, komp., vaňa, so soľou, s pridaným vitamínom d."
   },
   "veg_oil_sprd_60_fat_stk_w_salt_w_added_vitami": {
-    "name": "Zeleninový olej sprd, 60% tuku, steak, so soľou, s prídavkom vitamínu d",
+    "name": "Zeleninový olej nátierka, 60% tuku, steak, so soľou, s prídavkom vitamínu d",
     "alternative_names": [],
-    "description": "Zeleninový olej sprd, 60% tuku, steak, so soľou, s prídavkom vitamínu d."
+    "description": "Zeleninový olej nátierka, 60% tuku, steak, so soľou, s prídavkom vitamínu d."
   },
   "veg_oil_sprd_60_fat_tub_w_salt_w_added_vitami": {
-    "name": "Zeleninový olej sprd, 60% tuku, vaňa, so soľou, s pridaným vitamínom d",
+    "name": "Zeleninový olej nátierka, 60% tuku, vaňa, so soľou, s pridaným vitamínom d",
     "alternative_names": [],
-    "description": "Zeleninový olej sprd, 60% tuku, vaňa, so soľou, s pridaným vitamínom d."
+    "description": "Zeleninový olej nátierka, 60% tuku, vaňa, so soľou, s pridaným vitamínom d."
   },
   "veg_oil_sprd_sticktubbottle_60_fat_w_added_vi": {
-    "name": "Sprd z rastlinného oleja, tyčinka/vanička/fľaša, 60 % tuku, s pridaným vitamínom d",
+    "name": "Nátierka z rastlinného oleja, tyčinka/vanička/fľaša, 60 % tuku, s pridaným vitamínom d",
     "alternative_names": [],
-    "description": "Sprd z rastlinného oleja, tyčinka/vanička/fľaša, 60 % tuku, s pridaným vitamínom d."
+    "description": "Nátierka z rastlinného oleja, tyčinka/vanička/fľaša, 60 % tuku, s pridaným vitamínom d."
   },
   "veg_oil_sprd_60_fat_sticktubbottle_wo_salt_wv": {
-    "name": "Zeleninový olej sprd, 60% tuku, tyčinka/vaňa/fľaša, ssoľ, svit d",
+    "name": "Zeleninový olej nátierka, 60% tuku, tyčinka/vaňa/fľaša, ssoľ, svit d",
     "alternative_names": [],
-    "description": "Zeleninový olej sprd, 60% tuku, tyčinka/vaňa/fľaša, ssoľ, svit d."
+    "description": "Zeleninový olej nátierka, 60% tuku, tyčinka/vaňa/fľaša, ssoľ, svit d."
   },
   "oil_industrial_canola_hi_oleic": {
     "name": "Olej, priemyselný, repkový olej",
@@ -888,14 +888,14 @@
     "description": "Kešu maslo, pln, so soľou."
   },
   "nuts_mxd_nuts_oil_rstd_w_pnuts_w_salt_added": {
-    "name": "Orechy, mxd orechy, surový olej, s orechmi, s pridanou soľou",
+    "name": "Orechy, zmiešané orechy, surový olej, s orechmi, s pridanou soľou",
     "alternative_names": [],
-    "description": "Orechy, mxd orechy, surový olej, s orechmi, s pridanou soľou."
+    "description": "Orechy, zmiešané orechy, surový olej, s orechmi, s pridanou soľou."
   },
   "nuts_mxd_nuts_oil_rstd_w_pnuts_lightly_salted": {
-    "name": "Orechy, mxd orechy, surový olej, s orechmi, jemne solené",
+    "name": "Orechy, zmiešané orechy, surový olej, s orechmi, jemne solené",
     "alternative_names": [],
-    "description": "Orechy, mxd orechy, surový olej, s orechmi, jemne solené."
+    "description": "Orechy, zmiešané orechy, surový olej, s orechmi, jemne solené."
   },
   "beef_rtl_cuts_fat_raw": {
     "name": "Hovädzie mäso, rtl kusy, tuk, surové",
@@ -973,9 +973,9 @@
     "description": "\"hovädzie mäso, chuck, und bl pot rst, vykostené, chudé, bez tuku, všetky triedy, varené\"."
   },
   "beef_chk_und_bl_pot_rst_bnless_ln_0_fat_all_g": {
-    "name": "Hovädzie mäso, chk, und bl pot rst, vykostené, chudé, bez tuku, všetky grds, varené, brsd",
+    "name": "Hovädzie mäso, podplece, und bl pot rst, vykostené, chudé, bez tuku, všetky grds, varené, brsd",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, chk, und bl pot rst, vykostené, chudé, bez tuku, všetky grds, varené, brsd\"."
+    "description": "\"hovädzie mäso, podplece, und bl pot rst, vykostené, chudé, bez tuku, všetky grds, varené, brsd\"."
   },
   "beef_chck_und_bl_pot_rst_or_steak_bnless_ln_0": {
     "name": "Hovädzie mäso, hovädzie mäso, hovädzie mäso, hovädzie mäso, hovädzie mäso, hovädzie mäso alebo steak, bez, chudé, 0\" tučné, výberové, surové",
@@ -983,9 +983,9 @@
     "description": "\"hovädzie mäso, hovädzie mäso, hovädzie mäso, hovädzie mäso, hovädzie mäso, hovädzie mäso alebo steak, bez, chudé, 0\" tučné, výberové, surové\"."
   },
   "beef_chk_und_blade_pot_rst_or_stk_bnless_ln_0": {
-    "name": "Beef, chk, und blade pot rst or steak, vykostené, chudé, bez tuku, výber, surové",
+    "name": "Beef, podplece, und blade pot rst or steak, vykostené, chudé, bez tuku, výber, surové",
     "alternative_names": [],
-    "description": "\"beef, chk, und blade pot rst or steak, vykostené, chudé, bez tuku, výber, surové\"."
+    "description": "\"beef, podplece, und blade pot rst or steak, vykostené, chudé, bez tuku, výber, surové\"."
   },
   "beef_comp_of_rtl_cuts_lnfat_0fat_all_grds_ckd": {
     "name": "Hovädzie mäso, zložené kusy rtl, chudé a tučné mäso, 0\"tučné, všetky grds, varené",
@@ -1043,9 +1043,9 @@
     "description": "\"hovädzie mäso, skľučovadlo, čepeľ rst, chudé, 0\"tučné, všetky grds, varené, brsd\"."
   },
   "beef_chk_under_blade_pot_rst_bnless_ln_0_fat": {
-    "name": "Hovädzie, chk, pod lopatkou hrniec rst, vykostené, chudé, bez tuku, výber, varené, brsd",
+    "name": "Hovädzie, podplece, pod lopatkou hrniec rst, vykostené, chudé, bez tuku, výber, varené, brsd",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, pod lopatkou hrniec rst, vykostené, chudé, bez tuku, výber, varené, brsd\"."
+    "description": "\"hovädzie, podplece, pod lopatkou hrniec rst, vykostené, chudé, bez tuku, výber, varené, brsd\"."
   },
   "beef_chuck_under_blade_pot_rst_bnless_ln_0_fa": {
     "name": "Hovädzie mäso, skľučovadlo, pod lopatkou hrniec rst, vykostené, chudé, bez tuku, výber, varené, brsd",
@@ -1368,14 +1368,14 @@
     "description": "\"beef, chuck, blade rst, chudé a tučné mäso, 1/8\"fat, výber, varené, brsd\"."
   },
   "beef_chk_eye_rst_bnl_americas_bf_rst_ln_0_fat": {
-    "name": "Beef, chk eye rst, vykostené, america's hovädzie rst, chudé, bez tuku, všetky triedy, varené",
+    "name": "Beef, podplece eye rst, vykostené, america's hovädzie rst, chudé, bez tuku, všetky triedy, varené",
     "alternative_names": [],
-    "description": "\"beef, chk eye rst, vykostené, america's hovädzie rst, chudé, bez tuku, všetky triedy, varené\"."
+    "description": "\"beef, podplece eye rst, vykostené, america's hovädzie rst, chudé, bez tuku, všetky triedy, varené\"."
   },
   "beef_chk_eye_rst_bnless_americas_bf_rst_ln_0": {
-    "name": "Beef, chk eye rst, vykostené, america's hovädzie rst, chudé, bez tuku, výber, varené",
+    "name": "Beef, podplece eye rst, vykostené, america's hovädzie rst, chudé, bez tuku, výber, varené",
     "alternative_names": [],
-    "description": "\"beef, chk eye rst, vykostené, america's hovädzie rst, chudé, bez tuku, výber, varené\"."
+    "description": "\"beef, podplece eye rst, vykostené, america's hovädzie rst, chudé, bez tuku, výber, varené\"."
   },
   "beef_chuck_eye_rst_bnless_americas_bf_rst_ln": {
     "name": "Beef, chuck eye rst, vykostené, america's hovädzie rst, chudé, bez tuku, výber, varené",
@@ -1723,9 +1723,9 @@
     "description": "Sardinka, atlantická, konzervované v oleji, scedené pevný podiel s kosťou."
   },
   "tuna_lt_cnd_in_oil_drnd_sol": {
-    "name": "Tuniak, lt, konzervované v oleji, scedené pevný podiel",
+    "name": "Tuniak, ľahké, konzervované v oleji, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Tuniak, lt, konzervované v oleji, scedené pevný podiel."
+    "description": "Tuniak, ľahké, konzervované v oleji, scedené pevný podiel."
   },
   "tuna_white_cnd_in_oil_drnd_sol": {
     "name": "Tuniak, biely, konzervované v oleji, scedené pevný podiel",
@@ -1988,9 +1988,9 @@
     "description": "Sušienky, vanilkové oblátky, s nízkym obsahom tuku."
   },
   "crackers_std_snack_type_sndwch_wpnut_butter_f": {
-    "name": "Krekry, std snack-typ, sndwch, s náplňou z orechového masla",
+    "name": "Krekry, štandardný snack-typ, sndwch, s náplňou z orechového masla",
     "alternative_names": [],
-    "description": "Krekry, std snack-typ, sndwch, s náplňou z orechového masla."
+    "description": "Krekry, štandardný snack-typ, sndwch, s náplňou z orechového masla."
   },
   "cake_pound_commly_prep_fat_free": {
     "name": "Koláč, libra, obyčajná príprava, bez tuku",
@@ -2003,9 +2003,9 @@
     "description": "Sušienky, slané tyčinky, bez tuku, s nízkym obsahom sodíka."
   },
   "crackers_chs_red_fat": {
-    "name": "Krekry, chs, červený tuk",
+    "name": "Krekry, syr, červený tuk",
     "alternative_names": [],
-    "description": "Krekry, chs, červený tuk."
+    "description": "Krekry, syr, červený tuk."
   },
   "granola_bars_soft_coatd_milk_choc_coating_pnu": {
     "name": "Granolové tyčinky, mäkké, obaľované, poleva z mliečnej čokolády, orechové maslo",
@@ -2023,14 +2023,14 @@
     "description": "Polevy, čokoláda, krémová, suchá zmes, príprava s maslom."
   },
   "cocoa_dry_pdr_hi_fat_or_brkfst_pln": {
-    "name": "Kakao, suché prášok, vysokotučné alebo brkfst, pln",
+    "name": "Kakao, suché prášok, vysokotučné alebo raňajkový, pln",
     "alternative_names": [],
-    "description": "Kakao, suché prášok, vysokotučné alebo brkfst, pln."
+    "description": "Kakao, suché prášok, vysokotučné alebo raňajkový, pln."
   },
   "cocoa_dry_pdr_hi_fat_or_brkfst_proc_walkali": {
-    "name": "Kakao, suché prášok, hi-fat alebo brkfst, proc salkali",
+    "name": "Kakao, suché prášok, hi-fat alebo raňajkový, proc salkali",
     "alternative_names": [],
-    "description": "Kakao, suché prášok, hi-fat alebo brkfst, proc salkali."
+    "description": "Kakao, suché prášok, hi-fat alebo raňajkový, proc salkali."
   },
   "fst_foods_potato_frnch_fried_in_veg_oil": {
     "name": "Fst potraviny, zemiaky, frnch vyprážané v rastlinnom oleji",
@@ -2038,9 +2038,9 @@
     "description": "Fst potraviny, zemiaky, frnch vyprážané v rastlinnom oleji."
   },
   "mac_chs_dry_mix_prep_w_2_milk_80_stk_margarin": {
-    "name": "Mac & chs, suchá zmes, príprava s 2 % mlieka a 80 % steak margarínu suchý mx",
+    "name": "Mac & syr, suchá zmes, príprava s 2 % mlieka a 80 % steak margarínu suchý mx",
     "alternative_names": [],
-    "description": "Mac & chs, suchá zmes, príprava s 2 % mlieka a 80 % steak margarínu suchý mx."
+    "description": "Mac & syr, suchá zmes, príprava s 2 % mlieka a 80 % steak margarínu suchý mx."
   },
   "beef_shldr_pot_rst_or_stk_bnls_ln_fat_0_fat_a": {
     "name": "Hovädzie mäso, shldr pot rst or steak, bnls, chudé a tučné mäso, bez tuku, všetky triedy, r",
@@ -2053,14 +2053,14 @@
     "description": "\"hovädzie mäso, rnd, koleno, špička, steak, chudé a tučné mäso, bez tuku, výber, surové\"."
   },
   "bf_chk_clod_shldr_tender_medallion_ln_fat_0_f": {
-    "name": "Hovädzie, chk, hrud, shldr tender, medallion, chudé a tučné mäso, bez tuku, výber, surové",
+    "name": "Hovädzie, podplece, hrud, shldr tender, medallion, chudé a tučné mäso, bez tuku, výber, surové",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, hrud, shldr tender, medallion, chudé a tučné mäso, bez tuku, výber, surové\"."
+    "description": "\"hovädzie, podplece, hrud, shldr tender, medallion, chudé a tučné mäso, bez tuku, výber, surové\"."
   },
   "bf_chk_clod_shdr_tndr_med_ln_fat_0_fat_ch_ckd": {
-    "name": "Hovädzie, chk, clod, shdr tndr, med, chudé a tučné mäso, bez tuku, ch, varené, grilled",
+    "name": "Hovädzie, podplece, clod, shdr tndr, med, chudé a tučné mäso, bez tuku, ch, varené, grilled",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, clod, shdr tndr, med, chudé a tučné mäso, bez tuku, ch, varené, grilled\"."
+    "description": "\"hovädzie, podplece, clod, shdr tndr, med, chudé a tučné mäso, bez tuku, ch, varené, grilled\"."
   },
   "beef_chuck_shldr_clod_top_cntr_stk_ln_fat_0_f": {
     "name": "Hovädzie, skľučovadlo, shldr hrudka, vrch & cntr , steak, chudé a tučné mäso, bez tuku, ch, surové",
@@ -2068,9 +2068,9 @@
     "description": "\"hovädzie, skľučovadlo, shldr hrudka, vrch & cntr , steak, chudé a tučné mäso, bez tuku, ch, surové\"."
   },
   "bf_chk_shldr_clod_top_cntr_stk_ln_fat_0_fat_c": {
-    "name": "Hovädzie, chk, shldr hrudka, top & cntr, steak, chudé a tučné mäso, bez tuku, ch, varené, grilované",
+    "name": "Hovädzie, podplece, shldr hrudka, top & cntr, steak, chudé a tučné mäso, bez tuku, ch, varené, grilované",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, shldr hrudka, top & cntr, steak, chudé a tučné mäso, bez tuku, ch, varené, grilované\"."
+    "description": "\"hovädzie, podplece, shldr hrudka, top & cntr, steak, chudé a tučné mäso, bez tuku, ch, varené, grilované\"."
   },
   "bf_chuck_shldr_clod_top_cntr_stk_ln_fat_0_fat": {
     "name": "Hovädzie, chuck, shldr hrud, top & cntr, steak, chudé a tučné mäso, bez tuku, výber, surové",
@@ -2078,19 +2078,19 @@
     "description": "\"hovädzie, chuck, shldr hrud, top & cntr, steak, chudé a tučné mäso, bez tuku, výber, surové\"."
   },
   "bf_chk_clod_top_cntr_stk_ln_fat_0_fat_sel_ckd": {
-    "name": "Hovädzie, chk, hrudka, top & cntr, steak, chudé a tučné mäso, bez tuku, výber, varené, grilované",
+    "name": "Hovädzie, podplece, hrudka, top & cntr, steak, chudé a tučné mäso, bez tuku, výber, varené, grilované",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, hrudka, top & cntr, steak, chudé a tučné mäso, bez tuku, výber, varené, grilované\"."
+    "description": "\"hovädzie, podplece, hrudka, top & cntr, steak, chudé a tučné mäso, bez tuku, výber, varené, grilované\"."
   },
   "bf_chk_shldr_clod_top_blade_steak_ln_fat_0_fa": {
-    "name": "Hovädzie, chk, shldr hrudka, horná čepeľ, steak, chudé a tučné mäso, bez tuku, výber, surové",
+    "name": "Hovädzie, podplece, shldr hrudka, horná čepeľ, steak, chudé a tučné mäso, bez tuku, výber, surové",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, shldr hrudka, horná čepeľ, steak, chudé a tučné mäso, bez tuku, výber, surové\"."
+    "description": "\"hovädzie, podplece, shldr hrudka, horná čepeľ, steak, chudé a tučné mäso, bez tuku, výber, surové\"."
   },
   "bf_chk_clod_top_blade_steak_ln_fat_0_fat_ch_c": {
-    "name": "Hovädzie, chk, hrudka, horná čepeľ, steak, chudé a tučné mäso, bez tuku, ch, varené, grilované",
+    "name": "Hovädzie, podplece, hrudka, horná čepeľ, steak, chudé a tučné mäso, bez tuku, ch, varené, grilované",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, hrudka, horná čepeľ, steak, chudé a tučné mäso, bez tuku, ch, varené, grilované\"."
+    "description": "\"hovädzie, podplece, hrudka, horná čepeľ, steak, chudé a tučné mäso, bez tuku, ch, varené, grilované\"."
   },
   "bf_chuck_shldr_clod_top_blade_steak_ln_fat_0": {
     "name": "Hovädzie, chuck, shldr hrud, top blade, steak, chudé a tučné mäso, bez tuku, výber, surové",
@@ -2098,9 +2098,9 @@
     "description": "\"hovädzie, chuck, shldr hrud, top blade, steak, chudé a tučné mäso, bez tuku, výber, surové\"."
   },
   "bf_chk_clod_top_blade_steak_ln_fat_0_fat_sel": {
-    "name": "Hovädzie, chk, clod, top blade, steak, chudé a tučné mäso, bez tuku, výber, varené, grilled",
+    "name": "Hovädzie, podplece, clod, top blade, steak, chudé a tučné mäso, bez tuku, výber, varené, grilled",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, clod, top blade, steak, chudé a tučné mäso, bez tuku, výber, varené, grilled\"."
+    "description": "\"hovädzie, podplece, clod, top blade, steak, chudé a tučné mäso, bez tuku, výber, varené, grilled\"."
   },
   "bf_rnd_knuckle_tip_cntr_stk_ln_fat_0_fat_choi": {
     "name": "Hovädzie, rnd, knuckle, tip cntr, steak, chudé a tučné mäso, bez tuku, výber, varené, grilované",
@@ -2113,14 +2113,14 @@
     "description": "\"hovädzie, rnd, koleno, tip cntr, steak, chudé a tučné mäso, bez tuku, se, varené, grilované\"."
   },
   "bf_chk_cld_shldr_tndr_medallion_ln_fat_0_fat": {
-    "name": "Hovädzie, chk, cld, shldr tndr, medailón, chudé a tučné mäso, bez tuku, všetky grds, surové",
+    "name": "Hovädzie, podplece, cld, shldr tndr, medailón, chudé a tučné mäso, bez tuku, všetky grds, surové",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, cld, shldr tndr, medailón, chudé a tučné mäso, bez tuku, všetky grds, surové\"."
+    "description": "\"hovädzie, podplece, cld, shldr tndr, medailón, chudé a tučné mäso, bez tuku, všetky grds, surové\"."
   },
   "bf_chk_cld_shdr_tndr_med_ln_fat_0_fat_all_grd": {
-    "name": "Hovädzie, chk, cld, shdr tndr, med, chudé a tučné mäso, bez tuku, všetky grds, ck, grilované",
+    "name": "Hovädzie, podplece, cld, shdr tndr, med, chudé a tučné mäso, bez tuku, všetky grds, ck, grilované",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, cld, shdr tndr, med, chudé a tučné mäso, bez tuku, všetky grds, ck, grilované\"."
+    "description": "\"hovädzie, podplece, cld, shdr tndr, med, chudé a tučné mäso, bez tuku, všetky grds, ck, grilované\"."
   },
   "bf_chuck_clod_top_cntr_steak_ln_fat_0_fat_all": {
     "name": "Hovädzie, skľučovadlo, hrudka, top & cntr, steak, chudé a tučné mäso, bez tuku, všetky grds, surové",
@@ -2143,9 +2143,9 @@
     "description": "\"hovädzie, rnd, knuckle, tip cntr, steak, chudé a tučné mäso, bez tuku, all, varené, grilované\"."
   },
   "bf_chk_clod_shldr_tender_med_ln_fat_0_fat_se": {
-    "name": "Hovädzie, chk, clod, shldr tender, med, chudé a tučné mäso, bez tuku, se, varené, grilled",
+    "name": "Hovädzie, podplece, clod, shldr tender, med, chudé a tučné mäso, bez tuku, se, varené, grilled",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, clod, shldr tender, med, chudé a tučné mäso, bez tuku, se, varené, grilled\"."
+    "description": "\"hovädzie, podplece, clod, shldr tender, med, chudé a tučné mäso, bez tuku, se, varené, grilled\"."
   },
   "beef_chuck_shrt_ribs_bnless_ln_0_fat_choic_ra": {
     "name": "Hovädzie mäso, chuck, krátke rebrá, vykostené, chudé, bez tuku, výber, surové",
@@ -2163,14 +2163,14 @@
     "description": "\"hovädzie, chuck eye rebrá vo vidieckom štýle, vykostené, chudé, bez tuku, výber, varené\"."
   },
   "bf_chk_eye_cntry_stl_ribs_bnls_ln_0_fat_all_g": {
-    "name": "Hovädzie, chk eye cntry-stl rebrá, bnls, chudé, bez tuku, všetky grds, varené, brsd",
+    "name": "Hovädzie, podplece eye cntry-stl rebrá, bnls, chudé, bez tuku, všetky grds, varené, brsd",
     "alternative_names": [],
-    "description": "\"hovädzie, chk eye cntry-stl rebrá, bnls, chudé, bez tuku, všetky grds, varené, brsd\"."
+    "description": "\"hovädzie, podplece eye cntry-stl rebrá, bnls, chudé, bez tuku, všetky grds, varené, brsd\"."
   },
   "beef_chk_eye_country_style_ribs_bnls_ln_0_fat": {
-    "name": "Hovädzie mäso, rebrá vo vidieckom štýle chk eye, bnls, chudé, bez tuku, všetky grds, surové",
+    "name": "Hovädzie mäso, rebrá vo vidieckom štýle podplece eye, bnls, chudé, bez tuku, všetky grds, surové",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, rebrá vo vidieckom štýle chk eye, bnls, chudé, bez tuku, všetky grds, surové\"."
+    "description": "\"hovädzie mäso, rebrá vo vidieckom štýle podplece eye, bnls, chudé, bez tuku, všetky grds, surové\"."
   },
   "beef_chuck_eye_steak_bnless_ln_0_fat_choic_ck": {
     "name": "Hovädzie mäso, chuck eye steak, vykostené, chudé, bez tuku, výber, varené, grilované",
@@ -2218,9 +2218,9 @@
     "description": "\"hovädzie mäso, skľučovadlo, falošný jemný steak, vykostené, chudé, bez tuku, výber, varené, brsd\"."
   },
   "beef_chk_mock_tender_stk_bnls_ln_0_fat_all_gr": {
-    "name": "Hovädzie mäso, chk, mock tender steak, bnls, chudé, bez tuku, všetky grds, varené, brsd",
+    "name": "Hovädzie mäso, podplece, mock tender steak, bnls, chudé, bez tuku, všetky grds, varené, brsd",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, chk, mock tender steak, bnls, chudé, bez tuku, všetky grds, varené, brsd\"."
+    "description": "\"hovädzie mäso, podplece, mock tender steak, bnls, chudé, bez tuku, všetky grds, varené, brsd\"."
   },
   "beef_chuck_for_stew_ln_fat_all_grds_ckd_brsd": {
     "name": "Hovädzie mäso, skľučovadlo na dusené mäso, chudé a tuk, všetky grds, varené, brsd",
@@ -2263,9 +2263,9 @@
     "description": "\"hovädzie mäso, chuck, und bl steak, bnls, chudé, bez tuku, všetky grds, varené, brsd\"."
   },
   "beef_chk_und_bld_pot_rst_bnl_ln_fat_0_fat_all": {
-    "name": "Hovädzie, chk, und varené, pot rst, vykostené, chudé a tučné mäso, bez tuku, all gr, varené, br",
+    "name": "Hovädzie, podplece, und varené, pot rst, vykostené, chudé a tučné mäso, bez tuku, all gr, varené, br",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, und varené, pot rst, vykostené, chudé a tučné mäso, bez tuku, all gr, varené, br\"."
+    "description": "\"hovädzie, podplece, und varené, pot rst, vykostené, chudé a tučné mäso, bez tuku, all gr, varené, br\"."
   },
   "beef_rib_eye_stk_bnles_lip_on_ln_18_fat_all_g": {
     "name": "Hovädzie mäso, rib eye steak, bnles, s tukovým okrajom, chudé, s 1/8\" tuku, všetky grds, varené, grilované",
@@ -2278,29 +2278,29 @@
     "description": "\"hovädzie, rib eye rst, bone-in, s tukovým okrajom, chudé, s 1/8\" tuku, výber, varené, pečené\"."
   },
   "beef_chk_und_bl_pot_rst_or_stk_bnl_ln_fat_0_f": {
-    "name": "Hovädzie, chk, und bl pot rst or steak, vykostené, chudé a tučné mäso, bez tuku, ch, surové",
+    "name": "Hovädzie, podplece, und bl pot rst or steak, vykostené, chudé a tučné mäso, bez tuku, ch, surové",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, und bl pot rst or steak, vykostené, chudé a tučné mäso, bez tuku, ch, surové\"."
+    "description": "\"hovädzie, podplece, und bl pot rst or steak, vykostené, chudé a tučné mäso, bez tuku, ch, surové\"."
   },
   "beef_chk_und_bl_pot_rststeak_bnl_ln_fat_0_fat": {
-    "name": "Hovädzie, chk, und bl pot rst/steak, vykostené, chudé a tučné mäso, bez tuku, výber, surové",
+    "name": "Hovädzie, podplece, und bl pot rst/steak, vykostené, chudé a tučné mäso, bez tuku, výber, surové",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, und bl pot rst/steak, vykostené, chudé a tučné mäso, bez tuku, výber, surové\"."
+    "description": "\"hovädzie, podplece, und bl pot rst/steak, vykostené, chudé a tučné mäso, bez tuku, výber, surové\"."
   },
   "beef_chk_und_bl_cntr_stk_bnl_den_cut_ln_fat_a": {
-    "name": "Hovädzie mäso, chk, und bl cntr steak, vykostené, den cut, chudé a tučné mäso, all gr, varené",
+    "name": "Hovädzie mäso, podplece, und bl cntr steak, vykostené, den cut, chudé a tučné mäso, all gr, varené",
     "alternative_names": [],
-    "description": "Hovädzie mäso, chk, und bl cntr steak, vykostené, den cut, chudé a tučné mäso, all gr, varené."
+    "description": "Hovädzie mäso, podplece, und bl cntr steak, vykostené, den cut, chudé a tučné mäso, all gr, varené."
   },
   "beef_chk_undbl_cntr_stk_bnl_den_ct_lnfat_0_ft": {
-    "name": "Beef, chk, undbl cntr steak, vykostené, den ct, chudé a tučné mäso, 0\" ft, výber, varené, grilované",
+    "name": "Beef, podplece, undbl cntr steak, vykostené, den ct, chudé a tučné mäso, 0\" ft, výber, varené, grilované",
     "alternative_names": [],
-    "description": "\"beef, chk, undbl cntr steak, vykostené, den ct, chudé a tučné mäso, 0\" ft, výber, varené, grilované\"."
+    "description": "\"beef, podplece, undbl cntr steak, vykostené, den ct, chudé a tučné mäso, 0\" ft, výber, varené, grilované\"."
   },
   "beef_chk_undble_cntr_stk_bnl_denr_cut_ln_fat": {
-    "name": "Beef, chk, undble cntr steak, vykostené, denr cut, chudé a tučné mäso, 0\"fat, ch, rw",
+    "name": "Beef, podplece, undble cntr steak, vykostené, denr cut, chudé a tučné mäso, 0\"fat, ch, rw",
     "alternative_names": [],
-    "description": "\"beef, chk, undble cntr steak, vykostené, denr cut, chudé a tučné mäso, 0\"fat, ch, rw\"."
+    "description": "\"beef, podplece, undble cntr steak, vykostené, denr cut, chudé a tučné mäso, 0\"fat, ch, rw\"."
   },
   "beef_shldr_pot_rst_or_steak_bnless_ln_fat_0_f": {
     "name": "Hovädzie, shldr pot rst or steak, vykostené, chudé a tučné mäso, bez tuku, výber, surové",
@@ -2308,14 +2308,14 @@
     "description": "\"hovädzie, shldr pot rst or steak, vykostené, chudé a tučné mäso, bez tuku, výber, surové\"."
   },
   "beef_chk_eye_rst_bnls_a_bf_rst_ln_fat_0_all_g": {
-    "name": "Beef, chk eye rst, bnls, a hovädzie rst, chudé a tučné mäso, 0\", všetky triedy, varené, pečené",
+    "name": "Beef, podplece eye rst, bnls, a hovädzie rst, chudé a tučné mäso, 0\", všetky triedy, varené, pečené",
     "alternative_names": [],
-    "description": "\"beef, chk eye rst, bnls, a hovädzie rst, chudé a tučné mäso, 0\", všetky triedy, varené, pečené\"."
+    "description": "\"beef, podplece eye rst, bnls, a hovädzie rst, chudé a tučné mäso, 0\", všetky triedy, varené, pečené\"."
   },
   "beef_chk_eye_rst_bnls_a_bf_rst_ln_fat_0_ch_ck": {
-    "name": "Beef, chk eye rst, bnls, a hovädzie rst, chudé a tučné mäso, 0\", ch, varené, pečené",
+    "name": "Beef, podplece eye rst, bnls, a hovädzie rst, chudé a tučné mäso, 0\", ch, varené, pečené",
     "alternative_names": [],
-    "description": "\"beef, chk eye rst, bnls, a hovädzie rst, chudé a tučné mäso, 0\", ch, varené, pečené\"."
+    "description": "\"beef, podplece eye rst, bnls, a hovädzie rst, chudé a tučné mäso, 0\", ch, varené, pečené\"."
   },
   "beef_chck_eye_rst_bnls_a_bf_rst_ln_fat_0_sel": {
     "name": "Beef, chck eye rst, bnls, a hovädzie rst, chudé a tučné mäso, 0\", výber, c, pečené",
@@ -2328,9 +2328,9 @@
     "description": "\"hovädzie mäso, skľučovadlo, steak pod čepeľou, bez mäsa, chudé a tučné mäso, bez tuku, všetky grds\"."
   },
   "beef_chk_mock_tndr_stk_bnl_ln_fat_0_fat_all_g": {
-    "name": "Hovädzie, chk, mock tndr steak, vykostené, chudé a tučné mäso, bez tuku, všetky grds, varené",
+    "name": "Hovädzie, podplece, mock tndr steak, vykostené, chudé a tučné mäso, bez tuku, všetky grds, varené",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, mock tndr steak, vykostené, chudé a tučné mäso, bez tuku, všetky grds, varené\"."
+    "description": "\"hovädzie, podplece, mock tndr steak, vykostené, chudé a tučné mäso, bez tuku, všetky grds, varené\"."
   },
   "beef_chuck_mock_tender_steak_bnless_ln_fat_0": {
     "name": "Hovädzie mäso, chuck, falošný jemný steak, vykostené, chudé a tučné mäso, bez tuku, výber, ck",
@@ -2338,14 +2338,14 @@
     "description": "\"hovädzie mäso, chuck, falošný jemný steak, vykostené, chudé a tučné mäso, bez tuku, výber, ck\"."
   },
   "beef_chk_mock_ten_stk_bnl_ln_fat_0_fat_all_gr": {
-    "name": "Hovädzie mäso, chk, mock desať steak, vykostené, chudé a tučné mäso, bez tuku, všetky grds, varené",
+    "name": "Hovädzie mäso, podplece, mock desať steak, vykostené, chudé a tučné mäso, bez tuku, všetky grds, varené",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, chk, mock desať steak, vykostené, chudé a tučné mäso, bez tuku, všetky grds, varené\"."
+    "description": "\"hovädzie mäso, podplece, mock desať steak, vykostené, chudé a tučné mäso, bez tuku, všetky grds, varené\"."
   },
   "beef_chk_mock_tender_steak_bnless_ln_fat_0_fa": {
-    "name": "Hovädzie mäso, chk, falošný jemný steak, bez tuku, chudé a tučné mäso, 0\" tučný, výberový, surový",
+    "name": "Hovädzie mäso, podplece, falošný jemný steak, bez tuku, chudé a tučné mäso, 0\" tučný, výberový, surový",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, chk, falošný jemný steak, bez tuku, chudé a tučné mäso, 0\" tučný, výberový, surový\"."
+    "description": "\"hovädzie mäso, podplece, falošný jemný steak, bez tuku, chudé a tučné mäso, 0\" tučný, výberový, surový\"."
   },
   "beef_chuck_shrt_ribs_bnless_ln_fat_0_fat_all": {
     "name": "Hovädzie mäso, chuck, krátke ribs, vykostené, chudé a tučné mäso, bez tuku, všetky triedy, varené, brs",
@@ -2378,19 +2378,19 @@
     "description": "\"beef, shldr pot rst, vykostené, chudé a tučné mäso, bez tuku, výber, varené, brsd\"."
   },
   "beef_chk_eye_ctry_style_ribs_bnl_ln_fat_0_fat": {
-    "name": "Hovädzie mäso, rebrá v štýle chk eye ctry, vykostené, chudé a tučné mäso, bez tuku, všetky gr, varené",
+    "name": "Hovädzie mäso, rebrá v štýle podplece eye ctry, vykostené, chudé a tučné mäso, bez tuku, všetky gr, varené",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, rebrá v štýle chk eye ctry, vykostené, chudé a tučné mäso, bez tuku, všetky gr, varené\"."
+    "description": "\"hovädzie mäso, rebrá v štýle podplece eye ctry, vykostené, chudé a tučné mäso, bez tuku, všetky gr, varené\"."
   },
   "beef_chk_eye_cntry_styl_ribs_bnl_ln_fat_0_fat": {
-    "name": "Hovädzie, chk eye cntry-styl ribs, vykostené, chudé a tučné mäso, bez tuku, výber, varené",
+    "name": "Hovädzie, podplece eye cntry-styl ribs, vykostené, chudé a tučné mäso, bez tuku, výber, varené",
     "alternative_names": [],
-    "description": "\"hovädzie, chk eye cntry-styl ribs, vykostené, chudé a tučné mäso, bez tuku, výber, varené\"."
+    "description": "\"hovädzie, podplece eye cntry-styl ribs, vykostené, chudé a tučné mäso, bez tuku, výber, varené\"."
   },
   "beef_chk_eye_cntry_style_ribs_bnl_ln_fat_0_fa": {
-    "name": "Hovädzie mäso, rebrá v štýle chk eye cntry, vykostené, chudé a tučné mäso, bez tuku, výber, varené",
+    "name": "Hovädzie mäso, rebrá v štýle podplece eye cntry, vykostené, chudé a tučné mäso, bez tuku, výber, varené",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, rebrá v štýle chk eye cntry, vykostené, chudé a tučné mäso, bez tuku, výber, varené\"."
+    "description": "\"hovädzie mäso, rebrá v štýle podplece eye cntry, vykostené, chudé a tučné mäso, bez tuku, výber, varené\"."
   },
   "beef_chuck_eye_steak_bnless_ln_fat_0_fat_all": {
     "name": "Beef, chuck eye steak, vykostené, chudé a tučné mäso, bez tuku, všetky triedy, varené, gr",
@@ -2398,9 +2398,9 @@
     "description": "\"beef, chuck eye steak, vykostené, chudé a tučné mäso, bez tuku, všetky triedy, varené, gr\"."
   },
   "beef_chk_eye_steak_bnless_ln_fat_0_fat_choic": {
-    "name": "Hovädzie mäso, chk eye steak, vykostené, chudé a tučné mäso, bez tuku, výber, varené, grilované",
+    "name": "Hovädzie mäso, podplece eye steak, vykostené, chudé a tučné mäso, bez tuku, výber, varené, grilované",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, chk eye steak, vykostené, chudé a tučné mäso, bez tuku, výber, varené, grilované\"."
+    "description": "\"hovädzie mäso, podplece eye steak, vykostené, chudé a tučné mäso, bez tuku, výber, varené, grilované\"."
   },
   "beef_chuck_eye_steak_bnless_ln_fat_0_fat_sel": {
     "name": "Hovädzie mäso, chuck eye steak, vykostené, chudé a tučné mäso, bez tuku, výber, varené, grilované",
@@ -2553,9 +2553,9 @@
     "description": "\"hovädzie mäso, rebrá, zadné rebrá, kosti, chudé, bez tuku, výber, surové\"."
   },
   "beef_rib_eye_stk_bne_in_lip_on_ln_ft_18_fat_c": {
-    "name": "Hovädzie mäso, rib eye steak, bne-in, s tukovým okrajom, chudé a tučné mäso, s 1/8\" tuku, choc, varené, grl",
+    "name": "Hovädzie mäso, rib eye steak, bne-in, s tukovým okrajom, chudé a tučné mäso, s 1/8\" tuku, čokoládový, varené, grl",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, rib eye steak, bne-in, s tukovým okrajom, chudé a tučné mäso, s 1/8\" tuku, choc, varené, grl\"."
+    "description": "\"hovädzie mäso, rib eye steak, bne-in, s tukovým okrajom, chudé a tučné mäso, s 1/8\" tuku, čokoládový, varené, grl\"."
   },
   "beef_rib_eye_stk_bne_in_lip_on_ln_ft_18_fat_s": {
     "name": "Hovädzie, rib eye steak, bne-in, s tukovým okrajom, chudé a tučné mäso, s 1/8\" tuku, výber, varené, grilované",
@@ -2633,9 +2633,9 @@
     "description": "\"hovädzie mäso, tanierový stek, bnls, insde skrt, chudé a tučné mäso, bez tuku, všetky grds, rw\"."
   },
   "beef_plate_steak_bnless_inside_skirt_ln_fat_0": {
-    "name": "Hovädzie mäso, tanierový steak, vykostené, inside skirt, chudé a tučné mäso, bez tuku, choc, rw",
+    "name": "Hovädzie mäso, tanierový steak, vykostené, inside skirt, chudé a tučné mäso, bez tuku, čokoládový, rw",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, tanierový steak, vykostené, inside skirt, chudé a tučné mäso, bez tuku, choc, rw\"."
+    "description": "\"hovädzie mäso, tanierový steak, vykostené, inside skirt, chudé a tučné mäso, bez tuku, čokoládový, rw\"."
   },
   "beef_ground_unspec_fat_content_ckd": {
     "name": "Hovädzie, mleté, nešpecifikovaný obsah tuku, varené",
@@ -2713,9 +2713,9 @@
     "description": "\"hovädzie mäso, rebrá, zadné rebrá, kosti, chudé a tučné mäso, bez tuku, výber, surové\"."
   },
   "beef_loin_top_sirlin_petite_rst_bnls_ln_0_fat": {
-    "name": "Hovädzie mäso, karé, top sirlin petite rst, bnls, chudé, bez tuku, choc, varené, pečené",
+    "name": "Hovädzie mäso, karé, top sirlin petite rst, bnls, chudé, bez tuku, čokoládový, varené, pečené",
     "alternative_names": [],
-    "description": "\"hovädzie mäso, karé, top sirlin petite rst, bnls, chudé, bez tuku, choc, varené, pečené\"."
+    "description": "\"hovädzie mäso, karé, top sirlin petite rst, bnls, chudé, bez tuku, čokoládový, varené, pečené\"."
   },
   "beef_loin_top_sirloin_petite_rstfilet_bnls_ln": {
     "name": "Hovädzie mäso, karé, horná sviečkovica petite rst/filet, bnls, chudé, bez tuku, chc, rw",
@@ -3233,9 +3233,9 @@
     "description": "Granolová tyčinka, jemná, obalená mliečnou čokoládou, orechové maslo."
   },
   "vegetable_oil_butter_sprd_red_cal": {
-    "name": "Rastlinný olej-maslová sprd, červená kal",
+    "name": "Rastlinný olej-maslová nátierka, červená kal",
     "alternative_names": [],
-    "description": "Rastlinný olej-maslová sprd, červená kal."
+    "description": "Rastlinný olej-maslová nátierka, červená kal."
   },
   "cheese_monterey_low_fat": {
     "name": "Syr, monterey, nízkotučný",
@@ -3283,9 +3283,9 @@
     "description": "Mlieko, cmar, tekuté, kultivované, červený tuk."
   },
   "salad_drsng_blue_or_roquefort_chs_drsng_fat_f": {
-    "name": "Šalát dresing, modrý alebo roquefort chs dresing, bez tuku",
+    "name": "Šalát dresing, modrý alebo roquefort syr dresing, bez tuku",
     "alternative_names": [],
-    "description": "Šalát dresing, modrý alebo roquefort chs dresing, bez tuku."
+    "description": "Šalát dresing, modrý alebo roquefort syr dresing, bez tuku."
   },
   "salad_drsng_mayonnaise_like_fat_free": {
     "name": "Šalát dresing, majonézový, bez tuku",
@@ -3308,9 +3308,9 @@
     "description": "Olej, ľanové semienko, lisovaný za studena."
   },
   "margarine_like_veg_oil_sprd_stk_or_tub_swtnd": {
-    "name": "Margarínový, rastlinný olej sprd, steak alebo vaňa, sladené",
+    "name": "Margarínový, rastlinný olej nátierka, steak alebo vaňa, sladené",
     "alternative_names": [],
-    "description": "Margarínový, rastlinný olej sprd, steak alebo vaňa, sladené."
+    "description": "Margarínový, rastlinný olej nátierka, steak alebo vaňa, sladené."
   },
   "cheese_product_past_process_cheddar_red_fat": {
     "name": "Syrový výrobok, predchádzajúci proces, čedar, červený tuk",

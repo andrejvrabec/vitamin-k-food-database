@@ -351,9 +351,9 @@
     "description": "Kuracie mäso, pečenie, len mäso, surové."
   },
   "chicken_roasting_lt_meat_meat_only_ckd_rstd": {
-    "name": "Kuracie, pecenie, lt maso, len maso, varené, pečené",
+    "name": "Kuracie, pecenie, ľahké maso, len maso, varené, pečené",
     "alternative_names": [],
-    "description": "Kuracie, pecenie, lt maso, len maso, varené, pečené."
+    "description": "Kuracie, pecenie, ľahké maso, len maso, varené, pečené."
   },
   "chicken_roasting_dk_meat_meat_only_raw": {
     "name": "Kuracie mäso, pečenie, tmavé mäso, len mäso, surové",
@@ -596,9 +596,9 @@
     "description": "Bravčové, bravčové, varené."
   },
   "cheesefurter_chs_smokie_pork_bf": {
-    "name": "Cheesefurter, chs smokie, bravčové mäso, hovädzie",
+    "name": "Cheesefurter, syr smokie, bravčové mäso, hovädzie",
     "alternative_names": [],
-    "description": "Cheesefurter, chs smokie, bravčové mäso, hovädzie."
+    "description": "Cheesefurter, syr smokie, bravčové mäso, hovädzie."
   },
   "chorizo_pork_and_beef": {
     "name": "Chorizo, bravčové a hovädzie mäso",
@@ -711,9 +711,9 @@
     "description": "Klobása, talianska, bravčová, varené."
   },
   "sausage_turkey_brkfst_links_mild": {
-    "name": "Klobása moriak brkfst links mierne",
+    "name": "Klobása moriak raňajkový links mierne",
     "alternative_names": [],
-    "description": "Klobása moriak brkfst links mierne."
+    "description": "Klobása moriak raňajkový links mierne."
   },
   "bacon_bf_stks": {
     "name": "Bacon & hovädzie steaky",
@@ -861,9 +861,9 @@
     "description": "Hovädzie mäso, sndwch steaky, vo vločkách, sekané, tvarované a nakrájané na tenké plátky, surové."
   },
   "beef_cured_brkfst_strips_ckd": {
-    "name": "Hovädzie mäso, sušené, brkfst pásiky, varené",
+    "name": "Hovädzie mäso, sušené, raňajkový pásiky, varené",
     "alternative_names": [],
-    "description": "Hovädzie mäso, sušené, brkfst pásiky, varené."
+    "description": "Hovädzie mäso, sušené, raňajkový pásiky, varené."
   },
   "beef_cured_corned_bf_brisket_ckd": {
     "name": "Hovädzie mäso, konzervované, konzervované mäso, hruď, varené",
@@ -886,9 +886,9 @@
     "description": "\"hovädzie mäso, skľučovadlo, pod čepeľou cntr steak, vykostené, denver cut, chudé, bez tuku\"."
   },
   "beef_chk_und_bl_cntr_stk_bnless_den_cut_ln_0": {
-    "name": "Beef, chk, und bl cntr steak, vykostené, den cut, chudé, bez tuku, výber, varené",
+    "name": "Beef, podplece, und bl cntr steak, vykostené, den cut, chudé, bez tuku, výber, varené",
     "alternative_names": [],
-    "description": "\"beef, chk, und bl cntr steak, vykostené, den cut, chudé, bez tuku, výber, varené\"."
+    "description": "\"beef, podplece, und bl cntr steak, vykostené, den cut, chudé, bez tuku, výber, varené\"."
   },
   "beef_cured_pastrami": {
     "name": "Hovädzie mäso, sušené, pastrami",
@@ -896,14 +896,14 @@
     "description": "Hovädzie mäso, sušené, pastrami."
   },
   "beef_chk_undbl_cntr_stk_bnless_dencut_ln_0_fa": {
-    "name": "Beef, chk, undbl cntr steak, vykostené, dencut, chudé, bez tuku, všetky triedy, surové",
+    "name": "Beef, podplece, undbl cntr steak, vykostené, dencut, chudé, bez tuku, všetky triedy, surové",
     "alternative_names": [],
-    "description": "\"beef, chk, undbl cntr steak, vykostené, dencut, chudé, bez tuku, všetky triedy, surové\"."
+    "description": "\"beef, podplece, undbl cntr steak, vykostené, dencut, chudé, bez tuku, všetky triedy, surové\"."
   },
   "beef_chk_und_blcntr_stk_bnless_den_cut_ln_0_f": {
-    "name": "Beef, chk, und blcntr steak, vykostené, den cut, chudé, bez tuku, výber, surové",
+    "name": "Beef, podplece, und blcntr steak, vykostené, den cut, chudé, bez tuku, výber, surové",
     "alternative_names": [],
-    "description": "\"beef, chk, und blcntr steak, vykostené, den cut, chudé, bez tuku, výber, surové\"."
+    "description": "\"beef, podplece, und blcntr steak, vykostené, den cut, chudé, bez tuku, výber, surové\"."
   },
   "beef_shrt_loin_top_loin_stk_ln_ft_18_ft_all_g": {
     "name": "Hovädzie mäso, krátke bedro, nízku roštenku, steak, chudé a tučné mäso, 1/8\" ft, všetky triedy, varené, grilované",
@@ -961,9 +961,9 @@
     "description": "Ryby, losos, sockeye, konzervované, scedené pevný podiel."
   },
   "fish_tuna_lt_cnd_in_h2o_drnd_sol": {
-    "name": "Ryby, tuniak, lt, konzervované vo vode, scedené pevný podiel",
+    "name": "Ryby, tuniak, ľahké, konzervované vo vode, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Ryby, tuniak, lt, konzervované vo vode, scedené pevný podiel."
+    "description": "Ryby, tuniak, ľahké, konzervované vo vode, scedené pevný podiel."
   },
   "tuna_white_cnd_in_h2o_drnd_sol": {
     "name": "Tuniak, biely, konzervované vo vode, scedené pevný podiel",
@@ -1156,24 +1156,24 @@
     "description": "Rýchle občerstvenia, tortový sndwch, klobása."
   },
   "burger_king_croissanwich_w_sausage_chs": {
-    "name": "Burger king, croissan'wich s klobásou a chs",
+    "name": "Burger king, croissan'wich s klobásou a syr",
     "alternative_names": [],
-    "description": "Burger king, croissan'wich s klobásou a chs."
+    "description": "Burger king, croissan'wich s klobásou a syr."
   },
   "grilled_chick_bacon_tomo_clb_sndwch_w_chs_let": {
-    "name": "Grilované kurča, slanina a tomo clb sndwch, s chs, šalátom a majonézou",
+    "name": "Grilované kurča, slanina a tomo clb sndwch, s syr, šalátom a majonézou",
     "alternative_names": [],
-    "description": "Grilované kurča, slanina a tomo clb sndwch, s chs, šalátom a majonézou."
+    "description": "Grilované kurča, slanina a tomo clb sndwch, s syr, šalátom a majonézou."
   },
   "crispy_chick_bacon_tomato_club_sndwch_w_chs_l": {
-    "name": "Chrumkavé kurča, slanina a paradajkový sndwch, s/ chs, letce a majonéza",
+    "name": "Chrumkavé kurča, slanina a paradajkový sndwch, s/ syr, letce a majonéza",
     "alternative_names": [],
-    "description": "Chrumkavé kurča, slanina a paradajkový sndwch, s/ chs, letce a majonéza."
+    "description": "Chrumkavé kurča, slanina a paradajkový sndwch, s/ syr, letce a majonéza."
   },
   "hot_pockets_ham_n_chs_stuffed_sndwch_frz": {
-    "name": "Hot pockets ham 'n chs plnené sndwch, mrazené",
+    "name": "Hot pockets ham 'n syr plnené sndwch, mrazené",
     "alternative_names": [],
-    "description": "Hot pockets ham 'n chs plnené sndwch, mrazené."
+    "description": "Hot pockets ham 'n syr plnené sndwch, mrazené."
   },
   "beef_stew_canned_entree": {
     "name": "Hovädzí guláš, predkrm z konzervy",
@@ -1211,24 +1211,24 @@
     "description": "\"beef, chck, clod, shldr top&cntr steaky, chudé a tučné mäso, 0\", všetky triedy, grilované\"."
   },
   "beef_chk_und_bl_pot_rststk_bnl_ln_ft_0_ft_all": {
-    "name": "Hovädzie, chk, und bl pot rst/steak, vykostené, chudé a tučné mäso, 0\" ft, all gr, surové",
+    "name": "Hovädzie, podplece, und bl pot rst/steak, vykostené, chudé a tučné mäso, 0\" ft, all gr, surové",
     "alternative_names": [],
-    "description": "\"hovädzie, chk, und bl pot rst/steak, vykostené, chudé a tučné mäso, 0\" ft, all gr, surové\"."
+    "description": "\"hovädzie, podplece, und bl pot rst/steak, vykostené, chudé a tučné mäso, 0\" ft, all gr, surové\"."
   },
   "beef_chk_und_ble_cntr_stk_bnl_den_ct_lnft_0_f": {
-    "name": "Beef, chk, und ble cntr steak, vykostené, den ct, chudé a tučné mäso, 0\" ft, ch, varené, grilované",
+    "name": "Beef, podplece, und ble cntr steak, vykostené, den ct, chudé a tučné mäso, 0\" ft, ch, varené, grilované",
     "alternative_names": [],
-    "description": "\"beef, chk, und ble cntr steak, vykostené, den ct, chudé a tučné mäso, 0\" ft, ch, varené, grilované\"."
+    "description": "\"beef, podplece, und ble cntr steak, vykostené, den ct, chudé a tučné mäso, 0\" ft, ch, varené, grilované\"."
   },
   "beef_chk_und_bl_cntr_stk_bnl_den_cut_ln_ft_0f": {
-    "name": "Beef, chk, und bl cntr steak, vykostené, den cut, chudé a tučné mäso, 0\"ft, all gr, rw",
+    "name": "Beef, podplece, und bl cntr steak, vykostené, den cut, chudé a tučné mäso, 0\"ft, all gr, rw",
     "alternative_names": [],
-    "description": "\"beef, chk, und bl cntr steak, vykostené, den cut, chudé a tučné mäso, 0\"ft, all gr, rw\"."
+    "description": "\"beef, podplece, und bl cntr steak, vykostené, den cut, chudé a tučné mäso, 0\"ft, all gr, rw\"."
   },
   "beef_chk_und_ble_cntr_stk_bnl_den_cut_ln_ft_0": {
-    "name": "Beef, chk, und ble cntr steak, vykostené, den cut, chudé a tučné mäso, 0\"ft, výber, rw",
+    "name": "Beef, podplece, und ble cntr steak, vykostené, den cut, chudé a tučné mäso, 0\"ft, výber, rw",
     "alternative_names": [],
-    "description": "\"beef, chk, und ble cntr steak, vykostené, den cut, chudé a tučné mäso, 0\"ft, výber, rw\"."
+    "description": "\"beef, podplece, und ble cntr steak, vykostené, den cut, chudé a tučné mäso, 0\"ft, výber, rw\"."
   },
   "beef_rib_eye_rst_bne_in_lip_on_ln_18_ft_all_g": {
     "name": "Beef, rib eye rst, bne-in, s tukovým okrajom, chudé, 1/8\" ft, všetky triedy, varené, pečené",
@@ -1311,9 +1311,9 @@
     "description": "Reštaurácia, čínska, sladko-kyslé bravčové."
   },
   "bologna_bfpork_lofat": {
-    "name": "Bologna, hovädzie&bravčové mäso, lofat",
+    "name": "Bologna, hovädzie&bravčové mäso, nízkotučný",
     "alternative_names": [],
-    "description": "Bologna, hovädzie&bravčové mäso, lofat."
+    "description": "Bologna, hovädzie&bravčové mäso, nízkotučný."
   },
   "turkey_bacon_cooked": {
     "name": "Morčacie slanina, varená",

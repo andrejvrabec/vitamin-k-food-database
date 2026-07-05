@@ -25,14 +25,14 @@
     "description": "Ice cream sndwch."
   },
   "ice_crm_sndwch_made_w_lt_ice_crm_vanilla": {
-    "name": "Ice cream sndwch, made with/ lt ice cream, vanilla",
+    "name": "Ice cream sndwch, made with/ light ice cream, vanilla",
     "alternative_names": [],
-    "description": "Ice cream sndwch, made with/ lt ice cream, vanilla."
+    "description": "Ice cream sndwch, made with/ light ice cream, vanilla."
   },
   "ice_crm_sndwch_vanilla_lt_no_sugar_added": {
-    "name": "Ice cream sndwch, vanilla, lt, no sugar added",
+    "name": "Ice cream sndwch, vanilla, light, no sugar added",
     "alternative_names": [],
-    "description": "Ice cream sndwch, vanilla, lt, no sugar added."
+    "description": "Ice cream sndwch, vanilla, light, no sugar added."
   },
   "nutritional_supp_for_people_w_diabetes_liq": {
     "name": "Nutritional supp for people with/ diabetes, liquids",
@@ -115,14 +115,14 @@
     "description": "Infant formula, Mead Johnson, enfam, lip, lo iron, liquids concentrate, with ARA and DHA."
   },
   "inf_for_me_john_enfam_lipil_lo_iron_ready_to": {
-    "name": "Infant formula, Mead Johnson, enfam, lipil, lo iron, ready to fe, with ARA and DHA",
+    "name": "Infant formula, Mead Johnson, enfam, lipil, lo iron, ready-to-feed, with ARA and DHA",
     "alternative_names": [],
-    "description": "Infant formula, Mead Johnson, enfam, lipil, lo iron, ready to fe, with ARA and DHA."
+    "description": "Infant formula, Mead Johnson, enfam, lipil, lo iron, ready-to-feed, with ARA and DHA."
   },
   "inf_for_mea_jo_enf_lact_lipil_w_ir_li_co_no_r": {
-    "name": "Infant formula, mea jo, Enfamil, lact, lipil, with iron, li co, no rec, with/ ar & dh",
+    "name": "Infant formula, mea jo, Enfamil, lact, lipil, with iron, liquid concentrate, no rec, with/ ar & dh",
     "alternative_names": [],
-    "description": "Infant formula, mea jo, Enfamil, lact, lipil, with iron, li co, no rec, with/ ar & dh."
+    "description": "Infant formula, mea jo, Enfamil, lact, lipil, with iron, liquid concentrate, no rec, with/ ar & dh."
   },
   "inf_for_me_joh_enf_nutr_lipil_w_iro_pdr_not_r": {
     "name": "Infant formula, me joh, Enfamil, Nutramigen Lipil, with/ iro, powder, not reconstituted, with ARA and DHA",
@@ -200,9 +200,9 @@
     "description": "Inf formul, pbm products, ultra bright beginnings, soy, liquids concentrate."
   },
   "inf_form_pbm_ultra_bright_begin_soy_pdr": {
-    "name": "Infant formula, pbm, ultra bright begin, soy, powder (form wyeth-ayerst)",
+    "name": "Infant formula, pbm, ultra bright begin, soy, powder (from Wyeth-Ayerst)",
     "alternative_names": [],
-    "description": "Infant formula, pbm, ultra bright begin, soy, powder (form wyeth-ayerst)."
+    "description": "Infant formula, pbm, ultra bright begin, soy, powder (from Wyeth-Ayerst)."
   },
   "inf_for_ne_good_start_2_essent_w_iron_liq_con": {
     "name": "Infant formula, ne, good start 2 essent, with iron, liquids concentrate, not recon",
@@ -220,14 +220,14 @@
     "description": "Infant formula, abbo Nutramigen, simil, aliment, advance, ready-to-feed, with ARA and DHA."
   },
   "inf_form_pbm_produ_store_brand_rtf": {
-    "name": "Infant formula, pbm produ, store brand, ready-to-feed (form wyeth-ayerst)",
+    "name": "Infant formula, pbm produ, store brand, ready-to-feed (from Wyeth-Ayerst)",
     "alternative_names": [],
-    "description": "Infant formula, pbm produ, store brand, ready-to-feed (form wyeth-ayerst)."
+    "description": "Infant formula, pbm produ, store brand, ready-to-feed (from Wyeth-Ayerst)."
   },
   "inf_form_pbm_prod_store_brand_lc_not_rec": {
-    "name": "Infant formula, pbm prod, store brand, lc, not rec (form wyeth-ayerst)",
+    "name": "Infant formula, pbm prod, store brand, lc, not rec (from Wyeth-Ayerst)",
     "alternative_names": [],
-    "description": "Infant formula, pbm prod, store brand, lc, not rec (form wyeth-ayerst)."
+    "description": "Infant formula, pbm prod, store brand, lc, not rec (from Wyeth-Ayerst)."
   },
   "inf_formu_pbm_produ_store_br_soy_liq_conc_not": {
     "name": "Inf formu, pbm produ, store br, soy, liquids concentrate, not recon",
@@ -285,9 +285,9 @@
     "description": "Baby fd, fort crl bar, fruit filling."
   },
   "salad_drsng_kraft_mayo_lt_mayo": {
-    "name": "Salad dressing, kraft mayo lt mayo",
+    "name": "Salad dressing, kraft mayo light mayo",
     "alternative_names": [],
-    "description": "Salad dressing, kraft mayo lt mayo."
+    "description": "Salad dressing, kraft mayo light mayo."
   },
   "salad_drsng_russian_drsng": {
     "name": "Salad dressing, russian dressing",
@@ -350,9 +350,9 @@
     "description": "Salad dressing, italian dressing, commercial, regular, without/ salt."
   },
   "salad_drsng_blue_or_roquefort_chs_drsng_comm": {
-    "name": "Salad dressing, blue or roquefort chs dressing, commercial, regular",
+    "name": "Salad dressing, blue or roquefort cheese dressing, commercial, regular",
     "alternative_names": [],
-    "description": "Salad dressing, blue or roquefort chs dressing, commercial, regular."
+    "description": "Salad dressing, blue or roquefort cheese dressing, commercial, regular."
   },
   "salad_drsng_ranch_drsng_comm_reg": {
     "name": "Salad dressing, ranch dressing, commercial, regular",
@@ -360,9 +360,9 @@
     "description": "Salad dressing, ranch dressing, commercial, regular."
   },
   "salad_drsng_mayo_lt": {
-    "name": "Salad dressing, mayo, lt",
+    "name": "Salad dressing, mayo, light",
     "alternative_names": [],
-    "description": "Salad dressing, mayo, lt."
+    "description": "Salad dressing, mayo, light."
   },
   "salad_drsng_honey_mustard_drsng_red_cal": {
     "name": "Salad dressing, honey mustard dressing, red cal",
@@ -370,9 +370,9 @@
     "description": "Salad dressing, honey mustard dressing, red cal."
   },
   "salad_drsng_mayo_lt_smart_balance_omega_plus": {
-    "name": "Salad dressing, mayo, lt, smart balance, omega plus lt",
+    "name": "Salad dressing, mayo, light, smart balance, omega plus light",
     "alternative_names": [],
-    "description": "Salad dressing, mayo, lt, smart balance, omega plus lt."
+    "description": "Salad dressing, mayo, light, smart balance, omega plus light."
   },
   "salad_drsng_honey_mustard_reg": {
     "name": "Salad dressing, honey mustard, regular",
@@ -1015,14 +1015,14 @@
     "description": "Vegetable juice cocktail, canned."
   },
   "vegetables_mxd_cnd_drnd_sol": {
-    "name": "Vegetables, mxd, canned, drained solids",
+    "name": "Vegetables, mixed, canned, drained solids",
     "alternative_names": [],
-    "description": "Vegetables, mxd, canned, drained solids."
+    "description": "Vegetables, mixed, canned, drained solids."
   },
   "vegetables_mxd_frz_ckd_bld_drnd_wosalt": {
-    "name": "Vegetables, mxd, frozen, cooked, boiled, drained, withoutsalt",
+    "name": "Vegetables, mixed, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Vegetables, mxd, frozen, cooked, boiled, drained, withoutsalt."
+    "description": "Vegetables, mixed, frozen, cooked, boiled, drained, withoutsalt."
   },
   "waterchestnuts_chinese_raw": {
     "name": "Waterchestnuts, chinese, (matai), raw",
@@ -1200,9 +1200,9 @@
     "description": "Taro, cooked, with salt."
   },
   "vegetables_mxd_frz_ckd_bld_drnd_wsalt": {
-    "name": "Vegetables, mxd, frozen, cooked, boiled, drained, withsalt",
+    "name": "Vegetables, mixed, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Vegetables, mxd, frozen, cooked, boiled, drained, withsalt."
+    "description": "Vegetables, mixed, frozen, cooked, boiled, drained, withsalt."
   },
   "waxgourd_ckd_bld_drnd_wsalt": {
     "name": "Waxgourd, (chinese preserving melon), cooked, boiled, drained, withsalt",
@@ -1335,24 +1335,24 @@
     "description": "Beef, canned."
   },
   "alcoholic_bev_daiquiri_prepared_from_recipe": {
-    "name": "Alcoholic bev, daiquiri, prepared-from-recipe",
+    "name": "Alcoholic beverage, daiquiri, prepared-from-recipe",
     "alternative_names": [],
-    "description": "Alcoholic bev, daiquiri, prepared-from-recipe."
+    "description": "Alcoholic beverage, daiquiri, prepared-from-recipe."
   },
   "alcoholic_bev_pina_colada_prepared_from_recip": {
-    "name": "Alcoholic bev, pina colada, prepared-from-recipe",
+    "name": "Alcoholic beverage, pina colada, prepared-from-recipe",
     "alternative_names": [],
-    "description": "Alcoholic bev, pina colada, prepared-from-recipe."
+    "description": "Alcoholic beverage, pina colada, prepared-from-recipe."
   },
   "alcoholic_bev_wine_table_red": {
-    "name": "Alcoholic bev, wine, table, red",
+    "name": "Alcoholic beverage, wine, table, red",
     "alternative_names": [],
-    "description": "Alcoholic bev, wine, table, red."
+    "description": "Alcoholic beverage, wine, table, red."
   },
   "alcoholic_bev_wine_table_white": {
-    "name": "Alcoholic bev, wine, table, white",
+    "name": "Alcoholic beverage, wine, table, white",
     "alternative_names": [],
-    "description": "Alcoholic bev, wine, table, white."
+    "description": "Alcoholic beverage, wine, table, white."
   },
   "mixed_veg_fruit_juc_drk_w_added_nutr": {
     "name": "Mixed vegetable & fruit juice drink, with/ added Nutramigen",
@@ -1365,9 +1365,9 @@
     "description": "Cocoa mix, powder."
   },
   "cocoa_mix_pdr_prep_w_h2o": {
-    "name": "Cocoa mix, powder, prep with/ h2o",
+    "name": "Cocoa mix, powder, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Cocoa mix, powder, prep with/ h2o."
+    "description": "Cocoa mix, powder, prepared with/ h2o."
   },
   "cocoa_mix_no_sugar_added_pdr": {
     "name": "Cocoa mix, no sugar added, powder",
@@ -1375,14 +1375,14 @@
     "description": "Cocoa mix, no sugar added, powder."
   },
   "coffee_brewed_from_grounds_prep_w_tap_h2o_dec": {
-    "name": "Coffee, brewed from grounds, prep with/ tap h2o, decaffeinated",
+    "name": "Coffee, brewed from grounds, prepared with/ tap h2o, decaffeinated",
     "alternative_names": [],
-    "description": "Coffee, brewed from grounds, prep with/ tap h2o, decaffeinated."
+    "description": "Coffee, brewed from grounds, prepared with/ tap h2o, decaffeinated."
   },
   "coffee_brewed_espresso_rest_prep_decaffeinate": {
-    "name": "Coffee, brewed, espresso, rest-prep, decaffeinated",
+    "name": "Coffee, brewed, espresso, rest-prepared, decaffeinated",
     "alternative_names": [],
-    "description": "Coffee, brewed, espresso, rest-prep, decaffeinated."
+    "description": "Coffee, brewed, espresso, rest-prepared, decaffeinated."
   },
   "coffee_inst_reg_pdr_half_the_caffeine": {
     "name": "Coffee, instant, regular, powder, half the caffeine",
@@ -1395,14 +1395,14 @@
     "description": "Coffee&cocoa (mocha) powder, withwhtnr&lo cal swtnr, decaffeinated."
   },
   "coffee_brewed_from_grounds_prep_w_tap_h2o": {
-    "name": "Coffee, brewed from grounds, prep with/ tap h2o",
+    "name": "Coffee, brewed from grounds, prepared with/ tap h2o",
     "alternative_names": [],
-    "description": "Coffee, brewed from grounds, prep with/ tap h2o."
+    "description": "Coffee, brewed from grounds, prepared with/ tap h2o."
   },
   "coffee_brewed_espresso_rest_prep": {
-    "name": "Coffee, brewed, espresso, rest-prep",
+    "name": "Coffee, brewed, espresso, rest-prepared",
     "alternative_names": [],
-    "description": "Coffee, brewed, espresso, rest-prep."
+    "description": "Coffee, brewed, espresso, rest-prepared."
   },
   "coffee_inst_reg_pdr": {
     "name": "Coffee, instant, regular, powder",
@@ -1430,9 +1430,9 @@
     "description": "Coffee, instant, withsugar, french-flavor, powder."
   },
   "coffee_sub_crl_grain_bev_pdr": {
-    "name": "Coffee sub, crl grain bev, powder",
+    "name": "Coffee sub, crl grain beverage, powder",
     "alternative_names": [],
-    "description": "Coffee sub, crl grain bev, powder."
+    "description": "Coffee sub, crl grain beverage, powder."
   },
   "citrus_fruit_juc_drk_frz_conc": {
     "name": "Citrus fruit juice drink, frozen concentrate",
@@ -1440,9 +1440,9 @@
     "description": "Citrus fruit juice drink, frozen concentrate."
   },
   "citrus_fruit_juc_drk_frz_conc_prep_wh2o": {
-    "name": "Citrus fruit juice drink, frozen concentrate, prep withh2o",
+    "name": "Citrus fruit juice drink, frozen concentrate, prepared withh2o",
     "alternative_names": [],
-    "description": "Citrus fruit juice drink, frozen concentrate, prep withh2o."
+    "description": "Citrus fruit juice drink, frozen concentrate, prepared withh2o."
   },
   "lemonade_frz_conc_white": {
     "name": "Lemonade, frozen concentrate, white",
@@ -1485,14 +1485,14 @@
     "description": "Shake, fast food, vanilla."
   },
   "cocoa_mix_w_asprt_pdr_prep_w_h2o": {
-    "name": "Cocoa mix, with/ asprt, powder, prep with/ h2o",
+    "name": "Cocoa mix, with/ asprt, powder, prepared with/ h2o",
     "alternative_names": [],
-    "description": "Cocoa mix, with/ asprt, powder, prep with/ h2o."
+    "description": "Cocoa mix, with/ asprt, powder, prepared with/ h2o."
   },
   "alcoholic_bev_liqueur_coffee_wcrm_34_proof": {
-    "name": "Alcoholic bev, liqueur, coffee withcrm, 34 proof",
+    "name": "Alcoholic beverage, liqueur, coffee withcrm, 34 proof",
     "alternative_names": [],
-    "description": "Alcoholic bev, liqueur, coffee withcrm, 34 proof."
+    "description": "Alcoholic beverage, liqueur, coffee withcrm, 34 proof."
   },
   "dairy_drk_mix_choc_red_cal_w_low_calorie_swee": {
     "name": "Dairy drink mix, chocolate, red cal, with/ low-calorie sweeteners, powder",
@@ -1500,9 +1500,9 @@
     "description": "Dairy drink mix, chocolate, red cal, with/ low-calorie sweeteners, powder."
   },
   "dairy_drk_mix_choc_red_cal_w_asprt_pdr_prep_w": {
-    "name": "Dairy drink mix, chocolate, red cal, with/ asprt, powder, prep with/ h2o & ice",
+    "name": "Dairy drink mix, chocolate, red cal, with/ asprt, powder, prepared with/ h2o & ice",
     "alternative_names": [],
-    "description": "Dairy drink mix, chocolate, red cal, with/ asprt, powder, prep with/ h2o & ice."
+    "description": "Dairy drink mix, chocolate, red cal, with/ asprt, powder, prepared with/ h2o & ice."
   },
   "orange_flavor_drk_brkfst_type_wpulp_frz_conc": {
     "name": "Orange-flavor drink, breakfast type, withpulp, frozen concentrate",
@@ -1595,14 +1595,14 @@
     "description": "Croaker, atlantic, raw."
   },
   "flatfish_raw": {
-    "name": "Flatfish (flounder&sole sp), raw",
+    "name": "Flatfish (flounder&sole species), raw",
     "alternative_names": [],
-    "description": "Flatfish (flounder&sole sp), raw."
+    "description": "Flatfish (flounder&sole species), raw."
   },
   "flatfish_ckd_dry_heat": {
-    "name": "Flatfish (flounder&sole sp), cooked, dry heat",
+    "name": "Flatfish (flounder&sole species), cooked, dry heat",
     "alternative_names": [],
-    "description": "Flatfish (flounder&sole sp), cooked, dry heat."
+    "description": "Flatfish (flounder&sole species), cooked, dry heat."
   },
   "haddock_raw": {
     "name": "Haddock, raw",
@@ -1635,9 +1635,9 @@
     "description": "Mackerel, jack, canned, drained solids."
   },
   "mackerel_pacificjack_mxd_sp_raw": {
-    "name": "Mackerel, pacific&jack, mxd sp, raw",
+    "name": "Mackerel, pacific&jack, mixed species, raw",
     "alternative_names": [],
-    "description": "Mackerel, pacific&jack, mxd sp, raw."
+    "description": "Mackerel, pacific&jack, mixed species, raw."
   },
   "mackerel_spanish_raw": {
     "name": "Mackerel, spanish, raw",
@@ -1720,9 +1720,9 @@
     "description": "Scup, raw."
   },
   "sea_bass_mxd_sp_raw": {
-    "name": "Sea bass, mxd sp, raw",
+    "name": "Sea bass, mixed species, raw",
     "alternative_names": [],
-    "description": "Sea bass, mxd sp, raw."
+    "description": "Sea bass, mixed species, raw."
   },
   "shad_american_raw": {
     "name": "Shad, american, raw",
@@ -1745,19 +1745,19 @@
     "description": "Snapper, mixed species, raw."
   },
   "sturgeon_mxd_sp_raw": {
-    "name": "Sturgeon, mxd sp, raw",
+    "name": "Sturgeon, mixed species, raw",
     "alternative_names": [],
-    "description": "Sturgeon, mxd sp, raw."
+    "description": "Sturgeon, mixed species, raw."
   },
   "sturgeon_mxd_sp_ckd_dry_heat": {
-    "name": "Sturgeon, mxd sp, cooked, dry heat",
+    "name": "Sturgeon, mixed species, cooked, dry heat",
     "alternative_names": [],
-    "description": "Sturgeon, mxd sp, cooked, dry heat."
+    "description": "Sturgeon, mixed species, cooked, dry heat."
   },
   "sturgeon_mxd_sp_smoked": {
-    "name": "Sturgeon, mxd sp, smoked",
+    "name": "Sturgeon, mixed species, smoked",
     "alternative_names": [],
-    "description": "Sturgeon, mxd sp, smoked."
+    "description": "Sturgeon, mixed species, smoked."
   },
   "surimi": {
     "name": "Surimi",
@@ -1780,14 +1780,14 @@
     "description": "Trout, mixed species, raw."
   },
   "whitefish_mxd_sp_raw": {
-    "name": "Whitefish, mxd sp, raw",
+    "name": "Whitefish, mixed species, raw",
     "alternative_names": [],
-    "description": "Whitefish, mxd sp, raw."
+    "description": "Whitefish, mixed species, raw."
   },
   "whitefish_mxd_sp_smoked": {
-    "name": "Whitefish, mxd sp, smoked",
+    "name": "Whitefish, mixed species, smoked",
     "alternative_names": [],
-    "description": "Whitefish, mxd sp, smoked."
+    "description": "Whitefish, mixed species, smoked."
   },
   "whiting_mixed_species_raw": {
     "name": "Whiting, mixed species, raw",
@@ -1795,14 +1795,14 @@
     "description": "Whiting, mixed species, raw."
   },
   "whiting_mxd_sp_ckd_dry_heat": {
-    "name": "Whiting, mxd sp, cooked, dry heat",
+    "name": "Whiting, mixed species, cooked, dry heat",
     "alternative_names": [],
-    "description": "Whiting, mxd sp, cooked, dry heat."
+    "description": "Whiting, mixed species, cooked, dry heat."
   },
   "yellowtail_mxd_sp_raw": {
-    "name": "Yellowtail, mxd sp, raw",
+    "name": "Yellowtail, mixed species, raw",
     "alternative_names": [],
-    "description": "Yellowtail, mxd sp, raw."
+    "description": "Yellowtail, mixed species, raw."
   },
   "crab_alaska_king_imitn_made_from_surimi": {
     "name": "Crab, alaska king, imitn, made from surimi",
@@ -1820,14 +1820,14 @@
     "description": "Crab, blue, canned."
   },
   "crayfish_mxd_sp_wild_raw": {
-    "name": "Crayfish, mxd sp, wild, raw",
+    "name": "Crayfish, mixed species, wild, raw",
     "alternative_names": [],
-    "description": "Crayfish, mxd sp, wild, raw."
+    "description": "Crayfish, mixed species, wild, raw."
   },
   "crayfish_mxd_sp_wild_ckd_moist_heat": {
-    "name": "Crayfish, mxd sp, wild, cooked, moist heat",
+    "name": "Crayfish, mixed species, wild, cooked, moist heat",
     "alternative_names": [],
-    "description": "Crayfish, mxd sp, wild, cooked, moist heat."
+    "description": "Crayfish, mixed species, wild, cooked, moist heat."
   },
   "shrimp_mixed_species_raw": {
     "name": "Shrimp, mixed species, raw",
@@ -1835,14 +1835,14 @@
     "description": "Shrimp, mixed species, raw."
   },
   "shrimp_mxd_sp_ckd_breadedfried": {
-    "name": "Shrimp, mxd sp, cooked, breaded&fried",
+    "name": "Shrimp, mixed species, cooked, breaded&fried",
     "alternative_names": [],
-    "description": "Shrimp, mxd sp, cooked, breaded&fried."
+    "description": "Shrimp, mixed species, cooked, breaded&fried."
   },
   "shrimp_mxd_sp_ckd_moist_heat": {
-    "name": "Shrimp, mxd sp, cooked, moist heat",
+    "name": "Shrimp, mixed species, cooked, moist heat",
     "alternative_names": [],
-    "description": "Shrimp, mxd sp, cooked, moist heat."
+    "description": "Shrimp, mixed species, cooked, moist heat."
   },
   "abalone_mixed_species_raw": {
     "name": "Abalone, mixed species, raw",
@@ -1855,14 +1855,14 @@
     "description": "Clam, mixed species, raw."
   },
   "clam_mxd_sp_cnd_drnd_sol": {
-    "name": "Clam, mxd sp, canned, drained solids",
+    "name": "Clam, mixed species, canned, drained solids",
     "alternative_names": [],
-    "description": "Clam, mxd sp, canned, drained solids."
+    "description": "Clam, mixed species, canned, drained solids."
   },
   "clam_mxd_sp_cnd_liq": {
-    "name": "Clam, mxd sp, canned, liquids",
+    "name": "Clam, mixed species, canned, liquids",
     "alternative_names": [],
-    "description": "Clam, mxd sp, canned, liquids."
+    "description": "Clam, mixed species, canned, liquids."
   },
   "octopus_common_raw": {
     "name": "Octopus, common, raw",
@@ -1875,9 +1875,9 @@
     "description": "Whelk, unspecified, raw."
   },
   "mackerel_pacificjack_mxd_sp_ckd_dry_heat": {
-    "name": "Mackerel, pacific&jack, mxd sp, cooked, dry heat",
+    "name": "Mackerel, pacific&jack, mixed species, cooked, dry heat",
     "alternative_names": [],
-    "description": "Mackerel, pacific&jack, mxd sp, cooked, dry heat."
+    "description": "Mackerel, pacific&jack, mixed species, cooked, dry heat."
   },
   "salmon_pink_ckd_dry_heat": {
     "name": "Salmon, pink, cooked, dry heat",
@@ -1955,14 +1955,14 @@
     "description": "Soymilk, original & vanilla, unfortified."
   },
   "tofu_firm_prep_wca_sulfatemagnesium_chloride": {
-    "name": "Tofu, firm, prep withca sulfate&magnesium chloride (nigari)",
+    "name": "Tofu, firm, prepared withca sulfate&magnesium chloride (nigari)",
     "alternative_names": [],
-    "description": "Tofu, firm, prep withca sulfate&magnesium chloride (nigari)."
+    "description": "Tofu, firm, prepared withca sulfate&magnesium chloride (nigari)."
   },
   "tofu_soft_prep_wca_sulfatemagnesium_chloride": {
-    "name": "Tofu, soft, prep withca sulfate&magnesium chloride (nigari)",
+    "name": "Tofu, soft, prepared withca sulfate&magnesium chloride (nigari)",
     "alternative_names": [],
-    "description": "Tofu, soft, prep withca sulfate&magnesium chloride (nigari)."
+    "description": "Tofu, soft, prepared withca sulfate&magnesium chloride (nigari)."
   },
   "tofu_fried": {
     "name": "Tofu, fried",
@@ -1970,9 +1970,9 @@
     "description": "Tofu, fried."
   },
   "hummus_home_prep": {
-    "name": "Hummus, home prep",
+    "name": "Hummus, home prepared",
     "alternative_names": [],
-    "description": "Hummus, home prep."
+    "description": "Hummus, home prepared."
   },
   "soymilk_original_vanilla_w_added_ca_vitamins": {
     "name": "Soymilk, original & vanilla, with/ added ca, vitamins a & d",
@@ -1985,9 +1985,9 @@
     "description": "Veggie burgers or soyburgers unprepared."
   },
   "peanut_sprd_red_sugar": {
-    "name": "Peanut sprd, red sugar",
+    "name": "Peanut spread, red sugar",
     "alternative_names": [],
-    "description": "Peanut sprd, red sugar."
+    "description": "Peanut spread, red sugar."
   },
   "ensure_fiber_w_fos_liq": {
     "name": "Ensure fiber with/ fos, liquids",
@@ -2005,14 +2005,14 @@
     "description": "Soymilk, chocolate, with/ added ca, vitamins a & d."
   },
   "soymilk_original_vanilla_lt_w_added_ca_vitami": {
-    "name": "Soymilk, original & vanilla, lt, with/ added ca, vitamins a & d",
+    "name": "Soymilk, original & vanilla, light, with/ added ca, vitamins a & d",
     "alternative_names": [],
-    "description": "Soymilk, original & vanilla, lt, with/ added ca, vitamins a & d."
+    "description": "Soymilk, original & vanilla, light, with/ added ca, vitamins a & d."
   },
   "soymilk_choc_other_flavors_lt_w_added_ca_vita": {
-    "name": "Soymilk, chocolate & other flavors, lt, with/ added ca, vitamins a & d",
+    "name": "Soymilk, chocolate & other flavors, light, with/ added ca, vitamins a & d",
     "alternative_names": [],
-    "description": "Soymilk, chocolate & other flavors, lt, with/ added ca, vitamins a & d."
+    "description": "Soymilk, chocolate & other flavors, light, with/ added ca, vitamins a & d."
   },
   "soymilk_nonfat_w_added_ca_vitamins_a_d": {
     "name": "Soymilk (all flavors), nonfat, with/ added ca, vitamins a & d",
@@ -2030,9 +2030,9 @@
     "description": "Vitasoy usa organic nasoya sprouted, tofu plus super firm."
   },
   "soy_flr_defatted_crude_prot_basis": {
-    "name": "Soy flr, defatted, crude prot basis (n x 6.25)",
+    "name": "Soy flour, defatted, crude prot basis (n x 6.25)",
     "alternative_names": [],
-    "description": "Soy flr, defatted, crude prot basis (n x 6.25)."
+    "description": "Soy flour, defatted, crude prot basis (n x 6.25)."
   },
   "game_meat_bear_ckd_simmrd": {
     "name": "Game meat, bear, cooked, simmrd",
@@ -2120,14 +2120,14 @@
     "description": "Cake mix, angelfood, dry."
   },
   "cake_angelfood_dry_mix_prep": {
-    "name": "Cake, angelfood, dry mix, prep",
+    "name": "Cake, angelfood, dry mix, prepared",
     "alternative_names": [],
-    "description": "Cake, angelfood, dry mix, prep."
+    "description": "Cake, angelfood, dry mix, prepared."
   },
   "cake_choc_commly_prep_w_choc_frstng_in_store": {
-    "name": "Cake, chocolate, commly prep with/ chocolate frstng, in-store bakery",
+    "name": "Cake, chocolate, commly prepared with/ chocolate frstng, in-store bakery",
     "alternative_names": [],
-    "description": "Cake, chocolate, commly prep with/ chocolate frstng, in-store bakery."
+    "description": "Cake, chocolate, commly prepared with/ chocolate frstng, in-store bakery."
   },
   "cake_choc_dry_mix_pudding_type": {
     "name": "Cake, chocolate, dry mix, pudding-type",
@@ -2140,14 +2140,14 @@
     "description": "Cake, chocolate, dry mix, regular."
   },
   "cake_white_prep_from_recipe_wcocnt_frstng": {
-    "name": "Cake, white, prep from recipe withcocnt frstng",
+    "name": "Cake, white, prepared from recipe withcocnt frstng",
     "alternative_names": [],
-    "description": "Cake, white, prep from recipe withcocnt frstng."
+    "description": "Cake, white, prepared from recipe withcocnt frstng."
   },
   "cake_fruitcake_commly_prep": {
-    "name": "Cake, fruitcake, commly prep",
+    "name": "Cake, fruitcake, commly prepared",
     "alternative_names": [],
-    "description": "Cake, fruitcake, commly prep."
+    "description": "Cake, fruitcake, commly prepared."
   },
   "cake_mix_pudd_dry_german_choc": {
     "name": "Cake mix, pudd, dry, german chocolate",
@@ -2170,9 +2170,9 @@
     "description": "Cake, snack cakes, creme-filled, chocolate with/ frstng."
   },
   "cake_sponge_commly_prep": {
-    "name": "Cake, sponge, commly prep",
+    "name": "Cake, sponge, commly prepared",
     "alternative_names": [],
-    "description": "Cake, sponge, commly prep."
+    "description": "Cake, sponge, commly prepared."
   },
   "cake_white_dry_mix_pudding_type_enr": {
     "name": "Cake, white, dry mix, pudding-type, enriched",
@@ -2185,14 +2185,14 @@
     "description": "Cake mix, dry, white, regular."
   },
   "cake_white_prep_from_recipe_wofrstng": {
-    "name": "Cake, white, prep from recipe withoutfrstng",
+    "name": "Cake, white, prepared from recipe withoutfrstng",
     "alternative_names": [],
-    "description": "Cake, white, prep from recipe withoutfrstng."
+    "description": "Cake, white, prepared from recipe withoutfrstng."
   },
   "cake_yel_commly_prep_w_choc_frstng_in_store_b": {
-    "name": "Cake, yellow, commly prep, with/ chocolate frstng, in-store bakery",
+    "name": "Cake, yellow, commly prepared, with/ chocolate frstng, in-store bakery",
     "alternative_names": [],
-    "description": "Cake, yellow, commly prep, with/ chocolate frstng, in-store bakery."
+    "description": "Cake, yellow, commly prepared, with/ chocolate frstng, in-store bakery."
   },
   "cake_yel_dry_mix_pudding_type": {
     "name": "Cake, yellow, dry mix, pudding-type",
@@ -2205,9 +2205,9 @@
     "description": "Cake, yellow, dry mix, regular, enriched."
   },
   "cheesecake_commly_prep": {
-    "name": "Cheesecake commly prep",
+    "name": "Cheesecake commly prepared",
     "alternative_names": [],
-    "description": "Cheesecake commly prep."
+    "description": "Cheesecake commly prepared."
   },
   "cookies_animal_crackers": {
     "name": "Cookies, animal crackers (incl arrowroot, tea biscuits, )",
@@ -2215,14 +2215,14 @@
     "description": "Cookies, animal crackers (incl arrowroot, tea biscuits, )."
   },
   "cookies_brownies_commly_prep": {
-    "name": "Cookies, brownies, commly prep",
+    "name": "Cookies, brownies, commly prepared",
     "alternative_names": [],
-    "description": "Cookies, brownies, commly prep."
+    "description": "Cookies, brownies, commly prepared."
   },
   "cookies_choc_chip_commly_prep_soft_type": {
-    "name": "Cookies, chocolate chip, commly prep, soft-type",
+    "name": "Cookies, chocolate chip, commly prepared, soft-type",
     "alternative_names": [],
-    "description": "Cookies, chocolate chip, commly prep, soft-type."
+    "description": "Cookies, chocolate chip, commly prepared, soft-type."
   },
   "cookies_choc_sndwch_wcreme_filling_reg": {
     "name": "Cookies, chocolate sndwch, withcreme filling, regular",
@@ -2235,9 +2235,9 @@
     "description": "Cookies, chocolate sndwch, withex creme filling."
   },
   "cookies_cocnt_macaroons_prep_from_recipe": {
-    "name": "Cookies, cocnt macaroons, prep from recipe",
+    "name": "Cookies, cocnt macaroons, prepared from recipe",
     "alternative_names": [],
-    "description": "Cookies, cocnt macaroons, prep from recipe."
+    "description": "Cookies, cocnt macaroons, prepared from recipe."
   },
   "cookies_fortune": {
     "name": "Cookies, fortune",
@@ -2265,14 +2265,14 @@
     "description": "Cookies, raisin, soft-type."
   },
   "cookies_shortbread_commly_prep_pln": {
-    "name": "Cookies, shortbread, commly prep, pln",
+    "name": "Cookies, shortbread, commly prepared, pln",
     "alternative_names": [],
-    "description": "Cookies, shortbread, commly prep, pln."
+    "description": "Cookies, shortbread, commly prepared, pln."
   },
   "cookies_choc_chip_commly_prep_spl_dietary": {
-    "name": "Cookies, chocolate chip, commly prep, special dietary",
+    "name": "Cookies, chocolate chip, commly prepared, special dietary",
     "alternative_names": [],
-    "description": "Cookies, chocolate chip, commly prep, special dietary."
+    "description": "Cookies, chocolate chip, commly prepared, special dietary."
   },
   "cookies_choc_sndwch_wcreme_filling_spl_dietar": {
     "name": "Cookies, chocolate sndwch, withcreme filling, special dietary",
@@ -2280,14 +2280,14 @@
     "description": "Cookies, chocolate sndwch, withcreme filling, special dietary."
   },
   "cookies_sugar_commly_prep_spl_dietary": {
-    "name": "Cookies, sugar, commly prep, special dietary",
+    "name": "Cookies, sugar, commly prepared, special dietary",
     "alternative_names": [],
-    "description": "Cookies, sugar, commly prep, special dietary."
+    "description": "Cookies, sugar, commly prepared, special dietary."
   },
   "cookies_sugar_commly_prep_reg": {
-    "name": "Cookies, sugar, commly prep, regular (incl vanilla)",
+    "name": "Cookies, sugar, commly prepared, regular (incl vanilla)",
     "alternative_names": [],
-    "description": "Cookies, sugar, commly prep, regular (incl vanilla)."
+    "description": "Cookies, sugar, commly prepared, regular (incl vanilla)."
   },
   "cookies_sugar_wafers_wcreme_filling_reg": {
     "name": "Cookies, sugar wafers withcreme filling, regular",
@@ -2315,14 +2315,14 @@
     "description": "Crackers, rye, wafers, plain."
   },
   "crackers_std_snack_type_reg": {
-    "name": "Crackers, std snack-type, regular",
+    "name": "Crackers, standard snack-type, regular",
     "alternative_names": [],
-    "description": "Crackers, std snack-type, regular."
+    "description": "Crackers, standard snack-type, regular."
   },
   "crackers_std_snack_type_sndwch_wchs_filling": {
-    "name": "Crackers, std snack-type, sndwch, withchs filling",
+    "name": "Crackers, standard snack-type, sndwch, withchs filling",
     "alternative_names": [],
-    "description": "Crackers, std snack-type, sndwch, withchs filling."
+    "description": "Crackers, standard snack-type, sndwch, withchs filling."
   },
   "doughnuts_cake_type_pln": {
     "name": "Doughnuts, cake-type, pln (includes unsugared, old-fashioned)",
@@ -2355,14 +2355,14 @@
     "description": "Doughnuts, yeast-leavened, withjelly filling."
   },
   "eclairs_custard_filled_wchoc_glaze_prep_from": {
-    "name": "Eclairs, custard-filled withchoc glaze, prep from recipe",
+    "name": "Eclairs, custard-filled withchoc glaze, prepared from recipe",
     "alternative_names": [],
-    "description": "Eclairs, custard-filled withchoc glaze, prep from recipe."
+    "description": "Eclairs, custard-filled withchoc glaze, prepared from recipe."
   },
   "hush_puppies_prep_from_recipe": {
-    "name": "Hush puppies, prep from recipe",
+    "name": "Hush puppies, prepared from recipe",
     "alternative_names": [],
-    "description": "Hush puppies, prep from recipe."
+    "description": "Hush puppies, prepared from recipe."
   },
   "ice_crm_cones_cake_or_wafer_type": {
     "name": "Ice cream cones, cake or wafer-type",
@@ -2420,9 +2420,9 @@
     "description": "Rolls, hard (incl kaiser)."
   },
   "sweet_rolls_cinn_commly_prep_wraisins": {
-    "name": "Sweet rolls, cinn, commly prep withraisins",
+    "name": "Sweet rolls, cinn, commly prepared withraisins",
     "alternative_names": [],
-    "description": "Sweet rolls, cinn, commly prep withraisins."
+    "description": "Sweet rolls, cinn, commly prepared withraisins."
   },
   "taco_shells_baked": {
     "name": "Taco shells, baked",
@@ -2435,9 +2435,9 @@
     "description": "Toaster pastries, fruit."
   },
   "tortillas_rtb_or_fry_flr_refr": {
-    "name": "Tortillas, rtb or -fry, flr, refrigerated",
+    "name": "Tortillas, rtb or -fry, flour, refrigerated",
     "alternative_names": [],
-    "description": "Tortillas, rtb or -fry, flr, refrigerated."
+    "description": "Tortillas, rtb or -fry, flour, refrigerated."
   },
   "leavening_agents_yeast_bakers_active_dry": {
     "name": "Leavening agents, yeast, baker's, active dry",
@@ -2445,19 +2445,19 @@
     "description": "Leavening agents, yeast, baker's, active dry."
   },
   "crackers_std_snack_type_reg_lo_salt": {
-    "name": "Crackers, std snack-type, regular, lo salt",
+    "name": "Crackers, standard snack-type, regular, lo salt",
     "alternative_names": [],
-    "description": "Crackers, std snack-type, regular, lo salt."
+    "description": "Crackers, standard snack-type, regular, lo salt."
   },
   "crackers_chs_lo_na": {
-    "name": "Crackers, chs, lo na",
+    "name": "Crackers, cheese, lo na",
     "alternative_names": [],
-    "description": "Crackers, chs, lo na."
+    "description": "Crackers, cheese, lo na."
   },
   "breakfast_tart_lofat": {
-    "name": "Breakfast tart, lofat",
+    "name": "Breakfast tart, low fat",
     "alternative_names": [],
-    "description": "Breakfast tart, lofat."
+    "description": "Breakfast tart, low fat."
   },
   "nabisco_nabisco_ritz_crackers": {
     "name": "Nabisco, nabisco ritz crackers",
@@ -2465,9 +2465,9 @@
     "description": "Nabisco, nabisco ritz crackers."
   },
   "usda_cmdty_bakery_flr_mix": {
-    "name": "Bakery, flr mix",
+    "name": "Bakery, flour mix",
     "alternative_names": [],
-    "description": "Bakery, flr mix."
+    "description": "Bakery, flour mix."
   },
   "waffle_bttrmlk_frz_rth_tstd": {
     "name": "Waffle, buttermilk, frozen, rth, tstd",
@@ -2495,9 +2495,9 @@
     "description": "Crackers, cream, gamesa sabrosas."
   },
   "tortillas_rtb_or_fry_flr_shelf_stable": {
-    "name": "Tortillas, rtb or -fry, flr, shelf stable",
+    "name": "Tortillas, rtb or -fry, flour, shelf stable",
     "alternative_names": [],
-    "description": "Tortillas, rtb or -fry, flr, shelf stable."
+    "description": "Tortillas, rtb or -fry, flour, shelf stable."
   },
   "cornnuts_plain": {
     "name": "Cornnuts, plain",
@@ -2535,9 +2535,9 @@
     "description": "Baking chocolate, unswtnd, squares."
   },
   "ice_creams_vanilla_lt": {
-    "name": "Ice creams, vanilla, lt",
+    "name": "Ice creams, vanilla, light",
     "alternative_names": [],
-    "description": "Ice creams, vanilla, lt."
+    "description": "Ice creams, vanilla, light."
   },
   "ice_creams_vanilla_rich": {
     "name": "Ice creams, vanilla, rich",
@@ -2560,14 +2560,14 @@
     "description": "Ice creams, vanilla."
   },
   "ice_creams_vanilla_lt_soft_serve": {
-    "name": "Ice creams, vanilla, lt, soft-serve",
+    "name": "Ice creams, vanilla, light, soft-serve",
     "alternative_names": [],
-    "description": "Ice creams, vanilla, lt, soft-serve."
+    "description": "Ice creams, vanilla, light, soft-serve."
   },
   "ice_creams_choc_lt": {
-    "name": "Ice creams, chocolate, lt",
+    "name": "Ice creams, chocolate, light",
     "alternative_names": [],
-    "description": "Ice creams, chocolate, lt."
+    "description": "Ice creams, chocolate, light."
   },
   "baking_choc_mexican_squares": {
     "name": "Baking chocolate, mexican, squares",
@@ -2635,9 +2635,9 @@
     "description": "Frostings, vanilla, creamy, ready-to-eat."
   },
   "ice_creams_vanilla_lt_no_sugar_added": {
-    "name": "Ice creams, vanilla, lt, no sugar added",
+    "name": "Ice creams, vanilla, light, no sugar added",
     "alternative_names": [],
-    "description": "Ice creams, vanilla, lt, no sugar added."
+    "description": "Ice creams, vanilla, light, no sugar added."
   },
   "frozen_novelties_fruit_juc_bars": {
     "name": "Frozen novelties, fruit & juice bars",
@@ -2645,9 +2645,9 @@
     "description": "Frozen novelties, fruit & juice bars."
   },
   "ice_creams_choc_lt_no_sugar_added": {
-    "name": "Ice creams, chocolate, lt, no sugar added",
+    "name": "Ice creams, chocolate, light, no sugar added",
     "alternative_names": [],
-    "description": "Ice creams, chocolate, lt, no sugar added."
+    "description": "Ice creams, chocolate, light, no sugar added."
   },
   "ice_creams_choc": {
     "name": "Ice creams, chocolate",
@@ -2690,9 +2690,9 @@
     "description": "Granola bars, soft, uncoated, chocolate chip."
   },
   "frosting_glaz_chc_prep_frm_rcip_w_butr_nfsmi": {
-    "name": "Frosting, glaz, chc, prep-frm-rcip, with/ butr, nfsmi recip no. c-32",
+    "name": "Frosting, glaz, chc, prepared-frm-rcip, with/ butr, nfsmi recip no. c-32",
     "alternative_names": [],
-    "description": "Frosting, glaz, chc, prep-frm-rcip, with/ butr, nfsmi recip no. c-32."
+    "description": "Frosting, glaz, chc, prepared-frm-rcip, with/ butr, nfsmi recip no. c-32."
   },
   "frozen_novelties_no_sugar_added_fudgesicle_po": {
     "name": "Frozen novelties, no sugar added, fudgesicle pops",
@@ -2715,9 +2715,9 @@
     "description": "Buckwheat groats, rstd, cooked."
   },
   "buckwheat_flr_whole_groat": {
-    "name": "Buckwheat flr, whole-groat",
+    "name": "Buckwheat flour, whole-groat",
     "alternative_names": [],
-    "description": "Buckwheat flr, whole-groat."
+    "description": "Buckwheat flour, whole-groat."
   },
   "bulgur_dry": {
     "name": "Bulgur, dry",
@@ -2765,9 +2765,9 @@
     "description": "Rye."
   },
   "oat_flr_part_debranned": {
-    "name": "Oat flr, part debranned",
+    "name": "Oat flour, part debranned",
     "alternative_names": [],
-    "description": "Oat flr, part debranned."
+    "description": "Oat flour, part debranned."
   },
   "kamut_unckd": {
     "name": "Kamut, uncooked",
@@ -2790,19 +2790,19 @@
     "description": "Cornmeal, whole-grain, white."
   },
   "millet_flr": {
-    "name": "Millet flr",
+    "name": "Millet flour",
     "alternative_names": [],
-    "description": "Millet flr."
+    "description": "Millet flour."
   },
   "sorghum_flr": {
-    "name": "Sorghum flr",
+    "name": "Sorghum flour",
     "alternative_names": [],
-    "description": "Sorghum flr."
+    "description": "Sorghum flour."
   },
   "fast_foods_vanilla_lt_soft_serve_ice_crm_w_co": {
-    "name": "Fast foods, vanilla, lt, soft-serve ice cream, with/ cone",
+    "name": "Fast foods, vanilla, light, soft-serve ice cream, with/ cone",
     "alternative_names": [],
-    "description": "Fast foods, vanilla, lt, soft-serve ice cream, with/ cone."
+    "description": "Fast foods, vanilla, light, soft-serve ice cream, with/ cone."
   },
   "fast_foods_chili_con_carne": {
     "name": "Fast foods, chili con carne",
@@ -2815,9 +2815,9 @@
     "description": "Fast foods, shrimp, breaded&fried."
   },
   "fast_foods_burrito_wbnschs": {
-    "name": "Fast foods, burrito, withbns&chs",
+    "name": "Fast foods, burrito, withbns&cheese",
     "alternative_names": [],
-    "description": "Fast foods, burrito, withbns&chs."
+    "description": "Fast foods, burrito, withbns&cheese."
   },
   "fast_foods_burrito_w_bns_bf": {
     "name": "Fast foods, burrito, with/ bns & beef",
@@ -2855,9 +2855,9 @@
     "description": "Fast foods, chicken, breaded & fried, boneless pieces, pln."
   },
   "mcdonalds_flt_o_fsh": {
-    "name": "Mcdonald's, flt-o-fsh",
+    "name": "Mcdonald's, Filet-O-Fish",
     "alternative_names": [],
-    "description": "Mcdonald's, flt-o-fsh."
+    "description": "Mcdonald's, Filet-O-Fish."
   },
   "mcdonalds_french_fr": {
     "name": "Mcdonald's, french fr",
@@ -2865,24 +2865,24 @@
     "description": "Mcdonald's, french fr."
   },
   "wendys_classic_single_hamburger_no_chs": {
-    "name": "Wendy's, classic single hamburger, no chs",
+    "name": "Wendy's, classic single hamburger, no cheese",
     "alternative_names": [],
-    "description": "Wendy's, classic single hamburger, no chs."
+    "description": "Wendy's, classic single hamburger, no cheese."
   },
   "wendys_classic_single_hamburger_w_chs": {
-    "name": "Wendy's, classic single hamburger, with/ chs",
+    "name": "Wendy's, classic single hamburger, with/ cheese",
     "alternative_names": [],
-    "description": "Wendy's, classic single hamburger, with/ chs."
+    "description": "Wendy's, classic single hamburger, with/ cheese."
   },
   "wendys_jr_hamburger_w_chs": {
-    "name": "Wendy's, jr. hamburger, with/ chs",
+    "name": "Wendy's, jr. hamburger, with/ cheese",
     "alternative_names": [],
-    "description": "Wendy's, jr. hamburger, with/ chs."
+    "description": "Wendy's, jr. hamburger, with/ cheese."
   },
   "wendys_classic_double_w_chs": {
-    "name": "Wendy's, classic double, with/ chs",
+    "name": "Wendy's, classic double, with/ cheese",
     "alternative_names": [],
-    "description": "Wendy's, classic double, with/ chs."
+    "description": "Wendy's, classic double, with/ cheese."
   },
   "wendys_homestyle_chick_fillet_sndwch": {
     "name": "Wendy's, homestyle chicken fillet sndwch",
@@ -2925,24 +2925,24 @@
     "description": "Burger king, chsbrgr."
   },
   "burger_king_whopper_no_chs": {
-    "name": "Burger king, whopper, no chs",
+    "name": "Burger king, whopper, no cheese",
     "alternative_names": [],
-    "description": "Burger king, whopper, no chs."
+    "description": "Burger king, whopper, no cheese."
   },
   "burger_king_whopper_w_chs": {
-    "name": "Burger king, whopper, with/ chs",
+    "name": "Burger king, whopper, with/ cheese",
     "alternative_names": [],
-    "description": "Burger king, whopper, with/ chs."
+    "description": "Burger king, whopper, with/ cheese."
   },
   "burger_king_double_whopper_no_chs": {
-    "name": "Burger king, double whopper, no chs",
+    "name": "Burger king, double whopper, no cheese",
     "alternative_names": [],
-    "description": "Burger king, double whopper, no chs."
+    "description": "Burger king, double whopper, no cheese."
   },
   "burger_king_double_whopper_w_chs": {
-    "name": "Burger king, double whopper, with/ chs",
+    "name": "Burger king, double whopper, with/ cheese",
     "alternative_names": [],
-    "description": "Burger king, double whopper, with/ chs."
+    "description": "Burger king, double whopper, with/ cheese."
   },
   "burger_king_chick_strips": {
     "name": "Burger king, chicken strips",
@@ -3075,9 +3075,9 @@
     "description": "Chili con carne withbns, canned entree."
   },
   "lasagna_chs_frz_prep": {
-    "name": "Lasagna, chs, frozen, prep",
+    "name": "Lasagna, cheese, frozen, prepared",
     "alternative_names": [],
-    "description": "Lasagna, chs, frozen, prep."
+    "description": "Lasagna, cheese, frozen, prepared."
   },
   "lasagna_w_meat_sau_frz_entree": {
     "name": "Lasagna with/ meat & sauce, frozen entree",
@@ -3105,9 +3105,9 @@
     "description": "Chili with/ bns, microwavable bowls."
   },
   "lasagna_w_meat_sau_frz_prep": {
-    "name": "Lasagna with/ meat sauce, frozen, prep",
+    "name": "Lasagna with/ meat sauce, frozen, prepared",
     "alternative_names": [],
-    "description": "Lasagna with/ meat sauce, frozen, prep."
+    "description": "Lasagna with/ meat sauce, frozen, prepared."
   },
   "formbar_marssnack_snickers_marathonprotperfba": {
     "name": "Formbar, marssnack, snickers marathonprotperfbar, carmelnutrush",
@@ -3125,9 +3125,9 @@
     "description": "Pretzels, soft, unsalted."
   },
   "form_bar_zone_perfect_classic_crunch_bar_mxd": {
-    "name": "Form bar, zone perfect classic crunch bar, mxd flavors",
+    "name": "Form bar, zone perfect classic crunch bar, mixed flavors",
     "alternative_names": [],
-    "description": "Form bar, zone perfect classic crunch bar, mxd flavors."
+    "description": "Form bar, zone perfect classic crunch bar, mixed flavors."
   },
   "snac_grano_bar_gener_mills_nature_vall_swesal": {
     "name": "Snac, grano bar, gener mills nature vall, swe&sal nut, peanu",
@@ -3145,14 +3145,14 @@
     "description": "Snac, grano bar, gener mills, natur valle, chewy trail mix."
   },
   "dip_salsa_con_queso_chs_salsa_med": {
-    "name": "Dip, salsa con queso, chs & salsa- med",
+    "name": "Dip, salsa con queso, cheese & salsa- med",
     "alternative_names": [],
-    "description": "Dip, salsa con queso, chs & salsa- med."
+    "description": "Dip, salsa con queso, cheese & salsa- med."
   },
   "dip_old_el_paso_chs_n_salsa_med": {
-    "name": "Dip, old el paso, chs 'n salsa, med",
+    "name": "Dip, old el paso, cheese 'n salsa, med",
     "alternative_names": [],
-    "description": "Dip, old el paso, chs 'n salsa, med."
+    "description": "Dip, old el paso, cheese 'n salsa, med."
   },
   "dip_tostitos_salsa_con_queso_med": {
     "name": "Dip, tostitos, salsa con queso, med",
@@ -3290,9 +3290,9 @@
     "description": "Restaurant, family style, chicken fingers, from kid's menu."
   },
   "restaurant_latino_empanadas_bf_prep": {
-    "name": "Restaurant, latino, empanadas, beef, prep",
+    "name": "Restaurant, latino, empanadas, beef, prepared",
     "alternative_names": [],
-    "description": "Restaurant, latino, empanadas, beef, prep."
+    "description": "Restaurant, latino, empanadas, beef, prepared."
   },
   "restaurant_latino_pupusas_con_frijoles": {
     "name": "Restaurant, latino, pupusas con frijoles (pupusas, bean)",
@@ -3355,9 +3355,9 @@
     "description": "Restaurant, chinese, chicken chow mein."
   },
   "froz_novlt_ice_crm_van_ice_crm_lt_no_sugar_ad": {
-    "name": "Froz novlt, ice cream, van ice cream, lt, no sugar added, chocolate coatd",
+    "name": "Froz novlt, ice cream, van ice cream, light, no sugar added, chocolate coatd",
     "alternative_names": [],
-    "description": "Froz novlt, ice cream, van ice cream, lt, no sugar added, chocolate coatd."
+    "description": "Froz novlt, ice cream, van ice cream, light, no sugar added, chocolate coatd."
   },
   "salad_drsng_peppercorn_drsng_comm_reg": {
     "name": "Salad dressing, peppercorn dressing, commercial, regular",
@@ -3370,9 +3370,9 @@
     "description": "Salad dressing, italian dressing, red cal."
   },
   "salad_drsng_blue_or_roquefort_chs_drsng_lt": {
-    "name": "Salad dressing, blue or roquefort chs dressing, lt",
+    "name": "Salad dressing, blue or roquefort cheese dressing, light",
     "alternative_names": [],
-    "description": "Salad dressing, blue or roquefort chs dressing, lt."
+    "description": "Salad dressing, blue or roquefort cheese dressing, light."
   },
   "salad_drsng_french_drsng_red_cal": {
     "name": "Salad dressing, french dressing, red cal",
@@ -3420,9 +3420,9 @@
     "description": "Salad dressing, sweet&sour."
   },
   "salad_drsng_blue_or_roquefort_chs_lo_cal": {
-    "name": "Salad dressing, blue or roquefort chs, lo cal",
+    "name": "Salad dressing, blue or roquefort cheese, lo cal",
     "alternative_names": [],
-    "description": "Salad dressing, blue or roquefort chs, lo cal."
+    "description": "Salad dressing, blue or roquefort cheese, lo cal."
   },
   "salad_drsng_caesar_lo_cal": {
     "name": "Salad dressing, caesar, lo cal",
@@ -3739,9 +3739,9 @@
     "description": "Roman rocket, raw."
   },
   "glasswort_salicornia_sp_fresh_raw": {
-    "name": "Glasswort (Salicornia sp.), fresh, raw",
+    "name": "Glasswort (Salicornia species.), fresh, raw",
     "alternative_names": [],
-    "description": "Glasswort (Salicornia sp.), fresh, raw."
+    "description": "Glasswort (Salicornia species.), fresh, raw."
   },
   "artichoke_globe_cooked": {
     "name": "Artichoke, globe, cooked",
@@ -4724,14 +4724,14 @@
     "description": "Coriander, fresh."
   },
   "spirulina_spirulina_sp_dried_or_dehydrated": {
-    "name": "Spirulina (spirulina sp.), dried or dehydrated",
+    "name": "Spirulina (spirulina species.), dried or dehydrated",
     "alternative_names": [],
-    "description": "Spirulina (spirulina sp.), dried or dehydrated."
+    "description": "Spirulina (spirulina species.), dried or dehydrated."
   },
   "seaweed_spirulina_spirulina_sp_fresh_raw": {
-    "name": "Seaweed, Spirulina (spirulina sp.), fresh, raw",
+    "name": "Seaweed, Spirulina (spirulina species.), fresh, raw",
     "alternative_names": [],
-    "description": "Seaweed, Spirulina (spirulina sp.), fresh, raw."
+    "description": "Seaweed, Spirulina (spirulina species.), fresh, raw."
   },
   "seaweed_sea_fennel_fresh_raw": {
     "name": "Seaweed, Sea fennel, fresh, raw",
@@ -4744,9 +4744,9 @@
     "description": "Sea belt (Saccharina latissima), dried or dehydrated."
   },
   "laver_porphyra_sp_dried_or_dehydrated": {
-    "name": "Laver (Porphyra sp.), dried or dehydrated",
+    "name": "Laver (Porphyra species.), dried or dehydrated",
     "alternative_names": [],
-    "description": "Laver (Porphyra sp.), dried or dehydrated."
+    "description": "Laver (Porphyra species.), dried or dehydrated."
   },
   "dulse_palmaria_palmata_dried_or_dehydrated": {
     "name": "Dulse (Palmaria palmata), dried or dehydrated",
@@ -4759,9 +4759,9 @@
     "description": "Sea thong (Himanthalia elongata), dried or dehydrated."
   },
   "gut_weed_ulva_sp_dried_or_dehydrated": {
-    "name": "Gut weed (Ulva sp.), dried or dehydrated",
+    "name": "Gut weed (Ulva species.), dried or dehydrated",
     "alternative_names": [],
-    "description": "Gut weed (Ulva sp.), dried or dehydrated."
+    "description": "Gut weed (Ulva species.), dried or dehydrated."
   },
   "carragheen_mosses_chondrus_crispus_dried_or_dehydrated": {
     "name": "Carragheen mosses (Chondrus crispus), dried or dehydrated",
