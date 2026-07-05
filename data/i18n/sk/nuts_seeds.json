@@ -27,8 +27,8 @@
   "cashews_raw": {
     "name": "Kešu orechy, surové",
     "alternative_names": [
-      "kešu",
-      "surové kešu"
+      "Kešu",
+      "Surové kešu"
     ],
     "description": "Surové kešu orechy, obsahujúce stredné množstvo vitamínu K1."
   },
@@ -45,8 +45,8 @@
   "edamame_frozen": {
     "name": "Edamame, mrazené",
     "alternative_names": [
-      "zelené sójové bôby",
-      "mrazené edamame"
+      "Zelené sójové bôby",
+      "Mrazené edamame"
     ],
     "description": "Mrazené nezrelé sójové bôby, obsahujúce stredné množstvo vitamínu K1."
   },
@@ -88,16 +88,16 @@
   "pumpkin_seeds_roasted": {
     "name": "Tekvicové semená, pražené",
     "alternative_names": [
-      "tekvicové semiačka",
-      "pražené tekvicové semienka"
+      "Tekvicové semiačka",
+      "Pražené tekvicové semienka"
     ],
     "description": "Pražené tekvicové semená (lúpané), dobrý semenný zdroj vitamínu K1."
   },
   "soybean_sprouts_cooked": {
     "name": "Sójové klíčky, varené",
     "alternative_names": [
-      "varené sójové klíčky",
-      "parené sójové klíčky"
+      "Varené sójové klíčky",
+      "Parené sójové klíčky"
     ],
     "description": "Varené naklíčené sójové bôby, obsahujúce stredné množstvo vitamínu K1."
   },
@@ -167,14 +167,14 @@
     "description": "Fazuľa, lusk, zelená, surová."
   },
   "beans_snap_grn_ckd_bld_drnd_wosalt": {
-    "name": "Fazuľa, lusk, grn, varené, scedené, bezsoľ",
+    "name": "Fazuľa, lusk, grn, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Fazuľa, lusk, grn, varené, scedené, bezsoľ."
+    "description": "Fazuľa, lusk, grn, varené, scedené, bez soli."
   },
   "beans_snap_grn_var_cnd_reg_pk_solliquids": {
-    "name": "Fazuľa, snap, grn var, konzervované, reg pk, pevný podiel&tekutiny",
+    "name": "Fazuľa, snap, grn var, konzervované, reg pk, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Fazuľa, snap, grn var, konzervované, reg pk, pevný podiel&tekutiny."
+    "description": "Fazuľa, snap, grn var, konzervované, reg pk, pevný podiel a tekutina."
   },
   "beans_snap_grn_cnd_reg_pk_drnd_sol": {
     "name": "Fazuľa, snap, grn, konzervované, reg pk, scedené pevný podiel",
@@ -187,9 +187,9 @@
     "description": "Beans, snap, grn, mrazené, all styles, neupravené."
   },
   "beans_snap_grn_frz_ckd_bld_drnd_wosalt": {
-    "name": "Fazuľa, lusk, grn, mrazené, varené, scedené bezsoľ",
+    "name": "Fazuľa, lusk, grn, mrazené, varené, scedené bez soli",
     "alternative_names": [],
-    "description": "Fazuľa, lusk, grn, mrazené, varené, scedené bezsoľ."
+    "description": "Fazuľa, lusk, grn, mrazené, varené, scedené bez soli."
   },
   "beans_snap_grn_frz_all_styles_microwaved": {
     "name": "Fazuľa, snap, grn, mrazené, všetky štýly, mikrovlnné",
@@ -197,14 +197,14 @@
     "description": "Fazuľa, snap, grn, mrazené, všetky štýly, mikrovlnné."
   },
   "cowpeas_immat_seeds_ckd_bld_drnd_wo_salt": {
-    "name": "Cowpeas (blackeyes), immat semená, varené, scedené, bez/ soľ",
+    "name": "Cowpeas (blackeyes), immat semená, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Cowpeas (blackeyes), immat semená, varené, scedené, bez/ soľ."
+    "description": "Cowpeas (blackeyes), immat semená, varené, scedené, bez soli."
   },
   "cowpeas_immtre_seeds_frz_ckd_bld_drnd_wosalt": {
-    "name": "Cowpeas (blackeyes), immtre semená, mrazené, varené, scedené, bezsoľ",
+    "name": "Cowpeas (blackeyes), immtre semená, mrazené, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Cowpeas (blackeyes), immtre semená, mrazené, varené, scedené, bezsoľ."
+    "description": "Cowpeas (blackeyes), immtre semená, mrazené, varené, scedené, bez soli."
   },
   "cowpeas_young_pods_wseeds_raw": {
     "name": "Cowpeas, mladé struky so semenami, surové",
@@ -237,14 +237,14 @@
     "description": "Hrach obyčajný, semená immat, surové."
   },
   "pigeonpeas_immat_seeds_ckd_bld_drnd_wosalt": {
-    "name": "Pigeonpeas, immat semená, varené, scedené, bezsoľ",
+    "name": "Pigeonpeas, immat semená, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Pigeonpeas, immat semená, varené, scedené, bezsoľ."
+    "description": "Pigeonpeas, immat semená, varené, scedené, bez soli."
   },
   "pumpkin_leaves_ckd_bld_drnd_wosalt": {
-    "name": "Tekvicové listy, varené, scedené, bezsoľ",
+    "name": "Tekvicové listy, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Tekvicové listy, varené, scedené, bezsoľ."
+    "description": "Tekvicové listy, varené, scedené, bez soli."
   },
   "pumpkin_raw": {
     "name": "Tekvica, surová",
@@ -252,19 +252,19 @@
     "description": "Tekvica, surová."
   },
   "pumpkin_ckd_bld_drnd_wosalt": {
-    "name": "Tekvica, varené, scedené, bezsoľ",
+    "name": "Tekvica, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Tekvica, varené, scedené, bezsoľ."
+    "description": "Tekvica, varené, scedené, bez soli."
   },
   "pumpkin_cnd_wosalt": {
-    "name": "Tekvica, konzervované, bezsoľ",
+    "name": "Tekvica, konzervované, bez soli",
     "alternative_names": [],
-    "description": "Tekvica, konzervované, bezsoľ."
+    "description": "Tekvica, konzervované, bez soli."
   },
   "soybeans_mature_seeds_sprouted_ckd_stmd": {
-    "name": "Sójové bôby, zrelé semená, naklíčené, varené, stmd",
+    "name": "Sójové bôby, zrelé semená, naklíčené, varené, parené",
     "alternative_names": [],
-    "description": "Sójové bôby, zrelé semená, naklíčené, varené, stmd."
+    "description": "Sójové bôby, zrelé semená, naklíčené, varené, parené."
   },
   "beans_mung_mature_seeds_sprouted_cnd_drnd_sol": {
     "name": "Fazuľa, mungo, zrelé semená, naklíčené, konzervované, scedené pevný podiel",
@@ -292,14 +292,14 @@
     "description": "Fazuľa, lusk, grn, varené, scedené, so soľou."
   },
   "beans_snap_yel_ckd_bld_drnd_wosalt": {
-    "name": "Fazuľa, lusk, yel, varené, scedené, bezsoľ",
+    "name": "Fazuľa, lusk, žltý, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Fazuľa, lusk, yel, varené, scedené, bezsoľ."
+    "description": "Fazuľa, lusk, žltý, varené, scedené, bez soli."
   },
   "beans_snap_yel_ckd_bld_drnd_wsalt": {
-    "name": "Fazuľa, lusk, yel, varené, scedené, so soľou",
+    "name": "Fazuľa, lusk, žltý, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Fazuľa, lusk, yel, varené, scedené, so soľou."
+    "description": "Fazuľa, lusk, žltý, varené, scedené, so soľou."
   },
   "beans_snap_grn_cnd_no_salt_drnd_sol": {
     "name": "Fazuľa, snap, grn, konzervované, no salt, scedené pevný podiel",
@@ -312,14 +312,14 @@
     "description": "Fazuľa, snap, grn, mrazené, varené, scedené, so soľou."
   },
   "beans_snap_yel_frz_ckd_bld_drnd_wosalt": {
-    "name": "Fazuľa, lusk, yel, mrazené, varené, scedené, bezsoľ",
+    "name": "Fazuľa, lusk, žltý, mrazené, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Fazuľa, lusk, yel, mrazené, varené, scedené, bezsoľ."
+    "description": "Fazuľa, lusk, žltý, mrazené, varené, scedené, bez soli."
   },
   "beans_snap_yel_frz_ckd_bld_drnd_wsalt": {
-    "name": "Fazuľa, lusk, yel, mrazené, varené, scedené, so soľou",
+    "name": "Fazuľa, lusk, žltý, mrazené, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Fazuľa, lusk, yel, mrazené, varené, scedené, so soľou."
+    "description": "Fazuľa, lusk, žltý, mrazené, varené, scedené, so soľou."
   },
   "cowpeas_immat_seeds_frz_ckd_bld_drnd_w_salt": {
     "name": "Cowpeas (blackeyes), immat semená, mrazené, varené, scedené, so soľou",
@@ -352,19 +352,19 @@
     "description": "Tekvicové listy, varené, scedené, so soľou."
   },
   "soybeans_mature_seeds_sprouted_ckd_stmd_wsalt": {
-    "name": "Sójové bôby, zrelé semená, naklíčené, varené, stmd, so soľou",
+    "name": "Sójové bôby, zrelé semená, naklíčené, varené, parené, so soľou",
     "alternative_names": [],
-    "description": "Sójové bôby, zrelé semená, naklíčené, varené, stmd, so soľou."
+    "description": "Sójové bôby, zrelé semená, naklíčené, varené, parené, so soľou."
   },
   "beans_snap_yel_cnd_reg_pk_drnd_sol": {
-    "name": "Fazuľa, snap, yel, konzervované, reg pk, scedené pevný podiel",
+    "name": "Fazuľa, snap, žltý, konzervované, reg pk, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Fazuľa, snap, yel, konzervované, reg pk, scedené pevný podiel."
+    "description": "Fazuľa, snap, žltý, konzervované, reg pk, scedené pevný podiel."
   },
   "beans_snap_yel_cnd_no_salt_drnd_sol": {
-    "name": "Fazuľa, lusk, yel, konzervované, bez soli, scedené pevný podiel",
+    "name": "Fazuľa, lusk, žltý, konzervované, bez soli, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Fazuľa, lusk, yel, konzervované, bez soli, scedené pevný podiel."
+    "description": "Fazuľa, lusk, žltý, konzervované, bez soli, scedené pevný podiel."
   },
   "beans_fava_in_pod_raw": {
     "name": "Fazuľa, fava, v strukoch, surová",
@@ -372,9 +372,9 @@
     "description": "Fazuľa, fava, v strukoch, surová."
   },
   "sunflower_sd_krnls_dry_rstd_wosalt": {
-    "name": "Slnečnica sd krnls, suchá pečené, ssoľ",
+    "name": "Slnečnica sd zrná, suchá pečené, ssoľ",
     "alternative_names": [],
-    "description": "Slnečnica sd krnls, suchá pečené, ssoľ."
+    "description": "Slnečnica sd zrná, suchá pečené, ssoľ."
   },
   "cashew_nuts_dry_rstd_wosalt": {
     "name": "Kešu orechy, suché, so soľou",
@@ -412,9 +412,9 @@
     "description": "Semená, ľanové semienko."
   },
   "sunflower_sd_krnls_dry_rstd_wsalt": {
-    "name": "Slnečnica sd krnls, suchá pečené, so soľou",
+    "name": "Slnečnica sd zrná, suchá pečené, so soľou",
     "alternative_names": [],
-    "description": "Slnečnica sd krnls, suchá pečené, so soľou."
+    "description": "Slnečnica sd zrná, suchá pečené, so soľou."
   },
   "cashew_nuts_dry_rstd_wsalt": {
     "name": "Kešu orechy, suché, so soľou",
@@ -437,14 +437,14 @@
     "description": "Horchata, suchá zmes, nepripravená, var značiek, všetko s morro semenami."
   },
   "beans_bkd_cnd_pln_or_vegetarian": {
-    "name": "Fazuľa, bkd, konzervované, pln alebo vegetariánska",
+    "name": "Fazuľa, pečené, konzervované, pln alebo vegetariánska",
     "alternative_names": [],
-    "description": "Fazuľa, bkd, konzervované, pln alebo vegetariánska."
+    "description": "Fazuľa, pečené, konzervované, pln alebo vegetariánska."
   },
   "beans_bkd_cnd_wfranks": {
-    "name": "Fazuľa, bkd, konzervované, sfranks",
+    "name": "Fazuľa, pečené, konzervované, sfranks",
     "alternative_names": [],
-    "description": "Fazuľa, bkd, konzervované, sfranks."
+    "description": "Fazuľa, pečené, konzervované, sfranks."
   },
   "beans_black_turtle_mature_seeds_raw": {
     "name": "Fazuľa, čierna korytnačka, zrelé semená, surové",
@@ -452,9 +452,9 @@
     "description": "Fazuľa, čierna korytnačka, zrelé semená, surové."
   },
   "beans_black_turtle_mature_seeds_ckd_bld_wo_sa": {
-    "name": "Fazuľa, čierna korytnačka, zrelé semená, varené, bez/ soľ",
+    "name": "Fazuľa, čierna korytnačka, zrelé semená, varené, bez soli",
     "alternative_names": [],
-    "description": "Fazuľa, čierna korytnačka, zrelé semená, varené, bez/ soľ."
+    "description": "Fazuľa, čierna korytnačka, zrelé semená, varené, bez soli."
   },
   "beans_great_northern_mature_seeds_raw": {
     "name": "Fazuľa, severná, zrelé semená, surová",
@@ -467,9 +467,9 @@
     "description": "Fazuľa, obličky, všetky druhy, zrelé semená, surové."
   },
   "beans_kidney_all_types_mature_seeds_ckd_bld_w": {
-    "name": "Fazuľa, obličky, všetky druhy, zrelé semená, varené, bezsoľ",
+    "name": "Fazuľa, obličky, všetky druhy, zrelé semená, varené, bez soli",
     "alternative_names": [],
-    "description": "Fazuľa, obličky, všetky druhy, zrelé semená, varené, bezsoľ."
+    "description": "Fazuľa, obličky, všetky druhy, zrelé semená, varené, bez soli."
   },
   "beans_kidney_all_types_mature_seeds_cnd": {
     "name": "Fazuľa, obličky, všetky druhy, zrelé semená, konzervované",
@@ -482,9 +482,9 @@
     "description": "Fazuľa, obličky, červená, zrelé semená, surové."
   },
   "beans_kidney_red_mature_seeds_ckd_bld_wosalt": {
-    "name": "Fazuľa, obličky, červená, zrelé semená, varené, bezsoľ",
+    "name": "Fazuľa, obličky, červená, zrelé semená, varené, bez soli",
     "alternative_names": [],
-    "description": "Fazuľa, obličky, červená, zrelé semená, varené, bezsoľ."
+    "description": "Fazuľa, obličky, červená, zrelé semená, varené, bez soli."
   },
   "beans_kidney_red_mature_seeds_cnd_sol_liquids": {
     "name": "Fazuľa, obličky, červená, zrelé semená, konzervované, pevný podiel & tekutiny",
@@ -507,9 +507,9 @@
     "description": "Fazuľa, námornícka, zrelé semená, konzervované."
   },
   "beans_pink_mature_seeds_ckd_bld_wosalt": {
-    "name": "Fazuľa, ružová, zrelé semená, varené, bezsoľ",
+    "name": "Fazuľa, ružová, zrelé semená, varené, bez soli",
     "alternative_names": [],
-    "description": "Fazuľa, ružová, zrelé semená, varené, bezsoľ."
+    "description": "Fazuľa, ružová, zrelé semená, varené, bez soli."
   },
   "beans_pinto_mature_seeds_raw": {
     "name": "Fazuľa, pinto, zrelé semená, surové",
@@ -517,9 +517,9 @@
     "description": "Fazuľa, pinto, zrelé semená, surové."
   },
   "beans_pinto_mature_seeds_ckd_bld_wosalt": {
-    "name": "Fazuľa, pinto, zrelé semená, varené, bezsoľ",
+    "name": "Fazuľa, pinto, zrelé semená, varené, bez soli",
     "alternative_names": [],
-    "description": "Fazuľa, pinto, zrelé semená, varené, bezsoľ."
+    "description": "Fazuľa, pinto, zrelé semená, varené, bez soli."
   },
   "beans_pinto_mature_seeds_cnd_sol_liquids": {
     "name": "Fazuľa, pinto, zrelé semená, konzervované, pevný podiel & tekutiny",
@@ -532,9 +532,9 @@
     "description": "Fazuľa, biela, zrelé semená, surová."
   },
   "beans_white_mature_seeds_ckd_bld_wosalt": {
-    "name": "Fazuľa, biela, zrelé semená, varené, bezsoľ",
+    "name": "Fazuľa, biela, zrelé semená, varené, bez soli",
     "alternative_names": [],
-    "description": "Fazuľa, biela, zrelé semená, varené, bezsoľ."
+    "description": "Fazuľa, biela, zrelé semená, varené, bez soli."
   },
   "beans_white_mature_seeds_cnd": {
     "name": "Fazuľa, biela, zrelé semená, konzervované",
@@ -547,9 +547,9 @@
     "description": "Bôb obyčajný (fava fazuľa), zrelé semená, surové."
   },
   "broadbeans_mature_seeds_ckd_bld_wosalt": {
-    "name": "Beans (fava bns), zrelé semená, varené, bezsoľ",
+    "name": "Beans (fava bns), zrelé semená, varené, bez soli",
     "alternative_names": [],
-    "description": "Beans (fava bns), zrelé semená, varené, bezsoľ."
+    "description": "Beans (fava bns), zrelé semená, varené, bez soli."
   },
   "chickpeas_mature_seeds_raw": {
     "name": "Cícer (garbanzo bns, bengálsky gm), zrelé semená, surové",
@@ -557,9 +557,9 @@
     "description": "Cícer (garbanzo bns, bengálsky gm), zrelé semená, surové."
   },
   "chickpeas_mature_seeds_ckd_bld_wosalt": {
-    "name": "Cícer, zrelé semená, varené, bezsoľ",
+    "name": "Cícer, zrelé semená, varené, bez soli",
     "alternative_names": [],
-    "description": "Cícer, zrelé semená, varené, bezsoľ."
+    "description": "Cícer, zrelé semená, varené, bez soli."
   },
   "chili_with_beans_canned": {
     "name": "Chilli s fazuľou, konzervované",
@@ -572,9 +572,9 @@
     "description": "Cowpeas, obyčajný (blackeyes, crowder, south), mtre semená, surové."
   },
   "cowpeas_common_mture_ckd_bld_wosalt": {
-    "name": "Cowpeas, common (blkeyes, crwdr, sthrn), mture, varené, bezsoľ",
+    "name": "Cowpeas, common (blkeyes, crwdr, sthrn), mture, varené, bez soli",
     "alternative_names": [],
-    "description": "Cowpeas, common (blkeyes, crwdr, sthrn), mture, varené, bezsoľ."
+    "description": "Cowpeas, common (blkeyes, crwdr, sthrn), mture, varené, bez soli."
   },
   "lentils_raw": {
     "name": "Šošovica, surová",
@@ -582,9 +582,9 @@
     "description": "Šošovica, surová."
   },
   "lentils_mature_seeds_ckd_bld_wosalt": {
-    "name": "Šošovica, zrelé semená, varené, bezsoľ",
+    "name": "Šošovica, zrelé semená, varené, bez soli",
     "alternative_names": [],
-    "description": "Šošovica, zrelé semená, varené, bezsoľ."
+    "description": "Šošovica, zrelé semená, varené, bez soli."
   },
   "lima_bns_lrg_mature_seeds_raw": {
     "name": "Lima bns, lrg, zrelé semená, surové",
@@ -622,9 +622,9 @@
     "description": "Sójové bôby, zrelé semená, surové."
   },
   "soybeans_mature_ckd_bld_wosalt": {
-    "name": "Sójové bôby, zrelé varené, bezsoľ",
+    "name": "Sójové bôby, zrelé varené, bez soli",
     "alternative_names": [],
-    "description": "Sójové bôby, zrelé varené, bezsoľ."
+    "description": "Sójové bôby, zrelé varené, bez soli."
   },
   "soybeans_mature_seeds_rstd_salted": {
     "name": "Sójové bôby, zrelé semená, prvé, solené",
@@ -717,9 +717,9 @@
     "description": "Fazuľa, chilli, barbecue, ranč štýl, varené."
   },
   "beans_bkd_cnd_no_salt_added": {
-    "name": "Fazuľa, bkd, konzervované, bez pridania soli",
+    "name": "Fazuľa, pečené, konzervované, bez pridania soli",
     "alternative_names": [],
-    "description": "Fazuľa, bkd, konzervované, bez pridania soli."
+    "description": "Fazuľa, pečené, konzervované, bez pridania soli."
   },
   "ice_crm_bar_choc_or_caramel_covered_wnuts": {
     "name": "Zmrzlinová tyčinka, čokoláda alebo karamel, s orechmi",

@@ -300,9 +300,9 @@
     "description": "Cestoviny, suché, neobohatené."
   },
   "pasta_whole_wheat_dry": {
-    "name": "Cestoviny, celozrnné, suché (zahŕňa potraviny pre program distribúcie potravín USDA)",
+    "name": "Cestoviny, celozrnné, suché ()",
     "alternative_names": [],
-    "description": "Cestoviny, celozrnné, suché (zahŕňa potraviny pre program distribúcie potravín USDA)."
+    "description": "Cestoviny, celozrnné, suché ()."
   },
   "pie_banana_cream_prepared_from_recipe": {
     "name": "Koláč, banánový krém, pripravený podľa receptu",
@@ -370,24 +370,24 @@
     "description": "Korenie na tekvicový koláč."
   },
   "babyfood_cookie_baby_fruit": {
-    "name": "detská výživa, sušienky, bábätká, ovocie",
+    "name": "Detská výživa, sušienky, bábätká, ovocie",
     "alternative_names": [],
-    "description": "detská výživa, sušienky, bábätká, ovocie."
+    "description": "Detská výživa, sušienky, bábätká, ovocie."
   },
   "babyfood_crackers_veg": {
-    "name": "detská výživa, krekry, zelenina",
+    "name": "Detská výživa, krekry, zelenina",
     "alternative_names": [],
-    "description": "detská výživa, krekry, zelenina."
+    "description": "Detská výživa, krekry, zelenina."
   },
   "babyfood_cookies": {
-    "name": "detská výživa, sušienky",
+    "name": "Detská výživa, sušienky",
     "alternative_names": [],
-    "description": "detská výživa, sušienky."
+    "description": "Detská výživa, sušienky."
   },
   "babyfood_cookies_arrowroot": {
-    "name": "detská výživa, sušienky, šípky",
+    "name": "Detská výživa, sušienky, šípky",
     "alternative_names": [],
-    "description": "detská výživa, sušienky, šípky."
+    "description": "Detská výživa, sušienky, šípky."
   },
   "oil_rice_bran": {
     "name": "Olej, ryžové otruby",
@@ -595,9 +595,9 @@
     "description": "Raňajkové cereálie, kellogg, kellogg's product 19."
   },
   "cereals_rte_quaker_swt_crunchquisp": {
-    "name": "Raňajkové cereálie, quaker, swt crunch/quisp",
+    "name": "Raňajkové cereálie, quaker, sladké crunch/quisp",
     "alternative_names": [],
-    "description": "Raňajkové cereálie, quaker, swt crunch/quisp."
+    "description": "Raňajkové cereálie, quaker, sladké crunch/quisp."
   },
   "cereals_rte_kellogg_kelloggs_raisin_bran": {
     "name": "Raňajkové cereálie, kellogg, kelloggove hrozienkové otruby",
@@ -745,9 +745,9 @@
     "description": "Obilniny, ovos, reg & fast, nie fort, suché."
   },
   "cereals_oats_reg_quick_unenr_ckd_w_h2o_wo_sal": {
-    "name": "Obilniny, ovos, reg & quick, unenr, varené sh2o,bezsoľ",
+    "name": "Obilniny, ovos, reg & quick, unenr, varené sh2o,bez soli",
     "alternative_names": [],
-    "description": "Obilniny, ovos, reg & quick, unenr, varené sh2o,bezsoľ."
+    "description": "Obilniny, ovos, reg & quick, unenr, varené sh2o,bez soli."
   },
   "cereals_oats_inst_fort_pln_dry": {
     "name": "Obilniny, ovos, instantné, fort, pln, such",
@@ -1155,9 +1155,9 @@
     "description": "Cereálie, kvaker, instantné ovsené vločky, banánový chlieb, suché."
   },
   "cereals_quaker_inst_oatmeal_express_bkd_appl": {
-    "name": "Cereálie, kvaker, instantné ovsené vločky expresné, bkd appl, suché",
+    "name": "Cereálie, kvaker, instantné ovsené vločky expresné, pečené appl, suché",
     "alternative_names": [],
-    "description": "Cereálie, kvaker, instantné ovsené vločky expresné, bkd appl, suché."
+    "description": "Cereálie, kvaker, instantné ovsené vločky expresné, pečené appl, suché."
   },
   "cereals_quaker_inst_oatmeal_express_cinn_roll": {
     "name": "Cereálie, quaker, instantné ovsené vločky expresné cinn roll, suché",
@@ -1375,54 +1375,54 @@
     "description": "Raňajkové cereálie, post medové zväzky ovsa s vanilkovými zväzkami."
   },
   "corn_swt_yel_raw": {
-    "name": "Kukurica, swt, yel, surové",
+    "name": "Kukurica, sladká, žltá, surové",
     "alternative_names": [],
-    "description": "Kukurica, swt, yel, surové."
+    "description": "Kukurica, sladká, žltá, surové."
   },
   "corn_swt_yel_ckd_bld_drnd_wosalt": {
-    "name": "Kukurica, swt, yel, varené, scedené, bezsoľ",
+    "name": "Kukurica, sladká, žltá, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Kukurica, swt, yel, varené, scedené, bezsoľ."
+    "description": "Kukurica, sladká, žltá, varené, scedené, bez soli."
   },
   "corn_swt_yel_frz_krnls_cut_off_cob_unprep": {
-    "name": "Kukurica, swt, yel, mrazené, krnls odrezaný klas, neupravený",
+    "name": "Kukurica, sladká, žltá, mrazené, zrná odrezané z klasu, neupravený",
     "alternative_names": [],
-    "description": "Kukurica, swt, yel, mrazené, krnls odrezaný klas, neupravený."
+    "description": "Kukurica, sladká, žltá, mrazené, zrná odrezané z klasu, neupravený."
   },
   "corn_swt_yel_frz_krnls_cut_off_cob_bld_drnd_w": {
-    "name": "Kukurica, swt, yel, mrazené, krnls odrezaný klas, varené, scedené, bezsoľ",
+    "name": "Kukurica, sladká, žltá, mrazené, zrná odrezané z klasu, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Kukurica, swt, yel, mrazené, krnls odrezaný klas, varené, scedené, bezsoľ."
+    "description": "Kukurica, sladká, žltá, mrazené, zrná odrezané z klasu, varené, scedené, bez soli."
   },
   "corn_swt_yel_frz_krnls_on_cob_unprep": {
-    "name": "Kukurica, swt, yel, mrazené, krnls on cob, neupravené",
+    "name": "Kukurica, sladká, žltá, mrazené, klasy, neupravené",
     "alternative_names": [],
-    "description": "Kukurica, swt, yel, mrazené, krnls on cob, neupravené."
+    "description": "Kukurica, sladká, žltá, mrazené, klasy, neupravené."
   },
   "corn_swt_yel_frz_krnls_on_cob_ckd_bld_drnd_wo": {
-    "name": "Kukurica, swt, yel, mrazené, krnls on cob, varené, scedené, bezsoľ",
+    "name": "Kukurica, sladká, žltá, mrazené, klasy, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Kukurica, swt, yel, mrazené, krnls on cob, varené, scedené, bezsoľ."
+    "description": "Kukurica, sladká, žltá, mrazené, klasy, varené, scedené, bez soli."
   },
   "corn_yel_whl_kernel_frz_microwaved": {
-    "name": "Kukurica, yel, whl kernel, mrazené, mikrovlnná rúra",
+    "name": "Kukurica, žltý, celé zrná, mrazené, mikrovlnná rúra",
     "alternative_names": [],
-    "description": "Kukurica, yel, whl kernel, mrazené, mikrovlnná rúra."
+    "description": "Kukurica, žltý, celé zrná, mrazené, mikrovlnná rúra."
   },
   "squash_wntr_spaghetti_raw": {
-    "name": "Squash, wntr, špagety, surové",
+    "name": "Squash, zimná, špagety, surové",
     "alternative_names": [],
-    "description": "Squash, wntr, špagety, surové."
+    "description": "Squash, zimná, špagety, surové."
   },
   "squash_wntr_spaghetti_ckd_bld_drnd_or_bkd_wos": {
-    "name": "Squash, wntr, špagety, varené, scedené, alebo bkd, bezsoľ",
+    "name": "Squash, zimná, špagety, varené, scedené, alebo pečené, bez soli",
     "alternative_names": [],
-    "description": "Squash, wntr, špagety, varené, scedené, alebo bkd, bezsoľ."
+    "description": "Squash, zimná, špagety, varené, scedené, alebo pečené, bez soli."
   },
   "succotash_frz_ckd_bld_drnd_wosalt": {
-    "name": "Succotaš, (kukurica a limas), mrazené, varené, scedené, bezsoľ",
+    "name": "Succotaš, (kukurica a limas), mrazené, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Succotaš, (kukurica a limas), mrazené, varené, scedené, bezsoľ."
+    "description": "Succotaš, (kukurica a limas), mrazené, varené, scedené, bez soli."
   },
   "corn_pudd_home_prep": {
     "name": "Kukuričný nákyp, domáca príprava",
@@ -1435,19 +1435,19 @@
     "description": "Zemiakové placky."
   },
   "corn_swt_yel_ckd_bld_drnd_wsalt": {
-    "name": "Kukurica, swt, yel, varené, scedené, so soľou",
+    "name": "Kukurica, sladká, žltá, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Kukurica, swt, yel, varené, scedené, so soľou."
+    "description": "Kukurica, sladká, žltá, varené, scedené, so soľou."
   },
   "corn_swt_yel_frz_krnls_on_cob_ckd_bld_drnd_ws": {
-    "name": "Kukurica, swt, yel, mrazené, krnls on cob, varené, scedené, so soľou",
+    "name": "Kukurica, sladká, žltá, mrazené, klasy, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Kukurica, swt, yel, mrazené, krnls on cob, varené, scedené, so soľou."
+    "description": "Kukurica, sladká, žltá, mrazené, klasy, varené, scedené, so soľou."
   },
   "squash_wntr_spaghetti_ckd_bld_drnd_or_bkd_wsa": {
-    "name": "Squash, wntr, špagety, varené, scedené alebo bkd, so soľou",
+    "name": "Squash, zimná, špagety, varené, scedené alebo pečené, so soľou",
     "alternative_names": [],
-    "description": "Squash, wntr, špagety, varené, scedené alebo bkd, so soľou."
+    "description": "Squash, zimná, špagety, varené, scedené alebo pečené, so soľou."
   },
   "succotash_frz_ckd_bld_drnd_wsalt": {
     "name": "Succotaš, (kukurica a limas), mrazené, varené, scedené, so soľou",
@@ -1460,49 +1460,49 @@
     "description": "Kukurica, sladká, biela, surová."
   },
   "corn_swt_white_ckd_bld_drnd_wosalt": {
-    "name": "Kukurica, swt, biela, varené, scedené, bezsoľ",
+    "name": "Kukurica, sladká, biela, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Kukurica, swt, biela, varené, scedené, bezsoľ."
+    "description": "Kukurica, sladká, biela, varené, scedené, bez soli."
   },
   "corn_swt_white_ckd_bld_drnd_wsalt": {
-    "name": "Kukurica, swt, biela, varené, scedené, so soľou",
+    "name": "Kukurica, sladká, biela, varené, scedené, so soľou",
     "alternative_names": [],
-    "description": "Kukurica, swt, biela, varené, scedené, so soľou."
+    "description": "Kukurica, sladká, biela, varené, scedené, so soľou."
   },
   "corn_swt_white_cnd_whl_kernel_drnd_sol": {
-    "name": "Kukurica, swt, biela, konzervované, whl kernel, scedené pevný podiel",
+    "name": "Kukurica, sladká, biela, konzervované, celé zrná, scedené pevný podiel",
     "alternative_names": [],
-    "description": "Kukurica, swt, biela, konzervované, whl kernel, scedené pevný podiel."
+    "description": "Kukurica, sladká, biela, konzervované, celé zrná, scedené pevný podiel."
   },
   "corn_swt_white_cnd_crm_style_reg_pk": {
-    "name": "Kukurica, swt, biela, konzervované, krém style, reg pk",
+    "name": "Kukurica, sladká, biela, konzervované, krém style, reg pk",
     "alternative_names": [],
-    "description": "Kukurica, swt, biela, konzervované, krém style, reg pk."
+    "description": "Kukurica, sladká, biela, konzervované, krém style, reg pk."
   },
   "corn_swt_white_cnd_crm_style_no_salt": {
-    "name": "Kukurica, swt, biela, konzervované, krém štýl, bez soli",
+    "name": "Kukurica, sladká, biela, konzervované, krém štýl, bez soli",
     "alternative_names": [],
-    "description": "Kukurica, swt, biela, konzervované, krém štýl, bez soli."
+    "description": "Kukurica, sladká, biela, konzervované, krém štýl, bez soli."
   },
   "corn_swt_white_frz_krnls_cut_off_cob_bld_drnd": {
-    "name": "Kukurica, swt, biela, mrazené, krnls odrezaný klas, varené, scedené, ssoľ",
+    "name": "Kukurica, sladká, biela, mrazené, zrná odrezané z klasu, varené, scedené, ssoľ",
     "alternative_names": [],
-    "description": "Kukurica, swt, biela, mrazené, krnls odrezaný klas, varené, scedené, ssoľ."
+    "description": "Kukurica, sladká, biela, mrazené, zrná odrezané z klasu, varené, scedené, ssoľ."
   },
   "pickles_cucumber_swt": {
-    "name": "Nakladané uhorky, uhorky, swt (zahŕňa chlieb a maslo)",
+    "name": "Nakladané uhorky, uhorky, sladké (zahŕňa chlieb a maslo)",
     "alternative_names": [],
-    "description": "Nakladané uhorky, uhorky, swt (zahŕňa chlieb a maslo)."
+    "description": "Nakladané uhorky, uhorky, sladké (zahŕňa chlieb a maslo)."
   },
   "pickles_cucumber_swt_lo_na": {
-    "name": "Nakladané uhorky, uhorky, swt, lo na (zahŕňa chlieb a maslo)",
+    "name": "Nakladané uhorky, uhorky, sladké, lo na (zahŕňa chlieb a maslo)",
     "alternative_names": [],
-    "description": "Nakladané uhorky, uhorky, swt, lo na (zahŕňa chlieb a maslo)."
+    "description": "Nakladané uhorky, uhorky, sladké, lo na (zahŕňa chlieb a maslo)."
   },
   "cranberry_juc_cocktail_btld_lo_cal_wca_saccha": {
-    "name": "Brusnicový džúsový kokteil, btld, lokálny, sca, sacharin & corn swtnr",
+    "name": "Brusnicový džúsový kokteil, vo fľaši, lokálny, sca, sacharin & corn swtnr",
     "alternative_names": [],
-    "description": "Brusnicový džúsový kokteil, btld, lokálny, sca, sacharin & corn swtnr."
+    "description": "Brusnicový džúsový kokteil, vo fľaši, lokálny, sca, sacharin & corn swtnr."
   },
   "rice_drk_unswtnd_w_added_ca_vitamins_a_d": {
     "name": "Ryžový nápoj, nespracovaný, s prídavkom ca, vitamínov a a d",
@@ -1565,9 +1565,9 @@
     "description": "Sušienky, plnka alebo maslo, refri cesto, s vyšším obsahom tuku."
   },
   "biscuits_pln_or_bttrmlk_refr_dough_higher_fat": {
-    "name": "Sušienky, pln alebo cmar, chladené cesto, s vyšším obsahom tuku, bkd",
+    "name": "Sušienky, pln alebo cmar, chladené cesto, s vyšším obsahom tuku, pečené",
     "alternative_names": [],
-    "description": "Sušienky, pln alebo cmar, chladené cesto, s vyšším obsahom tuku, bkd."
+    "description": "Sušienky, pln alebo cmar, chladené cesto, s vyšším obsahom tuku, pečené."
   },
   "bread_boston_brown_canned": {
     "name": "Chlieb, boston hnedý, konzervovaný",
@@ -1800,14 +1800,14 @@
     "description": "Sušienky, cukor, cesto."
   },
   "cookies_sugar_refr_dough_bkd": {
-    "name": "Sušienky, cukor, ref. cesto, bkd",
+    "name": "Sušienky, cukor, ref. cesto, pečené",
     "alternative_names": [],
-    "description": "Sušienky, cukor, ref. cesto, bkd."
+    "description": "Sušienky, cukor, ref. cesto, pečené."
   },
   "puff_pastry_frz_rtb_bkd": {
-    "name": "Lístkové cesto, mrazené, rtb, bkd",
+    "name": "Lístkové cesto, mrazené, rtb, pečené",
     "alternative_names": [],
-    "description": "Lístkové cesto, mrazené, rtb, bkd."
+    "description": "Lístkové cesto, mrazené, rtb, pečené."
   },
   "crackers_chs_sandwich_type_wpnut_butter_filli": {
     "name": "Krekry, chs, sendvičové s maslovou náplňou",
@@ -1850,9 +1850,9 @@
     "description": "Šišky, koláčové, pšeničné, s cukrom alebo glazúrované."
   },
   "english_muffin_pln_enchedwca_prop": {
-    "name": "anglický muffin, pln, enched.sca prop (vrátane kysnutého cesta)",
+    "name": "Anglický muffin, pln, enched.sca prop (vrátane kysnutého cesta)",
     "alternative_names": [],
-    "description": "anglický muffin, pln, enched.sca prop (vrátane kysnutého cesta)."
+    "description": "Anglický muffin, pln, enched.sca prop (vrátane kysnutého cesta)."
   },
   "english_muffin_pln_tstd_enr_wca_prop": {
     "name": "English, muffin, pln, tstd, obohatené, sca prop (incl sourdough)",
@@ -1960,9 +1960,9 @@
     "description": "Koláč, vanilkový krém, príprava z receptu."
   },
   "pie_crust_cookie_type_prep_from_recipe_graham": {
-    "name": "Koláčová kôra, sušienka, príprava podľa receptu, grahamový rožok, bkd",
+    "name": "Koláčová kôra, sušienka, príprava podľa receptu, grahamový rožok, pečené",
     "alternative_names": [],
-    "description": "Koláčová kôra, sušienka, príprava podľa receptu, grahamový rožok, bkd."
+    "description": "Koláčová kôra, sušienka, príprava podľa receptu, grahamový rožok, pečené."
   },
   "pie_crust_standard_type_frz_rtb_enr": {
     "name": "Koláčová kôra, štandardný typ, mrazené, rtb, obohatené",
@@ -1970,14 +1970,14 @@
     "description": "Koláčová kôra, štandardný typ, mrazené, rtb, obohatené."
   },
   "pie_crust_standard_type_frz_rtb_enr_bkd": {
-    "name": "Koláčová kôra, štandardný typ, mrazené, rtb, obohatené, bkd",
+    "name": "Koláčová kôra, štandardný typ, mrazené, rtb, obohatené, pečené",
     "alternative_names": [],
-    "description": "Koláčová kôra, štandardný typ, mrazené, rtb, obohatené, bkd."
+    "description": "Koláčová kôra, štandardný typ, mrazené, rtb, obohatené, pečené."
   },
   "pie_crust_standard_type_prep_from_recipe_bkd": {
-    "name": "Koláčová kôra, štandardný typ, príprava podľa receptu, bkd",
+    "name": "Koláčová kôra, štandardný typ, príprava podľa receptu, pečené",
     "alternative_names": [],
-    "description": "Koláčová kôra, štandardný typ, príprava podľa receptu, bkd."
+    "description": "Koláčová kôra, štandardný typ, príprava podľa receptu, pečené."
   },
   "puff_pastry_frz_rtb": {
     "name": "Lístkové cesto, mrazené, rtb",
@@ -2120,14 +2120,14 @@
     "description": "Koláčová kôra, hlboká miska, mrazené, nepečená, vyrobená s múka."
   },
   "pie_crust_refr_reg_bkd": {
-    "name": "Koláčová kôra, chladené, reg, bkd",
+    "name": "Koláčová kôra, chladené, reg, pečené",
     "alternative_names": [],
-    "description": "Koláčová kôra, chladené, reg, bkd."
+    "description": "Koláčová kôra, chladené, reg, pečené."
   },
   "pie_crust_deep_dish_frz_bkd_made_w_enr_flr": {
-    "name": "Koláčová kôra, hlboká miska, mrazené, bkd, vyrobená s múka",
+    "name": "Koláčová kôra, hlboká miska, mrazené, pečené, vyrobená s múka",
     "alternative_names": [],
-    "description": "Koláčová kôra, hlboká miska, mrazené, bkd, vyrobená s múka."
+    "description": "Koláčová kôra, hlboká miska, mrazené, pečené, vyrobená s múka."
   },
   "crackers_whole_wheat_red_fat": {
     "name": "Krekry, celozrnné, červený tuk",
@@ -2145,9 +2145,9 @@
     "description": "Vafle, čokoláda, mrazené, rth."
   },
   "bread_salvadoran_swt_chs": {
-    "name": "Chlieb, salvadorský swt chs (quesadilla salvadorena)",
+    "name": "Chlieb, salvádorský sladký syrový (quesadilla salvadorena)",
     "alternative_names": [],
-    "description": "Chlieb, salvadorský swt chs (quesadilla salvadorena)."
+    "description": "Chlieb, salvádorský sladký syrový (quesadilla salvadorena)."
   },
   "bread_pan_dulce_swt_yeast_bread": {
     "name": "Chlieb, panvica dulce, drožďový chlieb",
@@ -2260,9 +2260,9 @@
     "description": "Sezamové steaky, na báze pšenice, solené."
   },
   "cheese_puffs_twists_corn_bsd_bkd_lofat": {
-    "name": "Syrové oblátky a závitky, corn bsd, bkd, lofat",
+    "name": "Syrové oblátky a závitky, corn bsd, pečené, lofat",
     "alternative_names": [],
-    "description": "Syrové oblátky a závitky, corn bsd, bkd, lofat."
+    "description": "Syrové oblátky a závitky, corn bsd, pečené, lofat."
   },
   "rice_cakes_brown_rice_pln_unsalted": {
     "name": "Ryžové koláčiky, hnedá ryža, pln, nesolené",
@@ -2300,9 +2300,9 @@
     "description": "Kukurica múka, celozrnná, žlť."
   },
   "corn_flr_degermed_unenr_yel": {
-    "name": "Kukurica múka, degermed, unenr, yel",
+    "name": "Kukurica múka, degermed, unenr, žltý",
     "alternative_names": [],
-    "description": "Kukurica múka, degermed, unenr, yel."
+    "description": "Kukurica múka, degermed, unenr, žltý."
   },
   "rice_brown_long_grain_raw": {
     "name": "Ryža, hnedá, dlhozrnná, surová",
@@ -2625,9 +2625,9 @@
     "description": "Ľahká zmrzlina, jemné servírovanie, zmiešané s kúskami sušienok."
   },
   "kentucky_fried_chick_popcorn_chick": {
-    "name": "Kentucky vyprážané kuriatko, popcorn kuriatko",
+    "name": "Kentucky vyprážané kurča, popcorn kurča",
     "alternative_names": [],
-    "description": "Kentucky vyprážané kuriatko, popcorn kuriatko."
+    "description": "Kentucky vyprážané kurča, popcorn kurča."
   },
   "macaroni_chs_cnd_entree": {
     "name": "Makaróny a chs, konzervované predjedlo",
@@ -2715,9 +2715,9 @@
     "description": "Kukurica, sušená (navajo)."
   },
   "corn_white_stmd": {
-    "name": "Kukurica, biela, stmd (navajo)",
+    "name": "Kukurica, biela, parené (navajo)",
     "alternative_names": [],
-    "description": "Kukurica, biela, stmd (navajo)."
+    "description": "Kukurica, biela, parené (navajo)."
   },
   "bread_kneel_down": {
     "name": "Chlieb, kľakni si (navajo)",

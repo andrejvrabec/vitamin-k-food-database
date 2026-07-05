@@ -27,7 +27,7 @@
   "cashews_raw": {
     "name": "Cashews, raw",
     "alternative_names": [
-      "raw cashew nuts"
+      "Raw cashew nuts"
     ],
     "description": "Raw cashew nuts, containing moderate amounts of Vitamin K1."
   },
@@ -44,8 +44,8 @@
   "edamame_frozen": {
     "name": "Edamame, frozen",
     "alternative_names": [
-      "frozen edamame",
-      "green soybeans"
+      "Frozen edamame",
+      "Green soybeans"
     ],
     "description": "Frozen immature soybeans in pod or shelled, containing moderate Vitamin K1."
   },
@@ -87,16 +87,16 @@
   "pumpkin_seeds_roasted": {
     "name": "Pumpkin seeds, roasted",
     "alternative_names": [
-      "roasted pumpkin seeds",
-      "pepitas"
+      "Roasted pumpkin seeds",
+      "Pepitas"
     ],
     "description": "Roasted pumpkin seeds (without shell/pepitas), a good seed source of Vitamin K1."
   },
   "soybean_sprouts_cooked": {
     "name": "Soybean sprouts, cooked",
     "alternative_names": [
-      "cooked soy sprouts",
-      "steamed soybean sprouts"
+      "Cooked soy sprouts",
+      "Steamed soybean sprouts"
     ],
     "description": "Cooked sprouted mature soybeans, containing moderate Vitamin K1."
   },
@@ -261,9 +261,9 @@
     "description": "Pumpkin, canned, withoutsalt."
   },
   "soybeans_mature_seeds_sprouted_ckd_stmd": {
-    "name": "Soybeans, mature seeds, sprouted, cooked, stmd",
+    "name": "Soybeans, mature seeds, sprouted, cooked, steamed",
     "alternative_names": [],
-    "description": "Soybeans, mature seeds, sprouted, cooked, stmd."
+    "description": "Soybeans, mature seeds, sprouted, cooked, steamed."
   },
   "beans_mung_mature_seeds_sprouted_cnd_drnd_sol": {
     "name": "Beans, mung, mature seeds, sprouted, canned, drained solids",
@@ -291,14 +291,14 @@
     "description": "Beans, snap, grn, cooked, boiled, drained, withsalt."
   },
   "beans_snap_yel_ckd_bld_drnd_wosalt": {
-    "name": "Beans, snap, yel, cooked, boiled, drained, withoutsalt",
+    "name": "Beans, snap, yellow, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Beans, snap, yel, cooked, boiled, drained, withoutsalt."
+    "description": "Beans, snap, yellow, cooked, boiled, drained, withoutsalt."
   },
   "beans_snap_yel_ckd_bld_drnd_wsalt": {
-    "name": "Beans, snap, yel, cooked, boiled, drained, withsalt",
+    "name": "Beans, snap, yellow, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Beans, snap, yel, cooked, boiled, drained, withsalt."
+    "description": "Beans, snap, yellow, cooked, boiled, drained, withsalt."
   },
   "beans_snap_grn_cnd_no_salt_drnd_sol": {
     "name": "Beans, snap, grn, canned, no salt, drained solids",
@@ -311,14 +311,14 @@
     "description": "Beans, snap, grn, frozen, cooked, boiled, drained, withsalt."
   },
   "beans_snap_yel_frz_ckd_bld_drnd_wosalt": {
-    "name": "Beans, snap, yel, frozen, cooked, boiled, drained, withoutsalt",
+    "name": "Beans, snap, yellow, frozen, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
-    "description": "Beans, snap, yel, frozen, cooked, boiled, drained, withoutsalt."
+    "description": "Beans, snap, yellow, frozen, cooked, boiled, drained, withoutsalt."
   },
   "beans_snap_yel_frz_ckd_bld_drnd_wsalt": {
-    "name": "Beans, snap, yel, frozen, cooked, boiled, drained, withsalt",
+    "name": "Beans, snap, yellow, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
-    "description": "Beans, snap, yel, frozen, cooked, boiled, drained, withsalt."
+    "description": "Beans, snap, yellow, frozen, cooked, boiled, drained, withsalt."
   },
   "cowpeas_immat_seeds_frz_ckd_bld_drnd_w_salt": {
     "name": "Cowpeas (blackeyes), immat seeds, frozen, cooked, boiled, drained, with/ salt",
@@ -351,19 +351,19 @@
     "description": "Pumpkin leaves, cooked, boiled, drained, with/ salt."
   },
   "soybeans_mature_seeds_sprouted_ckd_stmd_wsalt": {
-    "name": "Soybeans, mature seeds, sprouted, cooked, stmd, withsalt",
+    "name": "Soybeans, mature seeds, sprouted, cooked, steamed, withsalt",
     "alternative_names": [],
-    "description": "Soybeans, mature seeds, sprouted, cooked, stmd, withsalt."
+    "description": "Soybeans, mature seeds, sprouted, cooked, steamed, withsalt."
   },
   "beans_snap_yel_cnd_reg_pk_drnd_sol": {
-    "name": "Beans, snap, yel, canned, regular pk, drained solids",
+    "name": "Beans, snap, yellow, canned, regular pk, drained solids",
     "alternative_names": [],
-    "description": "Beans, snap, yel, canned, regular pk, drained solids."
+    "description": "Beans, snap, yellow, canned, regular pk, drained solids."
   },
   "beans_snap_yel_cnd_no_salt_drnd_sol": {
-    "name": "Beans, snap, yel, canned, no salt, drained solids",
+    "name": "Beans, snap, yellow, canned, no salt, drained solids",
     "alternative_names": [],
-    "description": "Beans, snap, yel, canned, no salt, drained solids."
+    "description": "Beans, snap, yellow, canned, no salt, drained solids."
   },
   "beans_fava_in_pod_raw": {
     "name": "Beans, fava, in pod, raw",
@@ -371,9 +371,9 @@
     "description": "Beans, fava, in pod, raw."
   },
   "sunflower_sd_krnls_dry_rstd_wosalt": {
-    "name": "Sunflower sd krnls, dry rstd, withoutsalt",
+    "name": "Sunflower sd kernels, dry rstd, withoutsalt",
     "alternative_names": [],
-    "description": "Sunflower sd krnls, dry rstd, withoutsalt."
+    "description": "Sunflower sd kernels, dry rstd, withoutsalt."
   },
   "cashew_nuts_dry_rstd_wosalt": {
     "name": "Cashew nuts, dry rstd, withoutsalt",
@@ -411,9 +411,9 @@
     "description": "Seeds, flaxseed."
   },
   "sunflower_sd_krnls_dry_rstd_wsalt": {
-    "name": "Sunflower sd krnls, dry rstd, withsalt",
+    "name": "Sunflower sd kernels, dry rstd, withsalt",
     "alternative_names": [],
-    "description": "Sunflower sd krnls, dry rstd, withsalt."
+    "description": "Sunflower sd kernels, dry rstd, withsalt."
   },
   "cashew_nuts_dry_rstd_wsalt": {
     "name": "Cashew nuts, dry rstd, withsalt",
@@ -436,14 +436,14 @@
     "description": "Horchata, dry mix, unprepared, var of brands, all with/ morro seeds."
   },
   "beans_bkd_cnd_pln_or_vegetarian": {
-    "name": "Beans, bkd, canned, pln or vegetarian",
+    "name": "Beans, baked, canned, pln or vegetarian",
     "alternative_names": [],
-    "description": "Beans, bkd, canned, pln or vegetarian."
+    "description": "Beans, baked, canned, pln or vegetarian."
   },
   "beans_bkd_cnd_wfranks": {
-    "name": "Beans, bkd, canned, withfranks",
+    "name": "Beans, baked, canned, withfranks",
     "alternative_names": [],
-    "description": "Beans, bkd, canned, withfranks."
+    "description": "Beans, baked, canned, withfranks."
   },
   "beans_black_turtle_mature_seeds_raw": {
     "name": "Beans, black turtle, mature seeds, raw",
@@ -716,9 +716,9 @@
     "description": "Beans, chili, barbecue, ranch style, cooked."
   },
   "beans_bkd_cnd_no_salt_added": {
-    "name": "Beans, bkd, canned, no salt added",
+    "name": "Beans, baked, canned, no salt added",
     "alternative_names": [],
-    "description": "Beans, bkd, canned, no salt added."
+    "description": "Beans, baked, canned, no salt added."
   },
   "ice_crm_bar_choc_or_caramel_covered_wnuts": {
     "name": "Ice cream bar, chocolate or caramel covered, withnuts",

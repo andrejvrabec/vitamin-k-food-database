@@ -22,8 +22,8 @@
   "blackberries_frozen": {
     "name": "Blackberries, frozen",
     "alternative_names": [
-      "frozen blackberries",
-      "frozen unsweetened blackberries"
+      "Frozen blackberries",
+      "Frozen unsweetened blackberries"
     ],
     "description": "Frozen unsweetened blackberries, containing Vitamin K1 and fiber."
   },
@@ -45,8 +45,8 @@
   "blueberries_raw": {
     "name": "Blueberries, raw",
     "alternative_names": [
-      "raw blueberries",
-      "cultivated blueberries"
+      "Raw blueberries",
+      "Cultivated blueberries"
     ],
     "description": "Fresh raw blueberries, containing Vitamin K1 and various antioxidants."
   },
@@ -103,16 +103,16 @@
   "grapes_raw": {
     "name": "Grapes, raw",
     "alternative_names": [
-      "raw grapes",
-      "seedless grapes"
+      "Raw grapes",
+      "Seedless grapes"
     ],
     "description": "Raw table grapes, containing moderate Vitamin K1."
   },
   "kiwi_raw": {
     "name": "Kiwi, raw",
     "alternative_names": [
-      "kiwifruit",
-      "raw kiwi"
+      "Kiwifruit",
+      "Raw kiwi"
     ],
     "description": "Raw green kiwi fruit, a good fruit source of Vitamin K1 and Vitamin C."
   },
@@ -179,7 +179,7 @@
   "pomegranate_juice": {
     "name": "Pomegranate juice",
     "alternative_names": [
-      "bottled pomegranate juice"
+      "Bottled pomegranate juice"
     ],
     "description": "Pure pomegranate juice, containing moderate Vitamin K1."
   },
@@ -191,8 +191,8 @@
   "prunes_dried": {
     "name": "Prunes, dried",
     "alternative_names": [
-      "dried plums",
-      "pitted prunes"
+      "Dried plums",
+      "Pitted prunes"
     ],
     "description": "Dried plums (prunes), a very rich fruit source of Vitamin K1 and fiber."
   },
@@ -292,9 +292,9 @@
     "description": "Blackberries, raw."
   },
   "blackberry_juc_cnd": {
-    "name": "Blackberry juc, canned",
+    "name": "Blackberry juice, canned",
     "alternative_names": [],
-    "description": "Blackberry juc, canned."
+    "description": "Blackberry juice, canned."
   },
   "blackberries_cnd_hvy_syrup_solliquids": {
     "name": "Blackberries, canned, heavy syrup, solids&liquids",
@@ -327,9 +327,9 @@
     "description": "Cherries, sour, red, raw."
   },
   "cherries_sour_red_cnd_h2o_pk_solliquids": {
-    "name": "Cherries, sour, red, canned, water pack, solids&liquids (incl usda cmdty)",
+    "name": "Cherries, sour, red, canned, water pack, solids&liquids (incl )",
     "alternative_names": [],
-    "description": "Cherries, sour, red, canned, water pack, solids&liquids (incl usda cmdty)."
+    "description": "Cherries, sour, red, canned, water pack, solids&liquids (incl )."
   },
   "cherries_sour_red_cnd_hvy_syrup_pk_solliquids": {
     "name": "Cherries, sour, red, canned, heavy syrup pack, solids&liquids",
@@ -342,29 +342,29 @@
     "description": "Cherries, sour, red, frozen, unswtnd."
   },
   "cherries_swt_cnd_h2o_pk_solliquids": {
-    "name": "Cherries, swt, canned, water pack, solids&liquids",
+    "name": "Cherries, sweet, canned, water pack, solids&liquids",
     "alternative_names": [],
-    "description": "Cherries, swt, canned, water pack, solids&liquids."
+    "description": "Cherries, sweet, canned, water pack, solids&liquids."
   },
   "cherries_swt_cnd_juc_pk_solliquids": {
-    "name": "Cherries, swt, canned, juice pack, solids&liquids",
+    "name": "Cherries, sweet, canned, juice pack, solids&liquids",
     "alternative_names": [],
-    "description": "Cherries, swt, canned, juice pack, solids&liquids."
+    "description": "Cherries, sweet, canned, juice pack, solids&liquids."
   },
   "cherries_swt_cnd_lt_syrup_pk_solliquids": {
-    "name": "Cherries, swt, canned, light syrup pack, solids&liquids",
+    "name": "Cherries, sweet, canned, light syrup pack, solids&liquids",
     "alternative_names": [],
-    "description": "Cherries, swt, canned, light syrup pack, solids&liquids."
+    "description": "Cherries, sweet, canned, light syrup pack, solids&liquids."
   },
   "cherries_swt_cnd_pitted_hvy_syrup_pk_sol_liqu": {
-    "name": "Cherries, swt, canned, pitted, heavy syrup pack, solids & liquids",
+    "name": "Cherries, sweet, canned, pitted, heavy syrup pack, solids & liquids",
     "alternative_names": [],
-    "description": "Cherries, swt, canned, pitted, heavy syrup pack, solids & liquids."
+    "description": "Cherries, sweet, canned, pitted, heavy syrup pack, solids & liquids."
   },
   "cherries_swt_frz_swtnd": {
-    "name": "Cherries, swt, frozen, sweetened",
+    "name": "Cherries, sweet, frozen, sweetened",
     "alternative_names": [],
-    "description": "Cherries, swt, frozen, sweetened."
+    "description": "Cherries, sweet, frozen, sweetened."
   },
   "cranberry_sau_cnd_swtnd": {
     "name": "Cranberry sauce, canned, sweetened",
@@ -402,9 +402,9 @@
     "description": "Figs, dried, stewed."
   },
   "grape_juc_cnd_or_btld_unswtnd_w_added_vit_c": {
-    "name": "Grape juc, canned or btld, unswtnd, with/ added vit c",
+    "name": "Grape juice, canned or bottled, unswtnd, with/ added vit c",
     "alternative_names": [],
-    "description": "Grape juc, canned or btld, unswtnd, with/ added vit c."
+    "description": "Grape juice, canned or bottled, unswtnd, with/ added vit c."
   },
   "grapes_red_or_grn_raw": {
     "name": "Grapes, red or grn (euro type, such as thompson seedless), raw",
@@ -422,24 +422,24 @@
     "description": "Grapes, canned, thompson seedless, heavy syrup pack, solids&liquids."
   },
   "grape_juc_cnd_or_btld_unswtnd_wo_added_vit_c": {
-    "name": "Grape juc, canned or btld, unswtnd, without/ added vit c",
+    "name": "Grape juice, canned or bottled, unswtnd, without/ added vit c",
     "alternative_names": [],
-    "description": "Grape juc, canned or btld, unswtnd, without/ added vit c."
+    "description": "Grape juice, canned or bottled, unswtnd, without/ added vit c."
   },
   "grape_juc_cocktail_frz_conc_undil_w_added_vit": {
-    "name": "Grape juc cocktail, frozen concentrate, undiluted, with/ added vit c",
+    "name": "Grape juice cocktail, frozen concentrate, undiluted, with/ added vit c",
     "alternative_names": [],
-    "description": "Grape juc cocktail, frozen concentrate, undiluted, with/ added vit c."
+    "description": "Grape juice cocktail, frozen concentrate, undiluted, with/ added vit c."
   },
   "grape_juc_cocktail_frz_conc_dil_w_3_vol_h2o_w": {
-    "name": "Grape juc cocktail, frozen concentrate, dil with/ 3 vol h2o, with/ added vit c",
+    "name": "Grape juice cocktail, frozen concentrate, dil with/ 3 vol h2o, with/ added vit c",
     "alternative_names": [],
-    "description": "Grape juc cocktail, frozen concentrate, dil with/ 3 vol h2o, with/ added vit c."
+    "description": "Grape juice cocktail, frozen concentrate, dil with/ 3 vol h2o, with/ added vit c."
   },
   "lime_juc_cnd_or_btld_unswtnd": {
-    "name": "Lime juc, canned or btld, unswtnd",
+    "name": "Lime juice, canned or bottled, unswtnd",
     "alternative_names": [],
-    "description": "Lime juc, canned or btld, unswtnd."
+    "description": "Lime juice, canned or bottled, unswtnd."
   },
   "litchis_dried": {
     "name": "Litchis, dried",
@@ -462,14 +462,14 @@
     "description": "Papaya nectar, canned."
   },
   "passion_fruit_juc_purple_raw": {
-    "name": "Passion-fruit juc, purple, raw",
+    "name": "Passion-fruit juice, purple, raw",
     "alternative_names": [],
-    "description": "Passion-fruit juc, purple, raw."
+    "description": "Passion-fruit juice, purple, raw."
   },
   "passion_fruit_juc_yel_raw": {
-    "name": "Passion-fruit juc, yel, raw",
+    "name": "Passion-fruit juice, yellow, raw",
     "alternative_names": [],
-    "description": "Passion-fruit juc, yel, raw."
+    "description": "Passion-fruit juice, yellow, raw."
   },
   "peaches_raw": {
     "name": "Peaches, raw",
@@ -667,9 +667,9 @@
     "description": "Apricots, canned, heavy syrup, drained."
   },
   "cherries_swt_cnd_pitted_hvy_syrup_drnd": {
-    "name": "Cherries, swt, canned, pitted, heavy syrup, drained",
+    "name": "Cherries, sweet, canned, pitted, heavy syrup, drained",
     "alternative_names": [],
-    "description": "Cherries, swt, canned, pitted, heavy syrup, drained."
+    "description": "Cherries, sweet, canned, pitted, heavy syrup, drained."
   },
   "peaches_cnd_hvy_syrup_drnd": {
     "name": "Peaches, canned, heavy syrup, drained",
@@ -692,14 +692,14 @@
     "description": "Pears, raw, bartlett."
   },
   "usda_cmdty_mxd_fruit_cnd_lt_syrup_drnd": {
-    "name": "Usda cmdty, mxd fruit (peach, pears, grapes), canned, light syrup, drained",
+    "name": "Mxd fruit (peach, pears, grapes), canned, light syrup, drained",
     "alternative_names": [],
-    "description": "Usda cmdty, mxd fruit (peach, pears, grapes), canned, light syrup, drained."
+    "description": "Mxd fruit (peach, pears, grapes), canned, light syrup, drained."
   },
   "usda_cmdty_mxd_fruit_cnd_lt_syr_sol_liq": {
-    "name": "Usda cmdty, mxd fruit (peach, pear, grape), canned, lt syr, solids & liquids",
+    "name": "Mxd fruit (peach, pear, grape), canned, lt syr, solids & liquids",
     "alternative_names": [],
-    "description": "Usda cmdty, mxd fruit (peach, pear, grape), canned, lt syr, solids & liquids."
+    "description": "Mxd fruit (peach, pear, grape), canned, lt syr, solids & liquids."
   },
   "mango_nectar_cnd": {
     "name": "Mango nectar, canned",
@@ -707,29 +707,29 @@
     "description": "Mango nectar, canned."
   },
   "usda_cmdty_peaches_cnd_lt_syrup_drnd": {
-    "name": "Usda cmdty peaches, canned, light syrup, drained",
+    "name": "Peaches, canned, light syrup, drained",
     "alternative_names": [],
-    "description": "Usda cmdty peaches, canned, light syrup, drained."
+    "description": "Peaches, canned, light syrup, drained."
   },
   "usda_cmdty_pears_cnd_juc_pk_drnd": {
-    "name": "Usda cmdty pears, canned, juice pack, drained",
+    "name": "Pears, canned, juice pack, drained",
     "alternative_names": [],
-    "description": "Usda cmdty pears, canned, juice pack, drained."
+    "description": "Pears, canned, juice pack, drained."
   },
   "usda_cmdty_pears_cnd_lt_syrup_drnd": {
-    "name": "Usda cmdty pears, canned, light syrup, drained",
+    "name": "Pears, canned, light syrup, drained",
     "alternative_names": [],
-    "description": "Usda cmdty pears, canned, light syrup, drained."
+    "description": "Pears, canned, light syrup, drained."
   },
   "pomegranate_juc_btld": {
-    "name": "Pomegranate juc, btld",
+    "name": "Pomegranate juice, bottled",
     "alternative_names": [],
-    "description": "Pomegranate juc, btld."
+    "description": "Pomegranate juice, bottled."
   },
   "juice_appl_grape_blend_w_added_vit_c": {
-    "name": "Juice, appl & grape blend, with/ added vit c",
+    "name": "Juice, apple & grape blend, with/ added vit c",
     "alternative_names": [],
-    "description": "Juice, appl & grape blend, with/ added vit c."
+    "description": "Juice, apple & grape blend, with/ added vit c."
   },
   "apples_raw_golden_delicious_w_skn": {
     "name": "Apples, raw, golden delicious, with skin",
@@ -767,14 +767,14 @@
     "description": "Grape leaves, canned."
   },
   "cranberry_apple_juc_drk_btld": {
-    "name": "Cranberry-apple juc drk, btld",
+    "name": "Cranberry-apple juice drink, bottled",
     "alternative_names": [],
-    "description": "Cranberry-apple juc drk, btld."
+    "description": "Cranberry-apple juice drink, bottled."
   },
   "cranberry_juc_cocktail_btld": {
-    "name": "Cranberry juc cocktail, btld",
+    "name": "Cranberry juice cocktail, bottled",
     "alternative_names": [],
-    "description": "Cranberry juc cocktail, btld."
+    "description": "Cranberry juice cocktail, bottled."
   },
   "grape_juice_drink_canned": {
     "name": "Grape juice drink, canned",
@@ -782,9 +782,9 @@
     "description": "Grape juice drink, canned."
   },
   "orangeapricot_juc_drk_cnd": {
-    "name": "Orange&apricot juc drk, canned",
+    "name": "Orange&apricot juice drink, canned",
     "alternative_names": [],
-    "description": "Orange&apricot juc drk, canned."
+    "description": "Orange&apricot juice drink, canned."
   },
   "muffins_blueberry_commly_prep": {
     "name": "Muffins, blueberry, commly prep (includes mini-muffins)",
@@ -807,9 +807,9 @@
     "description": "Muffins, blueberry, toaster-type, tstd."
   },
   "tstr_pstrs_frt_tstd": {
-    "name": "Tstr pstrs, frt, tstd (incl appl, blueberry, cherry, strawberry)",
+    "name": "Tstr pstrs, frt, tstd (incl apple, blueberry, cherry, strawberry)",
     "alternative_names": [],
-    "description": "Tstr pstrs, frt, tstd (incl appl, blueberry, cherry, strawberry)."
+    "description": "Tstr pstrs, frt, tstd (incl apple, blueberry, cherry, strawberry)."
   },
   "toppings_strawberry": {
     "name": "Toppings, strawberry",
@@ -842,28 +842,28 @@
     "description": "Plums, wild (northern plains indians)."
   },
   "cranberry_juc_unswtnd": {
-    "name": "Cranberry juc, unswtnd",
+    "name": "Cranberry juice, unswtnd",
     "alternative_names": [],
-    "description": "Cranberry juc, unswtnd."
+    "description": "Cranberry juice, unswtnd."
   },
   "cranberry_apple_juc_drk_lo_cal_wvit_c": {
-    "name": "Cranberry-apple juc drk, lo cal, withvit c",
+    "name": "Cranberry-apple juice drink, lo cal, withvit c",
     "alternative_names": [],
-    "description": "Cranberry-apple juc drk, lo cal, withvit c."
+    "description": "Cranberry-apple juice drink, lo cal, withvit c."
   },
   "avocado_raw": {
     "name": "Avocado, raw",
     "alternative_names": [
-      "alligator pear",
-      "raw avocado"
+      "Alligator pear",
+      "Raw avocado"
     ],
     "description": "Raw avocado fruit, rich in healthy fats, fiber, and containing moderate Vitamin K1."
   },
   "goji_berries": {
     "name": "Goji berries, dried",
     "alternative_names": [
-      "wolfberries",
-      "goji"
+      "Wolfberries",
+      "Goji"
     ],
     "description": "Dried goji berries, clinically known to interact with Warfarin by inhibiting CYP2C9."
   }

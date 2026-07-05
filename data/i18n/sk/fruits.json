@@ -22,8 +22,8 @@
   "blackberries_frozen": {
     "name": "Černice, mrazené",
     "alternative_names": [
-      "ostružiny",
-      "mrazené černice"
+      "Ostružiny",
+      "Mrazené černice"
     ],
     "description": "Mrazené nesladené černice (ostružiny), obsahujúce vitamín K1 a vlákninu."
   },
@@ -45,8 +45,8 @@
   "blueberries_raw": {
     "name": "Čučoriedky, surové",
     "alternative_names": [
-      "čučoriedky",
-      "čerstvé čučoriedky"
+      "Čučoriedky",
+      "Čerstvé čučoriedky"
     ],
     "description": "Čerstvé surové čučoriedky, obsahujúce vitamín K1 a množstvo antioxidantov."
   },
@@ -56,9 +56,9 @@
     "description": "Čučoriedky, divé, zavárané, ťažký sirup, scedené."
   },
   "cherries_sour_red_frozen_unsweetened": {
-    "name": "Čerešne, kyslé, červené, mrazené, nenesladené (Zahŕňa potraviny pre program distribúcie potravín USDA)",
+    "name": "Čerešne, kyslé, červené, mrazené, nenesladené ()",
     "alternative_names": [],
-    "description": "Čerešne, kyslé, červené, mrazené, nenesladené (Zahŕňa potraviny pre program distribúcie potravín USDA)."
+    "description": "Čerešne, kyslé, červené, mrazené, nenesladené ()."
   },
   "cherries_sweet_canned_water_pack_solids": {
     "name": "Čerešne, sladké, konzervované, vodné balenie, pevné látky a tekutiny",
@@ -103,16 +103,16 @@
   "grapes_raw": {
     "name": "Hrozno, surové",
     "alternative_names": [
-      "stolové hrozno",
-      "čerstvé hrozno"
+      "Stolové hrozno",
+      "Čerstvé hrozno"
     ],
     "description": "Čerstvé stolové hrozno, obsahujúce stredné množstvo vitamínu K1."
   },
   "kiwi_raw": {
     "name": "Kivi, surové",
     "alternative_names": [
-      "kivi",
-      "kiwi"
+      "Kivi",
+      "Kiwi"
     ],
     "description": "Čerstvé surové kivi, dobrý ovocný zdroj vitamínu K1 a vitamínu C."
   },
@@ -179,7 +179,7 @@
   "pomegranate_juice": {
     "name": "Granátová šťava",
     "alternative_names": [
-      "šťava z granátového jablka"
+      "Šťava z granátového jablka"
     ],
     "description": "Čistá šťava z plodov granátového jablka, obsahujúca stredné množstvo vitamínu K1."
   },
@@ -191,7 +191,7 @@
   "prunes_dried": {
     "name": "Sušené slivky",
     "alternative_names": [
-      "sušené slivky bez kôstok"
+      "Sušené slivky bez kôstok"
     ],
     "description": "Sušené slivky, veľmi bohatý ovocný zdroj vitamínu K1 a vlákniny."
   },
@@ -251,24 +251,24 @@
     "description": "Marhule, surové."
   },
   "apricots_cnd_h2o_pk_wskn_solliquids": {
-    "name": "Marhule, konzervované, balené vo vode, so šupkou, pevný podiel&tekutiny",
+    "name": "Marhule, konzervované, balené vo vode, so šupkou, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Marhule, konzervované, balené vo vode, so šupkou, pevný podiel&tekutiny."
+    "description": "Marhule, konzervované, balené vo vode, so šupkou, pevný podiel a tekutina."
   },
   "apricots_cnd_juc_pk_wskn_solliquids": {
-    "name": "Marhule, konzervované, balené v šťave, so šupkou, pevný podiel&tekutiny",
+    "name": "Marhule, konzervované, balené v šťave, so šupkou, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Marhule, konzervované, balené v šťave, so šupkou, pevný podiel&tekutiny."
+    "description": "Marhule, konzervované, balené v šťave, so šupkou, pevný podiel a tekutina."
   },
   "apricots_cnd_lt_syrup_pk_wskn_solliquids": {
-    "name": "Marhule, konzervované, v ľahkom sirupe, so šupkou, pevný podiel&tekutiny",
+    "name": "Marhule, konzervované, v ľahkom sirupe, so šupkou, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Marhule, konzervované, v ľahkom sirupe, so šupkou, pevný podiel&tekutiny."
+    "description": "Marhule, konzervované, v ľahkom sirupe, so šupkou, pevný podiel a tekutina."
   },
   "apricots_cnd_hvy_syrup_pk_wskn_solliquids": {
-    "name": "Marhule, konzervované, v hustom sirupe, so šupkou, pevný podiel&tekutiny",
+    "name": "Marhule, konzervované, v hustom sirupe, so šupkou, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Marhule, konzervované, v hustom sirupe, so šupkou, pevný podiel&tekutiny."
+    "description": "Marhule, konzervované, v hustom sirupe, so šupkou, pevný podiel a tekutina."
   },
   "apricots_dried_sulfured_unckd": {
     "name": "Marhule, sušené, sírené, nebalené",
@@ -281,9 +281,9 @@
     "description": "Marhule, sušené, sírené, sušené, bez cukru."
   },
   "apricot_nectar_cnd_wo_vit_c": {
-    "name": "Marhuľový nektár, konzervované, bez/ vit c",
+    "name": "Marhuľový nektár, konzervovaný, bez vitamínu C",
     "alternative_names": [],
-    "description": "Marhuľový nektár, konzervované, bez/ vit c."
+    "description": "Marhuľový nektár, konzervovaný, bez vitamínu C."
   },
   "blackberries_raw": {
     "name": "Černice, surové",
@@ -291,14 +291,14 @@
     "description": "Černice, surové."
   },
   "blackberry_juc_cnd": {
-    "name": "Blackberry juc, konzervované",
+    "name": "Černicový džús, konzervované",
     "alternative_names": [],
-    "description": "Blackberry juc, konzervované."
+    "description": "Černicový džús, konzervované."
   },
   "blackberries_cnd_hvy_syrup_solliquids": {
-    "name": "Černice, konzervované, v hustom sirupe, pevný podiel&tekutiny",
+    "name": "Černice, konzervované, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Černice, konzervované, v hustom sirupe, pevný podiel&tekutiny."
+    "description": "Černice, konzervované, v hustom sirupe, pevný podiel a tekutina."
   },
   "blackberries_frz_unswtnd": {
     "name": "Černice, mrazené, nesladené",
@@ -306,9 +306,9 @@
     "description": "Černice, mrazené, nesladené."
   },
   "blueberries_cnd_hvy_syrup_solliquids": {
-    "name": "Čučoriedky, konzervované, v hustom sirupe, pevný podiel&tekutiny",
+    "name": "Čučoriedky, konzervované, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Čučoriedky, konzervované, v hustom sirupe, pevný podiel&tekutiny."
+    "description": "Čučoriedky, konzervované, v hustom sirupe, pevný podiel a tekutina."
   },
   "blueberries_frz_unswtnd": {
     "name": "Čučoriedky, mrazené, nesladené",
@@ -326,14 +326,14 @@
     "description": "Čerešne, kyslé, červené, surové."
   },
   "cherries_sour_red_cnd_h2o_pk_solliquids": {
-    "name": "Čerešne, kyslé, červené, konzervované, balené vo vode, pevný podiel&tekutiny (vrátane usda cmdty)",
+    "name": "Čerešne, kyslé, červené, konzervované, balené vo vode, pevný podiel a tekutina ()",
     "alternative_names": [],
-    "description": "Čerešne, kyslé, červené, konzervované, balené vo vode, pevný podiel&tekutiny (vrátane usda cmdty)."
+    "description": "Čerešne, kyslé, červené, konzervované, balené vo vode, pevný podiel a tekutina ()."
   },
   "cherries_sour_red_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Čerešne, kyslé, červené, konzervované, v hustom sirupe, pevný podiel&tekutiny",
+    "name": "Čerešne, kyslé, červené, konzervované, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Čerešne, kyslé, červené, konzervované, v hustom sirupe, pevný podiel&tekutiny."
+    "description": "Čerešne, kyslé, červené, konzervované, v hustom sirupe, pevný podiel a tekutina."
   },
   "cherries_sour_red_frz_unswtnd": {
     "name": "Čerešne, kyslé, červené, mrazené, nesladené",
@@ -341,29 +341,29 @@
     "description": "Čerešne, kyslé, červené, mrazené, nesladené."
   },
   "cherries_swt_cnd_h2o_pk_solliquids": {
-    "name": "Čerešne, swt, konzervované, balené vo vode, pevný podiel&kvapaliny",
+    "name": "Čerešne, sladké, konzervované, balené vo vode, pevný podiel&kvapaliny",
     "alternative_names": [],
-    "description": "Čerešne, swt, konzervované, balené vo vode, pevný podiel&kvapaliny."
+    "description": "Čerešne, sladké, konzervované, balené vo vode, pevný podiel&kvapaliny."
   },
   "cherries_swt_cnd_juc_pk_solliquids": {
-    "name": "Čerešne, swt, konzervované, balené v šťave, pevný podiel&kvapaliny",
+    "name": "Čerešne, sladké, konzervované, balené v šťave, pevný podiel&kvapaliny",
     "alternative_names": [],
-    "description": "Čerešne, swt, konzervované, balené v šťave, pevný podiel&kvapaliny."
+    "description": "Čerešne, sladké, konzervované, balené v šťave, pevný podiel&kvapaliny."
   },
   "cherries_swt_cnd_lt_syrup_pk_solliquids": {
-    "name": "Čerešne, swt, konzervované, v ľahkom sirupe, pevný podiel&tekutiny",
+    "name": "Čerešne, sladké, konzervované, v ľahkom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Čerešne, swt, konzervované, v ľahkom sirupe, pevný podiel&tekutiny."
+    "description": "Čerešne, sladké, konzervované, v ľahkom sirupe, pevný podiel a tekutina."
   },
   "cherries_swt_cnd_pitted_hvy_syrup_pk_sol_liqu": {
-    "name": "Čerešne, swt, konzervované, odkôstkované, v hustom sirupe, pevný podiel & tekutiny",
+    "name": "Čerešne, sladké, konzervované, odkôstkované, v hustom sirupe, pevný podiel & tekutiny",
     "alternative_names": [],
-    "description": "Čerešne, swt, konzervované, odkôstkované, v hustom sirupe, pevný podiel & tekutiny."
+    "description": "Čerešne, sladké, konzervované, odkôstkované, v hustom sirupe, pevný podiel & tekutiny."
   },
   "cherries_swt_frz_swtnd": {
-    "name": "Čerešne, swt, mrazené, sladené",
+    "name": "Čerešne, sladké, mrazené, sladené",
     "alternative_names": [],
-    "description": "Čerešne, swt, mrazené, sladené."
+    "description": "Čerešne, sladké, mrazené, sladené."
   },
   "cranberry_sau_cnd_swtnd": {
     "name": "Brusnicová omáčka, konzervované, sladené",
@@ -381,14 +381,14 @@
     "description": "Figy, konzervované, balené vo vode, pevný podiel&kvapaliny."
   },
   "figs_cnd_lt_syrup_pk_solliquids": {
-    "name": "Figy, konzervované, v ľahkom sirupe, pevný podiel&tekutiny",
+    "name": "Figy, konzervované, v ľahkom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Figy, konzervované, v ľahkom sirupe, pevný podiel&tekutiny."
+    "description": "Figy, konzervované, v ľahkom sirupe, pevný podiel a tekutina."
   },
   "figs_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Figy, konzervované, v hustom sirupe, pevný podiel&tekutiny",
+    "name": "Figy, konzervované, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Figy, konzervované, v hustom sirupe, pevný podiel&tekutiny."
+    "description": "Figy, konzervované, v hustom sirupe, pevný podiel a tekutina."
   },
   "figs_dried_uncooked": {
     "name": "Figy, sušené, tepelne neupravené",
@@ -401,9 +401,9 @@
     "description": "Figy, sušené, dusené."
   },
   "grape_juc_cnd_or_btld_unswtnd_w_added_vit_c": {
-    "name": "Hroznová juc, konzervované alebo btld, nesladené, s pridaným vit c",
+    "name": "Hroznová Šťava, konzervované alebo vo fľaši, nesladené, s pridaným vit c",
     "alternative_names": [],
-    "description": "Hroznová juc, konzervované alebo btld, nesladené, s pridaným vit c."
+    "description": "Hroznová Šťava, konzervované alebo vo fľaši, nesladené, s pridaným vit c."
   },
   "grapes_red_or_grn_raw": {
     "name": "Hrozno, červené alebo zelené (eurotyp, ako napríklad thompson seedless), surové",
@@ -411,9 +411,9 @@
     "description": "Hrozno, červené alebo zelené (eurotyp, ako napríklad thompson seedless), surové."
   },
   "grapes_cnd_thompson_seedless_h2o_pk_solliquid": {
-    "name": "Hrozno, konzervované, thompson seedless, balené vo vode, pevný podiel&tekutiny",
+    "name": "Hrozno, konzervované, thompson seedless, balené vo vode, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Hrozno, konzervované, thompson seedless, balené vo vode, pevný podiel&tekutiny."
+    "description": "Hrozno, konzervované, thompson seedless, balené vo vode, pevný podiel a tekutina."
   },
   "grapes_cnd_thompson_seedless_hvy_syrup_pk_sol": {
     "name": "Hrozno, konzervované, thompson seedless, v hustom sirupe, pevný podiel&liquids",
@@ -421,14 +421,14 @@
     "description": "Hrozno, konzervované, thompson seedless, v hustom sirupe, pevný podiel&liquids."
   },
   "grape_juc_cnd_or_btld_unswtnd_wo_added_vit_c": {
-    "name": "Hroznová juc, konzervované alebo btld, nesladené, bez/ pridaný vit c",
+    "name": "Hroznová Šťava, konzervované alebo vo fľaši, nesladené, bez/ pridaný vit c",
     "alternative_names": [],
-    "description": "Hroznová juc, konzervované alebo btld, nesladené, bez/ pridaný vit c."
+    "description": "Hroznová Šťava, konzervované alebo vo fľaši, nesladené, bez/ pridaný vit c."
   },
   "grape_juc_cocktail_frz_conc_undil_w_added_vit": {
-    "name": "Hroznový juc koktail, mrazené koncentrát, neriedené, s prídavkom vit c",
+    "name": "Hroznový Šťava koktail, mrazené koncentrát, neriedené, s prídavkom vit c",
     "alternative_names": [],
-    "description": "Hroznový juc koktail, mrazené koncentrát, neriedené, s prídavkom vit c."
+    "description": "Hroznový Šťava koktail, mrazené koncentrát, neriedené, s prídavkom vit c."
   },
   "grape_juc_cocktail_frz_conc_dil_w_3_vol_h2o_w": {
     "name": "Hroznový džúsový kokteil, mrazené koncentrát, dil s 3 objemami vody, s prídavkom vit c",
@@ -436,9 +436,9 @@
     "description": "Hroznový džúsový kokteil, mrazené koncentrát, dil s 3 objemami vody, s prídavkom vit c."
   },
   "lime_juc_cnd_or_btld_unswtnd": {
-    "name": "Lime juc, konzervované alebo btld, nesladené",
+    "name": "Limetková šťava, konzervované alebo vo fľaši, nesladené",
     "alternative_names": [],
-    "description": "Lime juc, konzervované alebo btld, nesladené."
+    "description": "Limetková šťava, konzervované alebo vo fľaši, nesladené."
   },
   "litchis_dried": {
     "name": "Liči, sušená",
@@ -466,9 +466,9 @@
     "description": "Mučenkový džús, fialový, surový."
   },
   "passion_fruit_juc_yel_raw": {
-    "name": "Mučenkový džús, yel, surový",
+    "name": "Marakujový džús, žltý, surový",
     "alternative_names": [],
-    "description": "Mučenkový džús, yel, surový."
+    "description": "Marakujový džús, žltý, surový."
   },
   "peaches_raw": {
     "name": "Broskyne, surové",
@@ -481,24 +481,24 @@
     "description": "Broskyne, konzervované, balené vo vode, pevný podiel&kvapaliny."
   },
   "peaches_cnd_juc_pk_solliquids": {
-    "name": "Broskyne, konzervované, balené v šťave, pevný podiel&tekutiny",
+    "name": "Broskyne, konzervované, balené v šťave, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Broskyne, konzervované, balené v šťave, pevný podiel&tekutiny."
+    "description": "Broskyne, konzervované, balené v šťave, pevný podiel a tekutina."
   },
   "peaches_cnd_lt_syrup_pk_solliquids": {
-    "name": "Broskyne, konzervované, v ľahkom sirupe, pevný podiel&tekutiny",
+    "name": "Broskyne, konzervované, v ľahkom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Broskyne, konzervované, v ľahkom sirupe, pevný podiel&tekutiny."
+    "description": "Broskyne, konzervované, v ľahkom sirupe, pevný podiel a tekutina."
   },
   "peaches_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Broskyne, konzervované, v hustom sirupe, pevný podiel&tekutiny",
+    "name": "Broskyne, konzervované, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Broskyne, konzervované, v hustom sirupe, pevný podiel&tekutiny."
+    "description": "Broskyne, konzervované, v hustom sirupe, pevný podiel a tekutina."
   },
   "peaches_spiced_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Broskyne, spiced, konzervované, v hustom sirupe, pevný podiel&tekutiny",
+    "name": "Broskyne, spiced, konzervované, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Broskyne, spiced, konzervované, v hustom sirupe, pevný podiel&tekutiny."
+    "description": "Broskyne, spiced, konzervované, v hustom sirupe, pevný podiel a tekutina."
   },
   "peaches_dried_sulfured_unckd": {
     "name": "Broskyne, sušené, sírené, nebalené",
@@ -516,9 +516,9 @@
     "description": "Broskyne, mrazené, plátky, sladené."
   },
   "peach_nectar_cnd_wo_vit_c": {
-    "name": "Broskyňový nektár, konzervované, bez/ vit c",
+    "name": "Broskyňový nektár, konzervovaný, bez vitamínu C",
     "alternative_names": [],
-    "description": "Broskyňový nektár, konzervované, bez/ vit c."
+    "description": "Broskyňový nektár, konzervovaný, bez vitamínu C."
   },
   "pears_cnd_h2o_pk_solliquids": {
     "name": "Hrušky, konzervované, balené vo vode, pevný podiel&kvapaliny",
@@ -526,19 +526,19 @@
     "description": "Hrušky, konzervované, balené vo vode, pevný podiel&kvapaliny."
   },
   "pears_cnd_juc_pk_solliquids": {
-    "name": "Hrušky, konzervované, balené v šťave, pevný podiel&tekutiny",
+    "name": "Hrušky, konzervované, balené v šťave, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Hrušky, konzervované, balené v šťave, pevný podiel&tekutiny."
+    "description": "Hrušky, konzervované, balené v šťave, pevný podiel a tekutina."
   },
   "pears_cnd_lt_syrup_pk_solliquids": {
-    "name": "Hrušky, konzervované, v ľahkom sirupe, pevný podiel&tekutiny",
+    "name": "Hrušky, konzervované, v ľahkom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Hrušky, konzervované, v ľahkom sirupe, pevný podiel&tekutiny."
+    "description": "Hrušky, konzervované, v ľahkom sirupe, pevný podiel a tekutina."
   },
   "pears_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Hrušky, konzervované, v hustom sirupe, pevný podiel&tekutiny",
+    "name": "Hrušky, konzervované, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Hrušky, konzervované, v hustom sirupe, pevný podiel&tekutiny."
+    "description": "Hrušky, konzervované, v hustom sirupe, pevný podiel a tekutina."
   },
   "pears_dried_sulfured_unckd": {
     "name": "Hrušky, sušené, sírené, nebalené",
@@ -551,9 +551,9 @@
     "description": "Hrušky, sušené, sírené, sušené, bez cukru."
   },
   "pear_nectar_cnd_wo_vit_c": {
-    "name": "Hruškový nektár, konzervované, bez/ vit c",
+    "name": "Hruškový nektár, konzervovaný, bez vitamínu C",
     "alternative_names": [],
-    "description": "Hruškový nektár, konzervované, bez/ vit c."
+    "description": "Hruškový nektár, konzervovaný, bez vitamínu C."
   },
   "persimmons_japanese_raw": {
     "name": "Tomel, japonské, surové",
@@ -566,24 +566,24 @@
     "description": "Slivky, surové."
   },
   "plums_cnd_purple_h2o_pk_solliquids": {
-    "name": "Slivky, konzervované, fialové, balené vo vode, pevný podiel&tekutiny",
+    "name": "Slivky, konzervované, fialové, balené vo vode, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Slivky, konzervované, fialové, balené vo vode, pevný podiel&tekutiny."
+    "description": "Slivky, konzervované, fialové, balené vo vode, pevný podiel a tekutina."
   },
   "plums_cnd_purple_juc_pk_solliquids": {
-    "name": "Slivky, konzervované, fialové, balené v šťave, pevný podiel&tekutiny",
+    "name": "Slivky, konzervované, fialové, balené v šťave, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Slivky, konzervované, fialové, balené v šťave, pevný podiel&tekutiny."
+    "description": "Slivky, konzervované, fialové, balené v šťave, pevný podiel a tekutina."
   },
   "plums_cnd_purple_lt_syrup_pk_solliquids": {
-    "name": "Slivky, konzervované, fialovy, v ľahkom sirupe, pevný podiel&tekutiny",
+    "name": "Slivky, konzervované, fialovy, v ľahkom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Slivky, konzervované, fialovy, v ľahkom sirupe, pevný podiel&tekutiny."
+    "description": "Slivky, konzervované, fialovy, v ľahkom sirupe, pevný podiel a tekutina."
   },
   "plums_cnd_purple_hvy_syrup_pk_solliquids": {
-    "name": "Slivky, konzervované, fialovy, v hustom sirupe, pevný podiel&tekutiny",
+    "name": "Slivky, konzervované, fialovy, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Slivky, konzervované, fialovy, v hustom sirupe, pevný podiel&tekutiny."
+    "description": "Slivky, konzervované, fialovy, v hustom sirupe, pevný podiel a tekutina."
   },
   "plums_dried_unckd": {
     "name": "Slivky, sušené (slivky), nebalené",
@@ -606,9 +606,9 @@
     "description": "Maliny, surové."
   },
   "raspberries_cnd_red_hvy_syrup_pk_solliquids": {
-    "name": "Maliny, konzervované, cervene, v hustom sirupe, pevný podiel&tekutiny",
+    "name": "Maliny, konzervované, červené, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Maliny, konzervované, cervene, v hustom sirupe, pevný podiel&tekutiny."
+    "description": "Maliny, konzervované, červené, v hustom sirupe, pevný podiel a tekutina."
   },
   "raspberries_frz_red_swtnd": {
     "name": "Maliny, mrazené, červené, sladené",
@@ -621,9 +621,9 @@
     "description": "Jahody, surové."
   },
   "strawberries_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Jahody, konzervované, v hustom sirupe, pevný podiel&tekutiny",
+    "name": "Jahody, konzervované, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
-    "description": "Jahody, konzervované, v hustom sirupe, pevný podiel&tekutiny."
+    "description": "Jahody, konzervované, v hustom sirupe, pevný podiel a tekutina."
   },
   "strawberries_frz_unswtnd": {
     "name": "Jahody, mrazené, nesladené",
@@ -666,9 +666,9 @@
     "description": "Marhule, konzervované, v hustom sirupe, scedené."
   },
   "cherries_swt_cnd_pitted_hvy_syrup_drnd": {
-    "name": "Čerešne, swt, konzervované, odkôstkované, v hustom sirupe, scedené",
+    "name": "Čerešne, sladké, konzervované, odkôstkované, v hustom sirupe, scedené",
     "alternative_names": [],
-    "description": "Čerešne, swt, konzervované, odkôstkované, v hustom sirupe, scedené."
+    "description": "Čerešne, sladké, konzervované, odkôstkované, v hustom sirupe, scedené."
   },
   "peaches_cnd_hvy_syrup_drnd": {
     "name": "Broskyne, konzervované, v hustom sirupe, scedené",
@@ -691,39 +691,39 @@
     "description": "Hrušky, surové, bartlett."
   },
   "usda_cmdty_mxd_fruit_cnd_lt_syrup_drnd": {
-    "name": "Usda cmdty, mxd ovocie (broskyne, hrusky, hrozno), konzervované, v ľahkom sirupe, scedené",
+    "name": "Mxd ovocie (broskyne, hrušky, hrozno), konzervované, v ľahkom sirupe, scedené",
     "alternative_names": [],
-    "description": "Usda cmdty, mxd ovocie (broskyne, hrusky, hrozno), konzervované, v ľahkom sirupe, scedené."
+    "description": "Mxd ovocie (broskyne, hrušky, hrozno), konzervované, v ľahkom sirupe, scedené."
   },
   "usda_cmdty_mxd_fruit_cnd_lt_syr_sol_liq": {
-    "name": "Usda cmdty, mxd ovocie (broskyňa, hruška, hrozno), konzervované, lt syr, pevný podiel & tekutina",
+    "name": "Mxd ovocie (broskyňa, hruška, hrozno), konzervované, lt syr, pevný podiel & tekutina",
     "alternative_names": [],
-    "description": "Usda cmdty, mxd ovocie (broskyňa, hruška, hrozno), konzervované, lt syr, pevný podiel & tekutina."
+    "description": "Mxd ovocie (broskyňa, hruška, hrozno), konzervované, lt syr, pevný podiel & tekutina."
   },
   "mango_nectar_cnd": {
-    "name": "Mangový nektár, konzervované",
+    "name": "Mangový nektár, konzervovaný",
     "alternative_names": [],
-    "description": "Mangový nektár, konzervované."
+    "description": "Mangový nektár, konzervovaný."
   },
   "usda_cmdty_peaches_cnd_lt_syrup_drnd": {
-    "name": "Usda cmdty broskyne, konzervované, v ľahkom sirupe, scedené",
+    "name": "Broskyne, konzervované, v ľahkom sirupe, scedené",
     "alternative_names": [],
-    "description": "Usda cmdty broskyne, konzervované, v ľahkom sirupe, scedené."
+    "description": "Broskyne, konzervované, v ľahkom sirupe, scedené."
   },
   "usda_cmdty_pears_cnd_juc_pk_drnd": {
-    "name": "Usda cmdty hrusky, konzervované, balené v šťave, scedené",
+    "name": "Hrušky, konzervované, balené v šťave, scedené",
     "alternative_names": [],
-    "description": "Usda cmdty hrusky, konzervované, balené v šťave, scedené."
+    "description": "Hrušky, konzervované, balené v šťave, scedené."
   },
   "usda_cmdty_pears_cnd_lt_syrup_drnd": {
-    "name": "Usda cmdty hrusky, konzervované, v ľahkom sirupe, scedené",
+    "name": "Hrušky, konzervované, v ľahkom sirupe, scedené",
     "alternative_names": [],
-    "description": "Usda cmdty hrusky, konzervované, v ľahkom sirupe, scedené."
+    "description": "Hrušky, konzervované, v ľahkom sirupe, scedené."
   },
   "pomegranate_juc_btld": {
-    "name": "Juc z granátového jablka, btld",
+    "name": "Granátové jablko šťava, vo fľaši",
     "alternative_names": [],
-    "description": "Juc z granátového jablka, btld."
+    "description": "Granátové jablko šťava, vo fľaši."
   },
   "juice_appl_grape_blend_w_added_vit_c": {
     "name": "Zmes džúsov, aplikácií a hrozna, s prídavkom vit c",
@@ -736,14 +736,14 @@
     "description": "Jablká, surové, zlaté lahodné, so šupkou."
   },
   "balsam_pear_leafy_tips_ckd_bld_drnd_wosalt": {
-    "name": "Balzamovo-hruška (horká tekvica), listové končeky, varené, scedené, bezsoľ",
+    "name": "Balzamovo-hruška (horká tekvica), listové končeky, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Balzamovo-hruška (horká tekvica), listové končeky, varené, scedené, bezsoľ."
+    "description": "Balzamovo-hruška (horká tekvica), listové končeky, varené, scedené, bez soli."
   },
   "balsam_pear_pods_ckd_bld_drnd_wosalt": {
-    "name": "Balzamovo-hruška (horká tekvica), struky, varené, scedené, bezsoľ",
+    "name": "Balzamovo-hruška (horká tekvica), struky, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Balzamovo-hruška (horká tekvica), struky, varené, scedené, bezsoľ."
+    "description": "Balzamovo-hruška (horká tekvica), struky, varené, scedené, bez soli."
   },
   "balsam_pear_leafy_tips_ckd_bld_drnd_wsalt": {
     "name": "Balzamovo-hruška (horká tekvica), listové končeky, varené, scedené, so soľou",
@@ -766,14 +766,14 @@
     "description": "Hroznové listy, konzervované."
   },
   "cranberry_apple_juc_drk_btld": {
-    "name": "Brusnicovo-jablkový juc drk, btld",
+    "name": "Brusnicovo-jablkový džúsový nápoj, vo fľaši",
     "alternative_names": [],
-    "description": "Brusnicovo-jablkový juc drk, btld."
+    "description": "Brusnicovo-jablkový džúsový nápoj, vo fľaši."
   },
   "cranberry_juc_cocktail_btld": {
-    "name": "Brusnicový juc koktail, btld",
+    "name": "Brusnicový Šťava koktail, vo fľaši",
     "alternative_names": [],
-    "description": "Brusnicový juc koktail, btld."
+    "description": "Brusnicový Šťava koktail, vo fľaši."
   },
   "grape_juice_drink_canned": {
     "name": "Nápoj z hroznovej šťavy, konzervovaný",
@@ -781,9 +781,9 @@
     "description": "Nápoj z hroznovej šťavy, konzervovaný."
   },
   "orangeapricot_juc_drk_cnd": {
-    "name": "Pomarančovo-marhuľový juc drk, konzervované",
+    "name": "Pomarančovo-marhuľový džúsový nápoj, konzervované",
     "alternative_names": [],
-    "description": "Pomarančovo-marhuľový juc drk, konzervované."
+    "description": "Pomarančovo-marhuľový džúsový nápoj, konzervované."
   },
   "muffins_blueberry_commly_prep": {
     "name": "Muffiny, čučoriedkové, obyčajná príprava (vrátane mini muffinov)",
@@ -841,28 +841,28 @@
     "description": "Divoké slivky (Indiáni na severných nížinách)."
   },
   "cranberry_juc_unswtnd": {
-    "name": "Cranberry juc, nesladené",
+    "name": "Brusnicový džús, nesladené",
     "alternative_names": [],
-    "description": "Cranberry juc, nesladené."
+    "description": "Brusnicový džús, nesladené."
   },
   "cranberry_apple_juc_drk_lo_cal_wvit_c": {
-    "name": "Brusnicovo-jablkový juc drk, lokálny, s vit c",
+    "name": "Brusnicovo-jablkový džúsový nápoj, lokálny, s vit c",
     "alternative_names": [],
-    "description": "Brusnicovo-jablkový juc drk, lokálny, s vit c."
+    "description": "Brusnicovo-jablkový džúsový nápoj, lokálny, s vit c."
   },
   "avocado_raw": {
     "name": "Avokádo, surové",
     "alternative_names": [
-      "hruškovec prekrásny",
-      "surové avokádo"
+      "Hruškovec prekrásny",
+      "Surové avokádo"
     ],
     "description": "Surový plod avokáda, bohatý na zdravé tuky, vlákninu a s miernym obsahom vitamínu K1."
   },
   "goji_berries": {
     "name": "Goji (Kustovnica čínska), sušená",
     "alternative_names": [
-      "kustovnica",
-      "goji"
+      "Kustovnica",
+      "Goji"
     ],
     "description": "Sušené plody kustovnice čínskej (goji), o ktorých je klinicky známe, že inhibíciou CYP2C9 významne interagujú s Warfarínom."
   }

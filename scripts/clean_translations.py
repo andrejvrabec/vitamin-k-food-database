@@ -97,6 +97,9 @@ EN_REPLACEMENTS = [
     (r"\bwith/\s*skn\b", "with skin"),
     (r"\bsskn\b", "with skin"),
     (r"\bw/\s*skn\b", "with skin"),
+    (r"\bin\s+skn\b", "in skin"),
+    (r"\bin_skn\b", "in skin"),
+    (r"\bin\s+skin\b", "in skin"),
     
     # Special double/triple combos
     (r"\bcroissan'wich\b", "croissan'wich"),
@@ -160,9 +163,38 @@ EN_REPLACEMENTS = [
     (r"\bdil\s+s\b", "diluted with"),
     (r"\bvolume h2o\b", "volumes of water"),
     
+    # Sweets & Juices
+    (r"\bbtld\b", "bottled"),
+    (r"\bjuc\b", "juice"),
+    (r"\bswt\b", "sweet"),
+    (r"\byel\b", "yellow"),
+    (r"\bdrk\b", "drink"),
+    (r"\bappl\b", "apple"),
+    (r"\bbrkfst\b", "breakfast"),
+    (r"\bpulp\b", "pulp"),
+    (r"\bdup\b", "pulp"),
+    (r"\bchick\b", "chicken"),
+    (r"\bchery\b", "cherry"),
+    (r"\bwhl kernel\b", "whole kernel"),
+    (r"\bkrnls\b", "kernels"),
+    
+    # USDA Commodity English removals
+    (r"\b\(?includes usda commodity food program\)?\b", ""),
+    (r"\b\(?includes food program\)?\b", ""),
+    (r"\b\(?includes usda commod\)?\b", ""),
+    (r"\b\(?including usda cmdty\)?\b", ""),
+    (r"\busda\s+cmdty\s+fd\b", ""),
+    (r"\busda\s+cmdty\b", ""),
+    (r"\busda\s+commodity\b", ""),
+    (r"\bbf\b", "beef"),
+    (r"\brefried bns\b", "refried beans"),
+    (r"\bsmmr\b", "summer"),
+    (r"\bwntr\b", "winter"),
+    
     # Single abbreviations (with word boundaries)
     (r"\bckd\b", "cooked"),
     (r"\bbld\b", "boiled"),
+    (r"\bbkd\b", "baked"),
     (r"\bdrnd\b", "drained"),
     (r"\bdr\b", "drained"),
     (r"\bcnd\b", "canned"),
@@ -201,6 +233,7 @@ EN_REPLACEMENTS = [
     (r"\bveg\b", "vegetable"),
     (r"\bdrsng\b", "dressing"),
     (r"\bcrm\b", "cream"),
+    (r"\bstmd\b", "steamed"),
     
     # Heating / Cooling
     (r"\bunhtd\b", "unheated"),
@@ -291,6 +324,92 @@ SK_REPLACEMENTS = [
     (r"\bs/\s*ara\s*&\s*dha\b", "s ARA a DHA"),
     (r"\bs\s+ara\s*&\s*dha\b", "s ARA a DHA"),
     (r"\bwi\b", "s"), # wi -> s
+    
+    # Specific Juices/Drinks Slovak mapping (placed early)
+    (r"\bBrusnicovo-jablkový juc drk\b", "Brusnicovo-jablkový džúsový nápoj"),
+    (r"\bPomarančovo-marhuľový juc drk\b", "Pomarančovo-marhuľový džúsový nápoj"),
+    (r"\bAnanás & grapefruit juc drk\b", "Ananásový a grapefruitový džúsový nápoj"),
+    (r"\bAnanás&pomarančový juc drk\b", "Ananásovo-pomarančový džúsový nápoj"),
+    (r"\bPomarančový drk, typ brkfst, s/ juc & dup\b", "Pomarančový nápoj, raňajkový typ, s džúsovou dužinou"),
+    (r"\bPomarančová zmes pnappl juc\b", "Pomarančovo-ananásová džúsová zmes"),
+    (r"\bovocné a juc tyčinky\b", "tyčinky z ovocnej šťavy"),
+    (r"\btyp juc\b", "šťavového typu"),
+    (r"\bjuc s/ krém\b", "šťava so smotanou"),
+    (r"\bTomato&zelenina juc\b", "Paradajkovo-zeleninová šťava"),
+    (r"\bGrapefruit juc\b", "Grapefruitový džús"),
+    (r"\bOrange juc\b", "Pomarančový džús"),
+    (r"\bOrange Juc\b", "Pomarančový džús"),
+    (r"\bAnanás juc\b", "Ananásový džús"),
+    (r"\bAnanásový džús\b", "Ananásový džús"),
+    (r"\bBlackberry juc\b", "Černicový džús"),
+    (r"\bCranberry juc\b", "Brusnicový džús"),
+    (r"\bJuc z granátového jablka\b", "Granátové jablko šťava"),
+    
+    # Babyfood juices
+    (r"\bdetská výživa, juc, pomaranč&appl&banana\b", "detská výživa, džús, pomaranč, jablko a banán"),
+    (r"\bdetská výživa, juc, mxd ovocie\b", "detská výživa, džús, miešané ovocie"),
+    (r"\bdetská výživa, juc, appl&cherry\b", "detská výživa, džús, jablko a čerešňa"),
+    (r"\bdetská výživa, juc, appl - cherry\b", "detská výživa, džús, jablko a čerešňa"),
+    (r"\bdetská výživa, juc, appl&broskyne\b", "detská výživa, džús, jablko a broskyňa"),
+    (r"\bdetská výživa, juc, appl&slivka\b", "detská výživa, džús, jablko a slivka"),
+    (r"\bdetská výživa, juc, appl&slivky\b", "detská výživa, džús, jablko a slivky"),
+    (r"\bdetská výživa, juc, appl&prune\b", "detská výživa, džús, jablko a sušené slivky"),
+    (r"\bdetská výživa, juc\b", "detská výživa, džús"),
+    
+    # Generic juice mapping
+    (r"\bJuc\b", "Šťava"),
+    (r"\bjuc\b", "šťava"),
+    
+    # Lime specific
+    (r"\blime\s+juc\b", "limetková šťava"),
+    (r"\blime\s+šťava\b", "limetková šťava"),
+    (r"\blime\b", "limetka"),
+    
+    # Bottled specific
+    (r"\bkonzervované alebo btld\b", "konzervované alebo vo fľaši"),
+    (r"\bkonzervované, btld\b", "konzervované, vo fľaši"),
+    (r"\bdžúsový kokteil, btld\b", "džúsový kokteil, vo fľaši"),
+    (r"\bčili omáčka, btld\b", "čili omáčka, vo fľaši"),
+    (r"\bparadajková čili omáčka, btld\b", "paradajková čili omáčka, vo fľaši"),
+    (r"\bbtld\b", "vo fľaši"),
+    
+    # Sweet specific
+    (r"\bčerešne, swt\b", "čerešne, sladké"),
+    (r"\bčerešne, sladké, mrazené, sladené\b", "čerešne, sladké, mrazené, sladené"),
+    (r"\bkukurica, swt, yel\b", "kukurica, sladká, žltá"),
+    (r"\bkukurica, swt\b", "kukurica, sladká"),
+    (r"\buhorky, swt\b", "uhorky, sladké"),
+    (r"\bsalvadorský swt chs\b", "salvádorský sladký syrový"),
+    (r"\bsbravčové mäso & swt\b", "s bravčovým mäsom a sladkou omáčkou"),
+    (r"\bswt & kyslé\b", "sladko-kyslé"),
+    (r"\bswt & sour\b", "sladko-kyslé"),
+    (r"\bswt&sour\b", "sladko-kyslé"),
+    (r"\bex swt var\b", "extra sladká odroda"),
+    (r"\bmučenkový džús, yel\b", "marakujový džús, žltý"),
+    (r"\bpaprika, swt\b", "paprika, sladká"),
+    (r"\bpapriky, swt\b", "paprika, sladká"),
+    (r"\bpaprika swt\b", "paprika, sladká"),
+    (r"\bswt zemiaky\b", "sladké zemiaky"),
+    (r"\bswt čokoládou\b", "sladkou čokoládou"),
+    (r"\bcibuľa, swt\b", "cibuľa, sladká"),
+    (r"\bswt\b", "sladké"),
+    (r"\byel\b", "žltý"),
+    
+    # USDA Commodity Slovak removals
+    (r"\b\(?vrátane usda cmdty\)?\b", ""),
+    (r"\b\(?zahŕňa usda commod\)?\b", ""),
+    (r"\b\(?zahŕňa komoditu usda\)?\b", ""),
+    (r"\b\(?zahŕňa potraviny pre program distribúcie potravín USDA\)?\b", ""),
+    (r"\b\(?Zahŕňa potraviny pre program distribúcie potravín USDA\)?\b", ""),
+    (r"\busda\s+cmdty\s+fd\b", ""),
+    (r"\busda\s+cmdty\b", ""),
+    (r"\busda\s+commodity\b", ""),
+    (r"\bkomoditu\s+usda\b", ""),
+    (r"\bbf\b", "hovädzie"),
+    (r"\bkuriatko\b", "kurča"),
+    (r"\brefried bns\b", "roztlačená fazuľa"),
+    (r"\bsmmr\b", "letná"),
+    (r"\bwntr\b", "zimná"),
     
     # Double/triple combos
     (r"\bmozzarella stks\b", "mozzarella tyčinky"),
@@ -416,6 +535,28 @@ SK_REPLACEMENTS = [
     (r"\bundil\b", "neriedené"),
     (r"\bdil\s+s3\s+volume\s+h2o\b", "riedené 3 dielmi vody"),
     
+    # Other leftovers
+    (r"\bdrk\b", "nápoj"),
+    (r"\bwhl kernel\b", "celé zrná"),
+    (r"\bkrnls on cob\b", "klasy"),
+    (r"\bkrnls odrezaný klas\b", "zrná odrezané z klasu"),
+    (r"\bkrnls\b", "zrná"),
+    (r"\bchose\b", "výber"),
+    (r"\brts\b", "pripravená"),
+    (r"\bred\b", "červená"),
+    (r"\bchick\b", "kuracie"),
+    
+    # Slovak diacritics fixes
+    (r"\bcervene\b", "červené"),
+    (r"\bcervené\b", "červené"),
+    (r"\bcervený\b", "červený"),
+    (r"\bcervená\b", "červená"),
+    (r"\bcervenej\b", "červenej"),
+    (r"\bbezsoľ\b", "bez soli"),
+    (r"\bhrusky\b", "hrušky"),
+    (r"\bhruska\b", "hruška"),
+    (r"\bhrusiek\b", "hrušiek"),
+    
     # Single word Slovak replacements
     (r"\bckd\b", "varené"),
     (r"\brstd\b", "pečené"),
@@ -447,6 +588,9 @@ SK_REPLACEMENTS = [
     (r"\bdrsng\b", "dresing"),
     (r"\bcrm\b", "krém"),
     (r"\bflr\b", "múka"),
+    (r"\bstmd\b", "parené"),
+    (r"\bvýrobky bkd\b", "pečené výrobky"),
+    (r"\bbkd\b", "pečené"),
     
     # Heating / Cooling
     (r"\bunhtd\b", "neohriate"),
@@ -474,7 +618,6 @@ SK_REPLACEMENTS = [
     (r"\bsol\b", "pevný podiel"),
     (r"\bliq\b", "tekutina"),
     (r"\bunprep\b", "neupravené"),
-    (r"\bwi\b", "s"),
     (r"\bbttrmlk\b", "cmar"),
     (r"\bobilniny\s+rte\b", "Raňajkové cereálie"),
     (r"\brte\b", "ready-to-eat"),
@@ -499,7 +642,11 @@ def context_replace(food_id, category, text):
         r"\bwith/\s+skn\b",
         r"\bw/\s*skn\b",
         r"\bs/\s*skn\b",
-        r"\bs\s+skn\b"
+        r"\bs\s+skn\b",
+        r"\bin_skn\b",
+        r"\bin\s+skn\b",
+        r"\bin_skin\b",
+        r"\bin\s+skin\b"
     ]
     
     # Define match patterns for "without skin"
@@ -516,24 +663,44 @@ def context_replace(food_id, category, text):
     
     if is_poultry_or_meat:
         for p in with_skin_patterns:
-            text = re.sub(p, "s kožou", text, flags=re.IGNORECASE)
+            if "in" in p:
+                text = re.sub(p, "v koži", text, flags=re.IGNORECASE)
+            else:
+                text = re.sub(p, "s kožou", text, flags=re.IGNORECASE)
         for p in without_skin_patterns:
             text = re.sub(p, "bez kože", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bv\s+koža\b", "v koži", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bv\s+koži\b", "v koži", text, flags=re.IGNORECASE)
     else:
         for p in with_skin_patterns:
-            text = re.sub(p, "so šupkou", text, flags=re.IGNORECASE)
+            if "in" in p:
+                text = re.sub(p, "v šupke", text, flags=re.IGNORECASE)
+            else:
+                text = re.sub(p, "so šupkou", text, flags=re.IGNORECASE)
         for p in without_skin_patterns:
             text = re.sub(p, "bez šupky", text, flags=re.IGNORECASE)
             
+        # Non-poultry specific corrections for "meat and skin"
+        text = re.sub(r"\bv\s+koža\b", "v šupke", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bv\s+koži\b", "v šupke", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bmäso\s+a\s+koža\b", "dužina a šupka", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bdužina\s+a\s+koža\b", "dužina a šupka", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bdužinou\s+&\s+koža\b", "dužinou a šupkou", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bvrátane\s+koža\b", "vrátane šupky", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bkoža\b", "šupka", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bkoži\b", "šupke", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bkožu\b", "šupku", text, flags=re.IGNORECASE)
+        
     return text
 
 def fix_translation_errors(food_id, text):
-    # If ID contains 'wo_sugar' or 'without_sugar' but text has 's cukrom'
+    # If ID contains 'wo_sugar' or 'without_sugar' or 'unswtnd'
     if any(x in food_id.lower() for x in ["wo_sugar", "without_sugar", "unswtnd", "unsweetened"]):
         text = text.replace("s cukrom", "bez cukru")
-        text = text.replace("sladené", "nesladené")
-        text = text.replace("sladená", "nesladená")
-        text = text.replace("sladený", "nesladený")
+        # Replace standalone words only to avoid duplicate prefix like "nenesladené"
+        text = re.sub(r"\bsladené\b", "nesladené", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bsladená\b", "nesladená", text, flags=re.IGNORECASE)
+        text = re.sub(r"\bsladený\b", "nesladený", text, flags=re.IGNORECASE)
     return text
 
 def deduplicate_words(text):
@@ -568,12 +735,20 @@ def clean_text_with_replacements(text, replacements, food_id, category, is_slova
     # Apply word deduplication
     cleaned = deduplicate_words(cleaned)
     
-    # Clean up double spaces or trailing/leading punctuation
+    # Clean up leading/trailing punctuation, spaces and parentheses
     cleaned = cleaned.strip()
-    cleaned = re.sub(r'\s+', ' ', cleaned)
-    cleaned = re.sub(r',\s*$', '', cleaned)
-    cleaned = re.sub(r'^\s*,\s*', '', cleaned)
+    cleaned = re.sub(r'^[,\s\(\)]+', '', cleaned)
+    cleaned = re.sub(r'[,\s\(\)]+$', '', cleaned)
     
+    # Clean up double commas, extra spaces
+    cleaned = re.sub(r',\s*,', ',', cleaned)
+    cleaned = re.sub(r'\s+', ' ', cleaned)
+    cleaned = cleaned.strip()
+    
+    # Capitalize first letter
+    if cleaned and cleaned[0].islower():
+        cleaned = cleaned[0].upper() + cleaned[1:]
+        
     # Make sure it still has a period if it's a description
     if text.endswith('.') and not cleaned.endswith('.'):
         cleaned = cleaned + "."

@@ -97,8 +97,8 @@
   "canola_oil": {
     "name": "Canola oil",
     "alternative_names": [
-      "rapeseed oil",
-      "refined canola oil"
+      "Rapeseed oil",
+      "Refined canola oil"
     ],
     "description": "Refined vegetable oil pressed from rapeseed, containing moderate amounts of Vitamin K1."
   },
@@ -140,8 +140,8 @@
   "mayonnaise_regular": {
     "name": "Mayonnaise, regular",
     "alternative_names": [
-      "mayo",
-      "standard mayonnaise"
+      "Mayo",
+      "Standard mayonnaise"
     ],
     "description": "Regular mayonnaise made with vegetable oil, containing a high amount of Vitamin K1."
   },
@@ -194,7 +194,7 @@
     "name": "Olive oil, extra virgin",
     "alternative_names": [
       "EVOO",
-      "extra virgin olive oil"
+      "Extra virgin olive oil"
     ],
     "description": "Cold-pressed olive oil, a staple of the Mediterranean diet, containing moderate Vitamin K1."
   },
@@ -251,8 +251,8 @@
   "soybean_oil": {
     "name": "Soybean oil",
     "alternative_names": [
-      "soya oil",
-      "refined soybean oil"
+      "Soya oil",
+      "Refined soybean oil"
     ],
     "description": "Refined oil extracted from soybeans, containing a high amount of Vitamin K1."
   },
@@ -322,9 +322,9 @@
     "description": "Sour cream, reduced fat."
   },
   "usda_commodity_chs_cheddar_red_fat": {
-    "name": "Usda commodity, chs, cheddar, red fat",
+    "name": "Chs, cheddar, red fat",
     "alternative_names": [],
-    "description": "Usda commodity, chs, cheddar, red fat."
+    "description": "Chs, cheddar, red fat."
   },
   "cheese_cream_fat_free": {
     "name": "Cheese, cream, fat free",
@@ -422,9 +422,9 @@
     "description": "Oil, sunflower, linoleic (less than 60%)."
   },
   "veg_oil_sprd_unspec_oils_approx_37_fat_w_salt": {
-    "name": "vegetable oil sprd, unspec oils, approx 37% fat, with/ salt",
+    "name": "Vegetable oil sprd, unspec oils, approx 37% fat, with/ salt",
     "alternative_names": [],
-    "description": "vegetable oil sprd, unspec oils, approx 37% fat, with/ salt."
+    "description": "Vegetable oil sprd, unspec oils, approx 37% fat, with/ salt."
   },
   "salad_drsng_home_recipe_vinegaroil": {
     "name": "Salad dressing, home recipe, vinegar&oil",
@@ -587,9 +587,9 @@
     "description": "Margarine, regular, 80% fat, comp, tub, without/ salt."
   },
   "veg_oil_sprd_60_fat_sticktubbottle_wo_salt": {
-    "name": "vegetable oil sprd, 60% fat, stick/tub/bottle, without/ salt",
+    "name": "Vegetable oil sprd, 60% fat, stick/tub/bottle, without/ salt",
     "alternative_names": [],
-    "description": "vegetable oil sprd, 60% fat, stick/tub/bottle, without/ salt."
+    "description": "Vegetable oil sprd, 60% fat, stick/tub/bottle, without/ salt."
   },
   "margarine_like_veg_oil_sprd_fat_free_liq_w_sa": {
     "name": "Margarine-like, vegetable oil sprd, fat free, liquids, with/ salt",
@@ -752,14 +752,14 @@
     "description": "Shortening, indus, soy (part hydr ) for baking & confections."
   },
   "usda_cmdty_fd_oil_veg_soybn_refined": {
-    "name": "Usda cmdty fd, oil, vegetable, soybn, refined",
+    "name": "Oil, vegetable, soybn, refined",
     "alternative_names": [],
-    "description": "Usda cmdty fd, oil, vegetable, soybn, refined."
+    "description": "Oil, vegetable, soybn, refined."
   },
   "usda_cmdty_fd_oil_veg_lo_saturated_fat": {
-    "name": "Usda cmdty fd, oil, vegetable, lo saturated fat",
+    "name": "Oil, vegetable, lo saturated fat",
     "alternative_names": [],
-    "description": "Usda cmdty fd, oil, vegetable, lo saturated fat."
+    "description": "Oil, vegetable, lo saturated fat."
   },
   "margarine_like_sprd_smart_balance_reg_buttery": {
     "name": "Margarine-like sprd, smart balance regular buttery sprd",
@@ -792,9 +792,9 @@
     "description": "Margarine-like sprd, benecol lt sprd."
   },
   "veg_oil_sprd_37_fat_unspec_oils_w_salt_w_adde": {
-    "name": "vegetable oil sprd, 37% fat, unspec oils, with/ salt, with/ added vitamin d",
+    "name": "Vegetable oil sprd, 37% fat, unspec oils, with/ salt, with/ added vitamin d",
     "alternative_names": [],
-    "description": "vegetable oil sprd, 37% fat, unspec oils, with/ salt, with/ added vitamin d."
+    "description": "Vegetable oil sprd, 37% fat, unspec oils, with/ salt, with/ added vitamin d."
   },
   "margarine_reg_80_fat_comp_stk_w_salt_w_added": {
     "name": "Margarine, regular, 80% fat, comp, steak, with/ salt, with/ added vitamin d",
@@ -807,19 +807,19 @@
     "description": "Margarine, regular, 80% fat, comp, tub, with/ salt, with/ added vitamin d."
   },
   "veg_oil_sprd_60_fat_stk_w_salt_w_added_vitami": {
-    "name": "vegetable oil sprd, 60% fat, steak, with/ salt, with/ added vitamin d",
+    "name": "Vegetable oil sprd, 60% fat, steak, with/ salt, with/ added vitamin d",
     "alternative_names": [],
-    "description": "vegetable oil sprd, 60% fat, steak, with/ salt, with/ added vitamin d."
+    "description": "Vegetable oil sprd, 60% fat, steak, with/ salt, with/ added vitamin d."
   },
   "veg_oil_sprd_60_fat_tub_w_salt_w_added_vitami": {
-    "name": "vegetable oil sprd, 60% fat, tub, with/ salt, with/ added vitamin d",
+    "name": "Vegetable oil sprd, 60% fat, tub, with/ salt, with/ added vitamin d",
     "alternative_names": [],
-    "description": "vegetable oil sprd, 60% fat, tub, with/ salt, with/ added vitamin d."
+    "description": "Vegetable oil sprd, 60% fat, tub, with/ salt, with/ added vitamin d."
   },
   "veg_oil_sprd_sticktubbottle_60_fat_w_added_vi": {
-    "name": "vegetable-oil sprd, stick/tub/bottle, 60% fat, with/ added vitamin d",
+    "name": "Vegetable-oil sprd, stick/tub/bottle, 60% fat, with/ added vitamin d",
     "alternative_names": [],
-    "description": "vegetable-oil sprd, stick/tub/bottle, 60% fat, with/ added vitamin d."
+    "description": "Vegetable-oil sprd, stick/tub/bottle, 60% fat, with/ added vitamin d."
   },
   "margarine_reg_80_fat_comp_stk_wo_salt_w_added": {
     "name": "Margarine, regular, 80% fat, comp, steak, without/ salt, with/ added vitamin d",
@@ -827,9 +827,9 @@
     "description": "Margarine, regular, 80% fat, comp, steak, without/ salt, with/ added vitamin d."
   },
   "veg_oil_sprd_60_fat_sticktubbottle_wo_salt_wv": {
-    "name": "vegetable oil sprd, 60% fat, stick/tub/bottle, without/ salt, withvit d",
+    "name": "Vegetable oil sprd, 60% fat, stick/tub/bottle, without/ salt, withvit d",
     "alternative_names": [],
-    "description": "vegetable oil sprd, 60% fat, stick/tub/bottle, without/ salt, withvit d."
+    "description": "Vegetable oil sprd, 60% fat, stick/tub/bottle, without/ salt, withvit d."
   },
   "oil_industrial_canola_hi_oleic": {
     "name": "Oil, industrial, canola, hi oleic",
@@ -872,9 +872,9 @@
     "description": "Chicken, broilers or fryers, fat, raw."
   },
   "frankfurter_bf_pork_turkey_fat_free": {
-    "name": "Frankfurter, bf, pork, & turkey, fat free",
+    "name": "Frankfurter, beef, pork, & turkey, fat free",
     "alternative_names": [],
-    "description": "Frankfurter, bf, pork, & turkey, fat free."
+    "description": "Frankfurter, beef, pork, & turkey, fat free."
   },
   "pork_cured_ham_slice_bone_in_ln_fat_unhtd": {
     "name": "Pork, cured, ham, slice, bone-in, lean & fat, unheated",
@@ -892,9 +892,9 @@
     "description": "Potatoes, mshd, home-prepared, whole milk & butter added."
   },
   "sunflower_sd_krnls_oil_rstd_wosalt": {
-    "name": "Sunflower sd krnls, oil rstd, withoutsalt",
+    "name": "Sunflower sd kernels, oil rstd, withoutsalt",
     "alternative_names": [],
-    "description": "Sunflower sd krnls, oil rstd, withoutsalt."
+    "description": "Sunflower sd kernels, oil rstd, withoutsalt."
   },
   "cashew_nuts_oil_rstd_wosalt": {
     "name": "Cashew nuts, oil rstd, withoutsalt",
@@ -907,9 +907,9 @@
     "description": "Mixed nuts, oil rstd, withpnuts, withoutsalt."
   },
   "sunflower_sd_krnls_oil_rstd_wsalt": {
-    "name": "Sunflower sd krnls, oil rstd, withsalt",
+    "name": "Sunflower sd kernels, oil rstd, withsalt",
     "alternative_names": [],
-    "description": "Sunflower sd krnls, oil rstd, withsalt."
+    "description": "Sunflower sd kernels, oil rstd, withsalt."
   },
   "cashew_nuts_oil_rstd_wsalt": {
     "name": "Cashew nuts, oil rstd, withsalt",
@@ -947,47 +947,47 @@
     "description": "Beef, rtl cuts, fat, cooked."
   },
   "beef_brisket_flat_half_ln_fat_18_fat_sel_ckd": {
-    "name": "beef, brisket, flat half, lean & fat, 1/8\" fat, select, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean & fat, 1/8\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean & fat, 1/8\" fat, select, cooked, brsd\"."
   },
   "beef_flank_steak_ln_fat_0_fat_choic_raw": {
-    "name": "beef, flank, steak, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, flank, steak, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean & fat, 0\" fat, choice, raw\"."
   },
   "beef_flank_steak_ln_fat_0_fat_choic_ckd_brsd": {
-    "name": "beef, flank, steak, lean & fat, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, flank, steak, lean & fat, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean & fat, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_flank_steak_ln_fat_0_fat_choic_ckd_brld": {
-    "name": "beef, flank, steak, lean & fat, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, flank, steak, lean & fat, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean & fat, 0\" fat, choice, cooked, broiled\"."
   },
   "beef_flank_steak_ln_0_fat_choic_raw": {
-    "name": "beef, flank, steak, lean, 0\" fat, choice, raw",
+    "name": "Beef, flank, steak, lean, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean, 0\" fat, choice, raw\"."
   },
   "beef_flank_steak_ln_0_fat_choic_ckd_brsd": {
-    "name": "beef, flank, steak, lean, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, flank, steak, lean, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_flank_steak_ln_0_fat_choic_ckd_brld": {
-    "name": "beef, flank, steak, lean, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, flank, steak, lean, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean, 0\" fat, choice, cooked, broiled\"."
   },
   "bf_rib_eye_sml_end_ln_ft_0_fat_choic_ckd_brld": {
-    "name": "bf, rib, eye, sml end (rib 10-12), lean & fat, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, rib, eye, sml end (rib 10-12), lean & fat, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
-    "description": "\"bf, rib, eye, sml end (rib 10-12), lean & fat, 0\" fat, choice, cooked, broiled\"."
+    "description": "\"beef, rib, eye, sml end (rib 10-12), lean & fat, 0\" fat, choice, cooked, broiled\"."
   },
   "beef_rib_eye_sml_end_ln_0fat_choic_ckd_brld": {
-    "name": "beef, rib, eye, sml end (ribs 10-12), lean, 0\"fat, choice, cooked, broiled",
+    "name": "Beef, rib, eye, sml end (ribs 10-12), lean, 0\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rib, eye, sml end (ribs 10-12), lean, 0\"fat, choice, cooked, broiled\"."
   },
@@ -997,387 +997,387 @@
     "description": "Beef, rib, shortribs, lean&fat, choice, cooked, brsd."
   },
   "beef_rnd_full_cut_ln_14fat_choic_ckd_brld": {
-    "name": "beef, rnd, full cut, lean, 1/4\"fat, choice, cooked, broiled",
+    "name": "Beef, rnd, full cut, lean, 1/4\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, full cut, lean, 1/4\"fat, choice, cooked, broiled\"."
   },
   "beef_brisket_flat_half_ln_fat_0_fat_choic_ckd": {
-    "name": "beef, brisket, flat half, lean & fat, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean & fat, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean & fat, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_chuck_und_bl_pot_rst_bnless_ln_0_fat_all": {
-    "name": "beef, chuck, und bl pot rst, boneless, lean, 0\" fat, all grades, cooked",
+    "name": "Beef, chuck, und bl pot rst, boneless, lean, 0\" fat, all grades, cooked",
     "alternative_names": [],
     "description": "\"beef, chuck, und bl pot rst, boneless, lean, 0\" fat, all grades, cooked\"."
   },
   "beef_chk_und_bl_pot_rst_bnless_ln_0_fat_all_g": {
-    "name": "beef, chk, und bl pot rst, boneless, lean, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, chk, und bl pot rst, boneless, lean, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chk, und bl pot rst, boneless, lean, 0\" fat, all grades, cooked, brsd\"."
   },
   "beef_chck_und_bl_pot_rst_or_steak_bnless_ln_0": {
-    "name": "beef, chck, und bl pot rst or steak, boneless, lean, 0\" fat, choice, raw",
+    "name": "Beef, chck, und bl pot rst or steak, boneless, lean, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, chck, und bl pot rst or steak, boneless, lean, 0\" fat, choice, raw\"."
   },
   "beef_brisket_flat_half_ln_0_fat_choic_ckd_brs": {
-    "name": "beef, brisket, flat half, lean, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_chk_und_blade_pot_rst_or_stk_bnless_ln_0": {
-    "name": "beef, chk, und blade pot rst or steak, boneless, lean, 0\" fat, select, raw",
+    "name": "Beef, chk, und blade pot rst or steak, boneless, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, chk, und blade pot rst or steak, boneless, lean, 0\" fat, select, raw\"."
   },
   "beef_comp_of_rtl_cuts_lnfat_0fat_all_grds_ckd": {
-    "name": "beef, comp of rtl cuts, lean&fat, 0\"fat, all grades, cooked",
+    "name": "Beef, comp of rtl cuts, lean&fat, 0\"fat, all grades, cooked",
     "alternative_names": [],
     "description": "\"beef, comp of rtl cuts, lean&fat, 0\"fat, all grades, cooked\"."
   },
   "beef_comp_of_rtl_cuts_ln_0_fat_all_grds_ckd": {
-    "name": "beef, comp of rtl cuts, lean, 0\" fat, all grades, cooked",
+    "name": "Beef, comp of rtl cuts, lean, 0\" fat, all grades, cooked",
     "alternative_names": [],
     "description": "\"beef, comp of rtl cuts, lean, 0\" fat, all grades, cooked\"."
   },
   "beef_brisket_whl_lnfat_0fat_all_grds_ckd_brsd": {
-    "name": "beef, brisket, whole, lean&fat, 0\"fat, all grades, cooked, brsd",
+    "name": "Beef, brisket, whole, lean&fat, 0\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, whole, lean&fat, 0\"fat, all grades, cooked, brsd\"."
   },
   "beef_brisket_whl_ln_0fat_all_grds_ckd_brsd": {
-    "name": "beef, brisket, whole, lean, 0\"fat, all grades, cooked, brsd",
+    "name": "Beef, brisket, whole, lean, 0\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, whole, lean, 0\"fat, all grades, cooked, brsd\"."
   },
   "beef_brisket_flat_half_lnfat_0fat_all_grds_ck": {
-    "name": "beef, brisket, flat half, lean&fat, 0\"fat, all grades, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean&fat, 0\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean&fat, 0\"fat, all grades, cooked, brsd\"."
   },
   "beef_brisket_flat_half_ln_0fat_all_grds_ckd_b": {
-    "name": "beef, brisket, flat half, lean, 0\"fat, all grades, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean, 0\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean, 0\"fat, all grades, cooked, brsd\"."
   },
   "beef_chuck_arm_pot_rst_lnfat_0fat_all_grds_ck": {
-    "name": "beef, chuck, arm pot rst, lean&fat, 0\"fat, all grades, cooked, brsd",
+    "name": "Beef, chuck, arm pot rst, lean&fat, 0\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean&fat, 0\"fat, all grades, cooked, brsd\"."
   },
   "beef_chuck_arm_pot_rst_ln_fat_0_fat_sel_ckd_b": {
-    "name": "beef, chuck, arm pot rst, lean & fat, 0\" fat, select, cooked, brsd",
+    "name": "Beef, chuck, arm pot rst, lean & fat, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean & fat, 0\" fat, select, cooked, brsd\"."
   },
   "beef_chuck_arm_pot_rst_ln_0fat_choic_ckd_brsd": {
-    "name": "beef, chuck, arm pot rst, lean, 0\"fat, choice, cooked, brsd",
+    "name": "Beef, chuck, arm pot rst, lean, 0\"fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean, 0\"fat, choice, cooked, brsd\"."
   },
   "beef_chuck_arm_pot_rst_ln_0fat_sel_ckd_brsd": {
-    "name": "beef, chuck, arm pot rst, lean, 0\"fat, select, cooked, brsd",
+    "name": "Beef, chuck, arm pot rst, lean, 0\"fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean, 0\"fat, select, cooked, brsd\"."
   },
   "beef_chck_undr_blde_pot_rst_bnls_ln_fat_0_chc": {
-    "name": "beef, chck, undr blde pot rst, bnls, lean & fat, 0\", chc, cooked, brsd",
+    "name": "Beef, chck, undr blde pot rst, bnls, lean & fat, 0\", chc, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chck, undr blde pot rst, bnls, lean & fat, 0\", chc, cooked, brsd\"."
   },
   "beef_chck_undr_blde_pot_rst_bnls_ln_fat_0_sel": {
-    "name": "beef, chck, undr blde pot rst, bnls, lean & fat, 0\", select, cooked, brsd",
+    "name": "Beef, chck, undr blde pot rst, bnls, lean & fat, 0\", select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chck, undr blde pot rst, bnls, lean & fat, 0\", select, cooked, brsd\"."
   },
   "beef_chuck_blade_rst_ln_0fat_all_grds_ckd_brs": {
-    "name": "beef, chuck, blade rst, lean, 0\"fat, all grades, cooked, brsd",
+    "name": "Beef, chuck, blade rst, lean, 0\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, blade rst, lean, 0\"fat, all grades, cooked, brsd\"."
   },
   "beef_chk_under_blade_pot_rst_bnless_ln_0_fat": {
-    "name": "beef, chk, under blade pot rst, boneless, lean, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, chk, under blade pot rst, boneless, lean, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chk, under blade pot rst, boneless, lean, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_chuck_under_blade_pot_rst_bnless_ln_0_fa": {
-    "name": "beef, chuck, under blade pot rst, boneless, lean, 0\" fat, select, cooked, brsd",
+    "name": "Beef, chuck, under blade pot rst, boneless, lean, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, under blade pot rst, boneless, lean, 0\" fat, select, cooked, brsd\"."
   },
   "beef_rib_lrg_end_ln_0fat_all_grds_ckd_rstd": {
-    "name": "beef, rib, lrg end (ribs 6-9), lean, 0\"fat, all grades, cooked, rstd",
+    "name": "Beef, rib, lrg end (ribs 6-9), lean, 0\"fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rib, lrg end (ribs 6-9), lean, 0\"fat, all grades, cooked, rstd\"."
   },
   "beef_rib_sml_end_lnfat_0fat_all_grds_ckd_brld": {
-    "name": "beef, rib, sml end (ribs 10-12), lean&fat, 0\"fat, all grades, cooked, broiled",
+    "name": "Beef, rib, sml end (ribs 10-12), lean&fat, 0\"fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean&fat, 0\"fat, all grades, cooked, broiled\"."
   },
   "beef_rib_sml_end_ln_0fat_all_grds_ckd_brld": {
-    "name": "beef, rib, sml end (ribs 10-12), lean, 0\"fat, all grades, cooked, broiled",
+    "name": "Beef, rib, sml end (ribs 10-12), lean, 0\"fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean, 0\"fat, all grades, cooked, broiled\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_fat_0_fat_all_grds": {
-    "name": "beef, rnd, bttm rnd, steak, lean & fat, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean & fat, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean & fat, 0\" fat, all grades, cooked, brsd\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_fat_0_fat_all_grds_c": {
-    "name": "beef, rnd, bttm rnd, rst, lean & fat, 0\" fat, all grades, cooked, rstd",
+    "name": "Beef, rnd, bttm rnd, rst, lean & fat, 0\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean & fat, 0\" fat, all grades, cooked, rstd\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_fat_0_fat_choic_ck": {
-    "name": "beef, rnd, bttm rnd, steak, lean & fat, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean & fat, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean & fat, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_fat_0_fat_choic_ckd": {
-    "name": "beef, rnd, bttm rnd, rst, lean & fat, 0\" fat, choice, cooked, rstd",
+    "name": "Beef, rnd, bttm rnd, rst, lean & fat, 0\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean & fat, 0\" fat, choice, cooked, rstd\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_fat_0_fat_sel_ckd": {
-    "name": "beef, rnd, bttm rnd, steak, lean & fat, 0\" fat, select, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean & fat, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean & fat, 0\" fat, select, cooked, brsd\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_fat_0_fat_sel_ckd_rs": {
-    "name": "beef, rnd, bttm rnd, rst, lean & fat, 0\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, bttm rnd, rst, lean & fat, 0\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean & fat, 0\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_0_fat_all_grds_ckd": {
-    "name": "beef, rnd, bttm rnd, steak, lean, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean, 0\" fat, all grades, cooked, brsd\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_0_fat_all_grds_ckd_r": {
-    "name": "beef, rnd, bttm rnd, rst, lean, 0\" fat, all grades, cooked, rstd",
+    "name": "Beef, rnd, bttm rnd, rst, lean, 0\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean, 0\" fat, all grades, cooked, rstd\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_0_fat_choic_ckd_br": {
-    "name": "beef, rnd, bttm rnd, steak, lean, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_bottom_round_roast_lean_only_0_fat_choic": {
-    "name": "beef, bottom round, roast, lean only, 0\" fat, choice, roasted",
+    "name": "Beef, bottom round, roast, lean only, 0\" fat, choice, roasted",
     "alternative_names": [],
     "description": "\"beef, bottom round, roast, lean only, 0\" fat, choice, roasted\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_0_fat_sel_ckd_brsd": {
-    "name": "beef, rnd, bttm rnd, steak, lean, 0\" fat, select, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean, 0\" fat, select, cooked, brsd\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_0_fat_sel_ckd_rstd": {
-    "name": "beef, rnd, bttm rnd rst, lean, 0\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, bttm rnd rst, lean, 0\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd rst, lean, 0\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_fat_0_fat_all_grds": {
-    "name": "beef, rnd, eye of rnd, rst, lean & fat, 0\" fat, all grades, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean & fat, 0\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean & fat, 0\" fat, all grades, cooked, rstd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_fat_0_fat_choic_ck": {
-    "name": "beef, rnd, eye of rnd, rst, lean & fat, 0\" fat, choice, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean & fat, 0\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean & fat, 0\" fat, choice, cooked, rstd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_fat_0_fat_sel_ckd": {
-    "name": "beef, rnd, eye of rnd, rst, lean & fat, 0\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean & fat, 0\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean & fat, 0\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_0_fat_all_grds_ckd": {
-    "name": "beef, rnd, eye of rnd, rst, lean, 0\" fat, all grades, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean, 0\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean, 0\" fat, all grades, cooked, rstd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_0_fat_choic_ckd_rs": {
-    "name": "beef, rnd, eye of rnd, rst, lean, 0\" fat, choice, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean, 0\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean, 0\" fat, choice, cooked, rstd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_0_fat_sel_ckd_rstd": {
-    "name": "beef, rnd, eye of rnd, rst, lean, 0\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean, 0\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean, 0\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_tip_rnd_rst_ln_fat_0_fat_all_grds_ck": {
-    "name": "beef, rnd, tip rnd, rst, lean & fat, 0\" fat, all grades, cooked, rstd",
+    "name": "Beef, rnd, tip rnd, rst, lean & fat, 0\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean & fat, 0\" fat, all grades, cooked, rstd\"."
   },
   "beef_rnd_tip_rnd_rst_ln_fat_0_fat_choic_ckd_r": {
-    "name": "beef, rnd, tip rnd, rst, lean & fat, 0\" fat, choice, cooked, rstd",
+    "name": "Beef, rnd, tip rnd, rst, lean & fat, 0\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean & fat, 0\" fat, choice, cooked, rstd\"."
   },
   "beef_rnd_tip_rnd_rst_ln_fat_0_fat_sel_ckd_rst": {
-    "name": "beef, rnd, tip rnd, rst, lean & fat, 0\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, tip rnd, rst, lean & fat, 0\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean & fat, 0\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_tip_rnd_rst_ln_0_fat_all_grds_ckd_rs": {
-    "name": "beef, rnd, tip rnd, rst, lean, 0\" fat, all grades, cooked, rstd",
+    "name": "Beef, rnd, tip rnd, rst, lean, 0\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean, 0\" fat, all grades, cooked, rstd\"."
   },
   "beef_rnd_tip_rnd_rst_ln_0_fat_choic_ckd_rstd": {
-    "name": "beef, rnd, tip rnd, rst, lean, 0\" fat, choice, cooked, rstd",
+    "name": "Beef, rnd, tip rnd, rst, lean, 0\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean, 0\" fat, choice, cooked, rstd\"."
   },
   "beef_rnd_tip_rnd_rst_ln_0_fat_sel_ckd_rstd": {
-    "name": "beef, rnd, tip rnd, rst, lean, 0\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, tip rnd, rst, lean, 0\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean, 0\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_top_rnd_lnfat_0fat_all_grds_ckd_brsd": {
-    "name": "beef, rnd, top rnd, lean&fat, 0\"fat, all grades, cooked, brsd",
+    "name": "Beef, rnd, top rnd, lean&fat, 0\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, lean&fat, 0\"fat, all grades, cooked, brsd\"."
   },
   "beef_rnd_top_rnd_ln_0fat_all_grds_ckd_brsd": {
-    "name": "beef, rnd, top rnd, lean, 0\"fat, all grades, cooked, brsd",
+    "name": "Beef, rnd, top rnd, lean, 0\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, lean, 0\"fat, all grades, cooked, brsd\"."
   },
   "beef_tenderloin_steak_ln_fat_0_fat_all_grds_c": {
-    "name": "beef, tenderloin, steak, lean & fat, 0\" fat, all grades, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean & fat, 0\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean & fat, 0\" fat, all grades, cooked, broiled\"."
   },
   "beef_tenderloin_steak_ln_fat_0_fat_choic_ckd": {
-    "name": "beef, tenderloin, steak, lean & fat, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean & fat, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean & fat, 0\" fat, choice, cooked, broiled\"."
   },
   "beef_tenderloin_steak_ln_fat_0_fat_sel_ckd_br": {
-    "name": "beef, tenderloin, steak, lean & fat, 0\" fat, select, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean & fat, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean & fat, 0\" fat, select, cooked, broiled\"."
   },
   "beef_tenderloin_steak_ln_0_fat_all_grds_ckd_b": {
-    "name": "beef, tenderloin, steak, lean, 0\" fat, all grades, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean, 0\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean, 0\" fat, all grades, cooked, broiled\"."
   },
   "beef_tenderloin_steak_ln_0_fat_choic_ckd_brld": {
-    "name": "beef, tenderloin, steak, lean, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean, 0\" fat, choice, cooked, broiled\"."
   },
   "beef_tenderloin_steak_ln_0_fat_sel_ckd_brld": {
-    "name": "beef, tenderloin, steak, lean, 0\" fat, select, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean, 0\" fat, select, cooked, broiled\"."
   },
   "beef_shrt_loin_top_loin_stk_ln_fat_0_fat_all": {
-    "name": "beef, short loin, top loin, steak, lean & fat, 0\" fat, all grade, cooked, broiled",
+    "name": "Beef, short loin, top loin, steak, lean & fat, 0\" fat, all grade, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean & fat, 0\" fat, all grade, cooked, broiled\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_fat_0_fat_ch": {
-    "name": "beef, short loin, top loin, steak, lean & fat, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, short loin, top loin, steak, lean & fat, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean & fat, 0\" fat, choice, cooked, broiled\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_fat_0_fat_se": {
-    "name": "beef, short loin, top loin, steak, lean & fat, 0\" fat, select, cooked, broiled",
+    "name": "Beef, short loin, top loin, steak, lean & fat, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean & fat, 0\" fat, select, cooked, broiled\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_0_fat_all_gr": {
-    "name": "beef, short loin, top loin, steak, lean, 0\" fat, all grades, cooked, broiled",
+    "name": "Beef, short loin, top loin, steak, lean, 0\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean, 0\" fat, all grades, cooked, broiled\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_0_fat_choic": {
-    "name": "beef, short loin, top loin, steak, lean, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, short loin, top loin, steak, lean, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean, 0\" fat, choice, cooked, broiled\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_0_fat_sel_ck": {
-    "name": "beef, short loin, top loin, steak, lean, 0\" fat, select, cooked, broiled",
+    "name": "Beef, short loin, top loin, steak, lean, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean, 0\" fat, select, cooked, broiled\"."
   },
   "beef_top_sirloin_steak_ln_fat_0_fat_all_grds": {
-    "name": "beef, top sirloin, steak, lean & fat, 0\" fat, all grades, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean & fat, 0\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean & fat, 0\" fat, all grades, cooked, broiled\"."
   },
   "beef_top_sirloin_steak_ln_fat_0_fat_choic_ckd": {
-    "name": "beef, top sirloin, steak, lean & fat, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean & fat, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean & fat, 0\" fat, choice, cooked, broiled\"."
   },
   "beef_top_sirloin_steak_ln_fat_0_fat_sel_ckd_b": {
-    "name": "beef, top sirloin, steak, lean & fat, 0\" fat, select, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean & fat, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean & fat, 0\" fat, select, cooked, broiled\"."
   },
   "beef_top_sirloin_steak_ln_0_fat_all_grds_ckd": {
-    "name": "beef, top sirloin, steak, lean, 0\" fat, all grades, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean, 0\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean, 0\" fat, all grades, cooked, broiled\"."
   },
   "beef_top_sirloin_steak_ln_0_fat_choic_ckd_brl": {
-    "name": "beef, top sirloin, steak, lean, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean, 0\" fat, choice, cooked, broiled\"."
   },
   "beef_top_sirloin_steak_ln_0_fat_sel_ckd_brld": {
-    "name": "beef, top sirloin, steak, lean, 0\" fat, select, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean, 0\" fat, select, cooked, broiled\"."
   },
   "beef_brisket_flat_half_ln_0_fat_sel_ckd_brsd": {
-    "name": "beef, brisket, flat half, lean, 0\" fat, select, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean, 0\" fat, select, cooked, brsd\"."
   },
   "beef_rnd_tip_rnd_rst_ln_fat_0_fat_all_grds_ra": {
-    "name": "beef, rnd, tip rnd, rst, lean & fat, 0\" fat, all grades, raw",
+    "name": "Beef, rnd, tip rnd, rst, lean & fat, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean & fat, 0\" fat, all grades, raw\"."
   },
   "beef_rnd_tip_rnd_rst_ln_fat_0_fat_choic_raw": {
-    "name": "beef, rnd, tip rnd, rst, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, rnd, tip rnd, rst, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean & fat, 0\" fat, choice, raw\"."
   },
   "beef_rnd_tip_rnd_rst_ln_fat_0_fat_sel_raw": {
-    "name": "beef, rnd, tip rnd, rst, lean & fat, 0\" fat, select, raw",
+    "name": "Beef, rnd, tip rnd, rst, lean & fat, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean & fat, 0\" fat, select, raw\"."
   },
   "beef_rib_eye_sml_end_ln_0_fat_sel_ckd_brld": {
-    "name": "beef, rib, eye, sml end (ribs 10- 12) lean, 0\" fat, select, cooked, broiled",
+    "name": "Beef, rib, eye, sml end (ribs 10- 12) lean, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rib, eye, sml end (ribs 10- 12) lean, 0\" fat, select, cooked, broiled\"."
   },
   "beef_rnd_top_rnd_steak_ln_0_fat_all_grds_ckd": {
-    "name": "beef, rnd, top rnd, steak, lean, 0\" fat, all grades, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean, 0\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean, 0\" fat, all grades, cooked, broiled\"."
   },
   "beef_rnd_top_rnd_steak_ln_0_fat_choic_ckd_brl": {
-    "name": "beef, rnd, top rnd, steak, lean, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean, 0\" fat, choice, cooked, broiled\"."
   },
   "beef_rnd_top_rnd_steak_ln_0_fat_sel_ckd_brld": {
-    "name": "beef, rnd, top rnd, steak, lean, 0\" fat, select, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean, 0\" fat, select, cooked, broiled\"."
   },
@@ -1387,9 +1387,9 @@
     "description": "Beef, ground, 70% lean meat / 30% fat, crumbles, cooked, pan-browned."
   },
   "beef_ground_70_ln_meat_30_fat_loaf_ckd_bkd": {
-    "name": "Beef, ground, 70% lean meat / 30% fat, loaf, cooked, bkd",
+    "name": "Beef, ground, 70% lean meat / 30% fat, loaf, cooked, baked",
     "alternative_names": [],
-    "description": "Beef, ground, 70% lean meat / 30% fat, loaf, cooked, bkd."
+    "description": "Beef, ground, 70% lean meat / 30% fat, loaf, cooked, baked."
   },
   "beef_ground_70_ln_meat_30_fat_patty_ckd_pan_b": {
     "name": "Beef, ground, 70% lean meat / 30% fat, patty cooked, pan-broiled",
@@ -1407,509 +1407,509 @@
     "description": "Beef, ground, 70% lean meat / 30% fat, raw."
   },
   "beef_shldr_top_blade_steak_bnless_ln_0_fat_al": {
-    "name": "beef, shoulder top blade steak, boneless, lean, 0\" fat, all grades, cooked, gri",
+    "name": "Beef, shoulder top blade steak, boneless, lean, 0\" fat, all grades, cooked, gri",
     "alternative_names": [],
     "description": "\"beef, shoulder top blade steak, boneless, lean, 0\" fat, all grades, cooked, gri\"."
   },
   "beef_shldr_top_blade_steak_bnless_ln_0_fat_ch": {
-    "name": "beef, shoulder top blade steak, boneless, lean, 0\" fat, choice, cooked, grille",
+    "name": "Beef, shoulder top blade steak, boneless, lean, 0\" fat, choice, cooked, grille",
     "alternative_names": [],
     "description": "\"beef, shoulder top blade steak, boneless, lean, 0\" fat, choice, cooked, grille\"."
   },
   "beef_shldr_top_blade_steak_bnless_ln_0_fat_se": {
-    "name": "beef, shoulder top blade steak, boneless, lean, 0\" fat, select, cooked, grilled",
+    "name": "Beef, shoulder top blade steak, boneless, lean, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, shoulder top blade steak, boneless, lean, 0\" fat, select, cooked, grilled\"."
   },
   "beef_brisket_flat_half_bnless_ln_0_fat_all_gr": {
-    "name": "beef, brisket, flat half, boneless lean, 0\" fat, all grades, raw",
+    "name": "Beef, brisket, flat half, boneless lean, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, boneless lean, 0\" fat, all grades, raw\"."
   },
   "beef_brisket_flat_half_bnless_ln_0_fat_all_ch": {
-    "name": "beef, brisket, flat half, boneless lean, 0\" fat, all choice, raw",
+    "name": "Beef, brisket, flat half, boneless lean, 0\" fat, all choice, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, boneless lean, 0\" fat, all choice, raw\"."
   },
   "beef_brisket_flat_half_bnless_ln_0_fat_sel_ra": {
-    "name": "beef, brisket, flat half, boneless, lean, 0\" fat, select, raw",
+    "name": "Beef, brisket, flat half, boneless, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, boneless, lean, 0\" fat, select, raw\"."
   },
   "beef_shldr_top_blade_stk_bnles_ln_fat_0_all_g": {
-    "name": "beef, shoulder top blade steak, bnles, lean & fat, 0\" , all grades, cooked, g",
+    "name": "Beef, shoulder top blade steak, bnles, lean & fat, 0\" , all grades, cooked, g",
     "alternative_names": [],
     "description": "\"beef, shoulder top blade steak, bnles, lean & fat, 0\" , all grades, cooked, g\"."
   },
   "beef_shldr_pot_rst_or_steak_bnless_ln_0_fat_a": {
-    "name": "beef, shoulder pot rst or steak, boneless, lean, 0\" fat, all grades, raw",
+    "name": "Beef, shoulder pot rst or steak, boneless, lean, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst or steak, boneless, lean, 0\" fat, all grades, raw\"."
   },
   "beef_shldr_pot_rst_or_steak_bnless_ln_0_fat_c": {
-    "name": "beef, shoulder pot rst or steak, boneless, lean, 0\" fat, choice, raw",
+    "name": "Beef, shoulder pot rst or steak, boneless, lean, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst or steak, boneless, lean, 0\" fat, choice, raw\"."
   },
   "beef_shldr_pot_rst_or_steak_bnless_ln_0_fat_s": {
-    "name": "beef, shoulder pot rst or steak, boneless, lean, 0\" fat, select, raw",
+    "name": "Beef, shoulder pot rst or steak, boneless, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst or steak, boneless, lean, 0\" fat, select, raw\"."
   },
   "beef_shldr_top_blde_stk_bns_ln_fat_0_fat_choi": {
-    "name": "beef, shoulder top blde steak, bns, lean & fat, 0\" fat, choice, cooked, g",
+    "name": "Beef, shoulder top blde steak, bns, lean & fat, 0\" fat, choice, cooked, g",
     "alternative_names": [],
     "description": "\"beef, shoulder top blde steak, bns, lean & fat, 0\" fat, choice, cooked, g\"."
   },
   "beef_chuck_eye_rst_bnless_a_bf_rst_ln_fat_0_a": {
-    "name": "beef, chuck eye rst, boneless, a bf rst, lean & fat, 0\", all g, raw",
+    "name": "Beef, chuck eye rst, boneless, a beef rst, lean & fat, 0\", all g, raw",
     "alternative_names": [],
-    "description": "\"beef, chuck eye rst, boneless, a bf rst, lean & fat, 0\", all g, raw\"."
+    "description": "\"beef, chuck eye rst, boneless, a beef rst, lean & fat, 0\", all g, raw\"."
   },
   "beef_chuck_eye_rst_bnls_a_bf_rst_ln_fat_0_fat": {
-    "name": "beef, chuck eye rst, bnls, a bf rst, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, chuck eye rst, bnls, a beef rst, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
-    "description": "\"beef, chuck eye rst, bnls, a bf rst, lean & fat, 0\" fat, choice, raw\"."
+    "description": "\"beef, chuck eye rst, bnls, a beef rst, lean & fat, 0\" fat, choice, raw\"."
   },
   "beef_comp_of_rtl_cuts_lnfat_18fat_all_grds_ck": {
-    "name": "beef, comp of rtl cuts, lean&fat, 1/8\"fat, all grades, cooked",
+    "name": "Beef, comp of rtl cuts, lean&fat, 1/8\"fat, all grades, cooked",
     "alternative_names": [],
     "description": "\"beef, comp of rtl cuts, lean&fat, 1/8\"fat, all grades, cooked\"."
   },
   "beef_brisket_whl_lnfat_18fat_all_grds_ckd_brs": {
-    "name": "beef, brisket, whole, lean&fat, 1/8\"fat, all grades, cooked, brsd",
+    "name": "Beef, brisket, whole, lean&fat, 1/8\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, whole, lean&fat, 1/8\"fat, all grades, cooked, brsd\"."
   },
   "beef_brisket_flat_half_lnfat_18fat_all_grds_r": {
-    "name": "beef, brisket, flat half, lean&fat, 1/8\"fat, all grades, raw",
+    "name": "Beef, brisket, flat half, lean&fat, 1/8\"fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean&fat, 1/8\"fat, all grades, raw\"."
   },
   "beef_brisket_flat_half_lnfat_18fat_all_grds_c": {
-    "name": "beef, brisket, flat half, lean&fat, 1/8\"fat, all grades, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean&fat, 1/8\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean&fat, 1/8\"fat, all grades, cooked, brsd\"."
   },
   "beef_chuck_arm_pot_rst_lnfat_18fat_all_grds_r": {
-    "name": "beef, chuck, arm pot rst, lean&fat, 1/8\"fat, all grades, raw",
+    "name": "Beef, chuck, arm pot rst, lean&fat, 1/8\"fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean&fat, 1/8\"fat, all grades, raw\"."
   },
   "beef_chuck_arm_pot_rst_lnfat_18fat_all_grds_c": {
-    "name": "beef, chuck, arm pot rst, lean&fat, 1/8\"fat, all grades, cooked, brsd",
+    "name": "Beef, chuck, arm pot rst, lean&fat, 1/8\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean&fat, 1/8\"fat, all grades, cooked, brsd\"."
   },
   "beef_chuck_arm_pot_rst_lnfat_18fat_choic_raw": {
-    "name": "beef, chuck, arm pot rst, lean&fat, 1/8\"fat, choice, raw",
+    "name": "Beef, chuck, arm pot rst, lean&fat, 1/8\"fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean&fat, 1/8\"fat, choice, raw\"."
   },
   "beef_chuck_arm_pot_rst_lnfat_18fat_choic_ckd": {
-    "name": "beef, chuck, arm pot rst, lean&fat, 1/8\"fat, choice, cooked, brsd",
+    "name": "Beef, chuck, arm pot rst, lean&fat, 1/8\"fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean&fat, 1/8\"fat, choice, cooked, brsd\"."
   },
   "beef_chuck_arm_pot_rst_lnfat_18fat_sel_raw": {
-    "name": "beef, chuck, arm pot rst, lean&fat, 1/8\"fat, select, raw",
+    "name": "Beef, chuck, arm pot rst, lean&fat, 1/8\"fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean&fat, 1/8\"fat, select, raw\"."
   },
   "beef_chuck_arm_pot_rst_lnfat_18fat_sel_ckd_br": {
-    "name": "beef, chuck, arm pot rst, lean&fat, 1/8\"fat, select, cooked, brsd",
+    "name": "Beef, chuck, arm pot rst, lean&fat, 1/8\"fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean&fat, 1/8\"fat, select, cooked, brsd\"."
   },
   "beef_chuck_blade_rst_lnfat_18fat_all_grds_ckd": {
-    "name": "beef, chuck, blade rst, lean&fat, 1/8\"fat, all grades, cooked, brsd",
+    "name": "Beef, chuck, blade rst, lean&fat, 1/8\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, blade rst, lean&fat, 1/8\"fat, all grades, cooked, brsd\"."
   },
   "beef_chuck_blade_rst_lnfat_18fat_choic_ckd_br": {
-    "name": "beef, chuck, blade rst, lean&fat, 1/8\"fat, choice, cooked, brsd",
+    "name": "Beef, chuck, blade rst, lean&fat, 1/8\"fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, blade rst, lean&fat, 1/8\"fat, choice, cooked, brsd\"."
   },
   "beef_chk_eye_rst_bnl_americas_bf_rst_ln_0_fat": {
-    "name": "beef, chk eye rst, boneless, america's bf rst, lean, 0\" fat, all grade, cooked",
+    "name": "Beef, chk eye rst, boneless, america's beef rst, lean, 0\" fat, all grade, cooked",
     "alternative_names": [],
-    "description": "\"beef, chk eye rst, boneless, america's bf rst, lean, 0\" fat, all grade, cooked\"."
+    "description": "\"beef, chk eye rst, boneless, america's beef rst, lean, 0\" fat, all grade, cooked\"."
   },
   "beef_chk_eye_rst_bnless_americas_bf_rst_ln_0": {
-    "name": "beef, chk eye rst, boneless, america's bf rst, lean, 0\" fat, choice, cooked",
+    "name": "Beef, chk eye rst, boneless, america's beef rst, lean, 0\" fat, choice, cooked",
     "alternative_names": [],
-    "description": "\"beef, chk eye rst, boneless, america's bf rst, lean, 0\" fat, choice, cooked\"."
+    "description": "\"beef, chk eye rst, boneless, america's beef rst, lean, 0\" fat, choice, cooked\"."
   },
   "beef_chuck_eye_rst_bnless_americas_bf_rst_ln": {
-    "name": "beef, chuck eye rst, boneless, america's bf rst, lean, 0\" fat, select, cooked",
+    "name": "Beef, chuck eye rst, boneless, america's beef rst, lean, 0\" fat, select, cooked",
     "alternative_names": [],
-    "description": "\"beef, chuck eye rst, boneless, america's bf rst, lean, 0\" fat, select, cooked\"."
+    "description": "\"beef, chuck eye rst, boneless, america's beef rst, lean, 0\" fat, select, cooked\"."
   },
   "beef_rib_whl_lnfat_18fat_choic_ckd_rstd": {
-    "name": "beef, rib, whole (ribs 6-12), lean&fat, 1/8\"fat, choice, cooked, rstd",
+    "name": "Beef, rib, whole (ribs 6-12), lean&fat, 1/8\"fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rib, whole (ribs 6-12), lean&fat, 1/8\"fat, choice, cooked, rstd\"."
   },
   "beef_rib_lrg_end_lnfat_18fat_all_grds_ckd_rst": {
-    "name": "beef, rib, lrg end (ribs 6-9), lean&fat, 1/8\"fat, all grades, cooked, rstd",
+    "name": "Beef, rib, lrg end (ribs 6-9), lean&fat, 1/8\"fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rib, lrg end (ribs 6-9), lean&fat, 1/8\"fat, all grades, cooked, rstd\"."
   },
   "beef_rib_sml_end_lnfat_18fat_all_grds_raw": {
-    "name": "beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, all grades, raw",
+    "name": "Beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, all grades, raw\"."
   },
   "beef_rib_sml_end_lnfat_18fat_all_grds_ckd_br": {
-    "name": "beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, all grades, cooked, br",
+    "name": "Beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, all grades, cooked, br",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, all grades, cooked, br\"."
   },
   "beef_rib_sml_end_lnfat_18fat_choic_raw": {
-    "name": "beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, choice, raw",
+    "name": "Beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, choice, raw\"."
   },
   "beef_rib_sml_end_lnfat_18fat_choic_ckd_brld": {
-    "name": "beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, choice, cooked, broiled",
+    "name": "Beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, choice, cooked, broiled\"."
   },
   "beef_rib_sml_end_lnfat_18fat_sel_raw": {
-    "name": "beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, select, raw",
+    "name": "Beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, select, raw\"."
   },
   "beef_rib_sml_end_lnfat_18fat_sel_ckd_brld": {
-    "name": "beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, select, cooked, broiled",
+    "name": "Beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean&fat, 1/8\"fat, select, cooked, broiled\"."
   },
   "beef_shldr_top_blde_stk_bnls_ln_fat_0_fat_sel": {
-    "name": "beef, shoulder top blde steak, bnls, lean & fat, 0\" fat, select, cooked, g",
+    "name": "Beef, shoulder top blde steak, bnls, lean & fat, 0\" fat, select, cooked, g",
     "alternative_names": [],
     "description": "\"beef, shoulder top blde steak, bnls, lean & fat, 0\" fat, select, cooked, g\"."
   },
   "beef_shldr_top_blade_steak_bnls_ln_fat_0_fat": {
-    "name": "beef, shoulder top blade steak, bnls, lean & fat, 0\" fat, all grades, raw",
+    "name": "Beef, shoulder top blade steak, bnls, lean & fat, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, shoulder top blade steak, bnls, lean & fat, 0\" fat, all grades, raw\"."
   },
   "beef_rnd_full_cut_lnfat_18fat_choic_raw": {
-    "name": "beef, rnd, full cut, lean&fat, 1/8\"fat, choice, raw",
+    "name": "Beef, rnd, full cut, lean&fat, 1/8\"fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, full cut, lean&fat, 1/8\"fat, choice, raw\"."
   },
   "beef_rnd_full_cut_lnfat_18fat_choic_ckd_brld": {
-    "name": "beef, rnd, full cut, lean&fat, 1/8\"fat, choice, cooked, broiled",
+    "name": "Beef, rnd, full cut, lean&fat, 1/8\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, full cut, lean&fat, 1/8\"fat, choice, cooked, broiled\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_fat_18_fat_all_grd": {
-    "name": "beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, all grades, raw",
+    "name": "Beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, all grades, raw\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_fat_18_fat_all_grds": {
-    "name": "beef, rnd, bttm rnd, rst, lean & fat, 1/8\" fat, all grades, cooked, rstd",
+    "name": "Beef, rnd, bttm rnd, rst, lean & fat, 1/8\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean & fat, 1/8\" fat, all grades, cooked, rstd\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_fat_18_fat_choic_r": {
-    "name": "beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, choice, raw",
+    "name": "Beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, choice, raw\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_fat_18_fat_choic_c": {
-    "name": "beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, choice, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, choice, cooked, brsd\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_fat_18_fat_choic_ckd": {
-    "name": "beef, rnd, bttm rnd, rst, lean & fat, 1/8\" fat, choice, cooked, rstd",
+    "name": "Beef, rnd, bttm rnd, rst, lean & fat, 1/8\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean & fat, 1/8\" fat, choice, cooked, rstd\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_fat_18_fat_sel_raw": {
-    "name": "beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, select, raw",
+    "name": "Beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, select, raw\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_fat_18_fat_sel_ckd": {
-    "name": "beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, select, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean & fat, 1/8\" fat, select, cooked, brsd\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_fat_18_fat_sel_ckd_r": {
-    "name": "beef, rnd, bttm rnd, rst, lean & fat, 1/8\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, bttm rnd, rst, lean & fat, 1/8\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean & fat, 1/8\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_fat_18_fat_all_grd": {
-    "name": "beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, all grades, raw",
+    "name": "Beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, all grades, raw\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_fat_18_fat_choic_r": {
-    "name": "beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, choice, raw",
+    "name": "Beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, choice, raw\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_fat_18_fat_choic_c": {
-    "name": "beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, choice, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, choice, cooked, rstd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_fat_18_fat_sel_raw": {
-    "name": "beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, select, raw",
+    "name": "Beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, select, raw\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_fat_18_fat_sel_ckd": {
-    "name": "beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean & fat, 1/8\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_tip_rnd_rst_ln_fat_18_fat_all_grds_c": {
-    "name": "beef, rnd, tip rnd, rst, lean & fat, 1/8\" fat, all grades, cooked, rstd",
+    "name": "Beef, rnd, tip rnd, rst, lean & fat, 1/8\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean & fat, 1/8\" fat, all grades, cooked, rstd\"."
   },
   "beef_rnd_tip_rnd_rst_ln_fat_18_fat_choic_ckd": {
-    "name": "beef, rnd, tip rnd, rst, lean & fat, 1/8\" fat, choice, cooked, rstd",
+    "name": "Beef, rnd, tip rnd, rst, lean & fat, 1/8\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean & fat, 1/8\" fat, choice, cooked, rstd\"."
   },
   "beef_rnd_tip_rnd_rst_ln_fat_18_fat_sel_ckd_rs": {
-    "name": "beef, rnd, tip rnd, rst, lean & fat, 1/8\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, tip rnd, rst, lean & fat, 1/8\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean & fat, 1/8\" fat, select, cooked, rstd\"."
   },
   "beef_shldr_top_blade_steak_bnless_ln_fat_0_fa": {
-    "name": "beef, shoulder top blade steak, boneless, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, shoulder top blade steak, boneless, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, shoulder top blade steak, boneless, lean & fat, 0\" fat, choice, raw\"."
   },
   "beef_rnd_top_rnd_ln_18_fat_choic_ckd_pan_frie": {
-    "name": "beef, rnd, top rnd, lean, 1/8\" fat, choice, cooked, pan-fried",
+    "name": "Beef, rnd, top rnd, lean, 1/8\" fat, choice, cooked, pan-fried",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, lean, 1/8\" fat, choice, cooked, pan-fried\"."
   },
   "beef_rnd_top_rnd_steak_ln_fat_18_fat_all_grds": {
-    "name": "beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, all grades, raw",
+    "name": "Beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, all grades, raw\"."
   },
   "beef_rnd_top_rnd_lnfat_18fat_all_grds_ckd_brs": {
-    "name": "beef, rnd, top rnd, lean&fat, 1/8\"fat, all grades, cooked, brsd",
+    "name": "Beef, rnd, top rnd, lean&fat, 1/8\"fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, lean&fat, 1/8\"fat, all grades, cooked, brsd\"."
   },
   "beef_rnd_top_rnd_steak_ln_fat_18_fat_choic_ra": {
-    "name": "beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, choice, raw",
+    "name": "Beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, choice, raw\"."
   },
   "beef_rnd_top_rnd_steak_ln_fat_18_fat_choic_ck": {
-    "name": "beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, choice, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, choice, cooked, broiled\"."
   },
   "beef_rnd_top_rnd_lnfat_18fat_choic_ckd_pan_fr": {
-    "name": "beef, rnd, top rnd, lean&fat, 1/8\"fat, choice, cooked, pan-fried",
+    "name": "Beef, rnd, top rnd, lean&fat, 1/8\"fat, choice, cooked, pan-fried",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, lean&fat, 1/8\"fat, choice, cooked, pan-fried\"."
   },
   "beef_rnd_top_rnd_steak_ln_fat_18_fat_sel_raw": {
-    "name": "beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, select, raw",
+    "name": "Beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, select, raw\"."
   },
   "beef_rnd_top_rnd_steak_ln_fat_18_fat_sel_ckd": {
-    "name": "beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, select, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean & fat, 1/8\" fat, select, cooked, broiled\"."
   },
   "beef_brisket_flat_half_bnless_ln_fat_0_fat_al": {
-    "name": "beef, brisket, flat half, boneless, lean & fat, 0\" fat, all grades, raw",
+    "name": "Beef, brisket, flat half, boneless, lean & fat, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, boneless, lean & fat, 0\" fat, all grades, raw\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_fat_18_fat_a": {
-    "name": "beef, short loin, top loin, steak, lean & fat, 1/8\" fat, all grades, raw",
+    "name": "Beef, short loin, top loin, steak, lean & fat, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean & fat, 1/8\" fat, all grades, raw\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_fat_18_fat_c": {
-    "name": "beef, short loin, top loin, steak, lean & fat, 1/8\" fat, choice, raw",
+    "name": "Beef, short loin, top loin, steak, lean & fat, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean & fat, 1/8\" fat, choice, raw\"."
   },
   "beef_shrt_loin_top_loin_stk_ln_ft_18_fat_choi": {
-    "name": "beef, short loin, top loin, steak, lean & fat, 1/8\" fat, choice, cooked, broiled",
+    "name": "Beef, short loin, top loin, steak, lean & fat, 1/8\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean & fat, 1/8\" fat, choice, cooked, broiled\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_fat_18_fat_s": {
-    "name": "beef, short loin, top loin, steak, lean & fat, 1/8\" fat, select, raw",
+    "name": "Beef, short loin, top loin, steak, lean & fat, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean & fat, 1/8\" fat, select, raw\"."
   },
   "beef_tenderloin_steak_ln_fat_18_fat_all_grds": {
-    "name": "beef, tenderloin, steak, lean & fat, 1/8\" fat, all grades, raw",
+    "name": "Beef, tenderloin, steak, lean & fat, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean & fat, 1/8\" fat, all grades, raw\"."
   },
   "beef_tenderloin_steak_ln_fat_18_fat_choic_raw": {
-    "name": "beef, tenderloin, steak, lean & fat, 1/8\" fat, choice, raw",
+    "name": "Beef, tenderloin, steak, lean & fat, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean & fat, 1/8\" fat, choice, raw\"."
   },
   "beef_tenderloin_steak_ln_fat_18_fat_choic_ckd": {
-    "name": "beef, tenderloin, steak, lean & fat, 1/8\" fat, choice, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean & fat, 1/8\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean & fat, 1/8\" fat, choice, cooked, broiled\"."
   },
   "beef_tenderloin_steak_ln_fat_18_fat_sel_raw": {
-    "name": "beef, tenderloin, steak, lean & fat, 1/8\" fat, select, raw",
+    "name": "Beef, tenderloin, steak, lean & fat, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean & fat, 1/8\" fat, select, raw\"."
   },
   "beef_tenderloin_steak_ln_fat_18_fat_sel_ckd_b": {
-    "name": "beef, tenderloin, steak, lean & fat, 1/8\" fat, select, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean & fat, 1/8\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean & fat, 1/8\" fat, select, cooked, broiled\"."
   },
   "beef_tenderloin_rst_ln_fat_18_fat_prime_ckd_r": {
-    "name": "beef, tenderloin, rst, lean & fat, 1/8\" fat, prime, cooked, rstd",
+    "name": "Beef, tenderloin, rst, lean & fat, 1/8\" fat, prime, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, tenderloin, rst, lean & fat, 1/8\" fat, prime, cooked, rstd\"."
   },
   "beef_top_sirloin_steak_ln_fat_18_fat_all_grds": {
-    "name": "beef, top sirloin, steak, lean & fat, 1/8\" fat, all grades, raw",
+    "name": "Beef, top sirloin, steak, lean & fat, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean & fat, 1/8\" fat, all grades, raw\"."
   },
   "beef_top_sirloin_steak_ln_fat_18_fat_choic_ra": {
-    "name": "beef, top sirloin, steak, lean & fat, 1/8\" fat, choice, raw",
+    "name": "Beef, top sirloin, steak, lean & fat, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean & fat, 1/8\" fat, choice, raw\"."
   },
   "beef_top_sirloin_steak_ln_fat_18_fat_choic_ck": {
-    "name": "beef, top sirloin, steak, lean & fat, 1/8\" fat, choice, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean & fat, 1/8\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean & fat, 1/8\" fat, choice, cooked, broiled\"."
   },
   "beef_top_sirloin_steak_ln_fat_18_fat_sel_raw": {
-    "name": "beef, top sirloin, steak, lean & fat, 1/8\" fat, select, raw",
+    "name": "Beef, top sirloin, steak, lean & fat, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean & fat, 1/8\" fat, select, raw\"."
   },
   "beef_top_sirloin_steak_ln_fat_18_fat_sel_ckd": {
-    "name": "beef, top sirloin, steak, lean & fat, 1/8\" fat, select, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean & fat, 1/8\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean & fat, 1/8\" fat, select, cooked, broiled\"."
   },
   "beef_shldr_steak_bnless_ln_0_fat_sel_ckd_gril": {
-    "name": "beef, shoulder steak, boneless, lean, 0\" fat, select, cooked, grilled",
+    "name": "Beef, shoulder steak, boneless, lean, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, shoulder steak, boneless, lean, 0\" fat, select, cooked, grilled\"."
   },
   "beef_flank_steak_ln_fat_0_fat_all_grds_ckd_br": {
-    "name": "beef, flank, steak, lean & fat, 0\" fat, all grades, cooked, broiled",
+    "name": "Beef, flank, steak, lean & fat, 0\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean & fat, 0\" fat, all grades, cooked, broiled\"."
   },
   "beef_flank_steak_ln_fat_0_fat_sel_ckd_brld": {
-    "name": "beef, flank, steak, lean & fat, 0\" fat, select, cooked, broiled",
+    "name": "Beef, flank, steak, lean & fat, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean & fat, 0\" fat, select, cooked, broiled\"."
   },
   "beef_brisket_flat_half_ln_fat_0_fat_sel_ckd_b": {
-    "name": "beef, brisket, flat half, lean & fat, 0\" fat, select, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean & fat, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean & fat, 0\" fat, select, cooked, brsd\"."
   },
   "beef_rib_eye_sml_end_ln_fat_0_sel_ckd_brld": {
-    "name": "beef, rib eye, sml end (ribs 10-12), lean & fat, 0\", select, cooked, broiled",
+    "name": "Beef, rib eye, sml end (ribs 10-12), lean & fat, 0\", select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rib eye, sml end (ribs 10-12), lean & fat, 0\", select, cooked, broiled\"."
   },
   "beef_ribeye_sml_end_lnfat_0_all_grds_ckd_brld": {
-    "name": "beef, ribeye, sml end(ribs 10-12), lean&fat, 0\", all grades, cooked, broiled",
+    "name": "Beef, ribeye, sml end(ribs 10-12), lean&fat, 0\", all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, ribeye, sml end(ribs 10-12), lean&fat, 0\", all grades, cooked, broiled\"."
   },
   "beef_bttm_sirloin_tri_tip_rst_ln_fat_0_fat_al": {
-    "name": "beef, bttm sirloin, tri-tip rst, lean & fat, 0\" fat, all grades, raw",
+    "name": "Beef, bttm sirloin, tri-tip rst, lean & fat, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, bttm sirloin, tri-tip rst, lean & fat, 0\" fat, all grades, raw\"."
   },
   "beef_bttm_sirloin_tri_tip_rst_ln_fat_0_fat_ch": {
-    "name": "beef, bttm sirloin, tri-tip rst, lean & fat, 0\" fat, choice, cooked, rstd",
+    "name": "Beef, bttm sirloin, tri-tip rst, lean & fat, 0\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, bttm sirloin, tri-tip rst, lean & fat, 0\" fat, choice, cooked, rstd\"."
   },
   "beef_bttm_sirloin_tri_tip_rst_ln_fat_0_fat_se": {
-    "name": "beef, bttm sirloin, tri-tip rst, lean & fat, 0\" fat, select, cooked, rstd",
+    "name": "Beef, bttm sirloin, tri-tip rst, lean & fat, 0\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, bttm sirloin, tri-tip rst, lean & fat, 0\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_top_rnd_steak_ln_fat_0_fat_all_grds": {
-    "name": "beef, rnd, top rnd, steak, lean & fat, 0\" fat, all grades, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean & fat, 0\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean & fat, 0\" fat, all grades, cooked, broiled\"."
   },
   "beef_rnd_top_rnd_steak_ln_fat_0_fat_choic_ckd": {
-    "name": "beef, rnd, top rnd, steak, lean & fat, 0\" fat, choice, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean & fat, 0\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean & fat, 0\" fat, choice, cooked, broiled\"."
   },
   "beef_rnd_top_rnd_steak_ln_fat_0_fat_sel_ckd_b": {
-    "name": "beef, rnd, top rnd, steak, lean & fat, 0\" fat, select, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean & fat, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean & fat, 0\" fat, select, cooked, broiled\"."
   },
   "beef_flank_steak_ln_fat_0_fat_all_grds_raw": {
-    "name": "beef, flank, steak, lean & fat, 0\" fat, all grades, raw",
+    "name": "Beef, flank, steak, lean & fat, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean & fat, 0\" fat, all grades, raw\"."
   },
   "beef_flank_steak_ln_fat_0_fat_sel_raw": {
-    "name": "beef, flank, steak, lean & fat, 0\" fat, select, raw",
+    "name": "Beef, flank, steak, lean & fat, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean & fat, 0\" fat, select, raw\"."
   },
   "beef_brisket_flat_half_bnless_ln_fat_0_fat_ch": {
-    "name": "beef, brisket, flat half, boneless, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, brisket, flat half, boneless, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, boneless, lean & fat, 0\" fat, choice, raw\"."
   },
   "beef_chuck_short_ribs_bnl_0_fat_choice_cked_b": {
-    "name": "beef, chuck, short ribs, boneless, 0\" fat, choice, cked, br",
+    "name": "Beef, chuck, short ribs, boneless, 0\" fat, choice, cked, br",
     "alternative_names": [],
     "description": "\"beef, chuck, short ribs, boneless, 0\" fat, choice, cked, br\"."
   },
   "beef_chuck_shrt_ribs_bnless_ln_0_fat_sel_ckd": {
-    "name": "beef, chuck, short ribs, boneless, lean, 0\" fat, select, cooked, brsd",
+    "name": "Beef, chuck, short ribs, boneless, lean, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, short ribs, boneless, lean, 0\" fat, select, cooked, brsd\"."
   },
   "beef_chuck_shrt_ribs_bnless_ln_0_fat_all_grds": {
-    "name": "beef, chuck, short ribs, boneless, lean, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, chuck, short ribs, boneless, lean, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, short ribs, boneless, lean, 0\" fat, all grades, cooked, brsd\"."
   },
   "beef_brisket_flat_half_bnless_ln_fat_0_fat_se": {
-    "name": "beef, brisket, flat half, boneless, lean & fat, 0\" fat, select, raw",
+    "name": "Beef, brisket, flat half, boneless, lean & fat, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, boneless, lean & fat, 0\" fat, select, raw\"."
   },
   "bf_loin_bttm_sirloin_butt_tri_tip_ln_0_fat_al": {
-    "name": "bf, loin, bttm sirloin butt, tri-tip, lean, 0\" fat, all grade, cooked, rstd",
+    "name": "Beef, loin, bttm sirloin butt, tri-tip, lean, 0\" fat, all grade, cooked, rstd",
     "alternative_names": [],
-    "description": "\"bf, loin, bttm sirloin butt, tri-tip, lean, 0\" fat, all grade, cooked, rstd\"."
+    "description": "\"beef, loin, bttm sirloin butt, tri-tip, lean, 0\" fat, all grade, cooked, rstd\"."
   },
   "ready_to_drink_red_fat_milk_flav_swtnd_wca_vi": {
     "name": "Ready-to-drink red fat milk, flav & sweetened, withca, vit a & vit d",
@@ -1967,9 +1967,9 @@
     "description": "Peanut butter, chunky, vitamin&mineral fort."
   },
   "refried_bns_cnd_fat_free": {
-    "name": "Refried bns, canned, fat-free",
+    "name": "Refried beans, canned, fat-free",
     "alternative_names": [],
-    "description": "Refried bns, canned, fat-free."
+    "description": "Refried beans, canned, fat-free."
   },
   "peanut_butter_chunk_style_wosalt": {
     "name": "Peanut butter, chunk style, withoutsalt",
@@ -1987,87 +1987,87 @@
     "description": "Soy flr, low-fat, crude prot basis (n x 6.25)."
   },
   "lamb_dom_comp_of_rtl_cuts_lnfat_14fat_choic_c": {
-    "name": "lamb, dom, comp of rtl cuts, lean&fat, 1/4\"fat, choice, cooked",
+    "name": "Lamb, dom, comp of rtl cuts, lean&fat, 1/4\"fat, choice, cooked",
     "alternative_names": [],
     "description": "\"lamb, dom, comp of rtl cuts, lean&fat, 1/4\"fat, choice, cooked\"."
   },
   "lamb_dom_comp_of_rtl_cuts_fat_14fat_choic_ckd": {
-    "name": "lamb, dom, comp of rtl cuts, fat, 1/4\"fat, choice, cooked",
+    "name": "Lamb, dom, comp of rtl cuts, fat, 1/4\"fat, choice, cooked",
     "alternative_names": [],
     "description": "\"lamb, dom, comp of rtl cuts, fat, 1/4\"fat, choice, cooked\"."
   },
   "lamb_dom_foreshank_lnfat_14fat_choic_ckd_brsd": {
-    "name": "lamb, dom, foreshank, lean&fat, 1/4\"fat, choice, cooked, brsd",
+    "name": "Lamb, dom, foreshank, lean&fat, 1/4\"fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"lamb, dom, foreshank, lean&fat, 1/4\"fat, choice, cooked, brsd\"."
   },
   "lamb_dom_leg_whl_lnfat_14fat_choic_ckd_rstd": {
-    "name": "lamb, dom, leg, whole (shk&sirl), lean&fat, 1/4\"fat, choice, cooked, rstd",
+    "name": "Lamb, dom, leg, whole (shk&sirl), lean&fat, 1/4\"fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"lamb, dom, leg, whole (shk&sirl), lean&fat, 1/4\"fat, choice, cooked, rstd\"."
   },
   "lamb_dom_leg_whl_ln_14fat_choic_ckd_rstd": {
-    "name": "lamb, dom, leg, whole (shk&sirl), lean, 1/4\"fat, choice, cooked, rstd",
+    "name": "Lamb, dom, leg, whole (shk&sirl), lean, 1/4\"fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"lamb, dom, leg, whole (shk&sirl), lean, 1/4\"fat, choice, cooked, rstd\"."
   },
   "lamb_dom_loin_lnfat_14fat_choic_ckd_brld": {
-    "name": "lamb, dom, loin, lean&fat, 1/4\"fat, choice, cooked, broiled",
+    "name": "Lamb, dom, loin, lean&fat, 1/4\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"lamb, dom, loin, lean&fat, 1/4\"fat, choice, cooked, broiled\"."
   },
   "lamb_dom_loin_lnfat_14fat_choic_ckd_rstd": {
-    "name": "lamb, dom, loin, lean&fat, 1/4\"fat, choice, cooked, rstd",
+    "name": "Lamb, dom, loin, lean&fat, 1/4\"fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"lamb, dom, loin, lean&fat, 1/4\"fat, choice, cooked, rstd\"."
   },
   "lamb_dom_loin_ln_14fat_choic_ckd_brld": {
-    "name": "lamb, dom, loin, lean, 1/4\"fat, choice, cooked, broiled",
+    "name": "Lamb, dom, loin, lean, 1/4\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"lamb, dom, loin, lean, 1/4\"fat, choice, cooked, broiled\"."
   },
   "lamb_dom_rib_lnfat_14fat_choic_ckd_brld": {
-    "name": "lamb, dom, rib, lean&fat, 1/4\"fat, choice, cooked, broiled",
+    "name": "Lamb, dom, rib, lean&fat, 1/4\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"lamb, dom, rib, lean&fat, 1/4\"fat, choice, cooked, broiled\"."
   },
   "lamb_dom_rib_ln_14fat_choic_ckd_brld": {
-    "name": "lamb, dom, rib, lean, 1/4\"fat, choice, cooked, broiled",
+    "name": "Lamb, dom, rib, lean, 1/4\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"lamb, dom, rib, lean, 1/4\"fat, choice, cooked, broiled\"."
   },
   "lamb_dom_shldr_whl_lnfat_14fat_choic_raw": {
-    "name": "lamb, dom, shoulder, whole (arm&boiled), lean&fat, 1/4\"fat, choice, raw",
+    "name": "Lamb, dom, shoulder, whole (arm&boiled), lean&fat, 1/4\"fat, choice, raw",
     "alternative_names": [],
     "description": "\"lamb, dom, shoulder, whole (arm&boiled), lean&fat, 1/4\"fat, choice, raw\"."
   },
   "lamb_dom_shldr_whl_lnfat_14fat_choic_ckd_rstd": {
-    "name": "lamb, dom, shoulder, whole (arm&boiled), lean&fat, 1/4\"fat, choice, cooked, rstd",
+    "name": "Lamb, dom, shoulder, whole (arm&boiled), lean&fat, 1/4\"fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"lamb, dom, shoulder, whole (arm&boiled), lean&fat, 1/4\"fat, choice, cooked, rstd\"."
   },
   "lamb_dom_shldr_whl_ln_14fat_choic_raw": {
-    "name": "lamb, dom, shoulder, whole (arm&boiled), lean, 1/4\"fat, choice, raw",
+    "name": "Lamb, dom, shoulder, whole (arm&boiled), lean, 1/4\"fat, choice, raw",
     "alternative_names": [],
     "description": "\"lamb, dom, shoulder, whole (arm&boiled), lean, 1/4\"fat, choice, raw\"."
   },
   "lamb_dom_shldr_whl_ln_14fat_choic_ckd_brld": {
-    "name": "lamb, dom, shoulder, whole (arm&boiled), lean, 1/4\"fat, choice, cooked, broiled",
+    "name": "Lamb, dom, shoulder, whole (arm&boiled), lean, 1/4\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"lamb, dom, shoulder, whole (arm&boiled), lean, 1/4\"fat, choice, cooked, broiled\"."
   },
   "lamb_dom_shldr_whl_ln_14fat_choic_ckd_rstd": {
-    "name": "lamb, dom, shoulder, whole (arm&boiled), lean, 1/4\"fat, choice, cooked, rstd",
+    "name": "Lamb, dom, shoulder, whole (arm&boiled), lean, 1/4\"fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"lamb, dom, shoulder, whole (arm&boiled), lean, 1/4\"fat, choice, cooked, rstd\"."
   },
   "lamb_dom_shldr_blade_lnfat_14fat_choic_ckd_br": {
-    "name": "lamb, dom, shoulder, blade, lean&fat, 1/4\"fat, choice, cooked, broiled",
+    "name": "Lamb, dom, shoulder, blade, lean&fat, 1/4\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"lamb, dom, shoulder, blade, lean&fat, 1/4\"fat, choice, cooked, broiled\"."
   },
   "lamb_dom_cubed_for_stew_ln_14fat_ckd_brsd": {
-    "name": "lamb, dom, cubed for stew (leg&shoulder), lean, 1/4\"fat, cooked, brsd",
+    "name": "Lamb, dom, cubed for stew (leg&shoulder), lean, 1/4\"fat, cooked, brsd",
     "alternative_names": [],
     "description": "\"lamb, dom, cubed for stew (leg&shoulder), lean, 1/4\"fat, cooked, brsd\"."
   },
@@ -2227,14 +2227,14 @@
     "description": "Frostings, chocolate, creamy, dry mix, prep with/ butter."
   },
   "cocoa_dry_pdr_hi_fat_or_brkfst_pln": {
-    "name": "Cocoa, dry powder, hi-fat or brkfst, pln",
+    "name": "Cocoa, dry powder, hi-fat or breakfast, pln",
     "alternative_names": [],
-    "description": "Cocoa, dry powder, hi-fat or brkfst, pln."
+    "description": "Cocoa, dry powder, hi-fat or breakfast, pln."
   },
   "cocoa_dry_pdr_hi_fat_or_brkfst_proc_walkali": {
-    "name": "Cocoa, dry powder, hi-fat or brkfst, proc withalkali",
+    "name": "Cocoa, dry powder, hi-fat or breakfast, proc withalkali",
     "alternative_names": [],
-    "description": "Cocoa, dry powder, hi-fat or brkfst, proc withalkali."
+    "description": "Cocoa, dry powder, hi-fat or breakfast, proc withalkali."
   },
   "fst_foods_potato_frnch_fried_in_veg_oil": {
     "name": "Fst foods, potato, frnch fried in vegetable oil",
@@ -2247,182 +2247,182 @@
     "description": "Mac & chs, dry mix, prep with/ 2% milk & 80% steak margarine dry mx."
   },
   "beef_shldr_pot_rst_or_stk_bnls_ln_fat_0_fat_a": {
-    "name": "beef, shoulder pot rst or steak, bnls, lean & fat, 0\" fat, all grades, r",
+    "name": "Beef, shoulder pot rst or steak, bnls, lean & fat, 0\" fat, all grades, r",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst or steak, bnls, lean & fat, 0\" fat, all grades, r\"."
   },
   "beef_rnd_knuckle_tip_side_steak_ln_fat_0_fat": {
-    "name": "beef, rnd, knuckle, tip side, steak, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, rnd, knuckle, tip side, steak, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, knuckle, tip side, steak, lean & fat, 0\" fat, choice, raw\"."
   },
   "bf_chk_clod_shldr_tender_medallion_ln_fat_0_f": {
-    "name": "bf, chk, clod, shoulder tender, medallion, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, chk, clod, shoulder tender, medallion, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
-    "description": "\"bf, chk, clod, shoulder tender, medallion, lean & fat, 0\" fat, choice, raw\"."
+    "description": "\"beef, chk, clod, shoulder tender, medallion, lean & fat, 0\" fat, choice, raw\"."
   },
   "bf_chk_clod_shdr_tndr_med_ln_fat_0_fat_ch_ckd": {
-    "name": "bf, chk, clod, shdr tndr, med, lean & fat, 0\" fat, ch, cooked, grilled",
+    "name": "Beef, chk, clod, shdr tndr, med, lean & fat, 0\" fat, ch, cooked, grilled",
     "alternative_names": [],
-    "description": "\"bf, chk, clod, shdr tndr, med, lean & fat, 0\" fat, ch, cooked, grilled\"."
+    "description": "\"beef, chk, clod, shdr tndr, med, lean & fat, 0\" fat, ch, cooked, grilled\"."
   },
   "beef_chuck_shldr_clod_top_cntr_stk_ln_fat_0_f": {
-    "name": "beef, chuck, shoulder clod, top & center , steak, lean & fat, 0\" fat, ch, raw",
+    "name": "Beef, chuck, shoulder clod, top & center , steak, lean & fat, 0\" fat, ch, raw",
     "alternative_names": [],
     "description": "\"beef, chuck, shoulder clod, top & center , steak, lean & fat, 0\" fat, ch, raw\"."
   },
   "bf_chk_shldr_clod_top_cntr_stk_ln_fat_0_fat_c": {
-    "name": "bf, chk, shoulder clod, top & center, steak, lean & fat, 0\" fat, ch, cooked, grilled",
+    "name": "Beef, chk, shoulder clod, top & center, steak, lean & fat, 0\" fat, ch, cooked, grilled",
     "alternative_names": [],
-    "description": "\"bf, chk, shoulder clod, top & center, steak, lean & fat, 0\" fat, ch, cooked, grilled\"."
+    "description": "\"beef, chk, shoulder clod, top & center, steak, lean & fat, 0\" fat, ch, cooked, grilled\"."
   },
   "bf_chuck_shldr_clod_top_cntr_stk_ln_fat_0_fat": {
-    "name": "bf, chuck, shoulder clod, top & center, steak, lean & fat, 0\" fat, select, raw",
+    "name": "Beef, chuck, shoulder clod, top & center, steak, lean & fat, 0\" fat, select, raw",
     "alternative_names": [],
-    "description": "\"bf, chuck, shoulder clod, top & center, steak, lean & fat, 0\" fat, select, raw\"."
+    "description": "\"beef, chuck, shoulder clod, top & center, steak, lean & fat, 0\" fat, select, raw\"."
   },
   "bf_chk_clod_top_cntr_stk_ln_fat_0_fat_sel_ckd": {
-    "name": "bf, chk, clod, top & center, steak, lean & fat, 0\" fat, select, cooked, grilled",
+    "name": "Beef, chk, clod, top & center, steak, lean & fat, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
-    "description": "\"bf, chk, clod, top & center, steak, lean & fat, 0\" fat, select, cooked, grilled\"."
+    "description": "\"beef, chk, clod, top & center, steak, lean & fat, 0\" fat, select, cooked, grilled\"."
   },
   "bf_chk_shldr_clod_top_blade_steak_ln_fat_0_fa": {
-    "name": "bf, chk, shoulder clod, top blade, steak, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, chk, shoulder clod, top blade, steak, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
-    "description": "\"bf, chk, shoulder clod, top blade, steak, lean & fat, 0\" fat, choice, raw\"."
+    "description": "\"beef, chk, shoulder clod, top blade, steak, lean & fat, 0\" fat, choice, raw\"."
   },
   "bf_chk_clod_top_blade_steak_ln_fat_0_fat_ch_c": {
-    "name": "bf, chk, clod, top blade, steak, lean & fat, 0\" fat, ch, cooked, grilled",
+    "name": "Beef, chk, clod, top blade, steak, lean & fat, 0\" fat, ch, cooked, grilled",
     "alternative_names": [],
-    "description": "\"bf, chk, clod, top blade, steak, lean & fat, 0\" fat, ch, cooked, grilled\"."
+    "description": "\"beef, chk, clod, top blade, steak, lean & fat, 0\" fat, ch, cooked, grilled\"."
   },
   "bf_chuck_shldr_clod_top_blade_steak_ln_fat_0": {
-    "name": "bf, chuck, shoulder clod, top blade, steak, lean & fat, 0\" fat, select, raw",
+    "name": "Beef, chuck, shoulder clod, top blade, steak, lean & fat, 0\" fat, select, raw",
     "alternative_names": [],
-    "description": "\"bf, chuck, shoulder clod, top blade, steak, lean & fat, 0\" fat, select, raw\"."
+    "description": "\"beef, chuck, shoulder clod, top blade, steak, lean & fat, 0\" fat, select, raw\"."
   },
   "bf_chk_clod_top_blade_steak_ln_fat_0_fat_sel": {
-    "name": "bf, chk, clod, top blade, steak, lean & fat, 0\" fat, select, cooked, grilled",
+    "name": "Beef, chk, clod, top blade, steak, lean & fat, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
-    "description": "\"bf, chk, clod, top blade, steak, lean & fat, 0\" fat, select, cooked, grilled\"."
+    "description": "\"beef, chk, clod, top blade, steak, lean & fat, 0\" fat, select, cooked, grilled\"."
   },
   "bf_rnd_knuckle_tip_cntr_stk_ln_fat_0_fat_choi": {
-    "name": "bf, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, choice, cooked, grilled",
+    "name": "Beef, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, choice, cooked, grilled",
     "alternative_names": [],
-    "description": "\"bf, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, choice, cooked, grilled\"."
+    "description": "\"beef, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, choice, cooked, grilled\"."
   },
   "bf_rnd_knuckle_tip_cntr_steak_ln_fat_0_fat_se": {
-    "name": "bf, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, se, cooked, grilled",
+    "name": "Beef, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, se, cooked, grilled",
     "alternative_names": [],
-    "description": "\"bf, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, se, cooked, grilled\"."
+    "description": "\"beef, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, se, cooked, grilled\"."
   },
   "bf_chk_cld_shldr_tndr_medallion_ln_fat_0_fat": {
-    "name": "bf, chk, cld, shoulder tndr, medallion, lean & fat, 0\" fat, all grades, raw",
+    "name": "Beef, chk, cld, shoulder tndr, medallion, lean & fat, 0\" fat, all grades, raw",
     "alternative_names": [],
-    "description": "\"bf, chk, cld, shoulder tndr, medallion, lean & fat, 0\" fat, all grades, raw\"."
+    "description": "\"beef, chk, cld, shoulder tndr, medallion, lean & fat, 0\" fat, all grades, raw\"."
   },
   "bf_chk_cld_shdr_tndr_med_ln_fat_0_fat_all_grd": {
-    "name": "bf, chk, cld, shdr tndr, med, lean & fat, 0\" fat, all grades, ck, grilled",
+    "name": "Beef, chk, cld, shdr tndr, med, lean & fat, 0\" fat, all grades, ck, grilled",
     "alternative_names": [],
-    "description": "\"bf, chk, cld, shdr tndr, med, lean & fat, 0\" fat, all grades, ck, grilled\"."
+    "description": "\"beef, chk, cld, shdr tndr, med, lean & fat, 0\" fat, all grades, ck, grilled\"."
   },
   "bf_chuck_clod_top_cntr_steak_ln_fat_0_fat_all": {
-    "name": "bf, chuck, clod, top & center, steak, lean & fat, 0\" fat, all grades, raw",
+    "name": "Beef, chuck, clod, top & center, steak, lean & fat, 0\" fat, all grades, raw",
     "alternative_names": [],
-    "description": "\"bf, chuck, clod, top & center, steak, lean & fat, 0\" fat, all grades, raw\"."
+    "description": "\"beef, chuck, clod, top & center, steak, lean & fat, 0\" fat, all grades, raw\"."
   },
   "beef_chuck_clod_top_blade_steak_ln_fat_0_fat": {
-    "name": "beef, chuck, clod, top blade, steak, lean & fat, 0\" fat, all grades, raw",
+    "name": "Beef, chuck, clod, top blade, steak, lean & fat, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, chuck, clod, top blade, steak, lean & fat, 0\" fat, all grades, raw\"."
   },
   "bf_chuck_clod_top_blade_stk_ln_fat_0_fat_all": {
-    "name": "bf, chuck, clod, top blade, steak, lean & fat, 0\" fat, all, cooked, grilled",
+    "name": "Beef, chuck, clod, top blade, steak, lean & fat, 0\" fat, all, cooked, grilled",
     "alternative_names": [],
-    "description": "\"bf, chuck, clod, top blade, steak, lean & fat, 0\" fat, all, cooked, grilled\"."
+    "description": "\"beef, chuck, clod, top blade, steak, lean & fat, 0\" fat, all, cooked, grilled\"."
   },
   "bf_rnd_knuckle_tip_cntr_stk_ln_fat_0_fat_all": {
-    "name": "bf, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, all, cooked, grilled",
+    "name": "Beef, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, all, cooked, grilled",
     "alternative_names": [],
-    "description": "\"bf, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, all, cooked, grilled\"."
+    "description": "\"beef, rnd, knuckle, tip center, steak, lean & fat, 0\" fat, all, cooked, grilled\"."
   },
   "bf_chk_clod_shldr_tender_med_ln_fat_0_fat_se": {
-    "name": "bf, chk, clod, shoulder tender, med, lean & fat, 0\" fat, se, cooked, grilled",
+    "name": "Beef, chk, clod, shoulder tender, med, lean & fat, 0\" fat, se, cooked, grilled",
     "alternative_names": [],
-    "description": "\"bf, chk, clod, shoulder tender, med, lean & fat, 0\" fat, se, cooked, grilled\"."
+    "description": "\"beef, chk, clod, shoulder tender, med, lean & fat, 0\" fat, se, cooked, grilled\"."
   },
   "beef_chuck_shrt_ribs_bnless_ln_0_fat_choic_ra": {
-    "name": "beef, chuck, short ribs, boneless, lean, 0\" fat, choice, raw",
+    "name": "Beef, chuck, short ribs, boneless, lean, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, chuck, short ribs, boneless, lean, 0\" fat, choice, raw\"."
   },
   "beef_chuck_shrt_ribs_bnless_ln_0_fat_sel_raw": {
-    "name": "beef, chuck, short ribs, boneless, lean, 0\" fat, select, raw",
+    "name": "Beef, chuck, short ribs, boneless, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, chuck, short ribs, boneless, lean, 0\" fat, select, raw\"."
   },
   "beef_chuck_eye_country_style_ribs_bnless_ln_0": {
-    "name": "beef, chuck eye country-style ribs, boneless, lean, 0\" fat, choice, cooked",
+    "name": "Beef, chuck eye country-style ribs, boneless, lean, 0\" fat, choice, cooked",
     "alternative_names": [],
     "description": "\"beef, chuck eye country-style ribs, boneless, lean, 0\" fat, choice, cooked\"."
   },
   "bf_chk_eye_cntry_stl_ribs_bnls_ln_0_fat_all_g": {
-    "name": "bf, chk eye cntry-stl ribs, bnls, lean, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, chk eye cntry-stl ribs, bnls, lean, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
-    "description": "\"bf, chk eye cntry-stl ribs, bnls, lean, 0\" fat, all grades, cooked, brsd\"."
+    "description": "\"beef, chk eye cntry-stl ribs, bnls, lean, 0\" fat, all grades, cooked, brsd\"."
   },
   "beef_chk_eye_country_style_ribs_bnls_ln_0_fat": {
-    "name": "beef, chk eye country-style ribs, bnls, lean, 0\" fat, all grades, raw",
+    "name": "Beef, chk eye country-style ribs, bnls, lean, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, chk eye country-style ribs, bnls, lean, 0\" fat, all grades, raw\"."
   },
   "beef_chuck_eye_steak_bnless_ln_0_fat_choic_ck": {
-    "name": "beef, chuck eye steak, boneless, lean, 0\" fat, choice, cooked, grilled",
+    "name": "Beef, chuck eye steak, boneless, lean, 0\" fat, choice, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, chuck eye steak, boneless, lean, 0\" fat, choice, cooked, grilled\"."
   },
   "beef_chuck_eye_steak_bnless_ln_0_fat_sel_ckd": {
-    "name": "beef, chuck eye steak, boneless, lean, 0\" fat, select, cooked, grilled",
+    "name": "Beef, chuck eye steak, boneless, lean, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, chuck eye steak, boneless, lean, 0\" fat, select, cooked, grilled\"."
   },
   "beef_chuck_eye_steak_bnless_ln_0_fat_all_grds": {
-    "name": "beef, chuck eye steak, boneless, lean, 0\" fat, all grades, cooked, grilled",
+    "name": "Beef, chuck eye steak, boneless, lean, 0\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, chuck eye steak, boneless, lean, 0\" fat, all grades, cooked, grilled\"."
   },
   "beef_chuck_eye_steak_bnless_ln_0_fat_choic_ra": {
-    "name": "beef, chuck eye steak, boneless, lean, 0\" fat, choice, raw",
+    "name": "Beef, chuck eye steak, boneless, lean, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, chuck eye steak, boneless, lean, 0\" fat, choice, raw\"."
   },
   "beef_chuck_eye_steak_bnless_ln_0_fat_sel_raw": {
-    "name": "beef, chuck eye steak, boneless, lean, 0\" fat, select, raw",
+    "name": "Beef, chuck eye steak, boneless, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, chuck eye steak, boneless, lean, 0\" fat, select, raw\"."
   },
   "beef_shldr_pot_rst_bnless_ln_0_fat_choic_ckd": {
-    "name": "beef, shoulder pot rst, boneless, lean, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, shoulder pot rst, boneless, lean, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst, boneless, lean, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_shldr_pot_rst_bnless_ln_0_fat_sel_ckd_br": {
-    "name": "beef, shoulder pot rst, boneless, lean, 0\" fat, select, cooked, brsd",
+    "name": "Beef, shoulder pot rst, boneless, lean, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst, boneless, lean, 0\" fat, select, cooked, brsd\"."
   },
   "beef_shldr_pot_rst_bnless_ln_0_fat_all_grds_c": {
-    "name": "beef, shoulder pot rst, boneless, lean, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, shoulder pot rst, boneless, lean, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst, boneless, lean, 0\" fat, all grades, cooked, brsd\"."
   },
   "beef_chuck_mock_tender_steak_bnless_ln_0_fat": {
-    "name": "beef, chuck, mock tender steak, boneless, lean, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, chuck, mock tender steak, boneless, lean, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, mock tender steak, boneless, lean, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_chk_mock_tender_stk_bnls_ln_0_fat_all_gr": {
-    "name": "beef, chk, mock tender steak, bnls, lean, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, chk, mock tender steak, bnls, lean, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chk, mock tender steak, bnls, lean, 0\" fat, all grades, cooked, brsd\"."
   },
@@ -2457,37 +2457,37 @@
     "description": "Beef, chuck for stew, lean & fat, choice, raw."
   },
   "beef_chuck_under_blade_steak_bnless_ln_0_fat": {
-    "name": "beef, chuck, under blade steak, boneless, lean, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, chuck, under blade steak, boneless, lean, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, under blade steak, boneless, lean, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_chuck_und_bl_steak_bnls_ln_0_fat_all_grd": {
-    "name": "beef, chuck, und bl steak, bnls, lean, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, chuck, und bl steak, bnls, lean, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, und bl steak, bnls, lean, 0\" fat, all grades, cooked, brsd\"."
   },
   "beef_chk_und_bld_pot_rst_bnl_ln_fat_0_fat_all": {
-    "name": "beef, chk, und boiled, pot rst, boneless, lean & fat, 0\" fat, all gr, cooked, br",
+    "name": "Beef, chk, und boiled, pot rst, boneless, lean & fat, 0\" fat, all gr, cooked, br",
     "alternative_names": [],
     "description": "\"beef, chk, und boiled, pot rst, boneless, lean & fat, 0\" fat, all gr, cooked, br\"."
   },
   "beef_rib_eye_stk_bnles_lip_on_ln_18_fat_all_g": {
-    "name": "beef, rib eye steak, bnles, lip-on, lean, 1/8\" fat, all grades, cooked, grilled",
+    "name": "Beef, rib eye steak, bnles, lip-on, lean, 1/8\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bnles, lip-on, lean, 1/8\" fat, all grades, cooked, grilled\"."
   },
   "beef_rib_eye_rst_bone_in_lip_on_ln_18_fat_cho": {
-    "name": "beef, rib eye rst, bone-in, lip-on, lean, 1/8\" fat, choice, cooked, rstd",
+    "name": "Beef, rib eye rst, bone-in, lip-on, lean, 1/8\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rib eye rst, bone-in, lip-on, lean, 1/8\" fat, choice, cooked, rstd\"."
   },
   "beef_chk_und_bl_pot_rst_or_stk_bnl_ln_fat_0_f": {
-    "name": "beef, chk, und bl pot rst or steak, boneless, lean & fat, 0\" fat, ch, raw",
+    "name": "Beef, chk, und bl pot rst or steak, boneless, lean & fat, 0\" fat, ch, raw",
     "alternative_names": [],
     "description": "\"beef, chk, und bl pot rst or steak, boneless, lean & fat, 0\" fat, ch, raw\"."
   },
   "beef_chk_und_bl_pot_rststeak_bnl_ln_fat_0_fat": {
-    "name": "beef, chk, und bl pot rst/steak, boneless, lean & fat, 0\" fat, select, raw",
+    "name": "Beef, chk, und bl pot rst/steak, boneless, lean & fat, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, chk, und bl pot rst/steak, boneless, lean & fat, 0\" fat, select, raw\"."
   },
@@ -2497,347 +2497,347 @@
     "description": "Beef, chk, und bl center steak, boneless, den cut, lean & fat, all gr, cooked."
   },
   "beef_chk_undbl_cntr_stk_bnl_den_ct_lnfat_0_ft": {
-    "name": "beef, chk, undbl center steak, boneless, den ct, lean&fat, 0\" fat, select, cooked, grilled",
+    "name": "Beef, chk, undbl center steak, boneless, den ct, lean&fat, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, chk, undbl center steak, boneless, den ct, lean&fat, 0\" fat, select, cooked, grilled\"."
   },
   "beef_chk_undble_cntr_stk_bnl_denr_cut_ln_fat": {
-    "name": "beef, chk, undble center steak, boneless, denr cut, lean & fat, 0\"fat, ch, rw",
+    "name": "Beef, chk, undble center steak, boneless, denr cut, lean & fat, 0\"fat, ch, rw",
     "alternative_names": [],
     "description": "\"beef, chk, undble center steak, boneless, denr cut, lean & fat, 0\"fat, ch, rw\"."
   },
   "beef_shldr_pot_rst_or_steak_bnless_ln_fat_0_f": {
-    "name": "beef, shoulder pot rst or steak, boneless, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, shoulder pot rst or steak, boneless, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst or steak, boneless, lean & fat, 0\" fat, choice, raw\"."
   },
   "beef_chk_eye_rst_bnls_a_bf_rst_ln_fat_0_all_g": {
-    "name": "beef, chk eye rst, bnls, a bf rst, lean & fat, 0\", all grade, cooked, rstd",
+    "name": "Beef, chk eye rst, bnls, a beef rst, lean & fat, 0\", all grade, cooked, rstd",
     "alternative_names": [],
-    "description": "\"beef, chk eye rst, bnls, a bf rst, lean & fat, 0\", all grade, cooked, rstd\"."
+    "description": "\"beef, chk eye rst, bnls, a beef rst, lean & fat, 0\", all grade, cooked, rstd\"."
   },
   "beef_chk_eye_rst_bnls_a_bf_rst_ln_fat_0_ch_ck": {
-    "name": "beef, chk eye rst, bnls, a bf rst, lean & fat, 0\", ch, cooked, rstd",
+    "name": "Beef, chk eye rst, bnls, a beef rst, lean & fat, 0\", ch, cooked, rstd",
     "alternative_names": [],
-    "description": "\"beef, chk eye rst, bnls, a bf rst, lean & fat, 0\", ch, cooked, rstd\"."
+    "description": "\"beef, chk eye rst, bnls, a beef rst, lean & fat, 0\", ch, cooked, rstd\"."
   },
   "beef_chck_eye_rst_bnls_a_bf_rst_ln_fat_0_sel": {
-    "name": "beef, chck eye rst, bnls, a bf rst, lean & fat, 0\", select, c, rstd",
+    "name": "Beef, chck eye rst, bnls, a beef rst, lean & fat, 0\", select, c, rstd",
     "alternative_names": [],
-    "description": "\"beef, chck eye rst, bnls, a bf rst, lean & fat, 0\", select, c, rstd\"."
+    "description": "\"beef, chck eye rst, bnls, a beef rst, lean & fat, 0\", select, c, rstd\"."
   },
   "beef_chuck_under_blade_steak_bnless_ln_fat_0": {
-    "name": "beef, chuck, under blade steak, boneless, lean & fat, 0\" fat, all grades",
+    "name": "Beef, chuck, under blade steak, boneless, lean & fat, 0\" fat, all grades",
     "alternative_names": [],
     "description": "\"beef, chuck, under blade steak, boneless, lean & fat, 0\" fat, all grades\"."
   },
   "beef_chk_mock_tndr_stk_bnl_ln_fat_0_fat_all_g": {
-    "name": "beef, chk, mock tndr steak, boneless, lean & fat, 0\" fat, all grades, cooked",
+    "name": "Beef, chk, mock tndr steak, boneless, lean & fat, 0\" fat, all grades, cooked",
     "alternative_names": [],
     "description": "\"beef, chk, mock tndr steak, boneless, lean & fat, 0\" fat, all grades, cooked\"."
   },
   "beef_chuck_mock_tender_steak_bnless_ln_fat_0": {
-    "name": "beef, chuck, mock tender steak, boneless, lean & fat, 0\" fat, choice, ck",
+    "name": "Beef, chuck, mock tender steak, boneless, lean & fat, 0\" fat, choice, ck",
     "alternative_names": [],
     "description": "\"beef, chuck, mock tender steak, boneless, lean & fat, 0\" fat, choice, ck\"."
   },
   "beef_chk_mock_ten_stk_bnl_ln_fat_0_fat_all_gr": {
-    "name": "beef, chk, mock ten steak, boneless, lean & fat, 0\" fat, all grades, cooked",
+    "name": "Beef, chk, mock ten steak, boneless, lean & fat, 0\" fat, all grades, cooked",
     "alternative_names": [],
     "description": "\"beef, chk, mock ten steak, boneless, lean & fat, 0\" fat, all grades, cooked\"."
   },
   "beef_chk_mock_tender_steak_bnless_ln_fat_0_fa": {
-    "name": "beef, chk, mock tender steak, boneless, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, chk, mock tender steak, boneless, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, chk, mock tender steak, boneless, lean & fat, 0\" fat, choice, raw\"."
   },
   "beef_chuck_shrt_ribs_bnless_ln_fat_0_fat_all": {
-    "name": "beef, chuck, short ribs, boneless, lean & fat, 0\" fat, all grades, cooked, brs",
+    "name": "Beef, chuck, short ribs, boneless, lean & fat, 0\" fat, all grades, cooked, brs",
     "alternative_names": [],
     "description": "\"beef, chuck, short ribs, boneless, lean & fat, 0\" fat, all grades, cooked, brs\"."
   },
   "beef_chuck_shrt_ribs_bnless_ln_fat_0_fat_choi": {
-    "name": "beef, chuck, short ribs, boneless, lean & fat, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, chuck, short ribs, boneless, lean & fat, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, short ribs, boneless, lean & fat, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_chuck_shrt_ribs_bnless_ln_fat_0_fat_sel": {
-    "name": "beef, chuck, short ribs, boneless, lean & fat, 0\" fat, select, cooked, brsd",
+    "name": "Beef, chuck, short ribs, boneless, lean & fat, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, short ribs, boneless, lean & fat, 0\" fat, select, cooked, brsd\"."
   },
   "beef_shldr_pot_rst_bnless_ln_fat_0_fat_all_gr": {
-    "name": "beef, shoulder pot rst, boneless, lean & fat, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, shoulder pot rst, boneless, lean & fat, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst, boneless, lean & fat, 0\" fat, all grades, cooked, brsd\"."
   },
   "beef_shldr_pot_rst_bnless_ln_fat_0_fat_choic": {
-    "name": "beef, shoulder pot rst, boneless, lean & fat, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, shoulder pot rst, boneless, lean & fat, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst, boneless, lean & fat, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_shldr_pot_rst_bnless_ln_fat_0_fat_sel_ck": {
-    "name": "beef, shoulder pot rst, boneless, lean & fat, 0\" fat, select, cooked, brsd",
+    "name": "Beef, shoulder pot rst, boneless, lean & fat, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, shoulder pot rst, boneless, lean & fat, 0\" fat, select, cooked, brsd\"."
   },
   "beef_chk_eye_ctry_style_ribs_bnl_ln_fat_0_fat": {
-    "name": "beef, chk eye ctry-style ribs, boneless, lean & fat, 0\" fat, all gr, cooked",
+    "name": "Beef, chk eye ctry-style ribs, boneless, lean & fat, 0\" fat, all gr, cooked",
     "alternative_names": [],
     "description": "\"beef, chk eye ctry-style ribs, boneless, lean & fat, 0\" fat, all gr, cooked\"."
   },
   "beef_chk_eye_cntry_styl_ribs_bnl_ln_fat_0_fat": {
-    "name": "beef, chk eye cntry-styl ribs, boneless, lean & fat, 0\" fat, choice, cooked",
+    "name": "Beef, chk eye cntry-styl ribs, boneless, lean & fat, 0\" fat, choice, cooked",
     "alternative_names": [],
     "description": "\"beef, chk eye cntry-styl ribs, boneless, lean & fat, 0\" fat, choice, cooked\"."
   },
   "beef_chk_eye_cntry_style_ribs_bnl_ln_fat_0_fa": {
-    "name": "beef, chk eye cntry-style ribs, boneless, lean & fat, 0\" fat, select, cooked",
+    "name": "Beef, chk eye cntry-style ribs, boneless, lean & fat, 0\" fat, select, cooked",
     "alternative_names": [],
     "description": "\"beef, chk eye cntry-style ribs, boneless, lean & fat, 0\" fat, select, cooked\"."
   },
   "beef_chuck_eye_steak_bnless_ln_fat_0_fat_all": {
-    "name": "beef, chuck eye steak, boneless, lean & fat, 0\" fat, all grades, cooked, gr",
+    "name": "Beef, chuck eye steak, boneless, lean & fat, 0\" fat, all grades, cooked, gr",
     "alternative_names": [],
     "description": "\"beef, chuck eye steak, boneless, lean & fat, 0\" fat, all grades, cooked, gr\"."
   },
   "beef_chk_eye_steak_bnless_ln_fat_0_fat_choic": {
-    "name": "beef, chk eye steak, boneless, lean & fat, 0\" fat, choice, cooked, grilled",
+    "name": "Beef, chk eye steak, boneless, lean & fat, 0\" fat, choice, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, chk eye steak, boneless, lean & fat, 0\" fat, choice, cooked, grilled\"."
   },
   "beef_chuck_eye_steak_bnless_ln_fat_0_fat_sel": {
-    "name": "beef, chuck eye steak, boneless, lean & fat, 0\" fat, select, cooked, grilled",
+    "name": "Beef, chuck eye steak, boneless, lean & fat, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, chuck eye steak, boneless, lean & fat, 0\" fat, select, cooked, grilled\"."
   },
   "beef_chuck_eye_steak_bnless_ln_fat_0_fat_choi": {
-    "name": "beef, chuck eye steak, boneless, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, chuck eye steak, boneless, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, chuck eye steak, boneless, lean & fat, 0\" fat, choice, raw\"."
   },
   "beef_rib_eye_rst_bone_in_lip_on_ln_18_fat_sel": {
-    "name": "beef, rib eye rst, bone-in, lip-on, lean, 1/8\" fat, select, cooked, rstd",
+    "name": "Beef, rib eye rst, bone-in, lip-on, lean, 1/8\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rib eye rst, bone-in, lip-on, lean, 1/8\" fat, select, cooked, rstd\"."
   },
   "beef_rib_eye_steak_bnles_lip_on_ln_18_fat_cho": {
-    "name": "beef, rib eye steak, bnles, lip-on, lean, 1/8\" fat, choice, cooked, grild",
+    "name": "Beef, rib eye steak, bnles, lip-on, lean, 1/8\" fat, choice, cooked, grild",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bnles, lip-on, lean, 1/8\" fat, choice, cooked, grild\"."
   },
   "beef_rib_eye_steak_bnless_lip_on_ln_18_fat_se": {
-    "name": "beef, rib eye steak, boneless, lip-on, lean, 1/8\" fat, select, cooked, grilled",
+    "name": "Beef, rib eye steak, boneless, lip-on, lean, 1/8\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, boneless, lip-on, lean, 1/8\" fat, select, cooked, grilled\"."
   },
   "beef_rib_eye_stkrst_bone_in_lip_on_ln_18_fat": {
-    "name": "beef, rib eye steak/rst, bone-in, lip-on, lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, rib eye steak/rst, bone-in, lip-on, lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rib eye steak/rst, bone-in, lip-on, lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_rib_eye_steakrst_bone_in_lip_on_ln_18_fa": {
-    "name": "beef, rib eye steak/rst, bone-in, lip-on, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, rib eye steak/rst, bone-in, lip-on, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rib eye steak/rst, bone-in, lip-on, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_rib_eye_steakroast_bone_in_lip_on_ln_18": {
-    "name": "beef, rib eye steak/roast, bone-in, lip-on, lean, 1/8\" fat, select, raw",
+    "name": "Beef, rib eye steak/roast, bone-in, lip-on, lean, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rib eye steak/roast, bone-in, lip-on, lean, 1/8\" fat, select, raw\"."
   },
   "beef_rib_eye_stkrst_bnless_lip_on_ln_18_fat_a": {
-    "name": "beef, rib eye steak/rst, boneless, lip-on, lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, rib eye steak/rst, boneless, lip-on, lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rib eye steak/rst, boneless, lip-on, lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_rib_eye_steakroast_bnless_lip_on_ln_18_f": {
-    "name": "beef, rib eye steak/roast, boneless, lip-on, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, rib eye steak/roast, boneless, lip-on, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rib eye steak/roast, boneless, lip-on, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_rib_eye_stk_bne_in_lip_on_ln_18_fat_all": {
-    "name": "beef, rib eye steak, bne-in, lip-on, lean, 1/8\" fat, all grades, cooked, grilled",
+    "name": "Beef, rib eye steak, bne-in, lip-on, lean, 1/8\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bne-in, lip-on, lean, 1/8\" fat, all grades, cooked, grilled\"."
   },
   "beef_rib_eye_steak_bone_in_lip_on_ln_18_fat_c": {
-    "name": "beef, rib eye steak, bone-in, lip-on, lean, 1/8\" fat, choice, cooked, grilled",
+    "name": "Beef, rib eye steak, bone-in, lip-on, lean, 1/8\" fat, choice, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bone-in, lip-on, lean, 1/8\" fat, choice, cooked, grilled\"."
   },
   "beef_rib_eye_steak_bone_in_lip_on_ln_18_fat_s": {
-    "name": "beef, rib eye steak, bone-in, lip-on, lean, 1/8\" fat, select, cooked, grild",
+    "name": "Beef, rib eye steak, bone-in, lip-on, lean, 1/8\" fat, select, cooked, grild",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bone-in, lip-on, lean, 1/8\" fat, select, cooked, grild\"."
   },
   "beef_rib_eye_rst_bnless_lip_on_ln_18_fat_all": {
-    "name": "beef, rib eye rst, boneless, lip-on, lean, 1/8\" fat, all grades, cooked, rstd",
+    "name": "Beef, rib eye rst, boneless, lip-on, lean, 1/8\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rib eye rst, boneless, lip-on, lean, 1/8\" fat, all grades, cooked, rstd\"."
   },
   "beef_rib_eye_rst_bnless_lip_on_ln_18_fat_choi": {
-    "name": "beef, rib eye rst, boneless, lip-on, lean, 1/8\" fat, choice, cooked, rstd",
+    "name": "Beef, rib eye rst, boneless, lip-on, lean, 1/8\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rib eye rst, boneless, lip-on, lean, 1/8\" fat, choice, cooked, rstd\"."
   },
   "beef_rib_eye_rst_bnless_lip_on_ln_18_fat_sel": {
-    "name": "beef, rib eye rst, boneless, lip-on, lean, 1/8\" fat, select, cooked, rstd",
+    "name": "Beef, rib eye rst, boneless, lip-on, lean, 1/8\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rib eye rst, boneless, lip-on, lean, 1/8\" fat, select, cooked, rstd\"."
   },
   "beef_plate_stk_bnle_insde_skrt_ln_0_fat_all_g": {
-    "name": "beef, plate steak, bnle, insde skrt, lean, 0\" fat, all grades, cooked, grilled",
+    "name": "Beef, plate steak, bnle, insde skrt, lean, 0\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, plate steak, bnle, insde skrt, lean, 0\" fat, all grades, cooked, grilled\"."
   },
   "beef_plate_steak_bnless_inside_skirt_ln_0_fat": {
-    "name": "beef, plate steak, boneless, inside skirt, lean, 0\" fat, all grades, raw",
+    "name": "Beef, plate steak, boneless, inside skirt, lean, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, plate steak, boneless, inside skirt, lean, 0\" fat, all grades, raw\"."
   },
   "beef_plate_stk_bnles_inside_skirt_ln_0_fat_ch": {
-    "name": "beef, plate steak, bnles, inside skirt, lean, 0\" fat, choice, cooked, grilled",
+    "name": "Beef, plate steak, bnles, inside skirt, lean, 0\" fat, choice, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, plate steak, bnles, inside skirt, lean, 0\" fat, choice, cooked, grilled\"."
   },
   "beef_plate_stk_bnles_otsde_skirt_ln_0_fat_all": {
-    "name": "beef, plate steak, bnles, otsde skirt, lean, 0\" fat, all grades, cooked, grilled",
+    "name": "Beef, plate steak, bnles, otsde skirt, lean, 0\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, plate steak, bnles, otsde skirt, lean, 0\" fat, all grades, cooked, grilled\"."
   },
   "beef_plate_steak_bnless_outside_skirt_ln_0_fa": {
-    "name": "beef, plate steak, boneless, outside skirt, lean, 0\" fat, all grades, raw",
+    "name": "Beef, plate steak, boneless, outside skirt, lean, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, plate steak, boneless, outside skirt, lean, 0\" fat, all grades, raw\"."
   },
   "beef_plate_steak_bnls_outside_skirt_ln_0_fat": {
-    "name": "beef, plate steak, bnls, outside skirt, lean, 0\" fat, choice, cooked, grilled",
+    "name": "Beef, plate steak, bnls, outside skirt, lean, 0\" fat, choice, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, plate steak, bnls, outside skirt, lean, 0\" fat, choice, cooked, grilled\"."
   },
   "beef_rib_eye_steak_bnless_lip_off_ln_0_fat_al": {
-    "name": "beef, rib eye steak, boneless, lip off, lean, 0\" fat, all grades, cooked, gri",
+    "name": "Beef, rib eye steak, boneless, lip off, lean, 0\" fat, all grades, cooked, gri",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, boneless, lip off, lean, 0\" fat, all grades, cooked, gri\"."
   },
   "beef_rib_eye_steak_bnless_lip_off_ln_0_fat_ch": {
-    "name": "beef, rib eye steak, boneless, lip off, lean, 0\" fat, choice, cooked, grille",
+    "name": "Beef, rib eye steak, boneless, lip off, lean, 0\" fat, choice, cooked, grille",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, boneless, lip off, lean, 0\" fat, choice, cooked, grille\"."
   },
   "beef_rib_eye_steak_bnless_lip_off_ln_0_fat_se": {
-    "name": "beef, rib eye steak, boneless, lip off, lean, 0\" fat, select, cooked, grilled",
+    "name": "Beef, rib eye steak, boneless, lip off, lean, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, boneless, lip off, lean, 0\" fat, select, cooked, grilled\"."
   },
   "beef_rib_back_ribs_bone_in_ln_0_fat_all_grds": {
-    "name": "beef, rib, back ribs, bone-in, lean, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, rib, back ribs, bone-in, lean, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rib, back ribs, bone-in, lean, 0\" fat, all grades, cooked, brsd\"."
   },
   "beef_rib_back_ribs_bone_in_ln_0_fat_choic_ckd": {
-    "name": "beef, rib, back ribs, bone-in, lean, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, rib, back ribs, bone-in, lean, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rib, back ribs, bone-in, lean, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_rib_back_ribs_bone_in_ln_0_fat_choic_raw": {
-    "name": "beef, rib, back ribs, bone-in, lean, 0\" fat, choice, raw",
+    "name": "Beef, rib, back ribs, bone-in, lean, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rib, back ribs, bone-in, lean, 0\" fat, choice, raw\"."
   },
   "beef_rib_back_ribs_bone_in_ln_0_fat_sel_ckd_b": {
-    "name": "beef, rib, back ribs, bone-in, lean, 0\" fat, select, cooked, brsd",
+    "name": "Beef, rib, back ribs, bone-in, lean, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rib, back ribs, bone-in, lean, 0\" fat, select, cooked, brsd\"."
   },
   "beef_rib_back_ribs_bone_in_ln_0_fat_sel_raw": {
-    "name": "beef, rib, back ribs, bone-in, lean, 0\" fat, select, raw",
+    "name": "Beef, rib, back ribs, bone-in, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rib, back ribs, bone-in, lean, 0\" fat, select, raw\"."
   },
   "beef_rib_eye_stk_bne_in_lip_on_ln_ft_18_fat_c": {
-    "name": "beef, rib eye steak, bne-in, lip-on, lean & fat, 1/8\" fat, chocolate, cooked, grl",
+    "name": "Beef, rib eye steak, bne-in, lip-on, lean & fat, 1/8\" fat, chocolate, cooked, grl",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bne-in, lip-on, lean & fat, 1/8\" fat, chocolate, cooked, grl\"."
   },
   "beef_rib_eye_stk_bne_in_lip_on_ln_ft_18_fat_s": {
-    "name": "beef, rib eye steak, bne-in, lip-on, lean & fat, 1/8\" fat, select, cooked, grilled",
+    "name": "Beef, rib eye steak, bne-in, lip-on, lean & fat, 1/8\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bne-in, lip-on, lean & fat, 1/8\" fat, select, cooked, grilled\"."
   },
   "beef_rib_eye_rst_bne_in_lip_on_ln_fat_18_ft_c": {
-    "name": "beef, rib eye rst, bne-in, lip-on, lean & fat, 1/8\" fat, chc, cooked, rst",
+    "name": "Beef, rib eye rst, bne-in, lip-on, lean & fat, 1/8\" fat, chc, cooked, rst",
     "alternative_names": [],
     "description": "\"beef, rib eye rst, bne-in, lip-on, lean & fat, 1/8\" fat, chc, cooked, rst\"."
   },
   "beef_rib_eye_rst_bne_in_lip_on_ln_fat_18_fat": {
-    "name": "beef, rib eye rst, bne-in, lip-on, lean & fat, 1/8\" fat, select, cooked, rst",
+    "name": "Beef, rib eye rst, bne-in, lip-on, lean & fat, 1/8\" fat, select, cooked, rst",
     "alternative_names": [],
     "description": "\"beef, rib eye rst, bne-in, lip-on, lean & fat, 1/8\" fat, select, cooked, rst\"."
   },
   "beef_rib_eye_stkrst_bne_in_lip_on_ln_fat_18_f": {
-    "name": "beef, rib eye steak/rst, bne-in, lip-on, lean & fat, 1/8\" fat, chc, raw",
+    "name": "Beef, rib eye steak/rst, bne-in, lip-on, lean & fat, 1/8\" fat, chc, raw",
     "alternative_names": [],
     "description": "\"beef, rib eye steak/rst, bne-in, lip-on, lean & fat, 1/8\" fat, chc, raw\"."
   },
   "beef_rib_eye_stkrst_bone_in_lip_on_ln_fat_18": {
-    "name": "beef, rib eye steak/rst, bone-in, lip-on, lean & fat, 1/8\" fat, select, rw",
+    "name": "Beef, rib eye steak/rst, bone-in, lip-on, lean & fat, 1/8\" fat, select, rw",
     "alternative_names": [],
     "description": "\"beef, rib eye steak/rst, bone-in, lip-on, lean & fat, 1/8\" fat, select, rw\"."
   },
   "beef_rib_eye_steak_bnls_lip_on_ln_fat_18_fat": {
-    "name": "beef, rib eye steak, bnls, lip-on, lean & fat, 1/8\" fat, chc, cooked, grade",
+    "name": "Beef, rib eye steak, bnls, lip-on, lean & fat, 1/8\" fat, chc, cooked, grade",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bnls, lip-on, lean & fat, 1/8\" fat, chc, cooked, grade\"."
   },
   "beef_rib_eye_stk_bnls_lip_on_ln_fat_18_fat_se": {
-    "name": "beef, rib eye steak, bnls, lip-on, lean & fat, 1/8\" fat, select, cooked, gild",
+    "name": "Beef, rib eye steak, bnls, lip-on, lean & fat, 1/8\" fat, select, cooked, gild",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bnls, lip-on, lean & fat, 1/8\" fat, select, cooked, gild\"."
   },
   "beef_rib_eye_rst_bnles_lip_on_ln_fat_18_fat_c": {
-    "name": "beef, rib eye rst, bnles, lip-on, lean & fat, 1/8\" fat, chc, cooked, rstd",
+    "name": "Beef, rib eye rst, bnles, lip-on, lean & fat, 1/8\" fat, chc, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rib eye rst, bnles, lip-on, lean & fat, 1/8\" fat, chc, cooked, rstd\"."
   },
   "beef_rib_eye_rst_bnles_lip_on_ln_fat_18_fat_s": {
-    "name": "beef, rib eye rst, bnles, lip-on, lean & fat, 1/8\" fat, select, cooked, rstd",
+    "name": "Beef, rib eye rst, bnles, lip-on, lean & fat, 1/8\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rib eye rst, bnles, lip-on, lean & fat, 1/8\" fat, select, cooked, rstd\"."
   },
   "beef_rib_eye_stkrst_bnls_lip_on_ln_fat_18_fat": {
-    "name": "beef, rib eye steak/rst, bnls, lip-on, lean & fat, 1/8\" fat, all grades, rw",
+    "name": "Beef, rib eye steak/rst, bnls, lip-on, lean & fat, 1/8\" fat, all grades, rw",
     "alternative_names": [],
     "description": "\"beef, rib eye steak/rst, bnls, lip-on, lean & fat, 1/8\" fat, all grades, rw\"."
   },
   "beef_rib_eye_steakrost_bnls_lip_on_ln_fat_18": {
-    "name": "beef, rib eye steak/rost, bnls, lip-on, lean & fat, 1/8\" fat, chc, rw",
+    "name": "Beef, rib eye steak/rost, bnls, lip-on, lean & fat, 1/8\" fat, chc, rw",
     "alternative_names": [],
     "description": "\"beef, rib eye steak/rost, bnls, lip-on, lean & fat, 1/8\" fat, chc, rw\"."
   },
   "beef_plte_stk_bnls_insd_skrt_ln_fat_0_fat_all": {
-    "name": "beef, plte steak, bnls, insd skrt, lean & fat, 0\" fat, all grade, cooked, grl",
+    "name": "Beef, plte steak, bnls, insd skrt, lean & fat, 0\" fat, all grade, cooked, grl",
     "alternative_names": [],
     "description": "\"beef, plte steak, bnls, insd skrt, lean & fat, 0\" fat, all grade, cooked, grl\"."
   },
   "beef_plate_stk_bnlss_insde_skrt_ln_fat_0_fat": {
-    "name": "beef, plate steak, bnlss, insde skrt, lean & fat, 0\" fat, chc, cooked, grilled",
+    "name": "Beef, plate steak, bnlss, insde skrt, lean & fat, 0\" fat, chc, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, plate steak, bnlss, insde skrt, lean & fat, 0\" fat, chc, cooked, grilled\"."
   },
   "beef_plate_stk_bnles_insde_skrt_ln_fat_0_fat": {
-    "name": "beef, plate steak, bnles, insde skrt, lean & fat, 0\" fat, select, cooked, grilled",
+    "name": "Beef, plate steak, bnles, insde skrt, lean & fat, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, plate steak, bnles, insde skrt, lean & fat, 0\" fat, select, cooked, grilled\"."
   },
   "beef_plate_stek_bnls_insde_skrt_ln_fat_0_fat": {
-    "name": "beef, plate stek, bnls, insde skrt, lean & fat, 0\" fat, all grades, rw",
+    "name": "Beef, plate stek, bnls, insde skrt, lean & fat, 0\" fat, all grades, rw",
     "alternative_names": [],
     "description": "\"beef, plate stek, bnls, insde skrt, lean & fat, 0\" fat, all grades, rw\"."
   },
   "beef_plate_steak_bnless_inside_skirt_ln_fat_0": {
-    "name": "beef, plate steak, boneless, inside skirt, lean & fat, 0\" fat, chocolate, rw",
+    "name": "Beef, plate steak, boneless, inside skirt, lean & fat, 0\" fat, chocolate, rw",
     "alternative_names": [],
     "description": "\"beef, plate steak, boneless, inside skirt, lean & fat, 0\" fat, chocolate, rw\"."
   },
@@ -2847,312 +2847,312 @@
     "description": "Beef, ground, unspec fat content, cooked."
   },
   "beef_plte_stk_bnls_outsd_skrt_ln_fat_0_ft_al": {
-    "name": "beef, plte steak, bnls, outsd skrt, lean & fat, 0\" fat, all grades, cooked, grilled",
+    "name": "Beef, plte steak, bnls, outsd skrt, lean & fat, 0\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, plte steak, bnls, outsd skrt, lean & fat, 0\" fat, all grades, cooked, grilled\"."
   },
   "beef_plate_stk_bnls_outsd_skrt_ln_fat_0_ft_ch": {
-    "name": "beef, plate steak, bnls, outsd skrt, lean & fat, 0\" fat, chc, cooked, grilled",
+    "name": "Beef, plate steak, bnls, outsd skrt, lean & fat, 0\" fat, chc, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, plate steak, bnls, outsd skrt, lean & fat, 0\" fat, chc, cooked, grilled\"."
   },
   "beef_plate_stk_bnls_otsde_skrt_ln_fat_0_fat_s": {
-    "name": "beef, plate steak, bnls, otsde skrt, lean & fat, 0\" fat, select, cooked, grild",
+    "name": "Beef, plate steak, bnls, otsde skrt, lean & fat, 0\" fat, select, cooked, grild",
     "alternative_names": [],
     "description": "\"beef, plate steak, bnls, otsde skrt, lean & fat, 0\" fat, select, cooked, grild\"."
   },
   "beef_plate_stek_bnls_outsde_skrt_ln_fat_0_fat": {
-    "name": "beef, plate stek, bnls, outsde skrt, lean & fat, 0\" fat, all grades, rw",
+    "name": "Beef, plate stek, bnls, outsde skrt, lean & fat, 0\" fat, all grades, rw",
     "alternative_names": [],
     "description": "\"beef, plate stek, bnls, outsde skrt, lean & fat, 0\" fat, all grades, rw\"."
   },
   "beef_plate_steak_bnls_outside_skrt_ln_fat_0_f": {
-    "name": "beef, plate steak, bnls, outside skrt, lean & fat, 0\" fat, choice, raw",
+    "name": "Beef, plate steak, bnls, outside skrt, lean & fat, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, plate steak, bnls, outside skrt, lean & fat, 0\" fat, choice, raw\"."
   },
   "beef_plate_steak_bnless_outside_skirt_ln_fat": {
-    "name": "beef, plate steak, boneless, outside skirt, lean & fat, 0\" fat, select, rw",
+    "name": "Beef, plate steak, boneless, outside skirt, lean & fat, 0\" fat, select, rw",
     "alternative_names": [],
     "description": "\"beef, plate steak, boneless, outside skirt, lean & fat, 0\" fat, select, rw\"."
   },
   "beef_rib_eye_stk_bnls_lip_of_ln_fat_0_ft_al_g": {
-    "name": "beef, rib eye steak, bnls, lip of, lean & fat, 0\" fat, al grades, cooked, grilled",
+    "name": "Beef, rib eye steak, bnls, lip of, lean & fat, 0\" fat, al grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bnls, lip of, lean & fat, 0\" fat, al grades, cooked, grilled\"."
   },
   "beef_rib_eye_steak_bnls_lip_off_ln_fat_0_fat": {
-    "name": "beef, rib eye steak, bnls, lip off, lean & fat, 0\" fat, chc, cooked, grilled",
+    "name": "Beef, rib eye steak, bnls, lip off, lean & fat, 0\" fat, chc, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bnls, lip off, lean & fat, 0\" fat, chc, cooked, grilled\"."
   },
   "beef_rib_eye_stek_bnles_lip_off_ln_fat_0_fat": {
-    "name": "beef, rib eye stek, bnles, lip off, lean & fat, 0\" fat, select, cooked, grilled",
+    "name": "Beef, rib eye stek, bnles, lip off, lean & fat, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, rib eye stek, bnles, lip off, lean & fat, 0\" fat, select, cooked, grilled\"."
   },
   "beef_rib_eye_steak_bnless_lip_off_ln_fat_0_fa": {
-    "name": "beef, rib eye steak, boneless, lip off, lean & fat, 0\" fat, all grade, rw",
+    "name": "Beef, rib eye steak, boneless, lip off, lean & fat, 0\" fat, all grade, rw",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, boneless, lip off, lean & fat, 0\" fat, all grade, rw\"."
   },
   "beef_rib_back_ribs_bone_in_ln_fat_0_fat_all_g": {
-    "name": "beef, rib, back ribs, bone-in, lean & fat, 0\" fat, all grades, cooked, brsd",
+    "name": "Beef, rib, back ribs, bone-in, lean & fat, 0\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rib, back ribs, bone-in, lean & fat, 0\" fat, all grades, cooked, brsd\"."
   },
   "beef_rib_back_ribs_bone_in_ln_fat_0_fat_choic": {
-    "name": "beef, rib, back ribs, bone-in, lean & fat, 0\" fat, choice, cooked, brsd",
+    "name": "Beef, rib, back ribs, bone-in, lean & fat, 0\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rib, back ribs, bone-in, lean & fat, 0\" fat, choice, cooked, brsd\"."
   },
   "beef_rib_back_ribs_bone_in_ln_fat_0_fat_sel_c": {
-    "name": "beef, rib, back ribs, bone-in, lean & fat, 0\" fat, select, cooked, brsd",
+    "name": "Beef, rib, back ribs, bone-in, lean & fat, 0\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rib, back ribs, bone-in, lean & fat, 0\" fat, select, cooked, brsd\"."
   },
   "beef_rib_back_ribs_bone_in_ln_fat_0_fat_sel_r": {
-    "name": "beef, rib, back ribs, bone-in, lean & fat, 0\" fat, select, raw",
+    "name": "Beef, rib, back ribs, bone-in, lean & fat, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rib, back ribs, bone-in, lean & fat, 0\" fat, select, raw\"."
   },
   "beef_loin_top_sirlin_petite_rst_bnls_ln_0_fat": {
-    "name": "beef, loin, top sirlin petite rst, bnls, lean, 0\" fat, chocolate, cooked, rstd",
+    "name": "Beef, loin, top sirlin petite rst, bnls, lean, 0\" fat, chocolate, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, loin, top sirlin petite rst, bnls, lean, 0\" fat, chocolate, cooked, rstd\"."
   },
   "beef_loin_top_sirloin_petite_rstfilet_bnls_ln": {
-    "name": "beef, loin, top sirloin petite rst/filet, bnls, lean, 0\" fat, chc, rw",
+    "name": "Beef, loin, top sirloin petite rst/filet, bnls, lean, 0\" fat, chc, rw",
     "alternative_names": [],
     "description": "\"beef, loin, top sirloin petite rst/filet, bnls, lean, 0\" fat, chc, rw\"."
   },
   "beef_loin_top_sirln_cap_stk_bnls_ln_18_fat_al": {
-    "name": "beef, loin, top sirln cap steak, bnls, lean, 1/8\" fat, al grades, cooked, grilled",
+    "name": "Beef, loin, top sirln cap steak, bnls, lean, 1/8\" fat, al grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, loin, top sirln cap steak, bnls, lean, 1/8\" fat, al grades, cooked, grilled\"."
   },
   "beef_loin_top_sirlon_cap_stk_bnls_ln_18_fat_c": {
-    "name": "beef, loin, top sirlon cap steak, bnls, lean, 1/8\" fat, choice, cooked, grilled",
+    "name": "Beef, loin, top sirlon cap steak, bnls, lean, 1/8\" fat, choice, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, loin, top sirlon cap steak, bnls, lean, 1/8\" fat, choice, cooked, grilled\"."
   },
   "beef_loin_top_sirloin_cap_stek_bnls_ln_18_fat": {
-    "name": "beef, loin, top sirloin cap stek, bnls, lean, 1/8\" fat, select, cooked, grilled",
+    "name": "Beef, loin, top sirloin cap stek, bnls, lean, 1/8\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, loin, top sirloin cap stek, bnls, lean, 1/8\" fat, select, cooked, grilled\"."
   },
   "beef_loin_top_sirloin_cap_steak_bnless_ln_18": {
-    "name": "beef, loin, top sirloin cap steak, boneless, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, loin, top sirloin cap steak, boneless, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, loin, top sirloin cap steak, boneless, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_top_loin_filet_bnless_ln_18_fat_all_grds": {
-    "name": "beef, top loin filet, boneless, lean, 1/8\" fat, all grades, cooked, grilled",
+    "name": "Beef, top loin filet, boneless, lean, 1/8\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, top loin filet, boneless, lean, 1/8\" fat, all grades, cooked, grilled\"."
   },
   "beef_top_loin_filet_bnless_ln_18_fat_choic_ck": {
-    "name": "beef, top loin filet, boneless, lean, 1/8\" fat, choice, cooked, grilled",
+    "name": "Beef, top loin filet, boneless, lean, 1/8\" fat, choice, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, top loin filet, boneless, lean, 1/8\" fat, choice, cooked, grilled\"."
   },
   "beef_top_loin_filet_bnless_ln_18_fat_sel_ckd": {
-    "name": "beef, top loin filet, boneless, lean, 1/8\" fat, select, cooked, grilled",
+    "name": "Beef, top loin filet, boneless, lean, 1/8\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, top loin filet, boneless, lean, 1/8\" fat, select, cooked, grilled\"."
   },
   "beef_top_loin_petite_rst_bnlss_ln_18_fat_all": {
-    "name": "beef, top loin petite rst, bnlss, lean, 1/8\" fat, all grades, cooked, rstd",
+    "name": "Beef, top loin petite rst, bnlss, lean, 1/8\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, top loin petite rst, bnlss, lean, 1/8\" fat, all grades, cooked, rstd\"."
   },
   "beef_top_loin_petite_rst_bnless_ln_18_fat_cho": {
-    "name": "beef, top loin petite rst, boneless, lean, 1/8\" fat, choice, cooked, rstd",
+    "name": "Beef, top loin petite rst, boneless, lean, 1/8\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, top loin petite rst, boneless, lean, 1/8\" fat, choice, cooked, rstd\"."
   },
   "beef_top_loin_petite_rst_bnless_ln_18_fat_sel": {
-    "name": "beef, top loin petite rst, boneless, lean, 1/8\" fat, select, cooked, rstd",
+    "name": "Beef, top loin petite rst, boneless, lean, 1/8\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, top loin petite rst, boneless, lean, 1/8\" fat, select, cooked, rstd\"."
   },
   "beef_top_loin_petite_rstfilet_bnls_ln_18_fat": {
-    "name": "beef, top loin petite rst/filet, bnls, lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, top loin petite rst/filet, bnls, lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, top loin petite rst/filet, bnls, lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_top_loin_petite_roastfilet_bnless_ln_18": {
-    "name": "beef, top loin petite roast/filet, boneless, lean, 1/8\" fat, chocolate, raw",
+    "name": "Beef, top loin petite roast/filet, boneless, lean, 1/8\" fat, chocolate, raw",
     "alternative_names": [],
     "description": "\"beef, top loin petite roast/filet, boneless, lean, 1/8\" fat, chocolate, raw\"."
   },
   "beef_loin_top_sirloin_filet_bnls_ln_0_fat_all": {
-    "name": "beef, loin, top sirloin filet, bnls, lean, 0\" fat, all grades, cooked, grilled",
+    "name": "Beef, loin, top sirloin filet, bnls, lean, 0\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, loin, top sirloin filet, bnls, lean, 0\" fat, all grades, cooked, grilled\"."
   },
   "beef_loin_top_sirloin_filet_bnless_ln_0_fat_c": {
-    "name": "beef, loin, top sirloin filet, boneless, lean, 0\" fat, choice, cooked, grild",
+    "name": "Beef, loin, top sirloin filet, boneless, lean, 0\" fat, choice, cooked, grild",
     "alternative_names": [],
     "description": "\"beef, loin, top sirloin filet, boneless, lean, 0\" fat, choice, cooked, grild\"."
   },
   "beef_loin_top_sirloin_filet_bnless_ln_0_fat_s": {
-    "name": "beef, loin, top sirloin filet, boneless, lean, 0\" fat, select, cooked, grilled",
+    "name": "Beef, loin, top sirloin filet, boneless, lean, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, loin, top sirloin filet, boneless, lean, 0\" fat, select, cooked, grilled\"."
   },
   "beef_loin_top_sirlon_ptit_rst_bls_ln_0_fat_al": {
-    "name": "beef, loin, top sirlon ptit rst, bls, lean, 0\" fat, al grades, cooked, rstd",
+    "name": "Beef, loin, top sirlon ptit rst, bls, lean, 0\" fat, al grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, loin, top sirlon ptit rst, bls, lean, 0\" fat, al grades, cooked, rstd\"."
   },
   "beef_loin_top_sirloin_petite_rst_bnls_ln_0_fa": {
-    "name": "beef, loin, top sirloin petite rst, bnls, lean, 0\" fat, select, cooked, rstd",
+    "name": "Beef, loin, top sirloin petite rst, bnls, lean, 0\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, loin, top sirloin petite rst, bnls, lean, 0\" fat, select, cooked, rstd\"."
   },
   "beef_loin_top_srln_petit_rstfilt_bnls_ln_0_fa": {
-    "name": "beef, loin, top srln petit rst/filt, bnls, lean, 0\" fat, al grades, raw",
+    "name": "Beef, loin, top srln petit rst/filt, bnls, lean, 0\" fat, al grades, raw",
     "alternative_names": [],
     "description": "\"beef, loin, top srln petit rst/filt, bnls, lean, 0\" fat, al grades, raw\"."
   },
   "beef_loin_top_sirlon_petite_rstfilet_bnls_ln": {
-    "name": "beef, loin, top sirlon petite rst/filet, bnls, lean, 0\" fat, select, raw",
+    "name": "Beef, loin, top sirlon petite rst/filet, bnls, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, loin, top sirlon petite rst/filet, bnls, lean, 0\" fat, select, raw\"."
   },
   "beef_ribeye_petite_roastfilet_bnless_ln_0_fat": {
-    "name": "beef, ribeye petite roast/filet, boneless, lean, 0\" fat, all grades, raw",
+    "name": "Beef, ribeye petite roast/filet, boneless, lean, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, ribeye petite roast/filet, boneless, lean, 0\" fat, all grades, raw\"."
   },
   "beef_ribeye_cap_steak_bnless_ln_0_fat_all_grd": {
-    "name": "beef, ribeye cap steak, boneless, lean, 0\" fat, all grades, cooked, grilled",
+    "name": "Beef, ribeye cap steak, boneless, lean, 0\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, ribeye cap steak, boneless, lean, 0\" fat, all grades, cooked, grilled\"."
   },
   "beef_ribeye_cap_steak_bnless_ln_0_fat_choic_c": {
-    "name": "beef, ribeye cap steak, boneless, lean, 0\" fat, choice, cooked, grilled",
+    "name": "Beef, ribeye cap steak, boneless, lean, 0\" fat, choice, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, ribeye cap steak, boneless, lean, 0\" fat, choice, cooked, grilled\"."
   },
   "beef_ribeye_cap_steak_bnless_ln_0_fat_sel_ckd": {
-    "name": "beef, ribeye cap steak, boneless, lean, 0\" fat, select, cooked, grilled",
+    "name": "Beef, ribeye cap steak, boneless, lean, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, ribeye cap steak, boneless, lean, 0\" fat, select, cooked, grilled\"."
   },
   "beef_ribeye_cap_steak_bnless_ln_0_fat_choic_r": {
-    "name": "beef, ribeye cap steak, boneless, lean, 0\" fat, choice, raw",
+    "name": "Beef, ribeye cap steak, boneless, lean, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, ribeye cap steak, boneless, lean, 0\" fat, choice, raw\"."
   },
   "beef_ribeye_cap_steak_bnless_ln_0_fat_sel_raw": {
-    "name": "beef, ribeye cap steak, boneless, lean, 0\" fat, select, raw",
+    "name": "Beef, ribeye cap steak, boneless, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, ribeye cap steak, boneless, lean, 0\" fat, select, raw\"."
   },
   "beef_ribeye_filet_bnless_ln_0_fat_all_grds_ck": {
-    "name": "beef, ribeye filet, boneless, lean, 0\" fat, all grades, cooked, grilled",
+    "name": "Beef, ribeye filet, boneless, lean, 0\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, ribeye filet, boneless, lean, 0\" fat, all grades, cooked, grilled\"."
   },
   "beef_ribeye_filet_bnless_ln_0_fat_choic_ckd_g": {
-    "name": "beef, ribeye filet, boneless, lean, 0\" fat, choice, cooked, grilled",
+    "name": "Beef, ribeye filet, boneless, lean, 0\" fat, choice, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, ribeye filet, boneless, lean, 0\" fat, choice, cooked, grilled\"."
   },
   "beef_ribeye_filet_bnless_ln_0_fat_sel_ckd_gri": {
-    "name": "beef, ribeye filet, boneless, lean, 0\" fat, select, cooked, grilled",
+    "name": "Beef, ribeye filet, boneless, lean, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, ribeye filet, boneless, lean, 0\" fat, select, cooked, grilled\"."
   },
   "beef_ribeye_petite_rst_bnless_ln_0_fat_all_gr": {
-    "name": "beef, ribeye petite rst, boneless, lean, 0\" fat, all grades, cooked, rstd",
+    "name": "Beef, ribeye petite rst, boneless, lean, 0\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, ribeye petite rst, boneless, lean, 0\" fat, all grades, cooked, rstd\"."
   },
   "beef_ribeye_petite_rst_bnless_ln_0_fat_choic": {
-    "name": "beef, ribeye petite rst, boneless, lean, 0\" fat, choice, cooked, rstd",
+    "name": "Beef, ribeye petite rst, boneless, lean, 0\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, ribeye petite rst, boneless, lean, 0\" fat, choice, cooked, rstd\"."
   },
   "beef_ribeye_petite_rst_bnless_ln_0_fat_sel_ck": {
-    "name": "beef, ribeye petite rst, boneless, lean, 0\" fat, select, cooked, rstd",
+    "name": "Beef, ribeye petite rst, boneless, lean, 0\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, ribeye petite rst, boneless, lean, 0\" fat, select, cooked, rstd\"."
   },
   "beef_loin_top_srln_cap_stk_bls_ln_fat_18_fat": {
-    "name": "beef, loin, top srln cap steak, bls, lean & fat, 1/8\" fat, chc, cooked, grilled",
+    "name": "Beef, loin, top srln cap steak, bls, lean & fat, 1/8\" fat, chc, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, loin, top srln cap steak, bls, lean & fat, 1/8\" fat, chc, cooked, grilled\"."
   },
   "beef_loin_top_sirln_cap_stk_bnls_ln_fat_18_fa": {
-    "name": "beef, loin, top sirln cap steak, bnls, lean & fat, 1/8\" fat, all grades, rw",
+    "name": "Beef, loin, top sirln cap steak, bnls, lean & fat, 1/8\" fat, all grades, rw",
     "alternative_names": [],
     "description": "\"beef, loin, top sirln cap steak, bnls, lean & fat, 1/8\" fat, all grades, rw\"."
   },
   "beef_loin_top_sirloin_cap_stk_bnls_ln_fat_18": {
-    "name": "beef, loin, top sirloin cap steak, bnls, lean & fat, 1/8\" fat, chc, raw",
+    "name": "Beef, loin, top sirloin cap steak, bnls, lean & fat, 1/8\" fat, chc, raw",
     "alternative_names": [],
     "description": "\"beef, loin, top sirloin cap steak, bnls, lean & fat, 1/8\" fat, chc, raw\"."
   },
   "beef_top_loin_filet_bnls_ln_fat_18_fat_all_gr": {
-    "name": "beef, top loin filet, bnls, lean & fat, 1/8\" fat, all grades, cooked, grilled",
+    "name": "Beef, top loin filet, bnls, lean & fat, 1/8\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, top loin filet, bnls, lean & fat, 1/8\" fat, all grades, cooked, grilled\"."
   },
   "beef_top_loin_filet_bnless_ln_fat_18_fat_choi": {
-    "name": "beef, top loin filet, boneless, lean & fat, 1/8\" fat, choice, cooked, grild",
+    "name": "Beef, top loin filet, boneless, lean & fat, 1/8\" fat, choice, cooked, grild",
     "alternative_names": [],
     "description": "\"beef, top loin filet, boneless, lean & fat, 1/8\" fat, choice, cooked, grild\"."
   },
   "beef_top_loin_filet_bnless_ln_fat_18_fat_sel": {
-    "name": "beef, top loin filet, boneless, lean & fat, 1/8\" fat, select, cooked, grilled",
+    "name": "Beef, top loin filet, boneless, lean & fat, 1/8\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, top loin filet, boneless, lean & fat, 1/8\" fat, select, cooked, grilled\"."
   },
   "beef_top_loin_pet_rst_bnls_ln_fat_18_fat_al_g": {
-    "name": "beef, top loin pet rst, bnls, lean & fat, 1/8\" fat, all grades, cooked, rstd",
+    "name": "Beef, top loin pet rst, bnls, lean & fat, 1/8\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, top loin pet rst, bnls, lean & fat, 1/8\" fat, all grades, cooked, rstd\"."
   },
   "beef_top_loin_peti_rst_bnls_ln_fat_18_fat_cho": {
-    "name": "beef, top loin peti rst, bnls, lean & fat, 1/8\" fat, choice, cooked, rstd",
+    "name": "Beef, top loin peti rst, bnls, lean & fat, 1/8\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, top loin peti rst, bnls, lean & fat, 1/8\" fat, choice, cooked, rstd\"."
   },
   "beef_top_loin_petite_rst_bnls_ln_fat_18_fat_s": {
-    "name": "beef, top loin petite rst, bnls, lean & fat, 1/8\" fat, select, cooked, rstd",
+    "name": "Beef, top loin petite rst, bnls, lean & fat, 1/8\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, top loin petite rst, bnls, lean & fat, 1/8\" fat, select, cooked, rstd\"."
   },
   "beef_top_loin_petit_rstfilt_bns_ln_fat_18_fat": {
-    "name": "beef, top loin petit rst/filt, bns, lean & fat, 1/8\" fat, all grades, rw",
+    "name": "Beef, top loin petit rst/filt, bns, lean & fat, 1/8\" fat, all grades, rw",
     "alternative_names": [],
     "description": "\"beef, top loin petit rst/filt, bns, lean & fat, 1/8\" fat, all grades, rw\"."
   },
   "beef_top_loin_petite_rstfilet_bnls_ln_fat_18": {
-    "name": "beef, top loin petite rst/filet, bnls, lean & fat, 1/8\" fat, chc, rw",
+    "name": "Beef, top loin petite rst/filet, bnls, lean & fat, 1/8\" fat, chc, rw",
     "alternative_names": [],
     "description": "\"beef, top loin petite rst/filet, bnls, lean & fat, 1/8\" fat, chc, rw\"."
   },
   "beef_shldr_steak_bnless_ln_0_fat_all_grds_ckd": {
-    "name": "beef, shoulder steak, boneless, lean, 0\" fat, all grades, cooked, grilled",
+    "name": "Beef, shoulder steak, boneless, lean, 0\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, shoulder steak, boneless, lean, 0\" fat, all grades, cooked, grilled\"."
   },
   "beef_shldr_steak_bnless_ln_fat_0_fat_choic_ck": {
-    "name": "beef, shoulder steak, boneless, lean & fat, 0\" fat, choice, cooked, grilled",
+    "name": "Beef, shoulder steak, boneless, lean & fat, 0\" fat, choice, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, shoulder steak, boneless, lean & fat, 0\" fat, choice, cooked, grilled\"."
   },
   "beef_shldr_steak_bnless_ln_fat_0_fat_sel_ckd": {
-    "name": "beef, shoulder steak, boneless, lean & fat, 0\" fat, select, cooked, grilled",
+    "name": "Beef, shoulder steak, boneless, lean & fat, 0\" fat, select, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, shoulder steak, boneless, lean & fat, 0\" fat, select, cooked, grilled\"."
   },
   "beef_shldr_steak_bnless_ln_fat_0_fat_all_grds": {
-    "name": "beef, shoulder steak, boneless, lean & fat, 0\" fat, all grades, cooked, grilled",
+    "name": "Beef, shoulder steak, boneless, lean & fat, 0\" fat, all grades, cooked, grilled",
     "alternative_names": [],
     "description": "\"beef, shoulder steak, boneless, lean & fat, 0\" fat, all grades, cooked, grilled\"."
   },
@@ -3177,9 +3177,9 @@
     "description": "Beef, ground, 95% lean meat / 5% fat, crumbles, cooked, pan-browned."
   },
   "beef_ground_95_ln_meat_5_fat_loaf_ckd_bkd": {
-    "name": "Beef, ground, 95% lean meat / 5% fat, loaf, cooked, bkd",
+    "name": "Beef, ground, 95% lean meat / 5% fat, loaf, cooked, baked",
     "alternative_names": [],
-    "description": "Beef, ground, 95% lean meat / 5% fat, loaf, cooked, bkd."
+    "description": "Beef, ground, 95% lean meat / 5% fat, loaf, cooked, baked."
   },
   "beef_ground_90_ln_meat_10_fat_raw": {
     "name": "Beef, ground, 90% lean meat / 10% fat, raw",
@@ -3202,9 +3202,9 @@
     "description": "Beef, ground, 90% lean meat / 10% fat, crumbles, cooked, pan-browned."
   },
   "beef_ground_90_ln_meat_10_fat_loaf_ckd_bkd": {
-    "name": "Beef, ground, 90% lean meat / 10% fat, loaf, cooked, bkd",
+    "name": "Beef, ground, 90% lean meat / 10% fat, loaf, cooked, baked",
     "alternative_names": [],
-    "description": "Beef, ground, 90% lean meat / 10% fat, loaf, cooked, bkd."
+    "description": "Beef, ground, 90% lean meat / 10% fat, loaf, cooked, baked."
   },
   "beef_ground_85_ln_meat_15_fat_raw": {
     "name": "Beef, ground, 85% lean meat / 15% fat, raw",
@@ -3227,9 +3227,9 @@
     "description": "Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned."
   },
   "beef_ground_85_ln_meat_15_fat_loaf_ckd_bkd": {
-    "name": "Beef, ground, 85% lean meat / 15% fat, loaf, cooked, bkd",
+    "name": "Beef, ground, 85% lean meat / 15% fat, loaf, cooked, baked",
     "alternative_names": [],
-    "description": "Beef, ground, 85% lean meat / 15% fat, loaf, cooked, bkd."
+    "description": "Beef, ground, 85% lean meat / 15% fat, loaf, cooked, baked."
   },
   "beef_ground_80_ln_meat_20_fat_raw": {
     "name": "Beef, ground, 80% lean meat / 20% fat, raw",
@@ -3252,9 +3252,9 @@
     "description": "Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned."
   },
   "beef_ground_80_ln_meat_20_fat_loaf_ckd_bkd": {
-    "name": "Beef, ground, 80% lean meat / 20% fat, loaf, cooked, bkd",
+    "name": "Beef, ground, 80% lean meat / 20% fat, loaf, cooked, baked",
     "alternative_names": [],
-    "description": "Beef, ground, 80% lean meat / 20% fat, loaf, cooked, bkd."
+    "description": "Beef, ground, 80% lean meat / 20% fat, loaf, cooked, baked."
   },
   "beef_ground_75_ln_meat_25_fat_raw": {
     "name": "Beef, ground, 75% lean meat / 25% fat, raw",
@@ -3277,352 +3277,352 @@
     "description": "Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned."
   },
   "beef_ground_75_ln_meat_25_fat_loaf_ckd_bkd": {
-    "name": "Beef, ground, 75% lean meat / 25% fat, loaf, cooked, bkd",
+    "name": "Beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked",
     "alternative_names": [],
-    "description": "Beef, ground, 75% lean meat / 25% fat, loaf, cooked, bkd."
+    "description": "Beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked."
   },
   "beef_rib_sml_end_ln_18_fat_sel_raw": {
-    "name": "beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, select, raw",
+    "name": "Beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, select, raw\"."
   },
   "beef_tenderloin_steak_ln_18_fat_sel_raw": {
-    "name": "beef, tenderloin, steak, lean, 1/8\" fat, select, raw",
+    "name": "Beef, tenderloin, steak, lean, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean, 1/8\" fat, select, raw\"."
   },
   "beef_top_sirloin_steak_ln_18_fat_sel_raw": {
-    "name": "beef, top sirloin, steak, lean, 1/8\" fat, select, raw",
+    "name": "Beef, top sirloin, steak, lean, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean, 1/8\" fat, select, raw\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_18_fat_sel_r": {
-    "name": "beef, short loin, top loin, steak, lean, 1/8\" fat, select, raw",
+    "name": "Beef, short loin, top loin, steak, lean, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean, 1/8\" fat, select, raw\"."
   },
   "beef_rib_sml_end_ln_18_fat_sel_ckd_brld": {
-    "name": "beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, select, cooked, broiled",
+    "name": "Beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, select, cooked, broiled\"."
   },
   "beef_tenderloin_steak_ln_18_fat_sel_ckd_brld": {
-    "name": "beef, tenderloin, steak, lean, 1/8\" fat, select, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean, 1/8\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean, 1/8\" fat, select, cooked, broiled\"."
   },
   "beef_top_sirloin_steak_ln_18_fat_sel_ckd_brld": {
-    "name": "beef, top sirloin, steak, lean, 1/8\" fat, select, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean, 1/8\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean, 1/8\" fat, select, cooked, broiled\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_18_fat_sel_c": {
-    "name": "beef, short loin, top loin, steak, lean, 1/8\" fat, select, cooked, broiled",
+    "name": "Beef, short loin, top loin, steak, lean, 1/8\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean, 1/8\" fat, select, cooked, broiled\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_18_fat_sel_ckd_rstd": {
-    "name": "beef, rnd, bttm rnd rst, lean, 1/8\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, bttm rnd rst, lean, 1/8\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd rst, lean, 1/8\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_18_fat_sel_ckd_rst": {
-    "name": "beef, rnd, eye of rnd, rst, lean, 1/8\" fat, select, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean, 1/8\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean, 1/8\" fat, select, cooked, rstd\"."
   },
   "beef_rnd_top_rnd_steak_ln_18_fat_sel_ckd_brld": {
-    "name": "beef, rnd, top rnd, steak, lean, 1/8\" fat, select, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean, 1/8\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean, 1/8\" fat, select, cooked, broiled\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_18_fat_sel_ckd_brs": {
-    "name": "beef, rnd, bttm rnd, steak, lean, 1/8\" fat, select, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean, 1/8\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean, 1/8\" fat, select, cooked, brsd\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_18_fat_all_grds_raw": {
-    "name": "beef, rnd, bttm rnd, rst, lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, rnd, bttm rnd, rst, lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_brisket_flat_half_ln_18_fat_all_grds_ckd": {
-    "name": "beef, brisket, flat half, lean, 1/8\" fat, all grades, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean, 1/8\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean, 1/8\" fat, all grades, cooked, brsd\"."
   },
   "beef_brisket_flat_half_ln_18_fat_all_grds_raw": {
-    "name": "beef, brisket, flat half, lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, brisket, flat half, lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_18_fat_all_grds_ra": {
-    "name": "beef, rnd, eye of rnd, rst, lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, rnd, eye of rnd, rst, lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_18_fat_all_grds_ck": {
-    "name": "beef, rnd, eye of rnd, rst, lean, 1/8\" fat, all grades, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean, 1/8\" fat, all grades, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean, 1/8\" fat, all grades, cooked, rstd\"."
   },
   "beef_rib_sml_end_ln_18_fat_all_grds_raw": {
-    "name": "beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_tenderloin_steak_ln_18_fat_all_grds_ckd": {
-    "name": "beef, tenderloin, steak, lean, 1/8\" fat, all grades, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean, 1/8\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean, 1/8\" fat, all grades, cooked, broiled\"."
   },
   "beef_tenderloin_steak_ln_18_fat_all_grds_raw": {
-    "name": "beef, tenderloin, steak, lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, tenderloin, steak, lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_chuck_arm_pot_rst_ln_18_fat_all_grds_ckd": {
-    "name": "beef, chuck, arm pot rst, lean, 1/8\" fat, all grades, cooked, brsd",
+    "name": "Beef, chuck, arm pot rst, lean, 1/8\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean, 1/8\" fat, all grades, cooked, brsd\"."
   },
   "beef_chuck_arm_pot_rst_ln_18_fat_all_grds_raw": {
-    "name": "beef, chuck, arm pot rst, lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, chuck, arm pot rst, lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_18_fat_all_grds_ckd": {
-    "name": "beef, rnd, bttm rnd, rst, lean, 1/8\" fat, all grades, cooked",
+    "name": "Beef, rnd, bttm rnd, rst, lean, 1/8\" fat, all grades, cooked",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean, 1/8\" fat, all grades, cooked\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_18_fat_all_grds_ck": {
-    "name": "beef, rnd, bttm rnd, steak, lean, 1/8\" fat, all grades, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean, 1/8\" fat, all grades, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean, 1/8\" fat, all grades, cooked, brsd\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_18_fat_all_g": {
-    "name": "beef, short loin, top loin, steak, lean, 1/8\" fat, all grades, cooked, broiled",
+    "name": "Beef, short loin, top loin, steak, lean, 1/8\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean, 1/8\" fat, all grades, cooked, broiled\"."
   },
   "beef_rnd_top_rnd_steak_ln_18_fat_all_grds_ckd": {
-    "name": "beef, rnd, top rnd, steak, lean, 1/8\" fat, all grades, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean, 1/8\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean, 1/8\" fat, all grades, cooked, broiled\"."
   },
   "beef_rnd_top_rnd_steak_ln_18_fat_all_grds_raw": {
-    "name": "beef, rnd, top rnd, steak, lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, rnd, top rnd, steak, lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_top_sirloin_steak_ln_18_fat_all_grds_ckd": {
-    "name": "beef, top sirloin, steak, lean, 1/8\" fat, all grades, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean, 1/8\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean, 1/8\" fat, all grades, cooked, broiled\"."
   },
   "beef_top_sirloin_steak_ln_18_fat_all_grds_raw": {
-    "name": "beef, top sirloin, steak, lean, 1/8\" fat, all grades, raw",
+    "name": "Beef, top sirloin, steak, lean, 1/8\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean, 1/8\" fat, all grades, raw\"."
   },
   "beef_chuck_arm_pot_rst_ln_18_fat_choic_raw": {
-    "name": "beef, chuck, arm pot rst, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, chuck, arm pot rst, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_brisket_flat_half_ln_18_fat_choic_raw": {
-    "name": "beef, brisket, flat half, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, brisket, flat half, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_chuck_arm_pot_rst_ln_18_fat_choic_ckd_br": {
-    "name": "beef, chuck, arm pot rst, lean, 1/8\" fat, choice, cooked, brsd",
+    "name": "Beef, chuck, arm pot rst, lean, 1/8\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean, 1/8\" fat, choice, cooked, brsd\"."
   },
   "beef_brisket_flat_half_ln_18_fat_choic_ckd_br": {
-    "name": "beef, brisket, flat half, lean, 1/8\" fat, choice, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean, 1/8\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean, 1/8\" fat, choice, cooked, brsd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_18_fat_choic_raw": {
-    "name": "beef, rnd, eye of rnd, rst, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, rnd, eye of rnd, rst, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_rnd_top_rnd_steak_ln_18_fat_choic_raw": {
-    "name": "beef, rnd, top rnd, steak, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, rnd, top rnd, steak, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_18_fat_choic_raw": {
-    "name": "beef, rnd, bttm rnd, rst, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, rnd, bttm rnd, rst, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_18_fat_choic_ckd_rst": {
-    "name": "beef, rnd, bttm rnd, rst, lean, 1/8\" fat, choice, cooked, rstd",
+    "name": "Beef, rnd, bttm rnd, rst, lean, 1/8\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean, 1/8\" fat, choice, cooked, rstd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_18_fat_choic_ckd_r": {
-    "name": "beef, rnd, eye of rnd, rst, lean, 1/8\" fat, choice, cooked, rstd",
+    "name": "Beef, rnd, eye of rnd, rst, lean, 1/8\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean, 1/8\" fat, choice, cooked, rstd\"."
   },
   "beef_rnd_top_rnd_steak_ln_18_fat_choic_ckd_br": {
-    "name": "beef, rnd, top rnd, steak, lean, 1/8\" fat, choice, cooked, broiled",
+    "name": "Beef, rnd, top rnd, steak, lean, 1/8\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean, 1/8\" fat, choice, cooked, broiled\"."
   },
   "beef_rnd_bttm_rnd_steak_ln_18_fat_choic_ckd_b": {
-    "name": "beef, rnd, bttm rnd, steak, lean, 1/8\" fat, choice, cooked, brsd",
+    "name": "Beef, rnd, bttm rnd, steak, lean, 1/8\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, steak, lean, 1/8\" fat, choice, cooked, brsd\"."
   },
   "beef_rib_sml_end_ln_18_fat_choic_raw": {
-    "name": "beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, choice, raw",
+    "name": "Beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, choice, raw\"."
   },
   "beef_tenderloin_steak_ln_18_fat_choic_raw": {
-    "name": "beef, tenderloin, steak, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, tenderloin, steak, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_top_sirloin_steak_ln_18_fat_choic_raw": {
-    "name": "beef, top sirloin, steak, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, top sirloin, steak, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_rib_sml_end_ln_18fat_choic_ckd_brld": {
-    "name": "beef, rib, sml end (ribs 10-12), lean, 1/8\"fat, choice, cooked, broiled",
+    "name": "Beef, rib, sml end (ribs 10-12), lean, 1/8\"fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean, 1/8\"fat, choice, cooked, broiled\"."
   },
   "beef_shrt_loin_top_loin_steak_ln_18_fat_choic": {
-    "name": "beef, short loin, top loin, steak, lean, 1/8\" fat, choice, raw",
+    "name": "Beef, short loin, top loin, steak, lean, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, short loin, top loin, steak, lean, 1/8\" fat, choice, raw\"."
   },
   "beef_tenderloin_steak_ln_18_fat_choic_ckd_brl": {
-    "name": "beef, tenderloin, steak, lean, 1/8\" fat, choice, cooked, broiled",
+    "name": "Beef, tenderloin, steak, lean, 1/8\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, tenderloin, steak, lean, 1/8\" fat, choice, cooked, broiled\"."
   },
   "beef_top_sirloin_steak_ln_18_fat_choic_ckd_br": {
-    "name": "beef, top sirloin, steak, lean, 1/8\" fat, choice, cooked, broiled",
+    "name": "Beef, top sirloin, steak, lean, 1/8\" fat, choice, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, top sirloin, steak, lean, 1/8\" fat, choice, cooked, broiled\"."
   },
   "beef_chuck_arm_pot_rst_ln_18_fat_sel_raw": {
-    "name": "beef, chuck, arm pot rst, lean, 1/8\" fat, select, raw",
+    "name": "Beef, chuck, arm pot rst, lean, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean, 1/8\" fat, select, raw\"."
   },
   "beef_brisket_flat_half_ln_18_fat_sel_raw": {
-    "name": "beef, brisket, flat half, lean, 1/8\" fat, select, raw",
+    "name": "Beef, brisket, flat half, lean, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean, 1/8\" fat, select, raw\"."
   },
   "beef_chuck_arm_pot_rst_ln_18_fat_sel_ckd_brsd": {
-    "name": "beef, chuck, arm pot rst, lean, 1/8\" fat, select, cooked, brsd",
+    "name": "Beef, chuck, arm pot rst, lean, 1/8\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, chuck, arm pot rst, lean, 1/8\" fat, select, cooked, brsd\"."
   },
   "beef_brisket_flat_half_ln_18_fat_sel_ckd_brsd": {
-    "name": "beef, brisket, flat half, lean, 1/8\" fat, select, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean, 1/8\" fat, select, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean, 1/8\" fat, select, cooked, brsd\"."
   },
   "beef_rnd_eye_of_rnd_rst_ln_18_fat_sel_raw": {
-    "name": "beef, rnd, eye of rnd, rst, lean, 1/8\" fat, select, raw",
+    "name": "Beef, rnd, eye of rnd, rst, lean, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, eye of rnd, rst, lean, 1/8\" fat, select, raw\"."
   },
   "beef_rnd_top_rnd_steak_ln_18_fat_sel_raw": {
-    "name": "beef, rnd, top rnd, steak, lean, 1/8\" fat, select, raw",
+    "name": "Beef, rnd, top rnd, steak, lean, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, top rnd, steak, lean, 1/8\" fat, select, raw\"."
   },
   "beef_rnd_bttm_rnd_rst_ln_18_fat_sel_raw": {
-    "name": "beef, rnd, bttm rnd, rst, lean, 1/8\" fat, select, raw",
+    "name": "Beef, rnd, bttm rnd, rst, lean, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, bttm rnd, rst, lean, 1/8\" fat, select, raw\"."
   },
   "beef_rib_sml_end_ln_18_fat_all_grds_ckd_brld": {
-    "name": "beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, all grades, cooked, broiled",
+    "name": "Beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, rib, sml end (ribs 10-12), lean, 1/8\" fat, all grades, cooked, broiled\"."
   },
   "beef_bttm_sirloin_tri_tip_rst_ln_0_fat_all_gr": {
-    "name": "beef, bttm sirloin, tri-tip rst, lean, 0\" fat, all grades, raw",
+    "name": "Beef, bttm sirloin, tri-tip rst, lean, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, bttm sirloin, tri-tip rst, lean, 0\" fat, all grades, raw\"."
   },
   "beef_bttm_sirloin_tri_tip_rst_ln_0_fat_choic": {
-    "name": "beef, bttm sirloin, tri-tip rst, lean, 0\" fat, choice, cooked, rstd",
+    "name": "Beef, bttm sirloin, tri-tip rst, lean, 0\" fat, choice, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, bttm sirloin, tri-tip rst, lean, 0\" fat, choice, cooked, rstd\"."
   },
   "beef_bttm_sirloin_tri_tip_rst_ln_0_fat_sel_ck": {
-    "name": "beef, bttm sirloin, tri-tip rst, lean, 0\" fat, select, cooked, rstd",
+    "name": "Beef, bttm sirloin, tri-tip rst, lean, 0\" fat, select, cooked, rstd",
     "alternative_names": [],
     "description": "\"beef, bttm sirloin, tri-tip rst, lean, 0\" fat, select, cooked, rstd\"."
   },
   "beef_bttm_sirloin_tri_tip_rst_ln_0_fat_sel_ra": {
-    "name": "beef, bttm sirloin, tri-tip rst, lean, 0\" fat, select, raw",
+    "name": "Beef, bttm sirloin, tri-tip rst, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, bttm sirloin, tri-tip rst, lean, 0\" fat, select, raw\"."
   },
   "beef_rnd_tip_rnd_rst_ln_0_fat_all_grds_raw": {
-    "name": "beef, rnd, tip rnd, rst, lean, 0\" fat, all grades, raw",
+    "name": "Beef, rnd, tip rnd, rst, lean, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean, 0\" fat, all grades, raw\"."
   },
   "beef_rnd_tip_rnd_rst_ln_0_fat_choic_raw": {
-    "name": "beef, rnd, tip rnd, rst, lean, 0\" fat, choice, raw",
+    "name": "Beef, rnd, tip rnd, rst, lean, 0\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean, 0\" fat, choice, raw\"."
   },
   "beef_rnd_tip_rnd_rst_ln_0_fat_sel_raw": {
-    "name": "beef, rnd, tip rnd, rst, lean, 0\" fat, select, raw",
+    "name": "Beef, rnd, tip rnd, rst, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, rnd, tip rnd, rst, lean, 0\" fat, select, raw\"."
   },
   "beef_flank_steak_ln_0_fat_all_grds_ckd_brld": {
-    "name": "beef, flank, steak, lean, 0\" fat, all grades, cooked, broiled",
+    "name": "Beef, flank, steak, lean, 0\" fat, all grades, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean, 0\" fat, all grades, cooked, broiled\"."
   },
   "beef_flank_steak_ln_0_fat_sel_ckd_brld": {
-    "name": "beef, flank, steak, lean, 0\" fat, select, cooked, broiled",
+    "name": "Beef, flank, steak, lean, 0\" fat, select, cooked, broiled",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean, 0\" fat, select, cooked, broiled\"."
   },
   "beef_flank_steak_ln_0_fat_all_grds_raw": {
-    "name": "beef, flank, steak, lean, 0\" fat, all grades, raw",
+    "name": "Beef, flank, steak, lean, 0\" fat, all grades, raw",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean, 0\" fat, all grades, raw\"."
   },
   "beef_flank_steak_ln_0_fat_sel_raw": {
-    "name": "beef, flank, steak, lean, 0\" fat, select, raw",
+    "name": "Beef, flank, steak, lean, 0\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, flank, steak, lean, 0\" fat, select, raw\"."
   },
   "beef_brisket_flat_half_ln_fat_18_fat_choic_ra": {
-    "name": "beef, brisket, flat half, lean & fat, 1/8\" fat, choice, raw",
+    "name": "Beef, brisket, flat half, lean & fat, 1/8\" fat, choice, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean & fat, 1/8\" fat, choice, raw\"."
   },
   "beef_brisket_flat_half_ln_fat_18_fat_sel_raw": {
-    "name": "beef, brisket, flat half, lean & fat, 1/8\" fat, select, raw",
+    "name": "Beef, brisket, flat half, lean & fat, 1/8\" fat, select, raw",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean & fat, 1/8\" fat, select, raw\"."
   },
   "beef_brisket_flat_half_ln_fat_18_fat_choic_ck": {
-    "name": "beef, brisket, flat half, lean & fat, 1/8\" fat, choice, cooked, brsd",
+    "name": "Beef, brisket, flat half, lean & fat, 1/8\" fat, choice, cooked, brsd",
     "alternative_names": [],
     "description": "\"beef, brisket, flat half, lean & fat, 1/8\" fat, choice, cooked, brsd\"."
   },
@@ -3677,9 +3677,9 @@
     "description": "Mayonnaise, made with tofu."
   },
   "frankfurter_bf_lo_fat": {
-    "name": "Frankfurter, bf, lo fat",
+    "name": "Frankfurter, beef, lo fat",
     "alternative_names": [],
-    "description": "Frankfurter, bf, lo fat."
+    "description": "Frankfurter, beef, lo fat."
   },
   "yogurt_frz_choc_non_fat_milk_wlo_cal_swtnr": {
     "name": "Yogurt, frozen, chocolate, non-fat milk, withlo cal swtnr",
@@ -3687,9 +3687,9 @@
     "description": "Yogurt, frozen, chocolate, non-fat milk, withlo cal swtnr."
   },
   "frankfurter_bf_pork_lo_fat": {
-    "name": "Frankfurter, bf & pork, lo fat",
+    "name": "Frankfurter, beef & pork, lo fat",
     "alternative_names": [],
-    "description": "Frankfurter, bf & pork, lo fat."
+    "description": "Frankfurter, beef & pork, lo fat."
   },
   "milk_bttrmlk_fluid_cultured_red_fat": {
     "name": "Milk, buttermilk, fluid, cultured, red fat",

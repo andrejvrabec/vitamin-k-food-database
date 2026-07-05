@@ -2,7 +2,7 @@
   "aspirin_otc": {
     "name": "Aspirín (kyselina acetylsalicylová), OTC liek",
     "alternative_names": [
-      "kyselina acetylsalicylová",
+      "Kyselina acetylsalicylová",
       "Acylpyrin",
       "Anopyrin"
     ],
@@ -14,23 +14,23 @@
       "Ibalgin",
       "Nurofen",
       "Mig",
-      "nesteroidné protizápalové lieky"
+      "Nesteroidné protizápalové lieky"
     ],
     "description": "Nesteroidné protizápalové liečivo, tlmí agregáciu doštičiek a zvyšuje riziko gastrointestinálneho krvácania."
   },
   "glucosamine_chondroitin": {
     "name": "Glukozamín + Chondroitín",
     "alternative_names": [
-      "kĺbová výživa",
-      "chondroitín sulfát"
+      "Kĺbová výživa",
+      "Chondroitín sulfát"
     ],
     "description": "Výživový doplnok na kĺby, klinicky spojený so zvýšením hodnoty INR a vyšším rizikom krvácania u pacientov užívajúcich Warfarín."
   },
   "melatonin_supplement": {
     "name": "Melatonín, doplnok stravy",
     "alternative_names": [
-      "hormón spánku",
-      "melatonín"
+      "Hormón spánku",
+      "Melatonín"
     ],
     "description": "Doplnok stravy na podporu spánku, ktorý môže synergicky zvyšovať riziko krvácania pri užívaní s Warfarínom."
   },
@@ -39,14 +39,14 @@
     "alternative_names": [
       "Vitamín K tablety",
       "K1/K2 kapsuly",
-      "fytonadión"
+      "Fytonadión"
     ],
     "description": "Výživový doplnok s vitamínom K, pôsobí ako priame fyziologické antidotum voči Warfarínu a výrazne znižuje jeho účinnosť."
   },
   "fish_oil_supplement": {
     "name": "Rybí olej (Omega-3), doplnok stravy",
     "alternative_names": [
-      "omega-3 mastné kyseliny",
+      "Omega-3 mastné kyseliny",
       "EPA/DHA doplnok"
     ],
     "description": "Doplnok stravy s rybím olejom, vysoké dávky môžu mať protidoštičkový účinok a zvyšovať riziko krvácania."
@@ -54,8 +54,8 @@
   "vitamin_e_supplement": {
     "name": "Vitamín E, doplnok stravy",
     "alternative_names": [
-      "tokoferol",
-      "alfa-tokoferol"
+      "Tokoferol",
+      "Alfa-tokoferol"
     ],
     "description": "Doplnok stravy s vitamínom E, vysoké dávky (>= 400 IU) môžu pôsobiť antagonisticky voči vitamínu K a zvyšovať riziko krvácania."
   },
@@ -63,7 +63,7 @@
     "name": "Koenzým Q10",
     "alternative_names": [
       "CoQ10",
-      "ubichinón"
+      "Ubichinón"
     ],
     "description": "Doplnok stravy s koenzýmom Q10, ktorý je štrukturálne podobný vitamínu K a môže znižovať účinnosť Warfarínu."
   }

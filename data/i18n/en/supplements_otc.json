@@ -2,9 +2,9 @@
   "aspirin_otc": {
     "name": "Aspirin (acetylsalicylic acid), OTC",
     "alternative_names": [
-      "acetylsalicylic acid",
+      "Acetylsalicylic acid",
       "ASA",
-      "aspirin"
+      "Aspirin"
     ],
     "description": "Over-the-counter pain reliever, irreversibly inhibits platelet COX-1, posing extreme bleeding risk when combined with anticoagulants."
   },
@@ -21,16 +21,16 @@
   "glucosamine_chondroitin": {
     "name": "Glucosamine + Chondroitin",
     "alternative_names": [
-      "joint supplement",
-      "chondroitin sulfate"
+      "Joint supplement",
+      "Chondroitin sulfate"
     ],
     "description": "Joint health supplement, clinically linked to increased INR and bleeding risk in patients taking Warfarin."
   },
   "melatonin_supplement": {
     "name": "Melatonin supplement",
     "alternative_names": [
-      "sleep supplement",
-      "melatonin"
+      "Sleep supplement",
+      "Melatonin"
     ],
     "description": "Sleep aid hormone supplement, may synergistically increase bleeding risk when taken with Warfarin."
   },
@@ -39,14 +39,14 @@
     "alternative_names": [
       "Vitamin K tablet",
       "K1/K2 capsule",
-      "phytonadione"
+      "Phytonadione"
     ],
     "description": "Vitamin K nutritional supplement, acts as a direct physiological antidote to Warfarin, reducing its efficacy."
   },
   "fish_oil_supplement": {
     "name": "Fish Oil supplement (Omega-3)",
     "alternative_names": [
-      "omega-3 fatty acids",
+      "Omega-3 fatty acids",
       "EPA/DHA supplement"
     ],
     "description": "Fish oil supplement, high doses may possess antiplatelet activity and increase bleeding risk."
@@ -54,8 +54,8 @@
   "vitamin_e_supplement": {
     "name": "Vitamin E supplement",
     "alternative_names": [
-      "tocopherol supplement",
-      "alpha-tocopherol"
+      "Tocopherol supplement",
+      "Alpha-tocopherol"
     ],
     "description": "Vitamin E supplement, high doses (>= 400 IU) can antagonize Vitamin K and increase bleeding risk."
   },
@@ -63,7 +63,7 @@
     "name": "Coenzyme Q10",
     "alternative_names": [
       "CoQ10",
-      "ubiquinone"
+      "Ubiquinone"
     ],
     "description": "Coenzyme Q10 supplement, structurally similar to Vitamin K and can reduce Warfarin efficacy."
   }

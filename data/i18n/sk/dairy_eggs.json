@@ -15,9 +15,9 @@
     "description": "Syr, hermelín."
   },
   "cheese_cheddar": {
-    "name": "Syr, čedar (zahŕňa potraviny pre program distribúcie potravín USDA)",
+    "name": "Syr, čedar ()",
     "alternative_names": [],
-    "description": "Syr, čedar (zahŕňa potraviny pre program distribúcie potravín USDA)."
+    "description": "Syr, čedar ()."
   },
   "cheese_cottage_creamed_with_fruit": {
     "name": "Syrové, cottage, smotanové, s ovocím",
@@ -162,7 +162,7 @@
   "egg_yolk_raw": {
     "name": "Vaječný žĺtok, surový",
     "alternative_names": [
-      "surový žĺtok"
+      "Surový žĺtok"
     ],
     "description": "Žĺtok čerstvého slepačieho vajca, obsahujúci dobre vstrebateľný vitamín K2."
   },
@@ -190,7 +190,7 @@
     "name": "Syr Gouda",
     "alternative_names": [
       "Gouda",
-      "zrejúca Gouda"
+      "Zrejúca Gouda"
     ],
     "description": "Polotvrdý syr pôvodom z Holandska, bohatý na vitamín K2 (najmä MK-4 a dlhšie menachinóny produkované mliečnymi baktériami)."
   },
@@ -565,9 +565,9 @@
     "description": "Syr sub, mozzarella."
   },
   "cheese_sau_prep_from_recipe": {
-    "name": "syrová omáčka, príprava podľa receptu",
+    "name": "Syrová omáčka, príprava podľa receptu",
     "alternative_names": [],
-    "description": "syrová omáčka, príprava podľa receptu."
+    "description": "Syrová omáčka, príprava podľa receptu."
   },
   "cheese_mexican_queso_anejo": {
     "name": "Syr, mexický, queso anejo",
@@ -615,9 +615,9 @@
     "description": "Krém sub, flav, prášok."
   },
   "egg_mix_usda_cmdty": {
-    "name": "Vaječná zmes, usda cmdty",
+    "name": "Vaječná zmes, ",
     "alternative_names": [],
-    "description": "Vaječná zmes, usda cmdty."
+    "description": "Vaječná zmes, ."
   },
   "milk_whl_325_milkfat_wo_added_vit_a_vitamin_d": {
     "name": "Mlieko, whl, 3,25 % mliečneho tuku, s prídavkom vitamínu A a vitamínu D",
@@ -735,9 +735,9 @@
     "description": "Jogurt, grécky, pln, nemastný."
   },
   "kielbasa_kolbassy_pork_bf_nonfat_dry_milk": {
-    "name": "Kielbasa, kolbassy, ​​bravčové mäso, bf, odtučnené sušené mlieko",
+    "name": "Kielbasa, kolbassy, ​​bravčové mäso, hovädzie, odtučnené sušené mlieko",
     "alternative_names": [],
-    "description": "Kielbasa, kolbassy, ​​bravčové mäso, bf, odtučnené sušené mlieko."
+    "description": "Kielbasa, kolbassy, ​​bravčové mäso, hovädzie, odtučnené sušené mlieko."
   },
   "smoked_link_sausage_porkbf_flrnonfat_dry_milk": {
     "name": "Údená klobása, bravčové mäso, nízkotučné sušené mlieko",
@@ -755,9 +755,9 @@
     "description": "Mangold, švajčiarsky, surový."
   },
   "chard_swiss_ckd_bld_drnd_wosalt": {
-    "name": "Mangold, swiss, varené, scedené, bezsoľ",
+    "name": "Mangold, swiss, varené, scedené, bez soli",
     "alternative_names": [],
-    "description": "Mangold, swiss, varené, scedené, bezsoľ."
+    "description": "Mangold, swiss, varené, scedené, bez soli."
   },
   "potatoes_mshd_dehyd_flakes_womilk_dry_form": {
     "name": "Zemiaky, mshd, sušené, vločky s mliekom, suchá forma",
@@ -850,9 +850,9 @@
     "description": "Smotanová bábovka, eclair, puding alebo crem plnené, ľadové."
   },
   "desserts_egg_custard_bkd_prepared_from_recipe": {
-    "name": "Dezerty, vaječný puding, bkd, pripravené podľa receptu",
+    "name": "Dezerty, vaječný puding, pečené, pripravené podľa receptu",
     "alternative_names": [],
-    "description": "Dezerty, vaječný puding, bkd, pripravené podľa receptu."
+    "description": "Dezerty, vaječný puding, pečené, pripravené podľa receptu."
   },
   "egg_custards_dry_mix_prep_w_whl_milk": {
     "name": "Vaječné pudingy, suchá zmes, príprava s mliekom",

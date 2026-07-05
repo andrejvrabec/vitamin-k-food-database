@@ -7,16 +7,16 @@
   "parsley_dried": {
     "name": "Parsley, dried",
     "alternative_names": [
-      "dried parsley flakes"
+      "Dried parsley flakes"
     ],
     "description": "Dehydrated parsley flakes, highly concentrated in Vitamin K1."
   },
   "parsley_fresh": {
     "name": "Parsley, fresh",
     "alternative_names": [
-      "fresh parsley",
-      "curly parsley",
-      "flat leaf parsley"
+      "Fresh parsley",
+      "Curly parsley",
+      "Flat leaf parsley"
     ],
     "description": "Fresh parsley leaves, an extremely rich plant source of Vitamin K1."
   },
@@ -53,7 +53,7 @@
   "thyme_dried": {
     "name": "Thyme, dried",
     "alternative_names": [
-      "dried thyme leaves"
+      "Dried thyme leaves"
     ],
     "description": "Dried thyme leaves, a highly aromatic herb extremely rich in Vitamin K1."
   },
@@ -137,23 +137,23 @@
   "ginger_raw": {
     "name": "Ginger, raw",
     "alternative_names": [
-      "ginger root",
-      "raw ginger"
+      "Ginger root",
+      "Raw ginger"
     ],
     "description": "Raw ginger root, contains gingerols which possess natural antiplatelet activity."
   },
   "ginkgo_biloba": {
     "name": "Ginkgo Biloba",
     "alternative_names": [
-      "maidenhair tree",
-      "ginkgo extract"
+      "Maidenhair tree",
+      "Ginkgo extract"
     ],
     "description": "Ginkgo biloba extract, a potent platelet-activating factor (PAF) antagonist."
   },
   "feverfew": {
     "name": "Feverfew",
     "alternative_names": [
-      "bachelor's buttons",
+      "Bachelor's buttons",
       "Tanacetum parthenium"
     ],
     "description": "Feverfew extract, containing parthenolide which inhibits platelet aggregation."
@@ -161,7 +161,7 @@
   "dong_quai": {
     "name": "Dong Quai",
     "alternative_names": [
-      "female ginseng",
+      "Female ginseng",
       "Angelica sinensis"
     ],
     "description": "Dong Quai herbal extract, contains natural coumarin derivatives."
@@ -185,16 +185,16 @@
     "name": "Alfalfa sprouts, raw",
     "alternative_names": [
       "Medicago sativa",
-      "alfalfa"
+      "Alfalfa"
     ],
     "description": "Raw alfalfa sprouts, high in Vitamin K1 which can antagonize Warfarin."
   },
   "coriander_leaves_fresh": {
     "name": "Coriander leaves (Cilantro), fresh",
     "alternative_names": [
-      "cilantro",
+      "Cilantro",
       "Chinese parsley",
-      "fresh coriander"
+      "Fresh coriander"
     ],
     "description": "Fresh coriander leaves (cilantro), a green herb containing moderate-to-high Vitamin K1."
   }
