@@ -815,6 +815,151 @@
       "relations": {
         "group": "other_herbs_spices"
       }
+    },
+    {
+      "id": "piperade_basque_style_fondue_of_sweet_peppers_and_tomatoes_with_onions_and_garlic_pre",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20240)",
+      "relations": {
+        "group": "garlic"
+      }
+    },
+    {
+      "id": "crouton_with_garlic_herbs_or_onions_prepacked",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 38500)",
+      "relations": {
+        "group": "garlic"
+      }
+    },
+    {
+      "id": "cinnamon_powder",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 31.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11025)",
+      "relations": {
+        "group": "cinnamon"
+      }
+    },
+    {
+      "id": "turmeric_powder",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11089)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "sage_fresh",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 44.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11069)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "basil_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1710.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11032)",
+      "relations": {
+        "group": "basil"
+      }
+    },
+    {
+      "id": "oregano_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 622.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11035)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "sage_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1710.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11037)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
     }
   ]
 }

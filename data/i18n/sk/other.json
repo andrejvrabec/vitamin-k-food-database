@@ -904,11 +904,6 @@
     "alternative_names": [],
     "description": "Tekvica, utierka (utierka), varené, scedené, bez soli."
   },
-  "drumstick_leaves_ckd_bld_drnd_wo_salt": {
-    "name": "Stehenné listy, varené, scedené, bez soli",
-    "alternative_names": [],
-    "description": "Stehenné listy, varené, scedené, bez soli."
-  },
   "jerusalem_artichokes_raw": {
     "name": "Jeruzalemské artičoky, surové",
     "alternative_names": [],
@@ -999,11 +994,6 @@
     "alternative_names": [],
     "description": "Morské riasy, írsky mach, surové."
   },
-  "seaweed_kelp_raw": {
-    "name": "Morské riasy, kel, surové",
-    "alternative_names": [],
-    "description": "Morské riasy, kel, surové."
-  },
   "seaweed_laver_raw": {
     "name": "Morské riasy, umývadlo, surové",
     "alternative_names": [],
@@ -1013,11 +1003,6 @@
     "name": "Taro, surové",
     "alternative_names": [],
     "description": "Taro, surové."
-  },
-  "taro_cooked_without_salt": {
-    "name": "Taro, varené, bez soli",
-    "alternative_names": [],
-    "description": "Taro, varené, bez soli."
   },
   "taro_leaves_raw": {
     "name": "Taro listy, surové",
@@ -1228,11 +1213,6 @@
     "name": "Paprika, sladká, červená, mrazené, sekaná, nepripravená",
     "alternative_names": [],
     "description": "Paprika, sladká, červená, mrazené, sekaná, nepripravená."
-  },
-  "peppers_swt_red_frz_chopd_bld_drnd_wo_salt": {
-    "name": "Paprika, sladká, červená, mrazené, sekaná, varené, scedené, bez soli",
-    "alternative_names": [],
-    "description": "Paprika, sladká, červená, mrazené, sekaná, varené, scedené, bez soli."
   },
   "peppers_swt_red_frz_chopd_bld_drnd_w_salt": {
     "name": "Paprika, sladká, červená, mrazené, sekané, varené, scedené, so soľou",
@@ -2894,11 +2874,6 @@
     "alternative_names": [],
     "description": "Wendy's, klasický single hamburger, s chs."
   },
-  "wendys_jr_hamburger_wo_chs": {
-    "name": "Wendy's, jr. hamburger, bez/ chs",
-    "alternative_names": [],
-    "description": "Wendy's, jr. hamburger, bez/ chs."
-  },
   "wendys_jr_hamburger_w_chs": {
     "name": "Wendy's, jr. hamburger, s chs",
     "alternative_names": [],
@@ -3638,5 +3613,1215 @@
       "Lakric"
     ],
     "description": "Cukrovinky z čierneho sladkého drievka, obsahujú glycyrizín, ktorý môže indukovať CYP3A4 a znižovať účinnosť Warfarínu."
+  },
+  "tabbouleh_or_couscous_salad_with_vegetables_prepacked": {
+    "name": "Tabbouleh alebo kuskusový šalát so zeleninou, balený",
+    "alternative_names": [],
+    "description": "Tabbouleh alebo kuskusový šalát so zeleninou, balený."
+  },
+  "salad_veggie_bulgur_andor_quinoa_based_with_vegetables_prepacked": {
+    "name": "Šalát, zelenina, bulgur a/alebo quinoa, so zeleninou, balené",
+    "alternative_names": [],
+    "description": "Šalát, zelenina, bulgur a/alebo quinoa, so zeleninou, balené."
+  },
+  "poultry_on_skewer_cooked": {
+    "name": "Hydina na ražni, varená",
+    "alternative_names": [],
+    "description": "Hydina na ražni, varená."
+  },
+  "chili_con_carne_prepacked": {
+    "name": "Chili con carne, balené",
+    "alternative_names": [],
+    "description": "Chili con carne, balené."
+  },
+  "sushi_or_maki_with_seafood_products": {
+    "name": "Sushi alebo maki s morskými plodmi",
+    "alternative_names": [],
+    "description": "Sushi alebo maki s morskými plodmi."
+  },
+  "vegetable_rosti_pre_fried_frozen_cooked": {
+    "name": "Zeleninové rožky, predsmažené, mrazené, varené",
+    "alternative_names": [],
+    "description": "Zeleninové rožky, predsmažené, mrazené, varené."
+  },
+  "falafel_from_take_away": {
+    "name": "Falafel, z odberu",
+    "alternative_names": [],
+    "description": "Falafel, z odberu."
+  },
+  "falafel_prepacked": {
+    "name": "Falafel, balený",
+    "alternative_names": [],
+    "description": "Falafel, balený."
+  },
+  "lasagna_or_cannelloni_with_vegetables_prepacked": {
+    "name": "Lasagne alebo cannelloni so zeleninou, balené",
+    "alternative_names": [],
+    "description": "Lasagne alebo cannelloni so zeleninou, balené."
+  },
+  "soy_based_minced_meat_imitate_prepacked": {
+    "name": "Napodobenina mletého mäsa na báze sóje, balené",
+    "alternative_names": [],
+    "description": "Napodobenina mletého mäsa na báze sóje, balené."
+  },
+  "fajitas_home_prepared_from_kit": {
+    "name": "Fajitas, doma pripravený zo súpravy",
+    "alternative_names": [],
+    "description": "Fajitas, doma pripravený zo súpravy."
+  },
+  "hot_dog_prepacked": {
+    "name": "Hot-dog, balené",
+    "alternative_names": [],
+    "description": "Hot-dog, balené."
+  },
+  "hamburger_from_fast_food": {
+    "name": "Hamburger, z rýchleho občerstvenia",
+    "alternative_names": [],
+    "description": "Hamburger, z rýchleho občerstvenia."
+  },
+  "cheeseburger_from_fast_food": {
+    "name": "Cheeseburger, z rýchleho občerstvenia",
+    "alternative_names": [],
+    "description": "Cheeseburger, z rýchleho občerstvenia."
+  },
+  "vol_au_vent_with_meatpoultryquenelle": {
+    "name": "Vol-au-vent s mäsom/hydinou/quenelle",
+    "alternative_names": [],
+    "description": "Vol-au-vent s mäsom/hydinou/quenelle."
+  },
+  "avocado_flesh_without_skin_pitted_raw": {
+    "name": "Avokádo, dužina bez šupky, odkôstkovaná, surové",
+    "alternative_names": [],
+    "description": "Avokádo, dužina bez šupky, odkôstkovaná, surové."
+  },
+  "chayote_raw": {
+    "name": "Chayote, surový",
+    "alternative_names": [],
+    "description": "Chayote, surový."
+  },
+  "dandelion_raw": {
+    "name": "Púpava, surová",
+    "alternative_names": [],
+    "description": "Púpava, surová."
+  },
+  "artichoke_globe_raw": {
+    "name": "Artičok, glóbus, surový",
+    "alternative_names": [],
+    "description": "Artičok, glóbus, surový."
+  },
+  "french_bean_raw": {
+    "name": "Francúzske fazule, surové",
+    "alternative_names": [],
+    "description": "Francúzske fazule, surové."
+  },
+  "french_bean_frozen_raw": {
+    "name": "Francúzske fazule, mrazené, surové",
+    "alternative_names": [],
+    "description": "Francúzske fazule, mrazené, surové."
+  },
+  "chili_pepper_raw": {
+    "name": "Chilli paprička, surová",
+    "alternative_names": [],
+    "description": "Chilli paprička, surová."
+  },
+  "sweet_pepper_yellow_raw": {
+    "name": "Sladká paprika, žltá, surová",
+    "alternative_names": [],
+    "description": "Sladká paprika, žltá, surová."
+  },
+  "snow_pea_raw": {
+    "name": "Snehový hrášok, surový",
+    "alternative_names": [],
+    "description": "Snehový hrášok, surový."
+  },
+  "roman_rocket_raw": {
+    "name": "Rímska raketa, surová",
+    "alternative_names": [],
+    "description": "Rímska raketa, surová."
+  },
+  "glasswort_salicornia_sp_fresh_raw": {
+    "name": "Skleník (Salicornia sp.), čerstvý, surový",
+    "alternative_names": [],
+    "description": "Skleník (Salicornia sp.), čerstvý, surový."
+  },
+  "artichoke_globe_cooked": {
+    "name": "Artičok, glóbus, varený",
+    "alternative_names": [],
+    "description": "Artičok, glóbus, varený."
+  },
+  "eggplant_cooked": {
+    "name": "Baklažán, varený",
+    "alternative_names": [],
+    "description": "Baklažán, varený."
+  },
+  "french_bean_cooked": {
+    "name": "Francúzska fazuľa, varená",
+    "alternative_names": [],
+    "description": "Francúzska fazuľa, varená."
+  },
+  "mixed_diced_vegetables_canned_drained": {
+    "name": "Miešaná zelenina nakrájaná na kocky, konzervovaná, scedená",
+    "alternative_names": [],
+    "description": "Miešaná zelenina nakrájaná na kocky, konzervovaná, scedená."
+  },
+  "french_bean_canned_drained": {
+    "name": "Francúzske fazule, konzervované, scedené",
+    "alternative_names": [],
+    "description": "Francúzske fazule, konzervované, scedené."
+  },
+  "french_bean_frozen_cooked": {
+    "name": "Francúzske fazule, mrazené, varené",
+    "alternative_names": [],
+    "description": "Francúzske fazule, mrazené, varené."
+  },
+  "artichoke_globe_steamed": {
+    "name": "Artičok, glóbus, dusený",
+    "alternative_names": [],
+    "description": "Artičok, glóbus, dusený."
+  },
+  "sweet_pepper_green_cooked": {
+    "name": "Sladká paprika, zelená, varená",
+    "alternative_names": [],
+    "description": "Sladká paprika, zelená, varená."
+  },
+  "artichoke_globe_heart_canned_drained": {
+    "name": "Artičok, glóbus, srdce, konzervovaný, scedený",
+    "alternative_names": [],
+    "description": "Artičok, glóbus, srdce, konzervovaný, scedený."
+  },
+  "artichoke_globe_base_canned_drained": {
+    "name": "Artičok, glóbus, baza, konzervovaný, scedený",
+    "alternative_names": [],
+    "description": "Artičok, glóbus, baza, konzervovaný, scedený."
+  },
+  "snow_pea_boiledcooked_in_water": {
+    "name": "Snehový hrášok, varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Snehový hrášok, varený/varený vo vode."
+  },
+  "snow_pea_cooked": {
+    "name": "Snehový hrášok, varený",
+    "alternative_names": [],
+    "description": "Snehový hrášok, varený."
+  },
+  "vegetables_3_4_types_mashed": {
+    "name": "Zelenina (3-4 druhy), kaša",
+    "alternative_names": [],
+    "description": "Zelenina (3-4 druhy), kaša."
+  },
+  "sweet_pepper_red_canned_drained": {
+    "name": "Sladká paprika, červená, konzervovaná, scedená",
+    "alternative_names": [],
+    "description": "Sladká paprika, červená, konzervovaná, scedená."
+  },
+  "chicory_roastedbaked": {
+    "name": "Čakanka pražená/pečená",
+    "alternative_names": [],
+    "description": "Čakanka pražená/pečená."
+  },
+  "french_bean_boiledcooked_in_water": {
+    "name": "Francúzska fazuľa, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Francúzska fazuľa, varená/varená vo vode."
+  },
+  "vegetable_cooked_average": {
+    "name": "Zelenina, varená (priemer)",
+    "alternative_names": [],
+    "description": "Zelenina, varená (priemer)."
+  },
+  "chinese_cabbageor_bok_cho_bredes_rods_and_leafs_steamed_from_the_island_la_runion_bra": {
+    "name": "Čínska kapusta alebo bok choï bredes, prúty a listy, dusené, z ostrova La Réunion (Brassica rapa subsp. Chinensis)",
+    "alternative_names": [],
+    "description": "Čínska kapusta alebo bok choï bredes, prúty a listy, dusené, z ostrova La Réunion (Brassica rapa subsp. Chinensis)."
+  },
+  "chayote_without_skin_pitted_steamed_sampled_in_the_island_la_runion_sechium_edule": {
+    "name": "Chayote, bez kože, bez kôstok, dusený, vzorkovaný na ostrove La Réunion (Sechium edule)",
+    "alternative_names": [],
+    "description": "Chayote, bez kože, bez kôstok, dusený, vzorkovaný na ostrove La Réunion (Sechium edule)."
+  },
+  "rostis": {
+    "name": "Rostis",
+    "alternative_names": [],
+    "description": "Rostis."
+  },
+  "taro_tuber_raw": {
+    "name": "Taro, hľuza, surová",
+    "alternative_names": [],
+    "description": "Taro, hľuza, surová."
+  },
+  "taro_tuber_cooked": {
+    "name": "Taro, hľuza, varená",
+    "alternative_names": [],
+    "description": "Taro, hľuza, varená."
+  },
+  "cassava_or_manioc_root_raw": {
+    "name": "Maniok alebo maniok, koreň, surový",
+    "alternative_names": [],
+    "description": "Maniok alebo maniok, koreň, surový."
+  },
+  "coco_bean_boiledcooked_in_water": {
+    "name": "Kokosové bôby, varené/varené vo vode",
+    "alternative_names": [],
+    "description": "Kokosové bôby, varené/varené vo vode."
+  },
+  "lentil_boiledcooked_in_water_average": {
+    "name": "Šošovica, varená/varená vo vode (priemer)",
+    "alternative_names": [],
+    "description": "Šošovica, varená/varená vo vode (priemer)."
+  },
+  "broad_bean_boiledcooked_in_water": {
+    "name": "Fazuľa, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Fazuľa, varená/varená vo vode."
+  },
+  "haricot_bean_boiledcooked_in_water": {
+    "name": "Fazuľa, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Fazuľa, varená/varená vo vode."
+  },
+  "red_kidney_bean_boiledcooked_in_water": {
+    "name": "Červená fazuľa, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Červená fazuľa, varená/varená vo vode."
+  },
+  "split_pea_boiledcooked_in_water": {
+    "name": "Hrášok, varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Hrášok, varený/varený vo vode."
+  },
+  "chick_pea_boiledcooked_in_water": {
+    "name": "Cícer varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Cícer varený/varený vo vode."
+  },
+  "haricot_bean_canned_drained": {
+    "name": "Fazuľa, konzervovaná, scedená",
+    "alternative_names": [],
+    "description": "Fazuľa, konzervovaná, scedená."
+  },
+  "flageolet_bean_boiledcooked_in_water": {
+    "name": "Flageolet fazuľa, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Flageolet fazuľa, varená/varená vo vode."
+  },
+  "chick_pea_canned_drained": {
+    "name": "Cícer, konzervovaný, scedený",
+    "alternative_names": [],
+    "description": "Cícer, konzervovaný, scedený."
+  },
+  "flageolet_bean_green_boiledcooked_in_water": {
+    "name": "Flageolet fazuľa, zelená, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Flageolet fazuľa, zelená, varená/varená vo vode."
+  },
+  "broad_bean_peeled_fresh_frozen_boiledcooked_in_water": {
+    "name": "Fazuľa, lúpaná, čerstvá, mrazená, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Fazuľa, lúpaná, čerstvá, mrazená, varená/varená vo vode."
+  },
+  "broad_bean_fresh_frozen_boiledcooked_in_water": {
+    "name": "Fazuľa, čerstvá, mrazená, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Fazuľa, čerstvá, mrazená, varená/varená vo vode."
+  },
+  "lentil_green_boiledcooked_in_water": {
+    "name": "Šošovica, zelená, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Šošovica, zelená, varená/varená vo vode."
+  },
+  "lentil_pink_or_red_boiledcooked_in_water": {
+    "name": "Šošovica, ružová alebo červená, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Šošovica, ružová alebo červená, varená/varená vo vode."
+  },
+  "legume_cooked_average": {
+    "name": "Strukoviny, varené (priemerne)",
+    "alternative_names": [],
+    "description": "Strukoviny, varené (priemerne)."
+  },
+  "broad_bean_to_shell_fresh_raw": {
+    "name": "Fazuľa, lúpaná, čerstvá, surová",
+    "alternative_names": [],
+    "description": "Fazuľa, lúpaná, čerstvá, surová."
+  },
+  "pigeon_pea_immature_fresh_raw": {
+    "name": "Holubák, nezrelý, čerstvý, surový",
+    "alternative_names": [],
+    "description": "Holubák, nezrelý, čerstvý, surový."
+  },
+  "lima_bean_raw": {
+    "name": "Fazuľa Lima, surová",
+    "alternative_names": [],
+    "description": "Fazuľa Lima, surová."
+  },
+  "lentil_dried_average": {
+    "name": "Šošovica, sušená (priemerne)",
+    "alternative_names": [],
+    "description": "Šošovica, sušená (priemerne)."
+  },
+  "haricot_bean_dried": {
+    "name": "Fazuľa, sušená",
+    "alternative_names": [],
+    "description": "Fazuľa, sušená."
+  },
+  "split_pea_dried": {
+    "name": "Hrach štiepaný, sušený",
+    "alternative_names": [],
+    "description": "Hrach štiepaný, sušený."
+  },
+  "chick_pea_dried": {
+    "name": "Cícer sušený",
+    "alternative_names": [],
+    "description": "Cícer sušený."
+  },
+  "broad_bean_dried": {
+    "name": "Fazuľa, sušená",
+    "alternative_names": [],
+    "description": "Fazuľa, sušená."
+  },
+  "red_kidney_bean_dried": {
+    "name": "Červená fazuľa, sušená",
+    "alternative_names": [],
+    "description": "Červená fazuľa, sušená."
+  },
+  "lentil_pink_or_red_dried": {
+    "name": "Šošovica, ružová alebo červená, sušená",
+    "alternative_names": [],
+    "description": "Šošovica, ružová alebo červená, sušená."
+  },
+  "flageolet_bean_green_dried": {
+    "name": "Flageolet fazuľa, zelená, sušená",
+    "alternative_names": [],
+    "description": "Flageolet fazuľa, zelená, sušená."
+  },
+  "lentil_green_dried": {
+    "name": "Šošovica, zelená, sušená",
+    "alternative_names": [],
+    "description": "Šošovica, zelená, sušená."
+  },
+  "lentil_blond_dried": {
+    "name": "Šošovica, blond, sušená",
+    "alternative_names": [],
+    "description": "Šošovica, blond, sušená."
+  },
+  "red_currant_raw": {
+    "name": "Červené ríbezle, surové",
+    "alternative_names": [],
+    "description": "Červené ríbezle, surové."
+  },
+  "mirabelle_plum_pitted_raw": {
+    "name": "Mirabelová slivka, odkôstkovaná, surová",
+    "alternative_names": [],
+    "description": "Mirabelová slivka, odkôstkovaná, surová."
+  },
+  "rhubarb_stalk_raw": {
+    "name": "Rebarbora, stonka, surová",
+    "alternative_names": [],
+    "description": "Rebarbora, stonka, surová."
+  },
+  "black_mulberry_raw": {
+    "name": "Moruša čierna, surová",
+    "alternative_names": [],
+    "description": "Moruša čierna, surová."
+  },
+  "guava_flesh_without_skin_raw": {
+    "name": "Guava, dužina bez šupky, surová",
+    "alternative_names": [],
+    "description": "Guava, dužina bez šupky, surová."
+  },
+  "plum_flesh_and_skin_pitted_raw": {
+    "name": "Slivky, dužina a šupka, odkôstkované, surové",
+    "alternative_names": [],
+    "description": "Slivky, dužina a šupka, odkôstkované, surové."
+  },
+  "fruit_raw_average": {
+    "name": "Ovocie, surové (priemer)",
+    "alternative_names": [],
+    "description": "Ovocie, surové (priemer)."
+  },
+  "rhubarb_stalk_cooked": {
+    "name": "Rebarbora, stopka, varená",
+    "alternative_names": [],
+    "description": "Rebarbora, stopka, varená."
+  },
+  "other_fruit_compote_prepacked": {
+    "name": "Ostatné ovocné kompóty, balené",
+    "alternative_names": [],
+    "description": "Ostatné ovocné kompóty, balené."
+  },
+  "fruit_cocktail_or_salad_canned_in_light_syrup_drained": {
+    "name": "Ovocný koktail alebo šalát, zaváraný v ľahučkom sirupe, scedený",
+    "alternative_names": [],
+    "description": "Ovocný koktail alebo šalát, zaváraný v ľahučkom sirupe, scedený."
+  },
+  "date_flesh_and_skin_pitted_dried": {
+    "name": "Datle, dužina a šupka, odkôstkované, sušené",
+    "alternative_names": [],
+    "description": "Datle, dužina a šupka, odkôstkované, sušené."
+  },
+  "prune_pitted": {
+    "name": "Sušené slivky bez kôstok",
+    "alternative_names": [],
+    "description": "Sušené slivky bez kôstok."
+  },
+  "raisin": {
+    "name": "Hrozienka",
+    "alternative_names": [],
+    "description": "Hrozienka."
+  },
+  "tropical_fruit_mix_sweetened_for_snack_dried": {
+    "name": "Zmes tropického ovocia, sladená, na občerstvenie, sušená",
+    "alternative_names": [],
+    "description": "Zmes tropického ovocia, sladená, na občerstvenie, sušená."
+  },
+  "banana_flesh_without_skin_dried": {
+    "name": "Banán, dužina bez šupky, sušený",
+    "alternative_names": [],
+    "description": "Banán, dužina bez šupky, sušený."
+  },
+  "goji_berry_dried": {
+    "name": "Goji bobule, sušené",
+    "alternative_names": [],
+    "description": "Goji bobule, sušené."
+  },
+  "fruit_dried_average": {
+    "name": "Ovocie, sušené (priemer)",
+    "alternative_names": [],
+    "description": "Ovocie, sušené (priemer)."
+  },
+  "walnut_kernel_dried": {
+    "name": "Orech, jadro, sušené",
+    "alternative_names": [],
+    "description": "Orech, jadro, sušené."
+  },
+  "pistachio_nut_grilled_salted": {
+    "name": "Pistáciové oriešky, grilované, solené",
+    "alternative_names": [],
+    "description": "Pistáciové oriešky, grilované, solené."
+  },
+  "cashew_nut_grilled_salted": {
+    "name": "Kešu oriešky, grilované, solené",
+    "alternative_names": [],
+    "description": "Kešu oriešky, grilované, solené."
+  },
+  "pine_nut": {
+    "name": "Borovicový oriešok",
+    "alternative_names": [],
+    "description": "Borovicový oriešok."
+  },
+  "pecan_nut_no_added_salt": {
+    "name": "Pekanové orechy, bez pridanej soli",
+    "alternative_names": [],
+    "description": "Pekanové orechy, bez pridanej soli."
+  },
+  "flaxseed_seed": {
+    "name": "Ľanové semienko, semená",
+    "alternative_names": [],
+    "description": "Ľanové semienko, semená."
+  },
+  "pistachio_nut_grilled_no_added_salt": {
+    "name": "Pistáciové oriešky, grilované, bez pridania soli",
+    "alternative_names": [],
+    "description": "Pistáciové oriešky, grilované, bez pridania soli."
+  },
+  "flaxseed_brown_seed": {
+    "name": "Ľanové semienko, hnedé, semená",
+    "alternative_names": [],
+    "description": "Ľanové semienko, hnedé, semená."
+  },
+  "cashew_nut_grilled_no_added_salt": {
+    "name": "Kešu orechy, grilované, bez pridanej soli",
+    "alternative_names": [],
+    "description": "Kešu orechy, grilované, bez pridanej soli."
+  },
+  "cashew_nut_dry_grilled_no_added_salt": {
+    "name": "Kešu orechy, nasucho grilované, bez pridania soli",
+    "alternative_names": [],
+    "description": "Kešu orechy, nasucho grilované, bez pridania soli."
+  },
+  "spelt_raw": {
+    "name": "Špalda, surová",
+    "alternative_names": [],
+    "description": "Špalda, surová."
+  },
+  "quinoa_raw": {
+    "name": "Quinoa, surová",
+    "alternative_names": [],
+    "description": "Quinoa, surová."
+  },
+  "rye_wholegrain_raw": {
+    "name": "Ražný, celozrnný, surový",
+    "alternative_names": [],
+    "description": "Ražný, celozrnný, surový."
+  },
+  "rolls_for_burgerhotdog_buns_prepacked": {
+    "name": "Rolky na burger/hotdog (buchty), balené",
+    "alternative_names": [],
+    "description": "Rolky na burger/hotdog (buchty), balené."
+  },
+  "rusk": {
+    "name": "Rusk",
+    "alternative_names": [],
+    "description": "Rusk."
+  },
+  "brioche_rusk": {
+    "name": "Brioche rusk",
+    "alternative_names": [],
+    "description": "Brioche rusk."
+  },
+  "rusk_multigrain": {
+    "name": "Suchár, viaczrnný",
+    "alternative_names": [],
+    "description": "Suchár, viaczrnný."
+  },
+  "rusk_wholemeal": {
+    "name": "Suchár, celozrnný",
+    "alternative_names": [],
+    "description": "Suchár, celozrnný."
+  },
+  "crispbread_with_bran_source_or_rich_in_fibre": {
+    "name": "Chrumkavý chlieb s otrubami, zdroj alebo bohatý na vlákninu",
+    "alternative_names": [],
+    "description": "Chrumkavý chlieb s otrubami, zdroj alebo bohatý na vlákninu."
+  },
+  "brioche_rusk_sliced_prepacked": {
+    "name": "Brioškový suchár, nakrájaný na plátky, balené",
+    "alternative_names": [],
+    "description": "Brioškový suchár, nakrájaný na plátky, balené."
+  },
+  "meat_white_cooked_average": {
+    "name": "Mäso, biele, varené (priemer)",
+    "alternative_names": [],
+    "description": "Mäso, biele, varené (priemer)."
+  },
+  "meat_cooked_average": {
+    "name": "Mäso varené (priemerne)",
+    "alternative_names": [],
+    "description": "Mäso varené (priemerne)."
+  },
+  "poultry_meat_cooked_average": {
+    "name": "Hydina, mäso, varené (priemer)",
+    "alternative_names": [],
+    "description": "Hydina, mäso, varené (priemer)."
+  },
+  "poultry_cooked_average": {
+    "name": "Hydina, varená (priemerne)",
+    "alternative_names": [],
+    "description": "Hydina, varená (priemerne)."
+  },
+  "venison_roebuck_roastedbaked": {
+    "name": "Zverina, srnec, pečený/pečený",
+    "alternative_names": [],
+    "description": "Zverina, srnec, pečený/pečený."
+  },
+  "wild_boar_roastedbaked": {
+    "name": "Diviak, pečený/pečený",
+    "alternative_names": [],
+    "description": "Diviak, pečený/pečený."
+  },
+  "game_cooked_average": {
+    "name": "Divina, varená (priemer)",
+    "alternative_names": [],
+    "description": "Divina, varená (priemer)."
+  },
+  "pheasant_meat_roastedbaked": {
+    "name": "Bažant, mäso, pečené/pečené",
+    "alternative_names": [],
+    "description": "Bažant, mäso, pečené/pečené."
+  },
+  "kid_meat_cooked": {
+    "name": "Kozie mäso, varené",
+    "alternative_names": [],
+    "description": "Kozie mäso, varené."
+  },
+  "rabbit_meat_braised": {
+    "name": "Králik, mäso, dusené",
+    "alternative_names": [],
+    "description": "Králik, mäso, dusené."
+  },
+  "rabbit_wild_meat_cooked": {
+    "name": "Králik, divý, mäso, varené",
+    "alternative_names": [],
+    "description": "Králik, divý, mäso, varené."
+  },
+  "quail_meat_and_skin_cooked": {
+    "name": "Prepelica, mäso a koža, varené",
+    "alternative_names": [],
+    "description": "Prepelica, mäso a koža, varené."
+  },
+  "duck_meat_roastedbaked": {
+    "name": "Kačica, mäso, pečená/pečená",
+    "alternative_names": [],
+    "description": "Kačica, mäso, pečená/pečená."
+  },
+  "goose_meat_and_skin_roastedbaked": {
+    "name": "Hus, mäso a koža, pečené/pečené",
+    "alternative_names": [],
+    "description": "Hus, mäso a koža, pečené/pečené."
+  },
+  "pigeon_meat_roastedbaked": {
+    "name": "Holub, mäso, pečené/pečené",
+    "alternative_names": [],
+    "description": "Holub, mäso, pečené/pečené."
+  },
+  "ostrich_meat_cooked": {
+    "name": "Pštros, mäso, varené",
+    "alternative_names": [],
+    "description": "Pštros, mäso, varené."
+  },
+  "hen_meat_raw": {
+    "name": "Sliepky, mäso, surové",
+    "alternative_names": [],
+    "description": "Sliepky, mäso, surové."
+  },
+  "hen_leg_raw": {
+    "name": "Sliepka, stehno, surové",
+    "alternative_names": [],
+    "description": "Sliepka, stehno, surové."
+  },
+  "hare_meat_raw": {
+    "name": "Zajac, mäso, surové",
+    "alternative_names": [],
+    "description": "Zajac, mäso, surové."
+  },
+  "venison_hart_raw": {
+    "name": "Zverina, jeleň, surová",
+    "alternative_names": [],
+    "description": "Zverina, jeleň, surová."
+  },
+  "capon_meat_and_skin_raw": {
+    "name": "Kapún, mäso a koža, surové",
+    "alternative_names": [],
+    "description": "Kapún, mäso a koža, surové."
+  },
+  "duck_meat_raw": {
+    "name": "Kačica, mäso, surové",
+    "alternative_names": [],
+    "description": "Kačica, mäso, surové."
+  },
+  "goose_meat_raw": {
+    "name": "Hus, mäso, surové",
+    "alternative_names": [],
+    "description": "Hus, mäso, surové."
+  },
+  "duck_terrine": {
+    "name": "Kačacia terina",
+    "alternative_names": [],
+    "description": "Kačacia terina."
+  },
+  "quenelle_plain_raw": {
+    "name": "Quenelle, obyčajná, surová",
+    "alternative_names": [],
+    "description": "Quenelle, obyčajná, surová."
+  },
+  "pigs_trotter_brined": {
+    "name": "Bravčový klusák v slanom náleve",
+    "alternative_names": [],
+    "description": "Bravčový klusák v slanom náleve."
+  },
+  "salami": {
+    "name": "Saláma",
+    "alternative_names": [],
+    "description": "Saláma."
+  },
+  "plant_based_pt_prepacked": {
+    "name": "Rastlinná paštéta, balené",
+    "alternative_names": [],
+    "description": "Rastlinná paštéta, balené."
+  },
+  "gilthead_seabream_roastedbaked": {
+    "name": "Pražma zlatá, pražená/pečená",
+    "alternative_names": [],
+    "description": "Pražma zlatá, pražená/pečená."
+  },
+  "mackerel_raw": {
+    "name": "Makrela, surová",
+    "alternative_names": [],
+    "description": "Makrela, surová."
+  },
+  "european_plaice_raw": {
+    "name": "Platesa európska, surová",
+    "alternative_names": [],
+    "description": "Platesa európska, surová."
+  },
+  "surmullet_or_red_mullet_steamed": {
+    "name": "Parmica alebo parmica, dusená",
+    "alternative_names": [],
+    "description": "Parmica alebo parmica, dusená."
+  },
+  "eel_raw": {
+    "name": "Úhor, surový",
+    "alternative_names": [],
+    "description": "Úhor, surový."
+  },
+  "brown_bullhead_raw": {
+    "name": "Hnedá hlava, surová",
+    "alternative_names": [],
+    "description": "Hnedá hlava, surová."
+  },
+  "winkle_cooked": {
+    "name": "Mrknutie, varené",
+    "alternative_names": [],
+    "description": "Mrknutie, varené."
+  },
+  "shrimp_or_prawn_boiled": {
+    "name": "Krevety alebo krevety, varené",
+    "alternative_names": [],
+    "description": "Krevety alebo krevety, varené."
+  },
+  "trout_roe_canned": {
+    "name": "Ikry zo pstruha, konzervované",
+    "alternative_names": [],
+    "description": "Ikry zo pstruha, konzervované."
+  },
+  "omelette_plain_homemade": {
+    "name": "Omeleta, hladká, domáca",
+    "alternative_names": [],
+    "description": "Omeleta, hladká, domáca."
+  },
+  "fruit_liegeois_refrigerated": {
+    "name": "Liegeois ovocie, chladené",
+    "alternative_names": [],
+    "description": "Liegeois ovocie, chladené."
+  },
+  "soy_dessert_with_fruits_with_sugar_s_fortified_with_calcium_fermented_refrigerated": {
+    "name": "Sójový dezert s ovocím, s cukrom, obohatený vápnikom, fermentovaný, chladený",
+    "alternative_names": [],
+    "description": "Sójový dezert s ovocím, s cukrom, obohatený vápnikom, fermentovaný, chladený."
+  },
+  "soy_dessert_plain_no_added_sugars_not_fortified_fermented_refrigerated": {
+    "name": "Sójový dezert, obyčajný, bez pridaného cukru, neobohatený, fermentovaný, chladený",
+    "alternative_names": [],
+    "description": "Sójový dezert, obyčajný, bez pridaného cukru, neobohatený, fermentovaný, chladený."
+  },
+  "soy_dessert_plain_no_added_sugars_fortified_with_calcium_fermented_refrigerated": {
+    "name": "Sójový dezert, obyčajný, bez pridaného cukru, obohatený vápnikom, fermentovaný, chladený",
+    "alternative_names": [],
+    "description": "Sójový dezert, obyčajný, bez pridaného cukru, obohatený vápnikom, fermentovaný, chladený."
+  },
+  "soy_dessert_with_fruits_with_sugar_s_not_fortified_fermented_refrigerated": {
+    "name": "Sójový dezert, s ovocím, s cukrom (cukromi), neobohatený, fermentovaný, chladený",
+    "alternative_names": [],
+    "description": "Sójový dezert, s ovocím, s cukrom (cukromi), neobohatený, fermentovaný, chladený."
+  },
+  "soy_dessert_with_almonds_with_sugar_s_fortified_with_vitamins_and_minerals_refrigerat": {
+    "name": "Sójový dezert, s mandľami, s cukrom, obohatený o vitamíny a minerály, chladený",
+    "alternative_names": [],
+    "description": "Sójový dezert, s mandľami, s cukrom, obohatený o vitamíny a minerály, chladený."
+  },
+  "soy_dessert_flavoured_with_sugar_s_fortified_with_calcium_refrigerated": {
+    "name": "Sójový dezert, ochutený, s cukrom (cukromi), obohatený vápnikom, chladený",
+    "alternative_names": [],
+    "description": "Sójový dezert, ochutený, s cukrom (cukromi), obohatený vápnikom, chladený."
+  },
+  "soy_dessert_flavoured_with_sugar_s_not_fortified_refrigerated": {
+    "name": "Sójový dezert, ochutený, s cukrom (cukromi), neobohatený, chladený",
+    "alternative_names": [],
+    "description": "Sójový dezert, ochutený, s cukrom (cukromi), neobohatený, chladený."
+  },
+  "soy_dessert_refrigerated_average": {
+    "name": "Sójový dezert, chladený (priemerný)",
+    "alternative_names": [],
+    "description": "Sójový dezert, chladený (priemerný)."
+  },
+  "plant_based_drink_prepacked_average": {
+    "name": "Rastlinný nápoj, balený (priemer)",
+    "alternative_names": [],
+    "description": "Rastlinný nápoj, balený (priemer)."
+  },
+  "soy_drink_prepacked_average": {
+    "name": "Sójový nápoj, balený (priemer)",
+    "alternative_names": [],
+    "description": "Sójový nápoj, balený (priemer)."
+  },
+  "soy_drink_plain_not_fortified_prepacked": {
+    "name": "Sójový nápoj, obyčajný, neobohacovaný, balené",
+    "alternative_names": [],
+    "description": "Sójový nápoj, obyčajný, neobohacovaný, balené."
+  },
+  "soy_drink_plain_fortified_with_calcium_prepacked": {
+    "name": "Sójový nápoj, obyčajný, obohatený vápnikom, balené",
+    "alternative_names": [],
+    "description": "Sójový nápoj, obyčajný, obohatený vápnikom, balené."
+  },
+  "soy_drink_flavoured_with_sugar_s_not_fortified_prepacked": {
+    "name": "Sójový nápoj, ochutený, s cukrom (cukrom), neobohatený, balené",
+    "alternative_names": [],
+    "description": "Sójový nápoj, ochutený, s cukrom (cukrom), neobohatený, balené."
+  },
+  "soy_drink_flavoured_with_sugar_s_fortified_in_calcium_prepacked": {
+    "name": "Sójový nápoj, ochutený, s cukrom (cukromi), obohatený vápnikom, balené",
+    "alternative_names": [],
+    "description": "Sójový nápoj, ochutený, s cukrom (cukromi), obohatený vápnikom, balené."
+  },
+  "coffee_powder_instant": {
+    "name": "Káva, prášok, instantná",
+    "alternative_names": [],
+    "description": "Káva, prášok, instantná."
+  },
+  "cocoa_powder_no_added_sugars_powder_instant": {
+    "name": "Kakaový prášok, bez pridaného cukru, prášok, instantný",
+    "alternative_names": [],
+    "description": "Kakaový prášok, bez pridaného cukru, prášok, instantný."
+  },
+  "fruit_jelly_or_fruit_paste": {
+    "name": "Ovocné želé alebo ovocná pasta",
+    "alternative_names": [],
+    "description": "Ovocné želé alebo ovocná pasta."
+  },
+  "calisson_from_aix_en_provence_marzipan_and_candied_melon_sweet": {
+    "name": "Calisson z Aix Enfamil Provence (marcipán a kandizovaný melón sladký)",
+    "alternative_names": [],
+    "description": "Calisson z Aix Enfamil Provence (marcipán a kandizovaný melón sladký)."
+  },
+  "other_jam_reduced_sugar": {
+    "name": "Iný džem so zníženým obsahom cukru",
+    "alternative_names": [],
+    "description": "Iný džem so zníženým obsahom cukru."
+  },
+  "dulce_de_leche_or_confiture_de_lait": {
+    "name": "Dulce de leche alebo confiture de lait",
+    "alternative_names": [],
+    "description": "Dulce de leche alebo confiture de lait."
+  },
+  "brioche_filled_with_fruits_prepacked": {
+    "name": "Brioška, ​​plnená ovocím, balené",
+    "alternative_names": [],
+    "description": "Brioška, ​​plnená ovocím, balené."
+  },
+  "brioche_plain_prepacked": {
+    "name": "Brioška, ​​hladká, balené",
+    "alternative_names": [],
+    "description": "Brioška, ​​hladká, balené."
+  },
+  "brioche_average": {
+    "name": "Brioche (priemer)",
+    "alternative_names": [],
+    "description": "Brioche (priemer)."
+  },
+  "soja_biscuit_fortified_with_vitamins_and_minerals": {
+    "name": "Sójové sušienky obohatené o vitamíny a minerály",
+    "alternative_names": [],
+    "description": "Sójové sušienky obohatené o vitamíny a minerály."
+  },
+  "speculoos_biscuit": {
+    "name": "Speculoos sušienka",
+    "alternative_names": [],
+    "description": "Speculoos sušienka."
+  },
+  "biscuit_shortbread_with_fruits": {
+    "name": "Sušienky, s ovocím",
+    "alternative_names": [],
+    "description": "Sušienky, s ovocím."
+  },
+  "wafer_biscuit_with_vanilla_filling": {
+    "name": "Oblátková sušienka, s vanilkovou náplňou",
+    "alternative_names": [],
+    "description": "Oblátková sušienka, s vanilkovou náplňou."
+  },
+  "biscuit_sponge_cake_with_fruits_covering_pre_packed": {
+    "name": "Piškótová torta s ovocím, balené",
+    "alternative_names": [],
+    "description": "Piškótová torta s ovocím, balené."
+  },
+  "muesli_average": {
+    "name": "Müsli (priemer)",
+    "alternative_names": [],
+    "description": "Müsli (priemer)."
+  },
+  "muesli_fortified_with_vitamins_and_minerals_average": {
+    "name": "Müsli, obohatené o vitamíny a minerály (priemer)",
+    "alternative_names": [],
+    "description": "Müsli, obohatené o vitamíny a minerály (priemer)."
+  },
+  "oat_flakes": {
+    "name": "Ovsené vločky",
+    "alternative_names": [],
+    "description": "Ovsené vločky."
+  },
+  "muesli_not_fortified_average_food": {
+    "name": "Müsli, neopevnené (priemerná potravina)",
+    "alternative_names": [],
+    "description": "Müsli, neopevnené (priemerná potravina)."
+  },
+  "cake_average": {
+    "name": "Koláč (priemer)",
+    "alternative_names": [],
+    "description": "Koláč (priemer)."
+  },
+  "cheesecake_prepacked": {
+    "name": "Tvarohový koláč, balené",
+    "alternative_names": [],
+    "description": "Tvarohový koláč, balené."
+  },
+  "dessert_opera_cake_type": {
+    "name": "Dezert, typ torty Opera",
+    "alternative_names": [],
+    "description": "Dezert, typ torty Opera."
+  },
+  "rum_baba_from_bakery": {
+    "name": "Rum baba, z pekárne",
+    "alternative_names": [],
+    "description": "Rum baba, z pekárne."
+  },
+  "christmas_log_cake": {
+    "name": "Vianočná polenová torta",
+    "alternative_names": [],
+    "description": "Vianočná polenová torta."
+  },
+  "pound_cake_prepacked": {
+    "name": "Bábovka, balené",
+    "alternative_names": [],
+    "description": "Bábovka, balené."
+  },
+  "kouign_amann_buttered_and_caramelized_milkbread_cake_from_bakery": {
+    "name": "Kouign amann, maslový a karamelizovaný mliečny koláč, z pekárne",
+    "alternative_names": [],
+    "description": "Kouign amann, maslový a karamelizovaný mliečny koláč, z pekárne."
+  },
+  "eclair": {
+    "name": "Eclair",
+    "alternative_names": [],
+    "description": "Eclair."
+  },
+  "crepe_plain_prepacked_refrigerated": {
+    "name": "Krepové, hladké, balené, chladené",
+    "alternative_names": [],
+    "description": "Krepové, hladké, balené, chladené."
+  },
+  "pancake_with_sugar_s_prepacked": {
+    "name": "Palacinka s cukrom (cukromi), balené",
+    "alternative_names": [],
+    "description": "Palacinka s cukrom (cukromi), balené."
+  },
+  "wafer_biscuit_thin_filled_with_honey_caramel_or_soft_brown_sugar_prepacked": {
+    "name": "Oblátková sušienka, tenká, plnená medom, karamelom alebo jemným hnedým cukrom, balené",
+    "alternative_names": [],
+    "description": "Oblátková sušienka, tenká, plnená medom, karamelom alebo jemným hnedým cukrom, balené."
+  },
+  "waffle_from_bakery_plain_from_bakery": {
+    "name": "Vafle, z pekárne, hladké, z pekárne",
+    "alternative_names": [],
+    "description": "Vafle, z pekárne, hladké, z pekárne."
+  },
+  "doughnut_plain_sprinkled_with_sugar": {
+    "name": "Šiška, hladká, posypaná cukrom",
+    "alternative_names": [],
+    "description": "Šiška, hladká, posypaná cukrom."
+  },
+  "doughnut_filled_with_fruit_filling_eg_jam_prepacked_archive": {
+    "name": "Donut plnený ovocnou plnkou (napr. džem), balený-> ARCHÍV",
+    "alternative_names": [],
+    "description": "Donut plnený ovocnou plnkou (napr. džem), balený-> ARCHÍV."
+  },
+  "fruit_cake_candied_fruits_andor_raisins_prepacked": {
+    "name": "Ovocný koláč (kandizované ovocie a/alebo hrozienka), balené",
+    "alternative_names": [],
+    "description": "Ovocný koláč (kandizované ovocie a/alebo hrozienka), balené."
+  },
+  "marble_cake_prepacked": {
+    "name": "Mramorový koláč, balený",
+    "alternative_names": [],
+    "description": "Mramorový koláč, balený."
+  },
+  "soft_cake_filled_with_fruits_mini_sponge_roll_type_prepacked": {
+    "name": "Mäkká torta plnená ovocím, mini piškótový typ, balené",
+    "alternative_names": [],
+    "description": "Mäkká torta plnená ovocím, mini piškótový typ, balené."
+  },
+  "madeleine_cake_prepacked": {
+    "name": "Madeleine torta, balená",
+    "alternative_names": [],
+    "description": "Madeleine torta, balená."
+  },
+  "almond_cake_financier_prepacked": {
+    "name": "Mandľový koláč, finančník, balený",
+    "alternative_names": [],
+    "description": "Mandľový koláč, finančník, balený."
+  },
+  "iced_nougat": {
+    "name": "Ľadový nugát",
+    "alternative_names": [],
+    "description": "Ľadový nugát."
+  },
+  "ketchup_prepacked": {
+    "name": "Kečup, balený",
+    "alternative_names": [],
+    "description": "Kečup, balený."
+  },
+  "gherkin_pickled_in_vinegar": {
+    "name": "Uhorka nakladaná v octe",
+    "alternative_names": [],
+    "description": "Uhorka nakladaná v octe."
+  },
+  "mustard_with_grains": {
+    "name": "Horčica so zrnkami",
+    "alternative_names": [],
+    "description": "Horčica so zrnkami."
+  },
+  "capers_pickled_in_vinegar": {
+    "name": "Kapary, nakladané v octe",
+    "alternative_names": [],
+    "description": "Kapary, nakladané v octe."
+  },
+  "olive_black_in_brine": {
+    "name": "Olivový, čierny, v slanom náleve",
+    "alternative_names": [],
+    "description": "Olivový, čierny, v slanom náleve."
+  },
+  "olive_green_in_brine": {
+    "name": "Olivový, zelený, v slanom náleve",
+    "alternative_names": [],
+    "description": "Olivový, zelený, v slanom náleve."
+  },
+  "olive_average": {
+    "name": "Olivový (priemer)",
+    "alternative_names": [],
+    "description": "Olivový (priemer)."
+  },
+  "olives_black_average_food": {
+    "name": "Olivy, čierne (priemerná potravina)",
+    "alternative_names": [],
+    "description": "Olivy, čierne (priemerná potravina)."
+  },
+  "broth_or_stock_meat_and_vegetables_defatted_dehydrated": {
+    "name": "Vývar alebo vývar, mäso a zelenina, odtučnené, dehydrované",
+    "alternative_names": [],
+    "description": "Vývar alebo vývar, mäso a zelenina, odtučnené, dehydrované."
+  },
+  "black_pepper_powder": {
+    "name": "Čierne korenie, prášok",
+    "alternative_names": [],
+    "description": "Čierne korenie, prášok."
+  },
+  "paprika_powder": {
+    "name": "Paprika, prášok",
+    "alternative_names": [],
+    "description": "Paprika, prášok."
+  },
+  "cloves": {
+    "name": "Klinčeky",
+    "alternative_names": [],
+    "description": "Klinčeky."
+  },
+  "spice_average": {
+    "name": "Korenie (priemer)",
+    "alternative_names": [],
+    "description": "Korenie (priemer)."
+  },
+  "cayenne_pepper_powder": {
+    "name": "Kajenské korenie, prášok",
+    "alternative_names": [],
+    "description": "Kajenské korenie, prášok."
+  },
+  "herbs_fresh_average": {
+    "name": "Byliny, čerstvé (priemerné)",
+    "alternative_names": [],
+    "description": "Byliny, čerstvé (priemerné)."
+  },
+  "coriander_fresh": {
+    "name": "Koriander, čerstvý",
+    "alternative_names": [],
+    "description": "Koriander, čerstvý."
+  },
+  "spirulina_spirulina_sp_dried_or_dehydrated": {
+    "name": "Spirulina (spirulina sp.), sušená alebo dehydrovaná",
+    "alternative_names": [],
+    "description": "Spirulina (spirulina sp.), sušená alebo dehydrovaná."
+  },
+  "seaweed_spirulina_spirulina_sp_fresh_raw": {
+    "name": "Morské riasy, Spirulina (spirulina sp.), čerstvé, surové",
+    "alternative_names": [],
+    "description": "Morské riasy, Spirulina (spirulina sp.), čerstvé, surové."
+  },
+  "seaweed_sea_fennel_fresh_raw": {
+    "name": "Morské riasy, morský fenikel, čerstvé, surové",
+    "alternative_names": [],
+    "description": "Morské riasy, morský fenikel, čerstvé, surové."
+  },
+  "sea_belt_saccharina_latissima_dried_or_dehydrated": {
+    "name": "Morský pás (Saccharina latissima), sušený alebo dehydrovaný",
+    "alternative_names": [],
+    "description": "Morský pás (Saccharina latissima), sušený alebo dehydrovaný."
+  },
+  "laver_porphyra_sp_dried_or_dehydrated": {
+    "name": "Laver (Porphyra sp.), sušený alebo dehydrovaný",
+    "alternative_names": [],
+    "description": "Laver (Porphyra sp.), sušený alebo dehydrovaný."
+  },
+  "dulse_palmaria_palmata_dried_or_dehydrated": {
+    "name": "Dulse (Palmaria palmata), sušená alebo dehydrovaná",
+    "alternative_names": [],
+    "description": "Dulse (Palmaria palmata), sušená alebo dehydrovaná."
+  },
+  "sea_thong_himanthalia_elongata_dried_or_dehydrated": {
+    "name": "Morské tangá (Himanthalia elongata), sušené alebo dehydrované",
+    "alternative_names": [],
+    "description": "Morské tangá (Himanthalia elongata), sušené alebo dehydrované."
+  },
+  "gut_weed_ulva_sp_dried_or_dehydrated": {
+    "name": "Črevná burina (Ulva sp.), sušená alebo dehydrovaná",
+    "alternative_names": [],
+    "description": "Črevná burina (Ulva sp.), sušená alebo dehydrovaná."
+  },
+  "carragheen_mosses_chondrus_crispus_dried_or_dehydrated": {
+    "name": "Carraghenské machy (Chondrus crispus), sušené alebo dehydrované",
+    "alternative_names": [],
+    "description": "Carraghenské machy (Chondrus crispus), sušené alebo dehydrované."
+  },
+  "chlorella_dried_or_dehydrated": {
+    "name": "Chlorella, sušená alebo dehydrovaná",
+    "alternative_names": [],
+    "description": "Chlorella, sušená alebo dehydrovaná."
+  },
+  "north_atlantic_rockweed_ascophyllum_nodosum_dried_or_dehydrated": {
+    "name": "Skalník severoatlantický (Ascophyllum nodosum), sušený alebo dehydrovaný",
+    "alternative_names": [],
+    "description": "Skalník severoatlantický (Ascophyllum nodosum), sušený alebo dehydrovaný."
+  },
+  "atlantic_wakame_alaria_esculenta_dried_or_dehydrated": {
+    "name": "Wakame atlantická (Alaria esculenta), sušená alebo dehydrovaná",
+    "alternative_names": [],
+    "description": "Wakame atlantická (Alaria esculenta), sušená alebo dehydrovaná."
+  },
+  "soy_protein_textured_rehydrated": {
+    "name": "Sójový proteín, textúrovaný, rehydratovaný",
+    "alternative_names": [],
+    "description": "Sójový proteín, textúrovaný, rehydratovaný."
+  },
+  "tofu_plain_prepacked": {
+    "name": "Tofu, hladké, balené",
+    "alternative_names": [],
+    "description": "Tofu, hladké, balené."
+  },
+  "tofu_silky_prepacked": {
+    "name": "Tofu, hodvábne, balené",
+    "alternative_names": [],
+    "description": "Tofu, hodvábne, balené."
+  },
+  "tofu_smoked_prepacked": {
+    "name": "Tofu, údené, balené",
+    "alternative_names": [],
+    "description": "Tofu, údené, balené."
+  },
+  "tempeh": {
+    "name": "Tempeh",
+    "alternative_names": [],
+    "description": "Tempeh."
+  },
+  "baby_food_jar_with_vegetables_from_4_6_months": {
+    "name": "Dóza na detskú výživu so zeleninou, od 4-6 mesiacov",
+    "alternative_names": [],
+    "description": "Dóza na detskú výživu so zeleninou, od 4-6 mesiacov."
+  },
+  "baby_food_jar_with_vegetables_and_starchy_food_from_4_6_months": {
+    "name": "Dóza na detskú výživu so zeleninou a škrobovou výživou, od 4-6 mesiacov",
+    "alternative_names": [],
+    "description": "Dóza na detskú výživu so zeleninou a škrobovou výživou, od 4-6 mesiacov."
+  },
+  "baby_meal_vegetables_and_starchy_food_from_6_8_months": {
+    "name": "Detská strava, zelenina a škrobová výživa, od 6 do 8 mesiacov",
+    "alternative_names": [],
+    "description": "Detská strava, zelenina a škrobová výživa, od 6 do 8 mesiacov."
   }
 }

@@ -1,14 +1,4 @@
 {
-  "apples_raw_without_skin": {
-    "name": "Apples, raw, without skin",
-    "alternative_names": [],
-    "description": "Apples, raw, without skin."
-  },
-  "apricots_canned_heavy_syrup_drained": {
-    "name": "Apricots, canned, heavy syrup, drained",
-    "alternative_names": [],
-    "description": "Apricots, canned, heavy syrup, drained."
-  },
   "apricots_canned_heavy_syrup_pack_with_sk": {
     "name": "Apricots, canned, heavy syrup pack, with skin, solids and",
     "alternative_names": [],
@@ -32,16 +22,6 @@
     "alternative_names": [],
     "description": "Blackberries, frozen, unsweetened."
   },
-  "blackberry_juice_canned": {
-    "name": "Blackberry juice, canned",
-    "alternative_names": [],
-    "description": "Blackberry juice, canned."
-  },
-  "blueberries_frozen_sweetened": {
-    "name": "Blueberries, frozen, sweetened",
-    "alternative_names": [],
-    "description": "Blueberries, frozen, sweetened."
-  },
   "blueberries_raw": {
     "name": "Blueberries, raw",
     "alternative_names": [
@@ -50,20 +30,10 @@
     ],
     "description": "Fresh raw blueberries, containing Vitamin K1 and various antioxidants."
   },
-  "blueberries_wild_canned_heavy_syrup_drai": {
-    "name": "Blueberries, wild, canned, heavy syrup, drained",
-    "alternative_names": [],
-    "description": "Blueberries, wild, canned, heavy syrup, drained."
-  },
   "cherries_sour_red_frozen_unsweetened": {
     "name": "Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)",
     "alternative_names": [],
     "description": "Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)."
-  },
-  "cherries_sweet_canned_water_pack_solids": {
-    "name": "Cherries, sweet, canned, water pack, solids and liquids",
-    "alternative_names": [],
-    "description": "Cherries, sweet, canned, water pack, solids and liquids."
   },
   "cherries_sweet_raw": {
     "name": "Cherries, sweet, raw",
@@ -74,11 +44,6 @@
     "name": "Cookies, fig bars",
     "alternative_names": [],
     "description": "Cookies, fig bars."
-  },
-  "figs_canned_water_pack_solids_and_liquid": {
-    "name": "Figs, canned, water pack, solids and liquids",
-    "alternative_names": [],
-    "description": "Figs, canned, water pack, solids and liquids."
   },
   "fruit_cocktail_canned_heavy_syrup_solids": {
     "name": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids",
@@ -136,11 +101,6 @@
     "alternative_names": [],
     "description": "Orange juice, frozen concentrate, unsweetened, undiluted."
   },
-  "papaya_canned_heavy_syrup_drained": {
-    "name": "Papaya, canned, heavy syrup, drained",
-    "alternative_names": [],
-    "description": "Papaya, canned, heavy syrup, drained."
-  },
   "papayas_raw": {
     "name": "Papayas, raw",
     "alternative_names": [],
@@ -150,21 +110,6 @@
     "name": "Passion-fruit, (granadilla), purple, raw",
     "alternative_names": [],
     "description": "Passion-fruit, (granadilla), purple, raw."
-  },
-  "peaches_canned_light_syrup_pack_solids_a": {
-    "name": "Peaches, canned, light syrup pack, solids and liquids",
-    "alternative_names": [],
-    "description": "Peaches, canned, light syrup pack, solids and liquids."
-  },
-  "peaches_canned_water_pack_solids_and_liq": {
-    "name": "Peaches, canned, water pack, solids and liquids",
-    "alternative_names": [],
-    "description": "Peaches, canned, water pack, solids and liquids."
-  },
-  "pears_canned_light_syrup_pack_solids_and": {
-    "name": "Pears, canned, light syrup pack, solids and liquids",
-    "alternative_names": [],
-    "description": "Pears, canned, light syrup pack, solids and liquids."
   },
   "pears_dried_sulfured_stewed_without_adde": {
     "name": "Pears, dried, sulfured, stewed, without added sugar",
@@ -182,11 +127,6 @@
       "Bottled pomegranate juice"
     ],
     "description": "Pure pomegranate juice, containing moderate Vitamin K1."
-  },
-  "pomegranate_juice_bottled": {
-    "name": "Pomegranate juice, bottled",
-    "alternative_names": [],
-    "description": "Pomegranate juice, bottled."
   },
   "prunes_dried": {
     "name": "Prunes, dried",
@@ -420,11 +360,6 @@
     "name": "Grapes, canned, thompson seedless, heavy syrup pack, solids&liquids",
     "alternative_names": [],
     "description": "Grapes, canned, thompson seedless, heavy syrup pack, solids&liquids."
-  },
-  "grape_juc_cnd_or_btld_unswtnd_wo_added_vit_c": {
-    "name": "Grape juice, canned or bottled, unswtnd, without/ added vit c",
-    "alternative_names": [],
-    "description": "Grape juice, canned or bottled, unswtnd, without/ added vit c."
   },
   "grape_juc_cocktail_frz_conc_undil_w_added_vit": {
     "name": "Grape juice cocktail, frozen concentrate, undiluted, with/ added vit c",
@@ -866,5 +801,145 @@
       "Goji"
     ],
     "description": "Dried goji berries, clinically known to interact with Warfarin by inhibiting CYP2C9."
+  },
+  "kiwi_fruit_flesh_without_skin_with_seeds_raw": {
+    "name": "Kiwi fruit, flesh without skin, with seeds, raw",
+    "alternative_names": [],
+    "description": "Kiwi fruit, flesh without skin, with seeds, raw."
+  },
+  "apple_flesh_and_skin_raw": {
+    "name": "Apple, flesh and skin, raw",
+    "alternative_names": [],
+    "description": "Apple, flesh and skin, raw."
+  },
+  "grape_white_raw": {
+    "name": "Grape, white, raw",
+    "alternative_names": [],
+    "description": "Grape, white, raw."
+  },
+  "prickly_pear_flesh_and_skin_with_seeds_raw": {
+    "name": "Prickly pear, flesh and skin, with seeds, raw",
+    "alternative_names": [],
+    "description": "Prickly pear, flesh and skin, with seeds, raw."
+  },
+  "grape_chasselas_raw": {
+    "name": "Grape, Chasselas, raw",
+    "alternative_names": [],
+    "description": "Grape, Chasselas, raw."
+  },
+  "morello_cherry_raw": {
+    "name": "Morello cherry, raw",
+    "alternative_names": [],
+    "description": "Morello cherry, raw."
+  },
+  "cranberry_raw": {
+    "name": "Cranberry, raw",
+    "alternative_names": [],
+    "description": "Cranberry, raw."
+  },
+  "blueberry_frozen_raw": {
+    "name": "Blueberry, frozen, raw",
+    "alternative_names": [],
+    "description": "Blueberry, frozen, raw."
+  },
+  "grape_raw_average": {
+    "name": "Grape, raw (average)",
+    "alternative_names": [],
+    "description": "Grape, raw (average)."
+  },
+  "persimmon_from_bush_fruit_raw": {
+    "name": "Persimmon, from bush, fruit, raw",
+    "alternative_names": [],
+    "description": "Persimmon, from bush, fruit, raw."
+  },
+  "grape_red_muscat_raw": {
+    "name": "Grape, red, Muscat, raw",
+    "alternative_names": [],
+    "description": "Grape, red, Muscat, raw."
+  },
+  "apple_flesh_without_skin_roastedbaked": {
+    "name": "Apple, flesh without skin, roasted/baked",
+    "alternative_names": [],
+    "description": "Apple, flesh without skin, roasted/baked."
+  },
+  "fig_dried": {
+    "name": "Fig, dried",
+    "alternative_names": [],
+    "description": "Fig, dried."
+  },
+  "apple_dried": {
+    "name": "Apple, dried",
+    "alternative_names": [],
+    "description": "Apple, dried."
+  },
+  "cranberry_dried_with_sugar_s": {
+    "name": "Cranberry, dried, with sugar(s)",
+    "alternative_names": [],
+    "description": "Cranberry, dried, with sugar(s)."
+  },
+  "mango_jos_flesh_without_skin_pitted_raw_sampled_in_the_island_la_runion_mangifera_ind": {
+    "name": "Mango José, flesh without skin, pitted, raw, sampled in the island La Réunion (Mangifera indica L.)",
+    "alternative_names": [],
+    "description": "Mango José, flesh without skin, pitted, raw, sampled in the island La Réunion (Mangifera indica L.)."
+  },
+  "pomegranate_juice_pure_juice": {
+    "name": "Pomegranate juice, pure juice",
+    "alternative_names": [],
+    "description": "Pomegranate juice, pure juice."
+  },
+  "prune_juice": {
+    "name": "Prune juice",
+    "alternative_names": [],
+    "description": "Prune juice."
+  },
+  "vegetable_juice_pure_juice_average": {
+    "name": "Vegetable juice, pure juice (average)",
+    "alternative_names": [],
+    "description": "Vegetable juice, pure juice (average)."
+  },
+  "cranberry_juice": {
+    "name": "Cranberry juice",
+    "alternative_names": [],
+    "description": "Cranberry juice."
+  },
+  "apricot_nectar": {
+    "name": "Apricot nectar",
+    "alternative_names": [],
+    "description": "Apricot nectar."
+  },
+  "pear_nectar": {
+    "name": "Pear nectar",
+    "alternative_names": [],
+    "description": "Pear nectar."
+  },
+  "peach_nectar": {
+    "name": "Peach nectar",
+    "alternative_names": [],
+    "description": "Peach nectar."
+  },
+  "jam_cherry": {
+    "name": "Jam, cherry",
+    "alternative_names": [],
+    "description": "Jam, cherry."
+  },
+  "jam_raspberry": {
+    "name": "Jam, raspberry",
+    "alternative_names": [],
+    "description": "Jam, raspberry."
+  },
+  "breton_pudding_cake_with_prunes": {
+    "name": "Breton pudding cake with prunes",
+    "alternative_names": [],
+    "description": "Breton pudding cake with prunes."
+  },
+  "tatin_tart_caramelized_upside_down_apple_tart": {
+    "name": "Tatin tart (caramelized upside-down apple tart)",
+    "alternative_names": [],
+    "description": "Tatin tart (caramelized upside-down apple tart)."
+  },
+  "pear_tart_with_almonds": {
+    "name": "Pear tart with almonds",
+    "alternative_names": [],
+    "description": "Pear tart with almonds."
   }
 }

@@ -64,6 +64,8 @@ Each file corresponds to a category named `<category_id>.json` and contains:
   - `amount`: Number (e.g. `100` or `1`).
   - `unit`: One of `["g", "ml", "piece", "cup", "tbsp", "tsp"]`.
   - `vitamin_k_mcg`: Amount of Vitamin K in micrograms.
+  - `vitamin_k1_100g_mcg` (optional): Amount of Vitamin K1 in micrograms (only allowed in the standard 100g portion).
+  - `vitamin_k2_100g_mcg` (optional): Amount of Vitamin K2 in micrograms (only allowed in the standard 100g portion).
   - `gram_equivalent`: The equivalent weight in grams. **Required if the unit is NOT `"g"`**. If unit is `"g"`, it is omitted.
 - `source`: Reference source for the data (e.g. USDA FoodData Central ID).
 - `relations` (optional): Grouping and relation identifier (omitted if the food item does not belong to any obvious food group).

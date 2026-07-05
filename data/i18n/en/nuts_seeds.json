@@ -49,11 +49,6 @@
     ],
     "description": "Frozen immature soybeans in pod or shelled, containing moderate Vitamin K1."
   },
-  "edamame_frozen_unprepared": {
-    "name": "Edamame, frozen, unprepared",
-    "alternative_names": [],
-    "description": "Edamame, frozen, unprepared."
-  },
   "lima_beans_immature_seeds_cooked_boiled": {
     "name": "Lima beans, immature seeds, cooked, boiled, drained,",
     "alternative_names": [],
@@ -99,11 +94,6 @@
       "Steamed soybean sprouts"
     ],
     "description": "Cooked sprouted mature soybeans, containing moderate Vitamin K1."
-  },
-  "soybeans_mature_seeds_sprouted_cooked_st": {
-    "name": "Soybeans, mature seeds, sprouted, cooked, steamed",
-    "alternative_names": [],
-    "description": "Soybeans, mature seeds, sprouted, cooked, steamed."
   },
   "ice_crm_cone_choc_covered_w_nuts_flavors_othe": {
     "name": "Ice cream cone, chocolate covered, with/ nuts, flavors other than chocolate",
@@ -635,11 +625,6 @@
     "alternative_names": [],
     "description": "Soybeans, mature seeds, dry rstd."
   },
-  "beans_black_turtle_mature_seeds_ckd_bld_w_sal": {
-    "name": "Beans, black turtle, mature seeds, cooked, boiled, with/ salt",
-    "alternative_names": [],
-    "description": "Beans, black turtle, mature seeds, cooked, boiled, with/ salt."
-  },
   "beans_kidney_red_mature_seeds_ckd_bld_wsalt": {
     "name": "Beans, kidney, red, mature seeds, cooked, boiled, withsalt",
     "alternative_names": [],
@@ -724,5 +709,110 @@
     "name": "Ice cream bar, chocolate or caramel covered, withnuts",
     "alternative_names": [],
     "description": "Ice cream bar, chocolate or caramel covered, withnuts."
+  },
+  "plant_based_burger_or_steak_from_soybean": {
+    "name": "Plant-based burger or steak from soybean",
+    "alternative_names": [],
+    "description": "Plant-based burger or steak from soybean."
+  },
+  "plant_based_burger_or_steak_from_lentil_soybean_and_vegetables_prepacked": {
+    "name": "Plant-based burger or steak from lentil, soybean and vegetables, prepacked",
+    "alternative_names": [],
+    "description": "Plant-based burger or steak from lentil, soybean and vegetables, prepacked."
+  },
+  "plant_based_burger_or_steak_from_soybean_and_vegetables_prepacked": {
+    "name": "Plant-based burger or steak from soybean and vegetables, prepacked",
+    "alternative_names": [],
+    "description": "Plant-based burger or steak from soybean and vegetables, prepacked."
+  },
+  "mung_bean_sprouted_raw": {
+    "name": "Mung bean, sprouted, raw",
+    "alternative_names": [],
+    "description": "Mung bean, sprouted, raw."
+  },
+  "mung_bean_sprouted_canned_drained": {
+    "name": "Mung bean, sprouted, canned, drained",
+    "alternative_names": [],
+    "description": "Mung bean, sprouted, canned, drained."
+  },
+  "mung_bean_fresh_boiledcooked_in_water": {
+    "name": "Mung bean, fresh, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Mung bean, fresh, boiled/cooked in water."
+  },
+  "beans_mung_mature_seeds_dried": {
+    "name": "Beans, mung, mature, seeds, dried",
+    "alternative_names": [],
+    "description": "Beans, mung, mature, seeds, dried."
+  },
+  "tamarind_mature_fruit_flesh_without_skin_with_seeds_raw": {
+    "name": "Tamarind, mature fruit, flesh without skin, with seeds, raw",
+    "alternative_names": [],
+    "description": "Tamarind, mature fruit, flesh without skin, with seeds, raw."
+  },
+  "melon_honeydew_flesh_without_skin_without_seeds_raw": {
+    "name": "Melon, honeydew, flesh without skin, without seeds, raw",
+    "alternative_names": [],
+    "description": "Melon, honeydew, flesh without skin, without seeds, raw."
+  },
+  "mix_of_salted_nuts_and_raisins": {
+    "name": "Mix of salted nuts and raisins",
+    "alternative_names": [],
+    "description": "Mix of salted nuts and raisins."
+  },
+  "sunflower_seed_grilled_salted": {
+    "name": "Sunflower seed, grilled, salted",
+    "alternative_names": [],
+    "description": "Sunflower seed, grilled, salted."
+  },
+  "mix_of_nuts_and_raisins_no_added_salt": {
+    "name": "Mix of nuts and raisins, no added salt",
+    "alternative_names": [],
+    "description": "Mix of nuts and raisins, no added salt."
+  },
+  "seeds_and_peanuts_dried_salted_average": {
+    "name": "Seeds and peanuts, dried, salted (average)",
+    "alternative_names": [],
+    "description": "Seeds and peanuts, dried, salted (average)."
+  },
+  "seeds_and_peanuts_dried_unsalted_average": {
+    "name": "Seeds and peanuts, dried, unsalted (average)",
+    "alternative_names": [],
+    "description": "Seeds and peanuts, dried, unsalted (average)."
+  },
+  "soybean_seed_whole": {
+    "name": "Soybean, seed, whole",
+    "alternative_names": [],
+    "description": "Soybean, seed, whole."
+  },
+  "granola_with_fruits_with_or_without_nut_and_seeds_not_fortified": {
+    "name": "Granola with fruits, with or without nut and seeds, not fortified",
+    "alternative_names": [],
+    "description": "Granola with fruits, with or without nut and seeds, not fortified."
+  },
+  "muesli_with_fruits_nuts_andor_seeds_fortified_with_vitamins_and_minerals": {
+    "name": "Muesli, with fruits, nuts and/or seeds, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Muesli, with fruits, nuts and/or seeds, fortified with vitamins and minerals."
+  },
+  "granola_with_fruits_with_or_without_nut_and_seeds_fortified_with_vitamins_and_mineral": {
+    "name": "Granola with fruits, with or without nut and seeds, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Granola with fruits, with or without nut and seeds, fortified with vitamins and minerals."
+  },
+  "muesli_with_fruits_nuts_andor_seeds_no_added_sugars_not_fortified": {
+    "name": "Muesli, with fruits, nuts and/or seeds, no added sugars, not fortified",
+    "alternative_names": [],
+    "description": "Muesli, with fruits, nuts and/or seeds, no added sugars, not fortified."
+  },
+  "muesli_with_fruits_nuts_andor_seeds_not_fortified": {
+    "name": "Muesli, with fruits, nuts and/or seeds, not fortified",
+    "alternative_names": [],
+    "description": "Muesli, with fruits, nuts and/or seeds, not fortified."
+  },
+  "granola_with_nuts_andor_seeds_only_not_fortified": {
+    "name": "Granola with nuts and/or seeds only, not fortified",
+    "alternative_names": [],
+    "description": "Granola with nuts and/or seeds only, not fortified."
   }
 }

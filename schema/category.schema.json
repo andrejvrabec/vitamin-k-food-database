@@ -25,7 +25,9 @@
                     "amount": { "type": "number", "minimum": 0 },
                     "unit": { "type": "string", "enum": ["g", "ml", "piece", "cup", "tbsp", "tsp"] },
                     "gram_equivalent": { "type": "number", "minimum": 0 },
-                    "vitamin_k_mcg": { "type": "number", "minimum": 0 }
+                    "vitamin_k_mcg": { "type": "number", "minimum": 0 },
+                    "vitamin_k1_100g_mcg": { "type": "number", "minimum": 0 },
+                    "vitamin_k2_100g_mcg": { "type": "number", "minimum": 0 }
                   },
                   "required": ["amount", "unit", "vitamin_k_mcg"],
                   "if": {
@@ -35,7 +37,23 @@
                   },
                   "then": {
                     "required": ["gram_equivalent"]
-                  }
+                  },
+                  "allOf": [
+                    {
+                      "if": {
+                        "anyOf": [
+                          { "required": ["vitamin_k1_100g_mcg"] },
+                          { "required": ["vitamin_k2_100g_mcg"] }
+                        ]
+                      },
+                      "then": {
+                        "properties": {
+                          "amount": { "const": 100 },
+                          "unit": { "const": "g" }
+                        }
+                      }
+                    }
+                  ]
                 },
                 "contains": {
                   "type": "object",

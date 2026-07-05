@@ -50,11 +50,6 @@
     ],
     "description": "Mrazené nezrelé sójové bôby, obsahujúce stredné množstvo vitamínu K1."
   },
-  "edamame_frozen_unprepared": {
-    "name": "Edamame, zmrazené, nepripravené",
-    "alternative_names": [],
-    "description": "Edamame, zmrazené, nepripravené."
-  },
   "lima_beans_immature_seeds_cooked_boiled": {
     "name": "Lima fazuľa, nezrelé semená, varené, scedené,",
     "alternative_names": [],
@@ -100,11 +95,6 @@
       "Parené sójové klíčky"
     ],
     "description": "Varené naklíčené sójové bôby, obsahujúce stredné množstvo vitamínu K1."
-  },
-  "soybeans_mature_seeds_sprouted_cooked_st": {
-    "name": "Sójové bôby, zrelé semená, naklíčené, varené, dusené",
-    "alternative_names": [],
-    "description": "Sójové bôby, zrelé semená, naklíčené, varené, dusené."
   },
   "ice_crm_cone_choc_covered_w_nuts_flavors_othe": {
     "name": "Zmrzlinový kornút, posypaný čokoládou, s orechmi, s príchuťami okrem čokolády",
@@ -636,11 +626,6 @@
     "alternative_names": [],
     "description": "Sójové bôby, zrelé semená, suché."
   },
-  "beans_black_turtle_mature_seeds_ckd_bld_w_sal": {
-    "name": "Fazuľa, čierna korytnačka, zrelé semená, varené, so soľou",
-    "alternative_names": [],
-    "description": "Fazuľa, čierna korytnačka, zrelé semená, varené, so soľou."
-  },
   "beans_kidney_red_mature_seeds_ckd_bld_wsalt": {
     "name": "Fazuľa, obličky, červená, zrelé semená, varené, so soľou",
     "alternative_names": [],
@@ -725,5 +710,110 @@
     "name": "Zmrzlinová tyčinka, čokoláda alebo karamel, s orechmi",
     "alternative_names": [],
     "description": "Zmrzlinová tyčinka, čokoláda alebo karamel, s orechmi."
+  },
+  "plant_based_burger_or_steak_from_soybean": {
+    "name": "Rastlinný burger alebo steak zo sójových bôbov",
+    "alternative_names": [],
+    "description": "Rastlinný burger alebo steak zo sójových bôbov."
+  },
+  "plant_based_burger_or_steak_from_lentil_soybean_and_vegetables_prepacked": {
+    "name": "Rastlinný burger alebo steak zo šošovice, sóje a zeleniny, balené",
+    "alternative_names": [],
+    "description": "Rastlinný burger alebo steak zo šošovice, sóje a zeleniny, balené."
+  },
+  "plant_based_burger_or_steak_from_soybean_and_vegetables_prepacked": {
+    "name": "Rastlinný burger alebo steak zo sójových bôbov a zeleniny, balené",
+    "alternative_names": [],
+    "description": "Rastlinný burger alebo steak zo sójových bôbov a zeleniny, balené."
+  },
+  "mung_bean_sprouted_raw": {
+    "name": "Fazuľa mungo, naklíčená, surová",
+    "alternative_names": [],
+    "description": "Fazuľa mungo, naklíčená, surová."
+  },
+  "mung_bean_sprouted_canned_drained": {
+    "name": "Fazuľa mungo, naklíčená, konzervovaná, scedená",
+    "alternative_names": [],
+    "description": "Fazuľa mungo, naklíčená, konzervovaná, scedená."
+  },
+  "mung_bean_fresh_boiledcooked_in_water": {
+    "name": "Fazuľa mungo, čerstvá, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Fazuľa mungo, čerstvá, varená/varená vo vode."
+  },
+  "beans_mung_mature_seeds_dried": {
+    "name": "Fazuľa, mungo, zrelá, semená, sušené",
+    "alternative_names": [],
+    "description": "Fazuľa, mungo, zrelá, semená, sušené."
+  },
+  "tamarind_mature_fruit_flesh_without_skin_with_seeds_raw": {
+    "name": "Tamarind, zrelé plody, dužina bez šupky, so semenami, surová",
+    "alternative_names": [],
+    "description": "Tamarind, zrelé plody, dužina bez šupky, so semenami, surová."
+  },
+  "melon_honeydew_flesh_without_skin_without_seeds_raw": {
+    "name": "Melón, medovka, dužina bez šupky, bez semien, surová",
+    "alternative_names": [],
+    "description": "Melón, medovka, dužina bez šupky, bez semien, surová."
+  },
+  "mix_of_salted_nuts_and_raisins": {
+    "name": "Zmes slaných orechov a hrozienok",
+    "alternative_names": [],
+    "description": "Zmes slaných orechov a hrozienok."
+  },
+  "sunflower_seed_grilled_salted": {
+    "name": "Slnečnicové semienko, grilované, solené",
+    "alternative_names": [],
+    "description": "Slnečnicové semienko, grilované, solené."
+  },
+  "mix_of_nuts_and_raisins_no_added_salt": {
+    "name": "Zmes orechov a hrozienok, bez pridanej soli",
+    "alternative_names": [],
+    "description": "Zmes orechov a hrozienok, bez pridanej soli."
+  },
+  "seeds_and_peanuts_dried_salted_average": {
+    "name": "Semená a arašidy, sušené, solené (priemer)",
+    "alternative_names": [],
+    "description": "Semená a arašidy, sušené, solené (priemer)."
+  },
+  "seeds_and_peanuts_dried_unsalted_average": {
+    "name": "Semená a arašidy, sušené, nesolené (priemer)",
+    "alternative_names": [],
+    "description": "Semená a arašidy, sušené, nesolené (priemer)."
+  },
+  "soybean_seed_whole": {
+    "name": "Sójové bôby, semená, celé",
+    "alternative_names": [],
+    "description": "Sójové bôby, semená, celé."
+  },
+  "granola_with_fruits_with_or_without_nut_and_seeds_not_fortified": {
+    "name": "Granola s ovocím, s orechmi a semienkami alebo bez nich, neobohatené",
+    "alternative_names": [],
+    "description": "Granola s ovocím, s orechmi a semienkami alebo bez nich, neobohatené."
+  },
+  "muesli_with_fruits_nuts_andor_seeds_fortified_with_vitamins_and_minerals": {
+    "name": "Müsli s ovocím, orechmi a/alebo semienkami, obohatené o vitamíny a minerály",
+    "alternative_names": [],
+    "description": "Müsli s ovocím, orechmi a/alebo semienkami, obohatené o vitamíny a minerály."
+  },
+  "granola_with_fruits_with_or_without_nut_and_seeds_fortified_with_vitamins_and_mineral": {
+    "name": "Granola s ovocím, s orechmi a semienkami alebo bez nich, obohatená o vitamíny a minerály",
+    "alternative_names": [],
+    "description": "Granola s ovocím, s orechmi a semienkami alebo bez nich, obohatená o vitamíny a minerály."
+  },
+  "muesli_with_fruits_nuts_andor_seeds_no_added_sugars_not_fortified": {
+    "name": "Müsli, s ovocím, orechmi a/alebo semienkami, bez pridaného cukru, neobohatené",
+    "alternative_names": [],
+    "description": "Müsli, s ovocím, orechmi a/alebo semienkami, bez pridaného cukru, neobohatené."
+  },
+  "muesli_with_fruits_nuts_andor_seeds_not_fortified": {
+    "name": "Müsli s ovocím, orechmi a/alebo semenami, neobohatené",
+    "alternative_names": [],
+    "description": "Müsli s ovocím, orechmi a/alebo semenami, neobohatené."
+  },
+  "granola_with_nuts_andor_seeds_only_not_fortified": {
+    "name": "Granola len s orechmi a/alebo semienkami, neobohatené",
+    "alternative_names": [],
+    "description": "Granola len s orechmi a/alebo semienkami, neobohatené."
   }
 }

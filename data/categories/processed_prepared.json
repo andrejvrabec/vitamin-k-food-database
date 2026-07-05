@@ -387,33 +387,6 @@
       }
     },
     {
-      "id": "candies_confectioners_coating_peanut_but",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 12.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 12.3,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "k1",
-        "legumes",
-        "processed",
-        "sweetened"
-      ],
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
       "id": "candies_dark_chocolate_coated_coffee_bea",
       "category": "processed_prepared",
       "portions": [
@@ -456,68 +429,16 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 19101)",
       "tags": [
         "chocolate",
+        "cooked",
         "k1",
         "processed",
         "sweetened"
       ],
       "relations": {
         "group": "candy"
-      }
-    },
-    {
-      "id": "candies_mars_snackfood_us_3_musketeers_b",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.7,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
-      "id": "candies_mars_snackfood_us_m_ms_milk_choc",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.9,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "dairy",
-        "k2",
-        "processed",
-        "sweetened"
-      ],
-      "relations": {
-        "group": "milk"
       }
     },
     {
@@ -679,32 +600,6 @@
         "k1",
         "processed",
         "sweetened"
-      ],
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
-      "id": "chocolate_dark_60_69_cacao_solids",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "chocolate",
-        "k1",
-        "processed"
       ],
       "relations": {
         "group": "candy"
@@ -896,34 +791,6 @@
       ],
       "relations": {
         "group": "cranberry"
-      }
-    },
-    {
-      "id": "cream_whipped_cream_topping_pressurized",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 1.1,
-          "gram_equivalent": 150
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "dairy",
-        "k2",
-        "processed",
-        "sweetened"
-      ],
-      "relations": {
-        "group": "cream"
       }
     },
     {
@@ -1793,61 +1660,6 @@
       }
     },
     {
-      "id": "soup_beef_noodle_canned_condensed",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 0.5,
-          "unit": "cup",
-          "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 120
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "high_sodium",
-        "k2",
-        "meat"
-      ],
-      "relations": {
-        "group": "pasta"
-      }
-    },
-    {
-      "id": "soup_black_bean_canned_condensed",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.6,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "high_sodium",
-        "k1",
-        "legumes",
-        "processed"
-      ],
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
       "id": "soup_chicken_canned_chunky_ready_to_serv",
       "category": "processed_prepared",
       "portions": [
@@ -1872,60 +1684,6 @@
       ],
       "relations": {
         "group": "chicken"
-      }
-    },
-    {
-      "id": "soup_chicken_gumbo_canned_condensed",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 14.4
-        },
-        {
-          "amount": 0.5,
-          "unit": "cup",
-          "vitamin_k_mcg": 7.2,
-          "gram_equivalent": 50
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "high_sodium",
-        "k2",
-        "meat"
-      ],
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
-      "id": "soup_chicken_with_rice_canned_condensed",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 0.5,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 120
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "high_sodium",
-        "k2",
-        "meat"
-      ],
-      "relations": {
-        "group": "rice"
       }
     },
     {
@@ -1954,60 +1712,6 @@
       ],
       "relations": {
         "group": "cream"
-      }
-    },
-    {
-      "id": "soup_cream_of_mushroom_canned_condensed",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 20.6
-        },
-        {
-          "amount": 0.5,
-          "unit": "cup",
-          "vitamin_k_mcg": 24.7,
-          "gram_equivalent": 120
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "dairy",
-        "high_sodium",
-        "k2",
-        "mushrooms"
-      ],
-      "relations": {
-        "group": "mushroom"
-      }
-    },
-    {
-      "id": "soup_onion_canned_condensed",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.0
-        },
-        {
-          "amount": 0.5,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 50
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "high_sodium",
-        "k1"
-      ],
-      "relations": {
-        "group": "onion"
       }
     },
     {
@@ -2172,7 +1876,7 @@
           "gram_equivalent": 3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01054)",
+      "source": "USDA SR28 (NDB No: 01054), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "cream"
       }
@@ -5803,7 +5507,7 @@
           "gram_equivalent": 127
         }
       ],
-      "source": "USDA SR28 (NDB No: 03268)",
+      "source": "USDA SR28 (NDB No: 03268), USDA SR28 (NDB No: 43535)",
       "relations": {
         "group": "baby_food"
       }
@@ -8010,6 +7714,7 @@
       "id": "soup_black_bean_cnd_cond",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "high_sodium",
         "k1",
         "legumes",
@@ -8034,7 +7739,7 @@
           "gram_equivalent": 312
         }
       ],
-      "source": "USDA SR28 (NDB No: 06002)",
+      "source": "USDA SR28 (NDB No: 06002), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "beans"
       }
@@ -8077,8 +7782,11 @@
       "id": "soup_bf_noodle_cnd_cond",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "high_sodium",
         "k1",
+        "k2",
+        "meat",
         "processed"
       ],
       "portions": [
@@ -8100,7 +7808,7 @@
           "gram_equivalent": 305
         }
       ],
-      "source": "USDA SR28 (NDB No: 06009)",
+      "source": "USDA SR28 (NDB No: 06009), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "pasta"
       }
@@ -8263,8 +7971,11 @@
       "id": "soup_chick_gumbo_cnd_cond",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "high_sodium",
         "k1",
+        "k2",
+        "meat",
         "processed"
       ],
       "portions": [
@@ -8286,7 +7997,7 @@
           "gram_equivalent": 305
         }
       ],
-      "source": "USDA SR28 (NDB No: 06017)",
+      "source": "USDA SR28 (NDB No: 06017), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "soup"
       }
@@ -8359,8 +8070,11 @@
       "id": "soup_chick_w_rice_cnd_cond",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "high_sodium",
         "k1",
+        "k2",
+        "meat",
         "processed"
       ],
       "portions": [
@@ -8382,7 +8096,7 @@
           "gram_equivalent": 298
         }
       ],
-      "source": "USDA SR28 (NDB No: 06023)",
+      "source": "USDA SR28 (NDB No: 06023), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "rice"
       }
@@ -8647,8 +8361,11 @@
       "id": "soup_crm_of_mushroom_cnd_cond",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
+        "dairy",
         "high_sodium",
         "k1",
+        "k2",
         "mushrooms",
         "processed"
       ],
@@ -8665,7 +8382,7 @@
           "gram_equivalent": 126
         }
       ],
-      "source": "USDA SR28 (NDB No: 06043)",
+      "source": "USDA SR28 (NDB No: 06043), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "mushroom"
       }
@@ -8707,6 +8424,7 @@
       "id": "soup_onion_cnd_cond",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "high_sodium",
         "k1",
         "processed"
@@ -8730,7 +8448,7 @@
           "gram_equivalent": 298
         }
       ],
-      "source": "USDA SR28 (NDB No: 06045)",
+      "source": "USDA SR28 (NDB No: 06045), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "onion"
       }
@@ -11899,7 +11617,7 @@
           "gram_equivalent": 22
         }
       ],
-      "source": "USDA SR28 (NDB No: 14175)",
+      "source": "USDA SR28 (NDB No: 14175), USDA SR28 (NDB No: 14557)",
       "relations": {
         "group": "milk"
       }
@@ -12022,33 +11740,6 @@
       "source": "USDA SR28 (NDB No: 14346)",
       "relations": {
         "group": "candy"
-      }
-    },
-    {
-      "id": "chocolate_flavor_bev_mix_for_milk_pdr_w_added",
-      "category": "processed_prepared",
-      "tags": [
-        "chocolate",
-        "dairy",
-        "k2",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 22
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14557)",
-      "relations": {
-        "group": "milk"
       }
     },
     {
@@ -12676,7 +12367,9 @@
       "category": "processed_prepared",
       "tags": [
         "dairy",
+        "k1",
         "k2",
+        "legumes",
         "processed",
         "sweetened"
       ],
@@ -12699,7 +12392,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 19086)",
+      "source": "USDA SR28 (NDB No: 19086), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "butter"
       }
@@ -12760,34 +12453,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 19100)",
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
-      "id": "candies_fudge_choc_w_nuts_prepared_from_recip",
-      "category": "processed_prepared",
-      "tags": [
-        "chocolate",
-        "cooked",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19101)",
       "relations": {
         "group": "candy"
       }
@@ -13284,7 +12949,7 @@
           "gram_equivalent": 42
         }
       ],
-      "source": "USDA SR28 (NDB No: 19141)",
+      "source": "USDA SR28 (NDB No: 19141), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "milk"
       }
@@ -13538,7 +13203,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 19159)",
+      "source": "USDA SR28 (NDB No: 19159), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "candy"
       }
@@ -14432,71 +14097,7 @@
           "gram_equivalent": 162
         }
       ],
-      "source": "USDA SR28 (NDB No: 19902)",
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
-      "id": "chocolate_dk_60_69_cacao_sol",
-      "category": "processed_prepared",
-      "tags": [
-        "chocolate",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 8.1,
-          "gram_equivalent": 112
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19903)",
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
-      "id": "chocolate_dk_70_85_cacao_sol",
-      "category": "processed_prepared",
-      "tags": [
-        "chocolate",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.1,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.4,
-          "gram_equivalent": 101
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19904)",
+      "source": "USDA SR28 (NDB No: 19902), USDA SR28 (NDB No: 19903), USDA SR28 (NDB No: 19904), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "candy"
       }
@@ -14730,7 +14331,7 @@
           "gram_equivalent": 738
         }
       ],
-      "source": "USDA SR28 (NDB No: 21271)",
+      "source": "USDA SR28 (NDB No: 21271), USDA SR28 (NDB No: 21293)",
       "relations": {
         "group": "pastry"
       }
@@ -14764,7 +14365,7 @@
           "gram_equivalent": 728
         }
       ],
-      "source": "USDA SR28 (NDB No: 21272)",
+      "source": "USDA SR28 (NDB No: 21272), USDA SR28 (NDB No: 21294)",
       "relations": {
         "group": "pastry"
       }
@@ -14798,7 +14399,7 @@
           "gram_equivalent": 573
         }
       ],
-      "source": "USDA SR28 (NDB No: 21273)",
+      "source": "USDA SR28 (NDB No: 21273), USDA SR28 (NDB No: 21295)",
       "relations": {
         "group": "pastry"
       }
@@ -14831,7 +14432,7 @@
           "gram_equivalent": 744
         }
       ],
-      "source": "USDA SR28 (NDB No: 21274)",
+      "source": "USDA SR28 (NDB No: 21274), USDA SR28 (NDB No: 21296)",
       "relations": {
         "group": "pizza"
       }
@@ -14865,7 +14466,7 @@
           "gram_equivalent": 778
         }
       ],
-      "source": "USDA SR28 (NDB No: 21275)",
+      "source": "USDA SR28 (NDB No: 21275), USDA SR28 (NDB No: 21297)",
       "relations": {
         "group": "pastry"
       }
@@ -14898,7 +14499,7 @@
           "gram_equivalent": 1107
         }
       ],
-      "source": "USDA SR28 (NDB No: 21276)",
+      "source": "USDA SR28 (NDB No: 21276), USDA SR28 (NDB No: 21298)",
       "relations": {
         "group": "pizza"
       }
@@ -15431,208 +15032,6 @@
       "source": "USDA SR28 (NDB No: 21292)",
       "relations": {
         "group": "pastry"
-      }
-    },
-    {
-      "id": "pizza_hut_14_chs_pizza_hand_tossed_crust",
-      "category": "processed_prepared",
-      "tags": [
-        "bakery",
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 8.1,
-          "gram_equivalent": 105
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 64.8,
-          "gram_equivalent": 841
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21293)",
-      "relations": {
-        "group": "pastry"
-      }
-    },
-    {
-      "id": "pizza_hut_14_chs_pizza_pan_crust",
-      "category": "processed_prepared",
-      "tags": [
-        "bakery",
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 17.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 19.0,
-          "gram_equivalent": 112
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 152.5,
-          "gram_equivalent": 897
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21294)",
-      "relations": {
-        "group": "pastry"
-      }
-    },
-    {
-      "id": "pizza_hut_14_chs_pizza_thin_n_crispy_crust",
-      "category": "processed_prepared",
-      "tags": [
-        "bakery",
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.1,
-          "gram_equivalent": 79
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 49.4,
-          "gram_equivalent": 641
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21295)",
-      "relations": {
-        "group": "pastry"
-      }
-    },
-    {
-      "id": "pizza_hut_14_pepperoni_pizza_hand_tossed_crus",
-      "category": "processed_prepared",
-      "tags": [
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 8.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 9.4,
-          "gram_equivalent": 110
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 75.1,
-          "gram_equivalent": 883
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21296)",
-      "relations": {
-        "group": "pizza"
-      }
-    },
-    {
-      "id": "pizza_hut_14_pepperoni_pizza_pan_crust",
-      "category": "processed_prepared",
-      "tags": [
-        "bakery",
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 21.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 24.3,
-          "gram_equivalent": 113
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 195.4,
-          "gram_equivalent": 909
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21297)",
-      "relations": {
-        "group": "pastry"
-      }
-    },
-    {
-      "id": "pizza_hut_14_super_supreme_pizza_hand_tossed",
-      "category": "processed_prepared",
-      "tags": [
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 8.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 10.0,
-          "gram_equivalent": 123
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 106.4,
-          "gram_equivalent": 1313
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21298)",
-      "relations": {
-        "group": "pizza"
       }
     },
     {
@@ -18239,37 +17638,6 @@
       }
     },
     {
-      "id": "babyfood_juc_appl_cherry",
-      "category": "processed_prepared",
-      "tags": [
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 31
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 125
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 43535)",
-      "relations": {
-        "group": "cherry"
-      }
-    },
-    {
       "id": "babyfood_dssrt_blueberry_yogurt_str",
       "category": "processed_prepared",
       "tags": [
@@ -18451,6 +17819,2326 @@
       "source": "USDA SR28 (NDB No: 43585)",
       "relations": {
         "group": "baby_food"
+      }
+    },
+    {
+      "id": "celeriac_salad_with_remoulade_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25600)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "mixed_diced_vegetables_salad_with_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 27.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25626)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "caesars_salad_salad_chicken_crotons_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "meat",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 32.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25628)",
+      "relations": {
+        "group": "chicken"
+      }
+    },
+    {
+      "id": "beetroot_salad_with_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26258)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "coleslaw_salad_with_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 23.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26259)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "cucumber_salad_with_fresh_creamcheese_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "k1",
+        "processed",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 29.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26260)",
+      "relations": {
+        "group": "cucumber"
+      }
+    },
+    {
+      "id": "pasta_salad_with_surimi_with_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26276)",
+      "relations": {
+        "group": "pasta"
+      }
+    },
+    {
+      "id": "mixed_salad_alaska_style_with_surimi_pineapple_carrot_with_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26277)",
+      "relations": {
+        "group": "carrot"
+      }
+    },
+    {
+      "id": "pasta_salad_with_chicken_cheese_and_raw_vegetables_with_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "k1",
+        "meat",
+        "processed",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26278)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "pasta_salad_with_chicken_egg_cheese_and_raw_vegetables_with_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "egg",
+        "k1",
+        "meat",
+        "processed",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 18.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26279)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "pasta_salad_with_ham_cheese_and_raw_vegetables_with_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "k1",
+        "meat",
+        "processed",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 23.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26280)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "soup_mixed_vegetables_prepacked_to_be_reheated",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25903)",
+      "relations": {
+        "group": "soup"
+      }
+    },
+    {
+      "id": "soup_mixed_vegetables_dehydrated_and_reconstituted",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25905)",
+      "relations": {
+        "group": "soup"
+      }
+    },
+    {
+      "id": "soup_leek_and_potato_prepacked_to_be_reheated",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25907)",
+      "relations": {
+        "group": "onion"
+      }
+    },
+    {
+      "id": "soup_mushroom_prepacked_to_be_reheated",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "mushrooms",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25912)",
+      "relations": {
+        "group": "mushroom"
+      }
+    },
+    {
+      "id": "soup_tomato_prepacked_to_be_reheated",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25914)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "soup_minestrone_prepacked_to_be_reheated",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25916)",
+      "relations": {
+        "group": "soup"
+      }
+    },
+    {
+      "id": "soup_tomato_dehydrated_and_reconstituted",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25935)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "soup_pumpkin_prepacked_to_be_reheated",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25945)",
+      "relations": {
+        "group": "squash"
+      }
+    },
+    {
+      "id": "soup_green_vegetables_prepacked_to_be_reheated",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25963)",
+      "relations": {
+        "group": "soup"
+      }
+    },
+    {
+      "id": "soup_green_vegetables_dehydrated_and_reconstituted",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25964)",
+      "relations": {
+        "group": "soup"
+      }
+    },
+    {
+      "id": "soup_gazpacho_type_cold_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 52.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25967)",
+      "relations": {
+        "group": "soup"
+      }
+    },
+    {
+      "id": "soup_average",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25969)",
+      "relations": {
+        "group": "soup"
+      }
+    },
+    {
+      "id": "soup_miso_dehydrated_reconstituted",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25972)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "veal_stew_in_white_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "meat",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25001)",
+      "relations": {
+        "group": "beef"
+      }
+    },
+    {
+      "id": "chicken_with_curry_and_coconut_milk_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "k1",
+        "meat",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25174)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "pork_with_caramel_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "meat",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25207)",
+      "relations": {
+        "group": "pork"
+      }
+    },
+    {
+      "id": "white_fish_with_sorrel_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25146)",
+      "relations": {
+        "group": "fish"
+      }
+    },
+    {
+      "id": "vegetables_au_gratin_in_bechamel_sauce_prepacked_cooked",
+      "category": "processed_prepared",
+      "tags": [
+        "cooked",
+        "k1",
+        "meat",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 22.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25588)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "ravioli_filled_with_vegetables_in_tomato_sauce_canned",
+      "category": "processed_prepared",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25192)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "ravioli_filled_with_tofu_in_tomato_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25231)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "pizza_cheese_and_tomato_margherita_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "fast_food",
+        "high_sodium",
+        "k1",
+        "k2",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.1,
+          "vitamin_k1_100g_mcg": 9.3,
+          "vitamin_k2_100g_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25404)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "pizza_bolognese_style_with_meat_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "fast_food",
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25457)",
+      "relations": {
+        "group": "pizza"
+      }
+    },
+    {
+      "id": "pizza_salmon_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "fast_food",
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25464)",
+      "relations": {
+        "group": "fish"
+      }
+    },
+    {
+      "id": "pizza_vegetables_or_4_seasons_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "fast_food",
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25472)",
+      "relations": {
+        "group": "pizza"
+      }
+    },
+    {
+      "id": "sandwich_baguette_tuna_raw_vegetables_and_mayonnaise_from_fast_food",
+      "category": "processed_prepared",
+      "tags": [
+        "fast_food",
+        "high_sodium",
+        "k1",
+        "k2",
+        "processed",
+        "raw",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 18.5,
+          "vitamin_k1_100g_mcg": 14.5,
+          "vitamin_k2_100g_mcg": 3.97
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25632)",
+      "relations": {
+        "group": "mayonnaise"
+      }
+    },
+    {
+      "id": "sandwich_baguette_ham_and_butter_takeaway",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "fast_food",
+        "k2",
+        "meat",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25633)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "sandwich_baguette_ham_and_emmental_cheese_takeaway",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "fast_food",
+        "k2",
+        "meat",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25634)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "sandwich_baguette_chicken_raw_vegetables_and_mayonnaise_takeaway",
+      "category": "processed_prepared",
+      "tags": [
+        "fast_food",
+        "high_sodium",
+        "k1",
+        "k2",
+        "meat",
+        "processed",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.2,
+          "vitamin_k1_100g_mcg": 10.8,
+          "vitamin_k2_100g_mcg": 9.39
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25638)",
+      "relations": {
+        "group": "mayonnaise"
+      }
+    },
+    {
+      "id": "sandwich_baguette_dry_sausage_and_butter_takeaway",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "fast_food",
+        "high_sodium",
+        "k2",
+        "meat",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 18.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25639)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "sandwich_baguette_camembert_cheese_and_butter_takeaway",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "fast_food",
+        "k2",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 21.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25640)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "french_fries_or_chips_frozen_deep_fried",
+      "category": "processed_prepared",
+      "tags": [
+        "cooked",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4032)",
+      "relations": {
+        "group": "snack"
+      }
+    },
+    {
+      "id": "sandwich_loaf_wholemeal_crust_less_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "fast_food",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7109)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "sandwich_loaf_wholemeal_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "fast_food",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7111)",
+      "relations": {
+        "group": "sandwich"
+      }
+    },
+    {
+      "id": "sandwich_loaf_gluten_free_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "fast_food",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7116)",
+      "relations": {
+        "group": "sandwich"
+      }
+    },
+    {
+      "id": "sandwich_loaf_no_added_sugars_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "fast_food",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7117)",
+      "relations": {
+        "group": "sandwich"
+      }
+    },
+    {
+      "id": "sandwich_loaf_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "fast_food",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7200)",
+      "relations": {
+        "group": "sandwich"
+      }
+    },
+    {
+      "id": "sandwich_loaf_crustless_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "fast_food",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7201)",
+      "relations": {
+        "group": "sandwich"
+      }
+    },
+    {
+      "id": "crispbread_extruded_and_grilled_source_or_rich_in_fibre",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7414)"
+    },
+    {
+      "id": "maizcorn_chips_or_tortilla_chips_flavoured",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 38105)",
+      "relations": {
+        "group": "snack"
+      }
+    },
+    {
+      "id": "maizecorn_chips_or_tortilla_chips_plain",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 38417)",
+      "relations": {
+        "group": "snack"
+      }
+    },
+    {
+      "id": "pizza_dough_prepacked_cooked",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "cooked",
+        "fast_food",
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 96778)",
+      "relations": {
+        "group": "pizza"
+      }
+    },
+    {
+      "id": "mackerel_grilled_filet_canned_in_sauce_drained",
+      "category": "processed_prepared",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25994)",
+      "relations": {
+        "group": "fish"
+      }
+    },
+    {
+      "id": "custard_chocolate_coffee_caramel_or_vanilla_topped_with_whipped_cream_refrigerated",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "dairy",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19681)",
+      "relations": {
+        "group": "cream"
+      }
+    },
+    {
+      "id": "chocolate_mousse_plant_based_refrigerated",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 39248)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "malted_cocoa_or_chocolate_powder_for_beverage_with_sugar_s_fortified_with_vitamins_an",
+      "category": "processed_prepared",
+      "tags": [
+        "beverages",
+        "chocolate",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 18102)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "chocolate_bar_with_biscuit",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31000)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "milk_chocolate_bar",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "dairy",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31004)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "dark_chocolate_50_cocoa_bar",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "k2",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31005), Ciqual 2025 (Food Code: 31074)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "milk_chocolate_with_puffedpopped_cereals_bar",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "dairy",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31009)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "chocolate_coated_peanut",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "legumes",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31042)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "chocolate_and_nut_confectionery_filled_with_pralin",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31066)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "dark_chocolate_with_dried_fruits_nuts_almonds_raisin_pralin_bar",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31070)",
+      "relations": {
+        "group": "grape"
+      }
+    },
+    {
+      "id": "dark_chocolate_filled_with_pralin_bar",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31080)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "milk_chocolate_filled_with_pralin_bar",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "dairy",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31084)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "chocolate_bar_milk_chocolate_with_nougat",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "dairy",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31098)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "chocolate_bar_average",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31120)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "milk_roll_filled_with_chocolate_chips_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "dairy",
+        "k1",
+        "k2",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.8,
+          "vitamin_k1_100g_mcg": 7.5,
+          "vitamin_k2_100g_mcg": 3.25
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7712)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "brioche_with_chocolate_chips_or_filled_with_chocolate_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7735)",
+      "relations": {
+        "group": "snack"
+      }
+    },
+    {
+      "id": "crispbread_extruded_and_grilled_chocolate_filling",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "chocolate",
+        "k1",
+        "k2",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.8,
+          "vitamin_k1_100g_mcg": 6.5,
+          "vitamin_k2_100g_mcg": 1.25
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7412)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "biscuit_sponge_cake_with_chocolate_covering_pre_packed",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "chocolate",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 26.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24051)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "biscuit_small_tart_with_chocolate_covering_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24052)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "wafer_biscuit_filled_or_coated_with_chocolate",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24311)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "wafer_biscuit_with_nuts_hazelnut_almond_pralin_etc_filling_with_chocolate_or_not_prep",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24312)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "biscuit_sponge_cake_filled_with_fruits_and_with_chocolate_covering",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "chocolate",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24686)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "breakfast_cereals_with_chocolate_extruded_not_filled_fortified_with_vitamins_and_mine",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32001)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "breakfast_cereals_with_chocolate_not_filled_not_fortified",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32013)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "breakfast_cereals_chocolate_or_chocolate_hazelnut_filling_fortified_with_vitamins_and",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32016)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "breakfast_cereals_chocolate_or_chocolate_hazelnut_filling_not_fortified",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32017)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "cereal_flakes_with_chocolate_with_or_without_nuts_fortified_with_vitamins_and_mineral",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32022)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "cereal_flakes_with_chocolate_with_or_without_nuts_not_fortified",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32028)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "breakfast_cereals_with_chocolate_and_caramel_extruded_fortified_with_vitamins_and_min",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32037)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "granola_with_chocolate_not_fortified",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32109)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "granola_with_chocolate_fortified_with_vitamins_and_minerals",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32112)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "breakfast_cereals_puffed_or_extruded_with_honey_or_caramel_fortified_with_vitamins_an",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32142)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "cereal_bar_with_chocolate",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31106)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "sponge_cake_with_chocolate_with_or_without_cherry_black_forest_cake",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23006)",
+      "relations": {
+        "group": "cherry"
+      }
+    },
+    {
+      "id": "brownie_chocolate_cake_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 27.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23032)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "chocolate_tart_from_bakery",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23497)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "chocolate_cake_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 27.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23585)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "crepe_filled_with_chocolate_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23829)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "doughnut_filled_or_covered_with_chocolate_or_with_chocolate_and_hazelut_paste_prepack",
+      "category": "processed_prepared",
+      "tags": [
+        "bakery",
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23885)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "soft_cake_filled_with_chocolate_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23939)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "soft_cake_with_chocolate_chips_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23943)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "soft_cake_filled_with_chocolate_and_with_chocolate_coating_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23944)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "madeleine_cake_with_chocolate_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 23.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24631)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "sauce_average",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11184)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "tartare_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 154.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11051)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "barbecue_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11100)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "soy_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "legumes",
+        "processed",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11104)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "burgundy_style_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 68.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11120)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "sauce_cold_average",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 23.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11213)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "bolognese_type_vegetarian_sauce_with_soya_proteins_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "legumes",
+        "processed",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11219)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "barnaise_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 89.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11102)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "hollandaise_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11105)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "tomato_sauce_with_onions_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11107)",
+      "relations": {
+        "group": "onion"
+      }
+    },
+    {
+      "id": "tomato_sauce_with_olives_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11178)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "pesto_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 127.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11179)",
+      "relations": {
+        "group": "sauce"
+      }
+    },
+    {
+      "id": "pepper_sauce_warm_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 27.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11182)",
+      "relations": {
+        "group": "pepper"
+      }
+    },
+    {
+      "id": "chocolate_sauce_prepacked",
+      "category": "processed_prepared",
+      "tags": [
+        "chocolate",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11300)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "veal_stock_for_sauce_and_cooking_dehydrated",
+      "category": "processed_prepared",
+      "tags": [
+        "k1",
+        "meat",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11169)",
+      "relations": {
+        "group": "beef"
+      }
+    },
+    {
+      "id": "baby_soup_with_vegetables_and_potatoes",
+      "category": "processed_prepared",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20252)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "baby_soup_with_vegetables_cereals_and_milk",
+      "category": "processed_prepared",
+      "tags": [
+        "dairy",
+        "high_sodium",
+        "k1",
+        "processed"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20253)",
+      "relations": {
+        "group": "milk"
       }
     }
   ]

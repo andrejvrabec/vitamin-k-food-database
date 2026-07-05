@@ -74,11 +74,6 @@
     "alternative_names": [],
     "description": "Candies, chocolate, dark, NFS (45-59% cacao solids 90%; 60- 69% cacao solids 5%; 70-85% cacao solids 5%)."
   },
-  "candies_confectioners_coating_peanut_but": {
-    "name": "Candies, confectioner's coating, peanut butter",
-    "alternative_names": [],
-    "description": "Candies, confectioner's coating, peanut butter."
-  },
   "candies_dark_chocolate_coated_coffee_bea": {
     "name": "Candies, dark chocolate coated coffee beans",
     "alternative_names": [],
@@ -88,16 +83,6 @@
     "name": "Candies, fudge, chocolate, with nuts, prepared-from-recipe",
     "alternative_names": [],
     "description": "Candies, fudge, chocolate, with nuts, prepared-from-recipe."
-  },
-  "candies_mars_snackfood_us_3_musketeers_b": {
-    "name": "Candies, MARS SNACKFOOD US, 3 MUSKETEERS Bar",
-    "alternative_names": [],
-    "description": "Candies, MARS SNACKFOOD US, 3 MUSKETEERS Bar."
-  },
-  "candies_mars_snackfood_us_m_ms_milk_choc": {
-    "name": "Candies, MARS SNACKFOOD US, M & M's Milk Chocolate Candies",
-    "alternative_names": [],
-    "description": "Candies, MARS SNACKFOOD US, M & M's Milk Chocolate Candies."
   },
   "candies_mars_snackfood_us_starburst_frui": {
     "name": "Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Original fruits",
@@ -128,11 +113,6 @@
     "name": "Candies, truffles, prepared-from-recipe",
     "alternative_names": [],
     "description": "Candies, truffles, prepared-from-recipe."
-  },
-  "chocolate_dark_60_69_cacao_solids": {
-    "name": "Chocolate, dark, 60-69% cacao solids",
-    "alternative_names": [],
-    "description": "Chocolate, dark, 60-69% cacao solids."
   },
   "chocolate_flavored_hazelnut_spread": {
     "name": "Chocolate-flavored hazelnut spread",
@@ -168,11 +148,6 @@
     "name": "Cranberry sauce, canned, sweetened",
     "alternative_names": [],
     "description": "Cranberry sauce, canned, sweetened."
-  },
-  "cream_whipped_cream_topping_pressurized": {
-    "name": "Cream, whipped, cream topping, pressurized",
-    "alternative_names": [],
-    "description": "Cream, whipped, cream topping, pressurized."
   },
   "currants_red_and_white_raw": {
     "name": "Currants, red and white, raw",
@@ -344,45 +319,15 @@
     "alternative_names": [],
     "description": "Soup, beef and vegetables, canned, ready-to-serve."
   },
-  "soup_beef_noodle_canned_condensed": {
-    "name": "Soup, beef noodle, canned, condensed",
-    "alternative_names": [],
-    "description": "Soup, beef noodle, canned, condensed."
-  },
-  "soup_black_bean_canned_condensed": {
-    "name": "Soup, black bean, canned, condensed",
-    "alternative_names": [],
-    "description": "Soup, black bean, canned, condensed."
-  },
   "soup_chicken_canned_chunky_ready_to_serv": {
     "name": "Soup, chicken, canned, chunky, ready-to-serve",
     "alternative_names": [],
     "description": "Soup, chicken, canned, chunky, ready-to-serve."
   },
-  "soup_chicken_gumbo_canned_condensed": {
-    "name": "Soup, chicken gumbo, canned, condensed",
-    "alternative_names": [],
-    "description": "Soup, chicken gumbo, canned, condensed."
-  },
-  "soup_chicken_with_rice_canned_condensed": {
-    "name": "Soup, chicken with rice, canned, condensed",
-    "alternative_names": [],
-    "description": "Soup, chicken with rice, canned, condensed."
-  },
   "soup_cream_of_chicken_canned_condensed_r": {
     "name": "Soup, cream of chicken, canned, condensed, reduced",
     "alternative_names": [],
     "description": "Soup, cream of chicken, canned, condensed, reduced."
-  },
-  "soup_cream_of_mushroom_canned_condensed": {
-    "name": "Soup, cream of mushroom, canned, condensed",
-    "alternative_names": [],
-    "description": "Soup, cream of mushroom, canned, condensed."
-  },
-  "soup_onion_canned_condensed": {
-    "name": "Soup, onion, canned, condensed",
-    "alternative_names": [],
-    "description": "Soup, onion, canned, condensed."
   },
   "soup_pea_green_canned_condensed": {
     "name": "Soup, pea, green, canned, condensed",
@@ -2074,11 +2019,6 @@
     "alternative_names": [],
     "description": "Shake, fast food, chocolate."
   },
-  "chocolate_flavor_bev_mix_for_milk_pdr_w_added": {
-    "name": "Chocolate-flavor bev mix for milk, powder, with/ added Nutramigen",
-    "alternative_names": [],
-    "description": "Chocolate-flavor bev mix for milk, powder, with/ added Nutramigen."
-  },
   "chocolate_flavor_bev_mix_w_added_nutr_prep_w": {
     "name": "Chocolate-flavor bev mix with/ added Nutramigen, prep with/ whole milk",
     "alternative_names": [],
@@ -2193,11 +2133,6 @@
     "name": "Candies, fudge, chocolate, prepared-from-recipe",
     "alternative_names": [],
     "description": "Candies, fudge, chocolate, prepared-from-recipe."
-  },
-  "candies_fudge_choc_w_nuts_prepared_from_recip": {
-    "name": "Candies, fudge, chocolate, with/ nuts, prepared-from-recipe",
-    "alternative_names": [],
-    "description": "Candies, fudge, chocolate, with/ nuts, prepared-from-recipe."
   },
   "candies_fudge_pnut_butter_prepared_from_recip": {
     "name": "Candies, fudge, peanut butter, prepared-from-recipe",
@@ -2474,16 +2409,6 @@
     "alternative_names": [],
     "description": "Chocolate, dark, 45- 59% cacao solids."
   },
-  "chocolate_dk_60_69_cacao_sol": {
-    "name": "Chocolate, dark, 60-69% cacao solids",
-    "alternative_names": [],
-    "description": "Chocolate, dark, 60-69% cacao solids."
-  },
-  "chocolate_dk_70_85_cacao_sol": {
-    "name": "Chocolate, dark, 70-85% cacao solids",
-    "alternative_names": [],
-    "description": "Chocolate, dark, 70-85% cacao solids."
-  },
   "candies_choc_dk_nfs_45_59_cacao_sol_90_60_69": {
     "name": "Candies, chocolate, dark, nfs (45-59% cacao solids 90%; 60-69% cacao solids",
     "alternative_names": [],
@@ -2623,36 +2548,6 @@
     "name": "Little caesars 14\" chs pizza, thin crust",
     "alternative_names": [],
     "description": "\"little caesars 14\" chs pizza, thin crust\"."
-  },
-  "pizza_hut_14_chs_pizza_hand_tossed_crust": {
-    "name": "Pizza hut 14\" chs pizza, hand-tossed crust",
-    "alternative_names": [],
-    "description": "\"pizza hut 14\" chs pizza, hand-tossed crust\"."
-  },
-  "pizza_hut_14_chs_pizza_pan_crust": {
-    "name": "Pizza hut 14\" chs pizza, pan crust",
-    "alternative_names": [],
-    "description": "\"pizza hut 14\" chs pizza, pan crust\"."
-  },
-  "pizza_hut_14_chs_pizza_thin_n_crispy_crust": {
-    "name": "Pizza hut 14\" chs pizza, thin 'n crispy crust",
-    "alternative_names": [],
-    "description": "\"pizza hut 14\" chs pizza, thin 'n crispy crust\"."
-  },
-  "pizza_hut_14_pepperoni_pizza_hand_tossed_crus": {
-    "name": "Pizza hut 14\" pepperoni pizza, hand-tossed crust",
-    "alternative_names": [],
-    "description": "\"pizza hut 14\" pepperoni pizza, hand-tossed crust\"."
-  },
-  "pizza_hut_14_pepperoni_pizza_pan_crust": {
-    "name": "Pizza hut 14\" pepperoni pizza, pan crust",
-    "alternative_names": [],
-    "description": "\"pizza hut 14\" pepperoni pizza, pan crust\"."
-  },
-  "pizza_hut_14_super_supreme_pizza_hand_tossed": {
-    "name": "Pizza hut 14\" super supreme pizza, hand-tossed crust",
-    "alternative_names": [],
-    "description": "\"pizza hut 14\" super supreme pizza, hand-tossed crust\"."
   },
   "fast_fd_pizza_chain_14_pizza_chs_topping_reg": {
     "name": "Fast fd, pizza chain, 14\" pizza, chs topping, regular crust",
@@ -3104,11 +2999,6 @@
     "alternative_names": [],
     "description": "Babyfood, rice&appls, dry."
   },
-  "babyfood_juc_appl_cherry": {
-    "name": "Babyfood, juice, apple - cherry",
-    "alternative_names": [],
-    "description": "Babyfood, juice, apple - cherry."
-  },
   "babyfood_dssrt_blueberry_yogurt_str": {
     "name": "Babyfood, dssrt, blueberry yogurt, str",
     "alternative_names": [],
@@ -3138,5 +3028,570 @@
     "name": "Babyfood, fruit supreme dssrt",
     "alternative_names": [],
     "description": "Babyfood, fruit supreme dssrt."
+  },
+  "celeriac_salad_with_remoulade_sauce_prepacked": {
+    "name": "Celeriac salad, with remoulade sauce, prepacked",
+    "alternative_names": [],
+    "description": "Celeriac salad, with remoulade sauce, prepacked."
+  },
+  "mixed_diced_vegetables_salad_with_sauce_prepacked": {
+    "name": "Mixed diced vegetables salad, with sauce, prepacked",
+    "alternative_names": [],
+    "description": "Mixed diced vegetables salad, with sauce, prepacked."
+  },
+  "caesars_salad_salad_chicken_crotons_sauce_prepacked": {
+    "name": "Caesar's salad (salad, chicken, croûtons, sauce), prepacked",
+    "alternative_names": [],
+    "description": "Caesar's salad (salad, chicken, croûtons, sauce), prepacked."
+  },
+  "beetroot_salad_with_sauce_prepacked": {
+    "name": "Beetroot salad, with sauce, prepacked",
+    "alternative_names": [],
+    "description": "Beetroot salad, with sauce, prepacked."
+  },
+  "coleslaw_salad_with_sauce_prepacked": {
+    "name": "Coleslaw salad, with sauce, prepacked",
+    "alternative_names": [],
+    "description": "Coleslaw salad, with sauce, prepacked."
+  },
+  "cucumber_salad_with_fresh_creamcheese_sauce_prepacked": {
+    "name": "Cucumber salad, with fresh cream/cheese sauce, prepacked",
+    "alternative_names": [],
+    "description": "Cucumber salad, with fresh cream/cheese sauce, prepacked."
+  },
+  "pasta_salad_with_surimi_with_sauce_prepacked": {
+    "name": "Pasta salad, with surimi, with sauce, prepacked",
+    "alternative_names": [],
+    "description": "Pasta salad, with surimi, with sauce, prepacked."
+  },
+  "mixed_salad_alaska_style_with_surimi_pineapple_carrot_with_sauce_prepacked": {
+    "name": "Mixed salad, Alaska-style, with surimi, pineapple, carrot, with sauce, prepacked",
+    "alternative_names": [],
+    "description": "Mixed salad, Alaska-style, with surimi, pineapple, carrot, with sauce, prepacked."
+  },
+  "pasta_salad_with_chicken_cheese_and_raw_vegetables_with_sauce_prepacked": {
+    "name": "Pasta salad, with chicken, cheese and raw vegetables, with sauce, prepacked",
+    "alternative_names": [],
+    "description": "Pasta salad, with chicken, cheese and raw vegetables, with sauce, prepacked."
+  },
+  "pasta_salad_with_chicken_egg_cheese_and_raw_vegetables_with_sauce_prepacked": {
+    "name": "Pasta salad, with chicken, egg, cheese and raw vegetables, with sauce, prepacked",
+    "alternative_names": [],
+    "description": "Pasta salad, with chicken, egg, cheese and raw vegetables, with sauce, prepacked."
+  },
+  "pasta_salad_with_ham_cheese_and_raw_vegetables_with_sauce_prepacked": {
+    "name": "Pasta salad, with ham, cheese and raw vegetables, with sauce, prepacked",
+    "alternative_names": [],
+    "description": "Pasta salad, with ham, cheese and raw vegetables, with sauce, prepacked."
+  },
+  "soup_mixed_vegetables_prepacked_to_be_reheated": {
+    "name": "Soup, mixed vegetables, prepacked, to be reheated",
+    "alternative_names": [],
+    "description": "Soup, mixed vegetables, prepacked, to be reheated."
+  },
+  "soup_mixed_vegetables_dehydrated_and_reconstituted": {
+    "name": "Soup, mixed vegetables, dehydrated and reconstituted",
+    "alternative_names": [],
+    "description": "Soup, mixed vegetables, dehydrated and reconstituted."
+  },
+  "soup_leek_and_potato_prepacked_to_be_reheated": {
+    "name": "Soup, leek and potato, prepacked, to be reheated",
+    "alternative_names": [],
+    "description": "Soup, leek and potato, prepacked, to be reheated."
+  },
+  "soup_mushroom_prepacked_to_be_reheated": {
+    "name": "Soup, mushroom, prepacked, to be reheated",
+    "alternative_names": [],
+    "description": "Soup, mushroom, prepacked, to be reheated."
+  },
+  "soup_tomato_prepacked_to_be_reheated": {
+    "name": "Soup, tomato, prepacked, to be reheated",
+    "alternative_names": [],
+    "description": "Soup, tomato, prepacked, to be reheated."
+  },
+  "soup_minestrone_prepacked_to_be_reheated": {
+    "name": "Soup, minestrone, prepacked, to be reheated",
+    "alternative_names": [],
+    "description": "Soup, minestrone, prepacked, to be reheated."
+  },
+  "soup_tomato_dehydrated_and_reconstituted": {
+    "name": "Soup, tomato, dehydrated and reconstituted",
+    "alternative_names": [],
+    "description": "Soup, tomato, dehydrated and reconstituted."
+  },
+  "soup_pumpkin_prepacked_to_be_reheated": {
+    "name": "Soup, pumpkin, prepacked, to be reheated",
+    "alternative_names": [],
+    "description": "Soup, pumpkin, prepacked, to be reheated."
+  },
+  "soup_green_vegetables_prepacked_to_be_reheated": {
+    "name": "Soup, green vegetables, prepacked, to be reheated",
+    "alternative_names": [],
+    "description": "Soup, green vegetables, prepacked, to be reheated."
+  },
+  "soup_green_vegetables_dehydrated_and_reconstituted": {
+    "name": "Soup, green vegetables, dehydrated and reconstituted",
+    "alternative_names": [],
+    "description": "Soup, green vegetables, dehydrated and reconstituted."
+  },
+  "soup_gazpacho_type_cold_prepacked": {
+    "name": "Soup, gazpacho type, cold, prepacked",
+    "alternative_names": [],
+    "description": "Soup, gazpacho type, cold, prepacked."
+  },
+  "soup_average": {
+    "name": "Soup (average)",
+    "alternative_names": [],
+    "description": "Soup (average)."
+  },
+  "soup_miso_dehydrated_reconstituted": {
+    "name": "Soup, miso, dehydrated, reconstituted",
+    "alternative_names": [],
+    "description": "Soup, miso, dehydrated, reconstituted."
+  },
+  "veal_stew_in_white_sauce_prepacked": {
+    "name": "Veal stew in white sauce, prepacked",
+    "alternative_names": [],
+    "description": "Veal stew in white sauce, prepacked."
+  },
+  "chicken_with_curry_and_coconut_milk_sauce_prepacked": {
+    "name": "Chicken with curry and coconut milk sauce, prepacked",
+    "alternative_names": [],
+    "description": "Chicken with curry and coconut milk sauce, prepacked."
+  },
+  "pork_with_caramel_sauce_prepacked": {
+    "name": "Pork with caramel sauce, prepacked",
+    "alternative_names": [],
+    "description": "Pork with caramel sauce, prepacked."
+  },
+  "white_fish_with_sorrel_sauce_prepacked": {
+    "name": "White fish with sorrel sauce, prepacked",
+    "alternative_names": [],
+    "description": "White fish with sorrel sauce, prepacked."
+  },
+  "vegetables_au_gratin_in_bechamel_sauce_prepacked_cooked": {
+    "name": "Vegetables au gratin in bechamel sauce, prepacked, cooked",
+    "alternative_names": [],
+    "description": "Vegetables au gratin in bechamel sauce, prepacked, cooked."
+  },
+  "ravioli_filled_with_vegetables_in_tomato_sauce_canned": {
+    "name": "Ravioli filled with vegetables, in tomato sauce, canned",
+    "alternative_names": [],
+    "description": "Ravioli filled with vegetables, in tomato sauce, canned."
+  },
+  "ravioli_filled_with_tofu_in_tomato_sauce_prepacked": {
+    "name": "Ravioli filled with tofu, in tomato sauce, prepacked",
+    "alternative_names": [],
+    "description": "Ravioli filled with tofu, in tomato sauce, prepacked."
+  },
+  "pizza_cheese_and_tomato_margherita_prepacked": {
+    "name": "Pizza, cheese and tomato (Margherita), prepacked",
+    "alternative_names": [],
+    "description": "Pizza, cheese and tomato (Margherita), prepacked."
+  },
+  "pizza_bolognese_style_with_meat_prepacked": {
+    "name": "Pizza, Bolognese-style with meat, prepacked",
+    "alternative_names": [],
+    "description": "Pizza, Bolognese-style with meat, prepacked."
+  },
+  "pizza_salmon_prepacked": {
+    "name": "Pizza, salmon, prepacked",
+    "alternative_names": [],
+    "description": "Pizza, salmon, prepacked."
+  },
+  "pizza_vegetables_or_4_seasons_prepacked": {
+    "name": "Pizza, vegetables or (4 seasons), prepacked",
+    "alternative_names": [],
+    "description": "Pizza, vegetables or (4 seasons), prepacked."
+  },
+  "sandwich_baguette_tuna_raw_vegetables_and_mayonnaise_from_fast_food": {
+    "name": "Sandwich, baguette, tuna, raw vegetables and mayonnaise, from fast food",
+    "alternative_names": [],
+    "description": "Sandwich, baguette, tuna, raw vegetables and mayonnaise, from fast food."
+  },
+  "sandwich_baguette_ham_and_butter_takeaway": {
+    "name": "Sandwich, baguette, ham and butter, takeaway",
+    "alternative_names": [],
+    "description": "Sandwich, baguette, ham and butter, takeaway."
+  },
+  "sandwich_baguette_ham_and_emmental_cheese_takeaway": {
+    "name": "Sandwich, baguette, ham and emmental cheese, takeaway",
+    "alternative_names": [],
+    "description": "Sandwich, baguette, ham and emmental cheese, takeaway."
+  },
+  "sandwich_baguette_chicken_raw_vegetables_and_mayonnaise_takeaway": {
+    "name": "Sandwich, baguette, chicken, raw vegetables and mayonnaise, takeaway",
+    "alternative_names": [],
+    "description": "Sandwich, baguette, chicken, raw vegetables and mayonnaise, takeaway."
+  },
+  "sandwich_baguette_dry_sausage_and_butter_takeaway": {
+    "name": "Sandwich, baguette, dry sausage and butter, takeaway",
+    "alternative_names": [],
+    "description": "Sandwich, baguette, dry sausage and butter, takeaway."
+  },
+  "sandwich_baguette_camembert_cheese_and_butter_takeaway": {
+    "name": "Sandwich, baguette, camembert cheese and butter, takeaway",
+    "alternative_names": [],
+    "description": "Sandwich, baguette, camembert cheese and butter, takeaway."
+  },
+  "french_fries_or_chips_frozen_deep_fried": {
+    "name": "French fries or chips, frozen, deep-fried",
+    "alternative_names": [],
+    "description": "French fries or chips, frozen, deep-fried."
+  },
+  "sandwich_loaf_wholemeal_crust_less_prepacked": {
+    "name": "Sandwich loaf, wholemeal, crust less, prepacked",
+    "alternative_names": [],
+    "description": "Sandwich loaf, wholemeal, crust less, prepacked."
+  },
+  "sandwich_loaf_wholemeal_prepacked": {
+    "name": "Sandwich loaf, wholemeal, prepacked",
+    "alternative_names": [],
+    "description": "Sandwich loaf, wholemeal, prepacked."
+  },
+  "sandwich_loaf_gluten_free_prepacked": {
+    "name": "Sandwich loaf, gluten free, prepacked",
+    "alternative_names": [],
+    "description": "Sandwich loaf, gluten free, prepacked."
+  },
+  "sandwich_loaf_no_added_sugars_prepacked": {
+    "name": "Sandwich loaf, no added sugars, prepacked",
+    "alternative_names": [],
+    "description": "Sandwich loaf, no added sugars, prepacked."
+  },
+  "sandwich_loaf_prepacked": {
+    "name": "Sandwich loaf, prepacked",
+    "alternative_names": [],
+    "description": "Sandwich loaf, prepacked."
+  },
+  "sandwich_loaf_crustless_prepacked": {
+    "name": "Sandwich loaf, crustless, prepacked",
+    "alternative_names": [],
+    "description": "Sandwich loaf, crustless, prepacked."
+  },
+  "crispbread_extruded_and_grilled_source_or_rich_in_fibre": {
+    "name": "Crispbread, extruded and grilled, source or rich in fibre",
+    "alternative_names": [],
+    "description": "Crispbread, extruded and grilled, source or rich in fibre."
+  },
+  "maizcorn_chips_or_tortilla_chips_flavoured": {
+    "name": "Maiz/corn chips or tortilla chips, flavoured",
+    "alternative_names": [],
+    "description": "Maiz/corn chips or tortilla chips, flavoured."
+  },
+  "maizecorn_chips_or_tortilla_chips_plain": {
+    "name": "Maize/corn chips or tortilla chips, plain",
+    "alternative_names": [],
+    "description": "Maize/corn chips or tortilla chips, plain."
+  },
+  "pizza_dough_prepacked_cooked": {
+    "name": "Pizza dough, prepacked, cooked",
+    "alternative_names": [],
+    "description": "Pizza dough, prepacked, cooked."
+  },
+  "mackerel_grilled_filet_canned_in_sauce_drained": {
+    "name": "Mackerel, grilled filet, canned in sauce, drained",
+    "alternative_names": [],
+    "description": "Mackerel, grilled filet, canned in sauce, drained."
+  },
+  "custard_chocolate_coffee_caramel_or_vanilla_topped_with_whipped_cream_refrigerated": {
+    "name": "Custard (chocolate, coffee, caramel or vanilla) topped with whipped cream, refrigerated",
+    "alternative_names": [],
+    "description": "Custard (chocolate, coffee, caramel or vanilla) topped with whipped cream, refrigerated."
+  },
+  "chocolate_mousse_plant_based_refrigerated": {
+    "name": "Chocolate mousse, plant-based, refrigerated",
+    "alternative_names": [],
+    "description": "Chocolate mousse, plant-based, refrigerated."
+  },
+  "malted_cocoa_or_chocolate_powder_for_beverage_with_sugar_s_fortified_with_vitamins_an": {
+    "name": "Malted cocoa or chocolate powder for beverage, with sugar(s), fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Malted cocoa or chocolate powder for beverage, with sugar(s), fortified with vitamins and minerals."
+  },
+  "chocolate_bar_with_biscuit": {
+    "name": "Chocolate bar with biscuit",
+    "alternative_names": [],
+    "description": "Chocolate bar with biscuit."
+  },
+  "milk_chocolate_bar": {
+    "name": "Milk chocolate, bar",
+    "alternative_names": [],
+    "description": "Milk chocolate, bar."
+  },
+  "dark_chocolate_50_cocoa_bar": {
+    "name": "Dark chocolate, 50% cocoa, bar",
+    "alternative_names": [],
+    "description": "Dark chocolate, 50% cocoa, bar."
+  },
+  "milk_chocolate_with_puffedpopped_cereals_bar": {
+    "name": "Milk chocolate, with puffed/popped cereals, bar",
+    "alternative_names": [],
+    "description": "Milk chocolate, with puffed/popped cereals, bar."
+  },
+  "chocolate_coated_peanut": {
+    "name": "Chocolate-coated peanut",
+    "alternative_names": [],
+    "description": "Chocolate-coated peanut."
+  },
+  "chocolate_and_nut_confectionery_filled_with_pralin": {
+    "name": "Chocolate and nut confectionery, filled with praliné",
+    "alternative_names": [],
+    "description": "Chocolate and nut confectionery, filled with praliné."
+  },
+  "dark_chocolate_with_dried_fruits_nuts_almonds_raisin_pralin_bar": {
+    "name": "Dark chocolate, with dried fruits (nuts, almonds, raisin, praliné), bar",
+    "alternative_names": [],
+    "description": "Dark chocolate, with dried fruits (nuts, almonds, raisin, praliné), bar."
+  },
+  "dark_chocolate_filled_with_pralin_bar": {
+    "name": "Dark chocolate, filled with praliné, bar",
+    "alternative_names": [],
+    "description": "Dark chocolate, filled with praliné, bar."
+  },
+  "milk_chocolate_filled_with_pralin_bar": {
+    "name": "Milk chocolate, filled with praliné, bar",
+    "alternative_names": [],
+    "description": "Milk chocolate, filled with praliné, bar."
+  },
+  "chocolate_bar_milk_chocolate_with_nougat": {
+    "name": "Chocolate bar, milk chocolate, with nougat",
+    "alternative_names": [],
+    "description": "Chocolate bar, milk chocolate, with nougat."
+  },
+  "chocolate_bar_average": {
+    "name": "Chocolate, bar (average)",
+    "alternative_names": [],
+    "description": "Chocolate, bar (average)."
+  },
+  "milk_roll_filled_with_chocolate_chips_prepacked": {
+    "name": "Milk roll filled with chocolate chips, prepacked",
+    "alternative_names": [],
+    "description": "Milk roll filled with chocolate chips, prepacked."
+  },
+  "brioche_with_chocolate_chips_or_filled_with_chocolate_prepacked": {
+    "name": "Brioche, with chocolate chips or filled with chocolate, prepacked",
+    "alternative_names": [],
+    "description": "Brioche, with chocolate chips or filled with chocolate, prepacked."
+  },
+  "crispbread_extruded_and_grilled_chocolate_filling": {
+    "name": "Crispbread, extruded and grilled, chocolate filling",
+    "alternative_names": [],
+    "description": "Crispbread, extruded and grilled, chocolate filling."
+  },
+  "biscuit_sponge_cake_with_chocolate_covering_pre_packed": {
+    "name": "Biscuit sponge cake, with chocolate covering, pre-packed",
+    "alternative_names": [],
+    "description": "Biscuit sponge cake, with chocolate covering, pre-packed."
+  },
+  "biscuit_small_tart_with_chocolate_covering_prepacked": {
+    "name": "Biscuit (small tart), with chocolate covering, prepacked",
+    "alternative_names": [],
+    "description": "Biscuit (small tart), with chocolate covering, prepacked."
+  },
+  "wafer_biscuit_filled_or_coated_with_chocolate": {
+    "name": "Wafer biscuit, filled or coated with chocolate",
+    "alternative_names": [],
+    "description": "Wafer biscuit, filled or coated with chocolate."
+  },
+  "wafer_biscuit_with_nuts_hazelnut_almond_pralin_etc_filling_with_chocolate_or_not_prep": {
+    "name": "Wafer biscuit, with nuts (hazelnut, almond, praliné, etc.) filling, with chocolate or not, prepacked",
+    "alternative_names": [],
+    "description": "Wafer biscuit, with nuts (hazelnut, almond, praliné, etc.) filling, with chocolate or not, prepacked."
+  },
+  "biscuit_sponge_cake_filled_with_fruits_and_with_chocolate_covering": {
+    "name": "Biscuit sponge cake, filled with fruits and with chocolate covering",
+    "alternative_names": [],
+    "description": "Biscuit sponge cake, filled with fruits and with chocolate covering."
+  },
+  "breakfast_cereals_with_chocolate_extruded_not_filled_fortified_with_vitamins_and_mine": {
+    "name": "Breakfast cereals with chocolate, extruded, not filled, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Breakfast cereals with chocolate, extruded, not filled, fortified with vitamins and minerals."
+  },
+  "breakfast_cereals_with_chocolate_not_filled_not_fortified": {
+    "name": "Breakfast cereals with chocolate, not filled, not fortified",
+    "alternative_names": [],
+    "description": "Breakfast cereals with chocolate, not filled, not fortified."
+  },
+  "breakfast_cereals_chocolate_or_chocolate_hazelnut_filling_fortified_with_vitamins_and": {
+    "name": "Breakfast cereals, chocolate or chocolate-hazelnut filling, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Breakfast cereals, chocolate or chocolate-hazelnut filling, fortified with vitamins and minerals."
+  },
+  "breakfast_cereals_chocolate_or_chocolate_hazelnut_filling_not_fortified": {
+    "name": "Breakfast cereals, chocolate or chocolate-hazelnut filling, not fortified",
+    "alternative_names": [],
+    "description": "Breakfast cereals, chocolate or chocolate-hazelnut filling, not fortified."
+  },
+  "cereal_flakes_with_chocolate_with_or_without_nuts_fortified_with_vitamins_and_mineral": {
+    "name": "Cereal flakes with chocolate, with or without nuts, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Cereal flakes with chocolate, with or without nuts, fortified with vitamins and minerals."
+  },
+  "cereal_flakes_with_chocolate_with_or_without_nuts_not_fortified": {
+    "name": "Cereal flakes with chocolate, with or without nuts, not fortified",
+    "alternative_names": [],
+    "description": "Cereal flakes with chocolate, with or without nuts, not fortified."
+  },
+  "breakfast_cereals_with_chocolate_and_caramel_extruded_fortified_with_vitamins_and_min": {
+    "name": "Breakfast cereals with chocolate and caramel, extruded, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Breakfast cereals with chocolate and caramel, extruded, fortified with vitamins and minerals."
+  },
+  "granola_with_chocolate_not_fortified": {
+    "name": "Granola with chocolate, not fortified",
+    "alternative_names": [],
+    "description": "Granola with chocolate, not fortified."
+  },
+  "granola_with_chocolate_fortified_with_vitamins_and_minerals": {
+    "name": "Granola with chocolate, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Granola with chocolate, fortified with vitamins and minerals."
+  },
+  "breakfast_cereals_puffed_or_extruded_with_honey_or_caramel_fortified_with_vitamins_an": {
+    "name": "Breakfast cereals, puffed or extruded, with honey or caramel, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Breakfast cereals, puffed or extruded, with honey or caramel, fortified with vitamins and minerals."
+  },
+  "cereal_bar_with_chocolate": {
+    "name": "Cereal bar with chocolate",
+    "alternative_names": [],
+    "description": "Cereal bar with chocolate."
+  },
+  "sponge_cake_with_chocolate_with_or_without_cherry_black_forest_cake": {
+    "name": "Sponge cake with chocolate with or without cherry \"black forest cake\"",
+    "alternative_names": [],
+    "description": "Sponge cake with chocolate with or without cherry \"black forest cake\"."
+  },
+  "brownie_chocolate_cake_prepacked": {
+    "name": "Brownie (chocolate cake), prepacked",
+    "alternative_names": [],
+    "description": "Brownie (chocolate cake), prepacked."
+  },
+  "chocolate_tart_from_bakery": {
+    "name": "Chocolate tart, from bakery",
+    "alternative_names": [],
+    "description": "Chocolate tart, from bakery."
+  },
+  "chocolate_cake_prepacked": {
+    "name": "Chocolate cake, prepacked",
+    "alternative_names": [],
+    "description": "Chocolate cake, prepacked."
+  },
+  "crepe_filled_with_chocolate_prepacked": {
+    "name": "Crepe filled with chocolate, prepacked",
+    "alternative_names": [],
+    "description": "Crepe filled with chocolate, prepacked."
+  },
+  "doughnut_filled_or_covered_with_chocolate_or_with_chocolate_and_hazelut_paste_prepack": {
+    "name": "Doughnut filled or covered with chocolate or with chocolate and hazelut paste, prepacked",
+    "alternative_names": [],
+    "description": "Doughnut filled or covered with chocolate or with chocolate and hazelut paste, prepacked."
+  },
+  "soft_cake_filled_with_chocolate_prepacked": {
+    "name": "Soft cake filled with chocolate, prepacked",
+    "alternative_names": [],
+    "description": "Soft cake filled with chocolate, prepacked."
+  },
+  "soft_cake_with_chocolate_chips_prepacked": {
+    "name": "Soft cake, with chocolate chips, prepacked",
+    "alternative_names": [],
+    "description": "Soft cake, with chocolate chips, prepacked."
+  },
+  "soft_cake_filled_with_chocolate_and_with_chocolate_coating_prepacked": {
+    "name": "Soft cake filled with chocolate and with chocolate coating, prepacked",
+    "alternative_names": [],
+    "description": "Soft cake filled with chocolate and with chocolate coating, prepacked."
+  },
+  "madeleine_cake_with_chocolate_prepacked": {
+    "name": "Madeleine cake, with chocolate, prepacked",
+    "alternative_names": [],
+    "description": "Madeleine cake, with chocolate, prepacked."
+  },
+  "sauce_average": {
+    "name": "Sauce (average)",
+    "alternative_names": [],
+    "description": "Sauce (average)."
+  },
+  "tartare_sauce_prepacked": {
+    "name": "Tartare sauce, prepacked",
+    "alternative_names": [],
+    "description": "Tartare sauce, prepacked."
+  },
+  "barbecue_sauce_prepacked": {
+    "name": "Barbecue sauce, prepacked",
+    "alternative_names": [],
+    "description": "Barbecue sauce, prepacked."
+  },
+  "soy_sauce_prepacked": {
+    "name": "Soy sauce, prepacked",
+    "alternative_names": [],
+    "description": "Soy sauce, prepacked."
+  },
+  "burgundy_style_sauce_prepacked": {
+    "name": "Burgundy-style sauce, prepacked",
+    "alternative_names": [],
+    "description": "Burgundy-style sauce, prepacked."
+  },
+  "sauce_cold_average": {
+    "name": "Sauce, cold (average)",
+    "alternative_names": [],
+    "description": "Sauce, cold (average)."
+  },
+  "bolognese_type_vegetarian_sauce_with_soya_proteins_prepacked": {
+    "name": "Bolognese-type vegetarian sauce, with soya proteins, prepacked",
+    "alternative_names": [],
+    "description": "Bolognese-type vegetarian sauce, with soya proteins, prepacked."
+  },
+  "barnaise_sauce_prepacked": {
+    "name": "Béarnaise sauce, prepacked",
+    "alternative_names": [],
+    "description": "Béarnaise sauce, prepacked."
+  },
+  "hollandaise_sauce_prepacked": {
+    "name": "Hollandaise sauce, prepacked",
+    "alternative_names": [],
+    "description": "Hollandaise sauce, prepacked."
+  },
+  "tomato_sauce_with_onions_prepacked": {
+    "name": "Tomato sauce, with onions, prepacked",
+    "alternative_names": [],
+    "description": "Tomato sauce, with onions, prepacked."
+  },
+  "tomato_sauce_with_olives_prepacked": {
+    "name": "Tomato sauce, with olives, prepacked",
+    "alternative_names": [],
+    "description": "Tomato sauce, with olives, prepacked."
+  },
+  "pesto_sauce_prepacked": {
+    "name": "Pesto sauce, prepacked",
+    "alternative_names": [],
+    "description": "Pesto sauce, prepacked."
+  },
+  "pepper_sauce_warm_prepacked": {
+    "name": "Pepper sauce, warm, prepacked",
+    "alternative_names": [],
+    "description": "Pepper sauce, warm, prepacked."
+  },
+  "chocolate_sauce_prepacked": {
+    "name": "Chocolate sauce, prepacked",
+    "alternative_names": [],
+    "description": "Chocolate sauce, prepacked."
+  },
+  "veal_stock_for_sauce_and_cooking_dehydrated": {
+    "name": "Veal stock for sauce and cooking, dehydrated",
+    "alternative_names": [],
+    "description": "Veal stock for sauce and cooking, dehydrated."
+  },
+  "baby_soup_with_vegetables_and_potatoes": {
+    "name": "Baby soup, with vegetables and potatoes",
+    "alternative_names": [],
+    "description": "Baby soup, with vegetables and potatoes."
+  },
+  "baby_soup_with_vegetables_cereals_and_milk": {
+    "name": "Baby soup, with vegetables, cereals and milk",
+    "alternative_names": [],
+    "description": "Baby soup, with vegetables, cereals and milk."
   }
 }

@@ -27,37 +27,6 @@
       }
     },
     {
-      "id": "asparagus_canned_drained_solids",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 66.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 99.9,
-          "gram_equivalent": 150
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "high_sodium",
-        "k1"
-      ],
-      "relations": {
-        "group": "asparagus",
-        "related_ids": [
-          "asparagus_cooked",
-          "asparagus_cooked_boiled_drained",
-          "asparagus_raw"
-        ]
-      }
-    },
-    {
       "id": "asparagus_cooked",
       "category": "vegetables",
       "portions": [
@@ -81,38 +50,7 @@
       "relations": {
         "group": "asparagus",
         "related_ids": [
-          "asparagus_canned_drained_solids",
-          "asparagus_cooked_boiled_drained",
-          "asparagus_raw"
-        ]
-      }
-    },
-    {
-      "id": "asparagus_cooked_boiled_drained",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 41.7
-        },
-        {
-          "amount": 0.5,
-          "unit": "cup",
-          "vitamin_k_mcg": 45.5,
-          "gram_equivalent": 109
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "k1"
-      ],
-      "relations": {
-        "group": "asparagus",
-        "related_ids": [
-          "asparagus_canned_drained_solids",
-          "asparagus_cooked",
+          "asparagus_canned_drained",
           "asparagus_raw"
         ]
       }
@@ -231,7 +169,9 @@
         "group": "broccoli",
         "related_ids": [
           "broccoli_frozen_chopped_cooked_boiled_dr",
-          "broccoli_raw"
+          "broccoli_frozen_raw",
+          "broccoli_raw",
+          "broccoli_steamed"
         ]
       },
       "tags": [
@@ -266,34 +206,10 @@
         "group": "broccoli",
         "related_ids": [
           "broccoli_cooked",
-          "broccoli_raw"
+          "broccoli_frozen_raw",
+          "broccoli_raw",
+          "broccoli_steamed"
         ]
-      }
-    },
-    {
-      "id": "broccoli_frozen_chopped_unprepared",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 84.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 126.5,
-          "gram_equivalent": 150
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "cruciferous",
-        "k1"
-      ],
-      "relations": {
-        "group": "broccoli"
       }
     },
     {
@@ -343,7 +259,9 @@
         "group": "broccoli",
         "related_ids": [
           "broccoli_cooked",
-          "broccoli_frozen_chopped_cooked_boiled_dr"
+          "broccoli_frozen_chopped_cooked_boiled_dr",
+          "broccoli_frozen_raw",
+          "broccoli_steamed"
         ]
       },
       "tags": [
@@ -370,13 +288,13 @@
           "vitamin_k_mcg": 155.8
         }
       ],
-      "source": "USDA FDC (derived from PDF page 1), FDA Coumadin Prescribing Information",
+      "source": "USDA FDC (derived from PDF page 1), FDA Coumadin Prescribing Information, Ciqual 2025 (Food Code: 20058)",
       "tags": [
+        "affects_coagulation",
+        "affects_warfarin",
         "cruciferous",
         "k1",
-        "raw",
-        "affects_warfarin",
-        "affects_coagulation"
+        "raw"
       ],
       "relations": {
         "group": "cabbage"
@@ -583,7 +501,7 @@
           "vitamin_k_mcg": 16.9
         }
       ],
-      "source": "USDA FDC (derived from PDF page 2)",
+      "source": "USDA FDC (derived from PDF page 2), Ciqual 2025 (Food Code: 20009)",
       "tags": [
         "k1",
         "raw"
@@ -684,8 +602,9 @@
           "gram_equivalent": 30
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA FDC (derived from PDF page 1)",
       "tags": [
+        "green_leaves",
         "k1",
         "raw"
       ],
@@ -712,32 +631,6 @@
           "unit": "cup",
           "gram_equivalent": 25,
           "vitamin_k_mcg": 57.8
-        }
-      ],
-      "source": "USDA FDC (derived from PDF page 1)",
-      "relations": {
-        "group": "lettuce"
-      }
-    },
-    {
-      "id": "garden_cress_raw",
-      "category": "vegetables",
-      "tags": [
-        "green_leaves",
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 541.8
-        },
-        {
-          "amount": 1,
-          "unit": "cup",
-          "gram_equivalent": 50,
-          "vitamin_k_mcg": 270.9
         }
       ],
       "source": "USDA FDC (derived from PDF page 1)",
@@ -928,28 +821,6 @@
       ]
     },
     {
-      "id": "okra_frozen_cooked_boiled_drained_withou",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 88.0
-        },
-        {
-          "amount": 0.5,
-          "unit": "cup",
-          "vitamin_k_mcg": 44.0,
-          "gram_equivalent": 50
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "k1"
-      ]
-    },
-    {
       "id": "okra_frozen_unprepared",
       "category": "vegetables",
       "portions": [
@@ -1009,31 +880,6 @@
           "unit": "cup",
           "vitamin_k_mcg": 0.6,
           "gram_equivalent": 218
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "k1"
-      ],
-      "relations": {
-        "group": "onion"
-      }
-    },
-    {
-      "id": "onions_frozen_whole_unprepared",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 0.33,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 33
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -1218,56 +1064,6 @@
       ]
     },
     {
-      "id": "potatoes_boiled_cooked_without_skin_fles",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        },
-        {
-          "amount": 0.5,
-          "unit": "cup",
-          "vitamin_k_mcg": 1.7,
-          "gram_equivalent": 109
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "k1"
-      ],
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
-      "id": "potatoes_flesh_and_skin_raw",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.0
-        },
-        {
-          "amount": 0.5,
-          "unit": "cup",
-          "vitamin_k_mcg": 1.5,
-          "gram_equivalent": 50
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
       "id": "radishes_raw",
       "category": "vegetables",
       "portions": [
@@ -1365,6 +1161,8 @@
       "relations": {
         "group": "spinach",
         "related_ids": [
+          "spinach_canned_drained",
+          "spinach_frozen_raw",
           "spinach_raw"
         ]
       }
@@ -1396,7 +1194,9 @@
       "relations": {
         "group": "spinach",
         "related_ids": [
-          "spinach_cooked"
+          "spinach_canned_drained",
+          "spinach_cooked",
+          "spinach_frozen_raw"
         ]
       }
     },
@@ -1471,34 +1271,6 @@
       ],
       "relations": {
         "group": "squash"
-      }
-    },
-    {
-      "id": "squash_winter_hubbard_baked_with_salt",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 3.3,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "k1"
-      ],
-      "relations": {
-        "group": "squash",
-        "related_ids": [
-          "squash_winter_hubbard_raw"
-        ]
       }
     },
     {
@@ -1581,33 +1353,6 @@
       }
     },
     {
-      "id": "tomato_juice_canned_without_salt_added",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.6,
-          "gram_equivalent": 240
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "beverages",
-        "cooked",
-        "high_sodium",
-        "k1"
-      ],
-      "relations": {
-        "group": "tomato"
-      }
-    },
-    {
       "id": "tomato_products_canned_puree_with_salt_a",
       "category": "vegetables",
       "portions": [
@@ -1621,58 +1366,6 @@
           "unit": "cup",
           "vitamin_k_mcg": 8.5,
           "gram_equivalent": 150
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "high_sodium",
-        "k1"
-      ],
-      "relations": {
-        "group": "tomato"
-      }
-    },
-    {
-      "id": "tomato_products_canned_puree_without_sal",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 8.5,
-          "gram_equivalent": 150
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "high_sodium",
-        "k1"
-      ],
-      "relations": {
-        "group": "tomato"
-      }
-    },
-    {
-      "id": "tomatoes_red_ripe_canned_packed_in_tomat",
-      "category": "vegetables",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.2,
-          "gram_equivalent": 240
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -1975,9 +1668,8 @@
       "relations": {
         "group": "asparagus",
         "related_ids": [
-          "asparagus_canned_drained_solids",
-          "asparagus_cooked",
-          "asparagus_cooked_boiled_drained"
+          "asparagus_canned_drained",
+          "asparagus_cooked"
         ]
       }
     },
@@ -1985,6 +1677,7 @@
       "id": "asparagus_ckd_bld_drnd",
       "category": "vegetables",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -2006,7 +1699,7 @@
           "gram_equivalent": 60
         }
       ],
-      "source": "USDA SR28 (NDB No: 11012)",
+      "source": "USDA SR28 (NDB No: 11012), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "asparagus"
       }
@@ -2015,6 +1708,8 @@
       "id": "asparagus_cnd_drnd_sol",
       "category": "vegetables",
       "tags": [
+        "cooked",
+        "high_sodium",
         "k1"
       ],
       "portions": [
@@ -2036,7 +1731,7 @@
           "gram_equivalent": 18
         }
       ],
-      "source": "USDA SR28 (NDB No: 11015)",
+      "source": "USDA SR28 (NDB No: 11015), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "asparagus"
       }
@@ -2208,6 +1903,7 @@
       "id": "broccoli_frz_chopd_unprep",
       "category": "vegetables",
       "tags": [
+        "cooked",
         "cruciferous",
         "k1"
       ],
@@ -2230,7 +1926,7 @@
           "gram_equivalent": 284
         }
       ],
-      "source": "USDA SR28 (NDB No: 11092)",
+      "source": "USDA SR28 (NDB No: 11092), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "broccoli"
       }
@@ -2558,7 +2254,7 @@
           "gram_equivalent": 70
         }
       ],
-      "source": "USDA SR28 (NDB No: 11112)",
+      "source": "USDA SR28 (NDB No: 11112), Ciqual 2025 (Food Code: 20014)",
       "relations": {
         "group": "cabbage"
       }
@@ -3296,7 +2992,7 @@
           "gram_equivalent": 6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11251)",
+      "source": "USDA SR28 (NDB No: 11251), Ciqual 2025 (Food Code: 20171)",
       "relations": {
         "group": "lettuce"
       }
@@ -3443,7 +3139,10 @@
       ],
       "source": "USDA SR28 (NDB No: 11276)",
       "relations": {
-        "group": "spinach"
+        "group": "spinach",
+        "related_ids": [
+          "new_zealand_spinach_cooked"
+        ]
       }
     },
     {
@@ -3673,6 +3372,7 @@
       "id": "onions_frz_whl_unprep",
       "category": "vegetables",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -3688,7 +3388,7 @@
           "gram_equivalent": 284
         }
       ],
-      "source": "USDA SR28 (NDB No: 11289)",
+      "source": "USDA SR28 (NDB No: 11289), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "onion"
       }
@@ -4138,7 +3838,7 @@
           "gram_equivalent": 213
         }
       ],
-      "source": "USDA SR28 (NDB No: 11352)",
+      "source": "USDA SR28 (NDB No: 11352), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "potato"
       }
@@ -4399,31 +4099,7 @@
           "gram_equivalent": 156
         }
       ],
-      "source": "USDA SR28 (NDB No: 11363)",
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
-      "id": "potatoes_bkd_skn_wosalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 58
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11364)",
+      "source": "USDA SR28 (NDB No: 11363), USDA SR28 (NDB No: 11364)",
       "relations": {
         "group": "potato"
       }
@@ -4454,36 +4130,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11365)",
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
-      "id": "potatoes_bld_ckd_wo_skn_flesh_wo_salt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.3,
-          "gram_equivalent": 300
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.5,
-          "gram_equivalent": 167
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11367)",
       "relations": {
         "group": "potato"
       }
@@ -5285,33 +4931,6 @@
       ],
       "source": "USDA SR28 (NDB No: 11489)",
       "relations": {
-        "group": "squash",
-        "related_ids": [
-          "squash_winter_hubbard_baked_with_salt"
-        ]
-      }
-    },
-    {
-      "id": "squash_wntr_hubbard_bkd_wo_salt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 3.3,
-          "gram_equivalent": 205
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11490)",
-      "relations": {
         "group": "squash"
       }
     },
@@ -5371,30 +4990,6 @@
       }
     },
     {
-      "id": "sweet_potato_leaves_ckd_stmd_wo_salt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 108.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 69.5,
-          "gram_equivalent": 64
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11506)",
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
       "id": "sweet_potato_raw_unprep",
       "category": "vegetables",
       "tags": [
@@ -5421,36 +5016,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11507)",
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
-      "id": "sweet_potato_ckd_bkd_in_skn_wo_salt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.6,
-          "gram_equivalent": 200
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.1,
-          "gram_equivalent": 180
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11508)",
       "relations": {
         "group": "potato"
       }
@@ -5595,7 +5160,7 @@
           "gram_equivalent": 182
         }
       ],
-      "source": "USDA SR28 (NDB No: 11527)",
+      "source": "USDA SR28 (NDB No: 11527), Ciqual 2025 (Food Code: 20119)",
       "relations": {
         "group": "tomato"
       }
@@ -5665,6 +5230,8 @@
       "id": "tomatoes_red_ripe_cnd_packed_in_tomato_juc",
       "category": "vegetables",
       "tags": [
+        "cooked",
+        "high_sodium",
         "k1"
       ],
       "portions": [
@@ -5686,7 +5253,7 @@
           "gram_equivalent": 15
         }
       ],
-      "source": "USDA SR28 (NDB No: 11531)",
+      "source": "USDA SR28 (NDB No: 11531), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "tomato"
       }
@@ -6457,7 +6024,7 @@
           "gram_equivalent": 173
         }
       ],
-      "source": "USDA SR28 (NDB No: 11674)",
+      "source": "USDA SR28 (NDB No: 11674), USDA SR28 (NDB No: 11828), USDA SR28 (NDB No: 11830)",
       "relations": {
         "group": "potato"
       }
@@ -6483,7 +6050,12 @@
       ],
       "source": "USDA SR28 (NDB No: 11683)",
       "relations": {
-        "group": "carrot"
+        "group": "carrot",
+        "related_ids": [
+          "carrot_canned_drained",
+          "carrot_frozen_raw",
+          "carrot_steamed"
+        ]
       }
     },
     {
@@ -7279,6 +6851,7 @@
       "id": "okra_frz_ckd_bld_drnd_w_salt",
       "category": "vegetables",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -7300,7 +6873,7 @@
           "gram_equivalent": 92
         }
       ],
-      "source": "USDA SR28 (NDB No: 11804)"
+      "source": "USDA SR28 (NDB No: 11804), USDA Database for Standard Reference Legacy (2018)"
     },
     {
       "id": "onions_ckd_bld_drnd_wsalt",
@@ -7654,36 +7227,6 @@
       "source": "USDA SR28 (NDB No: 11827)"
     },
     {
-      "id": "potatoes_bkd_flesh_skn_w_salt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 299
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.5,
-          "gram_equivalent": 173
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11828)",
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
       "id": "potatoes_bkd_flesh_wsalt",
       "category": "vegetables",
       "tags": [
@@ -7709,30 +7252,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11829)",
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
-      "id": "potatoes_bkd_skn_w_salt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 58
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11830)",
       "relations": {
         "group": "potato"
       }
@@ -7771,6 +7290,7 @@
       "id": "potatoes_bld_ckd_wo_skn_flesh_w_salt",
       "category": "vegetables",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -7792,7 +7312,7 @@
           "gram_equivalent": 167
         }
       ],
-      "source": "USDA SR28 (NDB No: 11833)",
+      "source": "USDA SR28 (NDB No: 11833), USDA SR28 (NDB No: 11367), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "potato"
       }
@@ -8058,6 +7578,7 @@
       "id": "squash_wntr_hubbard_bkd_w_salt",
       "category": "vegetables",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -8073,7 +7594,7 @@
           "gram_equivalent": 205
         }
       ],
-      "source": "USDA SR28 (NDB No: 11868)",
+      "source": "USDA SR28 (NDB No: 11868), USDA SR28 (NDB No: 11490), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "squash"
       }
@@ -8121,7 +7642,7 @@
           "gram_equivalent": 64
         }
       ],
-      "source": "USDA SR28 (NDB No: 11874)",
+      "source": "USDA SR28 (NDB No: 11874), USDA SR28 (NDB No: 11506)",
       "relations": {
         "group": "potato"
       }
@@ -8151,7 +7672,7 @@
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA SR28 (NDB No: 11875)",
+      "source": "USDA SR28 (NDB No: 11875), USDA SR28 (NDB No: 11508)",
       "relations": {
         "group": "potato"
       }
@@ -9479,6 +9000,2113 @@
       "source": "USDA FoodData Central (FDC ID: 170410), FDA Coumadin Prescribing Information",
       "relations": {
         "group": "kale"
+      }
+    },
+    {
+      "id": "potato_salad_pimontaise_style_prepacked",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25609)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "tart_leek_prepacked",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25553)",
+      "relations": {
+        "group": "onion"
+      }
+    },
+    {
+      "id": "tart_tomato_prepacked",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25561)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "curly_endive_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 298.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20012)",
+      "relations": {
+        "group": "lettuce"
+      }
+    },
+    {
+      "id": "cucumber_flesh_and_skin_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20019), Ciqual 2025 (Food Code: 20210)",
+      "relations": {
+        "group": "cucumber"
+      }
+    },
+    {
+      "id": "courgette_or_zucchini_flesh_and_skin_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20020)",
+      "relations": {
+        "group": "squash",
+        "related_ids": [
+          "courgette_or_zucchini_flesh_and_skin_cooked",
+          "courgette_or_zucchini_flesh_and_skin_frozen_raw"
+        ]
+      }
+    },
+    {
+      "id": "celery_stalk_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20023)",
+      "relations": {
+        "group": "celery"
+      }
+    },
+    {
+      "id": "lettuce_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 123.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20031)",
+      "relations": {
+        "group": "lettuce"
+      }
+    },
+    {
+      "id": "leek_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 47.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20039)",
+      "relations": {
+        "group": "onion"
+      }
+    },
+    {
+      "id": "green_cabbage_raw",
+      "category": "vegetables",
+      "tags": [
+        "cruciferous",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 72.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20069)",
+      "relations": {
+        "group": "cabbage",
+        "related_ids": [
+          "green_cabbage_cooked"
+        ]
+      }
+    },
+    {
+      "id": "garden_peas_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 24.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20072)",
+      "relations": {
+        "group": "peas",
+        "related_ids": [
+          "garden_peas_canned_drained",
+          "garden_peas_cooked",
+          "garden_peas_frozen_cooked",
+          "garden_peas_frozen_raw"
+        ]
+      }
+    },
+    {
+      "id": "cauliflower_frozen_raw",
+      "category": "vegetables",
+      "tags": [
+        "cruciferous",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20082)"
+    },
+    {
+      "id": "spinach_frozen_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 372.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20083)",
+      "relations": {
+        "group": "spinach",
+        "related_ids": [
+          "spinach_canned_drained",
+          "spinach_cooked",
+          "spinach_raw"
+        ]
+      }
+    },
+    {
+      "id": "garden_peas_frozen_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 27.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20084)",
+      "relations": {
+        "group": "peas",
+        "related_ids": [
+          "garden_peas_canned_drained",
+          "garden_peas_cooked",
+          "garden_peas_frozen_cooked",
+          "garden_peas_raw"
+        ]
+      }
+    },
+    {
+      "id": "white_cabbage_raw",
+      "category": "vegetables",
+      "tags": [
+        "cruciferous",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20116)",
+      "relations": {
+        "group": "cabbage"
+      }
+    },
+    {
+      "id": "lettuce_var_batavia_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20123)",
+      "relations": {
+        "group": "lettuce"
+      }
+    },
+    {
+      "id": "squash_butternut_flesh_without_skin_raw",
+      "category": "vegetables",
+      "tags": [
+        "dairy",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20138)",
+      "relations": {
+        "group": "squash"
+      }
+    },
+    {
+      "id": "squash_all_types_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20139)",
+      "relations": {
+        "group": "squash"
+      }
+    },
+    {
+      "id": "chinese_cabbage_nappa_cabbage_raw",
+      "category": "vegetables",
+      "tags": [
+        "cruciferous",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 80.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20167)",
+      "relations": {
+        "group": "cabbage"
+      }
+    },
+    {
+      "id": "tomato_cherry_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20172)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "iceberg_lettuce_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 24.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20200)",
+      "relations": {
+        "group": "lettuce"
+      }
+    },
+    {
+      "id": "broccoli_frozen_raw",
+      "category": "vegetables",
+      "tags": [
+        "cruciferous",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 101.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20204)",
+      "relations": {
+        "group": "broccoli",
+        "related_ids": [
+          "broccoli_cooked",
+          "broccoli_frozen_chopped_cooked_boiled_dr",
+          "broccoli_raw",
+          "broccoli_steamed"
+        ]
+      }
+    },
+    {
+      "id": "brussels_sprout_frozen_raw",
+      "category": "vegetables",
+      "tags": [
+        "cruciferous",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 250.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20206)",
+      "relations": {
+        "group": "cabbage"
+      }
+    },
+    {
+      "id": "carrot_frozen_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 17.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20208)",
+      "relations": {
+        "group": "carrot",
+        "related_ids": [
+          "carrot_canned_drained",
+          "carrot_dehydrated",
+          "carrot_steamed"
+        ]
+      }
+    },
+    {
+      "id": "curly_kale_raw",
+      "category": "vegetables",
+      "tags": [
+        "cruciferous",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 705.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20218)",
+      "relations": {
+        "group": "kale",
+        "related_ids": [
+          "curly_kale_cooked"
+        ]
+      }
+    },
+    {
+      "id": "courgette_or_zucchini_flesh_and_skin_frozen_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20230)",
+      "relations": {
+        "group": "squash",
+        "related_ids": [
+          "courgette_or_zucchini_flesh_and_skin_cooked",
+          "courgette_or_zucchini_flesh_and_skin_raw"
+        ]
+      }
+    },
+    {
+      "id": "spinach_young_leaves_for_salad_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 75.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20270)",
+      "relations": {
+        "group": "spinach"
+      }
+    },
+    {
+      "id": "tomato_round_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20276)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "romanesco_cauliflower_or_romanesco_broccoli_raw",
+      "category": "vegetables",
+      "tags": [
+        "cruciferous",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20280)",
+      "relations": {
+        "group": "broccoli",
+        "related_ids": [
+          "romanesco_cauliflower_or_romanesco_broccoli_cooked"
+        ]
+      }
+    },
+    {
+      "id": "asparagus_white_or_purple_peeled_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 41.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20282)",
+      "relations": {
+        "group": "asparagus"
+      }
+    },
+    {
+      "id": "lettuce_sucrine_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20288)",
+      "relations": {
+        "group": "lettuce"
+      }
+    },
+    {
+      "id": "lettuce_oak_leaf_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 34.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20295)",
+      "relations": {
+        "group": "lettuce"
+      }
+    },
+    {
+      "id": "chinese_cabbage_pak_cho_ou_pak_choy_raw",
+      "category": "vegetables",
+      "tags": [
+        "cruciferous",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 45.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20340)",
+      "relations": {
+        "group": "cabbage",
+        "related_ids": [
+          "chinese_cabbage_pak_cho_ou_pak_choy_cooked"
+        ]
+      }
+    },
+    {
+      "id": "tomato_raw_average",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20385)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "carrot_canned_drained",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20007)",
+      "relations": {
+        "group": "carrot",
+        "related_ids": [
+          "carrot_dehydrated",
+          "carrot_frozen_raw",
+          "carrot_steamed"
+        ]
+      }
+    },
+    {
+      "id": "green_cabbage_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 109.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20015)",
+      "relations": {
+        "group": "cabbage",
+        "related_ids": [
+          "green_cabbage_raw"
+        ]
+      }
+    },
+    {
+      "id": "cauliflower_boiled",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20017)"
+    },
+    {
+      "id": "courgette_or_zucchini_flesh_and_skin_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20021)",
+      "relations": {
+        "group": "squash",
+        "related_ids": [
+          "courgette_or_zucchini_flesh_and_skin_frozen_raw",
+          "courgette_or_zucchini_flesh_and_skin_raw"
+        ]
+      }
+    },
+    {
+      "id": "garden_peas_canned_drained",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 36.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20036)",
+      "relations": {
+        "group": "peas",
+        "related_ids": [
+          "garden_peas_cooked",
+          "garden_peas_frozen_cooked",
+          "garden_peas_frozen_raw",
+          "garden_peas_raw"
+        ]
+      }
+    },
+    {
+      "id": "garden_peas_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 25.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20037)",
+      "relations": {
+        "group": "peas",
+        "related_ids": [
+          "garden_peas_canned_drained",
+          "garden_peas_frozen_cooked",
+          "garden_peas_frozen_raw",
+          "garden_peas_raw"
+        ]
+      }
+    },
+    {
+      "id": "tomato_peeled_canned_drained",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20048)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "spinach_canned_drained",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 462.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20060)",
+      "relations": {
+        "group": "spinach",
+        "related_ids": [
+          "spinach_cooked",
+          "spinach_frozen_raw",
+          "spinach_raw"
+        ]
+      }
+    },
+    {
+      "id": "tomato_paste_concentrated_canned",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20068)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "asparagus_canned_drained",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 41.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20076)",
+      "relations": {
+        "group": "asparagus",
+        "related_ids": [
+          "asparagus_cooked",
+          "asparagus_raw"
+        ]
+      }
+    },
+    {
+      "id": "red_cabbage_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 47.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20095)",
+      "relations": {
+        "group": "cabbage"
+      }
+    },
+    {
+      "id": "garden_peas_frozen_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 24.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20124)",
+      "relations": {
+        "group": "peas",
+        "related_ids": [
+          "garden_peas_canned_drained",
+          "garden_peas_cooked",
+          "garden_peas_frozen_raw",
+          "garden_peas_raw"
+        ]
+      }
+    },
+    {
+      "id": "tomato_peeled_canned_in_juice_solids_and_liquids",
+      "category": "vegetables",
+      "tags": [
+        "beverages",
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20137)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "new_zealand_spinach_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 292.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20158)",
+      "relations": {
+        "group": "spinach",
+        "related_ids": [
+          "new_zealand_spinach_raw"
+        ]
+      }
+    },
+    {
+      "id": "curly_kale_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 817.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20219)",
+      "relations": {
+        "group": "kale",
+        "related_ids": [
+          "curly_kale_raw"
+        ]
+      }
+    },
+    {
+      "id": "tomato_flesh_and_skin_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20242)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "carrots_puree",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20261)",
+      "relations": {
+        "group": "carrot"
+      }
+    },
+    {
+      "id": "tomato_flesh_and_skin_roastedbaked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20289)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "romanesco_cauliflower_or_romanesco_broccoli_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20290)",
+      "relations": {
+        "group": "broccoli",
+        "related_ids": [
+          "romanesco_cauliflower_or_romanesco_broccoli_raw"
+        ]
+      }
+    },
+    {
+      "id": "red_kuri_squash_flesh_without_skin_braised",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20291)",
+      "relations": {
+        "group": "squash"
+      }
+    },
+    {
+      "id": "asparagus_green_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20299)",
+      "relations": {
+        "group": "asparagus"
+      }
+    },
+    {
+      "id": "broccoli_boiledcooked_in_water_crunchy",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 23.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20302)",
+      "relations": {
+        "group": "broccoli"
+      }
+    },
+    {
+      "id": "broccoli_boiledcooked_in_water_tender",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 49.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20303)",
+      "relations": {
+        "group": "broccoli"
+      }
+    },
+    {
+      "id": "broccoli_steamed",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 23.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20304)",
+      "relations": {
+        "group": "broccoli",
+        "related_ids": [
+          "broccoli_cooked",
+          "broccoli_frozen_chopped_cooked_boiled_dr",
+          "broccoli_frozen_raw",
+          "broccoli_raw"
+        ]
+      }
+    },
+    {
+      "id": "carrot_boiledcooked_in_water_crunchy",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20305)",
+      "relations": {
+        "group": "carrot"
+      }
+    },
+    {
+      "id": "carrot_boiledcooked_in_water_tender",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20306)",
+      "relations": {
+        "group": "carrot"
+      }
+    },
+    {
+      "id": "carrot_steamed",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20307)",
+      "relations": {
+        "group": "carrot",
+        "related_ids": [
+          "carrot_canned_drained",
+          "carrot_dehydrated",
+          "carrot_frozen_raw"
+        ]
+      }
+    },
+    {
+      "id": "white_cabbage_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20308)",
+      "relations": {
+        "group": "cabbage"
+      }
+    },
+    {
+      "id": "brussels_sprout_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 61.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20309)",
+      "relations": {
+        "group": "cabbage"
+      }
+    },
+    {
+      "id": "green_cabbage_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20311)",
+      "relations": {
+        "group": "cabbage"
+      }
+    },
+    {
+      "id": "cauliflower_steamed",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20312)"
+    },
+    {
+      "id": "courgette_or_zucchini_flesh_and_skin_roastedbaked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20313)",
+      "relations": {
+        "group": "squash"
+      }
+    },
+    {
+      "id": "celery_stalk_braised",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20314)",
+      "relations": {
+        "group": "celery"
+      }
+    },
+    {
+      "id": "garden_peas_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20326)",
+      "relations": {
+        "group": "peas"
+      }
+    },
+    {
+      "id": "leek_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20327)",
+      "relations": {
+        "group": "onion"
+      }
+    },
+    {
+      "id": "red_kuri_squash_flesh_without_skin_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20331)",
+      "relations": {
+        "group": "squash"
+      }
+    },
+    {
+      "id": "spinach_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 38.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20336)",
+      "relations": {
+        "group": "spinach"
+      }
+    },
+    {
+      "id": "chinese_cabbage_pak_cho_ou_pak_choy_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 34.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20339)",
+      "relations": {
+        "group": "cabbage",
+        "related_ids": [
+          "chinese_cabbage_pak_cho_ou_pak_choy_raw"
+        ]
+      }
+    },
+    {
+      "id": "asparagus_boiledcooked_in_water_average",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20349)",
+      "relations": {
+        "group": "asparagus"
+      }
+    },
+    {
+      "id": "broccoli_boiledcooked_in_water_average",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 49.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20350)",
+      "relations": {
+        "group": "broccoli"
+      }
+    },
+    {
+      "id": "broccoli_cooked_average",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 36.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20351)",
+      "relations": {
+        "group": "broccoli"
+      }
+    },
+    {
+      "id": "carrot_boiledcooked_in_water_average",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20352)",
+      "relations": {
+        "group": "carrot"
+      }
+    },
+    {
+      "id": "carrot_cooked_average",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20353)",
+      "relations": {
+        "group": "carrot"
+      }
+    },
+    {
+      "id": "red_cabbage_cooked_average",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20355)",
+      "relations": {
+        "group": "cabbage"
+      }
+    },
+    {
+      "id": "red_kuri_squash_flesh_without_skin_cooked_average",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20357)",
+      "relations": {
+        "group": "squash"
+      }
+    },
+    {
+      "id": "tomato_flesh_and_skin_cooked_average",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20358)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "onion_dried",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20180)",
+      "relations": {
+        "group": "onion"
+      }
+    },
+    {
+      "id": "tomato_dried",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 43.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20189)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "watercress_leaf_raw_sampled_in_the_island_of_la_martinique",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 22.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20810)"
+    },
+    {
+      "id": "potato_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4003)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "potato_crisps_plain_or_flavoured_standard",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4004)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "potato_peeled_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4008)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "potato_flakes_dehydrated_plain",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4022)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "potato_wedge_spiced_frozen_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4025)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "potato_roastedbaked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4026)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "potato_sautedpan_fried_pre_fried_frozen_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4027)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "potato_crisps_plain_or_flavoured_old_style",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4037)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "potato_cooked_average_food",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4048)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "sweet_potato_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4101)",
+      "relations": {
+        "group": "potato",
+        "related_ids": [
+          "sweet_potato_cooked"
+        ]
+      }
+    },
+    {
+      "id": "sweet_potato_cooked",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4102)",
+      "relations": {
+        "group": "potato",
+        "related_ids": [
+          "sweet_potato_raw"
+        ]
+      }
+    },
+    {
+      "id": "yam_peeled_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 53502)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "yam_peeled_boiledcooked_in_water",
+      "category": "vegetables",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 53503)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "pumpkin_and_squash_seed_dried",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15064)",
+      "relations": {
+        "group": "squash"
+      }
+    },
+    {
+      "id": "spanish_style_tortilla_with_onions_omelette_with_potatoes_and_onions_prepacked",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 22510)",
+      "relations": {
+        "group": "onion"
+      }
+    },
+    {
+      "id": "carrot_juice_pure_juice",
+      "category": "vegetables",
+      "tags": [
+        "beverages",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 15.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 2006)",
+      "relations": {
+        "group": "carrot"
+      }
+    },
+    {
+      "id": "tomato_juice_pure_juice_6_g_saltl",
+      "category": "vegetables",
+      "tags": [
+        "beverages",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 2032)",
+      "relations": {
+        "group": "tomato"
+      }
+    },
+    {
+      "id": "soft_waffle_brussels_style_plain_or_with_sugar_s_prepacked",
+      "category": "vegetables",
+      "tags": [
+        "cruciferous",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23851)",
+      "relations": {
+        "group": "cabbage"
+      }
+    },
+    {
+      "id": "chive_or_spring_onion_fresh",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 210.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11003)",
+      "relations": {
+        "group": "onion"
+      }
+    },
+    {
+      "id": "sea_lettuce_ulva_sp_dried_or_dehydrated",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 18.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20985)",
+      "relations": {
+        "group": "lettuce"
+      }
+    },
+    {
+      "id": "tomato_caviar_seasoned_tomato_puree",
+      "category": "vegetables",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 21.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11215)",
+      "relations": {
+        "group": "tomato"
       }
     }
   ]

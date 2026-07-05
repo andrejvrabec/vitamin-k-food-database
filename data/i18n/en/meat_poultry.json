@@ -12,16 +12,6 @@
     ],
     "description": "Pan-fried beef liver, extremely nutrient-dense, containing small amounts of Vitamin K2."
   },
-  "beerwurst_beer_salami_pork_and_beef": {
-    "name": "Beerwurst, beer salami, pork and beef",
-    "alternative_names": [],
-    "description": "Beerwurst, beer salami, pork and beef."
-  },
-  "beerwurst_pork_and_beef": {
-    "name": "Beerwurst, pork and beef",
-    "alternative_names": [],
-    "description": "Beerwurst, pork and beef."
-  },
   "bologna_meat_and_poultry": {
     "name": "Bologna, meat and poultry",
     "alternative_names": [],
@@ -39,16 +29,6 @@
       "Roasted chicken breast"
     ],
     "description": "Roasted chicken breast meat, containing minor/moderate amounts of Vitamin K2."
-  },
-  "chicken_broilers_or_fryers_back_meat_and": {
-    "name": "Chicken, broilers or fryers, back, meat and skin, raw",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat and skin, raw."
-  },
-  "chicken_broilers_or_fryers_back_meat_onl": {
-    "name": "Chicken, broilers or fryers, back, meat only, raw",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat only, raw."
   },
   "chicken_broilers_or_fryers_drumstick_mea": {
     "name": "Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed",
@@ -69,11 +49,6 @@
     "name": "Chicken, broilers or fryers, meat and skin, cooked, fried,",
     "alternative_names": [],
     "description": "Chicken, broilers or fryers, meat and skin, cooked, fried,."
-  },
-  "chicken_skin_raw": {
-    "name": "Chicken, skin (drumsticks and thighs), raw",
-    "alternative_names": [],
-    "description": "Chicken, skin (drumsticks and thighs), raw."
   },
   "chicken_stewing_meat_and_skin_and_giblet": {
     "name": "Chicken, stewing, meat and skin, and giblets and neck, cooked, stewed",
@@ -110,11 +85,6 @@
     "alternative_names": [],
     "description": "Fish, ocean perch, Atlantic, cooked, dry heat."
   },
-  "fish_salmon_pink_canned_drained_solids": {
-    "name": "Fish, salmon, pink, canned, drained solids",
-    "alternative_names": [],
-    "description": "Fish, salmon, pink, canned, drained solids."
-  },
   "fish_swordfish_cooked_dry_heat": {
     "name": "Fish, swordfish, cooked, dry heat",
     "alternative_names": [],
@@ -149,11 +119,6 @@
     "name": "Mollusks, oyster, eastern, wild, cooked, moist heat",
     "alternative_names": [],
     "description": "Mollusks, oyster, eastern, wild, cooked, moist heat."
-  },
-  "sausage_pork_and_turkey_pre_cooked": {
-    "name": "Sausage, pork and turkey, pre-cooked",
-    "alternative_names": [],
-    "description": "Sausage, pork and turkey, pre-cooked."
   },
   "sausage_turkey_hot_smoked": {
     "name": "Sausage, turkey, hot, smoked",
@@ -1390,14 +1355,344 @@
     "alternative_names": [],
     "description": "Turkey, lt or dark meat, smoked, cooked, with skin, bone removed."
   },
-  "turkey_lt_or_dk_meat_smoked_ckd_skn_bone_remo": {
-    "name": "Turkey, lt or dark meat, smoked, cooked, skin & bone removed",
-    "alternative_names": [],
-    "description": "Turkey, lt or dark meat, smoked, cooked, skin & bone removed."
-  },
   "frankfurter_lo_na": {
     "name": "Frankfurter, lo na",
     "alternative_names": [],
     "description": "Frankfurter, lo na."
+  },
+  "mixed_salad_with_meatfish_canned": {
+    "name": "Mixed salad, with meat/fish, canned",
+    "alternative_names": [],
+    "description": "Mixed salad, with meat/fish, canned."
+  },
+  "tabbouleh_or_couscous_salad_with_chicken_prepacked": {
+    "name": "Tabbouleh or couscous salad, with chicken, prepacked",
+    "alternative_names": [],
+    "description": "Tabbouleh or couscous salad, with chicken, prepacked."
+  },
+  "chicken_nuggets_with_soybean_breaded_croquette_prepacked": {
+    "name": "Chicken nuggets (with soybean), breaded croquette, prepacked",
+    "alternative_names": [],
+    "description": "Chicken nuggets (with soybean), breaded croquette, prepacked."
+  },
+  "meat_balls_beef_and_lamb_kefta_type_prepacked_cooked": {
+    "name": "Meat balls, beef and lamb (kefta type), prepacked cooked",
+    "alternative_names": [],
+    "description": "Meat balls, beef and lamb (kefta type), prepacked cooked."
+  },
+  "meat_balls_pork_and_beef_swedish_style_prepacked_cooked": {
+    "name": "Meat balls, pork and beef (Swedish-style), prepacked, cooked",
+    "alternative_names": [],
+    "description": "Meat balls, pork and beef (Swedish-style), prepacked, cooked."
+  },
+  "beef_on_skewer_cooked": {
+    "name": "Beef on skewer, cooked",
+    "alternative_names": [],
+    "description": "Beef on skewer, cooked."
+  },
+  "chicken_nuggets_breaded_croquette_prepacked": {
+    "name": "Chicken nuggets, breaded croquette, prepacked",
+    "alternative_names": [],
+    "description": "Chicken nuggets, breaded croquette, prepacked."
+  },
+  "pre_fried_potatoes_pan_fried_with_bacon_bits_or_chicken_without_green_vegetables_prep": {
+    "name": "Pre-fried potatoes, pan-fried, with bacon bits or chicken, without green vegetables, prepacked",
+    "alternative_names": [],
+    "description": "Pre-fried potatoes, pan-fried, with bacon bits or chicken, without green vegetables, prepacked."
+  },
+  "chicken_tagine_prepacked": {
+    "name": "Chicken tagine, prepacked",
+    "alternative_names": [],
+    "description": "Chicken tagine, prepacked."
+  },
+  "fish_and_shrimp_au_gratin_prepacked_cooked": {
+    "name": "Fish and shrimp au gratin, prepacked, cooked",
+    "alternative_names": [],
+    "description": "Fish and shrimp au gratin, prepacked, cooked."
+  },
+  "sauerkraut_seasoned_and_cooked_with_bacon_bits_without_garnish_drained_cooked": {
+    "name": "Sauerkraut, seasoned and cooked with bacon bits, without garnish, drained, cooked",
+    "alternative_names": [],
+    "description": "Sauerkraut, seasoned and cooked with bacon bits, without garnish, drained, cooked."
+  },
+  "burritos_with_beef": {
+    "name": "Burritos with beef",
+    "alternative_names": [],
+    "description": "Burritos with beef."
+  },
+  "fish_burger_from_fast_food": {
+    "name": "Fish burger, from fast food",
+    "alternative_names": [],
+    "description": "Fish burger, from fast food."
+  },
+  "chicken_burger_from_fast_food": {
+    "name": "Chicken burger, from fast food",
+    "alternative_names": [],
+    "description": "Chicken burger, from fast food."
+  },
+  "lambs_lettuce_raw": {
+    "name": "Lamb's lettuce, raw",
+    "alternative_names": [],
+    "description": "Lamb's lettuce, raw."
+  },
+  "beef_rib_steak_lean_grilledpan_fried": {
+    "name": "Beef, rib steak, lean, grilled/pan-fried",
+    "alternative_names": [],
+    "description": "Beef, rib steak, lean, grilled/pan-fried."
+  },
+  "beef_sirloin_steak_grilledpan_fried": {
+    "name": "Beef, sirloin steak, grilled/pan-fried",
+    "alternative_names": [],
+    "description": "Beef, sirloin steak, grilled/pan-fried."
+  },
+  "beef_short_ribs_braised_or_boiled": {
+    "name": "Beef, short ribs, braised or boiled",
+    "alternative_names": [],
+    "description": "Beef, short ribs, braised or boiled."
+  },
+  "beef_rump_steak_grilledpan_fried": {
+    "name": "Beef, rump steak, grilled/pan-fried",
+    "alternative_names": [],
+    "description": "Beef, rump steak, grilled/pan-fried."
+  },
+  "beef_ground_cooked_average": {
+    "name": "Beef, ground, cooked (average)",
+    "alternative_names": [],
+    "description": "Beef, ground, cooked (average)."
+  },
+  "beef_chuck_braised_or_boiled": {
+    "name": "Beef, chuck, braised or boiled",
+    "alternative_names": [],
+    "description": "Beef, chuck, braised or boiled."
+  },
+  "veal_fillet_roastedbaked": {
+    "name": "Veal fillet, roasted/baked",
+    "alternative_names": [],
+    "description": "Veal fillet, roasted/baked."
+  },
+  "chicken_meat_and_skin_roastedbaked": {
+    "name": "Chicken, meat and skin, roasted/baked",
+    "alternative_names": [],
+    "description": "Chicken, meat and skin, roasted/baked."
+  },
+  "chicken_leg_meat_roastedbaked": {
+    "name": "Chicken leg, meat, roasted/baked",
+    "alternative_names": [],
+    "description": "Chicken leg, meat, roasted/baked."
+  },
+  "chicken_leg_meat_boiledcooked_in_water": {
+    "name": "Chicken leg, meat, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Chicken leg, meat, boiled/cooked in water."
+  },
+  "lamb_shoulder_roastedbaked": {
+    "name": "Lamb, shoulder, roasted/baked",
+    "alternative_names": [],
+    "description": "Lamb, shoulder, roasted/baked."
+  },
+  "lamb_shoulder_lean_roastedbaked": {
+    "name": "Lamb, shoulder, lean, roasted/baked",
+    "alternative_names": [],
+    "description": "Lamb, shoulder, lean, roasted/baked."
+  },
+  "lamb_saddle_lean_roastedbaked": {
+    "name": "Lamb, saddle, lean, roasted/baked",
+    "alternative_names": [],
+    "description": "Lamb, saddle, lean, roasted/baked."
+  },
+  "liver_lamb_cooked": {
+    "name": "Liver, lamb, cooked",
+    "alternative_names": [],
+    "description": "Liver, lamb, cooked."
+  },
+  "liver_heifer_cooked": {
+    "name": "Liver, heifer, cooked",
+    "alternative_names": [],
+    "description": "Liver, heifer, cooked."
+  },
+  "liver_poultry_cooked": {
+    "name": "Liver, poultry, cooked",
+    "alternative_names": [],
+    "description": "Liver, poultry, cooked."
+  },
+  "liver_chicken_cooked": {
+    "name": "Liver, chicken, cooked",
+    "alternative_names": [],
+    "description": "Liver, chicken, cooked."
+  },
+  "tongue_beef_cooked": {
+    "name": "Tongue, beef, cooked",
+    "alternative_names": [],
+    "description": "Tongue, beef, cooked."
+  },
+  "beef_shoulder_raw": {
+    "name": "Beef, shoulder, raw",
+    "alternative_names": [],
+    "description": "Beef, shoulder, raw."
+  },
+  "beef_round_raw": {
+    "name": "Beef, round, raw",
+    "alternative_names": [],
+    "description": "Beef, round, raw."
+  },
+  "beef_rib_steak_raw": {
+    "name": "Beef, rib steak, raw",
+    "alternative_names": [],
+    "description": "Beef, rib steak, raw."
+  },
+  "beef_sirloin_steak_raw": {
+    "name": "Beef, sirloin steak, raw",
+    "alternative_names": [],
+    "description": "Beef, sirloin steak, raw."
+  },
+  "beef_thin_flank_raw": {
+    "name": "Beef, thin flank, raw",
+    "alternative_names": [],
+    "description": "Beef, thin flank, raw."
+  },
+  "beef_topside_raw": {
+    "name": "Beef, topside, raw",
+    "alternative_names": [],
+    "description": "Beef, topside, raw."
+  },
+  "beef_rump_steak_raw": {
+    "name": "Beef, rump steak, raw",
+    "alternative_names": [],
+    "description": "Beef, rump steak, raw."
+  },
+  "beef_flank_steak_raw": {
+    "name": "Beef, flank steak, raw",
+    "alternative_names": [],
+    "description": "Beef, flank steak, raw."
+  },
+  "beef_chuck_raw": {
+    "name": "Beef, chuck, raw",
+    "alternative_names": [],
+    "description": "Beef, chuck, raw."
+  },
+  "veal_loin_raw": {
+    "name": "Veal, loin, raw",
+    "alternative_names": [],
+    "description": "Veal, loin, raw."
+  },
+  "veal_tenderloin_raw": {
+    "name": "Veal, tenderloin, raw",
+    "alternative_names": [],
+    "description": "Veal, tenderloin, raw."
+  },
+  "pork_chop_raw": {
+    "name": "Pork, chop, raw",
+    "alternative_names": [],
+    "description": "Pork, chop, raw."
+  },
+  "chicken_meat_raw": {
+    "name": "Chicken, meat, raw",
+    "alternative_names": [],
+    "description": "Chicken, meat, raw."
+  },
+  "chicken_breast_without_skin_raw": {
+    "name": "Chicken, breast, without skin, raw",
+    "alternative_names": [],
+    "description": "Chicken, breast, without skin, raw."
+  },
+  "chicken_high_leg_meat_raw": {
+    "name": "Chicken high leg, meat, raw",
+    "alternative_names": [],
+    "description": "Chicken high leg, meat, raw."
+  },
+  "chicken_drumstick_raw": {
+    "name": "Chicken, drumstick, raw",
+    "alternative_names": [],
+    "description": "Chicken, drumstick, raw."
+  },
+  "chicken_leg_meat_raw": {
+    "name": "Chicken, leg, meat, raw",
+    "alternative_names": [],
+    "description": "Chicken, leg, meat, raw."
+  },
+  "lamb_shoulder_raw": {
+    "name": "Lamb, shoulder, raw",
+    "alternative_names": [],
+    "description": "Lamb, shoulder, raw."
+  },
+  "lamb_shoulder_lean_raw": {
+    "name": "Lamb, shoulder, lean, raw",
+    "alternative_names": [],
+    "description": "Lamb, shoulder, lean, raw."
+  },
+  "liver_lamb_raw": {
+    "name": "Liver, lamb, raw",
+    "alternative_names": [],
+    "description": "Liver, lamb, raw."
+  },
+  "liver_heifer_raw": {
+    "name": "Liver, heifer, raw",
+    "alternative_names": [],
+    "description": "Liver, heifer, raw."
+  },
+  "liver_pork_raw": {
+    "name": "Liver, pork, raw",
+    "alternative_names": [],
+    "description": "Liver, pork, raw."
+  },
+  "liver_goose_raw": {
+    "name": "Liver, goose, raw",
+    "alternative_names": [],
+    "description": "Liver, goose, raw."
+  },
+  "pork_ham_with_parsley_and_jelly": {
+    "name": "Pork ham with parsley and jelly",
+    "alternative_names": [],
+    "description": "Pork ham with parsley and jelly."
+  },
+  "cooked_ham_superior_quality_rind_less_defatted": {
+    "name": "Cooked ham, superior quality, rind less defatted",
+    "alternative_names": [],
+    "description": "Cooked ham, superior quality, rind less defatted."
+  },
+  "corned_beef_canned": {
+    "name": "Corned-beef, canned",
+    "alternative_names": [],
+    "description": "Corned-beef, canned."
+  },
+  "plant_based_sausage_with_tofu_vegan_prepacked": {
+    "name": "Plant-based sausage with tofu (vegan), prepacked",
+    "alternative_names": [],
+    "description": "Plant-based sausage with tofu (vegan), prepacked."
+  },
+  "plant_based_sausage_with_tofu_not_vegan_prepacked": {
+    "name": "Plant-based sausage with tofu (not vegan), prepacked",
+    "alternative_names": [],
+    "description": "Plant-based sausage with tofu (not vegan), prepacked."
+  },
+  "burger_from_beef_and_soybean_prepacked": {
+    "name": "Burger from beef and soybean, prepacked",
+    "alternative_names": [],
+    "description": "Burger from beef and soybean, prepacked."
+  },
+  "poultry_sausage_with_soybean_prepacked": {
+    "name": "Poultry sausage (with soybean), prepacked",
+    "alternative_names": [],
+    "description": "Poultry sausage (with soybean), prepacked."
+  },
+  "tilapia_raw": {
+    "name": "Tilapia, raw",
+    "alternative_names": [],
+    "description": "Tilapia, raw."
+  },
+  "rillette_fish_prepacked": {
+    "name": "Rillette, fish, prepacked",
+    "alternative_names": [],
+    "description": "Rillette, fish, prepacked."
+  },
+  "yellowfin_tuna_canned_in_brine_drained": {
+    "name": "Yellowfin tuna, canned in brine, drained",
+    "alternative_names": [],
+    "description": "Yellowfin tuna, canned in brine, drained."
+  },
+  "baby_meal_vegetables_with_meatfish_and_starchy_food_from_12_months": {
+    "name": "Baby meal, vegetables with meat/fish and starchy food, from 12 months",
+    "alternative_names": [],
+    "description": "Baby meal, vegetables with meat/fish and starchy food, from 12 months."
   }
 }

@@ -277,31 +277,6 @@
       }
     },
     {
-      "id": "cheese_mozzarella_whole_milk",
-      "category": "dairy_eggs",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 2.6,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
       "id": "cheese_muenster",
       "category": "dairy_eggs",
       "portions": [
@@ -721,7 +696,7 @@
           "gram_equivalent": 113
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 18969)",
       "tags": [
         "dairy",
         "k2"
@@ -944,32 +919,6 @@
       }
     },
     {
-      "id": "gouda_cheese",
-      "category": "dairy_eggs",
-      "tags": [
-        "aged_cheese",
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 73.0
-        },
-        {
-          "amount": 1,
-          "unit": "piece",
-          "gram_equivalent": 28,
-          "vitamin_k_mcg": 20.4
-        }
-      ],
-      "source": "USDA FoodData Central (FDC ID: 172166)",
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
       "id": "milk_buttermilk_dried",
       "category": "dairy_eggs",
       "portions": [
@@ -989,34 +938,6 @@
       "tags": [
         "dairy",
         "k2"
-      ],
-      "relations": {
-        "group": "milk"
-      }
-    },
-    {
-      "id": "milk_canned_condensed_sweetened",
-      "category": "dairy_eggs",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "ml",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 29
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "dairy",
-        "high_sodium",
-        "k2",
-        "sweetened"
       ],
       "relations": {
         "group": "milk"
@@ -1289,6 +1210,7 @@
       "id": "cheese_gouda",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -1311,7 +1233,7 @@
           "gram_equivalent": 198
         }
       ],
-      "source": "USDA SR28 (NDB No: 01022)",
+      "source": "USDA SR28 (NDB No: 01022), USDA FoodData Central (FDC ID: 172166)",
       "relations": {
         "group": "cheese"
       }
@@ -1435,7 +1357,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 01026)",
+      "source": "USDA SR28 (NDB No: 01026), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "cheese"
       }
@@ -2077,38 +1999,7 @@
           "gram_equivalent": 32
         }
       ],
-      "source": "USDA SR28 (NDB No: 01090)",
-      "relations": {
-        "group": "milk"
-      }
-    },
-    {
-      "id": "milk_dry_nonfat_reg_wo_added_vit_a_vitamin_d",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 120
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 30
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01091)",
+      "source": "USDA SR28 (NDB No: 01090), USDA SR28 (NDB No: 01212)",
       "relations": {
         "group": "milk"
       }
@@ -2117,8 +2008,11 @@
       "id": "milk_cnd_cond_swtnd",
       "category": "dairy_eggs",
       "tags": [
+        "cooked",
         "dairy",
-        "k2"
+        "high_sodium",
+        "k2",
+        "sweetened"
       ],
       "portions": [
         {
@@ -2139,7 +2033,7 @@
           "gram_equivalent": 38
         }
       ],
-      "source": "USDA SR28 (NDB No: 01095)",
+      "source": "USDA SR28 (NDB No: 01095), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "milk"
       }
@@ -2548,39 +2442,7 @@
           "gram_equivalent": 125
         }
       ],
-      "source": "USDA SR28 (NDB No: 01120)",
-      "relations": {
-        "group": "yogurt"
-      }
-    },
-    {
-      "id": "yogurt_fruit_lofat_10_grams_prot_per_8_oz",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "fermented",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 245
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 170
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01121)",
+      "source": "USDA SR28 (NDB No: 01120), USDA SR28 (NDB No: 01121)",
       "relations": {
         "group": "yogurt"
       }
@@ -3038,7 +2900,7 @@
           "gram_equivalent": 30
         }
       ],
-      "source": "USDA SR28 (NDB No: 01154)",
+      "source": "USDA SR28 (NDB No: 01154), USDA SR28 (NDB No: 01091)",
       "relations": {
         "group": "milk"
       }
@@ -3527,37 +3389,6 @@
       }
     },
     {
-      "id": "milk_dry_whl_wo_added_vitamin_d",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 2.8,
-          "gram_equivalent": 128
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 32
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01212)",
-      "relations": {
-        "group": "milk"
-      }
-    },
-    {
       "id": "milk_cnd_evap_wo_added_vit_a_vitamin_d",
       "category": "dairy_eggs",
       "tags": [
@@ -3615,39 +3446,7 @@
           "gram_equivalent": 125
         }
       ],
-      "source": "USDA SR28 (NDB No: 01216)",
-      "relations": {
-        "group": "yogurt"
-      }
-    },
-    {
-      "id": "yogurt_fruit_lofat_10_grams_prot_per_8_oz_for",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "fermented",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 245
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 170
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01217)",
+      "source": "USDA SR28 (NDB No: 01216), USDA SR28 (NDB No: 01217)",
       "relations": {
         "group": "yogurt"
       }
@@ -4739,31 +4538,6 @@
       "source": "USDA SR28 (NDB No: 18344)",
       "relations": {
         "group": "egg"
-      }
-    },
-    {
-      "id": "cream_puff_eclair_custard_or_crm_filled_iced",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.7
-        },
-        {
-          "amount": 4.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.6,
-          "gram_equivalent": 113
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18969)",
-      "relations": {
-        "group": "cream"
       }
     },
     {
@@ -6271,6 +6045,1835 @@
       "relations": {
         "group": "cheese"
       }
+    },
+    {
+      "id": "vegetable_flan_with_eggs",
+      "category": "dairy_eggs",
+      "tags": [
+        "egg",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 44.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 8297)",
+      "relations": {
+        "group": "egg"
+      }
+    },
+    {
+      "id": "lasagna_or_cannelloni_with_vegetables_and_goat_cheese_prepacked_cooked",
+      "category": "dairy_eggs",
+      "tags": [
+        "cooked",
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25219)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "cheese_breaded_to_grill_prepacked_from_goats_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "bakery",
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19437)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "plant_based_burger_or_steak_from_soybean_and_cheese_prepacked",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25595)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "plant_based_burger_or_steak_from_soybean_cheese_and_vegetables_prepacked",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25597)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "crepe_or_buckwheat_pancake_filled_with_egg_ham_and_cheese_prepacked",
+      "category": "dairy_eggs",
+      "tags": [
+        "egg",
+        "k1",
+        "meat",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25562)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "tart_goat_cheese_and_spinach_prepacked",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26267)",
+      "relations": {
+        "group": "spinach"
+      }
+    },
+    {
+      "id": "egg_roll_or_nem_with_chicken_prepacked_cooked",
+      "category": "dairy_eggs",
+      "tags": [
+        "cooked",
+        "egg",
+        "k1",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25582)",
+      "relations": {
+        "group": "egg"
+      }
+    },
+    {
+      "id": "egg_roll_or_nem_with_pork_prepacked_cooked",
+      "category": "dairy_eggs",
+      "tags": [
+        "cooked",
+        "egg",
+        "k1",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25583)",
+      "relations": {
+        "group": "egg"
+      }
+    },
+    {
+      "id": "egg_roll_or_nem_with_shrimp_andor_crab_prepacked_cooked",
+      "category": "dairy_eggs",
+      "tags": [
+        "cooked",
+        "egg",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25584)",
+      "relations": {
+        "group": "egg"
+      }
+    },
+    {
+      "id": "egg_roll_or_nem_prepacked_cooked_average",
+      "category": "dairy_eggs",
+      "tags": [
+        "cooked",
+        "egg",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25674)",
+      "relations": {
+        "group": "egg"
+      }
+    },
+    {
+      "id": "carrots_seasoned_puree_with_cream_prepacked",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20298)",
+      "relations": {
+        "group": "carrot"
+      }
+    },
+    {
+      "id": "swiss_chard_leaf_and_stalk_boiledcooked_in_water",
+      "category": "dairy_eggs",
+      "tags": [
+        "cooked",
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20301)",
+      "relations": {
+        "group": "kale"
+      }
+    },
+    {
+      "id": "head_cheese_pt_or_brawn",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 8400)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "surimi_filled_with_fresh_cheese",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26239)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "egg_hard_boiled",
+      "category": "dairy_eggs",
+      "tags": [
+        "cooked",
+        "egg",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.3,
+          "vitamin_k1_100g_mcg": 0.3,
+          "vitamin_k2_100g_mcg": 7.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 22010)",
+      "relations": {
+        "group": "egg"
+      }
+    },
+    {
+      "id": "egg_raw",
+      "category": "dairy_eggs",
+      "tags": [
+        "egg",
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.9,
+          "vitamin_k1_100g_mcg": 0.3,
+          "vitamin_k2_100g_mcg": 5.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 22000)",
+      "relations": {
+        "group": "egg"
+      }
+    },
+    {
+      "id": "egg_yolk_powder",
+      "category": "dairy_eggs",
+      "tags": [
+        "egg",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 22003)",
+      "relations": {
+        "group": "egg"
+      }
+    },
+    {
+      "id": "egg_powder",
+      "category": "dairy_eggs",
+      "tags": [
+        "egg",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 22013)",
+      "relations": {
+        "group": "egg"
+      }
+    },
+    {
+      "id": "milk_whole_average",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1,
+          "vitamin_k1_100g_mcg": 0.15,
+          "vitamin_k2_100g_mcg": 0.95
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19016)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "milk_whole_uht",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1,
+          "vitamin_k1_100g_mcg": 0.2,
+          "vitamin_k2_100g_mcg": 0.95
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19023)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "yogurt_greek_style_on_a_fruit_layer_with_sugar_s",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19552)",
+      "relations": {
+        "group": "yogurt"
+      }
+    },
+    {
+      "id": "yogurt_ewes_milk_flavoured_with_sugar_s",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19553)",
+      "relations": {
+        "group": "yogurt"
+      }
+    },
+    {
+      "id": "yogurt_or_fermented_milk_with_fruits_with_cream_with_sugar_s",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19589)",
+      "relations": {
+        "group": "yogurt"
+      }
+    },
+    {
+      "id": "fermented_milk_drink_plain_whole_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.4,
+          "vitamin_k1_100g_mcg": 0.22,
+          "vitamin_k2_100g_mcg": 8.15
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19805)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "camembert_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12001)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "camembert_cheese_from_cows_milk_from_raw_milk_or_thermised_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12006)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "camembert_cheese_from_cows_milk_from_pasteurized_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12007)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "soft_ripened_cheese_with_bloomy_rind_square_or_brick_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12015)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "brie_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12020)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "brie_de_melun_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12022)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "neufchtel_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12031)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "soft_ripened_cheese_washed_rind_average",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12034)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "livarot_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12037)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "poisses_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12038)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "munster_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12039)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "langres_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12040)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "pont_levque_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12042)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "saint_marcellin_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12049)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "saint_felicien_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12052)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "boulette_davesnes_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12064)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "cheese_semi_dry_from_goats_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12810)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "cheese_dry_from_goats_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12815)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "blue_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12520)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "fourme_dambert_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12522)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "cantal_cheese_not_matured_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12109)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "abondance_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12112)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "gruyere_cheese_france_protected_geographical_indication_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12113)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "gruyere_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12114)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "emmental_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.8,
+          "vitamin_k1_100g_mcg": 6.59,
+          "vitamin_k2_100g_mcg": 5.23
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12115)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "emmental_cheese_grated_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12118)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "parmesan_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12120)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "fontina_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12121)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "grana_padano_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12123)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "provolone_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12716)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "firm_cheese_in_wax_casing_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12720)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "salers_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12725)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "cheddar_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12726)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "edam_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 49.8,
+          "vitamin_k1_100g_mcg": 2.3,
+          "vitamin_k2_100g_mcg": 47.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12729)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "gouda_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12736)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "mimolette_cheese_old_from_cows_milk_cured_12_months_minimum",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12738)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "morbier_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12743)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "saint_paulin_firm_cheese_from_cows_milk_semi_hard_cheese",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12755)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "tomme_cheese_from_cows_milk_from_savoy",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12771)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "processed_cheese_in_slices_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12300)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "processed_cheese_from_cows_milk_flavoured_in_cubes_for_aperitif",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12302)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "processed_cheese_from_cows_milk_triangle_not_fortified",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12303)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "processed_cheese_from_cows_milk_triangle_fortified_with_vitamins",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12304)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "processed_cheese_from_cows_milk_square_not_fortified_with_vitamins",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12306)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "processed_cheese_from_cows_milk_square_or_on_stick_fortified_with_vitamins",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12307)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "processed_cheese_with_fresh_cream_cheese_and_walnuts_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12355)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "feta_type_cheese_100_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.7,
+          "vitamin_k1_100g_mcg": 1.1,
+          "vitamin_k2_100g_mcg": 15.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12060)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "finger_food_cheese_from_cows_milk_filled_or_coated",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12065)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "feta_cheese_70_min_from_ewes_milk_30_min_from_goats_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12066)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "uncured_soft_cheese_spreadable_plain_in_tray_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12068)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "uncured_soft_cheese_spreadable_flavoured_with_garlic_and_herbs_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12070)",
+      "relations": {
+        "group": "garlic"
+      }
+    },
+    {
+      "id": "burrata_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12072)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "processed_cheese_to_unroll_or_to_shred_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12111)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "mascarpone_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19584)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "ricotta_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19585)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "mozzarella_cheese_from_cows_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.9,
+          "vitamin_k1_100g_mcg": 2.3,
+          "vitamin_k2_100g_mcg": 3.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19590)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "mozzarella_cheese_from_buffalas_milk",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19591)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "plant_based_cheese_with_cashew_prepacked",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 18.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 1028)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "whipped_cream_aerosol_uht",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19420)",
+      "relations": {
+        "group": "cream"
+      }
+    },
+    {
+      "id": "milk_roll_prepacked",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.5,
+          "vitamin_k1_100g_mcg": 7.8,
+          "vitamin_k2_100g_mcg": 4.72
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7711)",
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "brioche_filled_with_custard_cream_chinese_brioche_type_prepacked",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 2.9,
+          "vitamin_k2_100g_mcg": 1.14
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7739)",
+      "relations": {
+        "group": "cream"
+      }
+    },
+    {
+      "id": "flan_tart_with_eggs",
+      "category": "dairy_eggs",
+      "tags": [
+        "egg",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23525)",
+      "relations": {
+        "group": "egg"
+      }
+    },
+    {
+      "id": "ice_cream_in_box",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2,
+          "vitamin_k1_100g_mcg": 0.59,
+          "vitamin_k2_100g_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 39515)",
+      "relations": {
+        "group": "cream"
+      }
+    },
+    {
+      "id": "ice_cream_gourmet_in_cup",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 39521)",
+      "relations": {
+        "group": "cream"
+      }
+    },
+    {
+      "id": "ice_cream_box_or_cup_average",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2,
+          "vitamin_k1_100g_mcg": 0.59,
+          "vitamin_k2_100g_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 39527)",
+      "relations": {
+        "group": "cream"
+      }
+    },
+    {
+      "id": "soy_cream",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11214)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "tzatziki_with_yogurt_prepacked",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 21.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19863)",
+      "relations": {
+        "group": "yogurt"
+      }
+    },
+    {
+      "id": "baby_meal_vegetable_with_milkcream_and_starchy_food_from_12_months",
+      "category": "dairy_eggs",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20251), Ciqual 2025 (Food Code: 20249), Ciqual 2025 (Food Code: 20250)"
     }
   ]
 }

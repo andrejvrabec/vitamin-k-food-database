@@ -27,9 +27,13 @@ def clean_usda_suffix(text):
     # Remove Slovak suffixes
     text = re.sub(r'\s+z\s+databázy\s+USDA\.?$', '', text, flags=re.IGNORECASE)
     text = re.sub(r'\s+podľa\s+databázy\s+USDA\.?$', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'\s+z\s+databázy\s+CIQUAL\.?$', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'\s+podľa\s+databázy\s+CIQUAL\.?$', '', text, flags=re.IGNORECASE)
     # Remove English suffixes
     text = re.sub(r'\s+from\s+the\s+USDA\s+database\.?$', '', text, flags=re.IGNORECASE)
     text = re.sub(r'\s+as\s+defined\s+by\s+the\s+USDA\s+database\.?$', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'\s+from\s+the\s+CIQUAL\s+database\.?$', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'\s+as\s+defined\s+by\s+the\s+CIQUAL\s+database\.?$', '', text, flags=re.IGNORECASE)
     # Strip any trailing whitespace or duplicate periods
     text = text.strip()
     # Remove trailing dots

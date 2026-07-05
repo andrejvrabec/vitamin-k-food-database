@@ -7,22 +7,12 @@
     ],
     "description": "Čerstvé listy rokety siatej (rukoly), výrazná listová zelenina s vysokým obsahom vitamínu K1."
   },
-  "asparagus_canned_drained_solids": {
-    "name": "Špargľa, konzervované, odkvapkané pevné látky",
-    "alternative_names": [],
-    "description": "Špargľa, konzervované, odkvapkané pevné látky."
-  },
   "asparagus_cooked": {
     "name": "Špargľa, varená",
     "alternative_names": [
       "Varená špargľa"
     ],
     "description": "Varené stonky špargle, obsahujúce stredné množstvo vitamínu K1."
-  },
-  "asparagus_cooked_boiled_drained": {
-    "name": "Špargľa uvarená, uvarená, scedená",
-    "alternative_names": [],
-    "description": "Špargľa uvarená, uvarená, scedená."
   },
   "asparagus_frozen_cooked_boiled_drained_w": {
     "name": "Špargľa mrazená, varená, scedená, bez soli",
@@ -59,11 +49,6 @@
     "name": "Brokolica mrazená, sekaná, varená, scedená, bez",
     "alternative_names": [],
     "description": "Brokolica mrazená, sekaná, varená, scedená, bez."
-  },
-  "broccoli_frozen_chopped_unprepared": {
-    "name": "Brokolica, mrazená, nasekaná, neupravená",
-    "alternative_names": [],
-    "description": "Brokolica, mrazená, nasekaná, neupravená."
   },
   "broccoli_raab_raw": {
     "name": "Brokolica raab (rapini), surová",
@@ -162,13 +147,6 @@
     ],
     "description": "Čerstvé listy čakanky štrbákovej (endívie), listová zelenina s jemne horkastou chuťou, bohatá na vitamín K1."
   },
-  "garden_cress_raw": {
-    "name": "Žerucha siata, surová",
-    "alternative_names": [
-      "Surová žerucha"
-    ],
-    "description": "Čerstvé listy žeruchy siatej, obsahujúce veľmi vysokú koncentráciu vitamínu K1."
-  },
   "jute_potherb_cooked_boiled_drained_witho": {
     "name": "Juta, potherb, varená, scedená, bez soli",
     "alternative_names": [],
@@ -211,11 +189,6 @@
     ],
     "description": "Varené plody ibišteka jedlého (okry), obsahujúce stredné množstvo vitamínu K1."
   },
-  "okra_frozen_cooked_boiled_drained_withou": {
-    "name": "Okra, mrazená, varená, scedená, bez soli",
-    "alternative_names": [],
-    "description": "Okra, mrazená, varená, scedená, bez soli."
-  },
   "okra_frozen_unprepared": {
     "name": "Okra, zamrznutá, nepripravená",
     "alternative_names": [],
@@ -230,11 +203,6 @@
     "name": "Cibuľa mrazená, celá, varená, scedená, bez",
     "alternative_names": [],
     "description": "Cibuľa mrazená, celá, varená, scedená, bez."
-  },
-  "onions_frozen_whole_unprepared": {
-    "name": "Cibuľa, mrazená, celá, nepripravená",
-    "alternative_names": [],
-    "description": "Cibuľa, mrazená, celá, nepripravená."
   },
   "onions_raw": {
     "name": "Cibuľa, surová",
@@ -273,16 +241,6 @@
     "name": "Pokeberry výhonky, (poke), varené, scedené, bez",
     "alternative_names": [],
     "description": "Pokeberry výhonky, (poke), varené, scedené, bez."
-  },
-  "potatoes_boiled_cooked_without_skin_fles": {
-    "name": "Zemiaky, varené bez šupky, dužiny, so soľou",
-    "alternative_names": [],
-    "description": "Zemiaky, varené bez šupky, dužiny, so soľou."
-  },
-  "potatoes_flesh_and_skin_raw": {
-    "name": "Zemiaky, dužina a šupka, surové",
-    "alternative_names": [],
-    "description": "Zemiaky, dužina a šupka, surové."
   },
   "radishes_raw": {
     "name": "Reďkovky, surové",
@@ -330,11 +288,6 @@
     "alternative_names": [],
     "description": "Tekvicové, zimné, maslové, varené, pečené, bez soli."
   },
-  "squash_winter_hubbard_baked_with_salt": {
-    "name": "Tekvicová, zimná, hubbardská, pečená, so soľou",
-    "alternative_names": [],
-    "description": "Tekvicová, zimná, hubbardská, pečená, so soľou."
-  },
   "squash_winter_hubbard_cooked_boiled_mash": {
     "name": "Tekvicová, zimná, hubbardská, varená, roztlačená, so soľou",
     "alternative_names": [],
@@ -350,25 +303,10 @@
     "alternative_names": [],
     "description": "Paradajková šťava, konzervovaná, s pridanou soľou."
   },
-  "tomato_juice_canned_without_salt_added": {
-    "name": "Paradajková šťava, konzervovaná, bez pridania soli",
-    "alternative_names": [],
-    "description": "Paradajková šťava, konzervovaná, bez pridania soli."
-  },
   "tomato_products_canned_puree_with_salt_a": {
     "name": "Paradajkové výrobky, konzervované, pretlak, s pridanou soľou",
     "alternative_names": [],
     "description": "Paradajkové výrobky, konzervované, pretlak, s pridanou soľou."
-  },
-  "tomato_products_canned_puree_without_sal": {
-    "name": "Paradajkové výrobky, konzervované, pretlak, bez pridania soli",
-    "alternative_names": [],
-    "description": "Paradajkové výrobky, konzervované, pretlak, bez pridania soli."
-  },
-  "tomatoes_red_ripe_canned_packed_in_tomat": {
-    "name": "Paradajky, červené, zrelé, konzervované, balené v paradajkovej šťave",
-    "alternative_names": [],
-    "description": "Paradajky, červené, zrelé, konzervované, balené v paradajkovej šťave."
   },
   "tomatoes_red_ripe_canned_stewed": {
     "name": "Paradajky, červené, zrelé, konzervované, dusené",
@@ -853,20 +791,10 @@
     "alternative_names": [],
     "description": "Zemiaky, pečené, dužina, bez soli."
   },
-  "potatoes_bkd_skn_wosalt": {
-    "name": "Zemiaky, pečené, šupka, bez soli",
-    "alternative_names": [],
-    "description": "Zemiaky, pečené, šupka, bez soli."
-  },
   "potatoes_bld_ckd_in_skn_flesh_wosalt": {
     "name": "Zemiaky, varené v šupke, dužina, bez soli",
     "alternative_names": [],
     "description": "Zemiaky, varené v šupke, dužina, bez soli."
-  },
-  "potatoes_bld_ckd_wo_skn_flesh_wo_salt": {
-    "name": "Zemiaky, varené bez šupky, dužina, bez soli",
-    "alternative_names": [],
-    "description": "Zemiaky, varené bez šupky, dužina, bez soli."
   },
   "potatoes_hashed_brown_home_prepared": {
     "name": "Zemiaky, hnedé, doma pripravené",
@@ -1018,11 +946,6 @@
     "alternative_names": [],
     "description": "Squash, zimný, hubbard, surové."
   },
-  "squash_wntr_hubbard_bkd_wo_salt": {
-    "name": "Squash, zimná, hubbard, pečené, bez soli",
-    "alternative_names": [],
-    "description": "Squash, zimná, hubbard, pečené, bez soli."
-  },
   "squash_wntr_hubbard_ckd_bld_mshd_wosalt": {
     "name": "Squash, zimná, hubbard, varené, mshd, bezsalt",
     "alternative_names": [],
@@ -1033,20 +956,10 @@
     "alternative_names": [],
     "description": "Listy sladkých zemiakov, surové."
   },
-  "sweet_potato_leaves_ckd_stmd_wo_salt": {
-    "name": "Sladké zemiakové listy, varené, parené, bez soli",
-    "alternative_names": [],
-    "description": "Sladké zemiakové listy, varené, parené, bez soli."
-  },
   "sweet_potato_raw_unprep": {
     "name": "Sladké zemiaky, surové, nepripravené",
     "alternative_names": [],
     "description": "Sladké zemiaky, surové, nepripravené."
-  },
-  "sweet_potato_ckd_bkd_in_skn_wo_salt": {
-    "name": "Sladké zemiaky, varené, pečené v šupke, bez soli",
-    "alternative_names": [],
-    "description": "Sladké zemiaky, varené, pečené v šupke, bez soli."
   },
   "sweet_potato_ckd_bld_wo_skn": {
     "name": "Sladké zemiaky, varené, bez šupky",
@@ -1453,20 +1366,10 @@
     "alternative_names": [],
     "description": "Pokeberry výhonky, (poke), varené, scedené, so soľou."
   },
-  "potatoes_bkd_flesh_skn_w_salt": {
-    "name": "Zemiaky, pečené, dužina a šupka, so soľou",
-    "alternative_names": [],
-    "description": "Zemiaky, pečené, dužina a šupka, so soľou."
-  },
   "potatoes_bkd_flesh_wsalt": {
     "name": "Zemiaky, pečené, dužina, so soľou",
     "alternative_names": [],
     "description": "Zemiaky, pečené, dužina, so soľou."
-  },
-  "potatoes_bkd_skn_w_salt": {
-    "name": "Zemiaky, pečené, šupka, so soľou",
-    "alternative_names": [],
-    "description": "Zemiaky, pečené, šupka, so soľou."
   },
   "potatoes_bld_ckd_in_skn_flesh_wsalt": {
     "name": "Zemiaky, varené v šupke, dužina, so soľou",
@@ -1800,5 +1703,525 @@
       "Surový mangold"
     ],
     "description": "Surové listy mangoldu, tmavá listová zelenina s veľmi vysokým obsahom vitamínu K1."
+  },
+  "potato_salad_pimontaise_style_prepacked": {
+    "name": "Zemiakový šalát, na piémontaise, balené",
+    "alternative_names": [],
+    "description": "Zemiakový šalát, na piémontaise, balené."
+  },
+  "tart_leek_prepacked": {
+    "name": "Koláč, pór, balené",
+    "alternative_names": [],
+    "description": "Koláč, pór, balené."
+  },
+  "tart_tomato_prepacked": {
+    "name": "Torta, paradajka, balené",
+    "alternative_names": [],
+    "description": "Torta, paradajka, balené."
+  },
+  "curly_endive_raw": {
+    "name": "Endívia kučeravá, surová",
+    "alternative_names": [],
+    "description": "Endívia kučeravá, surová."
+  },
+  "cucumber_flesh_and_skin_raw": {
+    "name": "Uhorka, dužina a šupka, surové",
+    "alternative_names": [],
+    "description": "Uhorka, dužina a šupka, surové."
+  },
+  "courgette_or_zucchini_flesh_and_skin_raw": {
+    "name": "Cuketa alebo cuketa, dužina a šupka, surové",
+    "alternative_names": [],
+    "description": "Cuketa alebo cuketa, dužina a šupka, surové."
+  },
+  "celery_stalk_raw": {
+    "name": "Stopkový zeler, surový",
+    "alternative_names": [],
+    "description": "Stopkový zeler, surový."
+  },
+  "lettuce_raw": {
+    "name": "Šalát, surový",
+    "alternative_names": [],
+    "description": "Šalát, surový."
+  },
+  "leek_raw": {
+    "name": "Pór, surový",
+    "alternative_names": [],
+    "description": "Pór, surový."
+  },
+  "green_cabbage_raw": {
+    "name": "Zelená kapusta, surová",
+    "alternative_names": [],
+    "description": "Zelená kapusta, surová."
+  },
+  "garden_peas_raw": {
+    "name": "Záhradný hrášok, surový",
+    "alternative_names": [],
+    "description": "Záhradný hrášok, surový."
+  },
+  "cauliflower_frozen_raw": {
+    "name": "Karfiol, mrazený, surový",
+    "alternative_names": [],
+    "description": "Karfiol, mrazený, surový."
+  },
+  "spinach_frozen_raw": {
+    "name": "Špenát, mrazený, surový",
+    "alternative_names": [],
+    "description": "Špenát, mrazený, surový."
+  },
+  "garden_peas_frozen_raw": {
+    "name": "Záhradný hrášok, mrazený, surový",
+    "alternative_names": [],
+    "description": "Záhradný hrášok, mrazený, surový."
+  },
+  "white_cabbage_raw": {
+    "name": "Biela kapusta, surová",
+    "alternative_names": [],
+    "description": "Biela kapusta, surová."
+  },
+  "lettuce_var_batavia_raw": {
+    "name": "Šalát, var. batavia, surová",
+    "alternative_names": [],
+    "description": "Šalát, var. batavia, surová."
+  },
+  "squash_butternut_flesh_without_skin_raw": {
+    "name": "Tekvica, maslový orech, dužina bez šupky, surová",
+    "alternative_names": [],
+    "description": "Tekvica, maslový orech, dužina bez šupky, surová."
+  },
+  "squash_all_types_raw": {
+    "name": "Squash, všetky druhy, surové",
+    "alternative_names": [],
+    "description": "Squash, všetky druhy, surové."
+  },
+  "chinese_cabbage_nappa_cabbage_raw": {
+    "name": "Čínska kapusta (kapusta nappa), surová",
+    "alternative_names": [],
+    "description": "Čínska kapusta (kapusta nappa), surová."
+  },
+  "tomato_cherry_raw": {
+    "name": "Paradajka, čerešňa, surová",
+    "alternative_names": [],
+    "description": "Paradajka, čerešňa, surová."
+  },
+  "iceberg_lettuce_raw": {
+    "name": "Ľadový šalát, surový",
+    "alternative_names": [],
+    "description": "Ľadový šalát, surový."
+  },
+  "broccoli_frozen_raw": {
+    "name": "Brokolica, mrazená, surová",
+    "alternative_names": [],
+    "description": "Brokolica, mrazená, surová."
+  },
+  "brussels_sprout_frozen_raw": {
+    "name": "Ružičkový kel, mrazený, surový",
+    "alternative_names": [],
+    "description": "Ružičkový kel, mrazený, surový."
+  },
+  "carrot_frozen_raw": {
+    "name": "Mrkva, mrazená, surová",
+    "alternative_names": [],
+    "description": "Mrkva, mrazená, surová."
+  },
+  "curly_kale_raw": {
+    "name": "Kučeravý kel, surový",
+    "alternative_names": [],
+    "description": "Kučeravý kel, surový."
+  },
+  "courgette_or_zucchini_flesh_and_skin_frozen_raw": {
+    "name": "Cuketa alebo cuketa, dužina a šupka, mrazené, surové",
+    "alternative_names": [],
+    "description": "Cuketa alebo cuketa, dužina a šupka, mrazené, surové."
+  },
+  "spinach_young_leaves_for_salad_raw": {
+    "name": "Špenát, mladé listy na šalát, surový",
+    "alternative_names": [],
+    "description": "Špenát, mladé listy na šalát, surový."
+  },
+  "tomato_round_raw": {
+    "name": "Paradajka, okrúhla, surová",
+    "alternative_names": [],
+    "description": "Paradajka, okrúhla, surová."
+  },
+  "romanesco_cauliflower_or_romanesco_broccoli_raw": {
+    "name": "Romanesco karfiol alebo romanesco brokolica, surové",
+    "alternative_names": [],
+    "description": "Romanesco karfiol alebo romanesco brokolica, surové."
+  },
+  "asparagus_white_or_purple_peeled_raw": {
+    "name": "Špargľa, biela alebo fialová, lúpaná, surová",
+    "alternative_names": [],
+    "description": "Špargľa, biela alebo fialová, lúpaná, surová."
+  },
+  "lettuce_sucrine_raw": {
+    "name": "Šalát, sukrin, surový",
+    "alternative_names": [],
+    "description": "Šalát, sukrin, surový."
+  },
+  "lettuce_oak_leaf_raw": {
+    "name": "Šalát, dubový list, surový",
+    "alternative_names": [],
+    "description": "Šalát, dubový list, surový."
+  },
+  "chinese_cabbage_pak_cho_ou_pak_choy_raw": {
+    "name": "Čínska kapusta, pak choï ou pak choy, surová",
+    "alternative_names": [],
+    "description": "Čínska kapusta, pak choï ou pak choy, surová."
+  },
+  "tomato_raw_average": {
+    "name": "Paradajka, surová (priemerná)",
+    "alternative_names": [],
+    "description": "Paradajka, surová (priemerná)."
+  },
+  "carrot_canned_drained": {
+    "name": "Mrkva, konzervovaná, scedená",
+    "alternative_names": [],
+    "description": "Mrkva, konzervovaná, scedená."
+  },
+  "green_cabbage_cooked": {
+    "name": "Zelená kapusta, varená",
+    "alternative_names": [],
+    "description": "Zelená kapusta, varená."
+  },
+  "cauliflower_boiled": {
+    "name": "Karfiol, varený",
+    "alternative_names": [],
+    "description": "Karfiol, varený."
+  },
+  "courgette_or_zucchini_flesh_and_skin_cooked": {
+    "name": "Cuketa alebo cuketa, dužina a šupka, varené",
+    "alternative_names": [],
+    "description": "Cuketa alebo cuketa, dužina a šupka, varené."
+  },
+  "garden_peas_canned_drained": {
+    "name": "Záhradný hrášok, konzervovaný, scedený",
+    "alternative_names": [],
+    "description": "Záhradný hrášok, konzervovaný, scedený."
+  },
+  "garden_peas_cooked": {
+    "name": "Záhradný hrášok, varený",
+    "alternative_names": [],
+    "description": "Záhradný hrášok, varený."
+  },
+  "tomato_peeled_canned_drained": {
+    "name": "Paradajka, ošúpaná, konzervovaná, scedená",
+    "alternative_names": [],
+    "description": "Paradajka, ošúpaná, konzervovaná, scedená."
+  },
+  "spinach_canned_drained": {
+    "name": "Špenát, konzervovaný, scedený",
+    "alternative_names": [],
+    "description": "Špenát, konzervovaný, scedený."
+  },
+  "tomato_paste_concentrated_canned": {
+    "name": "Paradajkový pretlak, koncentrovaný, konzervovaný",
+    "alternative_names": [],
+    "description": "Paradajkový pretlak, koncentrovaný, konzervovaný."
+  },
+  "asparagus_canned_drained": {
+    "name": "Špargľa, konzervovaná, scedená",
+    "alternative_names": [],
+    "description": "Špargľa, konzervovaná, scedená."
+  },
+  "red_cabbage_boiledcooked_in_water": {
+    "name": "Červená kapusta, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Červená kapusta, varená/varená vo vode."
+  },
+  "garden_peas_frozen_cooked": {
+    "name": "Záhradný hrášok, mrazený, varený",
+    "alternative_names": [],
+    "description": "Záhradný hrášok, mrazený, varený."
+  },
+  "tomato_peeled_canned_in_juice_solids_and_liquids": {
+    "name": "Paradajka, lúpaná, konzervovaná, v šťave, sušine a tekutine",
+    "alternative_names": [],
+    "description": "Paradajka, lúpaná, konzervovaná, v šťave, sušine a tekutine."
+  },
+  "new_zealand_spinach_cooked": {
+    "name": "Novozélandský špenát, varený",
+    "alternative_names": [],
+    "description": "Novozélandský špenát, varený."
+  },
+  "curly_kale_cooked": {
+    "name": "Kučeravý kel, varený",
+    "alternative_names": [],
+    "description": "Kučeravý kel, varený."
+  },
+  "tomato_flesh_and_skin_boiledcooked_in_water": {
+    "name": "Paradajka, dužina a šupka, varené/varené vo vode",
+    "alternative_names": [],
+    "description": "Paradajka, dužina a šupka, varené/varené vo vode."
+  },
+  "carrots_puree": {
+    "name": "Mrkva, pyré",
+    "alternative_names": [],
+    "description": "Mrkva, pyré."
+  },
+  "tomato_flesh_and_skin_roastedbaked": {
+    "name": "Paradajka, dužina a šupka, pečené/pečené",
+    "alternative_names": [],
+    "description": "Paradajka, dužina a šupka, pečené/pečené."
+  },
+  "romanesco_cauliflower_or_romanesco_broccoli_cooked": {
+    "name": "Romanesco karfiol alebo romanesco brokolica, varené",
+    "alternative_names": [],
+    "description": "Romanesco karfiol alebo romanesco brokolica, varené."
+  },
+  "red_kuri_squash_flesh_without_skin_braised": {
+    "name": "Červená tekvica kuri, dužina bez šupky, dusená",
+    "alternative_names": [],
+    "description": "Červená tekvica kuri, dužina bez šupky, dusená."
+  },
+  "asparagus_green_boiledcooked_in_water": {
+    "name": "Špargľa, zelená, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Špargľa, zelená, varená/varená vo vode."
+  },
+  "broccoli_boiledcooked_in_water_crunchy": {
+    "name": "Brokolica, varená/varená vo vode, chrumkavá",
+    "alternative_names": [],
+    "description": "Brokolica, varená/varená vo vode, chrumkavá."
+  },
+  "broccoli_boiledcooked_in_water_tender": {
+    "name": "Brokolica, varená/varená vo vode, jemná",
+    "alternative_names": [],
+    "description": "Brokolica, varená/varená vo vode, jemná."
+  },
+  "broccoli_steamed": {
+    "name": "Brokolica, dusená",
+    "alternative_names": [],
+    "description": "Brokolica, dusená."
+  },
+  "carrot_boiledcooked_in_water_crunchy": {
+    "name": "Mrkva, varená/varená vo vode, chrumkavá",
+    "alternative_names": [],
+    "description": "Mrkva, varená/varená vo vode, chrumkavá."
+  },
+  "carrot_boiledcooked_in_water_tender": {
+    "name": "Mrkva, varená/varená vo vode, jemná",
+    "alternative_names": [],
+    "description": "Mrkva, varená/varená vo vode, jemná."
+  },
+  "carrot_steamed": {
+    "name": "Mrkva, dusená",
+    "alternative_names": [],
+    "description": "Mrkva, dusená."
+  },
+  "white_cabbage_boiledcooked_in_water": {
+    "name": "Biela kapusta, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Biela kapusta, varená/varená vo vode."
+  },
+  "brussels_sprout_boiledcooked_in_water": {
+    "name": "Ružičkový kel, varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Ružičkový kel, varený/varený vo vode."
+  },
+  "green_cabbage_boiledcooked_in_water": {
+    "name": "Zelená kapusta, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Zelená kapusta, varená/varená vo vode."
+  },
+  "cauliflower_steamed": {
+    "name": "Karfiol, dusený",
+    "alternative_names": [],
+    "description": "Karfiol, dusený."
+  },
+  "courgette_or_zucchini_flesh_and_skin_roastedbaked": {
+    "name": "Cuketa alebo cuketa, dužina a šupka, pražená/pečená",
+    "alternative_names": [],
+    "description": "Cuketa alebo cuketa, dužina a šupka, pražená/pečená."
+  },
+  "celery_stalk_braised": {
+    "name": "Stopkový zeler, dusený",
+    "alternative_names": [],
+    "description": "Stopkový zeler, dusený."
+  },
+  "garden_peas_boiledcooked_in_water": {
+    "name": "Záhradný hrášok, varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Záhradný hrášok, varený/varený vo vode."
+  },
+  "leek_boiledcooked_in_water": {
+    "name": "Pór, varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Pór, varený/varený vo vode."
+  },
+  "red_kuri_squash_flesh_without_skin_boiledcooked_in_water": {
+    "name": "Červená tekvica kuri, dužina bez šupky, varená/varená vo vode",
+    "alternative_names": [],
+    "description": "Červená tekvica kuri, dužina bez šupky, varená/varená vo vode."
+  },
+  "spinach_boiledcooked_in_water": {
+    "name": "Špenát, varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Špenát, varený/varený vo vode."
+  },
+  "chinese_cabbage_pak_cho_ou_pak_choy_cooked": {
+    "name": "Čínska kapusta, pak choï ou pak choy, varená",
+    "alternative_names": [],
+    "description": "Čínska kapusta, pak choï ou pak choy, varená."
+  },
+  "asparagus_boiledcooked_in_water_average": {
+    "name": "Špargľa, varená/varená vo vode (priemer)",
+    "alternative_names": [],
+    "description": "Špargľa, varená/varená vo vode (priemer)."
+  },
+  "broccoli_boiledcooked_in_water_average": {
+    "name": "Brokolica, varená/varená vo vode (priemer)",
+    "alternative_names": [],
+    "description": "Brokolica, varená/varená vo vode (priemer)."
+  },
+  "broccoli_cooked_average": {
+    "name": "Brokolica, varená (priemer)",
+    "alternative_names": [],
+    "description": "Brokolica, varená (priemer)."
+  },
+  "carrot_boiledcooked_in_water_average": {
+    "name": "Mrkva, varená/varená vo vode (priemer)",
+    "alternative_names": [],
+    "description": "Mrkva, varená/varená vo vode (priemer)."
+  },
+  "carrot_cooked_average": {
+    "name": "Mrkva, varená (priemer)",
+    "alternative_names": [],
+    "description": "Mrkva, varená (priemer)."
+  },
+  "red_cabbage_cooked_average": {
+    "name": "Červená kapusta, varená (priemerne)",
+    "alternative_names": [],
+    "description": "Červená kapusta, varená (priemerne)."
+  },
+  "red_kuri_squash_flesh_without_skin_cooked_average": {
+    "name": "Červená tekvica kuri, dužina bez šupky, varená (priemer)",
+    "alternative_names": [],
+    "description": "Červená tekvica kuri, dužina bez šupky, varená (priemer)."
+  },
+  "tomato_flesh_and_skin_cooked_average": {
+    "name": "Paradajka, dužina a šupka, varené (priemer)",
+    "alternative_names": [],
+    "description": "Paradajka, dužina a šupka, varené (priemer)."
+  },
+  "onion_dried": {
+    "name": "Cibuľa sušená",
+    "alternative_names": [],
+    "description": "Cibuľa sušená."
+  },
+  "tomato_dried": {
+    "name": "Paradajky sušené",
+    "alternative_names": [],
+    "description": "Paradajky sušené."
+  },
+  "watercress_leaf_raw_sampled_in_the_island_of_la_martinique": {
+    "name": "Žerucha, listová, surová, vzorkovaná na ostrove La Martinique",
+    "alternative_names": [],
+    "description": "Žerucha, listová, surová, vzorkovaná na ostrove La Martinique."
+  },
+  "potato_boiledcooked_in_water": {
+    "name": "Zemiaky, varené/varené vo vode",
+    "alternative_names": [],
+    "description": "Zemiaky, varené/varené vo vode."
+  },
+  "potato_crisps_plain_or_flavoured_standard": {
+    "name": "Zemiakové lupienky, hladké alebo ochutené, štandardné",
+    "alternative_names": [],
+    "description": "Zemiakové lupienky, hladké alebo ochutené, štandardné."
+  },
+  "potato_peeled_raw": {
+    "name": "Zemiaky, lúpané, surové",
+    "alternative_names": [],
+    "description": "Zemiaky, lúpané, surové."
+  },
+  "potato_flakes_dehydrated_plain": {
+    "name": "Zemiakové vločky, dehydrované, hladké",
+    "alternative_names": [],
+    "description": "Zemiakové vločky, dehydrované, hladké."
+  },
+  "potato_wedge_spiced_frozen_cooked": {
+    "name": "Zemiaky, korenené, mrazené, varené",
+    "alternative_names": [],
+    "description": "Zemiaky, korenené, mrazené, varené."
+  },
+  "potato_roastedbaked": {
+    "name": "Zemiaky pečené/pečené",
+    "alternative_names": [],
+    "description": "Zemiaky pečené/pečené."
+  },
+  "potato_sautedpan_fried_pre_fried_frozen_cooked": {
+    "name": "Zemiaky, restované/vyprážané, predsmažené, mrazené, varené",
+    "alternative_names": [],
+    "description": "Zemiaky, restované/vyprážané, predsmažené, mrazené, varené."
+  },
+  "potato_crisps_plain_or_flavoured_old_style": {
+    "name": "Zemiakové lupienky, hladké alebo ochutené, na starý spôsob",
+    "alternative_names": [],
+    "description": "Zemiakové lupienky, hladké alebo ochutené, na starý spôsob."
+  },
+  "potato_cooked_average_food": {
+    "name": "Zemiaky, varené (priemerné jedlo)",
+    "alternative_names": [],
+    "description": "Zemiaky, varené (priemerné jedlo)."
+  },
+  "sweet_potato_raw": {
+    "name": "Sladké zemiaky, surové",
+    "alternative_names": [],
+    "description": "Sladké zemiaky, surové."
+  },
+  "sweet_potato_cooked": {
+    "name": "Sladké zemiaky, varené",
+    "alternative_names": [],
+    "description": "Sladké zemiaky, varené."
+  },
+  "yam_peeled_raw": {
+    "name": "Yam, lúpaný, surový",
+    "alternative_names": [],
+    "description": "Yam, lúpaný, surový."
+  },
+  "yam_peeled_boiledcooked_in_water": {
+    "name": "Yam, lúpaný, varený/varený vo vode",
+    "alternative_names": [],
+    "description": "Yam, lúpaný, varený/varený vo vode."
+  },
+  "pumpkin_and_squash_seed_dried": {
+    "name": "Tekvica a tekvica, semená, sušené",
+    "alternative_names": [],
+    "description": "Tekvica a tekvica, semená, sušené."
+  },
+  "spanish_style_tortilla_with_onions_omelette_with_potatoes_and_onions_prepacked": {
+    "name": "Tortilla na španielsky spôsob s cibuľou (omeleta so zemiakmi a cibuľou), balené",
+    "alternative_names": [],
+    "description": "Tortilla na španielsky spôsob s cibuľou (omeleta so zemiakmi a cibuľou), balené."
+  },
+  "carrot_juice_pure_juice": {
+    "name": "Mrkvová šťava, čistá šťava",
+    "alternative_names": [],
+    "description": "Mrkvová šťava, čistá šťava."
+  },
+  "tomato_juice_pure_juice_6_g_saltl": {
+    "name": "Paradajková šťava, čistá šťava, 6 g soli/l",
+    "alternative_names": [],
+    "description": "Paradajková šťava, čistá šťava, 6 g soli/l."
+  },
+  "soft_waffle_brussels_style_plain_or_with_sugar_s_prepacked": {
+    "name": "Mäkké vafle (na bruselský spôsob), hladké alebo s cukrom (cukrami), balené",
+    "alternative_names": [],
+    "description": "Mäkké vafle (na bruselský spôsob), hladké alebo s cukrom (cukrami), balené."
+  },
+  "chive_or_spring_onion_fresh": {
+    "name": "Pažítka alebo jarná cibuľka, čerstvá",
+    "alternative_names": [],
+    "description": "Pažítka alebo jarná cibuľka, čerstvá."
+  },
+  "sea_lettuce_ulva_sp_dried_or_dehydrated": {
+    "name": "Morský šalát (Ulva sp.), sušený alebo dehydrovaný",
+    "alternative_names": [],
+    "description": "Morský šalát (Ulva sp.), sušený alebo dehydrovaný."
+  },
+  "tomato_caviar_seasoned_tomato_puree": {
+    "name": "Paradajkový kaviár (ochutený paradajkový pretlak)",
+    "alternative_names": [],
+    "description": "Paradajkový kaviár (ochutený paradajkový pretlak)."
   }
 }

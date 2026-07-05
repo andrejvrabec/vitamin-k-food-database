@@ -246,33 +246,6 @@
       }
     },
     {
-      "id": "edamame_frozen_unprepared",
-      "category": "nuts_seeds",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 24.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 37.1,
-          "gram_equivalent": 150
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "k1",
-        "legumes",
-        "soy"
-      ],
-      "relations": {
-        "group": "soy"
-      }
-    },
-    {
       "id": "lima_beans_immature_seeds_cooked_boiled",
       "category": "nuts_seeds",
       "portions": [
@@ -482,34 +455,6 @@
       }
     },
     {
-      "id": "soybeans_mature_seeds_sprouted_cooked_st",
-      "category": "nuts_seeds",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 44.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 66.4,
-          "gram_equivalent": 150
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "cooked",
-        "k1",
-        "legumes",
-        "seeds",
-        "soy"
-      ],
-      "relations": {
-        "group": "soy"
-      }
-    },
-    {
       "id": "ice_crm_cone_choc_covered_w_nuts_flavors_othe",
       "category": "nuts_seeds",
       "tags": [
@@ -591,7 +536,7 @@
           "gram_equivalent": 3
         }
       ],
-      "source": "USDA SR28 (NDB No: 11001)",
+      "source": "USDA SR28 (NDB No: 11001), Ciqual 2025 (Food Code: 15029)",
       "relations": {
         "group": "seed"
       }
@@ -1112,6 +1057,7 @@
       "id": "edamame_frz_unprep",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "soy"
@@ -1135,7 +1081,7 @@
           "gram_equivalent": 432
         }
       ],
-      "source": "USDA SR28 (NDB No: 11211)",
+      "source": "USDA SR28 (NDB No: 11211), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "soy"
       }
@@ -1329,7 +1275,7 @@
           "gram_equivalent": 116
         }
       ],
-      "source": "USDA SR28 (NDB No: 11422)",
+      "source": "USDA SR28 (NDB No: 11422), Ciqual 2025 (Food Code: 20166)",
       "relations": {
         "group": "squash",
         "related_ids": [
@@ -1391,6 +1337,7 @@
       "id": "soybeans_mature_seeds_sprouted_ckd_stmd",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds",
@@ -1409,7 +1356,7 @@
           "gram_equivalent": 94
         }
       ],
-      "source": "USDA SR28 (NDB No: 11453)",
+      "source": "USDA SR28 (NDB No: 11453), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "soy"
       }
@@ -2475,7 +2422,7 @@
           "gram_equivalent": 185
         }
       ],
-      "source": "USDA SR28 (NDB No: 16017)",
+      "source": "USDA SR28 (NDB No: 16017), USDA SR28 (NDB No: 16317)",
       "relations": {
         "group": "beans"
       }
@@ -3563,32 +3510,6 @@
       }
     },
     {
-      "id": "beans_black_turtle_mature_seeds_ckd_bld_w_sal",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.1,
-          "gram_equivalent": 185
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16317)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
       "id": "beans_kidney_red_mature_seeds_ckd_bld_wsalt",
       "category": "nuts_seeds",
       "tags": [
@@ -4026,6 +3947,429 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 43506)"
+    },
+    {
+      "id": "plant_based_burger_or_steak_from_soybean",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20914)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "plant_based_burger_or_steak_from_lentil_soybean_and_vegetables_prepacked",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25591)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "plant_based_burger_or_steak_from_soybean_and_vegetables_prepacked",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25596)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "mung_bean_sprouted_raw",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20183)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "mung_bean_sprouted_canned_drained"
+        ]
+      }
+    },
+    {
+      "id": "mung_bean_sprouted_canned_drained",
+      "category": "nuts_seeds",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20029)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "mung_bean_sprouted_raw"
+        ]
+      }
+    },
+    {
+      "id": "mung_bean_fresh_boiledcooked_in_water",
+      "category": "nuts_seeds",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20531)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "beans_mung_mature_seeds_dried",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "legumes",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 170.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20530)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "tamarind_mature_fruit_flesh_without_skin_with_seeds_raw",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "raw",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13080)",
+      "relations": {
+        "group": "seed"
+      }
+    },
+    {
+      "id": "melon_honeydew_flesh_without_skin_without_seeds_raw",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "raw",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13742)",
+      "relations": {
+        "group": "melon"
+      }
+    },
+    {
+      "id": "mix_of_salted_nuts_and_raisins",
+      "category": "nuts_seeds",
+      "tags": [
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15018)",
+      "relations": {
+        "group": "grape"
+      }
+    },
+    {
+      "id": "sunflower_seed_grilled_salted",
+      "category": "nuts_seeds",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15045)",
+      "relations": {
+        "group": "seed"
+      }
+    },
+    {
+      "id": "mix_of_nuts_and_raisins_no_added_salt",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15049)",
+      "relations": {
+        "group": "grape"
+      }
+    },
+    {
+      "id": "seeds_and_peanuts_dried_salted_average",
+      "category": "nuts_seeds",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "legumes",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15065)",
+      "relations": {
+        "group": "seed"
+      }
+    },
+    {
+      "id": "seeds_and_peanuts_dried_unsalted_average",
+      "category": "nuts_seeds",
+      "tags": [
+        "high_sodium",
+        "k1",
+        "legumes",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15066)",
+      "relations": {
+        "group": "seed"
+      }
+    },
+    {
+      "id": "soybean_seed_whole",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "legumes",
+        "seeds",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 47.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20901)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "granola_with_fruits_with_or_without_nut_and_seeds_not_fortified",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32108)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "muesli_with_fruits_nuts_andor_seeds_fortified_with_vitamins_and_minerals",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32110)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "granola_with_fruits_with_or_without_nut_and_seeds_fortified_with_vitamins_and_mineral",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32111)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "muesli_with_fruits_nuts_andor_seeds_no_added_sugars_not_fortified",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "seeds",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32113)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "muesli_with_fruits_nuts_andor_seeds_not_fortified",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32138)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "granola_with_nuts_andor_seeds_only_not_fortified",
+      "category": "nuts_seeds",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32145)",
+      "relations": {
+        "group": "cereal"
+      }
     }
   ]
 }

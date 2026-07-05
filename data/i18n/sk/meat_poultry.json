@@ -12,16 +12,6 @@
     ],
     "description": "Tepelne upravená hovädzia pečeň, mimoriadne bohatá na iné živiny, s malým podielom vitamínu K2."
   },
-  "beerwurst_beer_salami_pork_and_beef": {
-    "name": "Beerwurst, pivná saláma, bravčové a hovädzie mäso",
-    "alternative_names": [],
-    "description": "Beerwurst, pivná saláma, bravčové a hovädzie mäso."
-  },
-  "beerwurst_pork_and_beef": {
-    "name": "Beerwurst, bravčové a hovädzie mäso",
-    "alternative_names": [],
-    "description": "Beerwurst, bravčové a hovädzie mäso."
-  },
   "bologna_meat_and_poultry": {
     "name": "Bologna, mäso a hydina",
     "alternative_names": [],
@@ -39,16 +29,6 @@
       "Varené kuracie prsia"
     ],
     "description": "Pečené kuracie prsné rezne bez kože, obsahujúce malé/stredné množstvo vitamínu K2."
-  },
-  "chicken_broilers_or_fryers_back_meat_and": {
-    "name": "Kuracie mäso, brojlery alebo fritézy, chrbát, mäso a koža, surové",
-    "alternative_names": [],
-    "description": "Kuracie mäso, brojlery alebo fritézy, chrbát, mäso a koža, surové."
-  },
-  "chicken_broilers_or_fryers_back_meat_onl": {
-    "name": "Kuracie mäso, brojlery alebo fritézy, chrbát, iba mäso, surové",
-    "alternative_names": [],
-    "description": "Kuracie mäso, brojlery alebo fritézy, chrbát, iba mäso, surové."
   },
   "chicken_broilers_or_fryers_drumstick_mea": {
     "name": "Kuracie mäso, brojlery alebo fritézy, stehno, mäso a koža, varené, dusené",
@@ -69,11 +49,6 @@
     "name": "Kurčatá, brojlery alebo fritézy, mäso a koža, varené, vyprážané,",
     "alternative_names": [],
     "description": "Kurčatá, brojlery alebo fritézy, mäso a koža, varené, vyprážané,."
-  },
-  "chicken_skin_raw": {
-    "name": "Kuracie mäso, koža (paličky a stehná), surové",
-    "alternative_names": [],
-    "description": "Kuracie mäso, koža (paličky a stehná), surové."
   },
   "chicken_stewing_meat_and_skin_and_giblet": {
     "name": "Kuracie mäso, dusené mäso a koža a droby a krkovička, varené, dusené",
@@ -110,11 +85,6 @@
     "alternative_names": [],
     "description": "Ryby, morský ostriež, Atlantik, varené, suché teplo."
   },
-  "fish_salmon_pink_canned_drained_solids": {
-    "name": "Ryby, losos, ružové, konzervované, odkvapkané pevné látky",
-    "alternative_names": [],
-    "description": "Ryby, losos, ružové, konzervované, odkvapkané pevné látky."
-  },
   "fish_swordfish_cooked_dry_heat": {
     "name": "Ryby, mečiar, varené, suché teplo",
     "alternative_names": [],
@@ -149,11 +119,6 @@
     "name": "Mäkkýše, ustrice, východné, divoké, varené, vlhké teplo",
     "alternative_names": [],
     "description": "Mäkkýše, ustrice, východné, divoké, varené, vlhké teplo."
-  },
-  "sausage_pork_and_turkey_pre_cooked": {
-    "name": "Klobása, bravčové a morčacie mäso, predvarené",
-    "alternative_names": [],
-    "description": "Klobása, bravčové a morčacie mäso, predvarené."
   },
   "sausage_turkey_hot_smoked": {
     "name": "Klobása, morka, pálivá, údená",
@@ -1390,14 +1355,344 @@
     "alternative_names": [],
     "description": "Morčacie mäso, svetlé alebo tmavé mäso, údené, varené, s kožou, zbavené kosti."
   },
-  "turkey_lt_or_dk_meat_smoked_ckd_skn_bone_remo": {
-    "name": "Morčacie, svetlé alebo tmavé mäso mäso, údené, varené, koža & kosti zbavené",
-    "alternative_names": [],
-    "description": "Morčacie, svetlé alebo tmavé mäso mäso, údené, varené, koža & kosti zbavené."
-  },
   "frankfurter_lo_na": {
     "name": "Frankfurter, lo na",
     "alternative_names": [],
     "description": "Frankfurter, lo na."
+  },
+  "mixed_salad_with_meatfish_canned": {
+    "name": "Miešaný šalát, s mäsom/rybou, v konzerve",
+    "alternative_names": [],
+    "description": "Miešaný šalát, s mäsom/rybou, v konzerve."
+  },
+  "tabbouleh_or_couscous_salad_with_chicken_prepacked": {
+    "name": "Tabbouleh alebo kuskusový šalát, s kuracím mäsom, balené",
+    "alternative_names": [],
+    "description": "Tabbouleh alebo kuskusový šalát, s kuracím mäsom, balené."
+  },
+  "chicken_nuggets_with_soybean_breaded_croquette_prepacked": {
+    "name": "Kuracie nugetky (so sójovými bôbmi), balené krokety, balené",
+    "alternative_names": [],
+    "description": "Kuracie nugetky (so sójovými bôbmi), balené krokety, balené."
+  },
+  "meat_balls_beef_and_lamb_kefta_type_prepacked_cooked": {
+    "name": "Mäsové guľky, hovädzie a jahňacie mäso (typ kefta), balené varené",
+    "alternative_names": [],
+    "description": "Mäsové guľky, hovädzie a jahňacie mäso (typ kefta), balené varené."
+  },
+  "meat_balls_pork_and_beef_swedish_style_prepacked_cooked": {
+    "name": "Mäsové guľky, bravčové a hovädzie mäso (na švédsky spôsob), balené, varené",
+    "alternative_names": [],
+    "description": "Mäsové guľky, bravčové a hovädzie mäso (na švédsky spôsob), balené, varené."
+  },
+  "beef_on_skewer_cooked": {
+    "name": "Hovädzie mäso na ražni, varené",
+    "alternative_names": [],
+    "description": "Hovädzie mäso na ražni, varené."
+  },
+  "chicken_nuggets_breaded_croquette_prepacked": {
+    "name": "Kuracie nugetky, balené krokety, balené",
+    "alternative_names": [],
+    "description": "Kuracie nugetky, balené krokety, balené."
+  },
+  "pre_fried_potatoes_pan_fried_with_bacon_bits_or_chicken_without_green_vegetables_prep": {
+    "name": "Predsmažené zemiaky, opečené na panvici, s kúskami slaniny alebo kuracím mäsom, bez zelenej zeleniny, balené",
+    "alternative_names": [],
+    "description": "Predsmažené zemiaky, opečené na panvici, s kúskami slaniny alebo kuracím mäsom, bez zelenej zeleniny, balené."
+  },
+  "chicken_tagine_prepacked": {
+    "name": "Kuracie tagine, balené",
+    "alternative_names": [],
+    "description": "Kuracie tagine, balené."
+  },
+  "fish_and_shrimp_au_gratin_prepacked_cooked": {
+    "name": "Gratinované ryby a krevety, balené, varené",
+    "alternative_names": [],
+    "description": "Gratinované ryby a krevety, balené, varené."
+  },
+  "sauerkraut_seasoned_and_cooked_with_bacon_bits_without_garnish_drained_cooked": {
+    "name": "Kyslá kapusta, ochutená a varená s kúskami slaniny, bez oblohy, scedená, varená",
+    "alternative_names": [],
+    "description": "Kyslá kapusta, ochutená a varená s kúskami slaniny, bez oblohy, scedená, varená."
+  },
+  "burritos_with_beef": {
+    "name": "Burrito s hovädzím mäsom",
+    "alternative_names": [],
+    "description": "Burrito s hovädzím mäsom."
+  },
+  "fish_burger_from_fast_food": {
+    "name": "Rybí burger, z rýchleho občerstvenia",
+    "alternative_names": [],
+    "description": "Rybí burger, z rýchleho občerstvenia."
+  },
+  "chicken_burger_from_fast_food": {
+    "name": "Kurací burger, z rýchleho občerstvenia",
+    "alternative_names": [],
+    "description": "Kurací burger, z rýchleho občerstvenia."
+  },
+  "lambs_lettuce_raw": {
+    "name": "Jahňací šalát, surový",
+    "alternative_names": [],
+    "description": "Jahňací šalát, surový."
+  },
+  "beef_rib_steak_lean_grilledpan_fried": {
+    "name": "Hovädzie mäso, rebierkový steak, chudé, grilované/vyprážané",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, rebierkový steak, chudé, grilované/vyprážané."
+  },
+  "beef_sirloin_steak_grilledpan_fried": {
+    "name": "Hovädzie mäso, sviečková, grilované/vyprážané",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, sviečková, grilované/vyprážané."
+  },
+  "beef_short_ribs_braised_or_boiled": {
+    "name": "Hovädzie mäso, krátke rebrá, dusené alebo varené",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, krátke rebrá, dusené alebo varené."
+  },
+  "beef_rump_steak_grilledpan_fried": {
+    "name": "Hovädzie mäso, steak, grilované/vyprážané",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, steak, grilované/vyprážané."
+  },
+  "beef_ground_cooked_average": {
+    "name": "Hovädzie mäso, mleté, varené (priemer)",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, mleté, varené (priemer)."
+  },
+  "beef_chuck_braised_or_boiled": {
+    "name": "Hovädzie mäso, skľučovadlo, dusené alebo varené",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, skľučovadlo, dusené alebo varené."
+  },
+  "veal_fillet_roastedbaked": {
+    "name": "Teľacie filé, pečené/pečené",
+    "alternative_names": [],
+    "description": "Teľacie filé, pečené/pečené."
+  },
+  "chicken_meat_and_skin_roastedbaked": {
+    "name": "Kuracie mäso, mäso a koža, pečené/pečené",
+    "alternative_names": [],
+    "description": "Kuracie mäso, mäso a koža, pečené/pečené."
+  },
+  "chicken_leg_meat_roastedbaked": {
+    "name": "Kuracie stehno, mäso, pečené/pečené",
+    "alternative_names": [],
+    "description": "Kuracie stehno, mäso, pečené/pečené."
+  },
+  "chicken_leg_meat_boiledcooked_in_water": {
+    "name": "Kuracie stehno, mäso, varené/varené vo vode",
+    "alternative_names": [],
+    "description": "Kuracie stehno, mäso, varené/varené vo vode."
+  },
+  "lamb_shoulder_roastedbaked": {
+    "name": "Jahňacie, pliecko, pečené/pečené",
+    "alternative_names": [],
+    "description": "Jahňacie, pliecko, pečené/pečené."
+  },
+  "lamb_shoulder_lean_roastedbaked": {
+    "name": "Jahňacie, pliecko, chudé, pečené/pečené",
+    "alternative_names": [],
+    "description": "Jahňacie, pliecko, chudé, pečené/pečené."
+  },
+  "lamb_saddle_lean_roastedbaked": {
+    "name": "Jahňacie, sedlové, chudé, pečené/pečené",
+    "alternative_names": [],
+    "description": "Jahňacie, sedlové, chudé, pečené/pečené."
+  },
+  "liver_lamb_cooked": {
+    "name": "Pečeň, jahňacina, varená",
+    "alternative_names": [],
+    "description": "Pečeň, jahňacina, varená."
+  },
+  "liver_heifer_cooked": {
+    "name": "Pečeň, jalovica, varená",
+    "alternative_names": [],
+    "description": "Pečeň, jalovica, varená."
+  },
+  "liver_poultry_cooked": {
+    "name": "Pečeň, hydina, varené",
+    "alternative_names": [],
+    "description": "Pečeň, hydina, varené."
+  },
+  "liver_chicken_cooked": {
+    "name": "Pečeň, kuracie mäso, varené",
+    "alternative_names": [],
+    "description": "Pečeň, kuracie mäso, varené."
+  },
+  "tongue_beef_cooked": {
+    "name": "Jazyk, hovädzie mäso, varené",
+    "alternative_names": [],
+    "description": "Jazyk, hovädzie mäso, varené."
+  },
+  "beef_shoulder_raw": {
+    "name": "Hovädzie mäso, pliecko, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, pliecko, surové."
+  },
+  "beef_round_raw": {
+    "name": "Hovädzie mäso, okrúhle, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, okrúhle, surové."
+  },
+  "beef_rib_steak_raw": {
+    "name": "Hovädzie mäso, rebierkový steak, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, rebierkový steak, surové."
+  },
+  "beef_sirloin_steak_raw": {
+    "name": "Hovädzie mäso, sviečková, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, sviečková, surové."
+  },
+  "beef_thin_flank_raw": {
+    "name": "Hovädzie mäso s tenkým bokom, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso s tenkým bokom, surové."
+  },
+  "beef_topside_raw": {
+    "name": "Hovädzie mäso, vrchná časť, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, vrchná časť, surové."
+  },
+  "beef_rump_steak_raw": {
+    "name": "Hovädzie mäso, steak, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, steak, surové."
+  },
+  "beef_flank_steak_raw": {
+    "name": "Hovädzie mäso, steak z boku, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, steak z boku, surové."
+  },
+  "beef_chuck_raw": {
+    "name": "Hovädzie mäso, skľučovadlo, surové",
+    "alternative_names": [],
+    "description": "Hovädzie mäso, skľučovadlo, surové."
+  },
+  "veal_loin_raw": {
+    "name": "Teľacie mäso, karé, surové",
+    "alternative_names": [],
+    "description": "Teľacie mäso, karé, surové."
+  },
+  "veal_tenderloin_raw": {
+    "name": "Teľacie mäso, sviečková, surové",
+    "alternative_names": [],
+    "description": "Teľacie mäso, sviečková, surové."
+  },
+  "pork_chop_raw": {
+    "name": "Bravčové mäso, kotleta, surové",
+    "alternative_names": [],
+    "description": "Bravčové mäso, kotleta, surové."
+  },
+  "chicken_meat_raw": {
+    "name": "Kuracie mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, surové."
+  },
+  "chicken_breast_without_skin_raw": {
+    "name": "Kuracie prsia, bez kože, surové",
+    "alternative_names": [],
+    "description": "Kuracie prsia, bez kože, surové."
+  },
+  "chicken_high_leg_meat_raw": {
+    "name": "Kuracie stehno, mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie stehno, mäso, surové."
+  },
+  "chicken_drumstick_raw": {
+    "name": "Kuracie mäso, stehno, surové",
+    "alternative_names": [],
+    "description": "Kuracie mäso, stehno, surové."
+  },
+  "chicken_leg_meat_raw": {
+    "name": "Kuracie stehno, mäso, surové",
+    "alternative_names": [],
+    "description": "Kuracie stehno, mäso, surové."
+  },
+  "lamb_shoulder_raw": {
+    "name": "Jahňacie, pliecko, surové",
+    "alternative_names": [],
+    "description": "Jahňacie, pliecko, surové."
+  },
+  "lamb_shoulder_lean_raw": {
+    "name": "Jahňacie, pliecko, chudé, surové",
+    "alternative_names": [],
+    "description": "Jahňacie, pliecko, chudé, surové."
+  },
+  "liver_lamb_raw": {
+    "name": "Pečeň, jahňacina, surová",
+    "alternative_names": [],
+    "description": "Pečeň, jahňacina, surová."
+  },
+  "liver_heifer_raw": {
+    "name": "Pečeň, jalovica, surová",
+    "alternative_names": [],
+    "description": "Pečeň, jalovica, surová."
+  },
+  "liver_pork_raw": {
+    "name": "Pečeň, bravčové mäso, surové",
+    "alternative_names": [],
+    "description": "Pečeň, bravčové mäso, surové."
+  },
+  "liver_goose_raw": {
+    "name": "Pečeň, hus, surová",
+    "alternative_names": [],
+    "description": "Pečeň, hus, surová."
+  },
+  "pork_ham_with_parsley_and_jelly": {
+    "name": "Bravčová šunka s petržlenovou vňaťou a želé",
+    "alternative_names": [],
+    "description": "Bravčová šunka s petržlenovou vňaťou a želé."
+  },
+  "cooked_ham_superior_quality_rind_less_defatted": {
+    "name": "Varená šunka, vynikajúca kvalita, menej odtučnená kôra",
+    "alternative_names": [],
+    "description": "Varená šunka, vynikajúca kvalita, menej odtučnená kôra."
+  },
+  "corned_beef_canned": {
+    "name": "Konzervované hovädzie mäso",
+    "alternative_names": [],
+    "description": "Konzervované hovädzie mäso."
+  },
+  "plant_based_sausage_with_tofu_vegan_prepacked": {
+    "name": "Rastlinná klobása s tofu (vegánska), balená",
+    "alternative_names": [],
+    "description": "Rastlinná klobása s tofu (vegánska), balená."
+  },
+  "plant_based_sausage_with_tofu_not_vegan_prepacked": {
+    "name": "Rastlinná klobása s tofu (nie vegánska), balená",
+    "alternative_names": [],
+    "description": "Rastlinná klobása s tofu (nie vegánska), balená."
+  },
+  "burger_from_beef_and_soybean_prepacked": {
+    "name": "Burger z hovädzieho mäsa a sójových bôbov, balené",
+    "alternative_names": [],
+    "description": "Burger z hovädzieho mäsa a sójových bôbov, balené."
+  },
+  "poultry_sausage_with_soybean_prepacked": {
+    "name": "Hydinová klobása (so sójovými bôbmi), balené",
+    "alternative_names": [],
+    "description": "Hydinová klobása (so sójovými bôbmi), balené."
+  },
+  "tilapia_raw": {
+    "name": "Tilapia, surová",
+    "alternative_names": [],
+    "description": "Tilapia, surová."
+  },
+  "rillette_fish_prepacked": {
+    "name": "Rillette, rybacie, balené",
+    "alternative_names": [],
+    "description": "Rillette, rybacie, balené."
+  },
+  "yellowfin_tuna_canned_in_brine_drained": {
+    "name": "Tuniak žltoplutvý, konzervovaný v slanom náleve, scedený",
+    "alternative_names": [],
+    "description": "Tuniak žltoplutvý, konzervovaný v slanom náleve, scedený."
+  },
+  "baby_meal_vegetables_with_meatfish_and_starchy_food_from_12_months": {
+    "name": "Detská strava, zelenina s mäsom/rybou a škrobová strava, od 12 mesiacov",
+    "alternative_names": [],
+    "description": "Detská strava, zelenina s mäsom/rybou a škrobová strava, od 12 mesiacov."
   }
 }

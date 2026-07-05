@@ -3824,7 +3824,7 @@
           "gram_equivalent": 42
         }
       ],
-      "source": "USDA SR28 (NDB No: 09334)"
+      "source": "USDA SR28 (NDB No: 09334), Ciqual 2025 (Food Code: 13061)"
     },
     {
       "id": "fruit_cocktail_cnd_hvy_syrup_drnd",
@@ -4678,27 +4678,6 @@
       "source": "USDA SR28 (NDB No: 11221)"
     },
     {
-      "id": "drumstick_leaves_ckd_bld_drnd_wo_salt",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 108.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 45.4,
-          "gram_equivalent": 42
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11223)"
-    },
-    {
       "id": "jerusalem_artichokes_raw",
       "category": "other",
       "tags": [
@@ -4892,7 +4871,7 @@
           "gram_equivalent": 133
         }
       ],
-      "source": "USDA SR28 (NDB No: 11298)"
+      "source": "USDA SR28 (NDB No: 11298), Ciqual 2025 (Food Code: 20181)"
     },
     {
       "id": "parsnips_ckd_bld_drnd_wosalt",
@@ -5148,28 +5127,6 @@
       "source": "USDA SR28 (NDB No: 11444)"
     },
     {
-      "id": "seaweed_kelp_raw",
-      "category": "other",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 66.0
-        },
-        {
-          "amount": 2.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.6,
-          "gram_equivalent": 10
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11445)"
-    },
-    {
       "id": "seaweed_laver_raw",
       "category": "other",
       "tags": [
@@ -5218,28 +5175,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11518)"
-    },
-    {
-      "id": "taro_cooked_without_salt",
-      "category": "other",
-      "tags": [
-        "cooked",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 1.6,
-          "gram_equivalent": 132
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11519)"
     },
     {
       "id": "taro_leaves_raw",
@@ -5887,7 +5822,7 @@
           "gram_equivalent": 42
         }
       ],
-      "source": "USDA SR28 (NDB No: 11786)"
+      "source": "USDA SR28 (NDB No: 11786), USDA SR28 (NDB No: 11223)"
     },
     {
       "id": "kohlrabi_ckd_bld_drnd_wsalt",
@@ -6067,7 +6002,7 @@
           "gram_equivalent": 92
         }
       ],
-      "source": "USDA SR28 (NDB No: 11821)",
+      "source": "USDA SR28 (NDB No: 11821), Ciqual 2025 (Food Code: 20087)",
       "relations": {
         "group": "pepper"
       }
@@ -6224,7 +6159,7 @@
           "gram_equivalent": 132
         }
       ],
-      "source": "USDA SR28 (NDB No: 11878)"
+      "source": "USDA SR28 (NDB No: 11878), USDA SR28 (NDB No: 11519)"
     },
     {
       "id": "vegetables_mxd_frz_ckd_bld_drnd_wsalt",
@@ -6305,36 +6240,6 @@
       }
     },
     {
-      "id": "peppers_swt_red_frz_chopd_bld_drnd_wo_salt",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.6,
-          "gram_equivalent": 135
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 11
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11918)",
-      "relations": {
-        "group": "pepper"
-      }
-    },
-    {
       "id": "peppers_swt_red_frz_chopd_bld_drnd_w_salt",
       "category": "other",
       "tags": [
@@ -6359,7 +6264,7 @@
           "gram_equivalent": 11
         }
       ],
-      "source": "USDA SR28 (NDB No: 11919)",
+      "source": "USDA SR28 (NDB No: 11919), USDA SR28 (NDB No: 11918)",
       "relations": {
         "group": "pepper"
       }
@@ -7432,7 +7337,7 @@
           "gram_equivalent": 1
         }
       ],
-      "source": "USDA SR28 (NDB No: 14218)",
+      "source": "USDA SR28 (NDB No: 14218), Ciqual 2025 (Food Code: 18069)",
       "relations": {
         "group": "coffee"
       }
@@ -10174,13 +10079,16 @@
       "category": "other",
       "tags": [
         "k1",
+        "k2",
         "raw"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 0.1,
+          "vitamin_k1_100g_mcg": 0.33,
+          "vitamin_k2_100g_mcg": 3.39
         },
         {
           "amount": 1.0,
@@ -10195,7 +10103,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 15240)",
+      "source": "USDA SR28 (NDB No: 15240), Ciqual 2025 (Food Code: 27009)",
       "relations": {
         "group": "fish"
       }
@@ -14999,7 +14907,7 @@
           "gram_equivalent": 94
         }
       ],
-      "source": "USDA SR28 (NDB No: 20033)",
+      "source": "USDA SR28 (NDB No: 20033), Ciqual 2025 (Food Code: 9640)",
       "relations": {
         "group": "cereal"
       }
@@ -15541,31 +15449,6 @@
       }
     },
     {
-      "id": "wendys_jr_hamburger_wo_chs",
-      "category": "other",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.3,
-          "gram_equivalent": 117
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21241)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
       "id": "wendys_jr_hamburger_w_chs",
       "category": "other",
       "tags": [
@@ -15585,7 +15468,7 @@
           "gram_equivalent": 129
         }
       ],
-      "source": "USDA SR28 (NDB No: 21242)",
+      "source": "USDA SR28 (NDB No: 21242), USDA SR28 (NDB No: 21241)",
       "relations": {
         "group": "beef"
       }
@@ -18925,7 +18808,10 @@
       ],
       "source": "USDA SR28 (NDB No: 83110)",
       "relations": {
-        "group": "fish"
+        "group": "fish",
+        "related_ids": [
+          "mackerel_raw"
+        ]
       }
     },
     {
@@ -19030,10 +18916,10 @@
       "id": "seaweed_kelp",
       "category": "other",
       "tags": [
-        "raw",
-        "k1",
+        "affects_coagulation",
         "affects_warfarin",
-        "affects_coagulation"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -19048,7 +18934,7 @@
           "gram_equivalent": 10
         }
       ],
-      "source": "USDA FoodData Central, Stockley's Drug Interactions"
+      "source": "USDA FoodData Central, Stockley's Drug Interactions, USDA SR28 (NDB No: 11445)"
     },
     {
       "id": "licorice_black",
@@ -19072,6 +18958,4351 @@
         }
       ],
       "source": "USDA FoodData Central, Stockley's Drug Interactions, MSKCC About Herbs"
+    },
+    {
+      "id": "tabbouleh_or_couscous_salad_with_vegetables_prepacked",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25608)"
+    },
+    {
+      "id": "salad_veggie_bulgur_andor_quinoa_based_with_vegetables_prepacked",
+      "category": "other",
+      "tags": [
+        "egg",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25629)"
+    },
+    {
+      "id": "poultry_on_skewer_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25586)"
+    },
+    {
+      "id": "chili_con_carne_prepacked",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25111)",
+      "relations": {
+        "group": "pepper"
+      }
+    },
+    {
+      "id": "sushi_or_maki_with_seafood_products",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25456)",
+      "relations": {
+        "group": "seafood"
+      }
+    },
+    {
+      "id": "vegetable_rosti_pre_fried_frozen_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25208)"
+    },
+    {
+      "id": "falafel_from_take_away",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25571)"
+    },
+    {
+      "id": "falafel_prepacked",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 23.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25590)"
+    },
+    {
+      "id": "lasagna_or_cannelloni_with_vegetables_prepacked",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25131)",
+      "relations": {
+        "group": "pasta"
+      }
+    },
+    {
+      "id": "soy_based_minced_meat_imitate_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 30181)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "fajitas_home_prepared_from_kit",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25460)"
+    },
+    {
+      "id": "hot_dog_prepacked",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25403)",
+      "relations": {
+        "group": "sandwich"
+      }
+    },
+    {
+      "id": "hamburger_from_fast_food",
+      "category": "other",
+      "tags": [
+        "k1",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25413)",
+      "relations": {
+        "group": "beef"
+      }
+    },
+    {
+      "id": "cheeseburger_from_fast_food",
+      "category": "other",
+      "tags": [
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 15.2,
+          "vitamin_k1_100g_mcg": 12.3,
+          "vitamin_k2_100g_mcg": 2.93
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25414)"
+    },
+    {
+      "id": "vol_au_vent_with_meatpoultryquenelle",
+      "category": "other",
+      "tags": [
+        "k1",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25412)"
+    },
+    {
+      "id": "avocado_flesh_without_skin_pitted_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13004)",
+      "relations": {
+        "group": "avocado"
+      }
+    },
+    {
+      "id": "chayote_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13128)"
+    },
+    {
+      "id": "dandelion_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 778.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20038)"
+    },
+    {
+      "id": "artichoke_globe_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20052)"
+    },
+    {
+      "id": "french_bean_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20061)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "french_bean_canned_drained",
+          "french_bean_cooked",
+          "french_bean_frozen_cooked",
+          "french_bean_frozen_raw"
+        ]
+      }
+    },
+    {
+      "id": "french_bean_frozen_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 44.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20070)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "french_bean_canned_drained",
+          "french_bean_cooked",
+          "french_bean_frozen_cooked",
+          "french_bean_raw"
+        ]
+      }
+    },
+    {
+      "id": "chili_pepper_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20151)",
+      "relations": {
+        "group": "pepper"
+      }
+    },
+    {
+      "id": "sweet_pepper_yellow_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20168)",
+      "relations": {
+        "group": "pepper"
+      }
+    },
+    {
+      "id": "snow_pea_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 25.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20173)",
+      "relations": {
+        "group": "peas",
+        "related_ids": [
+          "snow_pea_cooked"
+        ]
+      }
+    },
+    {
+      "id": "roman_rocket_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 109.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20217)"
+    },
+    {
+      "id": "glasswort_salicornia_sp_fresh_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 79.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20283)"
+    },
+    {
+      "id": "artichoke_globe_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20000)"
+    },
+    {
+      "id": "eggplant_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "egg",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20002)"
+    },
+    {
+      "id": "french_bean_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20030)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "french_bean_canned_drained",
+          "french_bean_frozen_cooked",
+          "french_bean_frozen_raw",
+          "french_bean_raw"
+        ]
+      }
+    },
+    {
+      "id": "mixed_diced_vegetables_canned_drained",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 18.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20051)"
+    },
+    {
+      "id": "french_bean_canned_drained",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 38.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20062)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "french_bean_cooked",
+          "french_bean_frozen_cooked",
+          "french_bean_frozen_raw",
+          "french_bean_raw"
+        ]
+      }
+    },
+    {
+      "id": "french_bean_frozen_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20071)",
+      "relations": {
+        "group": "beans",
+        "related_ids": [
+          "french_bean_canned_drained",
+          "french_bean_cooked",
+          "french_bean_frozen_raw",
+          "french_bean_raw"
+        ]
+      }
+    },
+    {
+      "id": "artichoke_globe_steamed",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20074)"
+    },
+    {
+      "id": "sweet_pepper_green_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20086)",
+      "relations": {
+        "group": "pepper"
+      }
+    },
+    {
+      "id": "artichoke_globe_heart_canned_drained",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20155)"
+    },
+    {
+      "id": "artichoke_globe_base_canned_drained",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20156)"
+    },
+    {
+      "id": "snow_pea_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20216)",
+      "relations": {
+        "group": "peas"
+      }
+    },
+    {
+      "id": "snow_pea_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 30.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20243)",
+      "relations": {
+        "group": "peas",
+        "related_ids": [
+          "snow_pea_raw"
+        ]
+      }
+    },
+    {
+      "id": "vegetables_3_4_types_mashed",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 25.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20258)"
+    },
+    {
+      "id": "sweet_pepper_red_canned_drained",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20275)",
+      "relations": {
+        "group": "pepper"
+      }
+    },
+    {
+      "id": "chicory_roastedbaked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20316)"
+    },
+    {
+      "id": "french_bean_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20320)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "vegetable_cooked_average",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 26.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20499)"
+    },
+    {
+      "id": "chinese_cabbageor_bok_cho_bredes_rods_and_leafs_steamed_from_the_island_la_runion_bra",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 53.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20296)"
+    },
+    {
+      "id": "chayote_without_skin_pitted_steamed_sampled_in_the_island_la_runion_sechium_edule",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20297)"
+    },
+    {
+      "id": "rostis",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4039)"
+    },
+    {
+      "id": "taro_tuber_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 53200)"
+    },
+    {
+      "id": "taro_tuber_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 53201)"
+    },
+    {
+      "id": "cassava_or_manioc_root_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 54031)"
+    },
+    {
+      "id": "coco_bean_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20293)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "lentil_boiledcooked_in_water_average",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20360)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "broad_bean_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20500)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "haricot_bean_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20502)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "red_kidney_bean_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20503)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "split_pea_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20506)",
+      "relations": {
+        "group": "peas"
+      }
+    },
+    {
+      "id": "chick_pea_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20507)",
+      "relations": {
+        "group": "peas"
+      }
+    },
+    {
+      "id": "haricot_bean_canned_drained",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20511)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "flageolet_bean_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20513)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "chick_pea_canned_drained",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20532)",
+      "relations": {
+        "group": "peas"
+      }
+    },
+    {
+      "id": "flageolet_bean_green_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20540)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "broad_bean_peeled_fresh_frozen_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20542)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "broad_bean_fresh_frozen_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20543)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "lentil_green_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20587)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "lentil_pink_or_red_boiledcooked_in_water",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20589)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "legume_cooked_average",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20700)"
+    },
+    {
+      "id": "broad_bean_to_shell_fresh_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 40.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20517)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "pigeon_pea_immature_fresh_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 24.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20527)",
+      "relations": {
+        "group": "peas"
+      }
+    },
+    {
+      "id": "lima_bean_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20529)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "lentil_dried_average",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20359)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "haricot_bean_dried",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20501)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "split_pea_dried",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20515)",
+      "relations": {
+        "group": "peas"
+      }
+    },
+    {
+      "id": "chick_pea_dried",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20516)",
+      "relations": {
+        "group": "peas"
+      }
+    },
+    {
+      "id": "broad_bean_dried",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20518)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "red_kidney_bean_dried",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20525)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "lentil_pink_or_red_dried",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20535)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "flageolet_bean_green_dried",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20539)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "lentil_green_dried",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20585)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "lentil_blond_dried",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20586)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "red_currant_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13019)"
+    },
+    {
+      "id": "mirabelle_plum_pitted_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13027)",
+      "relations": {
+        "group": "plum"
+      }
+    },
+    {
+      "id": "rhubarb_stalk_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 29.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13047)"
+    },
+    {
+      "id": "black_mulberry_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13071)"
+    },
+    {
+      "id": "guava_flesh_without_skin_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13083)"
+    },
+    {
+      "id": "plum_flesh_and_skin_pitted_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13100)",
+      "relations": {
+        "group": "plum"
+      }
+    },
+    {
+      "id": "fruit_raw_average",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13999)"
+    },
+    {
+      "id": "rhubarb_stalk_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13203)"
+    },
+    {
+      "id": "other_fruit_compote_prepacked",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13211)"
+    },
+    {
+      "id": "fruit_cocktail_or_salad_canned_in_light_syrup_drained",
+      "category": "other",
+      "tags": [
+        "beverages",
+        "cooked",
+        "high_sodium",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13708)"
+    },
+    {
+      "id": "date_flesh_and_skin_pitted_dried",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13011)"
+    },
+    {
+      "id": "prune_pitted",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13042)",
+      "relations": {
+        "group": "plum"
+      }
+    },
+    {
+      "id": "raisin",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13046)",
+      "relations": {
+        "group": "grape"
+      }
+    },
+    {
+      "id": "tropical_fruit_mix_sweetened_for_snack_dried",
+      "category": "other",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13051)",
+      "relations": {
+        "group": "snack"
+      }
+    },
+    {
+      "id": "banana_flesh_without_skin_dried",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13089)",
+      "relations": {
+        "group": "banana"
+      }
+    },
+    {
+      "id": "goji_berry_dried",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13183)"
+    },
+    {
+      "id": "fruit_dried_average",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13996)"
+    },
+    {
+      "id": "walnut_kernel_dried",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15005)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "pistachio_nut_grilled_salted",
+      "category": "other",
+      "tags": [
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15009)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "cashew_nut_grilled_salted",
+      "category": "other",
+      "tags": [
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 34.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15019)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "pine_nut",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 53.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15025)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "pecan_nut_no_added_salt",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15026)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "flaxseed_seed",
+      "category": "other",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15034)",
+      "relations": {
+        "group": "seed"
+      }
+    },
+    {
+      "id": "pistachio_nut_grilled_no_added_salt",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15044)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "flaxseed_brown_seed",
+      "category": "other",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15052)",
+      "relations": {
+        "group": "seed"
+      }
+    },
+    {
+      "id": "cashew_nut_grilled_no_added_salt",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 34.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15054)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "cashew_nut_dry_grilled_no_added_salt",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 31.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 15055)",
+      "relations": {
+        "group": "nut"
+      }
+    },
+    {
+      "id": "spelt_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 9001)"
+    },
+    {
+      "id": "quinoa_raw",
+      "category": "other",
+      "tags": [
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 9340)"
+    },
+    {
+      "id": "rye_wholegrain_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 9390)"
+    },
+    {
+      "id": "rolls_for_burgerhotdog_buns_prepacked",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7259)",
+      "relations": {
+        "group": "bread"
+      }
+    },
+    {
+      "id": "rusk",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7300)"
+    },
+    {
+      "id": "brioche_rusk",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7301)"
+    },
+    {
+      "id": "rusk_multigrain",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7330)"
+    },
+    {
+      "id": "rusk_wholemeal",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7340)"
+    },
+    {
+      "id": "crispbread_with_bran_source_or_rich_in_fibre",
+      "category": "other",
+      "tags": [
+        "bakery",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7359)"
+    },
+    {
+      "id": "brioche_rusk_sliced_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.6,
+          "vitamin_k1_100g_mcg": 2.2,
+          "vitamin_k2_100g_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7403)"
+    },
+    {
+      "id": "meat_white_cooked_average",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 6584)"
+    },
+    {
+      "id": "meat_cooked_average",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 6999)"
+    },
+    {
+      "id": "poultry_meat_cooked_average",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36042)"
+    },
+    {
+      "id": "poultry_cooked_average",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36900)"
+    },
+    {
+      "id": "venison_roebuck_roastedbaked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.7,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 0.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 14000)",
+      "relations": {
+        "group": "other_meat"
+      }
+    },
+    {
+      "id": "wild_boar_roastedbaked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 14003)"
+    },
+    {
+      "id": "game_cooked_average",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 14008)"
+    },
+    {
+      "id": "pheasant_meat_roastedbaked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36402)",
+      "relations": {
+        "group": "other_poultry"
+      }
+    },
+    {
+      "id": "kid_meat_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 21801)"
+    },
+    {
+      "id": "rabbit_meat_braised",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 34000)"
+    },
+    {
+      "id": "rabbit_wild_meat_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 34004)"
+    },
+    {
+      "id": "quail_meat_and_skin_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36102)"
+    },
+    {
+      "id": "duck_meat_roastedbaked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36202), Ciqual 2025 (Food Code: 36200)",
+      "relations": {
+        "group": "other_poultry"
+      }
+    },
+    {
+      "id": "goose_meat_and_skin_roastedbaked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36503)",
+      "relations": {
+        "group": "other_poultry"
+      }
+    },
+    {
+      "id": "pigeon_meat_roastedbaked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36602)"
+    },
+    {
+      "id": "ostrich_meat_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36801)"
+    },
+    {
+      "id": "hen_meat_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36001), Ciqual 2025 (Food Code: 36000)"
+    },
+    {
+      "id": "hen_leg_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36014)"
+    },
+    {
+      "id": "hare_meat_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.9,
+          "vitamin_k1_100g_mcg": 4.8,
+          "vitamin_k2_100g_mcg": 0.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 14004)"
+    },
+    {
+      "id": "venison_hart_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 14006)",
+      "relations": {
+        "group": "other_meat"
+      }
+    },
+    {
+      "id": "capon_meat_and_skin_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36050)"
+    },
+    {
+      "id": "duck_meat_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.4,
+          "vitamin_k1_100g_mcg": 2.8,
+          "vitamin_k2_100g_mcg": 3.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36201)",
+      "relations": {
+        "group": "other_poultry"
+      }
+    },
+    {
+      "id": "goose_meat_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 35.1,
+          "vitamin_k1_100g_mcg": 4.1,
+          "vitamin_k2_100g_mcg": 31.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 36500)",
+      "relations": {
+        "group": "other_poultry"
+      }
+    },
+    {
+      "id": "duck_terrine",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 8232)",
+      "relations": {
+        "group": "other_poultry"
+      }
+    },
+    {
+      "id": "quenelle_plain_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.8,
+          "vitamin_k1_100g_mcg": 5.5,
+          "vitamin_k2_100g_mcg": 3.35
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 8937)"
+    },
+    {
+      "id": "pigs_trotter_brined",
+      "category": "other",
+      "tags": [
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 28540)"
+    },
+    {
+      "id": "salami",
+      "category": "other",
+      "tags": [
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 30350)",
+      "relations": {
+        "group": "other_meat"
+      }
+    },
+    {
+      "id": "plant_based_pt_prepacked",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 1031)"
+    },
+    {
+      "id": "gilthead_seabream_roastedbaked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 27031)"
+    },
+    {
+      "id": "mackerel_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 3.6,
+          "vitamin_k2_100g_mcg": 0.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26051)",
+      "relations": {
+        "group": "fish",
+        "related_ids": [
+          "mackerel_salted"
+        ]
+      }
+    },
+    {
+      "id": "european_plaice_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2",
+        "legumes",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3,
+          "vitamin_k1_100g_mcg": 0.15,
+          "vitamin_k2_100g_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26055)"
+    },
+    {
+      "id": "surmullet_or_red_mullet_steamed",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26110)"
+    },
+    {
+      "id": "eel_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 1.25,
+          "vitamin_k2_100g_mcg": 1.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 27016)"
+    },
+    {
+      "id": "brown_bullhead_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.7,
+          "vitamin_k1_100g_mcg": 2.1,
+          "vitamin_k2_100g_mcg": 0.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 27017)"
+    },
+    {
+      "id": "winkle_cooked",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 10000)"
+    },
+    {
+      "id": "shrimp_or_prawn_boiled",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "k1",
+        "k2",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.6,
+          "vitamin_k1_100g_mcg": 0.2,
+          "vitamin_k2_100g_mcg": 3.44
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 10007)",
+      "relations": {
+        "group": "seafood"
+      }
+    },
+    {
+      "id": "trout_roe_canned",
+      "category": "other",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26151)",
+      "relations": {
+        "group": "fish"
+      }
+    },
+    {
+      "id": "omelette_plain_homemade",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 22500)"
+    },
+    {
+      "id": "fruit_liegeois_refrigerated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 39220)"
+    },
+    {
+      "id": "soy_dessert_with_fruits_with_sugar_s_fortified_with_calcium_fermented_refrigerated",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19692)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_dessert_plain_no_added_sugars_not_fortified_fermented_refrigerated",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19693)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_dessert_plain_no_added_sugars_fortified_with_calcium_fermented_refrigerated",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19694)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_dessert_with_fruits_with_sugar_s_not_fortified_fermented_refrigerated",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19695)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_dessert_with_almonds_with_sugar_s_fortified_with_vitamins_and_minerals_refrigerat",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19696)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_dessert_flavoured_with_sugar_s_fortified_with_calcium_refrigerated",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20911)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_dessert_flavoured_with_sugar_s_not_fortified_refrigerated",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20921)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_dessert_refrigerated_average",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20929)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "plant_based_drink_prepacked_average",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 18112)",
+      "relations": {
+        "group": "beverages"
+      }
+    },
+    {
+      "id": "soy_drink_prepacked_average",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 18113)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_drink_plain_not_fortified_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 18900)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_drink_plain_fortified_with_calcium_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 18901)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_drink_flavoured_with_sugar_s_not_fortified_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 18902)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "soy_drink_flavoured_with_sugar_s_fortified_in_calcium_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 18903)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "coffee_powder_instant",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 18005)",
+      "relations": {
+        "group": "coffee"
+      }
+    },
+    {
+      "id": "cocoa_powder_no_added_sugars_powder_instant",
+      "category": "other",
+      "tags": [
+        "chocolate",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 18100)",
+      "relations": {
+        "group": "candy"
+      }
+    },
+    {
+      "id": "fruit_jelly_or_fruit_paste",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31014)"
+    },
+    {
+      "id": "calisson_from_aix_en_provence_marzipan_and_candied_melon_sweet",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31092)",
+      "relations": {
+        "group": "melon"
+      }
+    },
+    {
+      "id": "other_jam_reduced_sugar",
+      "category": "other",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 30887)"
+    },
+    {
+      "id": "dulce_de_leche_or_confiture_de_lait",
+      "category": "other",
+      "tags": [
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 31040)"
+    },
+    {
+      "id": "brioche_filled_with_fruits_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.8,
+          "vitamin_k1_100g_mcg": 6.7,
+          "vitamin_k2_100g_mcg": 1.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7738)"
+    },
+    {
+      "id": "brioche_plain_prepacked",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7740)"
+    },
+    {
+      "id": "brioche_average",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7746)"
+    },
+    {
+      "id": "soja_biscuit_fortified_with_vitamins_and_minerals",
+      "category": "other",
+      "tags": [
+        "bakery",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24006)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "speculoos_biscuit",
+      "category": "other",
+      "tags": [
+        "bakery",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24009)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "biscuit_shortbread_with_fruits",
+      "category": "other",
+      "tags": [
+        "bakery",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24054)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "wafer_biscuit_with_vanilla_filling",
+      "category": "other",
+      "tags": [
+        "bakery",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24313)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "biscuit_sponge_cake_with_fruits_covering_pre_packed",
+      "category": "other",
+      "tags": [
+        "bakery",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24678)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "muesli_average",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32004)"
+    },
+    {
+      "id": "muesli_fortified_with_vitamins_and_minerals_average",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32139)"
+    },
+    {
+      "id": "oat_flakes",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32140)",
+      "relations": {
+        "group": "cereal"
+      }
+    },
+    {
+      "id": "muesli_not_fortified_average_food",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 32141)"
+    },
+    {
+      "id": "cake_average",
+      "category": "other",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23000)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "cheesecake_prepacked",
+      "category": "other",
+      "tags": [
+        "dairy",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23001)"
+    },
+    {
+      "id": "dessert_opera_cake_type",
+      "category": "other",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23008)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "rum_baba_from_bakery",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23021)",
+      "relations": {
+        "group": "alcohol"
+      }
+    },
+    {
+      "id": "christmas_log_cake",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.8,
+          "vitamin_k1_100g_mcg": 3.1,
+          "vitamin_k2_100g_mcg": 5.73
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23030)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "pound_cake_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 18.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23082)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "kouign_amann_buttered_and_caramelized_milkbread_cake_from_bakery",
+      "category": "other",
+      "tags": [
+        "bakery",
+        "dairy",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23122)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "eclair",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 17.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23477)"
+    },
+    {
+      "id": "crepe_plain_prepacked_refrigerated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23799)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "pancake_with_sugar_s_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "k2",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.2,
+          "vitamin_k1_100g_mcg": 16.1,
+          "vitamin_k2_100g_mcg": 4.06
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23827)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "wafer_biscuit_thin_filled_with_honey_caramel_or_soft_brown_sugar_prepacked",
+      "category": "other",
+      "tags": [
+        "bakery",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23849)",
+      "relations": {
+        "group": "cookie"
+      }
+    },
+    {
+      "id": "waffle_from_bakery_plain_from_bakery",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23850)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "doughnut_plain_sprinkled_with_sugar",
+      "category": "other",
+      "tags": [
+        "bakery",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23880)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "doughnut_filled_with_fruit_filling_eg_jam_prepacked_archive",
+      "category": "other",
+      "tags": [
+        "bakery",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23881)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "fruit_cake_candied_fruits_andor_raisins_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 17.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23909)",
+      "relations": {
+        "group": "grape"
+      }
+    },
+    {
+      "id": "marble_cake_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 37.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23925)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "soft_cake_filled_with_fruits_mini_sponge_roll_type_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 27.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23941)",
+      "relations": {
+        "group": "bread"
+      }
+    },
+    {
+      "id": "madeleine_cake_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 26.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24632)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "almond_cake_financier_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24664)",
+      "relations": {
+        "group": "pastry"
+      }
+    },
+    {
+      "id": "iced_nougat",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 39529)"
+    },
+    {
+      "id": "ketchup_prepacked",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11008)"
+    },
+    {
+      "id": "gherkin_pickled_in_vinegar",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 42.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11004)"
+    },
+    {
+      "id": "mustard_with_grains",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11021)"
+    },
+    {
+      "id": "capers_pickled_in_vinegar",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 24.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11040)"
+    },
+    {
+      "id": "olive_black_in_brine",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13032)"
+    },
+    {
+      "id": "olive_green_in_brine",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 23.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13033)"
+    },
+    {
+      "id": "olive_average",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13184)"
+    },
+    {
+      "id": "olives_black_average_food",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 13186)"
+    },
+    {
+      "id": "broth_or_stock_meat_and_vegetables_defatted_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25971)",
+      "relations": {
+        "group": "soup"
+      }
+    },
+    {
+      "id": "black_pepper_powder",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 144.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11015)",
+      "relations": {
+        "group": "pepper"
+      }
+    },
+    {
+      "id": "paprika_powder",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 80.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11049)",
+      "relations": {
+        "group": "pepper"
+      }
+    },
+    {
+      "id": "cloves",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 142.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11052)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "spice_average",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 116.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11081)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "cayenne_pepper_powder",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 80.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11088)",
+      "relations": {
+        "group": "pepper"
+      }
+    },
+    {
+      "id": "herbs_fresh_average",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1140.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11080)"
+    },
+    {
+      "id": "coriander_fresh",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 310.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11094)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "spirulina_spirulina_sp_dried_or_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1270.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11086)"
+    },
+    {
+      "id": "seaweed_spirulina_spirulina_sp_fresh_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20982)"
+    },
+    {
+      "id": "seaweed_sea_fennel_fresh_raw",
+      "category": "other",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 207.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20983)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "sea_belt_saccharina_latissima_dried_or_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 244.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20986)"
+    },
+    {
+      "id": "laver_porphyra_sp_dried_or_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 225.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20987)"
+    },
+    {
+      "id": "dulse_palmaria_palmata_dried_or_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 467.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20988)"
+    },
+    {
+      "id": "sea_thong_himanthalia_elongata_dried_or_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 173.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20992)"
+    },
+    {
+      "id": "gut_weed_ulva_sp_dried_or_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20995)"
+    },
+    {
+      "id": "carragheen_mosses_chondrus_crispus_dried_or_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 153.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20996)"
+    },
+    {
+      "id": "chlorella_dried_or_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1350.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20997)"
+    },
+    {
+      "id": "north_atlantic_rockweed_ascophyllum_nodosum_dried_or_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1020.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20998)"
+    },
+    {
+      "id": "atlantic_wakame_alaria_esculenta_dried_or_dehydrated",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 498.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20999)"
+    },
+    {
+      "id": "soy_protein_textured_rehydrated",
+      "category": "other",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20591)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "tofu_plain_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20904)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "tofu_silky_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20906)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "tofu_smoked_prepacked",
+      "category": "other",
+      "tags": [
+        "k1",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20912)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "tempeh",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20917)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "baby_food_jar_with_vegetables_from_4_6_months",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20246)"
+    },
+    {
+      "id": "baby_food_jar_with_vegetables_and_starchy_food_from_4_6_months",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20247)"
+    },
+    {
+      "id": "baby_meal_vegetables_and_starchy_food_from_6_8_months",
+      "category": "other",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20248)"
     }
   ]
 }

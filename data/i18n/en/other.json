@@ -904,11 +904,6 @@
     "alternative_names": [],
     "description": "Gourd, dishcloth (towelgourd), cooked, boiled, drained, withoutsalt."
   },
-  "drumstick_leaves_ckd_bld_drnd_wo_salt": {
-    "name": "Drumstick leaves, cooked, boiled, drained, without/ salt",
-    "alternative_names": [],
-    "description": "Drumstick leaves, cooked, boiled, drained, without/ salt."
-  },
   "jerusalem_artichokes_raw": {
     "name": "Jerusalem-artichokes, raw",
     "alternative_names": [],
@@ -999,11 +994,6 @@
     "alternative_names": [],
     "description": "Seaweed, irishmoss, raw."
   },
-  "seaweed_kelp_raw": {
-    "name": "Seaweed, kelp, raw",
-    "alternative_names": [],
-    "description": "Seaweed, kelp, raw."
-  },
   "seaweed_laver_raw": {
     "name": "Seaweed, laver, raw",
     "alternative_names": [],
@@ -1013,11 +1003,6 @@
     "name": "Taro, raw",
     "alternative_names": [],
     "description": "Taro, raw."
-  },
-  "taro_cooked_without_salt": {
-    "name": "Taro, cooked, without salt",
-    "alternative_names": [],
-    "description": "Taro, cooked, without salt."
   },
   "taro_leaves_raw": {
     "name": "Taro leaves, raw",
@@ -1228,11 +1213,6 @@
     "name": "Peppers, sweet, red, frozen, chopped, unprepared",
     "alternative_names": [],
     "description": "Peppers, sweet, red, frozen, chopped, unprepared."
-  },
-  "peppers_swt_red_frz_chopd_bld_drnd_wo_salt": {
-    "name": "Peppers, sweet, red, frozen, chopped, boiled, drained, without/ salt",
-    "alternative_names": [],
-    "description": "Peppers, sweet, red, frozen, chopped, boiled, drained, without/ salt."
   },
   "peppers_swt_red_frz_chopd_bld_drnd_w_salt": {
     "name": "Peppers, sweet, red, frozen, chopped, boiled, drained, with/ salt",
@@ -2894,11 +2874,6 @@
     "alternative_names": [],
     "description": "Wendy's, classic single hamburger, with/ chs."
   },
-  "wendys_jr_hamburger_wo_chs": {
-    "name": "Wendy's, jr. hamburger, without/ chs",
-    "alternative_names": [],
-    "description": "Wendy's, jr. hamburger, without/ chs."
-  },
   "wendys_jr_hamburger_w_chs": {
     "name": "Wendy's, jr. hamburger, with/ chs",
     "alternative_names": [],
@@ -3637,5 +3612,1215 @@
       "Liquorice"
     ],
     "description": "Black licorice candy, containing glycyrrhizin which can induce CYP3A4 and reduce Warfarin effectiveness."
+  },
+  "tabbouleh_or_couscous_salad_with_vegetables_prepacked": {
+    "name": "Tabbouleh or couscous salad, with vegetables, prepacked",
+    "alternative_names": [],
+    "description": "Tabbouleh or couscous salad, with vegetables, prepacked."
+  },
+  "salad_veggie_bulgur_andor_quinoa_based_with_vegetables_prepacked": {
+    "name": "Salad, veggie, bulgur and/or quinoa-based, with vegetables, prepacked",
+    "alternative_names": [],
+    "description": "Salad, veggie, bulgur and/or quinoa-based, with vegetables, prepacked."
+  },
+  "poultry_on_skewer_cooked": {
+    "name": "Poultry on skewer, cooked",
+    "alternative_names": [],
+    "description": "Poultry on skewer, cooked."
+  },
+  "chili_con_carne_prepacked": {
+    "name": "Chili con carne, prepacked",
+    "alternative_names": [],
+    "description": "Chili con carne, prepacked."
+  },
+  "sushi_or_maki_with_seafood_products": {
+    "name": "Sushi or maki, with seafood products",
+    "alternative_names": [],
+    "description": "Sushi or maki, with seafood products."
+  },
+  "vegetable_rosti_pre_fried_frozen_cooked": {
+    "name": "Vegetable rosti, pre-fried, frozen, cooked",
+    "alternative_names": [],
+    "description": "Vegetable rosti, pre-fried, frozen, cooked."
+  },
+  "falafel_from_take_away": {
+    "name": "Falafel, from take-away",
+    "alternative_names": [],
+    "description": "Falafel, from take-away."
+  },
+  "falafel_prepacked": {
+    "name": "Falafel, prepacked",
+    "alternative_names": [],
+    "description": "Falafel, prepacked."
+  },
+  "lasagna_or_cannelloni_with_vegetables_prepacked": {
+    "name": "Lasagna or cannelloni with vegetables, prepacked",
+    "alternative_names": [],
+    "description": "Lasagna or cannelloni with vegetables, prepacked."
+  },
+  "soy_based_minced_meat_imitate_prepacked": {
+    "name": "Soy-based minced meat imitate, prepacked",
+    "alternative_names": [],
+    "description": "Soy-based minced meat imitate, prepacked."
+  },
+  "fajitas_home_prepared_from_kit": {
+    "name": "Fajitas, home-prepared from kit",
+    "alternative_names": [],
+    "description": "Fajitas, home-prepared from kit."
+  },
+  "hot_dog_prepacked": {
+    "name": "Hot-dog, prepacked",
+    "alternative_names": [],
+    "description": "Hot-dog, prepacked."
+  },
+  "hamburger_from_fast_food": {
+    "name": "Hamburger, from fast food",
+    "alternative_names": [],
+    "description": "Hamburger, from fast food."
+  },
+  "cheeseburger_from_fast_food": {
+    "name": "Cheeseburger, from fast food",
+    "alternative_names": [],
+    "description": "Cheeseburger, from fast food."
+  },
+  "vol_au_vent_with_meatpoultryquenelle": {
+    "name": "Vol-au-vent with meat/poultry/quenelle",
+    "alternative_names": [],
+    "description": "Vol-au-vent with meat/poultry/quenelle."
+  },
+  "avocado_flesh_without_skin_pitted_raw": {
+    "name": "Avocado, flesh without skin, pitted, raw",
+    "alternative_names": [],
+    "description": "Avocado, flesh without skin, pitted, raw."
+  },
+  "chayote_raw": {
+    "name": "Chayote, raw",
+    "alternative_names": [],
+    "description": "Chayote, raw."
+  },
+  "dandelion_raw": {
+    "name": "Dandelion, raw",
+    "alternative_names": [],
+    "description": "Dandelion, raw."
+  },
+  "artichoke_globe_raw": {
+    "name": "Artichoke, globe, raw",
+    "alternative_names": [],
+    "description": "Artichoke, globe, raw."
+  },
+  "french_bean_raw": {
+    "name": "French bean, raw",
+    "alternative_names": [],
+    "description": "French bean, raw."
+  },
+  "french_bean_frozen_raw": {
+    "name": "French bean, frozen, raw",
+    "alternative_names": [],
+    "description": "French bean, frozen, raw."
+  },
+  "chili_pepper_raw": {
+    "name": "Chili pepper, raw",
+    "alternative_names": [],
+    "description": "Chili pepper, raw."
+  },
+  "sweet_pepper_yellow_raw": {
+    "name": "Sweet pepper, yellow, raw",
+    "alternative_names": [],
+    "description": "Sweet pepper, yellow, raw."
+  },
+  "snow_pea_raw": {
+    "name": "Snow pea, raw",
+    "alternative_names": [],
+    "description": "Snow pea, raw."
+  },
+  "roman_rocket_raw": {
+    "name": "Roman rocket, raw",
+    "alternative_names": [],
+    "description": "Roman rocket, raw."
+  },
+  "glasswort_salicornia_sp_fresh_raw": {
+    "name": "Glasswort (Salicornia sp.), fresh, raw",
+    "alternative_names": [],
+    "description": "Glasswort (Salicornia sp.), fresh, raw."
+  },
+  "artichoke_globe_cooked": {
+    "name": "Artichoke, globe, cooked",
+    "alternative_names": [],
+    "description": "Artichoke, globe, cooked."
+  },
+  "eggplant_cooked": {
+    "name": "Eggplant, cooked",
+    "alternative_names": [],
+    "description": "Eggplant, cooked."
+  },
+  "french_bean_cooked": {
+    "name": "French bean, cooked",
+    "alternative_names": [],
+    "description": "French bean, cooked."
+  },
+  "mixed_diced_vegetables_canned_drained": {
+    "name": "Mixed diced vegetables, canned, drained",
+    "alternative_names": [],
+    "description": "Mixed diced vegetables, canned, drained."
+  },
+  "french_bean_canned_drained": {
+    "name": "French bean, canned, drained",
+    "alternative_names": [],
+    "description": "French bean, canned, drained."
+  },
+  "french_bean_frozen_cooked": {
+    "name": "French bean, frozen, cooked",
+    "alternative_names": [],
+    "description": "French bean, frozen, cooked."
+  },
+  "artichoke_globe_steamed": {
+    "name": "Artichoke, globe, steamed",
+    "alternative_names": [],
+    "description": "Artichoke, globe, steamed."
+  },
+  "sweet_pepper_green_cooked": {
+    "name": "Sweet pepper, green, cooked",
+    "alternative_names": [],
+    "description": "Sweet pepper, green, cooked."
+  },
+  "artichoke_globe_heart_canned_drained": {
+    "name": "Artichoke, globe, heart, canned, drained",
+    "alternative_names": [],
+    "description": "Artichoke, globe, heart, canned, drained."
+  },
+  "artichoke_globe_base_canned_drained": {
+    "name": "Artichoke, globe, base, canned, drained",
+    "alternative_names": [],
+    "description": "Artichoke, globe, base, canned, drained."
+  },
+  "snow_pea_boiledcooked_in_water": {
+    "name": "Snow pea, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Snow pea, boiled/cooked in water."
+  },
+  "snow_pea_cooked": {
+    "name": "Snow pea, cooked",
+    "alternative_names": [],
+    "description": "Snow pea, cooked."
+  },
+  "vegetables_3_4_types_mashed": {
+    "name": "Vegetables (3-4 types), mashed",
+    "alternative_names": [],
+    "description": "Vegetables (3-4 types), mashed."
+  },
+  "sweet_pepper_red_canned_drained": {
+    "name": "Sweet pepper, red, canned, drained",
+    "alternative_names": [],
+    "description": "Sweet pepper, red, canned, drained."
+  },
+  "chicory_roastedbaked": {
+    "name": "Chicory, roasted/baked",
+    "alternative_names": [],
+    "description": "Chicory, roasted/baked."
+  },
+  "french_bean_boiledcooked_in_water": {
+    "name": "French bean, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "French bean, boiled/cooked in water."
+  },
+  "vegetable_cooked_average": {
+    "name": "Vegetable, cooked (average)",
+    "alternative_names": [],
+    "description": "Vegetable, cooked (average)."
+  },
+  "chinese_cabbageor_bok_cho_bredes_rods_and_leafs_steamed_from_the_island_la_runion_bra": {
+    "name": "Chinese cabbageor bok choï bredes, rods and leafs, steamed, from the island La Réunion (Brassica rapa subsp. Chinensis)",
+    "alternative_names": [],
+    "description": "Chinese cabbageor bok choï bredes, rods and leafs, steamed, from the island La Réunion (Brassica rapa subsp. Chinensis)."
+  },
+  "chayote_without_skin_pitted_steamed_sampled_in_the_island_la_runion_sechium_edule": {
+    "name": "Chayote, without skin, pitted, steamed, sampled in the island La Réunion (Sechium edule)",
+    "alternative_names": [],
+    "description": "Chayote, without skin, pitted, steamed, sampled in the island La Réunion (Sechium edule)."
+  },
+  "rostis": {
+    "name": "Rostis",
+    "alternative_names": [],
+    "description": "Rostis."
+  },
+  "taro_tuber_raw": {
+    "name": "Taro, tuber, raw",
+    "alternative_names": [],
+    "description": "Taro, tuber, raw."
+  },
+  "taro_tuber_cooked": {
+    "name": "Taro, tuber, cooked",
+    "alternative_names": [],
+    "description": "Taro, tuber, cooked."
+  },
+  "cassava_or_manioc_root_raw": {
+    "name": "Cassava or manioc, root, raw",
+    "alternative_names": [],
+    "description": "Cassava or manioc, root, raw."
+  },
+  "coco_bean_boiledcooked_in_water": {
+    "name": "Coco bean, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Coco bean, boiled/cooked in water."
+  },
+  "lentil_boiledcooked_in_water_average": {
+    "name": "Lentil, boiled/cooked in water (average)",
+    "alternative_names": [],
+    "description": "Lentil, boiled/cooked in water (average)."
+  },
+  "broad_bean_boiledcooked_in_water": {
+    "name": "Broad bean, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Broad bean, boiled/cooked in water."
+  },
+  "haricot_bean_boiledcooked_in_water": {
+    "name": "Haricot bean, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Haricot bean, boiled/cooked in water."
+  },
+  "red_kidney_bean_boiledcooked_in_water": {
+    "name": "Red kidney bean, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Red kidney bean, boiled/cooked in water."
+  },
+  "split_pea_boiledcooked_in_water": {
+    "name": "Split pea, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Split pea, boiled/cooked in water."
+  },
+  "chick_pea_boiledcooked_in_water": {
+    "name": "Chicken pea, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Chicken pea, boiled/cooked in water."
+  },
+  "haricot_bean_canned_drained": {
+    "name": "Haricot bean, canned, drained",
+    "alternative_names": [],
+    "description": "Haricot bean, canned, drained."
+  },
+  "flageolet_bean_boiledcooked_in_water": {
+    "name": "Flageolet bean, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Flageolet bean, boiled/cooked in water."
+  },
+  "chick_pea_canned_drained": {
+    "name": "Chicken pea, canned, drained",
+    "alternative_names": [],
+    "description": "Chicken pea, canned, drained."
+  },
+  "flageolet_bean_green_boiledcooked_in_water": {
+    "name": "Flageolet bean, green, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Flageolet bean, green, boiled/cooked in water."
+  },
+  "broad_bean_peeled_fresh_frozen_boiledcooked_in_water": {
+    "name": "Broad bean, peeled, fresh, frozen, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Broad bean, peeled, fresh, frozen, boiled/cooked in water."
+  },
+  "broad_bean_fresh_frozen_boiledcooked_in_water": {
+    "name": "Broad bean, fresh, frozen, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Broad bean, fresh, frozen, boiled/cooked in water."
+  },
+  "lentil_green_boiledcooked_in_water": {
+    "name": "Lentil, green, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Lentil, green, boiled/cooked in water."
+  },
+  "lentil_pink_or_red_boiledcooked_in_water": {
+    "name": "Lentil, pink or red, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Lentil, pink or red, boiled/cooked in water."
+  },
+  "legume_cooked_average": {
+    "name": "Legume, cooked (average)",
+    "alternative_names": [],
+    "description": "Legume, cooked (average)."
+  },
+  "broad_bean_to_shell_fresh_raw": {
+    "name": "Broad bean, to shell, fresh, raw",
+    "alternative_names": [],
+    "description": "Broad bean, to shell, fresh, raw."
+  },
+  "pigeon_pea_immature_fresh_raw": {
+    "name": "Pigeon-pea, immature, fresh, raw",
+    "alternative_names": [],
+    "description": "Pigeon-pea, immature, fresh, raw."
+  },
+  "lima_bean_raw": {
+    "name": "Lima bean, raw",
+    "alternative_names": [],
+    "description": "Lima bean, raw."
+  },
+  "lentil_dried_average": {
+    "name": "Lentil, dried (average)",
+    "alternative_names": [],
+    "description": "Lentil, dried (average)."
+  },
+  "haricot_bean_dried": {
+    "name": "Haricot bean, dried",
+    "alternative_names": [],
+    "description": "Haricot bean, dried."
+  },
+  "split_pea_dried": {
+    "name": "Split pea, dried",
+    "alternative_names": [],
+    "description": "Split pea, dried."
+  },
+  "chick_pea_dried": {
+    "name": "Chicken pea, dried",
+    "alternative_names": [],
+    "description": "Chicken pea, dried."
+  },
+  "broad_bean_dried": {
+    "name": "Broad bean, dried",
+    "alternative_names": [],
+    "description": "Broad bean, dried."
+  },
+  "red_kidney_bean_dried": {
+    "name": "Red kidney bean, dried",
+    "alternative_names": [],
+    "description": "Red kidney bean, dried."
+  },
+  "lentil_pink_or_red_dried": {
+    "name": "Lentil, pink or red, dried",
+    "alternative_names": [],
+    "description": "Lentil, pink or red, dried."
+  },
+  "flageolet_bean_green_dried": {
+    "name": "Flageolet bean, green, dried",
+    "alternative_names": [],
+    "description": "Flageolet bean, green, dried."
+  },
+  "lentil_green_dried": {
+    "name": "Lentil, green, dried",
+    "alternative_names": [],
+    "description": "Lentil, green, dried."
+  },
+  "lentil_blond_dried": {
+    "name": "Lentil, blond, dried",
+    "alternative_names": [],
+    "description": "Lentil, blond, dried."
+  },
+  "red_currant_raw": {
+    "name": "Red currant, raw",
+    "alternative_names": [],
+    "description": "Red currant, raw."
+  },
+  "mirabelle_plum_pitted_raw": {
+    "name": "Mirabelle plum, pitted, raw",
+    "alternative_names": [],
+    "description": "Mirabelle plum, pitted, raw."
+  },
+  "rhubarb_stalk_raw": {
+    "name": "Rhubarb, stalk, raw",
+    "alternative_names": [],
+    "description": "Rhubarb, stalk, raw."
+  },
+  "black_mulberry_raw": {
+    "name": "Black mulberry, raw",
+    "alternative_names": [],
+    "description": "Black mulberry, raw."
+  },
+  "guava_flesh_without_skin_raw": {
+    "name": "Guava, flesh without skin, raw",
+    "alternative_names": [],
+    "description": "Guava, flesh without skin, raw."
+  },
+  "plum_flesh_and_skin_pitted_raw": {
+    "name": "Plum, flesh and skin, pitted, raw",
+    "alternative_names": [],
+    "description": "Plum, flesh and skin, pitted, raw."
+  },
+  "fruit_raw_average": {
+    "name": "Fruit, raw (average)",
+    "alternative_names": [],
+    "description": "Fruit, raw (average)."
+  },
+  "rhubarb_stalk_cooked": {
+    "name": "Rhubarb, stalk, cooked",
+    "alternative_names": [],
+    "description": "Rhubarb, stalk, cooked."
+  },
+  "other_fruit_compote_prepacked": {
+    "name": "Other fruit compote, prepacked",
+    "alternative_names": [],
+    "description": "Other fruit compote, prepacked."
+  },
+  "fruit_cocktail_or_salad_canned_in_light_syrup_drained": {
+    "name": "Fruit cocktail or salad, canned in light syrup, drained",
+    "alternative_names": [],
+    "description": "Fruit cocktail or salad, canned in light syrup, drained."
+  },
+  "date_flesh_and_skin_pitted_dried": {
+    "name": "Date, flesh and skin, pitted, dried",
+    "alternative_names": [],
+    "description": "Date, flesh and skin, pitted, dried."
+  },
+  "prune_pitted": {
+    "name": "Prune, pitted",
+    "alternative_names": [],
+    "description": "Prune, pitted."
+  },
+  "raisin": {
+    "name": "Raisin",
+    "alternative_names": [],
+    "description": "Raisin."
+  },
+  "tropical_fruit_mix_sweetened_for_snack_dried": {
+    "name": "Tropical fruit mix, sweetened, for snack, dried",
+    "alternative_names": [],
+    "description": "Tropical fruit mix, sweetened, for snack, dried."
+  },
+  "banana_flesh_without_skin_dried": {
+    "name": "Banana, flesh without skin, dried",
+    "alternative_names": [],
+    "description": "Banana, flesh without skin, dried."
+  },
+  "goji_berry_dried": {
+    "name": "Goji berry, dried",
+    "alternative_names": [],
+    "description": "Goji berry, dried."
+  },
+  "fruit_dried_average": {
+    "name": "Fruit, dried (average)",
+    "alternative_names": [],
+    "description": "Fruit, dried (average)."
+  },
+  "walnut_kernel_dried": {
+    "name": "Walnut, kernel, dried",
+    "alternative_names": [],
+    "description": "Walnut, kernel, dried."
+  },
+  "pistachio_nut_grilled_salted": {
+    "name": "Pistachio nut, grilled, salted",
+    "alternative_names": [],
+    "description": "Pistachio nut, grilled, salted."
+  },
+  "cashew_nut_grilled_salted": {
+    "name": "Cashew nut, grilled, salted",
+    "alternative_names": [],
+    "description": "Cashew nut, grilled, salted."
+  },
+  "pine_nut": {
+    "name": "Pine nut",
+    "alternative_names": [],
+    "description": "Pine nut."
+  },
+  "pecan_nut_no_added_salt": {
+    "name": "Pecan nut, no added salt",
+    "alternative_names": [],
+    "description": "Pecan nut, no added salt."
+  },
+  "flaxseed_seed": {
+    "name": "Flaxseed, seed",
+    "alternative_names": [],
+    "description": "Flaxseed, seed."
+  },
+  "pistachio_nut_grilled_no_added_salt": {
+    "name": "Pistachio nut, grilled, no added salt",
+    "alternative_names": [],
+    "description": "Pistachio nut, grilled, no added salt."
+  },
+  "flaxseed_brown_seed": {
+    "name": "Flaxseed, brown, seed",
+    "alternative_names": [],
+    "description": "Flaxseed, brown, seed."
+  },
+  "cashew_nut_grilled_no_added_salt": {
+    "name": "Cashew nut, grilled, no added salt",
+    "alternative_names": [],
+    "description": "Cashew nut, grilled, no added salt."
+  },
+  "cashew_nut_dry_grilled_no_added_salt": {
+    "name": "Cashew nut, dry-grilled, no added salt",
+    "alternative_names": [],
+    "description": "Cashew nut, dry-grilled, no added salt."
+  },
+  "spelt_raw": {
+    "name": "Spelt, raw",
+    "alternative_names": [],
+    "description": "Spelt, raw."
+  },
+  "quinoa_raw": {
+    "name": "Quinoa, raw",
+    "alternative_names": [],
+    "description": "Quinoa, raw."
+  },
+  "rye_wholegrain_raw": {
+    "name": "Rye, wholegrain, raw",
+    "alternative_names": [],
+    "description": "Rye, wholegrain, raw."
+  },
+  "rolls_for_burgerhotdog_buns_prepacked": {
+    "name": "Rolls for burger/hotdog (buns), prepacked",
+    "alternative_names": [],
+    "description": "Rolls for burger/hotdog (buns), prepacked."
+  },
+  "rusk": {
+    "name": "Rusk",
+    "alternative_names": [],
+    "description": "Rusk."
+  },
+  "brioche_rusk": {
+    "name": "Brioche rusk",
+    "alternative_names": [],
+    "description": "Brioche rusk."
+  },
+  "rusk_multigrain": {
+    "name": "Rusk, multigrain",
+    "alternative_names": [],
+    "description": "Rusk, multigrain."
+  },
+  "rusk_wholemeal": {
+    "name": "Rusk, wholemeal",
+    "alternative_names": [],
+    "description": "Rusk, wholemeal."
+  },
+  "crispbread_with_bran_source_or_rich_in_fibre": {
+    "name": "Crispbread, with bran, source or rich in fibre",
+    "alternative_names": [],
+    "description": "Crispbread, with bran, source or rich in fibre."
+  },
+  "brioche_rusk_sliced_prepacked": {
+    "name": "Brioche rusk, sliced, prepacked",
+    "alternative_names": [],
+    "description": "Brioche rusk, sliced, prepacked."
+  },
+  "meat_white_cooked_average": {
+    "name": "Meat, white, cooked (average)",
+    "alternative_names": [],
+    "description": "Meat, white, cooked (average)."
+  },
+  "meat_cooked_average": {
+    "name": "Meat, cooked (average)",
+    "alternative_names": [],
+    "description": "Meat, cooked (average)."
+  },
+  "poultry_meat_cooked_average": {
+    "name": "Poultry, meat, cooked (average)",
+    "alternative_names": [],
+    "description": "Poultry, meat, cooked (average)."
+  },
+  "poultry_cooked_average": {
+    "name": "Poultry, cooked (average)",
+    "alternative_names": [],
+    "description": "Poultry, cooked (average)."
+  },
+  "venison_roebuck_roastedbaked": {
+    "name": "Venison, roebuck, roasted/baked",
+    "alternative_names": [],
+    "description": "Venison, roebuck, roasted/baked."
+  },
+  "wild_boar_roastedbaked": {
+    "name": "Wild boar, roasted/baked",
+    "alternative_names": [],
+    "description": "Wild boar, roasted/baked."
+  },
+  "game_cooked_average": {
+    "name": "Game, cooked (average)",
+    "alternative_names": [],
+    "description": "Game, cooked (average)."
+  },
+  "pheasant_meat_roastedbaked": {
+    "name": "Pheasant, meat, roasted/baked",
+    "alternative_names": [],
+    "description": "Pheasant, meat, roasted/baked."
+  },
+  "kid_meat_cooked": {
+    "name": "Kid meat, cooked",
+    "alternative_names": [],
+    "description": "Kid meat, cooked."
+  },
+  "rabbit_meat_braised": {
+    "name": "Rabbit, meat, braised",
+    "alternative_names": [],
+    "description": "Rabbit, meat, braised."
+  },
+  "rabbit_wild_meat_cooked": {
+    "name": "Rabbit, wild, meat, cooked",
+    "alternative_names": [],
+    "description": "Rabbit, wild, meat, cooked."
+  },
+  "quail_meat_and_skin_cooked": {
+    "name": "Quail, meat and skin, cooked",
+    "alternative_names": [],
+    "description": "Quail, meat and skin, cooked."
+  },
+  "duck_meat_roastedbaked": {
+    "name": "Duck, meat, roasted/baked",
+    "alternative_names": [],
+    "description": "Duck, meat, roasted/baked."
+  },
+  "goose_meat_and_skin_roastedbaked": {
+    "name": "Goose, meat and skin, roasted/baked",
+    "alternative_names": [],
+    "description": "Goose, meat and skin, roasted/baked."
+  },
+  "pigeon_meat_roastedbaked": {
+    "name": "Pigeon, meat, roasted/baked",
+    "alternative_names": [],
+    "description": "Pigeon, meat, roasted/baked."
+  },
+  "ostrich_meat_cooked": {
+    "name": "Ostrich, meat, cooked",
+    "alternative_names": [],
+    "description": "Ostrich, meat, cooked."
+  },
+  "hen_meat_raw": {
+    "name": "Hen, meat, raw",
+    "alternative_names": [],
+    "description": "Hen, meat, raw."
+  },
+  "hen_leg_raw": {
+    "name": "Hen, leg, raw",
+    "alternative_names": [],
+    "description": "Hen, leg, raw."
+  },
+  "hare_meat_raw": {
+    "name": "Hare, meat, raw",
+    "alternative_names": [],
+    "description": "Hare, meat, raw."
+  },
+  "venison_hart_raw": {
+    "name": "Venison, hart, raw",
+    "alternative_names": [],
+    "description": "Venison, hart, raw."
+  },
+  "capon_meat_and_skin_raw": {
+    "name": "Capon, meat and skin, raw",
+    "alternative_names": [],
+    "description": "Capon, meat and skin, raw."
+  },
+  "duck_meat_raw": {
+    "name": "Duck, meat, raw",
+    "alternative_names": [],
+    "description": "Duck, meat, raw."
+  },
+  "goose_meat_raw": {
+    "name": "Goose, meat, raw",
+    "alternative_names": [],
+    "description": "Goose, meat, raw."
+  },
+  "duck_terrine": {
+    "name": "Duck terrine",
+    "alternative_names": [],
+    "description": "Duck terrine."
+  },
+  "quenelle_plain_raw": {
+    "name": "Quenelle, plain, raw",
+    "alternative_names": [],
+    "description": "Quenelle, plain, raw."
+  },
+  "pigs_trotter_brined": {
+    "name": "Pig's trotter, brined",
+    "alternative_names": [],
+    "description": "Pig's trotter, brined."
+  },
+  "salami": {
+    "name": "Salami",
+    "alternative_names": [],
+    "description": "Salami."
+  },
+  "plant_based_pt_prepacked": {
+    "name": "Plant-based pâté, prepacked",
+    "alternative_names": [],
+    "description": "Plant-based pâté, prepacked."
+  },
+  "gilthead_seabream_roastedbaked": {
+    "name": "Gilthead seabream, roasted/baked",
+    "alternative_names": [],
+    "description": "Gilthead seabream, roasted/baked."
+  },
+  "mackerel_raw": {
+    "name": "Mackerel, raw",
+    "alternative_names": [],
+    "description": "Mackerel, raw."
+  },
+  "european_plaice_raw": {
+    "name": "European plaice, raw",
+    "alternative_names": [],
+    "description": "European plaice, raw."
+  },
+  "surmullet_or_red_mullet_steamed": {
+    "name": "Surmullet or red mullet, steamed",
+    "alternative_names": [],
+    "description": "Surmullet or red mullet, steamed."
+  },
+  "eel_raw": {
+    "name": "Eel, raw",
+    "alternative_names": [],
+    "description": "Eel, raw."
+  },
+  "brown_bullhead_raw": {
+    "name": "Brown bullhead, raw",
+    "alternative_names": [],
+    "description": "Brown bullhead, raw."
+  },
+  "winkle_cooked": {
+    "name": "Winkle, cooked",
+    "alternative_names": [],
+    "description": "Winkle, cooked."
+  },
+  "shrimp_or_prawn_boiled": {
+    "name": "Shrimp or prawn, boiled",
+    "alternative_names": [],
+    "description": "Shrimp or prawn, boiled."
+  },
+  "trout_roe_canned": {
+    "name": "Trout roe, canned",
+    "alternative_names": [],
+    "description": "Trout roe, canned."
+  },
+  "omelette_plain_homemade": {
+    "name": "Omelette, plain, homemade",
+    "alternative_names": [],
+    "description": "Omelette, plain, homemade."
+  },
+  "fruit_liegeois_refrigerated": {
+    "name": "Fruit liegeois, refrigerated",
+    "alternative_names": [],
+    "description": "Fruit liegeois, refrigerated."
+  },
+  "soy_dessert_with_fruits_with_sugar_s_fortified_with_calcium_fermented_refrigerated": {
+    "name": "Soy dessert, with fruits, with sugar(s), fortified with calcium, fermented, refrigerated",
+    "alternative_names": [],
+    "description": "Soy dessert, with fruits, with sugar(s), fortified with calcium, fermented, refrigerated."
+  },
+  "soy_dessert_plain_no_added_sugars_not_fortified_fermented_refrigerated": {
+    "name": "Soy dessert, plain, no added sugars, not fortified, fermented, refrigerated",
+    "alternative_names": [],
+    "description": "Soy dessert, plain, no added sugars, not fortified, fermented, refrigerated."
+  },
+  "soy_dessert_plain_no_added_sugars_fortified_with_calcium_fermented_refrigerated": {
+    "name": "Soy dessert, plain, no added sugars, fortified with calcium, fermented, refrigerated",
+    "alternative_names": [],
+    "description": "Soy dessert, plain, no added sugars, fortified with calcium, fermented, refrigerated."
+  },
+  "soy_dessert_with_fruits_with_sugar_s_not_fortified_fermented_refrigerated": {
+    "name": "Soy dessert, with fruits, with sugar(s), not fortified, fermented, refrigerated",
+    "alternative_names": [],
+    "description": "Soy dessert, with fruits, with sugar(s), not fortified, fermented, refrigerated."
+  },
+  "soy_dessert_with_almonds_with_sugar_s_fortified_with_vitamins_and_minerals_refrigerat": {
+    "name": "Soy dessert, with almonds, with sugar(s), fortified with vitamins and minerals, refrigerated",
+    "alternative_names": [],
+    "description": "Soy dessert, with almonds, with sugar(s), fortified with vitamins and minerals, refrigerated."
+  },
+  "soy_dessert_flavoured_with_sugar_s_fortified_with_calcium_refrigerated": {
+    "name": "Soy dessert, flavoured, with sugar(s), fortified with calcium, refrigerated",
+    "alternative_names": [],
+    "description": "Soy dessert, flavoured, with sugar(s), fortified with calcium, refrigerated."
+  },
+  "soy_dessert_flavoured_with_sugar_s_not_fortified_refrigerated": {
+    "name": "Soy dessert, flavoured, with sugar(s), not fortified, refrigerated",
+    "alternative_names": [],
+    "description": "Soy dessert, flavoured, with sugar(s), not fortified, refrigerated."
+  },
+  "soy_dessert_refrigerated_average": {
+    "name": "Soy dessert, refrigerated (average)",
+    "alternative_names": [],
+    "description": "Soy dessert, refrigerated (average)."
+  },
+  "plant_based_drink_prepacked_average": {
+    "name": "Plant-based drink, prepacked (average)",
+    "alternative_names": [],
+    "description": "Plant-based drink, prepacked (average)."
+  },
+  "soy_drink_prepacked_average": {
+    "name": "Soy drink, prepacked (average)",
+    "alternative_names": [],
+    "description": "Soy drink, prepacked (average)."
+  },
+  "soy_drink_plain_not_fortified_prepacked": {
+    "name": "Soy drink, plain, not fortified, prepacked",
+    "alternative_names": [],
+    "description": "Soy drink, plain, not fortified, prepacked."
+  },
+  "soy_drink_plain_fortified_with_calcium_prepacked": {
+    "name": "Soy drink, plain, fortified with calcium, prepacked",
+    "alternative_names": [],
+    "description": "Soy drink, plain, fortified with calcium, prepacked."
+  },
+  "soy_drink_flavoured_with_sugar_s_not_fortified_prepacked": {
+    "name": "Soy drink, flavoured, with sugar(s), not fortified, prepacked",
+    "alternative_names": [],
+    "description": "Soy drink, flavoured, with sugar(s), not fortified, prepacked."
+  },
+  "soy_drink_flavoured_with_sugar_s_fortified_in_calcium_prepacked": {
+    "name": "Soy drink, flavoured, with sugar(s), fortified in calcium, prepacked",
+    "alternative_names": [],
+    "description": "Soy drink, flavoured, with sugar(s), fortified in calcium, prepacked."
+  },
+  "coffee_powder_instant": {
+    "name": "Coffee, powder, instant",
+    "alternative_names": [],
+    "description": "Coffee, powder, instant."
+  },
+  "cocoa_powder_no_added_sugars_powder_instant": {
+    "name": "Cocoa powder, no added sugars, powder, instant",
+    "alternative_names": [],
+    "description": "Cocoa powder, no added sugars, powder, instant."
+  },
+  "fruit_jelly_or_fruit_paste": {
+    "name": "Fruit jelly or fruit paste",
+    "alternative_names": [],
+    "description": "Fruit jelly or fruit paste."
+  },
+  "calisson_from_aix_en_provence_marzipan_and_candied_melon_sweet": {
+    "name": "Calisson from Aix en Provence (marzipan and candied melon sweet)",
+    "alternative_names": [],
+    "description": "Calisson from Aix en Provence (marzipan and candied melon sweet)."
+  },
+  "other_jam_reduced_sugar": {
+    "name": "Other jam, reduced sugar",
+    "alternative_names": [],
+    "description": "Other jam, reduced sugar."
+  },
+  "dulce_de_leche_or_confiture_de_lait": {
+    "name": "Dulce de leche or confiture de lait",
+    "alternative_names": [],
+    "description": "Dulce de leche or confiture de lait."
+  },
+  "brioche_filled_with_fruits_prepacked": {
+    "name": "Brioche, filled with fruits, prepacked",
+    "alternative_names": [],
+    "description": "Brioche, filled with fruits, prepacked."
+  },
+  "brioche_plain_prepacked": {
+    "name": "Brioche, plain, prepacked",
+    "alternative_names": [],
+    "description": "Brioche, plain, prepacked."
+  },
+  "brioche_average": {
+    "name": "Brioche (average)",
+    "alternative_names": [],
+    "description": "Brioche (average)."
+  },
+  "soja_biscuit_fortified_with_vitamins_and_minerals": {
+    "name": "Soja biscuit, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Soja biscuit, fortified with vitamins and minerals."
+  },
+  "speculoos_biscuit": {
+    "name": "Speculoos biscuit",
+    "alternative_names": [],
+    "description": "Speculoos biscuit."
+  },
+  "biscuit_shortbread_with_fruits": {
+    "name": "Biscuit shortbread, with fruits",
+    "alternative_names": [],
+    "description": "Biscuit shortbread, with fruits."
+  },
+  "wafer_biscuit_with_vanilla_filling": {
+    "name": "Wafer biscuit, with vanilla filling",
+    "alternative_names": [],
+    "description": "Wafer biscuit, with vanilla filling."
+  },
+  "biscuit_sponge_cake_with_fruits_covering_pre_packed": {
+    "name": "Biscuit sponge cake with fruits covering, pre-packed",
+    "alternative_names": [],
+    "description": "Biscuit sponge cake with fruits covering, pre-packed."
+  },
+  "muesli_average": {
+    "name": "Muesli (average)",
+    "alternative_names": [],
+    "description": "Muesli (average)."
+  },
+  "muesli_fortified_with_vitamins_and_minerals_average": {
+    "name": "Muesli, fortified with vitamins and minerals (average)",
+    "alternative_names": [],
+    "description": "Muesli, fortified with vitamins and minerals (average)."
+  },
+  "oat_flakes": {
+    "name": "Oat flakes",
+    "alternative_names": [],
+    "description": "Oat flakes."
+  },
+  "muesli_not_fortified_average_food": {
+    "name": "Muesli, not fortified (average food)",
+    "alternative_names": [],
+    "description": "Muesli, not fortified (average food)."
+  },
+  "cake_average": {
+    "name": "Cake (average)",
+    "alternative_names": [],
+    "description": "Cake (average)."
+  },
+  "cheesecake_prepacked": {
+    "name": "Cheesecake, prepacked",
+    "alternative_names": [],
+    "description": "Cheesecake, prepacked."
+  },
+  "dessert_opera_cake_type": {
+    "name": "Dessert, Opera cake type",
+    "alternative_names": [],
+    "description": "Dessert, Opera cake type."
+  },
+  "rum_baba_from_bakery": {
+    "name": "Rum baba, from bakery",
+    "alternative_names": [],
+    "description": "Rum baba, from bakery."
+  },
+  "christmas_log_cake": {
+    "name": "Christmas log cake",
+    "alternative_names": [],
+    "description": "Christmas log cake."
+  },
+  "pound_cake_prepacked": {
+    "name": "Pound cake, prepacked",
+    "alternative_names": [],
+    "description": "Pound cake, prepacked."
+  },
+  "kouign_amann_buttered_and_caramelized_milkbread_cake_from_bakery": {
+    "name": "Kouign amann, Buttered and caramelized milkbread cake, from bakery",
+    "alternative_names": [],
+    "description": "Kouign amann, Buttered and caramelized milkbread cake, from bakery."
+  },
+  "eclair": {
+    "name": "Eclair",
+    "alternative_names": [],
+    "description": "Eclair."
+  },
+  "crepe_plain_prepacked_refrigerated": {
+    "name": "Crepe, plain, prepacked, refrigerated",
+    "alternative_names": [],
+    "description": "Crepe, plain, prepacked, refrigerated."
+  },
+  "pancake_with_sugar_s_prepacked": {
+    "name": "Pancake, with sugar(s), prepacked",
+    "alternative_names": [],
+    "description": "Pancake, with sugar(s), prepacked."
+  },
+  "wafer_biscuit_thin_filled_with_honey_caramel_or_soft_brown_sugar_prepacked": {
+    "name": "Wafer biscuit, thin, filled with honey, caramel or soft brown sugar, prepacked",
+    "alternative_names": [],
+    "description": "Wafer biscuit, thin, filled with honey, caramel or soft brown sugar, prepacked."
+  },
+  "waffle_from_bakery_plain_from_bakery": {
+    "name": "Waffle, from bakery, plain, from bakery",
+    "alternative_names": [],
+    "description": "Waffle, from bakery, plain, from bakery."
+  },
+  "doughnut_plain_sprinkled_with_sugar": {
+    "name": "Doughnut, plain, sprinkled with sugar",
+    "alternative_names": [],
+    "description": "Doughnut, plain, sprinkled with sugar."
+  },
+  "doughnut_filled_with_fruit_filling_eg_jam_prepacked_archive": {
+    "name": "Doughnut filled with fruit filling (e.g. jam), prepacked-> ARCHIVE",
+    "alternative_names": [],
+    "description": "Doughnut filled with fruit filling (e.g. jam), prepacked-> ARCHIVE."
+  },
+  "fruit_cake_candied_fruits_andor_raisins_prepacked": {
+    "name": "Fruit cake (candied fruits and/or raisins), prepacked",
+    "alternative_names": [],
+    "description": "Fruit cake (candied fruits and/or raisins), prepacked."
+  },
+  "marble_cake_prepacked": {
+    "name": "Marble cake, prepacked",
+    "alternative_names": [],
+    "description": "Marble cake, prepacked."
+  },
+  "soft_cake_filled_with_fruits_mini_sponge_roll_type_prepacked": {
+    "name": "Soft cake filled with fruits, mini sponge roll type, prepacked",
+    "alternative_names": [],
+    "description": "Soft cake filled with fruits, mini sponge roll type, prepacked."
+  },
+  "madeleine_cake_prepacked": {
+    "name": "Madeleine cake, prepacked",
+    "alternative_names": [],
+    "description": "Madeleine cake, prepacked."
+  },
+  "almond_cake_financier_prepacked": {
+    "name": "Almond cake, financier, prepacked",
+    "alternative_names": [],
+    "description": "Almond cake, financier, prepacked."
+  },
+  "iced_nougat": {
+    "name": "Iced nougat",
+    "alternative_names": [],
+    "description": "Iced nougat."
+  },
+  "ketchup_prepacked": {
+    "name": "Ketchup, prepacked",
+    "alternative_names": [],
+    "description": "Ketchup, prepacked."
+  },
+  "gherkin_pickled_in_vinegar": {
+    "name": "Gherkin, pickled in vinegar",
+    "alternative_names": [],
+    "description": "Gherkin, pickled in vinegar."
+  },
+  "mustard_with_grains": {
+    "name": "Mustard, with grains",
+    "alternative_names": [],
+    "description": "Mustard, with grains."
+  },
+  "capers_pickled_in_vinegar": {
+    "name": "Capers, pickled in vinegar",
+    "alternative_names": [],
+    "description": "Capers, pickled in vinegar."
+  },
+  "olive_black_in_brine": {
+    "name": "Olive, black, in brine",
+    "alternative_names": [],
+    "description": "Olive, black, in brine."
+  },
+  "olive_green_in_brine": {
+    "name": "Olive, green, in brine",
+    "alternative_names": [],
+    "description": "Olive, green, in brine."
+  },
+  "olive_average": {
+    "name": "Olive (average)",
+    "alternative_names": [],
+    "description": "Olive (average)."
+  },
+  "olives_black_average_food": {
+    "name": "Olives, black (average food)",
+    "alternative_names": [],
+    "description": "Olives, black (average food)."
+  },
+  "broth_or_stock_meat_and_vegetables_defatted_dehydrated": {
+    "name": "Broth or stock, meat and vegetables, defatted, dehydrated",
+    "alternative_names": [],
+    "description": "Broth or stock, meat and vegetables, defatted, dehydrated."
+  },
+  "black_pepper_powder": {
+    "name": "Black pepper, powder",
+    "alternative_names": [],
+    "description": "Black pepper, powder."
+  },
+  "paprika_powder": {
+    "name": "Paprika, powder",
+    "alternative_names": [],
+    "description": "Paprika, powder."
+  },
+  "cloves": {
+    "name": "Cloves",
+    "alternative_names": [],
+    "description": "Cloves."
+  },
+  "spice_average": {
+    "name": "Spice (average)",
+    "alternative_names": [],
+    "description": "Spice (average)."
+  },
+  "cayenne_pepper_powder": {
+    "name": "Cayenne pepper, powder",
+    "alternative_names": [],
+    "description": "Cayenne pepper, powder."
+  },
+  "herbs_fresh_average": {
+    "name": "Herbs, fresh (average)",
+    "alternative_names": [],
+    "description": "Herbs, fresh (average)."
+  },
+  "coriander_fresh": {
+    "name": "Coriander, fresh",
+    "alternative_names": [],
+    "description": "Coriander, fresh."
+  },
+  "spirulina_spirulina_sp_dried_or_dehydrated": {
+    "name": "Spirulina (spirulina sp.), dried or dehydrated",
+    "alternative_names": [],
+    "description": "Spirulina (spirulina sp.), dried or dehydrated."
+  },
+  "seaweed_spirulina_spirulina_sp_fresh_raw": {
+    "name": "Seaweed, Spirulina (spirulina sp.), fresh, raw",
+    "alternative_names": [],
+    "description": "Seaweed, Spirulina (spirulina sp.), fresh, raw."
+  },
+  "seaweed_sea_fennel_fresh_raw": {
+    "name": "Seaweed, Sea fennel, fresh, raw",
+    "alternative_names": [],
+    "description": "Seaweed, Sea fennel, fresh, raw."
+  },
+  "sea_belt_saccharina_latissima_dried_or_dehydrated": {
+    "name": "Sea belt (Saccharina latissima), dried or dehydrated",
+    "alternative_names": [],
+    "description": "Sea belt (Saccharina latissima), dried or dehydrated."
+  },
+  "laver_porphyra_sp_dried_or_dehydrated": {
+    "name": "Laver (Porphyra sp.), dried or dehydrated",
+    "alternative_names": [],
+    "description": "Laver (Porphyra sp.), dried or dehydrated."
+  },
+  "dulse_palmaria_palmata_dried_or_dehydrated": {
+    "name": "Dulse (Palmaria palmata), dried or dehydrated",
+    "alternative_names": [],
+    "description": "Dulse (Palmaria palmata), dried or dehydrated."
+  },
+  "sea_thong_himanthalia_elongata_dried_or_dehydrated": {
+    "name": "Sea thong (Himanthalia elongata), dried or dehydrated",
+    "alternative_names": [],
+    "description": "Sea thong (Himanthalia elongata), dried or dehydrated."
+  },
+  "gut_weed_ulva_sp_dried_or_dehydrated": {
+    "name": "Gut weed (Ulva sp.), dried or dehydrated",
+    "alternative_names": [],
+    "description": "Gut weed (Ulva sp.), dried or dehydrated."
+  },
+  "carragheen_mosses_chondrus_crispus_dried_or_dehydrated": {
+    "name": "Carragheen mosses (Chondrus crispus), dried or dehydrated",
+    "alternative_names": [],
+    "description": "Carragheen mosses (Chondrus crispus), dried or dehydrated."
+  },
+  "chlorella_dried_or_dehydrated": {
+    "name": "Chlorella, dried or dehydrated",
+    "alternative_names": [],
+    "description": "Chlorella, dried or dehydrated."
+  },
+  "north_atlantic_rockweed_ascophyllum_nodosum_dried_or_dehydrated": {
+    "name": "North Atlantic rockweed (Ascophyllum nodosum), dried or dehydrated",
+    "alternative_names": [],
+    "description": "North Atlantic rockweed (Ascophyllum nodosum), dried or dehydrated."
+  },
+  "atlantic_wakame_alaria_esculenta_dried_or_dehydrated": {
+    "name": "Atlantic wakame (Alaria esculenta), dried or dehydrated",
+    "alternative_names": [],
+    "description": "Atlantic wakame (Alaria esculenta), dried or dehydrated."
+  },
+  "soy_protein_textured_rehydrated": {
+    "name": "Soy protein, textured, rehydrated",
+    "alternative_names": [],
+    "description": "Soy protein, textured, rehydrated."
+  },
+  "tofu_plain_prepacked": {
+    "name": "Tofu, plain, prepacked",
+    "alternative_names": [],
+    "description": "Tofu, plain, prepacked."
+  },
+  "tofu_silky_prepacked": {
+    "name": "Tofu, silky, prepacked",
+    "alternative_names": [],
+    "description": "Tofu, silky, prepacked."
+  },
+  "tofu_smoked_prepacked": {
+    "name": "Tofu, smoked, prepacked",
+    "alternative_names": [],
+    "description": "Tofu, smoked, prepacked."
+  },
+  "tempeh": {
+    "name": "Tempeh",
+    "alternative_names": [],
+    "description": "Tempeh."
+  },
+  "baby_food_jar_with_vegetables_from_4_6_months": {
+    "name": "Baby food jar with vegetables, from 4-6 months",
+    "alternative_names": [],
+    "description": "Baby food jar with vegetables, from 4-6 months."
+  },
+  "baby_food_jar_with_vegetables_and_starchy_food_from_4_6_months": {
+    "name": "Baby food jar with vegetables and starchy food, from 4-6 months",
+    "alternative_names": [],
+    "description": "Baby food jar with vegetables and starchy food, from 4-6 months."
+  },
+  "baby_meal_vegetables_and_starchy_food_from_6_8_months": {
+    "name": "Baby meal, vegetables and starchy food, from 6-8 months",
+    "alternative_names": [],
+    "description": "Baby meal, vegetables and starchy food, from 6-8 months."
   }
 }

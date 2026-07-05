@@ -754,20 +754,24 @@
             <h3>Food Items & Optional Portions</h3>
             <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 0.75rem;">
               Food files live under <code>/data/categories/&lt;category_id&gt;.json</code>.
-              Each food item features standard attributes. For items where Vitamin K content is unknown (e.g., supplements), <code>portions</code> is set to <code>null</code>. For typical foods, it is an array containing <code>amount</code>, <code>unit</code>, <code>vitamin_k_mcg</code>, and optionally <code>gram_equivalent</code>. **Requirement**: If portions are defined, there must be at least one portion with <code>amount</code> = 100 and <code>unit</code> = "g":
+              Each food item features standard attributes. For items where Vitamin K content is unknown (e.g., supplements), <code>portions</code> is set to <code>null</code>. For typical foods, it is an array containing <code>amount</code>, <code>unit</code>, <code>vitamin_k_mcg</code>, and optionally <code>gram_equivalent</code>. The baseline 100g portion (`amount` = 100, `unit` = "g") can also optionally include the specific <code>vitamin_k1_100g_mcg</code> and <code>vitamin_k2_100g_mcg</code> values if both components are present and measured:
             </p>
             <div class="code-block-container" style="padding: 0.85rem;">
               <pre><code style="font-size: 0.8rem; line-height: 1.4; color: #34d399;">{
-  "id": "blueberries_raw",
-  "category": "fruits",
+  "id": "mozzarella_cheese_from_cows_milk",
+  "category": "dairy_eggs",
   "portions": [
-    { "amount": 100, "unit": "g", "vitamin_k_mcg": 19.3 },
-    { "amount": 1, "unit": "cup", "gram_equivalent": 148, "vitamin_k_mcg": 28.6 }
+    { 
+      "amount": 100, 
+      "unit": "g", 
+      "vitamin_k_mcg": 5.9,
+      "vitamin_k1_100g_mcg": 2.3,
+      "vitamin_k2_100g_mcg": 3.6
+    }
   ],
-  "tags": ["berries", "k1", "raw"],
+  "tags": ["dairy", "k1", "k2"],
   "relations": {
-    "group": "blueberry",
-    "related_ids": ["blueberries_frozen_sweetened"]
+    "group": "cheese"
   }
 }</code></pre>
             </div>

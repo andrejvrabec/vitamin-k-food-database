@@ -29,11 +29,6 @@
     "alternative_names": [],
     "description": "Bread, oatmeal, toasted."
   },
-  "bread_pan_dulce_sweet_yeast_bread": {
-    "name": "Bread, pan dulce, sweet yeast bread",
-    "alternative_names": [],
-    "description": "Bread, pan dulce, sweet yeast bread."
-  },
   "bread_protein": {
     "name": "Bread, protein (includes gluten)",
     "alternative_names": [],
@@ -89,11 +84,6 @@
     "alternative_names": [],
     "description": "Bread, whole-wheat, commercially prepared."
   },
-  "cereals_cream_of_wheat_instant_dry": {
-    "name": "Cereals, CREAM OF WHEAT, instant, dry",
-    "alternative_names": [],
-    "description": "Cereals, CREAM OF WHEAT, instant, dry."
-  },
   "cereals_cream_of_wheat_instant_prepared": {
     "name": "Cereals, CREAM OF WHEAT, instant, prepared with water, without salt",
     "alternative_names": [],
@@ -114,20 +104,10 @@
     "alternative_names": [],
     "description": "Cereals ready-to-eat, BARBARA'S PUFFINS, original."
   },
-  "cereals_ready_to_eat_granola_homemade": {
-    "name": "Cereals ready-to-eat, granola, homemade",
-    "alternative_names": [],
-    "description": "Cereals ready-to-eat, granola, homemade."
-  },
   "cereals_ready_to_eat_natures_path_organi": {
     "name": "Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS flakes",
     "alternative_names": [],
     "description": "Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS flakes."
-  },
-  "cereals_ready_to_eat_post_cocoa_pebbles": {
-    "name": "Cereals ready-to-eat, POST, COCOA PEBBLES",
-    "alternative_names": [],
-    "description": "Cereals ready-to-eat, POST, COCOA PEBBLES."
   },
   "cereals_ready_to_eat_post_honey_bunches": {
     "name": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS with vanilla bunches",
@@ -144,20 +124,10 @@
     "alternative_names": [],
     "description": "Cereals ready-to-eat, POST, Shredded Wheat, original spoon-size."
   },
-  "cereals_ready_to_eat_quaker_quaker_crunc": {
-    "name": "Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN",
-    "alternative_names": [],
-    "description": "Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN."
-  },
   "cereals_ready_to_eat_quaker_quaker_oat_l": {
     "name": "Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain",
     "alternative_names": [],
     "description": "Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain."
-  },
-  "cereals_ready_to_eat_quaker_quaker_puffe": {
-    "name": "Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat",
-    "alternative_names": [],
-    "description": "Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat."
   },
   "cookies_chocolate_chip_commercially_prep": {
     "name": "Cookies, chocolate chip, commercially prepared, regular, lower fat",
@@ -214,11 +184,6 @@
     "alternative_names": [],
     "description": "Crackers, cheese, sandwich-type with cheese filling."
   },
-  "crackers_saltines_whole_wheat": {
-    "name": "Crackers, saltines, whole wheat (includes multi-grain)",
-    "alternative_names": [],
-    "description": "Crackers, saltines, whole wheat (includes multi-grain)."
-  },
   "crackers_standard_snack_type_sandwich_wi": {
     "name": "Crackers, standard snack-type, sandwich, with peanut",
     "alternative_names": [],
@@ -254,25 +219,10 @@
     "alternative_names": [],
     "description": "Focaccia, Italian flatbread, plain."
   },
-  "garlic_bread_frozen": {
-    "name": "Garlic bread, frozen",
-    "alternative_names": [],
-    "description": "Garlic bread, frozen."
-  },
-  "macaroni_vegetable_enriched_cooked": {
-    "name": "Macaroni, vegetable, enriched, cooked",
-    "alternative_names": [],
-    "description": "Macaroni, vegetable, enriched, cooked."
-  },
   "noodles_egg_dry_unenriched": {
     "name": "Noodles, egg, dry, unenriched",
     "alternative_names": [],
     "description": "Noodles, egg, dry, unenriched."
-  },
-  "noodles_egg_spinach_enriched_cooked": {
-    "name": "Noodles, egg, spinach, enriched, cooked",
-    "alternative_names": [],
-    "description": "Noodles, egg, spinach, enriched, cooked."
   },
   "oat_flour_partially_debranned": {
     "name": "Oat flour, partially debranned",
@@ -319,11 +269,6 @@
     "alternative_names": [],
     "description": "Pie, cherry, commercially prepared."
   },
-  "pie_crust_cookie_type_chocolate_ready_cr": {
-    "name": "Pie Crust, Cookie-type, Chocolate, Ready Crust",
-    "alternative_names": [],
-    "description": "Pie Crust, Cookie-type, Chocolate, Ready Crust."
-  },
   "pie_fried_pies_fruit": {
     "name": "Pie, fried pies, fruit",
     "alternative_names": [],
@@ -333,11 +278,6 @@
     "name": "Popcorn, sugar syrup/caramel, fat-free",
     "alternative_names": [],
     "description": "Popcorn, sugar syrup/caramel, fat-free."
-  },
-  "puddings_rice_ready_to_eat": {
-    "name": "Puddings, rice, ready-to-eat",
-    "alternative_names": [],
-    "description": "Puddings, rice, ready-to-eat."
   },
   "rice_white_long_grain_regular_raw_unenri": {
     "name": "Rice, white, long-grain, regular, raw, unenriched",
@@ -724,20 +664,10 @@
     "alternative_names": [],
     "description": "Cereals, maltex, dry."
   },
-  "cereals_maltex_ckd_w_h2o_wo_salt": {
-    "name": "Cereals, maltex, cooked with/ h2o, without/ salt",
-    "alternative_names": [],
-    "description": "Cereals, maltex, cooked with/ h2o, without/ salt."
-  },
   "cereals_maypo_dry": {
     "name": "Cereals, maypo, dry",
     "alternative_names": [],
     "description": "Cereals, maypo, dry."
-  },
-  "cereals_maypo_ckd_w_h2o_wo_salt": {
-    "name": "Cereals, maypo, cooked with/ h2o, without/ salt",
-    "alternative_names": [],
-    "description": "Cereals, maypo, cooked with/ h2o, without/ salt."
   },
   "cereals_oats_reg_quick_not_fort_dry": {
     "name": "Cereals, oats, regular & quick, not fort, dry",
@@ -829,11 +759,6 @@
     "alternative_names": [],
     "description": "Cereals, corn grits, yellow, regular & quick, unenr, dry."
   },
-  "cereals_crm_of_wheat_reg_ckd_w_h2o_w_salt": {
-    "name": "Cereals, cream of wheat, regular (10 minute), cooked with/ h2o, with/ salt",
-    "alternative_names": [],
-    "description": "Cereals, cream of wheat, regular (10 minute), cooked with/ h2o, with/ salt."
-  },
   "cereals_maltex_ckd_w_h2o_w_salt": {
     "name": "Cereals, maltex, cooked with/ h2o, with/ salt",
     "alternative_names": [],
@@ -854,16 +779,6 @@
     "alternative_names": [],
     "description": "Cereals, wheatena, cooked with/ h2o, with/ salt."
   },
-  "cereals_whl_wheat_hot_nat_crl_ckd_w_h2o_w_sal": {
-    "name": "Cereals, whole wheat hot nat crl, cooked with/ h2o, with/ salt",
-    "alternative_names": [],
-    "description": "Cereals, whole wheat hot nat crl, cooked with/ h2o, with/ salt."
-  },
-  "cereals_rte_kellogg_kelloggs_lofat_granola_wo": {
-    "name": "Cereals, ready-to-eat, kellogg, kellogg's lofat granola without/ raisins",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, kellogg, kellogg's lofat granola without/ raisins."
-  },
   "cereals_rte_post_shredded_wheat_lightly_frstd": {
     "name": "Cereals, ready-to-eat, post, shredded wheat, lightly frstd, spoon-size",
     "alternative_names": [],
@@ -878,11 +793,6 @@
     "name": "Cereals, ready-to-eat, general mills, reese's puffs",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, general mills, reese's puffs."
-  },
-  "cereals_quaker_quaker_multigrain_oatmeal_dry": {
-    "name": "Cereals, quaker, quaker multigrain oatmeal, dry",
-    "alternative_names": [],
-    "description": "Cereals, quaker, quaker multigrain oatmeal, dry."
   },
   "cereals_rte_general_mills_oatmeal_crisp_crunc": {
     "name": "Cereals, ready-to-eat, general mills, oatmeal crisp, crunchy almond",
@@ -1368,11 +1278,6 @@
     "name": "Cereals, ready-to-eat, kellogg, kellogg's Special K, cinn pecan",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, kellogg, kellogg's Special K, cinn pecan."
-  },
-  "cereals_rte_post_honey_bunches_of_oats_w_vani": {
-    "name": "Cereals, ready-to-eat, post honey bunches of oats with/ vanilla bunches",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, post honey bunches of oats with/ vanilla bunches."
   },
   "corn_swt_yel_raw": {
     "name": "Corn, sweet, yellow, raw",
@@ -2524,55 +2429,10 @@
     "alternative_names": [],
     "description": "Wheat flr, white (industrial), 9% prot, bleached, unenr."
   },
-  "wheat_flr_white_10_prot_bleached_enr": {
-    "name": "Wheat flr, white (industrial), 10% prot, bleached, enriched",
-    "alternative_names": [],
-    "description": "Wheat flr, white (industrial), 10% prot, bleached, enriched."
-  },
-  "wheat_flr_white_10_prot_bleached_unenr": {
-    "name": "Wheat flr, white (industrial), 10% prot, bleached, unenr",
-    "alternative_names": [],
-    "description": "Wheat flr, white (industrial), 10% prot, bleached, unenr."
-  },
   "wheat_flr_white_10_prot_unbleached_enr": {
     "name": "Wheat flr, white (industrial), 10% prot, unbleached, enriched",
     "alternative_names": [],
     "description": "Wheat flr, white (industrial), 10% prot, unbleached, enriched."
-  },
-  "wheat_flr_white_115_prot_bleached_enr": {
-    "name": "Wheat flr, white (industrial), 11.5% prot, bleached, enriched",
-    "alternative_names": [],
-    "description": "Wheat flr, white (industrial), 11.5% prot, bleached, enriched."
-  },
-  "wheat_flr_white_115_prot_bleached_unenr": {
-    "name": "Wheat flr, white (industrial), 11.5% prot, bleached, unenr",
-    "alternative_names": [],
-    "description": "Wheat flr, white (industrial), 11.5% prot, bleached, unenr."
-  },
-  "wheat_flr_white_115_prot_unbleached_enr": {
-    "name": "Wheat flr, white (industrial), 11.5% prot, unbleached, enriched",
-    "alternative_names": [],
-    "description": "Wheat flr, white (industrial), 11.5% prot, unbleached, enriched."
-  },
-  "wheat_flr_white_13_prot_bleached_enr": {
-    "name": "Wheat flr, white (industrial), 13% prot, bleached, enriched",
-    "alternative_names": [],
-    "description": "Wheat flr, white (industrial), 13% prot, bleached, enriched."
-  },
-  "wheat_flr_white_13_prot_bleached_unenr": {
-    "name": "Wheat flr, white (industrial), 13% prot, bleached, unenr",
-    "alternative_names": [],
-    "description": "Wheat flr, white (industrial), 13% prot, bleached, unenr."
-  },
-  "wheat_flr_white_15_prot_bleached_enr": {
-    "name": "Wheat flr, white (industrial), 15% prot, bleached, enriched",
-    "alternative_names": [],
-    "description": "Wheat flr, white (industrial), 15% prot, bleached, enriched."
-  },
-  "wheat_flr_white_15_prot_bleached_unenr": {
-    "name": "Wheat flr, white (industrial), 15% prot, bleached, unenr",
-    "alternative_names": [],
-    "description": "Wheat flr, white (industrial), 15% prot, bleached, unenr."
   },
   "wheat_flr_whole_grain_soft_wheat": {
     "name": "Wheat flr, whole-grain, soft wheat",
@@ -2943,5 +2803,525 @@
     "name": "Pie fillings, blueberry, canned",
     "alternative_names": [],
     "description": "Pie fillings, blueberry, canned."
+  },
+  "shepherds_pie_with_duck_prepacked_cooked": {
+    "name": "Shepherd's pie with duck, prepacked, cooked",
+    "alternative_names": [],
+    "description": "Shepherd's pie with duck, prepacked, cooked."
+  },
+  "noodles_with_shrimps_prepacked_sautedpan_fried_without_added_fat": {
+    "name": "Noodles with shrimps, prepacked, sautéed/pan-fried, without added fat",
+    "alternative_names": [],
+    "description": "Noodles with shrimps, prepacked, sautéed/pan-fried, without added fat."
+  },
+  "fresh_pasta_stuffed_with_vegetables_eg_ravioli_prepacked_cooked": {
+    "name": "Fresh pasta, stuffed with vegetables (e.g. ravioli), prepacked, cooked",
+    "alternative_names": [],
+    "description": "Fresh pasta, stuffed with vegetables (e.g. ravioli), prepacked, cooked."
+  },
+  "vine_leaf_stuffed_wih_rice_or_dolmas_drained_prepacked": {
+    "name": "Vine leaf stuffed wih rice or dolmas, drained, prepacked",
+    "alternative_names": [],
+    "description": "Vine leaf stuffed wih rice or dolmas, drained, prepacked."
+  },
+  "soy_and_wheat_burger_or_bite_vegan_prepacked": {
+    "name": "Soy and wheat burger or bite (vegan), prepacked",
+    "alternative_names": [],
+    "description": "Soy and wheat burger or bite (vegan), prepacked."
+  },
+  "soy_and_wheat_burger_or_bite_not_vegan_prepacked": {
+    "name": "Soy and wheat burger or bite (not vegan), prepacked",
+    "alternative_names": [],
+    "description": "Soy and wheat burger or bite (not vegan), prepacked."
+  },
+  "wheat_based_nuggets_breaded_croquette_wo_soybean_prepacked": {
+    "name": "Wheat-based nuggets, breaded croquette (without soybean), prepacked",
+    "alternative_names": [],
+    "description": "Wheat-based nuggets, breaded croquette (without soybean), prepacked."
+  },
+  "soybean_and_wheat_based_nuggets_breaded_croquette_vegan_prepacked": {
+    "name": "Soybean and wheat-based nuggets, breaded croquette (vegan), prepacked",
+    "alternative_names": [],
+    "description": "Soybean and wheat-based nuggets, breaded croquette (vegan), prepacked."
+  },
+  "schnitzel_soybean_and_wheat_based_not_vegan_prepacked": {
+    "name": "Schnitzel, soybean and wheat-based (not vegan), prepacked",
+    "alternative_names": [],
+    "description": "Schnitzel, soybean and wheat-based (not vegan), prepacked."
+  },
+  "schnitzel_or_stick_soybean_and_wheat_based_vegan_prepacked": {
+    "name": "Schnitzel or stick, soybean and wheat-based (vegan), prepacked",
+    "alternative_names": [],
+    "description": "Schnitzel or stick, soybean and wheat-based (vegan), prepacked."
+  },
+  "schnitzel_soybean_wheat_and_cheese_based_cordon_bleu_style_prepacked": {
+    "name": "Schnitzel, soybean, wheat and cheese-based, cordon bleu-style, prepacked",
+    "alternative_names": [],
+    "description": "Schnitzel, soybean, wheat and cheese-based, cordon bleu-style, prepacked."
+  },
+  "cereal_burger_with_cheese_without_soybean_prepacked": {
+    "name": "Cereal burger with cheese (without soybean), prepacked",
+    "alternative_names": [],
+    "description": "Cereal burger with cheese (without soybean), prepacked."
+  },
+  "cereal_burger_with_vgtables_without_soybean_prepacked": {
+    "name": "Cereal burger with végétables (without soybean), prepacked",
+    "alternative_names": [],
+    "description": "Cereal burger with végétables (without soybean), prepacked."
+  },
+  "plant_based_ball_with_wheat_andor_soybean_prepacked": {
+    "name": "Plant-based ball with wheat and/or soybean, prepacked",
+    "alternative_names": [],
+    "description": "Plant-based ball with wheat and/or soybean, prepacked."
+  },
+  "plant_based_burger_or_steak_from_wheat_seitan_and_vegetables_prepacked": {
+    "name": "Plant-based burger or steak from wheat (seitan) and vegetables, prepacked",
+    "alternative_names": [],
+    "description": "Plant-based burger or steak from wheat (seitan) and vegetables, prepacked."
+  },
+  "plant_based_burger_or_steak_from_wheat_and_soybean_vegan_prepacked": {
+    "name": "Plant-based burger or steak from wheat and soybean (vegan), prepacked",
+    "alternative_names": [],
+    "description": "Plant-based burger or steak from wheat and soybean (vegan), prepacked."
+  },
+  "plant_based_burger_or_steak_from_wheat_and_soybean_not_vegan_prepacked": {
+    "name": "Plant-based burger or steak from wheat and soybean (not vegan), prepacked",
+    "alternative_names": [],
+    "description": "Plant-based burger or steak from wheat and soybean (not vegan), prepacked."
+  },
+  "sandwich_club_wholemeal_bread_ham_and_cheese_prepacked": {
+    "name": "Sandwich, club, wholemeal bread, ham and cheese, prepacked",
+    "alternative_names": [],
+    "description": "Sandwich, club, wholemeal bread, ham and cheese, prepacked."
+  },
+  "sandwich_club_wholemeal_bread_chicken_and_raw_vegetables_prepacked": {
+    "name": "Sandwich, club, wholemeal bread, chicken and raw vegetables, prepacked",
+    "alternative_names": [],
+    "description": "Sandwich, club, wholemeal bread, chicken and raw vegetables, prepacked."
+  },
+  "sandwich_club_wholemeal_bread_ham_prepacked": {
+    "name": "Sandwich, club, wholemeal bread, ham, prepacked",
+    "alternative_names": [],
+    "description": "Sandwich, club, wholemeal bread, ham, prepacked."
+  },
+  "pasta_dry_gluten_free_from_red_lentils_cooked_no_added_salt": {
+    "name": "Pasta, dry, gluten-free (from red lentils), cooked, no added salt",
+    "alternative_names": [],
+    "description": "Pasta, dry, gluten-free (from red lentils), cooked, no added salt."
+  },
+  "khorasan_wheat_raw": {
+    "name": "Khorasan wheat, raw",
+    "alternative_names": [],
+    "description": "Khorasan wheat, raw."
+  },
+  "rice_wholegrain_raw": {
+    "name": "Rice, wholegrain, raw",
+    "alternative_names": [],
+    "description": "Rice, wholegrain, raw."
+  },
+  "barley_wholegrain_raw": {
+    "name": "Barley, wholegrain, raw",
+    "alternative_names": [],
+    "description": "Barley, wholegrain, raw."
+  },
+  "durum_wheat_semolina_raw": {
+    "name": "Durum wheat semolina, raw",
+    "alternative_names": [],
+    "description": "Durum wheat semolina, raw."
+  },
+  "wheat_bulgur_raw": {
+    "name": "Wheat, bulgur, raw",
+    "alternative_names": [],
+    "description": "Wheat, bulgur, raw."
+  },
+  "bread_french_bread_with_yeast": {
+    "name": "Bread, French bread, with yeast",
+    "alternative_names": [],
+    "description": "Bread, French bread, with yeast."
+  },
+  "country_style_bread_french_bread_multigrain_andor_seeds_prepacked": {
+    "name": "Country-style bread, French bread, multigrain and/or seeds, prepacked",
+    "alternative_names": [],
+    "description": "Country-style bread, French bread, multigrain and/or seeds, prepacked."
+  },
+  "bread_french_bread_gluten_free_prepacked": {
+    "name": "Bread, French bread, gluten free, prepacked",
+    "alternative_names": [],
+    "description": "Bread, French bread, gluten free, prepacked."
+  },
+  "brioche_sandwich_bread_prepacked": {
+    "name": "Brioche sandwich bread, prepacked",
+    "alternative_names": [],
+    "description": "Brioche sandwich bread, prepacked."
+  },
+  "bread_bagel": {
+    "name": "Bread, bagel",
+    "alternative_names": [],
+    "description": "Bread, bagel."
+  },
+  "bretzel_fresh_bread": {
+    "name": "Bretzel, fresh bread",
+    "alternative_names": [],
+    "description": "Bretzel, fresh bread."
+  },
+  "maizecorn_tortilla_wrap_to_be_filled": {
+    "name": "Maize/corn tortilla wrap, to be filled",
+    "alternative_names": [],
+    "description": "Maize/corn tortilla wrap, to be filled."
+  },
+  "wheat_tortilla_wrap_to_be_filled": {
+    "name": "Wheat tortilla wrap, to be filled",
+    "alternative_names": [],
+    "description": "Wheat tortilla wrap, to be filled."
+  },
+  "wheat_crackers": {
+    "name": "Wheat crackers",
+    "alternative_names": [],
+    "description": "Wheat crackers."
+  },
+  "swedish_toast_wheat": {
+    "name": "Swedish toast, wheat",
+    "alternative_names": [],
+    "description": "Swedish toast, wheat."
+  },
+  "swedish_toast_wholemeal_no_added_sugars": {
+    "name": "Swedish toast, wholemeal, no added sugars",
+    "alternative_names": [],
+    "description": "Swedish toast, wholemeal, no added sugars."
+  },
+  "swedish_toast_whole_wheat": {
+    "name": "Swedish toast, whole wheat",
+    "alternative_names": [],
+    "description": "Swedish toast, whole wheat."
+  },
+  "croutons_plain_prepacked": {
+    "name": "Croutons, plain, prepacked",
+    "alternative_names": [],
+    "description": "Croutons, plain, prepacked."
+  },
+  "pop_corn_or_air_popped_maize_without_oil_unsalted": {
+    "name": "Pop-corn or air-popped maize, without oil, unsalted",
+    "alternative_names": [],
+    "description": "Pop-corn or air-popped maize, without oil, unsalted."
+  },
+  "spelt_flour": {
+    "name": "Spelt flour",
+    "alternative_names": [],
+    "description": "Spelt flour."
+  },
+  "rice_flour": {
+    "name": "Rice flour",
+    "alternative_names": [],
+    "description": "Rice flour."
+  },
+  "rye_flour_type_85": {
+    "name": "Rye flour, type 85",
+    "alternative_names": [],
+    "description": "Rye flour, type 85."
+  },
+  "buckwheat_flour": {
+    "name": "Buckwheat flour",
+    "alternative_names": [],
+    "description": "Buckwheat flour."
+  },
+  "barley_flour": {
+    "name": "Barley flour",
+    "alternative_names": [],
+    "description": "Barley flour."
+  },
+  "millet_flour": {
+    "name": "Millet flour",
+    "alternative_names": [],
+    "description": "Millet flour."
+  },
+  "chick_pea_flour": {
+    "name": "Chicken pea flour",
+    "alternative_names": [],
+    "description": "Chicken pea flour."
+  },
+  "soya_flour_wholegrain": {
+    "name": "Soya flour, wholegrain",
+    "alternative_names": [],
+    "description": "Soya flour, wholegrain."
+  },
+  "shortbread_dough_prepacked_cooked": {
+    "name": "Shortbread dough, prepacked, cooked",
+    "alternative_names": [],
+    "description": "Shortbread dough, prepacked, cooked."
+  },
+  "phyllo_or_filo_dough_raw": {
+    "name": "Phyllo or filo dough, raw",
+    "alternative_names": [],
+    "description": "Phyllo or filo dough, raw."
+  },
+  "shortbread_dough_pure_butter_prepacked_cooked": {
+    "name": "Shortbread dough, pure butter, prepacked, cooked",
+    "alternative_names": [],
+    "description": "Shortbread dough, pure butter, prepacked, cooked."
+  },
+  "plant_based_sausage_with_wheat_or_seitan_prepacked": {
+    "name": "Plant-based sausage with wheat or seitan, prepacked",
+    "alternative_names": [],
+    "description": "Plant-based sausage with wheat or seitan, prepacked."
+  },
+  "brioche_or_vienna_bread_from_bakery": {
+    "name": "Brioche or Vienna bread, from bakery",
+    "alternative_names": [],
+    "description": "Brioche or Vienna bread, from bakery."
+  },
+  "viennese_pastry_average": {
+    "name": "Viennese pastry (average)",
+    "alternative_names": [],
+    "description": "Viennese pastry (average)."
+  },
+  "croissant_average": {
+    "name": "Croissant (average)",
+    "alternative_names": [],
+    "description": "Croissant (average)."
+  },
+  "croissant_ordinary_from_bakery": {
+    "name": "Croissant, ordinary, from bakery",
+    "alternative_names": [],
+    "description": "Croissant, ordinary, from bakery."
+  },
+  "croissant_ordinary_prepacked": {
+    "name": "Croissant, ordinary, prepacked",
+    "alternative_names": [],
+    "description": "Croissant, ordinary, prepacked."
+  },
+  "croissant_pure_butter_average": {
+    "name": "Croissant, pure butter (average)",
+    "alternative_names": [],
+    "description": "Croissant, pure butter (average)."
+  },
+  "croissant_pure_butter_from_bakery": {
+    "name": "Croissant, pure butter, from bakery",
+    "alternative_names": [],
+    "description": "Croissant, pure butter, from bakery."
+  },
+  "croissant_pure_butter_prepacked": {
+    "name": "Croissant, pure butter, prepacked",
+    "alternative_names": [],
+    "description": "Croissant, pure butter, prepacked."
+  },
+  "brioche_italian_pastry_filled_with_raisins_and_orange_candied_peel_prepacked": {
+    "name": "Brioche, (italian pastry filled with raisins and orange candied peel), prepacked",
+    "alternative_names": [],
+    "description": "Brioche, (italian pastry filled with raisins and orange candied peel), prepacked."
+  },
+  "chocolate_croissant_from_bakery": {
+    "name": "Chocolate croissant, from bakery",
+    "alternative_names": [],
+    "description": "Chocolate croissant, from bakery."
+  },
+  "chocolate_croissant_prepacked": {
+    "name": "Chocolate croissant, prepacked",
+    "alternative_names": [],
+    "description": "Chocolate croissant, prepacked."
+  },
+  "chou_pastry_sugar_coated": {
+    "name": "Chou pastry, sugar coated",
+    "alternative_names": [],
+    "description": "Chou pastry, sugar coated."
+  },
+  "puffed_rice_textured_bread_with_chocolate_covering": {
+    "name": "Puffed rice textured bread, with chocolate covering",
+    "alternative_names": [],
+    "description": "Puffed rice textured bread, with chocolate covering."
+  },
+  "biscuit_cookie": {
+    "name": "Biscuit (cookie)",
+    "alternative_names": [],
+    "description": "Biscuit (cookie)."
+  },
+  "biscuit_cookie_with_fruits_low_salt": {
+    "name": "Biscuit (cookie) with fruits, low salt",
+    "alternative_names": [],
+    "description": "Biscuit (cookie) with fruits, low salt."
+  },
+  "biscuit_cookie_assortment": {
+    "name": "Biscuit (cookie), assortment",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), assortment."
+  },
+  "biscuit_cookie_with_a_chocolate_bar_covering_milk_filling": {
+    "name": "Biscuit (cookie), with a chocolate bar covering, milk filling",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), with a chocolate bar covering, milk filling."
+  },
+  "butter_biscuit_cookie": {
+    "name": "Butter biscuit (cookie)",
+    "alternative_names": [],
+    "description": "Butter biscuit (cookie)."
+  },
+  "biscuit_cookie_with_a_chocolate_bar_covering": {
+    "name": "Biscuit (cookie), with a chocolate bar covering",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), with a chocolate bar covering."
+  },
+  "butter_biscuit_cookie_with_chocolate_chocolate_chips_or_covering": {
+    "name": "Butter biscuit (cookie), with chocolate (chocolate chips or covering)",
+    "alternative_names": [],
+    "description": "Butter biscuit (cookie), with chocolate (chocolate chips or covering)."
+  },
+  "biscuit_cookie_from_whole_grain_cereals": {
+    "name": "Biscuit (cookie) from whole grain cereals",
+    "alternative_names": [],
+    "description": "Biscuit (cookie) from whole grain cereals."
+  },
+  "butter_biscuit_cookie_whole_wheat": {
+    "name": "Butter biscuit (cookie), whole wheat",
+    "alternative_names": [],
+    "description": "Butter biscuit (cookie), whole wheat."
+  },
+  "biscuit_cookie_with_chocolate_not_fortified": {
+    "name": "Biscuit (cookie), with chocolate, not fortified",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), with chocolate, not fortified."
+  },
+  "biscuit_cookie_filled_with_fruit_paste_or_fruit_puree": {
+    "name": "Biscuit (cookie) filled with fruit paste or fruit puree",
+    "alternative_names": [],
+    "description": "Biscuit (cookie) filled with fruit paste or fruit puree."
+  },
+  "biscuit_cookie_with_chocolate_covering": {
+    "name": "Biscuit (cookie), with chocolate covering",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), with chocolate covering."
+  },
+  "breakfast_biscuit_cookie_with_chocolate_not_fortified": {
+    "name": "Breakfast biscuit (cookie), with chocolate, not fortified",
+    "alternative_names": [],
+    "description": "Breakfast biscuit (cookie), with chocolate, not fortified."
+  },
+  "breakfast_biscuit_cookie_fortified_with_vitamins_and_minerals": {
+    "name": "Breakfast biscuit (cookie), fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Breakfast biscuit (cookie), fortified with vitamins and minerals."
+  },
+  "florentine_biscuit_chocolate_biscuit_or_cookie_with_almonds": {
+    "name": "Florentine biscuit (chocolate biscuit or cookie with almonds)",
+    "alternative_names": [],
+    "description": "Florentine biscuit (chocolate biscuit or cookie with almonds)."
+  },
+  "chocolate_biscuit_cookie_with_vanilla_filling_round_black_and_white": {
+    "name": "Chocolate biscuit (cookie), with vanilla filling, round, black and white",
+    "alternative_names": [],
+    "description": "Chocolate biscuit (cookie), with vanilla filling, round, black and white."
+  },
+  "biscuit_cookie_snack_with_dairy_or_vanilla_filling": {
+    "name": "Biscuit (cookie), snack with dairy or vanilla filling",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), snack with dairy or vanilla filling."
+  },
+  "biscuit_cookie_snack_with_chocolate_filling_whole_wheat_whole_wheat": {
+    "name": "Biscuit (cookie), snack with chocolate filling, whole wheat whole wheat",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), snack with chocolate filling, whole wheat whole wheat."
+  },
+  "biscuit_cookie_snack_with_chocolate_filling": {
+    "name": "Biscuit (cookie), snack with chocolate filling",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), snack with chocolate filling."
+  },
+  "biscuit_cookie_snack_with_fruits_filling": {
+    "name": "Biscuit (cookie), snack with fruits filling",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), snack with fruits filling."
+  },
+  "biscuit_cookie_thin_with_almonds": {
+    "name": "Biscuit (cookie), thin, with almonds",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), thin, with almonds."
+  },
+  "biscuit_puff_pastry_prepacked": {
+    "name": "Biscuit puff pastry, prepacked",
+    "alternative_names": [],
+    "description": "Biscuit puff pastry, prepacked."
+  },
+  "biscuit_cookie_with_chocolate_prepacked": {
+    "name": "Biscuit (cookie), with chocolate, prepacked",
+    "alternative_names": [],
+    "description": "Biscuit (cookie), with chocolate, prepacked."
+  },
+  "breakfast_cereals_average": {
+    "name": "Breakfast cereals (average)",
+    "alternative_names": [],
+    "description": "Breakfast cereals (average)."
+  },
+  "breakfast_cereals_vanilla_or_milk_filling_fortified_with_vitamins_and_minerals": {
+    "name": "Breakfast cereals, vanilla or milk filling, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Breakfast cereals, vanilla or milk filling, fortified with vitamins and minerals."
+  },
+  "breakfast_cereals_fortified_with_vitamins_and_minerals_average": {
+    "name": "Breakfast cereals, fortified with vitamins and minerals (average)",
+    "alternative_names": [],
+    "description": "Breakfast cereals, fortified with vitamins and minerals (average)."
+  },
+  "breakfast_cereals_not_fortified_average": {
+    "name": "Breakfast cereals, not fortified (average)",
+    "alternative_names": [],
+    "description": "Breakfast cereals, not fortified (average)."
+  },
+  "breakfast_cereals_rich_in_fibre_with_fruits_or_nuts_fortified_with_vitamins_and_miner": {
+    "name": "Breakfast cereals, rich in fibre, with fruits or nuts, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Breakfast cereals, rich in fibre, with fruits or nuts, fortified with vitamins and minerals."
+  },
+  "breakfast_cereals_vanilla_or_milk_filling_not_fortified": {
+    "name": "Breakfast cereals, vanilla or milk filling, not fortified",
+    "alternative_names": [],
+    "description": "Breakfast cereals, vanilla or milk filling, not fortified."
+  },
+  "cereal_bar_with_almonds_or_hazelnuts": {
+    "name": "Cereal bar with almonds or hazelnuts",
+    "alternative_names": [],
+    "description": "Cereal bar with almonds or hazelnuts."
+  },
+  "chou_pastry_with_praline_flavoured_custard": {
+    "name": "Chou pastry with praline flavoured custard",
+    "alternative_names": [],
+    "description": "Chou pastry with praline flavoured custard."
+  },
+  "fruit_pie_with_custard_cream": {
+    "name": "Fruit pie with custard cream",
+    "alternative_names": [],
+    "description": "Fruit pie with custard cream."
+  },
+  "apple_pie_with_custard_flour_eggs_cream_sugar_apple_alcohol_from_bakery": {
+    "name": "Apple pie with custard (flour, eggs, cream, sugar, apple alcohol), from bakery",
+    "alternative_names": [],
+    "description": "Apple pie with custard (flour, eggs, cream, sugar, apple alcohol), from bakery."
+  },
+  "muffin_with_fruits_eg_blueberries_prepacked": {
+    "name": "Muffin, with fruits (e.g. blueberries), prepacked",
+    "alternative_names": [],
+    "description": "Muffin, with fruits (e.g. blueberries), prepacked."
+  },
+  "maizecorn_oil": {
+    "name": "Maize/corn oil",
+    "alternative_names": [],
+    "description": "Maize/corn oil."
+  },
+  "wheat_bran": {
+    "name": "Wheat bran",
+    "alternative_names": [],
+    "description": "Wheat bran."
+  },
+  "rice_bran": {
+    "name": "Rice bran",
+    "alternative_names": [],
+    "description": "Rice bran."
+  },
+  "wheat_germ": {
+    "name": "Wheat germ",
+    "alternative_names": [],
+    "description": "Wheat germ."
+  },
+  "dairy_and_cereal_based_beverage_for_babys_dinner_with_vegetables_from_46_months": {
+    "name": "Dairy and cereal-based beverage for baby's dinner, with vegetables, from 4/6 months",
+    "alternative_names": [],
+    "description": "Dairy and cereal-based beverage for baby's dinner, with vegetables, from 4/6 months."
   }
 }

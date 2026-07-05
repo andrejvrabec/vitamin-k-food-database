@@ -1,14 +1,4 @@
 {
-  "apples_raw_without_skin": {
-    "name": "Jablká, surové, bez šupky",
-    "alternative_names": [],
-    "description": "Jablká, surové, bez šupky."
-  },
-  "apricots_canned_heavy_syrup_drained": {
-    "name": "Marhule, zavárané, ťažký sirup, scedené",
-    "alternative_names": [],
-    "description": "Marhule, zavárané, ťažký sirup, scedené."
-  },
   "apricots_canned_heavy_syrup_pack_with_sk": {
     "name": "Marhule, konzervované, ťažké sirupové balenie, so šupkou, sušinou a",
     "alternative_names": [],
@@ -32,16 +22,6 @@
     "alternative_names": [],
     "description": "Černice mrazené, nenesladené."
   },
-  "blackberry_juice_canned": {
-    "name": "Černicová šťava, konzervovaná",
-    "alternative_names": [],
-    "description": "Černicová šťava, konzervovaná."
-  },
-  "blueberries_frozen_sweetened": {
-    "name": "Čučoriedky, mrazené, sladené",
-    "alternative_names": [],
-    "description": "Čučoriedky, mrazené, sladené."
-  },
   "blueberries_raw": {
     "name": "Čučoriedky, surové",
     "alternative_names": [
@@ -50,20 +30,10 @@
     ],
     "description": "Čerstvé surové čučoriedky, obsahujúce vitamín K1 a množstvo antioxidantov."
   },
-  "blueberries_wild_canned_heavy_syrup_drai": {
-    "name": "Čučoriedky, divé, zavárané, ťažký sirup, scedené",
-    "alternative_names": [],
-    "description": "Čučoriedky, divé, zavárané, ťažký sirup, scedené."
-  },
   "cherries_sour_red_frozen_unsweetened": {
     "name": "Čerešne, kyslé, červené, mrazené, nenesladené ()",
     "alternative_names": [],
     "description": "Čerešne, kyslé, červené, mrazené, nenesladené ()."
-  },
-  "cherries_sweet_canned_water_pack_solids": {
-    "name": "Čerešne, sladké, konzervované, vodné balenie, pevné látky a tekutiny",
-    "alternative_names": [],
-    "description": "Čerešne, sladké, konzervované, vodné balenie, pevné látky a tekutiny."
   },
   "cherries_sweet_raw": {
     "name": "Čerešne, sladké, surové",
@@ -74,11 +44,6 @@
     "name": "Sušienky, figové tyčinky",
     "alternative_names": [],
     "description": "Sušienky, figové tyčinky."
-  },
-  "figs_canned_water_pack_solids_and_liquid": {
-    "name": "Figy, konzervy, balenie vody, pevné látky a tekutiny",
-    "alternative_names": [],
-    "description": "Figy, konzervy, balenie vody, pevné látky a tekutiny."
   },
   "fruit_cocktail_canned_heavy_syrup_solids": {
     "name": "Ovocný koktail, (broskyne a ananás a hrušky a hrozno a čerešne), konzervy, ťažký sirup, pevné látky a tekutiny",
@@ -136,11 +101,6 @@
     "alternative_names": [],
     "description": "Pomarančový džús, mrazený koncentrát, nesladený, neriedený."
   },
-  "papaya_canned_heavy_syrup_drained": {
-    "name": "Papája, konzerva, ťažký sirup, scedená",
-    "alternative_names": [],
-    "description": "Papája, konzerva, ťažký sirup, scedená."
-  },
   "papayas_raw": {
     "name": "Papája, surové",
     "alternative_names": [],
@@ -150,21 +110,6 @@
     "name": "Mučenka, (granadilla), fialová, surová",
     "alternative_names": [],
     "description": "Mučenka, (granadilla), fialová, surová."
-  },
-  "peaches_canned_light_syrup_pack_solids_a": {
-    "name": "Broskyne, konzervy, balenie ľahkého sirupu, pevné látky a tekutiny",
-    "alternative_names": [],
-    "description": "Broskyne, konzervy, balenie ľahkého sirupu, pevné látky a tekutiny."
-  },
-  "peaches_canned_water_pack_solids_and_liq": {
-    "name": "Broskyne, konzervy, vodné balenie, pevné látky a tekutiny",
-    "alternative_names": [],
-    "description": "Broskyne, konzervy, vodné balenie, pevné látky a tekutiny."
-  },
-  "pears_canned_light_syrup_pack_solids_and": {
-    "name": "Hrušky, konzervy, balenie ľahkého sirupu, pevné látky a tekutiny",
-    "alternative_names": [],
-    "description": "Hrušky, konzervy, balenie ľahkého sirupu, pevné látky a tekutiny."
   },
   "pears_dried_sulfured_stewed_without_adde": {
     "name": "Hrušky sušené, sírené, dusené, bez pridaného cukru",
@@ -182,11 +127,6 @@
       "Šťava z granátového jablka"
     ],
     "description": "Čistá šťava z plodov granátového jablka, obsahujúca stredné množstvo vitamínu K1."
-  },
-  "pomegranate_juice_bottled": {
-    "name": "Šťava z granátového jablka, fľaškovaná",
-    "alternative_names": [],
-    "description": "Šťava z granátového jablka, fľaškovaná."
   },
   "prunes_dried": {
     "name": "Sušené slivky",
@@ -419,11 +359,6 @@
     "name": "Hrozno, konzervované, thompson seedless, v hustom sirupe, pevný podiel&liquids",
     "alternative_names": [],
     "description": "Hrozno, konzervované, thompson seedless, v hustom sirupe, pevný podiel&liquids."
-  },
-  "grape_juc_cnd_or_btld_unswtnd_wo_added_vit_c": {
-    "name": "Hroznová Šťava, konzervované alebo vo fľaši, nesladené, bez/ pridaný vit c",
-    "alternative_names": [],
-    "description": "Hroznová Šťava, konzervované alebo vo fľaši, nesladené, bez/ pridaný vit c."
   },
   "grape_juc_cocktail_frz_conc_undil_w_added_vit": {
     "name": "Hroznový Šťava koktail, mrazené koncentrát, neriedené, s prídavkom vit c",
@@ -865,5 +800,145 @@
       "Goji"
     ],
     "description": "Sušené plody kustovnice čínskej (goji), o ktorých je klinicky známe, že inhibíciou CYP2C9 významne interagujú s Warfarínom."
+  },
+  "kiwi_fruit_flesh_without_skin_with_seeds_raw": {
+    "name": "Kiwi, dužina bez šupky, so semenami, surové",
+    "alternative_names": [],
+    "description": "Kiwi, dužina bez šupky, so semenami, surové."
+  },
+  "apple_flesh_and_skin_raw": {
+    "name": "Jablko, dužina a šupka, surové",
+    "alternative_names": [],
+    "description": "Jablko, dužina a šupka, surové."
+  },
+  "grape_white_raw": {
+    "name": "Hrozno, biele, surové",
+    "alternative_names": [],
+    "description": "Hrozno, biele, surové."
+  },
+  "prickly_pear_flesh_and_skin_with_seeds_raw": {
+    "name": "Opuncie, dužina a šupka, so semenami, surové",
+    "alternative_names": [],
+    "description": "Opuncie, dužina a šupka, so semenami, surové."
+  },
+  "grape_chasselas_raw": {
+    "name": "Hrozno, chasselas, surové",
+    "alternative_names": [],
+    "description": "Hrozno, chasselas, surové."
+  },
+  "morello_cherry_raw": {
+    "name": "Čerešňa Morello, surová",
+    "alternative_names": [],
+    "description": "Čerešňa Morello, surová."
+  },
+  "cranberry_raw": {
+    "name": "Brusnice, surové",
+    "alternative_names": [],
+    "description": "Brusnice, surové."
+  },
+  "blueberry_frozen_raw": {
+    "name": "Čučoriedky, mrazené, surové",
+    "alternative_names": [],
+    "description": "Čučoriedky, mrazené, surové."
+  },
+  "grape_raw_average": {
+    "name": "Hrozno, surové (priemerné)",
+    "alternative_names": [],
+    "description": "Hrozno, surové (priemerné)."
+  },
+  "persimmon_from_bush_fruit_raw": {
+    "name": "Kaki, z kríkov, ovocia, surové",
+    "alternative_names": [],
+    "description": "Kaki, z kríkov, ovocia, surové."
+  },
+  "grape_red_muscat_raw": {
+    "name": "Hroznová, červená, Muškát, surová",
+    "alternative_names": [],
+    "description": "Hroznová, červená, Muškát, surová."
+  },
+  "apple_flesh_without_skin_roastedbaked": {
+    "name": "Jablko, dužina bez šupky, pražená/pečená",
+    "alternative_names": [],
+    "description": "Jablko, dužina bez šupky, pražená/pečená."
+  },
+  "fig_dried": {
+    "name": "Figa, sušená",
+    "alternative_names": [],
+    "description": "Figa, sušená."
+  },
+  "apple_dried": {
+    "name": "Jablko, sušené",
+    "alternative_names": [],
+    "description": "Jablko, sušené."
+  },
+  "cranberry_dried_with_sugar_s": {
+    "name": "Brusnice, dusené, bez cukru",
+    "alternative_names": [],
+    "description": "Brusnice, dusené, bez cukru."
+  },
+  "mango_jos_flesh_without_skin_pitted_raw_sampled_in_the_island_la_runion_mangifera_ind": {
+    "name": "Mango José, dužina bez šupky, odkôstkovaná, surová, vzorka z ostrova La Réunion (Mangifera indica L.)",
+    "alternative_names": [],
+    "description": "Mango José, dužina bez šupky, odkôstkovaná, surová, vzorka z ostrova La Réunion (Mangifera indica L.)."
+  },
+  "pomegranate_juice_pure_juice": {
+    "name": "Šťava z granátového jablka, čistá šťava",
+    "alternative_names": [],
+    "description": "Šťava z granátového jablka, čistá šťava."
+  },
+  "prune_juice": {
+    "name": "Šťava zo sliviek",
+    "alternative_names": [],
+    "description": "Šťava zo sliviek."
+  },
+  "vegetable_juice_pure_juice_average": {
+    "name": "Zeleninová šťava, čistá šťava (priemer)",
+    "alternative_names": [],
+    "description": "Zeleninová šťava, čistá šťava (priemer)."
+  },
+  "cranberry_juice": {
+    "name": "Brusnicová šťava",
+    "alternative_names": [],
+    "description": "Brusnicová šťava."
+  },
+  "apricot_nectar": {
+    "name": "Marhuľový nektár",
+    "alternative_names": [],
+    "description": "Marhuľový nektár."
+  },
+  "pear_nectar": {
+    "name": "Hruškový nektár",
+    "alternative_names": [],
+    "description": "Hruškový nektár."
+  },
+  "peach_nectar": {
+    "name": "Broskyňový nektár",
+    "alternative_names": [],
+    "description": "Broskyňový nektár."
+  },
+  "jam_cherry": {
+    "name": "Džem, čerešňa",
+    "alternative_names": [],
+    "description": "Džem, čerešňa."
+  },
+  "jam_raspberry": {
+    "name": "Džem, malina",
+    "alternative_names": [],
+    "description": "Džem, malina."
+  },
+  "breton_pudding_cake_with_prunes": {
+    "name": "Bretónsky pudingový koláč so sušenými slivkami",
+    "alternative_names": [],
+    "description": "Bretónsky pudingový koláč so sušenými slivkami."
+  },
+  "tatin_tart_caramelized_upside_down_apple_tart": {
+    "name": "Tatinový koláč (karamelizovaný jablkový koláč obrátený hore nohami)",
+    "alternative_names": [],
+    "description": "Tatinový koláč (karamelizovaný jablkový koláč obrátený hore nohami)."
+  },
+  "pear_tart_with_almonds": {
+    "name": "Hruškový koláč s mandľami",
+    "alternative_names": [],
+    "description": "Hruškový koláč s mandľami."
   }
 }

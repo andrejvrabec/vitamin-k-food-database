@@ -54,11 +54,6 @@
     "alternative_names": [],
     "description": "Syr, mozzarella, nízka vlhkosť, čiastočne odtučnený."
   },
-  "cheese_mozzarella_whole_milk": {
-    "name": "Syr, mozzarella, plnotučné mlieko",
-    "alternative_names": [],
-    "description": "Syr, mozzarella, plnotučné mlieko."
-  },
   "cheese_muenster": {
     "name": "Syr, muenster",
     "alternative_names": [],
@@ -186,23 +181,10 @@
     "alternative_names": [],
     "description": "Rýchle občerstvenie, sušienky, s vajcom a klobásou."
   },
-  "gouda_cheese": {
-    "name": "Syr Gouda",
-    "alternative_names": [
-      "Gouda",
-      "Zrejúca Gouda"
-    ],
-    "description": "Polotvrdý syr pôvodom z Holandska, bohatý na vitamín K2 (najmä MK-4 a dlhšie menachinóny produkované mliečnymi baktériami)."
-  },
   "milk_buttermilk_dried": {
     "name": "Mlieko, cmar, sušené",
     "alternative_names": [],
     "description": "Mlieko, cmar, sušené."
-  },
-  "milk_canned_condensed_sweetened": {
-    "name": "Mlieko, konzervované, kondenzované, sladené",
-    "alternative_names": [],
-    "description": "Mlieko, konzervované, kondenzované, sladené."
   },
   "milk_canned_evaporated_with_added_vitami": {
     "name": "Mlieko, konzervované, odparené, s pridaným vitamínom D a bez pridaného vitamínu A",
@@ -379,11 +361,6 @@
     "alternative_names": [],
     "description": "Mlieko, sušené, s prídavkom vitamínu D."
   },
-  "milk_dry_nonfat_reg_wo_added_vit_a_vitamin_d": {
-    "name": "Mlieko, suché, odtučnené, reg, s prídavkom vit a & vitamínu d",
-    "alternative_names": [],
-    "description": "Mlieko, suché, odtučnené, reg, s prídavkom vit a & vitamínu d."
-  },
   "milk_cnd_cond_swtnd": {
     "name": "Mlieko, konzervované, cond, sladené",
     "alternative_names": [],
@@ -453,11 +430,6 @@
     "name": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz",
     "alternative_names": [],
     "description": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz."
-  },
-  "yogurt_fruit_lofat_10_grams_prot_per_8_oz": {
-    "name": "Jogurt, ovocie, lofat, 10 gramov prot na 8 oz",
-    "alternative_names": [],
-    "description": "Jogurt, ovocie, lofat, 10 gramov prot na 8 oz."
   },
   "egg_whl_raw_frsh": {
     "name": "Vajcia, whl, surové, čerstvé",
@@ -615,7 +587,7 @@
     "description": "Krém sub, flav, prášok."
   },
   "egg_mix_usda_cmdty": {
-    "name": "Vaječná zmes, ",
+    "name": "Vaječná zmes,",
     "alternative_names": [],
     "description": "Vaječná zmes, ."
   },
@@ -623,11 +595,6 @@
     "name": "Mlieko, whl, 3,25 % mliečneho tuku, s prídavkom vitamínu A a vitamínu D",
     "alternative_names": [],
     "description": "Mlieko, whl, 3,25 % mliečneho tuku, s prídavkom vitamínu A a vitamínu D."
-  },
-  "milk_dry_whl_wo_added_vitamin_d": {
-    "name": "Mlieko, sušené, s prídavkom vitamínu D",
-    "alternative_names": [],
-    "description": "Mlieko, sušené, s prídavkom vitamínu D."
   },
   "milk_cnd_evap_wo_added_vit_a_vitamin_d": {
     "name": "Mlieko, konzervované, evap, bez/ pridaný vit a & vitamín d",
@@ -638,11 +605,6 @@
     "name": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz, fort s vitamínom d",
     "alternative_names": [],
     "description": "Jogurt, ovocie, lofat, 9 gramov prot na 8 oz, fort s vitamínom d."
-  },
-  "yogurt_fruit_lofat_10_grams_prot_per_8_oz_for": {
-    "name": "Jogurt, ovocie, lofat, 10 gramov prot na 8 oz, fort s vitamínom d",
-    "alternative_names": [],
-    "description": "Jogurt, ovocie, lofat, 10 gramov prot na 8 oz, fort s vitamínom d."
   },
   "yogurt_fruit_var_nonfat_fort_w_vitamin_d": {
     "name": "Jogurt, ovocný var, odtučnený, fort s vitamínom d",
@@ -843,11 +805,6 @@
     "name": "Rolky, večera, vajíčko",
     "alternative_names": [],
     "description": "Rolky, večera, vajíčko."
-  },
-  "cream_puff_eclair_custard_or_crm_filled_iced": {
-    "name": "Smotanová bábovka, eclair, puding alebo crem plnené, ľadové",
-    "alternative_names": [],
-    "description": "Smotanová bábovka, eclair, puding alebo crem plnené, ľadové."
   },
   "desserts_egg_custard_bkd_prepared_from_recipe": {
     "name": "Dezerty, vaječný puding, pečené, pripravené podľa receptu",
@@ -1118,5 +1075,470 @@
     "name": "Syrové jedlo, imitácia",
     "alternative_names": [],
     "description": "Syrové jedlo, imitácia."
+  },
+  "vegetable_flan_with_eggs": {
+    "name": "Zeleninový koláč s vajíčkami",
+    "alternative_names": [],
+    "description": "Zeleninový koláč s vajíčkami."
+  },
+  "lasagna_or_cannelloni_with_vegetables_and_goat_cheese_prepacked_cooked": {
+    "name": "Lasagne alebo cannelloni so zeleninou a kozím syrom, balené, varené",
+    "alternative_names": [],
+    "description": "Lasagne alebo cannelloni so zeleninou a kozím syrom, balené, varené."
+  },
+  "cheese_breaded_to_grill_prepacked_from_goats_milk": {
+    "name": "Syry, obaľované, na grilovanie, balené, z kozieho mlieka",
+    "alternative_names": [],
+    "description": "Syry, obaľované, na grilovanie, balené, z kozieho mlieka."
+  },
+  "plant_based_burger_or_steak_from_soybean_and_cheese_prepacked": {
+    "name": "Rastlinný burger alebo steak zo sójových bôbov a syra, balené",
+    "alternative_names": [],
+    "description": "Rastlinný burger alebo steak zo sójových bôbov a syra, balené."
+  },
+  "plant_based_burger_or_steak_from_soybean_cheese_and_vegetables_prepacked": {
+    "name": "Rastlinný burger alebo steak zo sóje, syra a zeleniny, balené",
+    "alternative_names": [],
+    "description": "Rastlinný burger alebo steak zo sóje, syra a zeleniny, balené."
+  },
+  "crepe_or_buckwheat_pancake_filled_with_egg_ham_and_cheese_prepacked": {
+    "name": "Palacinka krepová alebo pohánková, plnená vajcom, šunkou a syrom, balené",
+    "alternative_names": [],
+    "description": "Palacinka krepová alebo pohánková, plnená vajcom, šunkou a syrom, balené."
+  },
+  "tart_goat_cheese_and_spinach_prepacked": {
+    "name": "Koláč, kozí syr a špenát, balené",
+    "alternative_names": [],
+    "description": "Koláč, kozí syr a špenát, balené."
+  },
+  "egg_roll_or_nem_with_chicken_prepacked_cooked": {
+    "name": "Vaječná roláda alebo nem, s kuracím mäsom, balené, varené",
+    "alternative_names": [],
+    "description": "Vaječná roláda alebo nem, s kuracím mäsom, balené, varené."
+  },
+  "egg_roll_or_nem_with_pork_prepacked_cooked": {
+    "name": "Vaječná roláda alebo nem, s bravčovým mäsom, balené, varené",
+    "alternative_names": [],
+    "description": "Vaječná roláda alebo nem, s bravčovým mäsom, balené, varené."
+  },
+  "egg_roll_or_nem_with_shrimp_andor_crab_prepacked_cooked": {
+    "name": "Vaječné rolky alebo nem, s krevetami a/alebo krabmi, balené, varené",
+    "alternative_names": [],
+    "description": "Vaječné rolky alebo nem, s krevetami a/alebo krabmi, balené, varené."
+  },
+  "egg_roll_or_nem_prepacked_cooked_average": {
+    "name": "Vaječná roláda alebo nem, balené, varené (priemer)",
+    "alternative_names": [],
+    "description": "Vaječná roláda alebo nem, balené, varené (priemer)."
+  },
+  "carrots_seasoned_puree_with_cream_prepacked": {
+    "name": "Mrkva, ochutené pyré so smotanou, balené",
+    "alternative_names": [],
+    "description": "Mrkva, ochutené pyré so smotanou, balené."
+  },
+  "swiss_chard_leaf_and_stalk_boiledcooked_in_water": {
+    "name": "Švajčiarsky mangold, list a stonka, varené/varené vo vode",
+    "alternative_names": [],
+    "description": "Švajčiarsky mangold, list a stonka, varené/varené vo vode."
+  },
+  "head_cheese_pt_or_brawn": {
+    "name": "Paštéta s hlavovým syrom alebo tlačenka",
+    "alternative_names": [],
+    "description": "Paštéta s hlavovým syrom alebo tlačenka."
+  },
+  "surimi_filled_with_fresh_cheese": {
+    "name": "Surimi, plnené čerstvým syrom",
+    "alternative_names": [],
+    "description": "Surimi, plnené čerstvým syrom."
+  },
+  "egg_hard_boiled": {
+    "name": "Vajcia, uvarené natvrdo",
+    "alternative_names": [],
+    "description": "Vajcia, uvarené natvrdo."
+  },
+  "egg_raw": {
+    "name": "Vajcia, surové",
+    "alternative_names": [],
+    "description": "Vajcia, surové."
+  },
+  "egg_yolk_powder": {
+    "name": "Vaječný žĺtok, prášok",
+    "alternative_names": [],
+    "description": "Vaječný žĺtok, prášok."
+  },
+  "egg_powder": {
+    "name": "Vajcia, prášok",
+    "alternative_names": [],
+    "description": "Vajcia, prášok."
+  },
+  "milk_whole_average": {
+    "name": "Mlieko, plnotučné (priemerné)",
+    "alternative_names": [],
+    "description": "Mlieko, plnotučné (priemerné)."
+  },
+  "milk_whole_uht": {
+    "name": "Mlieko, plnotučné, UHT",
+    "alternative_names": [],
+    "description": "Mlieko, plnotučné, UHT."
+  },
+  "yogurt_greek_style_on_a_fruit_layer_with_sugar_s": {
+    "name": "Jogurt, na grécky spôsob, na ovocnej vrstve, s cukrom",
+    "alternative_names": [],
+    "description": "Jogurt, na grécky spôsob, na ovocnej vrstve, s cukrom."
+  },
+  "yogurt_ewes_milk_flavoured_with_sugar_s": {
+    "name": "Jogurt, ovčie mlieko, ochutené, s cukrom",
+    "alternative_names": [],
+    "description": "Jogurt, ovčie mlieko, ochutené, s cukrom."
+  },
+  "yogurt_or_fermented_milk_with_fruits_with_cream_with_sugar_s": {
+    "name": "Jogurt alebo fermentované mlieko, s ovocím, so smotanou, s cukrom",
+    "alternative_names": [],
+    "description": "Jogurt alebo fermentované mlieko, s ovocím, so smotanou, s cukrom."
+  },
+  "fermented_milk_drink_plain_whole_milk": {
+    "name": "Fermentovaný mliečny nápoj, obyčajné, plnotučné",
+    "alternative_names": [],
+    "description": "Fermentovaný mliečny nápoj, obyčajné, plnotučné."
+  },
+  "camembert_cheese_from_cows_milk": {
+    "name": "Hermelín, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Hermelín, z kravského mlieka."
+  },
+  "camembert_cheese_from_cows_milk_from_raw_milk_or_thermised_milk": {
+    "name": "Hermelín, z kravského mlieka, zo surového mlieka alebo termizovaného mlieka",
+    "alternative_names": [],
+    "description": "Hermelín, z kravského mlieka, zo surového mlieka alebo termizovaného mlieka."
+  },
+  "camembert_cheese_from_cows_milk_from_pasteurized_milk": {
+    "name": "Hermelín, z kravského mlieka, z pasterizovaného mlieka",
+    "alternative_names": [],
+    "description": "Hermelín, z kravského mlieka, z pasterizovaného mlieka."
+  },
+  "soft_ripened_cheese_with_bloomy_rind_square_or_brick_from_cows_milk": {
+    "name": "Mäkký zrejúci syr s rozkvitnutou kôrou, štvorcový alebo tehlový , z kravského mlieka",
+    "alternative_names": [],
+    "description": "Mäkký zrejúci syr s rozkvitnutou kôrou, štvorcový alebo tehlový , z kravského mlieka."
+  },
+  "brie_cheese_from_cows_milk": {
+    "name": "Syr Brie, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Brie, z kravského mlieka."
+  },
+  "brie_de_melun_cheese_from_cows_milk": {
+    "name": "Syr Brie de Melun, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Brie de Melun, z kravského mlieka."
+  },
+  "neufchtel_cheese_from_cows_milk": {
+    "name": "Syr Neufchâtel, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Neufchâtel, z kravského mlieka."
+  },
+  "soft_ripened_cheese_washed_rind_average": {
+    "name": "Mäkký zrejúci syr, umytá kôra (priemer)",
+    "alternative_names": [],
+    "description": "Mäkký zrejúci syr, umytá kôra (priemer)."
+  },
+  "livarot_cheese_from_cows_milk": {
+    "name": "Syr Livarot, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Livarot, z kravského mlieka."
+  },
+  "poisses_cheese_from_cows_milk": {
+    "name": "Syr Époisses, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Époisses, z kravského mlieka."
+  },
+  "munster_cheese_from_cows_milk": {
+    "name": "Syr Munster, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Munster, z kravského mlieka."
+  },
+  "langres_cheese_from_cows_milk": {
+    "name": "Syr Langres, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Langres, z kravského mlieka."
+  },
+  "pont_levque_cheese_from_cows_milk": {
+    "name": "Syr Pont l'Evêque, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Pont l'Evêque, z kravského mlieka."
+  },
+  "saint_marcellin_cheese_from_cows_milk": {
+    "name": "Syr Saint-Marcellin, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Saint-Marcellin, z kravského mlieka."
+  },
+  "saint_felicien_cheese_from_cows_milk": {
+    "name": "Syr Saint-Felicien, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Saint-Felicien, z kravského mlieka."
+  },
+  "boulette_davesnes_cheese_from_cows_milk": {
+    "name": "Syr Boulette d'Avesnes z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Boulette d'Avesnes z kravského mlieka."
+  },
+  "cheese_semi_dry_from_goats_milk": {
+    "name": "Syr, polosuchý, z kozieho mlieka",
+    "alternative_names": [],
+    "description": "Syr, polosuchý, z kozieho mlieka."
+  },
+  "cheese_dry_from_goats_milk": {
+    "name": "Syr, suchý, z kozieho mlieka",
+    "alternative_names": [],
+    "description": "Syr, suchý, z kozieho mlieka."
+  },
+  "blue_cheese_from_cows_milk": {
+    "name": "Niva, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Niva, z kravského mlieka."
+  },
+  "fourme_dambert_cheese_from_cows_milk": {
+    "name": "Syr Fourme d'Ambert, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Fourme d'Ambert, z kravského mlieka."
+  },
+  "cantal_cheese_not_matured_from_cows_milk": {
+    "name": "Syr Cantal, nevyzretý, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Cantal, nevyzretý, z kravského mlieka."
+  },
+  "abondance_cheese_from_cows_milk": {
+    "name": "Syr Abondance, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Abondance, z kravského mlieka."
+  },
+  "gruyere_cheese_france_protected_geographical_indication_from_cows_milk": {
+    "name": "Syr Gruyere, Francúzsko, chránené zemepisné označenie, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Gruyere, Francúzsko, chránené zemepisné označenie, z kravského mlieka."
+  },
+  "gruyere_cheese_from_cows_milk": {
+    "name": "Syr Gruyere, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Gruyere, z kravského mlieka."
+  },
+  "emmental_cheese_from_cows_milk": {
+    "name": "Ementál, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Ementál, z kravského mlieka."
+  },
+  "emmental_cheese_grated_from_cows_milk": {
+    "name": "Syr ementál, strúhaný, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr ementál, strúhaný, z kravského mlieka."
+  },
+  "parmesan_cheese_from_cows_milk": {
+    "name": "Parmezán, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Parmezán, z kravského mlieka."
+  },
+  "fontina_cheese_from_cows_milk": {
+    "name": "Syr Fontina, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Fontina, z kravského mlieka."
+  },
+  "grana_padano_cheese_from_cows_milk": {
+    "name": "Syr Grana Padano, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Grana Padano, z kravského mlieka."
+  },
+  "provolone_cheese_from_cows_milk": {
+    "name": "Syr provolone, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr provolone, z kravského mlieka."
+  },
+  "firm_cheese_in_wax_casing_from_cows_milk": {
+    "name": "Pevný syr vo voskovom obale, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Pevný syr vo voskovom obale, z kravského mlieka."
+  },
+  "salers_cheese_from_cows_milk": {
+    "name": "Salers syr, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Salers syr, z kravského mlieka."
+  },
+  "cheddar_cheese_from_cows_milk": {
+    "name": "Syr čedar, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr čedar, z kravského mlieka."
+  },
+  "edam_cheese_from_cows_milk": {
+    "name": "Syr Eidam, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Eidam, z kravského mlieka."
+  },
+  "gouda_cheese_from_cows_milk": {
+    "name": "Syr Gouda, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr Gouda, z kravského mlieka."
+  },
+  "mimolette_cheese_old_from_cows_milk_cured_12_months_minimum": {
+    "name": "Syr Mimolette, starý, z kravského mlieka (sušený minimálne 12 mesiacov)",
+    "alternative_names": [],
+    "description": "Syr Mimolette, starý, z kravského mlieka (sušený minimálne 12 mesiacov)."
+  },
+  "morbier_cheese_from_cows_milk": {
+    "name": "Morbier syr, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Morbier syr, z kravského mlieka."
+  },
+  "saint_paulin_firm_cheese_from_cows_milk_semi_hard_cheese": {
+    "name": "Saint-Paulin, tvrdý syr, z kravského mlieka (polotvrdý syr)",
+    "alternative_names": [],
+    "description": "Saint-Paulin, tvrdý syr, z kravského mlieka (polotvrdý syr)."
+  },
+  "tomme_cheese_from_cows_milk_from_savoy": {
+    "name": "Syr Tomme, z kravského mlieka, zo Savoy",
+    "alternative_names": [],
+    "description": "Syr Tomme, z kravského mlieka, zo Savoy."
+  },
+  "processed_cheese_in_slices_from_cows_milk": {
+    "name": "Tavený syr, v plátkoch, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Tavený syr, v plátkoch, z kravského mlieka."
+  },
+  "processed_cheese_from_cows_milk_flavoured_in_cubes_for_aperitif": {
+    "name": "Tavený syr, z kravského mlieka, ochutený, v kockách, na aperitív",
+    "alternative_names": [],
+    "description": "Tavený syr, z kravského mlieka, ochutený, v kockách, na aperitív."
+  },
+  "processed_cheese_from_cows_milk_triangle_not_fortified": {
+    "name": "Tavený syr, z kravského mlieka, trojhranný, neforkovaný",
+    "alternative_names": [],
+    "description": "Tavený syr, z kravského mlieka, trojhranný, neforkovaný."
+  },
+  "processed_cheese_from_cows_milk_triangle_fortified_with_vitamins": {
+    "name": "Tavený syr, z kravského mlieka, trojuholník, obohatený o vitamíny",
+    "alternative_names": [],
+    "description": "Tavený syr, z kravského mlieka, trojuholník, obohatený o vitamíny."
+  },
+  "processed_cheese_from_cows_milk_square_not_fortified_with_vitamins": {
+    "name": "Tavený syr, z kravského mlieka, hranatý, neobohatený vitamínmi",
+    "alternative_names": [],
+    "description": "Tavený syr, z kravského mlieka, hranatý, neobohatený vitamínmi."
+  },
+  "processed_cheese_from_cows_milk_square_or_on_stick_fortified_with_vitamins": {
+    "name": "Tavený syr, z kravského mlieka, hranatý alebo na tyčinke, obohatený o vitamíny",
+    "alternative_names": [],
+    "description": "Tavený syr, z kravského mlieka, hranatý alebo na tyčinke, obohatený o vitamíny."
+  },
+  "processed_cheese_with_fresh_cream_cheese_and_walnuts_from_cows_milk": {
+    "name": "Tavený syr s čerstvým smotanovým syrom a vlašskými orechmi, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Tavený syr s čerstvým smotanovým syrom a vlašskými orechmi, z kravského mlieka."
+  },
+  "feta_type_cheese_100_from_cows_milk": {
+    "name": "Syr typu feta, 100% z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr typu feta, 100% z kravského mlieka."
+  },
+  "finger_food_cheese_from_cows_milk_filled_or_coated": {
+    "name": "Krmný syr z kravského mlieka, plnený alebo obaľovaný",
+    "alternative_names": [],
+    "description": "Krmný syr z kravského mlieka, plnený alebo obaľovaný."
+  },
+  "feta_cheese_70_min_from_ewes_milk_30_min_from_goats_milk": {
+    "name": "Syr Feta, 70% min. z ovčieho mlieka, 30% min. z kozieho mlieka",
+    "alternative_names": [],
+    "description": "Syr Feta, 70% min. z ovčieho mlieka, 30% min. z kozieho mlieka."
+  },
+  "uncured_soft_cheese_spreadable_plain_in_tray_from_cows_milk": {
+    "name": "Nevytvrdený mäkký syr, roztierateľný, hladký, v podnose, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Nevytvrdený mäkký syr, roztierateľný, hladký, v podnose, z kravského mlieka."
+  },
+  "uncured_soft_cheese_spreadable_flavoured_with_garlic_and_herbs_from_cows_milk": {
+    "name": "Nekonzervovaný mäkký syr, roztierateľný, ochutený cesnakom a bylinkami), z kravského mlieka",
+    "alternative_names": [],
+    "description": "Nekonzervovaný mäkký syr, roztierateľný, ochutený cesnakom a bylinkami), z kravského mlieka."
+  },
+  "burrata_from_cows_milk": {
+    "name": "Burrata, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Burrata, z kravského mlieka."
+  },
+  "processed_cheese_to_unroll_or_to_shred_from_cows_milk": {
+    "name": "Tavený syr na rozvinutie alebo na strúhanie z kravského mlieka",
+    "alternative_names": [],
+    "description": "Tavený syr na rozvinutie alebo na strúhanie z kravského mlieka."
+  },
+  "mascarpone_cheese_from_cows_milk": {
+    "name": "Syr mascarpone, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr mascarpone, z kravského mlieka."
+  },
+  "ricotta_cheese_from_cows_milk": {
+    "name": "Syr ricotta, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Syr ricotta, z kravského mlieka."
+  },
+  "mozzarella_cheese_from_cows_milk": {
+    "name": "Mozzarella, z kravského mlieka",
+    "alternative_names": [],
+    "description": "Mozzarella, z kravského mlieka."
+  },
+  "mozzarella_cheese_from_buffalas_milk": {
+    "name": "Mozzarella, z byvolieho mlieka",
+    "alternative_names": [],
+    "description": "Mozzarella, z byvolieho mlieka."
+  },
+  "plant_based_cheese_with_cashew_prepacked": {
+    "name": "Rastlinný syr, s kešu, balený",
+    "alternative_names": [],
+    "description": "Rastlinný syr, s kešu, balený."
+  },
+  "whipped_cream_aerosol_uht": {
+    "name": "Šľahačka, aerosól, UHT",
+    "alternative_names": [],
+    "description": "Šľahačka, aerosól, UHT."
+  },
+  "milk_roll_prepacked": {
+    "name": "Mliečna rolka, balené",
+    "alternative_names": [],
+    "description": "Mliečna rolka, balené."
+  },
+  "brioche_filled_with_custard_cream_chinese_brioche_type_prepacked": {
+    "name": "Brioška, ​​plnená pudingovým krémom (čínsky typ briošky), balené",
+    "alternative_names": [],
+    "description": "Brioška, ​​plnená pudingovým krémom (čínsky typ briošky), balené."
+  },
+  "flan_tart_with_eggs": {
+    "name": "Flat torta s vajcami",
+    "alternative_names": [],
+    "description": "Flat torta s vajcami."
+  },
+  "ice_cream_in_box": {
+    "name": "Zmrzlina, v krabici",
+    "alternative_names": [],
+    "description": "Zmrzlina, v krabici."
+  },
+  "ice_cream_gourmet_in_cup": {
+    "name": "Zmrzlina, gurmánska, v pohári",
+    "alternative_names": [],
+    "description": "Zmrzlina, gurmánska, v pohári."
+  },
+  "ice_cream_box_or_cup_average": {
+    "name": "Zmrzlina, krabica alebo pohár (priemer)",
+    "alternative_names": [],
+    "description": "Zmrzlina, krabica alebo pohár (priemer)."
+  },
+  "soy_cream": {
+    "name": "Sójová \"smotana\"",
+    "alternative_names": [],
+    "description": "Sójová \"smotana\"."
+  },
+  "tzatziki_with_yogurt_prepacked": {
+    "name": "Tzatziki, s jogurtom, balené",
+    "alternative_names": [],
+    "description": "Tzatziki, s jogurtom, balené."
+  },
+  "baby_meal_vegetable_with_milkcream_and_starchy_food_from_12_months": {
+    "name": "Detská výživa, zeleninová s mliekom/smotanou a škrobovou výživou, od 12 mesiacov",
+    "alternative_names": [],
+    "description": "Detská výživa, zeleninová s mliekom/smotanou a škrobovou výživou, od 12 mesiacov."
   }
 }

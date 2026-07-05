@@ -475,8 +475,7 @@
       "relations": {
         "group": "butter",
         "related_ids": [
-          "butter_with_salt",
-          "butter_without_salt"
+          "butter_with_salt"
         ]
       }
     },
@@ -500,7 +499,7 @@
           "vitamin_k_mcg": 10.0
         }
       ],
-      "source": "USDA FDC (derived from PDF page 3)",
+      "source": "USDA FDC (derived from PDF page 3), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "oil"
       }
@@ -759,30 +758,6 @@
         "cooked",
         "k1",
         "legumes"
-      ],
-      "relations": {
-        "group": "oil"
-      }
-    },
-    {
-      "id": "oil_canola",
-      "category": "oils_fats",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 71.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 10.0,
-          "gram_equivalent": 14
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "k1"
       ],
       "relations": {
         "group": "oil"
@@ -1269,12 +1244,11 @@
           "gram_equivalent": 14
         }
       ],
-      "source": "USDA SR28 (NDB No: 01001)",
+      "source": "USDA SR28 (NDB No: 01001), USDA SR28 (NDB No: 01145)",
       "relations": {
         "group": "butter",
         "related_ids": [
-          "butter_salted",
-          "butter_without_salt"
+          "butter_salted"
         ]
       }
     },
@@ -1526,41 +1500,6 @@
       "source": "USDA SR28 (NDB No: 01103)",
       "relations": {
         "group": "fat"
-      }
-    },
-    {
-      "id": "butter_without_salt",
-      "category": "oils_fats",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 15.9,
-          "gram_equivalent": 227
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 14
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01145)",
-      "relations": {
-        "group": "butter",
-        "related_ids": [
-          "butter_salted",
-          "butter_with_salt"
-        ]
       }
     },
     {
@@ -2516,7 +2455,7 @@
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA SR28 (NDB No: 04528)",
+      "source": "USDA SR28 (NDB No: 04528), Ciqual 2025 (Food Code: 17220)",
       "relations": {
         "group": "oil"
       }
@@ -2546,7 +2485,7 @@
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA SR28 (NDB No: 04529)",
+      "source": "USDA SR28 (NDB No: 04529), Ciqual 2025 (Food Code: 17030)",
       "relations": {
         "group": "oil"
       }
@@ -3031,7 +2970,7 @@
           "gram_equivalent": 227
         }
       ],
-      "source": "USDA SR28 (NDB No: 04610)",
+      "source": "USDA SR28 (NDB No: 04610), USDA SR28 (NDB No: 04617)",
       "relations": {
         "group": "margarine"
       }
@@ -3061,7 +3000,7 @@
           "gram_equivalent": 227
         }
       ],
-      "source": "USDA SR28 (NDB No: 04611)",
+      "source": "USDA SR28 (NDB No: 04611), USDA SR28 (NDB No: 04618)",
       "relations": {
         "group": "margarine"
       }
@@ -3184,66 +3123,6 @@
       "source": "USDA SR28 (NDB No: 04615)",
       "relations": {
         "group": "fat"
-      }
-    },
-    {
-      "id": "margarine_reg_80_fat_comp_stk_wo_salt",
-      "category": "oils_fats",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 93.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 13.2,
-          "gram_equivalent": 14
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 211.1,
-          "gram_equivalent": 227
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 04617)",
-      "relations": {
-        "group": "margarine"
-      }
-    },
-    {
-      "id": "margarine_reg_80_fat_comp_tub_wo_salt",
-      "category": "oils_fats",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 91.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 13.0,
-          "gram_equivalent": 14
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 208.2,
-          "gram_equivalent": 227
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 04618)",
-      "relations": {
-        "group": "margarine"
       }
     },
     {
@@ -3425,37 +3304,7 @@
           "gram_equivalent": 240
         }
       ],
-      "source": "USDA SR28 (NDB No: 04633)",
-      "relations": {
-        "group": "margarine"
-      }
-    },
-    {
-      "id": "margarine_like_veg_oil_sprd_20_fat_wo_salt",
-      "category": "oils_fats",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 93.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 11.9,
-          "gram_equivalent": 12
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 190.7,
-          "gram_equivalent": 205
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 04634)",
+      "source": "USDA SR28 (NDB No: 04633), USDA SR28 (NDB No: 04634)",
       "relations": {
         "group": "margarine"
       }
@@ -4473,7 +4322,7 @@
           "gram_equivalent": 227
         }
       ],
-      "source": "USDA SR28 (NDB No: 04691)",
+      "source": "USDA SR28 (NDB No: 04691), USDA SR28 (NDB No: 04696)",
       "relations": {
         "group": "margarine"
       }
@@ -4584,36 +4433,6 @@
       "source": "USDA SR28 (NDB No: 04695)",
       "relations": {
         "group": "oil"
-      }
-    },
-    {
-      "id": "margarine_reg_80_fat_comp_stk_wo_salt_w_added",
-      "category": "oils_fats",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 93.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 13.0,
-          "gram_equivalent": 14
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 213.0,
-          "gram_equivalent": 229
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 04696)",
-      "relations": {
-        "group": "margarine"
       }
     },
     {
@@ -5200,37 +5019,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 12637)",
-      "relations": {
-        "group": "oil"
-      }
-    },
-    {
-      "id": "nuts_mxd_nuts_oil_rstd_wo_pnuts_w_salt_added",
-      "category": "oils_fats",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 17.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 25.8,
-          "gram_equivalent": 144
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.1,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 12638)",
+      "source": "USDA SR28 (NDB No: 12637), USDA SR28 (NDB No: 12638)",
       "relations": {
         "group": "oil"
       }
@@ -5343,7 +5132,7 @@
           "gram_equivalent": 350
         }
       ],
-      "source": "USDA SR28 (NDB No: 13055)",
+      "source": "USDA SR28 (NDB No: 13055), USDA SR28 (NDB No: 13950)",
       "relations": {
         "group": "fat"
       }
@@ -5661,7 +5450,7 @@
           "gram_equivalent": 293
         }
       ],
-      "source": "USDA SR28 (NDB No: 13165)",
+      "source": "USDA SR28 (NDB No: 13165), USDA SR28 (NDB No: 23660)",
       "relations": {
         "group": "fat"
       }
@@ -5754,31 +5543,6 @@
       }
     },
     {
-      "id": "beef_brisket_flat_half_ln_0_fat_choic_ckd_brs",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.4,
-          "gram_equivalent": 293
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13343)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_chk_und_blade_pot_rst_or_stk_bnless_ln_0",
       "category": "oils_fats",
       "tags": [
@@ -5835,7 +5599,7 @@
           "gram_equivalent": 279
         }
       ],
-      "source": "USDA SR28 (NDB No: 13361)",
+      "source": "USDA SR28 (NDB No: 13361), USDA SR28 (NDB No: 13796)",
       "relations": {
         "group": "beef"
       }
@@ -5897,7 +5661,7 @@
           "gram_equivalent": 314
         }
       ],
-      "source": "USDA SR28 (NDB No: 13367)",
+      "source": "USDA SR28 (NDB No: 13367), USDA SR28 (NDB No: 13804)",
       "relations": {
         "group": "beef"
       }
@@ -5934,31 +5698,6 @@
       }
     },
     {
-      "id": "beef_brisket_flat_half_lnfat_0fat_all_grds_ck",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.3,
-          "gram_equivalent": 270
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13369)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
       "id": "beef_brisket_flat_half_ln_0fat_all_grds_ckd_b",
       "category": "oils_fats",
       "tags": [
@@ -5984,7 +5723,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13370)",
+      "source": "USDA SR28 (NDB No: 13370), USDA SR28 (NDB No: 23595)",
       "relations": {
         "group": "beef"
       }
@@ -6015,34 +5754,9 @@
           "gram_equivalent": 1166
         }
       ],
-      "source": "USDA SR28 (NDB No: 13373)",
+      "source": "USDA SR28 (NDB No: 13373), USDA SR28 (NDB No: 13810)",
       "relations": {
         "group": "beef"
-      }
-    },
-    {
-      "id": "beef_chuck_arm_pot_rst_ln_fat_0_fat_sel_ckd_b",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 22.2,
-          "gram_equivalent": 1236
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13375)",
-      "relations": {
-        "group": "fat"
       }
     },
     {
@@ -6071,7 +5785,7 @@
           "gram_equivalent": 1095
         }
       ],
-      "source": "USDA SR28 (NDB No: 13377)",
+      "source": "USDA SR28 (NDB No: 13377), USDA SR28 (NDB No: 23614)",
       "relations": {
         "group": "beef"
       }
@@ -6102,7 +5816,7 @@
           "gram_equivalent": 1236
         }
       ],
-      "source": "USDA SR28 (NDB No: 13378)",
+      "source": "USDA SR28 (NDB No: 13378), USDA SR28 (NDB No: 23633)",
       "relations": {
         "group": "beef"
       }
@@ -6344,7 +6058,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13394)",
+      "source": "USDA SR28 (NDB No: 13394), USDA SR28 (NDB No: 23638)",
       "relations": {
         "group": "beef"
       }
@@ -6381,31 +6095,6 @@
       }
     },
     {
-      "id": "beef_rnd_bttm_rnd_rst_ln_fat_0_fat_all_grds_c",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 489
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13399)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_rnd_bttm_rnd_steak_ln_fat_0_fat_choic_ck",
       "category": "oils_fats",
       "tags": [
@@ -6425,82 +6114,7 @@
           "gram_equivalent": 191
         }
       ],
-      "source": "USDA SR28 (NDB No: 13401)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_bttm_rnd_rst_ln_fat_0_fat_choic_ckd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.2,
-          "gram_equivalent": 515
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13402)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_bttm_rnd_steak_ln_fat_0_fat_sel_ckd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.9,
-          "gram_equivalent": 179
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13404)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_bttm_rnd_rst_ln_fat_0_fat_sel_ckd_rs",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 464
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13405)",
+      "source": "USDA SR28 (NDB No: 13401), USDA SR28 (NDB No: 13872)",
       "relations": {
         "group": "fat"
       }
@@ -6531,7 +6145,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13407)",
+      "source": "USDA SR28 (NDB No: 13407), USDA SR28 (NDB No: 23605)",
       "relations": {
         "group": "fat"
       }
@@ -6593,7 +6207,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13410)",
+      "source": "USDA SR28 (NDB No: 13410), USDA SR28 (NDB No: 23622)",
       "relations": {
         "group": "fat"
       }
@@ -6655,7 +6269,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13413)",
+      "source": "USDA SR28 (NDB No: 13413), USDA SR28 (NDB No: 23593)",
       "relations": {
         "group": "fat"
       }
@@ -6686,7 +6300,7 @@
           "gram_equivalent": 464
         }
       ],
-      "source": "USDA SR28 (NDB No: 13414)",
+      "source": "USDA SR28 (NDB No: 13414), USDA SR28 (NDB No: 23590)",
       "relations": {
         "group": "fat"
       }
@@ -6723,56 +6337,6 @@
       }
     },
     {
-      "id": "beef_rnd_eye_of_rnd_rst_ln_fat_0_fat_choic_ck",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.6,
-          "gram_equivalent": 355
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13416)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_eye_of_rnd_rst_ln_fat_0_fat_sel_ckd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.4,
-          "gram_equivalent": 337
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13417)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_rnd_eye_of_rnd_rst_ln_0_fat_all_grds_ckd",
       "category": "oils_fats",
       "tags": [
@@ -6798,7 +6362,7 @@
           "gram_equivalent": 346
         }
       ],
-      "source": "USDA SR28 (NDB No: 13418)",
+      "source": "USDA SR28 (NDB No: 13418), USDA SR28 (NDB No: 23598)",
       "relations": {
         "group": "fat"
       }
@@ -6829,7 +6393,7 @@
           "gram_equivalent": 355
         }
       ],
-      "source": "USDA SR28 (NDB No: 13419)",
+      "source": "USDA SR28 (NDB No: 13419), USDA SR28 (NDB No: 23620)",
       "relations": {
         "group": "fat"
       }
@@ -6860,7 +6424,7 @@
           "gram_equivalent": 337
         }
       ],
-      "source": "USDA SR28 (NDB No: 13420)",
+      "source": "USDA SR28 (NDB No: 13420), USDA SR28 (NDB No: 23591)",
       "relations": {
         "group": "fat"
       }
@@ -6891,57 +6455,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13421)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_tip_rnd_rst_ln_fat_0_fat_choic_ckd_r",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 15.9,
-          "gram_equivalent": 1138
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13422)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_tip_rnd_rst_ln_fat_0_fat_sel_ckd_rst",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 14.8,
-          "gram_equivalent": 1141
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13423)",
+      "source": "USDA SR28 (NDB No: 13421), USDA SR28 (NDB No: 13884)",
       "relations": {
         "group": "fat"
       }
@@ -7053,7 +6567,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13428)",
+      "source": "USDA SR28 (NDB No: 13428), USDA SR28 (NDB No: 13892)",
       "relations": {
         "group": "beef"
       }
@@ -7121,87 +6635,6 @@
       }
     },
     {
-      "id": "beef_tenderloin_steak_ln_fat_0_fat_choic_ckd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.9,
-          "gram_equivalent": 126
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13440)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_tenderloin_steak_ln_fat_0_fat_sel_ckd_br",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.5,
-          "gram_equivalent": 108
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13441)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_tenderloin_steak_ln_0_fat_all_grds_ckd_b",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 87
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13442)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_tenderloin_steak_ln_0_fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
@@ -7227,7 +6660,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13443)",
+      "source": "USDA SR28 (NDB No: 13443), USDA SR28 (NDB No: 23628)",
       "relations": {
         "group": "fat"
       }
@@ -7258,7 +6691,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13444)",
+      "source": "USDA SR28 (NDB No: 13444), USDA SR28 (NDB No: 23587)",
       "relations": {
         "group": "fat"
       }
@@ -7320,7 +6753,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13446)",
+      "source": "USDA SR28 (NDB No: 13446), USDA SR28 (NDB No: 13912)",
       "relations": {
         "group": "fat"
       }
@@ -7376,7 +6809,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13448)",
+      "source": "USDA SR28 (NDB No: 13448), USDA SR28 (NDB No: 23606)",
       "relations": {
         "group": "fat"
       }
@@ -7438,7 +6871,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13450)",
+      "source": "USDA SR28 (NDB No: 13450), USDA SR28 (NDB No: 23589)",
       "relations": {
         "group": "fat"
       }
@@ -7475,56 +6908,6 @@
       }
     },
     {
-      "id": "beef_top_sirloin_steak_ln_fat_0_fat_choic_ckd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 393
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13452)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_top_sirloin_steak_ln_fat_0_fat_sel_ckd_b",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.6,
-          "gram_equivalent": 375
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13453)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_top_sirloin_steak_ln_0_fat_all_grds_ckd",
       "category": "oils_fats",
       "tags": [
@@ -7550,7 +6933,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13454)",
+      "source": "USDA SR28 (NDB No: 13454), USDA SR28 (NDB No: 23610)",
       "relations": {
         "group": "fat"
       }
@@ -7581,7 +6964,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13455)",
+      "source": "USDA SR28 (NDB No: 13455), USDA SR28 (NDB No: 23629)",
       "relations": {
         "group": "fat"
       }
@@ -7612,32 +6995,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13456)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_brisket_flat_half_ln_0_fat_sel_ckd_brsd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.7,
-          "gram_equivalent": 247
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13485)",
+      "source": "USDA SR28 (NDB No: 13456), USDA SR28 (NDB No: 23588)",
       "relations": {
         "group": "fat"
       }
@@ -7739,82 +7097,7 @@
           "gram_equivalent": 231
         }
       ],
-      "source": "USDA SR28 (NDB No: 13490)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_top_rnd_steak_ln_0_fat_all_grds_ckd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.2,
-          "gram_equivalent": 277
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13491)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_top_rnd_steak_ln_0_fat_choic_ckd_brl",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.3,
-          "gram_equivalent": 284
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13492)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_top_rnd_steak_ln_0_fat_sel_ckd_brld",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.8,
-          "gram_equivalent": 269
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13493)",
+      "source": "USDA SR28 (NDB No: 13490), USDA SR28 (NDB No: 13951)",
       "relations": {
         "group": "fat"
       }
@@ -7845,38 +7128,7 @@
           "gram_equivalent": 139
         }
       ],
-      "source": "USDA SR28 (NDB No: 13494)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_70_ln_meat_30_fat_loaf_ckd_bkd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.5,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 8.2,
-          "gram_equivalent": 284
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13495)",
+      "source": "USDA SR28 (NDB No: 13494), USDA SR28 (NDB No: 23560), USDA SR28 (NDB No: 23565), USDA SR28 (NDB No: 23570), USDA SR28 (NDB No: 23575), USDA SR28 (NDB No: 23580)",
       "relations": {
         "group": "fat"
       }
@@ -7907,38 +7159,7 @@
           "gram_equivalent": 77
         }
       ],
-      "source": "USDA SR28 (NDB No: 13496)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_70_ln_meat_30_fat_patty_ckd_brld",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.5,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.1,
-          "gram_equivalent": 70
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13497)",
+      "source": "USDA SR28 (NDB No: 13496), USDA SR28 (NDB No: 23559), USDA SR28 (NDB No: 23564), USDA SR28 (NDB No: 23569), USDA SR28 (NDB No: 23574), USDA SR28 (NDB No: 23579)",
       "relations": {
         "group": "fat"
       }
@@ -7970,7 +7191,7 @@
           "gram_equivalent": 453
         }
       ],
-      "source": "USDA SR28 (NDB No: 13498)",
+      "source": "USDA SR28 (NDB No: 13498), USDA SR28 (NDB No: 23557), USDA SR28 (NDB No: 23562), USDA SR28 (NDB No: 23567), USDA SR28 (NDB No: 23572), USDA SR28 (NDB No: 23577)",
       "relations": {
         "group": "fat"
       }
@@ -8319,68 +7540,6 @@
       }
     },
     {
-      "id": "beef_comp_of_rtl_cuts_lnfat_18fat_all_grds_ck",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.1,
-          "gram_equivalent": 285
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.5,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13796)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
-      "id": "beef_brisket_whl_lnfat_18fat_all_grds_ckd_brs",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.3,
-          "gram_equivalent": 329
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.6,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13804)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
       "id": "beef_brisket_flat_half_lnfat_18fat_all_grds_r",
       "category": "oils_fats",
       "tags": [
@@ -8437,7 +7596,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13806)",
+      "source": "USDA SR28 (NDB No: 13806), USDA SR28 (NDB No: 13369)",
       "relations": {
         "group": "beef"
       }
@@ -8469,37 +7628,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 13809)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
-      "id": "beef_chuck_arm_pot_rst_lnfat_18fat_all_grds_c",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.9,
-          "gram_equivalent": 258
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.6,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13810)",
       "relations": {
         "group": "beef"
       }
@@ -8625,7 +7753,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13814)",
+      "source": "USDA SR28 (NDB No: 13814), USDA SR28 (NDB No: 13375)",
       "relations": {
         "group": "beef"
       }
@@ -9188,7 +8316,7 @@
           "gram_equivalent": 338
         }
       ],
-      "source": "USDA SR28 (NDB No: 13870)",
+      "source": "USDA SR28 (NDB No: 13870), USDA SR28 (NDB No: 13399)",
       "relations": {
         "group": "fat"
       }
@@ -9225,31 +8353,6 @@
       }
     },
     {
-      "id": "beef_rnd_bttm_rnd_steak_ln_fat_18_fat_choic_c",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.9,
-          "gram_equivalent": 227
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13872)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_rnd_bttm_rnd_rst_ln_fat_18_fat_choic_ckd",
       "category": "oils_fats",
       "tags": [
@@ -9275,7 +8378,7 @@
           "gram_equivalent": 338
         }
       ],
-      "source": "USDA SR28 (NDB No: 13873)",
+      "source": "USDA SR28 (NDB No: 13873), USDA SR28 (NDB No: 13402)",
       "relations": {
         "group": "fat"
       }
@@ -9338,7 +8441,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13875)",
+      "source": "USDA SR28 (NDB No: 13875), USDA SR28 (NDB No: 13404)",
       "relations": {
         "group": "fat"
       }
@@ -9369,7 +8472,7 @@
           "gram_equivalent": 338
         }
       ],
-      "source": "USDA SR28 (NDB No: 13876)",
+      "source": "USDA SR28 (NDB No: 13876), USDA SR28 (NDB No: 13405)",
       "relations": {
         "group": "fat"
       }
@@ -9462,7 +8565,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13880)",
+      "source": "USDA SR28 (NDB No: 13880), USDA SR28 (NDB No: 13416)",
       "relations": {
         "group": "fat"
       }
@@ -9525,38 +8628,7 @@
           "gram_equivalent": 417
         }
       ],
-      "source": "USDA SR28 (NDB No: 13882)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_tip_rnd_rst_ln_fat_18_fat_all_grds_c",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.9,
-          "gram_equivalent": 326
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.3,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13884)",
+      "source": "USDA SR28 (NDB No: 13882), USDA SR28 (NDB No: 13417)",
       "relations": {
         "group": "fat"
       }
@@ -9587,7 +8659,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13886)",
+      "source": "USDA SR28 (NDB No: 13886), USDA SR28 (NDB No: 13422)",
       "relations": {
         "group": "fat"
       }
@@ -9618,7 +8690,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13888)",
+      "source": "USDA SR28 (NDB No: 13888), USDA SR28 (NDB No: 13423)",
       "relations": {
         "group": "fat"
       }
@@ -9711,37 +8783,6 @@
       }
     },
     {
-      "id": "beef_rnd_top_rnd_lnfat_18fat_all_grds_ckd_brs",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.9,
-          "gram_equivalent": 286
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.4,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13892)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
       "id": "beef_rnd_top_rnd_steak_ln_fat_18_fat_choic_ra",
       "category": "oils_fats",
       "tags": [
@@ -9798,7 +8839,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13896)",
+      "source": "USDA SR28 (NDB No: 13896), USDA SR28 (NDB No: 13968)",
       "relations": {
         "group": "fat"
       }
@@ -9892,7 +8933,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13900)",
+      "source": "USDA SR28 (NDB No: 13900), USDA SR28 (NDB No: 13969)",
       "relations": {
         "group": "fat"
       }
@@ -9980,37 +9021,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 13911)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_shrt_loin_top_loin_stk_ln_ft_18_fat_choi",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.8,
-          "gram_equivalent": 221
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.4,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13912)",
       "relations": {
         "group": "fat"
       }
@@ -10135,7 +9145,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13921)",
+      "source": "USDA SR28 (NDB No: 13921), USDA SR28 (NDB No: 13440)",
       "relations": {
         "group": "fat"
       }
@@ -10198,7 +9208,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13924)",
+      "source": "USDA SR28 (NDB No: 13924), USDA SR28 (NDB No: 13441)",
       "relations": {
         "group": "fat"
       }
@@ -10322,7 +9332,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13932)",
+      "source": "USDA SR28 (NDB No: 13932), USDA SR28 (NDB No: 13452)",
       "relations": {
         "group": "fat"
       }
@@ -10385,7 +9395,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13935)",
+      "source": "USDA SR28 (NDB No: 13935), USDA SR28 (NDB No: 13453)",
       "relations": {
         "group": "fat"
       }
@@ -10461,56 +9471,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 13949)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_brisket_flat_half_ln_fat_0_fat_sel_ckd_b",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.7,
-          "gram_equivalent": 247
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13950)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rib_eye_sml_end_ln_fat_0_sel_ckd_brld",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.5,
-          "gram_equivalent": 231
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13951)",
       "relations": {
         "group": "fat"
       }
@@ -10636,56 +9596,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 13959)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_top_rnd_steak_ln_fat_0_fat_choic_ckd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.3,
-          "gram_equivalent": 284
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13968)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_top_rnd_steak_ln_fat_0_fat_sel_ckd_b",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.8,
-          "gram_equivalent": 269
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13969)",
       "relations": {
         "group": "fat"
       }
@@ -17691,32 +16601,6 @@
       }
     },
     {
-      "id": "beef_ground_95_ln_meat_5_fat_raw",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23557)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_ground_95_ln_meat_5_fat_patty_ckd_brld",
       "category": "oils_fats",
       "tags": [
@@ -17742,69 +16626,7 @@
           "gram_equivalent": 82
         }
       ],
-      "source": "USDA SR28 (NDB No: 23558)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_95_ln_meat_5_fat_patty_ckd_pan_br",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 86
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23559)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_95_ln_meat_5_fat_crumbles_ckd_pan",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.2,
-          "gram_equivalent": 154
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23560)",
+      "source": "USDA SR28 (NDB No: 23558), USDA SR28 (NDB No: 13497), USDA SR28 (NDB No: 23563), USDA SR28 (NDB No: 23568), USDA SR28 (NDB No: 23573), USDA SR28 (NDB No: 23578)",
       "relations": {
         "group": "fat"
       }
@@ -17835,607 +16657,7 @@
           "gram_equivalent": 323
         }
       ],
-      "source": "USDA SR28 (NDB No: 23561)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_90_ln_meat_10_fat_raw",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23562)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_90_ln_meat_10_fat_patty_ckd_brld",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 82
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23563)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_90_ln_meat_10_fat_patty_ckd_pan_b",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 86
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23564)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_90_ln_meat_10_fat_crumbles_ckd_pa",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.8,
-          "gram_equivalent": 154
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23565)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_90_ln_meat_10_fat_loaf_ckd_bkd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.6,
-          "gram_equivalent": 323
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23566)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_85_ln_meat_15_fat_raw",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.1,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23567)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_85_ln_meat_15_fat_patty_ckd_brld",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 77
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23568)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_85_ln_meat_15_fat_patty_ckd_pan_b",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 83
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23569)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_85_ln_meat_15_fat_crumbles_ckd_pa",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.1,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.9,
-          "gram_equivalent": 149
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23570)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_85_ln_meat_15_fat_loaf_ckd_bkd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.7,
-          "gram_equivalent": 309
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23571)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_80_ln_meat_20_fat_raw",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.5,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23572)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_80_ln_meat_20_fat_patty_ckd_brld",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.4,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 77
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23573)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_80_ln_meat_20_fat_patty_ckd_pan_b",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.3,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 83
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23574)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_80_ln_meat_20_fat_crumbles_ckd_pa",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.4,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.4,
-          "gram_equivalent": 149
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23575)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_80_ln_meat_20_fat_loaf_ckd_bkd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.3,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.6,
-          "gram_equivalent": 309
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23576)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_75_ln_meat_25_fat_raw",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23577)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_75_ln_meat_25_fat_patty_ckd_brld",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.9,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.5,
-          "gram_equivalent": 70
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23578)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_75_ln_meat_25_fat_patty_ckd_pan_b",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.7,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.5,
-          "gram_equivalent": 77
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23579)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_75_ln_meat_25_fat_crumbles_ckd_pa",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.9,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.1,
-          "gram_equivalent": 139
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23580)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_ground_75_ln_meat_25_fat_loaf_ckd_bkd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.8,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 284
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23581)",
+      "source": "USDA SR28 (NDB No: 23561), USDA SR28 (NDB No: 13495), USDA SR28 (NDB No: 23566), USDA SR28 (NDB No: 23571), USDA SR28 (NDB No: 23576), USDA SR28 (NDB No: 23581)",
       "relations": {
         "group": "fat"
       }
@@ -18599,161 +16821,6 @@
       }
     },
     {
-      "id": "beef_tenderloin_steak_ln_18_fat_sel_ckd_brld",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23587)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_top_sirloin_steak_ln_18_fat_sel_ckd_brld",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23588)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_shrt_loin_top_loin_steak_ln_18_fat_sel_c",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23589)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_bttm_rnd_rst_ln_18_fat_sel_ckd_rstd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23590)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_eye_of_rnd_rst_ln_18_fat_sel_ckd_rst",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23591)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_rnd_top_rnd_steak_ln_18_fat_sel_ckd_brld",
       "category": "oils_fats",
       "tags": [
@@ -18779,38 +16846,7 @@
           "gram_equivalent": 453
         }
       ],
-      "source": "USDA SR28 (NDB No: 23592)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_bttm_rnd_steak_ln_18_fat_sel_ckd_brs",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.3,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23593)",
+      "source": "USDA SR28 (NDB No: 23592), USDA SR28 (NDB No: 13493)",
       "relations": {
         "group": "fat"
       }
@@ -18843,37 +16879,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 23594)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_brisket_flat_half_ln_18_fat_all_grds_ckd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.7,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23595)",
       "relations": {
         "group": "fat"
       }
@@ -18942,37 +16947,6 @@
       }
     },
     {
-      "id": "beef_rnd_eye_of_rnd_rst_ln_18_fat_all_grds_ck",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 8.6,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23598)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_rib_sml_end_ln_18_fat_all_grds_raw",
       "category": "oils_fats",
       "tags": [
@@ -19030,7 +17004,7 @@
           "gram_equivalent": 453
         }
       ],
-      "source": "USDA SR28 (NDB No: 23600)",
+      "source": "USDA SR28 (NDB No: 23600), USDA SR28 (NDB No: 13442)",
       "relations": {
         "group": "fat"
       }
@@ -19162,68 +17136,6 @@
       }
     },
     {
-      "id": "beef_rnd_bttm_rnd_steak_ln_18_fat_all_grds_ck",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.3,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23605)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_shrt_loin_top_loin_steak_ln_18_fat_all_g",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23606)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_rnd_top_rnd_steak_ln_18_fat_all_grds_ckd",
       "category": "oils_fats",
       "tags": [
@@ -19249,7 +17161,7 @@
           "gram_equivalent": 453
         }
       ],
-      "source": "USDA SR28 (NDB No: 23608)",
+      "source": "USDA SR28 (NDB No: 23608), USDA SR28 (NDB No: 13491)",
       "relations": {
         "group": "fat"
       }
@@ -19282,37 +17194,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 23609)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_top_sirloin_steak_ln_18_fat_all_grds_ckd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23610)",
       "relations": {
         "group": "fat"
       }
@@ -19414,37 +17295,6 @@
       }
     },
     {
-      "id": "beef_chuck_arm_pot_rst_ln_18_fat_choic_ckd_br",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.7,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23614)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_brisket_flat_half_ln_18_fat_choic_ckd_br",
       "category": "oils_fats",
       "tags": [
@@ -19470,7 +17320,7 @@
           "gram_equivalent": 453
         }
       ],
-      "source": "USDA SR28 (NDB No: 23615)",
+      "source": "USDA SR28 (NDB No: 23615), USDA SR28 (NDB No: 13343)",
       "relations": {
         "group": "fat"
       }
@@ -19603,37 +17453,6 @@
       }
     },
     {
-      "id": "beef_rnd_eye_of_rnd_rst_ln_18_fat_choic_ckd_r",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23620)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_rnd_top_rnd_steak_ln_18_fat_choic_ckd_br",
       "category": "oils_fats",
       "tags": [
@@ -19659,38 +17478,7 @@
           "gram_equivalent": 453
         }
       ],
-      "source": "USDA SR28 (NDB No: 23621)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rnd_bttm_rnd_steak_ln_18_fat_choic_ckd_b",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.7,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23622)",
+      "source": "USDA SR28 (NDB No: 23621), USDA SR28 (NDB No: 13492)",
       "relations": {
         "group": "fat"
       }
@@ -19854,68 +17642,6 @@
       }
     },
     {
-      "id": "beef_tenderloin_steak_ln_18_fat_choic_ckd_brl",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.8,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23628)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_top_sirloin_steak_ln_18_fat_choic_ckd_br",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23629)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_chuck_arm_pot_rst_ln_18_fat_sel_raw",
       "category": "oils_fats",
       "tags": [
@@ -19980,37 +17706,6 @@
       }
     },
     {
-      "id": "beef_chuck_arm_pot_rst_ln_18_fat_sel_ckd_brsd",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.8,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23633)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
       "id": "beef_brisket_flat_half_ln_18_fat_sel_ckd_brsd",
       "category": "oils_fats",
       "tags": [
@@ -20036,7 +17731,7 @@
           "gram_equivalent": 453
         }
       ],
-      "source": "USDA SR28 (NDB No: 23634)",
+      "source": "USDA SR28 (NDB No: 23634), USDA SR28 (NDB No: 13485)",
       "relations": {
         "group": "fat"
       }
@@ -20133,37 +17828,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 23637)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_rib_sml_end_ln_18_fat_all_grds_ckd_brld",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 453
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23638)",
       "relations": {
         "group": "fat"
       }
@@ -20495,31 +18159,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 23659)",
-      "relations": {
-        "group": "fat"
-      }
-    },
-    {
-      "id": "beef_brisket_flat_half_ln_fat_18_fat_choic_ck",
-      "category": "oils_fats",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.4,
-          "gram_equivalent": 409
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 23660)",
       "relations": {
         "group": "fat"
       }
@@ -21513,6 +19152,1241 @@
       "source": "USDA SR28 (NDB No: 43598)",
       "relations": {
         "group": "mayonnaise"
+      }
+    },
+    {
+      "id": "mussels_filled_fat_parsley_and_garlic_prepacked_raw",
+      "category": "oils_fats",
+      "tags": [
+        "k1",
+        "raw",
+        "seafood"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 11.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 10083)",
+      "relations": {
+        "group": "parsley"
+      }
+    },
+    {
+      "id": "raw_vegetables_without_dressing_average",
+      "category": "oils_fats",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 17.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25616)",
+      "relations": {
+        "group": "dressing"
+      }
+    },
+    {
+      "id": "butter_bean_or_yellow_bean_canned_drained",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "dairy",
+        "high_sodium",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20063)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "chinese_cabbage_nappa_cabbage_sautedpan_fried_without_added_fat",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "cruciferous",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20221)",
+      "relations": {
+        "group": "cabbage"
+      }
+    },
+    {
+      "id": "butter_bean_or_yellow_bean_boiledcooked_in_water",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "dairy",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20318)",
+      "relations": {
+        "group": "beans"
+      }
+    },
+    {
+      "id": "spring_onion_sautedpan_fried_without_added_fat",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20323)",
+      "relations": {
+        "group": "onion"
+      }
+    },
+    {
+      "id": "sweet_pepper_red_sautedpan_fried_without_added_fat",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20329)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "sweet_pepper_green_sautedpan_fried_without_added_fat",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20330)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "potato_sautedpan_fried_with_fat",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4015)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "mashed_potatoes_made_from_flakes_reconstituted_with_whole_milk_with_added_fat",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.1,
+          "vitamin_k1_100g_mcg": 3.9,
+          "vitamin_k2_100g_mcg": 0.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4017)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "mashed_potatoes_prepared_with_milk_and_butter_no_added_salt",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "dairy",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0,
+          "vitamin_k1_100g_mcg": 1.9,
+          "vitamin_k2_100g_mcg": 0.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4018)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "potato_crisps_and_similar_plain_or_flavoured_reduced_fat",
+      "category": "oils_fats",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 4038)",
+      "relations": {
+        "group": "potato"
+      }
+    },
+    {
+      "id": "short_crust_pastryt_pure_butter_prepacked_cooked",
+      "category": "oils_fats",
+      "tags": [
+        "bakery",
+        "cooked",
+        "dairy",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23416)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "beef_minced_steak_5_fat_cooked",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "k1",
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 1.3,
+          "vitamin_k2_100g_mcg": 1.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 6251), Ciqual 2025 (Food Code: 6253), Ciqual 2025 (Food Code: 6255), Ciqual 2025 (Food Code: 6257)",
+      "relations": {
+        "group": "fat",
+        "related_ids": [
+          "beef_minced_steak_5_fat_raw"
+        ]
+      }
+    },
+    {
+      "id": "beef_minced_steak_5_fat_raw",
+      "category": "oils_fats",
+      "tags": [
+        "k1",
+        "k2",
+        "meat",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 5.2,
+          "vitamin_k1_100g_mcg": 0.3,
+          "vitamin_k2_100g_mcg": 4.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 6250), Ciqual 2025 (Food Code: 6252), Ciqual 2025 (Food Code: 6254), Ciqual 2025 (Food Code: 6256)",
+      "relations": {
+        "group": "fat",
+        "related_ids": [
+          "beef_minced_steak_5_fat_cooked"
+        ]
+      }
+    },
+    {
+      "id": "snail_in_parsley_butter_prepacked_cooked",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 10042)",
+      "relations": {
+        "group": "parsley"
+      }
+    },
+    {
+      "id": "european_pilchard_or_sardine_in_olive_oil_canned_drained",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "high_sodium",
+        "k1",
+        "legumes"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 26040)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "egg_scrambled_with_added_fat",
+      "category": "oils_fats",
+      "tags": [
+        "egg",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2,
+          "vitamin_k1_100g_mcg": 4.0,
+          "vitamin_k2_100g_mcg": 0.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 22502)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "egg_fried_without_added_fat",
+      "category": "oils_fats",
+      "tags": [
+        "cooked",
+        "egg",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 14.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 22505)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "milk_12_fat_uht_fortified_with_vitamins",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19038)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "hard_cheese_emmental_type_cheese_reduced_fat_from_cows_milk",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12116)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "feta_type_cheese_100_from_cows_milk_in_oil_and_spices",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12063)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "uncured_soft_cheese_spreadable_plain_in_tray_reduced_fat_from_cows_milk",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 12069)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "plant_based_spread_cheese_type_with_soybean_prepacked",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 23.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 1027)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "cream_and_similar_fat_content_unknown_average",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19402)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "cream_and_similar_fat_content_unknown_fluid_average",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19403)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "cream_and_similar_fat_content_unknownthick_or_semi_thick_average",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19404)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "cream_30_fat_thick_refrigerated",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19410)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "cream_30_fat_semi_thick_uht",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19415)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "cream_30_fat_liquid_uht",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19417)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "cream_12_25_fat_light_semi_thick_uht",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19430)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "cream_12_25_fat_light_thick_refrigerated",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 19431)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "brioche_pure_butter_plain_prepacked",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 7745)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "biscuit_shortbread_with_butter",
+      "category": "oils_fats",
+      "tags": [
+        "bakery",
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24049)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "butter_pound_cake_traditional",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1.5
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23080)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "butter_pound_cake_prepacked",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 23081)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "madeleine_cake_pure_butter_prepacked",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1",
+        "sweetened"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 24630)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "butter_80_fat_minimum_unsalted",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "high_sodium",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.7,
+          "vitamin_k1_100g_mcg": 5.7,
+          "vitamin_k2_100g_mcg": 15.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16400)",
+      "relations": {
+        "group": "butter",
+        "related_ids": [
+          "butter_80_fat_minimum_salted"
+        ]
+      }
+    },
+    {
+      "id": "butter_oil_or_concentrated_butter",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16401)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "butter_80_fat_minimum_half_salted",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 7.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16402)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "butter_80_fat_minimum_salted",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16403)",
+      "relations": {
+        "group": "butter",
+        "related_ids": [
+          "butter_80_fat_minimum_unsalted"
+        ]
+      }
+    },
+    {
+      "id": "butter_60_62_fat_light_half_salted",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16411)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "butter_unknown_fat_content_half_salted_average",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 6.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16413)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "butter_unknown_fat_content_unsalted_average",
+      "category": "oils_fats",
+      "tags": [
+        "dairy",
+        "high_sodium",
+        "k1",
+        "k2"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 20.7,
+          "vitamin_k1_100g_mcg": 5.7,
+          "vitamin_k2_100g_mcg": 15.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16414)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "cocoa_butter",
+      "category": "oils_fats",
+      "tags": [
+        "chocolate",
+        "dairy",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 24.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16030)",
+      "relations": {
+        "group": "butter"
+      }
+    },
+    {
+      "id": "frying_oil",
+      "category": "oils_fats",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16128)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "palm_oil_refined",
+      "category": "oils_fats",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16150)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "palm_kernel_fat",
+      "category": "oils_fats",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 24.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16200)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "vegetable_oil_average",
+      "category": "oils_fats",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 36.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 17001)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "rapeseed_oil",
+      "category": "oils_fats",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 71.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 17130)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "cottonseed_oil",
+      "category": "oils_fats",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 24.7
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 17170)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "linseed_oil",
+      "category": "oils_fats",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.3
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 17180)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "grapeseed_oil",
+      "category": "oils_fats",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 189.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 17350)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "sesame_oil",
+      "category": "oils_fats",
+      "tags": [
+        "k1",
+        "seeds"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 13.6
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 17400)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "soy_oil",
+      "category": "oils_fats",
+      "tags": [
+        "k1",
+        "legumes",
+        "soy"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 184.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 17420)",
+      "relations": {
+        "group": "soy"
+      }
+    },
+    {
+      "id": "spreadable_fat_41_fat_and_62_fat_unsalted_standard",
+      "category": "oils_fats",
+      "tags": [
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 16.2
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16591)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "spreadable_fat_41_fat_unsalted_standard",
+      "category": "oils_fats",
+      "tags": [
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 8.4
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16592)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "spreadable_fat_fat_unknown_unsalted_average",
+      "category": "oils_fats",
+      "tags": [
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 16601)",
+      "relations": {
+        "group": "fat"
+      }
+    },
+    {
+      "id": "mayonnaise_70_fat_min_prepacked",
+      "category": "oils_fats",
+      "tags": [
+        "high_sodium",
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 75.0
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11054)",
+      "relations": {
+        "group": "mayonnaise"
+      }
+    },
+    {
+      "id": "salad_dressing_50_75_of_oil_prepacked",
+      "category": "oils_fats",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 98.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11110)",
+      "relations": {
+        "group": "oil"
+      }
+    },
+    {
+      "id": "salad_dressing_prepacked",
+      "category": "oils_fats",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 99.8
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 11187)",
+      "relations": {
+        "group": "dressing"
+      }
+    },
+    {
+      "id": "broth_or_stock_meat_and_vegetables_with_fat_dehydrated",
+      "category": "oils_fats",
+      "tags": [
+        "k1"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 9.1
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 25970)",
+      "relations": {
+        "group": "fat"
       }
     }
   ]
