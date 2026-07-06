@@ -1460,5 +1460,33 @@
     "name": "Detská výživa, zeleninová s mliekom/smotanou a škrobovou výživou, od 12 mesiacov",
     "alternative_names": [],
     "description": "Detská výživa, zeleninová s mliekom/smotanou a škrobovou výživou, od 12 mesiacov."
+  },
+  "bryndza_cheese": {
+    "name": "Bryndza",
+    "alternative_names": [
+      "Ovčí syr bryndza"
+    ],
+    "description": "Tradičný slovenský slaný mäkký syr z ovčieho mlieka, fermentovaný a bohatý na vitamín K2."
+  },
+  "kefir_whole_milk": {
+    "name": "Kefír z plnotučného mlieka",
+    "alternative_names": [
+      "Kefírové mlieko"
+    ],
+    "description": "Kyslomliečny kvasený nápoj z plnotučného mlieka vyrábaný pomocou kefírových zŕn, obsahuje aktívne kultúry a vitamín K2."
+  },
+  "acidophilus_milk_whole": {
+    "name": "Acidofilné mlieko, plnotučné",
+    "alternative_names": [
+      "Acidko"
+    ],
+    "description": "Kyslomliečny nápoj z plnotučného kravského mlieka fermentovaný kultúrou Lactobacillus acidophilus."
+  },
+  "zincica_sheep_milk_whey": {
+    "name": "Žinčica",
+    "alternative_names": [
+      "Ovčia žinčica"
+    ],
+    "description": "Tradičný slovenský nápoj z ovčieho mlieka vyrobený zo srvátky vzniknutej pri výrobe ovčieho syra."
   }
 }

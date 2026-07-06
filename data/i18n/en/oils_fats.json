@@ -2975,5 +2975,12 @@
     "name": "Broth or stock, meat and vegetables, with fat, dehydrated",
     "alternative_names": [],
     "description": "Broth or stock, meat and vegetables, with fat, dehydrated."
+  },
+  "pumpkin_seed_oil": {
+    "name": "Pumpkin seed oil",
+    "alternative_names": [
+      "Cucurbita pepo seed oil"
+    ],
+    "description": "Cold-pressed oil from pumpkin seeds, rich in Vitamin K1 and natural antioxidants."
   }
 }

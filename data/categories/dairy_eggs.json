@@ -44,6 +44,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -69,6 +70,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -94,6 +96,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -344,6 +347,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -394,6 +398,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -419,6 +424,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -519,6 +525,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -914,6 +921,7 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "cooked",
+        "dairy",
         "k1"
       ],
       "relations": {
@@ -980,6 +988,7 @@
       "id": "cheese_brie",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -1011,6 +1020,7 @@
       "id": "cheese_colby",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -1073,6 +1083,7 @@
       "id": "cheese_edam",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -1104,6 +1115,7 @@
       "id": "cheese_fontina",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -1167,6 +1179,7 @@
       "id": "cheese_gruyere",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -1229,6 +1242,7 @@
       "id": "cheese_monterey",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -1378,6 +1392,7 @@
       "id": "cheese_parmesan_hard",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -1440,6 +1455,7 @@
       "id": "cheese_romano",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -1533,6 +1549,7 @@
       "id": "cheese_past_process_swiss",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -2462,6 +2479,7 @@
       "id": "egg_whl_ckd_poached",
       "category": "dairy_eggs",
       "tags": [
+        "cooked",
         "egg",
         "k2"
       ],
@@ -2487,6 +2505,7 @@
       "id": "egg_whl_ckd_scrmbld",
       "category": "dairy_eggs",
       "tags": [
+        "cooked",
         "egg",
         "k2"
       ],
@@ -2689,6 +2708,7 @@
       "id": "cheese_parmesan_shredded",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -2944,6 +2964,7 @@
       "id": "cheese_lofat_cheddar_or_colby",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -2975,6 +2996,7 @@
       "id": "cheese_low_sodium_cheddar_or_colby",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -3767,6 +3789,7 @@
       "id": "chard_swiss_ckd_bld_drnd_wosalt",
       "category": "dairy_eggs",
       "tags": [
+        "cooked",
         "dairy",
         "k2"
       ],
@@ -3943,6 +3966,7 @@
       "id": "chard_swiss_ckd_bld_drnd_wsalt",
       "category": "dairy_eggs",
       "tags": [
+        "cooked",
         "dairy",
         "k2"
       ],
@@ -5107,6 +5131,7 @@
       "id": "imitation_chs_american_or_cheddar_lo_chol",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -5312,6 +5337,7 @@
       "id": "cheese_american_cheddar_imitn",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -5395,6 +5421,7 @@
       "id": "cheese_parmesan_lo_na",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -5451,6 +5478,7 @@
       "id": "cheese_past_process_swiss_lofat",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -5507,6 +5535,7 @@
       "id": "cheese_past_process_cheddar_or_american_lo_na",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -5538,6 +5567,7 @@
       "id": "cheese_swiss_low_sodium",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k2"
       ],
@@ -6164,8 +6194,10 @@
       "id": "camembert_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6183,8 +6215,10 @@
       "id": "camembert_cheese_from_cows_milk_from_raw_milk_or_thermised_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k1",
+        "k2",
         "raw"
       ],
       "portions": [
@@ -6203,8 +6237,10 @@
       "id": "camembert_cheese_from_cows_milk_from_pasteurized_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6241,8 +6277,10 @@
       "id": "brie_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6260,8 +6298,10 @@
       "id": "brie_de_melun_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6507,8 +6547,10 @@
       "id": "blue_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6583,8 +6625,10 @@
       "id": "gruyere_cheese_france_protected_geographical_indication_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6602,8 +6646,10 @@
       "id": "gruyere_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6621,6 +6667,7 @@
       "id": "emmental_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k1",
         "k2"
@@ -6643,8 +6690,10 @@
       "id": "emmental_cheese_grated_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6662,8 +6711,10 @@
       "id": "parmesan_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6681,8 +6732,10 @@
       "id": "fontina_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6719,8 +6772,10 @@
       "id": "provolone_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6776,8 +6831,10 @@
       "id": "cheddar_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -6795,6 +6852,7 @@
       "id": "edam_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
         "k1",
         "k2"
@@ -6817,8 +6875,10 @@
       "id": "gouda_cheese_from_cows_milk",
       "category": "dairy_eggs",
       "tags": [
+        "aged_cheese",
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
@@ -7457,6 +7517,82 @@
         }
       ],
       "source": "Ciqual 2025 (Food Code: 20251), Ciqual 2025 (Food Code: 20249), Ciqual 2025 (Food Code: 20250)"
+    },
+    {
+      "id": "bryndza_cheese",
+      "category": "dairy_eggs",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.2
+        }
+      ],
+      "source": "Estimation based on similar fermented sheep milk cheeses (e.g. Feta)",
+      "tags": [
+        "dairy",
+        "k2"
+      ],
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "kefir_whole_milk",
+      "category": "dairy_eggs",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 4.8
+        }
+      ],
+      "source": "Estimation based on scientific literature for mesophilic fermented milk kefir",
+      "tags": [
+        "dairy",
+        "k2"
+      ],
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "acidophilus_milk_whole",
+      "category": "dairy_eggs",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 2.0
+        }
+      ],
+      "source": "Estimation based on fermented milk K2 content",
+      "tags": [
+        "dairy",
+        "k2"
+      ],
+      "relations": {
+        "group": "milk"
+      }
+    },
+    {
+      "id": "zincica_sheep_milk_whey",
+      "category": "dairy_eggs",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 3.0
+        }
+      ],
+      "source": "Estimation based on fermented sheep milk products",
+      "tags": [
+        "dairy",
+        "k2"
+      ],
+      "relations": {
+        "group": "milk"
+      }
     }
   ]
 }

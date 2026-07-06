@@ -92,6 +92,7 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "bakery",
+        "cooked",
         "dairy",
         "k2"
       ],
@@ -6945,6 +6946,7 @@
       "tags": [
         "cruciferous",
         "dairy",
+        "k1",
         "k2",
         "processed"
       ],
@@ -13112,6 +13114,7 @@
       "id": "tortilla_chips_lofat_bkd_wofat",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "k1",
         "processed"
       ],
@@ -13526,6 +13529,7 @@
       "category": "processed_prepared",
       "tags": [
         "bakery",
+        "cooked",
         "fast_food",
         "high_sodium",
         "k1",
@@ -13561,6 +13565,7 @@
       "category": "processed_prepared",
       "tags": [
         "bakery",
+        "cooked",
         "fast_food",
         "high_sodium",
         "k1",
@@ -13596,6 +13601,7 @@
       "category": "processed_prepared",
       "tags": [
         "bakery",
+        "cooked",
         "fast_food",
         "high_sodium",
         "k1",
@@ -13631,6 +13637,7 @@
       "category": "processed_prepared",
       "tags": [
         "bakery",
+        "cooked",
         "fast_food",
         "high_sodium",
         "k1",
@@ -14565,6 +14572,7 @@
       "category": "processed_prepared",
       "tags": [
         "bakery",
+        "cooked",
         "fast_food",
         "high_sodium",
         "k1",
@@ -14600,6 +14608,7 @@
       "category": "processed_prepared",
       "tags": [
         "bakery",
+        "cooked",
         "dairy",
         "fast_food",
         "high_sodium",
@@ -14637,6 +14646,7 @@
       "category": "processed_prepared",
       "tags": [
         "bakery",
+        "cooked",
         "fast_food",
         "high_sodium",
         "k1",
@@ -14671,6 +14681,7 @@
       "id": "digiorno_pizza_pepperoni_topping_chs_stuffed",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "fast_food",
         "high_sodium",
         "k1",
@@ -14706,6 +14717,7 @@
       "category": "processed_prepared",
       "tags": [
         "bakery",
+        "cooked",
         "fast_food",
         "high_sodium",
         "k1",
@@ -14740,6 +14752,7 @@
       "id": "digiorno_pizza_pepperoni_topping_thin_crispy",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "fast_food",
         "high_sodium",
         "k1",
@@ -14774,6 +14787,7 @@
       "id": "digiorno_pizza_supreme_topping_thin_crispy_cr",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "fast_food",
         "high_sodium",
         "k1",
@@ -16355,6 +16369,7 @@
       "id": "potato_chips_white_restructured_bkd",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "k1",
         "processed"
       ],
@@ -16386,6 +16401,7 @@
       "id": "babyfood_bkd_product_finger_snacks_crl",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "k1",
         "processed"
       ],
@@ -17067,6 +17083,7 @@
       "id": "snacks_tortilla_chips_lt",
       "category": "processed_prepared",
       "tags": [
+        "cooked",
         "k1",
         "processed"
       ],
@@ -18121,6 +18138,7 @@
       "category": "processed_prepared",
       "tags": [
         "bakery",
+        "cooked",
         "k1",
         "processed"
       ],
@@ -18555,6 +18573,7 @@
       "tags": [
         "bakery",
         "chocolate",
+        "cooked",
         "k1",
         "k2",
         "processed"
@@ -20276,6 +20295,23 @@
       "relations": {
         "group": "alcohol"
       }
+    },
+    {
+      "id": "cod_in_mayonnaise_salad",
+      "category": "processed_prepared",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 12.5
+        }
+      ],
+      "source": "Estimation based on cod and mayonnaise composition (vegetable oil content)",
+      "tags": [
+        "processed",
+        "seafood",
+        "k1"
+      ]
     }
   ]
 }

@@ -1461,5 +1461,33 @@
     "name": "Baby meal, vegetable with milk/cream and starchy food, from 12 months",
     "alternative_names": [],
     "description": "Baby meal, vegetable with milk/cream and starchy food, from 12 months."
+  },
+  "bryndza_cheese": {
+    "name": "Bryndza cheese",
+    "alternative_names": [
+      "Slovak sheep cheese"
+    ],
+    "description": "Traditional Slovak salted soft sheep's milk cheese, fermented and rich in Vitamin K2."
+  },
+  "kefir_whole_milk": {
+    "name": "Kefir, whole milk",
+    "alternative_names": [
+      "Fermented milk drink"
+    ],
+    "description": "Fermented milk drink from whole milk produced using kefir grains, containing active cultures and Vitamin K2."
+  },
+  "acidophilus_milk_whole": {
+    "name": "Acidophilus milk, whole",
+    "alternative_names": [
+      "Acidophilus drink"
+    ],
+    "description": "Fermented milk drink from whole cow's milk fermented with Lactobacillus acidophilus culture."
+  },
+  "zincica_sheep_milk_whey": {
+    "name": "Žinčica (sheep milk whey drink)",
+    "alternative_names": [
+      "Zincica"
+    ],
+    "description": "Traditional Slovak sheep's milk drink made from whey during sheep cheese production."
   }
 }

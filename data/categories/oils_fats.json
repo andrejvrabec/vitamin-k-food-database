@@ -19,7 +19,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "relations": {
         "group": "beef"
@@ -43,6 +44,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -69,7 +71,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "relations": {
         "group": "beef"
@@ -93,6 +96,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -119,7 +123,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "relations": {
         "group": "fat"
@@ -143,6 +148,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -168,6 +174,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -194,7 +201,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "relations": {
         "group": "beef"
@@ -218,6 +226,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -244,7 +253,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "relations": {
         "group": "beef"
@@ -269,7 +279,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "relations": {
         "group": "beef"
@@ -293,6 +304,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -318,8 +330,11 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "beef"
@@ -344,7 +359,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "relations": {
         "group": "beef"
@@ -369,7 +385,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "relations": {
         "group": "beef"
@@ -394,7 +411,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "relations": {
         "group": "beef"
@@ -418,8 +436,11 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "beef"
@@ -522,8 +543,11 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "raw",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "fat"
@@ -733,7 +757,8 @@
         "cooked",
         "high_sodium",
         "k1",
-        "legumes"
+        "legumes",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "oil"
@@ -783,7 +808,8 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "oil"
@@ -807,7 +833,8 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "oil"
@@ -832,7 +859,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "oil"
@@ -858,7 +886,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "soy"
@@ -883,7 +912,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "oil"
@@ -1012,7 +1042,8 @@
         "high_sodium",
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "soy"
@@ -1136,7 +1167,8 @@
       "tags": [
         "cooked",
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "relations": {
         "group": "oil"
@@ -1326,7 +1358,9 @@
       "category": "oils_fats",
       "tags": [
         "dairy",
-        "k2"
+        "k1",
+        "k2",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -1357,9 +1391,11 @@
       "category": "oils_fats",
       "tags": [
         "dairy",
+        "k1",
         "k2",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -1865,7 +1901,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -1929,7 +1966,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -1959,7 +1997,8 @@
       "id": "oil_pnut_salad_or_cooking",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -1989,7 +2028,8 @@
       "id": "oil_cocnt",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2019,7 +2059,8 @@
       "id": "oil_palm",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2050,7 +2091,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2080,7 +2122,8 @@
       "id": "veg_oil_sprd_unspec_oils_approx_37_fat_w_salt",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2110,7 +2153,8 @@
       "id": "salad_drsng_home_recipe_vinegaroil",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2227,7 +2271,8 @@
       "id": "oil_cttnsd_salad_or_cooking",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2257,7 +2302,8 @@
       "id": "oil_safflower_salad_or_cooking_hi_oleic",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2287,7 +2333,8 @@
       "id": "vegetable_oil_palm_kernel",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2317,7 +2364,8 @@
       "id": "oil_walnut",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2347,7 +2395,8 @@
       "id": "oil_almond",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2379,7 +2428,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2567,7 +2617,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2695,7 +2746,8 @@
       "id": "oil_oat",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2860,7 +2912,8 @@
       "id": "margarine_like_veg_oil_sprd_60_fat_stk_w_salt",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2890,7 +2943,8 @@
       "id": "margarine_like_veg_oil_sprd_60_fat_sticktubbo",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -2950,7 +3004,8 @@
       "id": "margarine_like_veg_oil_sprd_fat_free_liq_w_sa",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3050,7 +3105,8 @@
       "id": "margarine_like_veg_oil_sprd_fat_free_tub",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3080,7 +3136,8 @@
       "id": "margarine_like_veg_oil_sprd_20_fat_w_salt",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3225,7 +3282,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3255,7 +3313,8 @@
       "id": "oil_industrial_canola_w_antifoaming_agent",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3285,7 +3344,8 @@
       "id": "oil_industrial_canola_for_salads_woks_lt_fryi",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3315,7 +3375,8 @@
       "id": "oil_indus_canola_oil_for_deep_fat_frying",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3345,7 +3406,8 @@
       "id": "oil_industrial_cocnt",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3409,7 +3471,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3474,7 +3537,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3506,7 +3570,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3538,7 +3603,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3594,7 +3660,8 @@
       "id": "oil_industrial_palm_kernel_confection_fat",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3624,7 +3691,8 @@
       "id": "oil_industrial_cocnt_confection_fat_ice_crm_c",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3654,7 +3722,8 @@
       "id": "oil_industrial_palm_kernel_for_whipped_toppin",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3686,7 +3755,8 @@
       "tags": [
         "k1",
         "processed",
-        "sweetened"
+        "sweetened",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3716,7 +3786,8 @@
       "id": "oil_industrial_palm_palm_kernel_filling_fat",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3746,7 +3817,8 @@
       "id": "oil_industrial_palm_kernel_filling_fat",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3778,7 +3850,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3810,7 +3883,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3868,7 +3942,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -3898,7 +3973,8 @@
       "id": "usda_cmdty_fd_oil_veg_lo_saturated_fat",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4074,7 +4150,8 @@
       "id": "veg_oil_sprd_37_fat_unspec_oils_w_salt_w_adde",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4128,7 +4205,8 @@
       "id": "veg_oil_sprd_60_fat_stk_w_salt_w_added_vitami",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4152,7 +4230,8 @@
       "id": "veg_oil_sprd_sticktubbottle_60_fat_w_added_vi",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4182,7 +4261,8 @@
       "id": "veg_oil_sprd_60_fat_sticktubbottle_wo_salt_wv",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4206,7 +4286,8 @@
       "id": "oil_industrial_canola_hi_oleic",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4238,7 +4319,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4270,7 +4352,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4300,7 +4383,8 @@
       "id": "oil_industrial_cttnsd_fully_hydr",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4355,7 +4439,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4385,9 +4470,11 @@
       "id": "chicken_broilers_or_fryers_fat_raw",
       "category": "oils_fats",
       "tags": [
+        "k1",
         "k2",
         "meat",
-        "raw"
+        "raw",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4527,7 +4614,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4557,7 +4645,8 @@
       "id": "cashew_nuts_oil_rstd_wosalt",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4587,7 +4676,8 @@
       "id": "mixed_nuts_oil_rstd_wpnuts_wosalt",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4618,7 +4708,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4648,7 +4739,8 @@
       "id": "cashew_nuts_oil_rstd_wsalt",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4709,7 +4801,8 @@
       "id": "nuts_mxd_nuts_oil_rstd_w_pnuts_w_salt_added",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4771,6 +4864,7 @@
       "id": "beef_rtl_cuts_fat_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4802,6 +4896,7 @@
       "id": "beef_brisket_flat_half_ln_fat_18_fat_sel_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4859,6 +4954,7 @@
       "id": "beef_flank_steak_ln_fat_0_fat_choic_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4890,8 +4986,11 @@
       "id": "beef_flank_steak_ln_fat_0_fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -4947,6 +5046,7 @@
       "id": "beef_flank_steak_ln_0_fat_choic_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4978,7 +5078,9 @@
       "id": "bf_rib_eye_sml_end_ln_ft_0_fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "cooked",
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -5002,8 +5104,11 @@
       "id": "beef_rib_eye_sml_end_ln_0fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -5033,6 +5138,7 @@
       "id": "beef_rib_shortribs_lnfat_choic_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5064,8 +5170,11 @@
       "id": "beef_rnd_full_cut_ln_14fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -5095,6 +5204,7 @@
       "id": "beef_brisket_flat_half_ln_fat_0_fat_choic_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5120,6 +5230,7 @@
       "id": "beef_chuck_und_bl_pot_rst_bnless_ln_0_fat_all",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5145,6 +5256,7 @@
       "id": "beef_chk_und_bl_pot_rst_bnless_ln_0_fat_all_g",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5177,7 +5289,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -5208,7 +5321,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -5238,6 +5352,7 @@
       "id": "beef_comp_of_rtl_cuts_lnfat_0fat_all_grds_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5269,6 +5384,7 @@
       "id": "beef_comp_of_rtl_cuts_ln_0_fat_all_grds_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5300,6 +5416,7 @@
       "id": "beef_brisket_whl_lnfat_0fat_all_grds_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5331,6 +5448,7 @@
       "id": "beef_brisket_whl_ln_0fat_all_grds_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5362,6 +5480,7 @@
       "id": "beef_brisket_flat_half_ln_0fat_all_grds_ckd_b",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5393,6 +5512,7 @@
       "id": "beef_chuck_arm_pot_rst_lnfat_0fat_all_grds_ck",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5424,6 +5544,7 @@
       "id": "beef_chuck_arm_pot_rst_ln_0fat_choic_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5455,6 +5576,7 @@
       "id": "beef_chuck_arm_pot_rst_ln_0fat_sel_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5486,6 +5608,7 @@
       "id": "beef_chck_undr_blde_pot_rst_bnls_ln_fat_0_chc",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5517,6 +5640,7 @@
       "id": "beef_chuck_blade_rst_ln_0fat_all_grds_ckd_brs",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5548,6 +5672,7 @@
       "id": "beef_chk_under_blade_pot_rst_bnless_ln_0_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5573,6 +5698,7 @@
       "id": "beef_rib_lrg_end_ln_0fat_all_grds_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5604,8 +5730,11 @@
       "id": "beef_rib_sml_end_lnfat_0fat_all_grds_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -5635,8 +5764,11 @@
       "id": "beef_rib_sml_end_ln_0fat_all_grds_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -5666,6 +5798,7 @@
       "id": "beef_rnd_bttm_rnd_steak_ln_fat_0_fat_all_grds",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5697,6 +5830,7 @@
       "id": "beef_rnd_bttm_rnd_steak_ln_fat_0_fat_choic_ck",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5722,6 +5856,7 @@
       "id": "beef_rnd_bttm_rnd_rst_ln_0_fat_all_grds_ckd_r",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5753,6 +5888,7 @@
       "id": "beef_bottom_round_roast_lean_only_0_fat_choic",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5784,6 +5920,7 @@
       "id": "beef_rnd_bttm_rnd_rst_ln_0_fat_sel_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5815,6 +5952,7 @@
       "id": "beef_rnd_eye_of_rnd_rst_ln_fat_0_fat_all_grds",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5846,6 +5984,7 @@
       "id": "beef_rnd_tip_rnd_rst_ln_0_fat_choic_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5871,6 +6010,7 @@
       "id": "beef_rnd_tip_rnd_rst_ln_0_fat_sel_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5896,6 +6036,7 @@
       "id": "beef_rnd_top_rnd_lnfat_0fat_all_grds_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5927,8 +6068,11 @@
       "id": "beef_tenderloin_steak_ln_fat_0_fat_all_grds_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -5958,8 +6102,11 @@
       "id": "beef_tenderloin_steak_ln_0_fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -5989,8 +6136,11 @@
       "id": "beef_tenderloin_steak_ln_0_fat_sel_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -6020,8 +6170,11 @@
       "id": "beef_shrt_loin_top_loin_stk_ln_fat_0_fat_all",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -6051,8 +6204,11 @@
       "id": "beef_shrt_loin_top_loin_steak_ln_fat_0_fat_se",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -6076,8 +6232,11 @@
       "id": "beef_top_sirloin_steak_ln_fat_0_fat_all_grds",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -6107,8 +6266,11 @@
       "id": "beef_top_sirloin_steak_ln_0_fat_all_grds_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -6138,8 +6300,11 @@
       "id": "beef_top_sirloin_steak_ln_0_fat_choic_ckd_brl",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -6221,8 +6386,11 @@
       "id": "beef_rib_eye_sml_end_ln_0_fat_sel_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -6246,6 +6414,7 @@
       "id": "beef_ground_70_ln_meat_30_fat_crumbles_ckd_pa",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6277,8 +6446,11 @@
       "id": "beef_ground_70_ln_meat_30_fat_patty_ckd_pan_b",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -6340,6 +6512,7 @@
       "id": "beef_shldr_top_blade_steak_bnless_ln_0_fat_al",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6365,6 +6538,7 @@
       "id": "beef_shldr_top_blade_steak_bnless_ln_0_fat_ch",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6390,6 +6564,7 @@
       "id": "beef_shldr_top_blade_steak_bnless_ln_0_fat_se",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6416,7 +6591,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -6441,7 +6617,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -6465,6 +6642,7 @@
       "id": "beef_shldr_top_blade_stk_bnles_ln_fat_0_all_g",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6491,7 +6669,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -6522,7 +6701,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -6552,6 +6732,7 @@
       "id": "beef_shldr_top_blde_stk_bns_ln_fat_0_fat_choi",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6578,7 +6759,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -6603,7 +6785,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -6628,7 +6811,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -6658,6 +6842,7 @@
       "id": "beef_brisket_flat_half_lnfat_18fat_all_grds_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6690,7 +6875,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -6752,6 +6938,7 @@
       "id": "beef_chuck_arm_pot_rst_lnfat_18fat_choic_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6783,6 +6970,7 @@
       "id": "beef_chuck_blade_rst_lnfat_18fat_all_grds_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6814,6 +7002,7 @@
       "id": "beef_chuck_blade_rst_lnfat_18fat_choic_ckd_br",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6845,6 +7034,7 @@
       "id": "beef_chk_eye_rst_bnl_americas_bf_rst_ln_0_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6870,6 +7060,7 @@
       "id": "beef_rib_whl_lnfat_18fat_choic_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6901,6 +7092,7 @@
       "id": "beef_rib_lrg_end_lnfat_18fat_all_grds_ckd_rst",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6964,6 +7156,7 @@
       "id": "beef_rib_sml_end_lnfat_18fat_all_grds_ckd_br",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -7027,8 +7220,11 @@
       "id": "beef_rib_sml_end_lnfat_18fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -7090,8 +7286,11 @@
       "id": "beef_rib_sml_end_lnfat_18fat_sel_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -7121,6 +7320,7 @@
       "id": "beef_shldr_top_blde_stk_bnls_ln_fat_0_fat_sel",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -7147,7 +7347,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -7203,8 +7404,11 @@
       "id": "beef_rnd_full_cut_lnfat_18fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -7235,7 +7439,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -7297,6 +7502,7 @@
       "id": "beef_rnd_bttm_rnd_rst_ln_fat_18_fat_choic_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -7328,6 +7534,7 @@
       "id": "beef_rnd_bttm_rnd_steak_ln_fat_18_fat_sel_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -7359,6 +7566,7 @@
       "id": "beef_rnd_bttm_rnd_rst_ln_fat_18_fat_sel_ckd_r",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -7391,7 +7599,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -7453,6 +7662,7 @@
       "id": "beef_rnd_eye_of_rnd_rst_ln_fat_18_fat_choic_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -7484,6 +7694,7 @@
       "id": "beef_rnd_eye_of_rnd_rst_ln_fat_18_fat_sel_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -7516,7 +7727,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -7540,6 +7752,7 @@
       "id": "beef_rnd_top_rnd_ln_18_fat_choic_ckd_pan_frie",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -7635,8 +7848,11 @@
       "id": "beef_rnd_top_rnd_steak_ln_fat_18_fat_choic_ck",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -7666,6 +7882,7 @@
       "id": "beef_rnd_top_rnd_lnfat_18fat_choic_ckd_pan_fr",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -7729,8 +7946,11 @@
       "id": "beef_rnd_top_rnd_steak_ln_fat_18_fat_sel_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -7761,7 +7981,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -7792,7 +8013,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -7823,7 +8045,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -7854,7 +8077,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -7916,8 +8140,11 @@
       "id": "beef_tenderloin_steak_ln_fat_18_fat_choic_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -7979,6 +8206,7 @@
       "id": "beef_tenderloin_rst_ln_fat_18_fat_prime_ckd_r",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -8011,7 +8239,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -8042,7 +8271,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -8104,8 +8334,11 @@
       "id": "beef_flank_steak_ln_fat_0_fat_all_grds_ckd_br",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -8130,7 +8363,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -8154,6 +8388,7 @@
       "id": "beef_bttm_sirloin_tri_tip_rst_ln_fat_0_fat_ch",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -8256,6 +8491,7 @@
       "id": "beef_chuck_shrt_ribs_bnless_ln_0_fat_sel_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -8281,6 +8517,7 @@
       "id": "bf_loin_bttm_sirloin_butt_tri_tip_ln_0_fat_al",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -8337,7 +8574,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -8367,7 +8605,8 @@
       "id": "sardine_atlantic_cnd_in_oil_drnd_sol_wbone",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -8397,8 +8636,10 @@
       "id": "tuna_lt_cnd_in_oil_drnd_sol",
       "category": "oils_fats",
       "tags": [
+        "k1",
         "k2",
-        "seafood"
+        "seafood",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -8729,6 +8970,7 @@
       "id": "lamb_dom_comp_of_rtl_cuts_lnfat_14fat_choic_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -8760,6 +9002,7 @@
       "id": "lamb_dom_foreshank_lnfat_14fat_choic_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -8791,6 +9034,7 @@
       "id": "lamb_dom_leg_whl_lnfat_14fat_choic_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -8822,6 +9066,7 @@
       "id": "lamb_dom_leg_whl_ln_14fat_choic_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -8853,8 +9098,11 @@
       "id": "lamb_dom_loin_lnfat_14fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -8884,6 +9132,7 @@
       "id": "lamb_dom_loin_lnfat_14fat_choic_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -8915,8 +9164,11 @@
       "id": "lamb_dom_loin_ln_14fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -8946,8 +9198,11 @@
       "id": "lamb_dom_rib_lnfat_14fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -8977,8 +9232,11 @@
       "id": "lamb_dom_rib_ln_14fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -9008,9 +9266,11 @@
       "id": "lamb_dom_shldr_whl_lnfat_14fat_choic_raw",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
         "meat",
-        "raw"
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -9040,8 +9300,11 @@
       "id": "lamb_dom_shldr_whl_lnfat_14fat_choic_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -9071,8 +9334,11 @@
       "id": "lamb_dom_shldr_whl_ln_14fat_choic_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -9102,8 +9368,11 @@
       "id": "lamb_dom_shldr_whl_ln_14fat_choic_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -9133,8 +9402,11 @@
       "id": "lamb_dom_shldr_blade_lnfat_14fat_choic_ckd_br",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -9164,6 +9436,7 @@
       "id": "lamb_dom_cubed_for_stew_ln_14fat_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -9195,8 +9468,11 @@
       "id": "lamb_nz_imp_frz_loin_lnfat_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -9226,6 +9502,7 @@
       "id": "lamb_nz_imp_frz_rib_lnfat_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -9257,6 +9534,7 @@
       "id": "veal_comp_of_rtl_cuts_lnfat_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -9320,6 +9598,7 @@
       "id": "veal_leg_lnfat_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -9384,6 +9663,7 @@
       "id": "veal_leg_lnfat_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -9447,6 +9727,7 @@
       "id": "veal_loin_lnfat_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -9478,6 +9759,7 @@
       "id": "veal_loin_lnfat_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -9509,6 +9791,7 @@
       "id": "veal_rib_lnfat_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -9540,9 +9823,11 @@
       "id": "veal_shldr_whl_lnfat_raw",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
         "meat",
-        "raw"
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -9572,8 +9857,11 @@
       "id": "veal_shldr_whl_lnfat_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -9635,6 +9923,7 @@
       "id": "veal_shldr_blade_lnfat_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -9698,6 +9987,7 @@
       "id": "veal_sirloin_lnfat_ckd_rstd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -10190,7 +10480,8 @@
       "category": "oils_fats",
       "tags": [
         "cooked",
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -10246,7 +10537,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -10270,7 +10562,8 @@
       "id": "bf_chk_clod_shldr_tender_medallion_ln_fat_0_f",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -10294,6 +10587,7 @@
       "id": "bf_chk_clod_shdr_tndr_med_ln_fat_0_fat_ch_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -10326,7 +10620,8 @@
       "tags": [
         "k1",
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -10350,6 +10645,7 @@
       "id": "bf_chk_shldr_clod_top_cntr_stk_ln_fat_0_fat_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -10380,7 +10676,8 @@
       "id": "bf_chk_shldr_clod_top_blade_steak_ln_fat_0_fa",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -10404,6 +10701,7 @@
       "id": "bf_chk_clod_top_blade_steak_ln_fat_0_fat_ch_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -10434,6 +10732,7 @@
       "id": "bf_rnd_knuckle_tip_cntr_stk_ln_fat_0_fat_choi",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -10458,7 +10757,8 @@
       "id": "bf_chk_cld_shldr_tndr_medallion_ln_fat_0_fat",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -10482,6 +10782,7 @@
       "id": "bf_chk_cld_shdr_tndr_med_ln_fat_0_fat_all_grd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -10512,7 +10813,8 @@
       "id": "bf_chuck_clod_top_cntr_steak_ln_fat_0_fat_all",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -10537,7 +10839,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -10561,6 +10864,7 @@
       "id": "bf_chk_clod_shldr_tender_med_ln_fat_0_fat_se",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -10617,6 +10921,7 @@
       "id": "beef_chuck_eye_country_style_ribs_bnless_ln_0",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -10642,6 +10947,7 @@
       "id": "bf_chk_eye_cntry_stl_ribs_bnls_ln_0_fat_all_g",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -10667,7 +10973,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -10691,6 +10998,7 @@
       "id": "beef_chuck_eye_steak_bnless_ln_0_fat_choic_ck",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -10742,6 +11050,7 @@
       "id": "beef_shldr_pot_rst_bnless_ln_0_fat_choic_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -10767,6 +11076,7 @@
       "id": "beef_chuck_mock_tender_steak_bnless_ln_0_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -10792,6 +11102,7 @@
       "id": "beef_chk_mock_tender_stk_bnls_ln_0_fat_all_gr",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -10817,6 +11128,7 @@
       "id": "beef_chuck_for_stew_ln_fat_all_grds_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -10842,6 +11154,7 @@
       "id": "beef_chuck_for_stew_ln_fat_sel_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -10919,6 +11232,7 @@
       "id": "beef_chuck_und_bl_steak_bnls_ln_0_fat_all_grd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -10944,8 +11258,11 @@
       "id": "beef_chk_und_bld_pot_rst_bnl_ln_fat_0_fat_all",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -10969,6 +11286,7 @@
       "id": "beef_rib_eye_stk_bnles_lip_on_ln_18_fat_all_g",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -10994,6 +11312,7 @@
       "id": "beef_rib_eye_rst_bone_in_lip_on_ln_18_fat_cho",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11020,7 +11339,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -11050,6 +11370,7 @@
       "id": "beef_chk_und_bl_cntr_stk_bnl_den_cut_ln_fat_a",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11075,6 +11396,7 @@
       "id": "beef_chk_undbl_cntr_stk_bnl_den_ct_lnfat_0_ft",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11125,6 +11447,7 @@
       "id": "beef_chk_eye_rst_bnls_a_bf_rst_ln_fat_0_all_g",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11200,6 +11523,7 @@
       "id": "beef_chk_mock_tndr_stk_bnl_ln_fat_0_fat_all_g",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11250,6 +11574,7 @@
       "id": "beef_chk_mock_ten_stk_bnl_ln_fat_0_fat_all_gr",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11276,7 +11601,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -11300,6 +11626,7 @@
       "id": "beef_chuck_shrt_ribs_bnless_ln_fat_0_fat_all",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11325,6 +11652,7 @@
       "id": "beef_chk_eye_ctry_style_ribs_bnl_ln_fat_0_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11350,6 +11678,7 @@
       "id": "beef_chk_eye_cntry_styl_ribs_bnl_ln_fat_0_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11375,6 +11704,7 @@
       "id": "beef_chk_eye_cntry_style_ribs_bnl_ln_fat_0_fa",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11400,6 +11730,7 @@
       "id": "beef_chuck_eye_steak_bnless_ln_fat_0_fat_all",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11425,6 +11756,7 @@
       "id": "beef_rib_eye_steak_bnles_lip_on_ln_18_fat_cho",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11450,6 +11782,7 @@
       "id": "beef_rib_eye_steak_bnless_lip_on_ln_18_fat_se",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11476,7 +11809,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -11507,7 +11841,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -11538,7 +11873,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -11568,6 +11904,7 @@
       "id": "beef_rib_eye_steak_bone_in_lip_on_ln_18_fat_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11593,6 +11930,7 @@
       "id": "beef_rib_eye_steak_bone_in_lip_on_ln_18_fat_s",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11618,6 +11956,7 @@
       "id": "beef_rib_eye_rst_bnless_lip_on_ln_18_fat_all",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11643,6 +11982,7 @@
       "id": "beef_plate_stk_bnle_insde_skrt_ln_0_fat_all_g",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11669,7 +12009,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -11693,6 +12034,7 @@
       "id": "beef_plate_stk_bnles_inside_skirt_ln_0_fat_ch",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11718,6 +12060,7 @@
       "id": "beef_plate_stk_bnles_otsde_skirt_ln_0_fat_all",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11743,6 +12086,7 @@
       "id": "beef_rib_eye_steak_bnless_lip_off_ln_0_fat_al",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11768,6 +12112,7 @@
       "id": "beef_rib_eye_steak_bnless_lip_off_ln_0_fat_ch",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11793,6 +12138,7 @@
       "id": "beef_rib_back_ribs_bone_in_ln_0_fat_all_grds",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11844,6 +12190,7 @@
       "id": "beef_rib_eye_stk_bne_in_lip_on_ln_ft_18_fat_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11869,6 +12216,7 @@
       "id": "beef_rib_eye_rst_bne_in_lip_on_ln_fat_18_ft_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11895,7 +12243,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -11925,6 +12274,7 @@
       "id": "beef_rib_eye_steak_bnls_lip_on_ln_fat_18_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11950,6 +12300,7 @@
       "id": "beef_rib_eye_stk_bnls_lip_on_ln_fat_18_fat_se",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -11975,6 +12326,7 @@
       "id": "beef_rib_eye_rst_bnles_lip_on_ln_fat_18_fat_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12062,6 +12414,7 @@
       "id": "beef_plte_stk_bnls_insd_skrt_ln_fat_0_fat_all",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12087,6 +12440,7 @@
       "id": "beef_plate_stk_bnlss_insde_skrt_ln_fat_0_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12112,6 +12466,7 @@
       "id": "beef_plate_stk_bnles_insde_skrt_ln_fat_0_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12187,6 +12542,7 @@
       "id": "beef_ground_unspec_fat_content_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12212,6 +12568,7 @@
       "id": "beef_plte_stk_bnls_outsd_skrt_ln_fat_0_ft_al",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12237,6 +12594,7 @@
       "id": "beef_plate_stk_bnls_outsd_skrt_ln_fat_0_ft_ch",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12262,6 +12620,7 @@
       "id": "beef_plate_stk_bnls_otsde_skrt_ln_fat_0_fat_s",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12288,7 +12647,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -12337,6 +12697,7 @@
       "id": "beef_rib_eye_stk_bnls_lip_of_ln_fat_0_ft_al_g",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12362,6 +12723,7 @@
       "id": "beef_rib_eye_steak_bnls_lip_off_ln_fat_0_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12387,6 +12749,7 @@
       "id": "beef_rib_eye_stek_bnles_lip_off_ln_fat_0_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12437,6 +12800,7 @@
       "id": "beef_loin_top_sirlin_petite_rst_bnls_ln_0_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12493,6 +12857,7 @@
       "id": "beef_loin_top_sirln_cap_stk_bnls_ln_18_fat_al",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12518,6 +12883,7 @@
       "id": "beef_loin_top_sirlon_cap_stk_bnls_ln_18_fat_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12543,6 +12909,7 @@
       "id": "beef_loin_top_sirloin_cap_stek_bnls_ln_18_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12569,7 +12936,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -12593,6 +12961,7 @@
       "id": "beef_top_loin_filet_bnless_ln_18_fat_all_grds",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12618,6 +12987,7 @@
       "id": "beef_top_loin_petite_rst_bnlss_ln_18_fat_all",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12643,6 +13013,7 @@
       "id": "beef_top_loin_petite_rst_bnless_ln_18_fat_cho",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12669,7 +13040,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -12700,7 +13072,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -12730,6 +13103,7 @@
       "id": "beef_loin_top_sirloin_filet_bnless_ln_0_fat_c",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12755,6 +13129,7 @@
       "id": "beef_loin_top_sirloin_filet_bnless_ln_0_fat_s",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12780,6 +13155,7 @@
       "id": "beef_loin_top_sirlon_ptit_rst_bls_ln_0_fat_al",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12805,6 +13181,7 @@
       "id": "beef_loin_top_sirloin_petite_rst_bnls_ln_0_fa",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12831,7 +13208,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -12862,7 +13240,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -12893,7 +13272,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -12923,6 +13303,7 @@
       "id": "beef_ribeye_cap_steak_bnless_ln_0_fat_all_grd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12974,6 +13355,7 @@
       "id": "beef_ribeye_filet_bnless_ln_0_fat_choic_ckd_g",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -12999,6 +13381,7 @@
       "id": "beef_ribeye_petite_rst_bnless_ln_0_fat_all_gr",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -13024,6 +13407,7 @@
       "id": "beef_loin_top_srln_cap_stk_bls_ln_fat_18_fat",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -13075,7 +13459,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -13099,6 +13484,7 @@
       "id": "beef_top_loin_pet_rst_bnls_ln_fat_18_fat_al_g",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -13124,6 +13510,7 @@
       "id": "beef_top_loin_peti_rst_bnls_ln_fat_18_fat_cho",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -13180,6 +13567,7 @@
       "id": "beef_shldr_steak_bnless_ln_fat_0_fat_choic_ck",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -13211,8 +13599,11 @@
       "id": "beef_ground_95_ln_meat_5_fat_patty_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -13242,6 +13633,7 @@
       "id": "beef_ground_95_ln_meat_5_fat_loaf_ckd_bkd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -13370,7 +13762,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -13400,8 +13793,11 @@
       "id": "beef_rnd_top_rnd_steak_ln_18_fat_sel_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -13464,7 +13860,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -13590,6 +13987,7 @@
       "id": "beef_rnd_bttm_rnd_rst_ln_18_fat_all_grds_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -13621,8 +14019,11 @@
       "id": "beef_rnd_top_rnd_steak_ln_18_fat_all_grds_ckd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -13876,6 +14277,7 @@
       "id": "beef_brisket_flat_half_ln_18_fat_sel_ckd_brsd",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -13972,7 +14374,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -13996,6 +14399,7 @@
       "id": "beef_bttm_sirloin_tri_tip_rst_ln_0_fat_sel_ck",
       "category": "oils_fats",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -14022,7 +14426,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -14098,8 +14503,11 @@
       "id": "beef_flank_steak_ln_0_fat_all_grds_ckd_brld",
       "category": "oils_fats",
       "tags": [
+        "cooked",
+        "k1",
         "k2",
-        "meat"
+        "meat",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -14124,7 +14532,8 @@
       "category": "oils_fats",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -14345,7 +14754,8 @@
       "id": "crmy_drsg_mde_w_sour_crm_andor_btrmlk_oil_red",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -14711,7 +15121,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -14741,7 +15152,8 @@
       "id": "margarine_like_veg_oil_sprd_stk_or_tub_swtnd",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -15504,7 +15916,8 @@
         "cooked",
         "high_sodium",
         "k1",
-        "legumes"
+        "legumes",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -15603,7 +16016,8 @@
       "category": "oils_fats",
       "tags": [
         "dairy",
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16083,7 +16497,8 @@
       "id": "frying_oil",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16101,7 +16516,8 @@
       "id": "palm_oil_refined",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16137,7 +16553,8 @@
       "id": "vegetable_oil_average",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16156,7 +16573,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16175,7 +16593,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16194,7 +16613,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16213,7 +16633,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16232,7 +16653,8 @@
       "category": "oils_fats",
       "tags": [
         "k1",
-        "seeds"
+        "seeds",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16252,7 +16674,8 @@
       "tags": [
         "k1",
         "legumes",
-        "soy"
+        "soy",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16346,7 +16769,8 @@
       "id": "salad_dressing_50_75_of_oil_prepacked",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "vegetable_oils"
       ],
       "portions": [
         {
@@ -16394,6 +16818,25 @@
       "source": "Ciqual 2025 (Food Code: 25970)",
       "relations": {
         "group": "fat"
+      }
+    },
+    {
+      "id": "pumpkin_seed_oil",
+      "category": "oils_fats",
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 112.0
+        }
+      ],
+      "source": "Scientific literature for pumpkin seed oil",
+      "tags": [
+        "vegetable_oils",
+        "k1"
+      ],
+      "relations": {
+        "group": "oil"
       }
     }
   ]

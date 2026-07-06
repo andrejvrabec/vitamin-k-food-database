@@ -290,6 +290,7 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -571,6 +572,7 @@
       "id": "lima_bns_immat_seeds_ckd_bld_drnd_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -627,6 +629,7 @@
       "id": "lima_bns_immat_seeds_frz_fordhook_ckd_bld_drn",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -690,6 +693,7 @@
       "id": "mung_bns_mature_seeds_sprouted_ckd_bld_drnd_w",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -775,6 +779,7 @@
       "id": "beans_snap_grn_ckd_bld_drnd_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -893,6 +898,7 @@
       "id": "beans_snap_grn_frz_ckd_bld_drnd_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -944,6 +950,7 @@
       "id": "cowpeas_immat_seeds_ckd_bld_drnd_wo_salt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -970,6 +977,7 @@
       "id": "cowpeas_immtre_seeds_frz_ckd_bld_drnd_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -1176,6 +1184,7 @@
       "id": "pigeonpeas_immat_seeds_ckd_bld_drnd_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -1202,6 +1211,7 @@
       "id": "pumpkin_leaves_ckd_bld_drnd_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -1256,6 +1266,7 @@
       "id": "pumpkin_ckd_bld_drnd_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -1391,6 +1402,7 @@
       "id": "lima_bns_immat_seeds_frz_baby_ckd_bld_drnd_ws",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -1422,6 +1434,7 @@
       "id": "beans_snap_yel_ckd_bld_drnd_wsalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -1478,6 +1491,7 @@
       "id": "beans_snap_yel_frz_ckd_bld_drnd_wsalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -1503,6 +1517,7 @@
       "id": "cowpeas_immat_seeds_frz_ckd_bld_drnd_w_salt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -1560,6 +1575,7 @@
       "id": "pumpkin_ckd_bld_drnd_wsalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -1615,6 +1631,7 @@
       "id": "pumpkin_leaves_ckd_bld_drnd_w_salt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -1640,6 +1657,7 @@
       "id": "soybeans_mature_seeds_sprouted_ckd_stmd_wsalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds",
@@ -2143,6 +2161,7 @@
       "id": "beans_bkd_cnd_pln_or_vegetarian",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -2168,6 +2187,7 @@
       "id": "beans_bkd_cnd_wfranks",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -2223,6 +2243,7 @@
       "id": "beans_black_turtle_mature_seeds_ckd_bld_wo_sa",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -2306,6 +2327,7 @@
       "id": "beans_kidney_all_types_mature_seeds_ckd_bld_w",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -2400,6 +2422,7 @@
       "id": "beans_kidney_red_mature_seeds_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -2494,6 +2517,7 @@
       "id": "beans_navy_mature_seeds_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -2549,6 +2573,7 @@
       "id": "beans_pink_mature_seeds_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -2608,6 +2633,7 @@
       "id": "beans_pinto_mature_seeds_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -2770,6 +2796,7 @@
       "id": "broadbeans_mature_seeds_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -2829,6 +2856,7 @@
       "id": "chickpeas_mature_seeds_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -2921,6 +2949,7 @@
       "id": "cowpeas_common_mture_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -2975,6 +3004,7 @@
       "id": "lentils_mature_seeds_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -3039,6 +3069,7 @@
       "id": "lima_bns_lrg_mature_seeds_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -3128,6 +3159,7 @@
       "id": "mung_bns_mature_seeds_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -3181,6 +3213,7 @@
       "id": "soybeans_mature_ckd_bld_wosalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "soy"
@@ -3268,6 +3301,7 @@
       "id": "beans_white_mature_seeds_ckd_bld_w_salt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -3294,6 +3328,7 @@
       "id": "chickpeas_mature_seeds_ckd_bld_wsalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -3320,6 +3355,7 @@
       "id": "cowpeas_common_mature_seeds_ckd_bld_wsalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -3346,6 +3382,7 @@
       "id": "lentils_mature_seeds_ckd_bld_wsalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds"
@@ -3372,6 +3409,7 @@
       "id": "mungo_bns_mature_seeds_ckd_bld_wsalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "seeds"
       ],
@@ -3397,6 +3435,7 @@
       "id": "soybeans_mature_seeds_ckd_bld_wsalt",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes",
         "seeds",
@@ -3456,6 +3495,7 @@
       "id": "beans_chili_barbecue_ranch_style_ckd",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -3481,6 +3521,7 @@
       "id": "beans_bkd_cnd_no_salt_added",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -3636,8 +3677,7 @@
       "tags": [
         "cooked",
         "k1",
-        "legumes",
-        "raw"
+        "legumes"
       ],
       "portions": [
         {
@@ -3734,6 +3774,7 @@
       "id": "sunflower_seed_grilled_salted",
       "category": "nuts_seeds",
       "tags": [
+        "cooked",
         "high_sodium",
         "k1",
         "seeds"

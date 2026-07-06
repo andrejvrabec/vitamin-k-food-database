@@ -21,6 +21,7 @@
         "cooked",
         "high_sodium",
         "k1",
+        "raw",
         "sweetened"
       ],
       "relations": {
@@ -99,8 +100,10 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "berries",
         "k1",
         "processed",
+        "raw",
         "sweetened"
       ],
       "relations": {
@@ -152,6 +155,7 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "relations": {
@@ -204,6 +208,7 @@
         "bakery",
         "k1",
         "processed",
+        "raw",
         "sweetened"
       ],
       "relations": {
@@ -232,6 +237,7 @@
         "cooked",
         "high_sodium",
         "k1",
+        "raw",
         "sweetened"
       ]
     },
@@ -253,9 +259,10 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018), FDA Coumadin Prescribing Information",
       "tags": [
+        "affects_warfarin",
         "beverages",
         "k1",
-        "affects_warfarin"
+        "raw"
       ],
       "relations": {
         "group": "grapefruit"
@@ -307,6 +314,7 @@
         "cooked",
         "high_sodium",
         "k1",
+        "raw",
         "seeds"
       ],
       "relations": {
@@ -453,7 +461,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "beverages",
-        "k1"
+        "k1",
+        "raw"
       ],
       "relations": {
         "group": "orange"
@@ -580,9 +589,10 @@
       ],
       "source": "USDA FDC (derived from PDF page 2), Stockley's Drug Interactions",
       "tags": [
+        "affects_warfarin",
         "beverages",
         "k1",
-        "affects_warfarin"
+        "raw"
       ],
       "relations": {
         "group": "pomegranate"
@@ -606,7 +616,8 @@
       ],
       "source": "USDA FDC ID: 168149",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "relations": {
         "group": "plum"
@@ -633,7 +644,8 @@
         "beverages",
         "cooked",
         "high_sodium",
-        "k1"
+        "k1",
+        "raw"
       ],
       "relations": {
         "group": "juice"
@@ -706,8 +718,8 @@
       "id": "apples_raw_woskn_ckd_bld",
       "category": "fruits",
       "tags": [
-        "k1",
-        "raw"
+        "cooked",
+        "k1"
       ],
       "portions": [
         {
@@ -732,8 +744,7 @@
       "category": "fruits",
       "tags": [
         "cooked",
-        "k1",
-        "raw"
+        "k1"
       ],
       "portions": [
         {
@@ -757,7 +768,8 @@
       "id": "apples_cnd_swtnd_sliced_drnd_unhtd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -781,7 +793,8 @@
       "id": "apples_cnd_swtnd_sliced_drnd_htd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -805,6 +818,7 @@
       "id": "apples_dehyd_sulfured_unckd",
       "category": "fruits",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -829,6 +843,7 @@
       "id": "apples_dried_sulfured_unckd",
       "category": "fruits",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -860,6 +875,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -915,7 +931,8 @@
       "id": "apricots_cnd_h2o_pk_wskn_solliquids",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -945,7 +962,8 @@
       "id": "apricots_cnd_juc_pk_wskn_solliquids",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -976,6 +994,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1006,6 +1025,7 @@
       "id": "apricots_dried_sulfured_unckd",
       "category": "fruits",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -1037,6 +1057,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1061,7 +1082,8 @@
       "id": "apricot_nectar_cnd_wo_vit_c",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1091,6 +1113,7 @@
       "id": "blackberries_raw",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw"
       ],
@@ -1119,10 +1142,12 @@
       "id": "blackberry_juc_cnd",
       "category": "fruits",
       "tags": [
+        "berries",
         "beverages",
         "cooked",
         "high_sodium",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1146,7 +1171,9 @@
       "id": "blackberries_cnd_hvy_syrup_solliquids",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1171,7 +1198,9 @@
       "id": "blackberries_frz_unswtnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "berries",
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1201,7 +1230,9 @@
       "id": "blueberries_cnd_hvy_syrup_solliquids",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1226,7 +1257,9 @@
       "id": "blueberries_frz_unswtnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "berries",
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1256,7 +1289,9 @@
       "id": "blueberries_frz_swtnd",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1318,7 +1353,8 @@
       "id": "cherries_sour_red_cnd_h2o_pk_solliquids",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1343,6 +1379,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1367,7 +1404,8 @@
       "id": "cherries_sour_red_frz_unswtnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1399,7 +1437,8 @@
       "tags": [
         "cooked",
         "high_sodium",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1424,6 +1463,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1449,6 +1489,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1473,7 +1514,8 @@
       "id": "cherries_swt_frz_swtnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1503,7 +1545,9 @@
       "id": "cranberry_sau_cnd_swtnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "berries",
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1566,7 +1610,8 @@
       "tags": [
         "cooked",
         "high_sodium",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1597,6 +1642,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1628,6 +1674,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1714,7 +1761,8 @@
       "id": "grape_juc_cnd_or_btld_unswtnd_w_added_vit_c",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1776,6 +1824,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "seeds"
       ],
       "portions": [
@@ -1801,6 +1850,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "seeds",
         "sweetened"
       ],
@@ -1827,7 +1877,8 @@
       "category": "fruits",
       "tags": [
         "beverages",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1852,7 +1903,8 @@
       "category": "fruits",
       "tags": [
         "beverages",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1882,7 +1934,8 @@
       "id": "lime_juc_cnd_or_btld_unswtnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1912,7 +1965,8 @@
       "id": "litchis_dried",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -1968,6 +2022,7 @@
         "cooked",
         "high_sodium",
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -1991,7 +2046,8 @@
       "tags": [
         "cooked",
         "high_sodium",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -2110,7 +2166,8 @@
         "high_sodium",
         "k1",
         "legumes",
-        "processed"
+        "processed",
+        "raw"
       ],
       "portions": [
         {
@@ -2141,7 +2198,8 @@
       "category": "fruits",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "raw"
       ],
       "portions": [
         {
@@ -2176,6 +2234,7 @@
         "k1",
         "legumes",
         "processed",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -2208,6 +2267,7 @@
       "tags": [
         "k1",
         "legumes",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -2232,6 +2292,7 @@
       "id": "peaches_dried_sulfured_unckd",
       "category": "fruits",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -2265,6 +2326,7 @@
       "tags": [
         "k1",
         "legumes",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -2290,7 +2352,8 @@
       "category": "fruits",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "raw"
       ],
       "portions": [
         {
@@ -2321,7 +2384,8 @@
       "category": "fruits",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "raw"
       ],
       "portions": [
         {
@@ -2352,7 +2416,8 @@
       "category": "fruits",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "raw"
       ],
       "portions": [
         {
@@ -2383,7 +2448,8 @@
       "category": "fruits",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "raw"
       ],
       "portions": [
         {
@@ -2417,6 +2483,7 @@
         "high_sodium",
         "k1",
         "legumes",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -2447,6 +2514,7 @@
       "id": "pears_dried_sulfured_unckd",
       "category": "fruits",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -2480,6 +2548,7 @@
       "tags": [
         "k1",
         "legumes",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -2505,7 +2574,8 @@
       "category": "fruits",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "raw"
       ],
       "portions": [
         {
@@ -2588,7 +2658,8 @@
       "id": "plums_cnd_purple_h2o_pk_solliquids",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -2619,6 +2690,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -2649,6 +2721,7 @@
       "id": "plums_dried_unckd",
       "category": "fruits",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -2680,6 +2753,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -2707,7 +2781,8 @@
         "beverages",
         "cooked",
         "high_sodium",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -2740,6 +2815,7 @@
       "id": "raspberries_raw",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw"
       ],
@@ -2771,7 +2847,9 @@
       "id": "raspberries_cnd_red_hvy_syrup_pk_solliquids",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -2796,7 +2874,9 @@
       "id": "raspberries_frz_red_swtnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "berries",
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -2826,6 +2906,7 @@
       "id": "strawberries_raw",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw"
       ],
@@ -2857,6 +2938,7 @@
       "id": "strawberries_cnd_hvy_syrup_pk_solliquids",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw",
         "sweetened"
@@ -2883,6 +2965,7 @@
       "id": "strawberries_frz_unswtnd",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw"
       ],
@@ -2914,6 +2997,7 @@
       "id": "strawberries_frz_swtnd_whl",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw"
       ],
@@ -2945,6 +3029,7 @@
       "id": "strawberries_frz_swtnd_sliced",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw"
       ],
@@ -2976,7 +3061,8 @@
       "id": "maraschino_cherries_cnd_drnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3032,7 +3118,9 @@
       "id": "blueberries_cnd_lt_syrup_drnd",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3057,9 +3145,11 @@
       "id": "blueberries_wild_cnd_hvy_syrup_drnd",
       "category": "fruits",
       "tags": [
+        "berries",
         "cooked",
         "high_sodium",
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3087,6 +3177,7 @@
         "cooked",
         "high_sodium",
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3118,6 +3209,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3144,6 +3236,7 @@
       "tags": [
         "k1",
         "legumes",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3176,6 +3269,7 @@
       "tags": [
         "k1",
         "legumes",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3207,6 +3301,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3264,6 +3359,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3279,7 +3375,8 @@
       "id": "usda_cmdty_mxd_fruit_cnd_lt_syr_sol_liq",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3294,7 +3391,8 @@
       "id": "mango_nectar_cnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3317,6 +3415,7 @@
       "tags": [
         "k1",
         "legumes",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3336,7 +3435,8 @@
       "category": "fruits",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "raw"
       ],
       "portions": [
         {
@@ -3356,6 +3456,7 @@
       "tags": [
         "k1",
         "legumes",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3375,7 +3476,8 @@
       "category": "fruits",
       "tags": [
         "beverages",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3406,7 +3508,8 @@
       "category": "fruits",
       "tags": [
         "beverages",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3461,6 +3564,7 @@
       "id": "balsam_pear_leafy_tips_ckd_bld_drnd_wosalt",
       "category": "fruits",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -3486,6 +3590,7 @@
       "id": "balsam_pear_pods_ckd_bld_drnd_wosalt",
       "category": "fruits",
       "tags": [
+        "cooked",
         "k1",
         "legumes"
       ],
@@ -3551,7 +3656,8 @@
       "id": "grape_leaves_cnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3578,7 +3684,9 @@
       "id": "cranberry_apple_juc_drk_btld",
       "category": "fruits",
       "tags": [
-        "k1"
+        "berries",
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3608,8 +3716,10 @@
       "id": "cranberry_juc_cocktail_btld",
       "category": "fruits",
       "tags": [
+        "berries",
         "beverages",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3642,7 +3752,8 @@
         "beverages",
         "cooked",
         "high_sodium",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3672,7 +3783,8 @@
       "id": "orangeapricot_juc_drk_cnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3700,9 +3812,11 @@
       "category": "fruits",
       "tags": [
         "bakery",
+        "berries",
         "fast_food",
         "k1",
         "processed",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3734,10 +3848,12 @@
       "category": "fruits",
       "tags": [
         "bakery",
+        "berries",
         "cooked",
         "fast_food",
         "k1",
         "processed",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3768,7 +3884,8 @@
       "id": "strudel_apple",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3799,10 +3916,12 @@
       "category": "fruits",
       "tags": [
         "bakery",
+        "berries",
         "cooked",
         "fast_food",
         "k1",
         "processed",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -3833,7 +3952,9 @@
       "id": "tstr_pstrs_frt_tstd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "berries",
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3854,6 +3975,7 @@
       "id": "toppings_strawberry",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "processed",
         "raw",
@@ -3887,7 +4009,8 @@
       "id": "fruit_butters_apple",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3917,6 +4040,7 @@
       "id": "blackberries_wild_raw",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw"
       ],
@@ -3942,6 +4066,7 @@
       "id": "blueberries_wild_raw",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw"
       ],
@@ -3961,7 +4086,9 @@
       "id": "raspberries_wild",
       "category": "fruits",
       "tags": [
-        "k1"
+        "berries",
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -3985,7 +4112,8 @@
       "id": "plums_wild",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4009,8 +4137,10 @@
       "id": "cranberry_juc_unswtnd",
       "category": "fruits",
       "tags": [
+        "affects_warfarin",
+        "berries",
         "k1",
-        "affects_warfarin"
+        "raw"
       ],
       "portions": [
         {
@@ -4040,7 +4170,9 @@
       "id": "cranberry_apple_juc_drk_lo_cal_wvit_c",
       "category": "fruits",
       "tags": [
-        "k1"
+        "berries",
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4096,9 +4228,10 @@
       "id": "goji_berries",
       "category": "fruits",
       "tags": [
+        "affects_warfarin",
         "berries",
         "k1",
-        "affects_warfarin"
+        "raw"
       ],
       "portions": [
         {
@@ -4236,6 +4369,7 @@
       "id": "blueberry_frozen_raw",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw"
       ],
@@ -4328,7 +4462,8 @@
       "id": "fig_dried",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4346,7 +4481,8 @@
       "id": "apple_dried",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4364,7 +4500,9 @@
       "id": "cranberry_dried_with_sugar_s",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -4400,7 +4538,8 @@
       "category": "fruits",
       "tags": [
         "beverages",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4419,7 +4558,8 @@
       "category": "fruits",
       "tags": [
         "beverages",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4441,7 +4581,8 @@
       "category": "fruits",
       "tags": [
         "beverages",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4459,8 +4600,10 @@
       "id": "cranberry_juice",
       "category": "fruits",
       "tags": [
+        "berries",
         "beverages",
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4478,7 +4621,8 @@
       "id": "apricot_nectar",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4497,7 +4641,8 @@
       "category": "fruits",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "raw"
       ],
       "portions": [
         {
@@ -4516,7 +4661,8 @@
       "category": "fruits",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "raw"
       ],
       "portions": [
         {
@@ -4534,7 +4680,8 @@
       "id": "jam_cherry",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4552,7 +4699,9 @@
       "id": "jam_raspberry",
       "category": "fruits",
       "tags": [
-        "k1"
+        "berries",
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4571,6 +4720,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "sweetened"
       ],
       "portions": [
@@ -4589,7 +4739,8 @@
       "id": "tatin_tart_caramelized_upside_down_apple_tart",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4608,7 +4759,8 @@
       "category": "fruits",
       "tags": [
         "k1",
-        "legumes"
+        "legumes",
+        "raw"
       ],
       "portions": [
         {
@@ -4657,7 +4809,8 @@
       "id": "bananas_dehyd_or_banana_pdr",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4687,7 +4840,8 @@
       "id": "banana_flesh_without_skin_dried",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4767,6 +4921,7 @@
       "id": "cranberries_raw",
       "category": "fruits",
       "tags": [
+        "berries",
         "k1",
         "raw"
       ],
@@ -4798,7 +4953,9 @@
       "id": "cranberries_dried_swtnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "berries",
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -4822,7 +4979,8 @@
       "id": "grapefruit_juc_white_frz_conc_unswtnd_undil",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -5032,7 +5190,8 @@
       "id": "orange_juc_cnd_unswtnd",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -5062,7 +5221,8 @@
       "id": "orange_juc_frz_conc_unswtnd_undil",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -5092,7 +5252,8 @@
       "id": "orange_juc_frz_conc_unswtnd_dil_w3_volume_h2o",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -5154,6 +5315,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "seeds"
       ],
       "portions": [
@@ -5185,6 +5347,7 @@
       "category": "fruits",
       "tags": [
         "k1",
+        "raw",
         "seeds"
       ],
       "portions": [
@@ -5277,7 +5440,8 @@
       "id": "orange_pnappl_juc_blend",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -5301,7 +5465,8 @@
       "id": "orange_flavor_drk_brkfst_type_wpulp_frz_conc",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -5331,7 +5496,8 @@
       "id": "melon_banana",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -5368,7 +5534,8 @@
       "id": "prune_pitted",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {
@@ -5386,7 +5553,8 @@
       "id": "raisin",
       "category": "fruits",
       "tags": [
-        "k1"
+        "k1",
+        "raw"
       ],
       "portions": [
         {

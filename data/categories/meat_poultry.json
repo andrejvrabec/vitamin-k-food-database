@@ -67,7 +67,8 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "relations": {
         "group": "other_meat"
@@ -92,7 +93,8 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "organ_meat"
       ],
       "relations": {
         "group": "pork"
@@ -140,8 +142,10 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "relations": {
         "group": "chicken"
@@ -165,8 +169,10 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 05078)",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "relations": {
         "group": "chicken"
@@ -192,7 +198,8 @@
       "tags": [
         "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "relations": {
         "group": "chicken"
@@ -216,9 +223,11 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 05122)",
       "tags": [
+        "cooked",
         "k2",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "poultry"
       ],
       "relations": {
         "group": "chicken"
@@ -245,6 +254,7 @@
         "cooked",
         "high_sodium",
         "k2",
+        "meat",
         "seafood"
       ],
       "relations": {
@@ -271,6 +281,7 @@
       "tags": [
         "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "relations": {
@@ -296,6 +307,7 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -322,6 +334,7 @@
       "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 15041)",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "relations": {
@@ -347,6 +360,7 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -374,6 +388,7 @@
       "tags": [
         "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "relations": {
@@ -400,6 +415,7 @@
       "tags": [
         "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "relations": {
@@ -425,6 +441,7 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -452,6 +469,7 @@
       "tags": [
         "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "relations": {
@@ -477,6 +495,7 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -503,6 +522,7 @@
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -530,6 +550,7 @@
       "tags": [
         "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "relations": {
@@ -556,6 +577,7 @@
       "tags": [
         "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "relations": {
@@ -582,7 +604,8 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "relations": {
         "group": "turkey"
@@ -606,8 +629,10 @@
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "relations": {
         "group": "turkey"
@@ -619,7 +644,8 @@
       "tags": [
         "k2",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -651,6 +677,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -681,8 +708,10 @@
       "id": "chicken_broilers_or_fryers_meatskn_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -712,8 +741,10 @@
       "id": "chicken_broilers_or_fryers_meatskn_ckd_stwd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -745,6 +776,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -775,8 +807,10 @@
       "id": "chicken_broilers_or_fryers_meat_only_ckd_frie",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -807,7 +841,8 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -838,7 +873,8 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -870,6 +906,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -900,8 +937,10 @@
       "id": "chicken_broilers_or_fryers_skn_only_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -932,7 +971,9 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "poultry",
+        "raw"
       ],
       "portions": [
         {
@@ -963,7 +1004,9 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "poultry",
+        "raw"
       ],
       "portions": [
         {
@@ -995,6 +1038,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1025,8 +1069,10 @@
       "id": "chicken_broilers_or_fryers_back_meatskn_ckd_r",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1056,8 +1102,10 @@
       "id": "chicken_broilers_or_fryers_back_meatskn_ckd_s",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1088,7 +1136,9 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "poultry",
+        "raw"
       ],
       "portions": [
         {
@@ -1119,7 +1169,9 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "poultry",
+        "raw"
       ],
       "portions": [
         {
@@ -1149,8 +1201,10 @@
       "id": "chicken_broilers_or_fryers_drumstk_meatskn_ck",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1181,7 +1235,9 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "poultry",
+        "raw"
       ],
       "portions": [
         {
@@ -1211,8 +1267,10 @@
       "id": "chicken_broilers_or_fryers_drumstk_meat_only",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1244,6 +1302,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1274,8 +1333,10 @@
       "id": "chicken_broilers_or_fryers_leg_meatskn_ckd_st",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1307,6 +1368,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1337,8 +1399,10 @@
       "id": "chicken_broilers_or_fryers_leg_meat_only_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1368,9 +1432,11 @@
       "id": "chicken_broilers_or_fryers_neck_meatskn_ckd_s",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1402,6 +1468,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1432,8 +1499,10 @@
       "id": "chicken_broilers_or_fryers_thigh_meatskn_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1463,8 +1532,10 @@
       "id": "chicken_broilers_or_fryers_thigh_meat_only_ck",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1494,8 +1565,10 @@
       "id": "chicken_broilers_or_fryers_wing_meatskn_ckd_r",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1525,8 +1598,10 @@
       "id": "chicken_broilers_or_fryers_wing_meatskn_ckd_s",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1558,6 +1633,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1588,8 +1664,10 @@
       "id": "chicken_roasting_lt_meat_meat_only_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1621,6 +1699,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1653,6 +1732,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1683,8 +1763,10 @@
       "id": "chicken_stewing_meat_only_ckd_stwd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1716,6 +1798,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1748,6 +1831,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1780,6 +1864,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1813,6 +1898,7 @@
         "k2",
         "meat",
         "organ_meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1843,9 +1929,11 @@
       "id": "turkey_whl_giblets_ckd_simmrd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1872,6 +1960,7 @@
         "k2",
         "meat",
         "organ_meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -1896,9 +1985,11 @@
       "id": "turkey_liver_all_classes_ckd_simmrd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1922,8 +2013,10 @@
       "id": "turkey_all_classes_back_meatskn_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1953,8 +2046,10 @@
       "id": "turkey_all_classes_leg_meatskn_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -1984,8 +2079,10 @@
       "id": "turkey_fryer_roasters_meatskn_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2015,8 +2112,10 @@
       "id": "turkey_fryer_roasters_wing_meat_only_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2047,7 +2146,8 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2072,7 +2172,8 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2105,7 +2206,8 @@
         "bakery",
         "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2136,7 +2238,8 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2168,6 +2271,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -2192,8 +2296,10 @@
       "id": "chicken_cornish_game_hens_meatskn_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2226,7 +2332,8 @@
         "cooked",
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2256,8 +2363,10 @@
       "id": "chicken_nuggets_frz_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2281,8 +2390,10 @@
       "id": "chicken_nuggets_frz_unckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2306,8 +2417,10 @@
       "id": "chicken_patty_frz_unckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2331,8 +2444,10 @@
       "id": "chicken_patty_frz_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2356,8 +2471,10 @@
       "id": "chicken_breast_tenders_ckd_conventional_oven",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2383,7 +2500,8 @@
       "tags": [
         "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2414,8 +2532,10 @@
       "category": "meat_poultry",
       "tags": [
         "bakery",
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2447,6 +2567,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -2471,8 +2592,10 @@
       "id": "chicken_ground_crumbles_ckd_pan_browned",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2496,8 +2619,10 @@
       "id": "usda_cmdty_turkey_taco_meat_frz_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2521,8 +2646,10 @@
       "id": "chicken_skn_ckd_brsd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2554,6 +2681,7 @@
       "tags": [
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -2584,8 +2712,10 @@
       "id": "chicken_skn_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2615,8 +2745,10 @@
       "id": "chicken_broilers_or_fryers_dk_meat_drumstk_mt",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2647,6 +2779,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -2854,7 +2987,8 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -2884,6 +3018,7 @@
       "id": "bratwurst_pork_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -3388,6 +3523,7 @@
       "id": "pork_sausage_frsh_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "high_sodium",
         "k2",
         "meat"
@@ -3414,6 +3550,7 @@
       "id": "porkbf_sausage_frsh_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "high_sodium",
         "k2",
         "meat"
@@ -3446,6 +3583,7 @@
       "id": "salami_ckd_bfpork",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -3473,7 +3611,8 @@
       "tags": [
         "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -3525,7 +3664,8 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -3555,6 +3695,7 @@
       "id": "sausage_italian_pork_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "high_sodium",
         "k2",
         "meat"
@@ -3589,7 +3730,8 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -3808,6 +3950,7 @@
       "id": "beef_sausage_frsh_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "high_sodium",
         "k2",
         "meat"
@@ -3837,7 +3980,8 @@
         "cooked",
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -3861,9 +4005,11 @@
       "id": "turkey_sausage_frsh_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -3889,7 +4035,8 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -3921,7 +4068,8 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -3978,6 +4126,7 @@
       "id": "pork_cured_bacon_ckd_bkd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "high_sodium",
         "k2",
         "meat"
@@ -4150,6 +4299,7 @@
       "id": "beef_rib_shortribs_ln_choic_ckd_brsd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4181,6 +4331,7 @@
       "id": "beef_ground_patties_frz_ckd_brld",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4212,6 +4363,7 @@
       "id": "beef_var_meatsby_products_brain_ckd_simmrd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4243,8 +4395,10 @@
       "id": "beef_var_meatsby_products_heart_ckd_simmrd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "organ_meat"
       ],
       "portions": [
         {
@@ -4295,6 +4449,7 @@
       "id": "beef_var_meats_by_products_liver_ckd_brsd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat",
         "organ_meat"
@@ -4380,8 +4535,10 @@
       "id": "beef_var_meatsby_products_tongue_ckd_simmrd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "organ_meat"
       ],
       "portions": [
         {
@@ -4406,7 +4563,8 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -4436,6 +4594,7 @@
       "id": "beef_cured_brkfst_strips_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4467,6 +4626,7 @@
       "id": "beef_cured_corned_bf_brisket_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4582,6 +4742,7 @@
       "id": "beef_chk_und_bl_cntr_stk_bnless_den_cut_ln_0",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4639,7 +4800,8 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -4664,7 +4826,8 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -4688,6 +4851,7 @@
       "id": "beef_shrt_loin_top_loin_stk_ln_ft_18_ft_all_g",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -4745,6 +4909,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -4776,6 +4941,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -4807,7 +4973,9 @@
       "id": "herring_atlantic_ckd_dry_heat",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -4839,6 +5007,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -4869,7 +5038,9 @@
       "id": "fish_pollock_alaska_ckd_dry_heat",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -4901,6 +5072,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -4932,6 +5104,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -4963,6 +5136,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -4994,6 +5168,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -5025,6 +5200,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -5056,6 +5232,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -5088,6 +5265,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -5120,6 +5298,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -5154,6 +5333,7 @@
         "cooked",
         "high_sodium",
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -5184,7 +5364,9 @@
       "id": "tuna_yellowfin_frsh_ckd_dry_heat",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -5209,7 +5391,9 @@
       "id": "oyster_pacific_ckd_moist_heat",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -5243,6 +5427,7 @@
         "cooked",
         "high_sodium",
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -5267,7 +5452,9 @@
       "id": "fish_tilapia_ckd_dry_heat",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -5298,6 +5485,7 @@
       "id": "beans_bkd_cnd_wporkswt_sau",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "legumes",
         "meat"
@@ -5324,6 +5512,7 @@
       "id": "beans_bkd_cnd_wporktomato_sau",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "legumes",
         "meat"
@@ -5350,6 +5539,7 @@
       "id": "lamb_nz_imp_frz_rib_ln_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5381,6 +5571,7 @@
       "id": "veal_comp_of_rtl_cuts_ln_ckd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5445,6 +5636,7 @@
       "id": "veal_loin_ln_ckd_brsd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5476,6 +5668,7 @@
       "id": "veal_loin_ln_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5507,6 +5700,7 @@
       "id": "veal_rib_ln_ckd_brsd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5538,6 +5732,7 @@
       "id": "veal_shldr_blade_ln_ckd_brsd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5569,6 +5764,7 @@
       "id": "veal_ground_ckd_brld",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5662,6 +5858,7 @@
       "id": "veal_var_meatsby_products_liver_ckd_brsd",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat",
         "organ_meat"
@@ -5747,6 +5944,7 @@
       "id": "lamb_ground_ckd_brld",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5807,6 +6005,7 @@
       "id": "game_meat_deer_ground_ckd_pan_broiled",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5835,6 +6034,7 @@
       "id": "game_meat_deer_loin_ln_1_steak_ckd_brld",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5866,6 +6066,7 @@
       "id": "game_meat_deer_shldr_clod_ln_3_5_lb_rst_ckd_b",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -5979,6 +6180,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -6056,9 +6258,11 @@
       "id": "grilled_chick_bacon_tomo_clb_sndwch_w_chs_let",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -6084,7 +6288,8 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -6216,8 +6421,10 @@
       "id": "chicken_nuggets_dk_white_meat_preckd_frz_not",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -6249,7 +6456,8 @@
       "tags": [
         "bakery",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -6273,6 +6481,7 @@
       "id": "beef_chck_clod_shldr_topcntr_stks_ln_ft_0_all",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6305,7 +6514,8 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "raw"
       ],
       "portions": [
         {
@@ -6335,6 +6545,7 @@
       "id": "beef_chk_und_ble_cntr_stk_bnl_den_ct_lnft_0_f",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6410,6 +6621,7 @@
       "id": "beef_rib_eye_rst_bne_in_lip_on_ln_18_ft_all_g",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6435,6 +6647,7 @@
       "id": "beef_rib_eye_stk_bn_in_lip_on_ln_ft_18_ft_al",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6491,6 +6704,7 @@
       "id": "beef_rib_eye_stk_bnls_lip_on_ln_ft_18_ft_al_g",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6516,6 +6730,7 @@
       "id": "beef_rib_eye_rst_bnls_lp_on_ln_ft_18_ft_all_g",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6541,6 +6756,7 @@
       "id": "beef_loin_top_srl_cp_stk_bnls_ln_ft_18_ft_alg",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
         "meat"
       ],
@@ -6567,6 +6783,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -6587,6 +6804,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -6607,6 +6825,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -6627,6 +6846,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -6647,6 +6867,7 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -6690,7 +6911,8 @@
       "id": "restaurant_latino_pupusas_del_cerdo",
       "category": "meat_poultry",
       "tags": [
-        "k2"
+        "k2",
+        "meat"
       ],
       "portions": [
         {
@@ -6802,7 +7024,8 @@
         "cooked",
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -6832,9 +7055,11 @@
       "id": "turkeypork_sausage_frsh_bulk_patty_or_link_ck",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -6893,8 +7118,10 @@
       "id": "turkey_wing_smoked_ckd_wskn_bone_removed",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -6918,8 +7145,10 @@
       "id": "turkey_drumstk_smoked_ckd_wskn_bone_removed",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -6975,8 +7204,10 @@
       "id": "turkey_lt_or_dk_meat_smoked_ckd_wskn_bone_rem",
       "category": "meat_poultry",
       "tags": [
+        "cooked",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7035,6 +7266,7 @@
         "cooked",
         "high_sodium",
         "k1",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -7051,7 +7283,8 @@
       "category": "meat_poultry",
       "tags": [
         "k1",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7074,6 +7307,7 @@
         "k2",
         "legumes",
         "meat",
+        "poultry",
         "soy"
       ],
       "portions": [
@@ -7157,7 +7391,8 @@
         "bakery",
         "k1",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7180,7 +7415,8 @@
         "cooked",
         "high_sodium",
         "k1",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7199,7 +7435,8 @@
       "category": "meat_poultry",
       "tags": [
         "k1",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7219,6 +7456,7 @@
       "tags": [
         "cooked",
         "k1",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -7278,6 +7516,7 @@
       "category": "meat_poultry",
       "tags": [
         "k1",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -7297,7 +7536,8 @@
       "category": "meat_poultry",
       "tags": [
         "k1",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7480,7 +7720,8 @@
       "tags": [
         "cooked",
         "k1",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7500,7 +7741,8 @@
       "tags": [
         "cooked",
         "k1",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7520,7 +7762,8 @@
       "tags": [
         "cooked",
         "k1",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7649,7 +7892,8 @@
         "cooked",
         "k1",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7667,7 +7911,8 @@
         "cooked",
         "k2",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -7687,7 +7932,8 @@
       "tags": [
         "cooked",
         "k1",
-        "meat"
+        "meat",
+        "organ_meat"
       ],
       "portions": [
         {
@@ -7947,6 +8193,7 @@
       "tags": [
         "k1",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -7968,6 +8215,7 @@
         "k1",
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -7993,6 +8241,7 @@
       "tags": [
         "k1",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -8013,6 +8262,7 @@
       "tags": [
         "k1",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -8034,6 +8284,7 @@
         "k1",
         "k2",
         "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -8170,6 +8421,7 @@
         "k2",
         "meat",
         "organ_meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -8300,6 +8552,7 @@
         "k2",
         "legumes",
         "meat",
+        "poultry",
         "soy"
       ],
       "portions": [
@@ -8321,6 +8574,7 @@
       "category": "meat_poultry",
       "tags": [
         "k1",
+        "meat",
         "raw",
         "seafood"
       ],
@@ -8341,6 +8595,7 @@
       "category": "meat_poultry",
       "tags": [
         "k1",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -8362,6 +8617,7 @@
         "cooked",
         "high_sodium",
         "k1",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -8381,6 +8637,7 @@
       "category": "meat_poultry",
       "tags": [
         "k1",
+        "meat",
         "seafood"
       ],
       "portions": [
@@ -8396,7 +8653,10 @@
       "id": "duck_domesticated_meat_only_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
-        "k1"
+        "cooked",
+        "k1",
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -8426,7 +8686,10 @@
       "id": "goose_domesticated_meatskn_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
-        "k1"
+        "cooked",
+        "k1",
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
@@ -8456,7 +8719,9 @@
       "id": "salami_ckd_bf",
       "category": "meat_poultry",
       "tags": [
-        "k1"
+        "cooked",
+        "k1",
+        "meat"
       ],
       "portions": [
         {
@@ -8486,7 +8751,9 @@
       "id": "bison_ground_grass_fed_ckd",
       "category": "meat_poultry",
       "tags": [
-        "k1"
+        "cooked",
+        "k1",
+        "meat"
       ],
       "portions": [
         {
@@ -8511,6 +8778,7 @@
       "category": "meat_poultry",
       "tags": [
         "k1",
+        "meat",
         "raw"
       ],
       "portions": [
@@ -8541,7 +8809,9 @@
       "id": "game_meat_bison_ln_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
-        "k1"
+        "cooked",
+        "k1",
+        "meat"
       ],
       "portions": [
         {
@@ -8571,7 +8841,9 @@
       "id": "game_meat_goat_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
-        "k1"
+        "cooked",
+        "k1",
+        "meat"
       ],
       "portions": [
         {
@@ -8603,6 +8875,8 @@
       "tags": [
         "k1",
         "k2",
+        "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
@@ -8625,6 +8899,8 @@
       "tags": [
         "k1",
         "k2",
+        "meat",
+        "poultry",
         "raw"
       ],
       "portions": [
