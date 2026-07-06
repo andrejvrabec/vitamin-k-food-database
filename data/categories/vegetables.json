@@ -5046,37 +5046,6 @@
       }
     },
     {
-      "id": "sweet_potato_ckd_bld_wo_skn",
-      "category": "vegetables",
-      "tags": [
-        "cooked",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.9,
-          "gram_equivalent": 328
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.2,
-          "gram_equivalent": 151
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11510), USDA SR28 (NDB No: 11876)",
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
       "id": "sweetpotato_cnd_vacuum_pk",
       "category": "vegetables",
       "tags": [
@@ -5899,7 +5868,7 @@
       }
     },
     {
-      "id": "sweet_potato_cnd_syrup_pk_sol_liquids",
+      "id": "sweet_potato_cnd_syrup_pk_drnd_sol",
       "category": "vegetables",
       "tags": [
         "k1",
@@ -5914,42 +5883,11 @@
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 4.8,
-          "gram_equivalent": 228
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 13.4,
-          "gram_equivalent": 638
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11645)",
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
-      "id": "sweet_potato_cnd_syrup_pk_drnd_sol",
-      "category": "vegetables",
-      "tags": [
-        "k1",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
           "vitamin_k_mcg": 5.1,
           "gram_equivalent": 196
         }
       ],
-      "source": "USDA SR28 (NDB No: 11647)",
+      "source": "USDA SR28 (NDB No: 11647), USDA SR28 (NDB No: 11645)",
       "relations": {
         "group": "potato"
       }
@@ -8060,32 +7998,7 @@
           "gram_equivalent": 102
         }
       ],
-      "source": "USDA SR28 (NDB No: 21486)",
-      "relations": {
-        "group": "lettuce"
-      }
-    },
-    {
-      "id": "fast_foods_taco_w_chick_lettuce_chs_soft",
-      "category": "vegetables",
-      "tags": [
-        "green_leaves",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.7,
-          "gram_equivalent": 98
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21487)",
+      "source": "USDA SR28 (NDB No: 21486), USDA SR28 (NDB No: 21487)",
       "relations": {
         "group": "lettuce"
       }
@@ -10299,10 +10212,10 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2
+          "vitamin_k_mcg": 2.1
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 4102)",
+      "source": "Ciqual 2025 (Food Code: 4102), USDA SR28 (NDB No: 11510), USDA SR28 (NDB No: 11876)",
       "relations": {
         "group": "potato",
         "related_ids": [

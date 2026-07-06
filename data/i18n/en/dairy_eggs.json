@@ -172,11 +172,6 @@
     "alternative_names": [],
     "description": "Milk, buttermilk, dried."
   },
-  "milk_canned_evaporated_with_added_vitami": {
-    "name": "Milk, canned, evaporated, with added vitamin D and without added vitamin A",
-    "alternative_names": [],
-    "description": "Milk, canned, evaporated, with added vitamin D and without added vitamin A."
-  },
   "potatoes_mashed_dehydrated_flakes_withou": {
     "name": "Potatoes, mashed, dehydrated, flakes without milk, dry",
     "alternative_names": [],
@@ -272,11 +267,6 @@
     "alternative_names": [],
     "description": "Cheese, romano."
   },
-  "cheese_past_process_american_fort_w_vitamin_d": {
-    "name": "Cheese, past process, american, fort with/ vitamin d",
-    "alternative_names": [],
-    "description": "Cheese, past process, american, fort with/ vitamin d."
-  },
   "cheese_past_process_pimento": {
     "name": "Cheese, past process, pimento",
     "alternative_names": [],
@@ -286,11 +276,6 @@
     "name": "Cheese, past process, swiss",
     "alternative_names": [],
     "description": "Cheese, past process, swiss."
-  },
-  "cheese_fd_past_process_american_vitamin_d_for": {
-    "name": "Cheese fd, past process, american, vitamin d fort",
-    "alternative_names": [],
-    "description": "Cheese fd, past process, american, vitamin d fort."
   },
   "cheese_sprd_past_process_american": {
     "name": "Cheese spread, past process, american",
@@ -352,20 +337,10 @@
     "alternative_names": [],
     "description": "Milk, canned, condensed, sweetened."
   },
-  "milk_cnd_evap_w_added_vitamin_d_wo_added_vit": {
-    "name": "Milk, canned, evaporated, with/ added vitamin d & without/ added vit a",
-    "alternative_names": [],
-    "description": "Milk, canned, evaporated, with/ added vitamin d & without/ added vit a."
-  },
   "milk_choc_fluid_comm_whl_w_added_vit_a_vitami": {
     "name": "Milk, chocolate, fluid, commercial, whole, with/ added vit a & vitamin d",
     "alternative_names": [],
     "description": "Milk, chocolate, fluid, commercial, whole, with/ added vit a & vitamin d."
-  },
-  "milk_choc_fluid_comm_lowfat_w_added_vit_a_vit": {
-    "name": "Milk, chocolate, fluid, commercial, lowfat, with/ added vit a & vitamin d",
-    "alternative_names": [],
-    "description": "Milk, chocolate, fluid, commercial, lowfat, with/ added vit a & vitamin d."
   },
   "milk_choc_bev_hot_cocoa_homemade": {
     "name": "Milk, chocolate beverage, hot cocoa, homemade",
@@ -401,11 +376,6 @@
     "name": "Yogurt, pln, low fat, 12 grams prot per 8 oz",
     "alternative_names": [],
     "description": "Yogurt, pln, low fat, 12 grams prot per 8 oz."
-  },
-  "yogurt_vanilla_lofat_11_grams_prot_per_8_oz": {
-    "name": "Yogurt, vanilla, low fat, 11 grams prot per 8 oz",
-    "alternative_names": [],
-    "description": "Yogurt, vanilla, low fat, 11 grams prot per 8 oz."
   },
   "egg_whl_raw_frsh": {
     "name": "Egg, whole, raw, frsh",
@@ -677,11 +647,6 @@
     "alternative_names": [],
     "description": "Potatoes, mshd, dehydrated, prepared from flakes without/ milk, whole milk & but."
   },
-  "potatoes_mshd_dehyd_granules_womilk_dry_form": {
-    "name": "Potatoes, mshd, dehydrated, granules withoutmilk, dry form",
-    "alternative_names": [],
-    "description": "Potatoes, mshd, dehydrated, granules withoutmilk, dry form."
-  },
   "potatoes_mshd_dehyd_granules_wmilk_dry_form": {
     "name": "Potatoes, mshd, dehydrated, granules withmilk, dry form",
     "alternative_names": [],
@@ -712,20 +677,10 @@
     "alternative_names": [],
     "description": "Eggnog-flavor mix, powder, prepared with/ whole milk."
   },
-  "malted_drk_mix_nat_w_added_nutr_pdr_prep_w_wh": {
-    "name": "Malted drink mix, nat, with/ added Nutramigen, powder, prepared with/ whole milk",
-    "alternative_names": [],
-    "description": "Malted drink mix, nat, with/ added Nutramigen, powder, prepared with/ whole milk."
-  },
   "malted_drk_mix_nat_pdr_prep_w_whl_milk": {
     "name": "Malted drink mix, nat, powder, prepared with/ whole milk",
     "alternative_names": [],
     "description": "Malted drink mix, nat, powder, prepared with/ whole milk."
-  },
-  "malted_drk_mix_choc_w_added_nutr_pdr_prep_w_w": {
-    "name": "Malted drink mix, chocolate, with/ added Nutramigen, powder, prepared with/ whole milk",
-    "alternative_names": [],
-    "description": "Malted drink mix, chocolate, with/ added Nutramigen, powder, prepared with/ whole milk."
   },
   "crackers_milk": {
     "name": "Crackers, milk",
@@ -772,11 +727,6 @@
     "alternative_names": [],
     "description": "Puddings, vanilla, dry mix, regular, prepared with/ whole milk."
   },
-  "puddings_banana_dry_mix_inst_prep_w_whl_milk": {
-    "name": "Puddings, banana, dry mix, instant, prepared with/ whole milk",
-    "alternative_names": [],
-    "description": "Puddings, banana, dry mix, instant, prepared with/ whole milk."
-  },
   "fast_foods_biscuit_weggbacon": {
     "name": "Fast foods, biscuit, withegg&bacon",
     "alternative_names": [],
@@ -792,20 +742,10 @@
     "alternative_names": [],
     "description": "Breakfast items, biscuit withegg&sausage."
   },
-  "fast_foods_biscuit_wegg_chs_bacon": {
-    "name": "Fast foods, biscuit, withegg, cheese, &bacon",
-    "alternative_names": [],
-    "description": "Fast foods, biscuit, withegg, cheese, &bacon."
-  },
   "fast_foods_egg_scrambled": {
     "name": "Fast foods, egg, scrambled",
     "alternative_names": [],
     "description": "Fast foods, egg, scrambled."
-  },
-  "fast_foods_griddle_cake_sndwch_egg_chs_sausag": {
-    "name": "Fast foods, griddle cake sndwch, egg, cheese, & sausage",
-    "alternative_names": [],
-    "description": "Fast foods, griddle cake sndwch, egg, cheese, & sausage."
   },
   "fast_foods_griddle_cake_sndwch_egg_chs_bacon": {
     "name": "Fast foods, griddle cake sndwch, egg, cheese, & bacon",
@@ -1132,11 +1072,6 @@
     "alternative_names": [],
     "description": "Camembert cheese, from cow's milk."
   },
-  "camembert_cheese_from_cows_milk_from_raw_milk_or_thermised_milk": {
-    "name": "Camembert cheese, from cow's milk, from raw milk or thermised milk",
-    "alternative_names": [],
-    "description": "Camembert cheese, from cow's milk, from raw milk or thermised milk."
-  },
   "camembert_cheese_from_cows_milk_from_pasteurized_milk": {
     "name": "Camembert cheese, from cow's milk, from pasteurized milk",
     "alternative_names": [],
@@ -1151,11 +1086,6 @@
     "name": "Brie cheese, from cow's milk",
     "alternative_names": [],
     "description": "Brie cheese, from cow's milk."
-  },
-  "brie_de_melun_cheese_from_cows_milk": {
-    "name": "Brie de Melun cheese, from cow's milk",
-    "alternative_names": [],
-    "description": "Brie de Melun cheese, from cow's milk."
   },
   "neufchtel_cheese_from_cows_milk": {
     "name": "Neufchâtel cheese, from cow's milk",
@@ -1192,11 +1122,6 @@
     "alternative_names": [],
     "description": "Pont l'Evêque cheese, from cow's milk."
   },
-  "saint_marcellin_cheese_from_cows_milk": {
-    "name": "Saint-Marcellin cheese, from cow's milk",
-    "alternative_names": [],
-    "description": "Saint-Marcellin cheese, from cow's milk."
-  },
   "saint_felicien_cheese_from_cows_milk": {
     "name": "Saint-Felicien cheese, from cow's milk",
     "alternative_names": [],
@@ -1206,11 +1131,6 @@
     "name": "Boulette d'Avesnes cheese from cow's milk",
     "alternative_names": [],
     "description": "Boulette d'Avesnes cheese from cow's milk."
-  },
-  "cheese_semi_dry_from_goats_milk": {
-    "name": "Cheese, semi-dry, from goat's milk",
-    "alternative_names": [],
-    "description": "Cheese, semi-dry, from goat's milk."
   },
   "cheese_dry_from_goats_milk": {
     "name": "Cheese, dry, from goat's milk",
@@ -1336,11 +1256,6 @@
     "name": "Processed cheese, from cow's milk, triangle, not fortified",
     "alternative_names": [],
     "description": "Processed cheese, from cow's milk, triangle, not fortified."
-  },
-  "processed_cheese_from_cows_milk_triangle_fortified_with_vitamins": {
-    "name": "Processed cheese, from cow's milk, triangle, fortified with vitamins",
-    "alternative_names": [],
-    "description": "Processed cheese, from cow's milk, triangle, fortified with vitamins."
   },
   "processed_cheese_from_cows_milk_square_not_fortified_with_vitamins": {
     "name": "Processed cheese, from cow's milk, square, not fortified with vitamins",

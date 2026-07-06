@@ -74,11 +74,6 @@
     "alternative_names": [],
     "description": "Cukríky, kávové zrná potiahnuté tmavou čokoládou."
   },
-  "candies_fudge_chocolate_with_nuts_prepar": {
-    "name": "Cukríky, fudge, čokoláda, s orechmi, pripravené podľa receptu",
-    "alternative_names": [],
-    "description": "Cukríky, fudge, čokoláda, s orechmi, pripravené podľa receptu."
-  },
   "candies_mars_snackfood_us_starburst_frui": {
     "name": "Cukríky, MARS SNACKFOOD US, STARBURST Ovocné žuvačky, Originálne ovocie",
     "alternative_names": [],
@@ -384,11 +379,6 @@
     "alternative_names": [],
     "description": "Detská výživa, mäso, kuracie, ml."
   },
-  "babyfood_meat_chick_stks_jr": {
-    "name": "Detská výživa, mäso, kurčatá, ml",
-    "alternative_names": [],
-    "description": "Detská výživa, mäso, kurčatá, ml."
-  },
   "gerber_graduates_fruit_strips_real_fruit_bars": {
     "name": "Gerber absolventov ovocných pásikov skutočné ovocné tyčinky",
     "alternative_names": [],
@@ -654,11 +644,6 @@
     "alternative_names": [],
     "description": "Detská výživa, ovocie, hrušky, junior."
   },
-  "babyfood_fruit_plums_wtapioca_wovit_c_str": {
-    "name": "Detská výživa, ovocie, slivky s tapiokou, s vit c, str",
-    "alternative_names": [],
-    "description": "Detská výživa, ovocie, slivky s tapiokou, s vit c, str."
-  },
   "babyfood_fruit_plums_wtapioca_wovit_c_jr": {
     "name": "Detská výživa, ovocie, slivky s tapiokou, s vit c, junior",
     "alternative_names": [],
@@ -683,16 +668,6 @@
     "name": "Detská výživa, hrušky, kocky, todd",
     "alternative_names": [],
     "description": "Detská výživa, hrušky, kocky, todd."
-  },
-  "babyfood_fruit_applsaucapricots_str": {
-    "name": "Detská výživa, ovocie, jablká a marhule, str",
-    "alternative_names": [],
-    "description": "Detská výživa, ovocie, jablká a marhule, str."
-  },
-  "babyfood_fruit_applsaucapricots_jr": {
-    "name": "Detská výživa, ovocie, jablká a marhule, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, ovocie, jablká a marhule, junior."
   },
   "babyfood_fruit_applsauccherries_str": {
     "name": "Detská výživa, ovocie, jablká a čerešne, str",
@@ -719,11 +694,6 @@
     "alternative_names": [],
     "description": "Detská výživa, ovocie a zelenina, jablká a zemiaky."
   },
-  "babyfood_fruit_bananaspnappl_wtapioca_jr": {
-    "name": "Detská výživa, ovocie, banány&pnappl s tapiokou, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, ovocie, banány&pnappl s tapiokou, junior."
-  },
   "babyfood_fruit_bananaspnappl_wtapioca_str": {
     "name": "Detská výživa, ovocie, banány&pnappl s tapiokou, str",
     "alternative_names": [],
@@ -733,11 +703,6 @@
     "name": "Detská výživa, ovocie, hrušky&pnappl, str",
     "alternative_names": [],
     "description": "Detská výživa, ovocie, hrušky&pnappl, str."
-  },
-  "babyfood_fruit_pearspnappl_jr": {
-    "name": "Detská výživa, ovocie, hrušky&pnappl, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, ovocie, hrušky&pnappl, junior."
   },
   "babyfood_peaches_dices_todd": {
     "name": "Detská výživa, broskyne, kocky, todd",
@@ -1019,11 +984,6 @@
     "alternative_names": [],
     "description": "Detská výživa, crl, zmiešané, príprava s mliekom."
   },
-  "babyfood_crl_mxd_wbananas_prep_wwhl_milk": {
-    "name": "Detská výživa, crl, zmiešané, s banánmi, príprava s mliekom",
-    "alternative_names": [],
-    "description": "Detská výživa, crl, zmiešané, s banánmi, príprava s mliekom."
-  },
   "babyfood_crl_rice_prep_wwhl_milk": {
     "name": "Detská výživa, crl, ryža, príprava s mliekom",
     "alternative_names": [],
@@ -1089,16 +1049,6 @@
     "alternative_names": [],
     "description": "Dojčenská výživa, Mead Johnson, prosobee, so železom, tekutina cnc, nepripravená."
   },
-  "inf_formula_mead_johnson_enfamil_prosobee_iro": {
-    "name": "Dojčenská výživa, Mead Johnson, enfamil, prosobee, železo, prášok, nie recon",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, Mead Johnson, enfamil, prosobee, železo, prášok, nie recon."
-  },
-  "inf_for_me_johns_enfamil_lactof_lipil_w_ir_pd": {
-    "name": "Dojčenská výživa, Mead Johnson, enfamil, bezlaktózová lipil, s/ ir, prášok, s ARA a DHA",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, Mead Johnson, enfamil, bezlaktózová lipil, s/ ir, prášok, s ARA a DHA."
-  },
   "inf_formula_mead_johnson_enfamil_lipil_rtf_w": {
     "name": "Dojčenská výživa, Mead Johnson, enfamil, lipil, pripravená na kŕmenie, s ARA a DHA",
     "alternative_names": [],
@@ -1128,11 +1078,6 @@
     "name": "Dojčenská výživa, ab Nutramigen, similac, so železom, tekutina koncentrát, nerecon",
     "alternative_names": [],
     "description": "Dojčenská výživa, ab Nutramigen, similac, so železom, tekutina koncentrát, nerecon."
-  },
-  "inf_formula_abbott_nutr_similac_w_iron_pdr_no": {
-    "name": "Dojčenská výživa, abbott Nutramigen, similac, so železom, prášok, nepripravená",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, abbott Nutramigen, similac, so železom, prášok, nepripravená."
   },
   "inffor_meadjohns_enfamil_prosobee_lipil_lc_no": {
     "name": "Inffor, meadjohns, enfamil, prosobee, lipil, lc, notrec, ara&dha",
@@ -1184,16 +1129,6 @@
     "alternative_names": [],
     "description": "Vzorec Inf, produkty pbm, značka obchodu, sója, pripravená na kŕmenie."
   },
-  "inf_formula_pbm_products_store_brand_soy_pdr": {
-    "name": "Dojčenská výživa, produkty pbm, obchodná značka, sója, prášok",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, produkty pbm, obchodná značka, sója, prášok."
-  },
-  "inf_formula_mead_johnson_enfamil_ar_lipil_rtf": {
-    "name": "Dojčenská výživa, Mead Johnson, enfamil, ar lipil, pripravená na kŕmenie, s ARA a DHA",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, Mead Johnson, enfamil, ar lipil, pripravená na kŕmenie, s ARA a DHA."
-  },
   "inf_form_abbott_similac_neosure_pdr_w_ara_dha": {
     "name": "Dojčenská výživa, abbott, similac, neosure, prášok, s ARA a DHA",
     "alternative_names": [],
@@ -1203,11 +1138,6 @@
     "name": "Inf formula, abbo Nutramigen, similac, advan, so železom, tekutina koncentrát, nepripravené",
     "alternative_names": [],
     "description": "Inf formula, abbo Nutramigen, similac, advan, so železom, tekutina koncentrát, nepripravené."
-  },
-  "inf_formula_mead_johnson_enfamil_enfacare_lip": {
-    "name": "Inf formula, Mead Johnson, enfamil, enfacare lipil, pripravená na kŕmenie, ara&dha",
-    "alternative_names": [],
-    "description": "Inf formula, Mead Johnson, enfamil, enfacare lipil, pripravená na kŕmenie, ara&dha."
   },
   "babyfood_yogurt_whl_milk_w_fruit_multigrain_c": {
     "name": "Detská výživa, jogurt, sušené mlieko, s ovocím, viaczrnné crl a pridaná dha",
@@ -1384,11 +1314,6 @@
     "alternative_names": [],
     "description": "Polievka, krém zo zemiakov, konzervované, kond."
   },
-  "soup_tomato_rice_cnd_cond": {
-    "name": "Polievka, paradajková ryža, konzervované, kondenzované",
-    "alternative_names": [],
-    "description": "Polievka, paradajková ryža, konzervované, kondenzované."
-  },
   "soup_turkey_noodle_cnd_cond": {
     "name": "Polievka, morčacie rezance, konzervované, kond",
     "alternative_names": [],
@@ -1544,11 +1469,6 @@
     "alternative_names": [],
     "description": "Polievka, minestrone, konzervované, červená na, pripravená."
   },
-  "soup_crm_of_mushroom_cnd_cond_red_na": {
-    "name": "Polievka, krém z húb, konzervované, kondenzované, červená na",
-    "alternative_names": [],
-    "description": "Polievka, krém z húb, konzervované, kondenzované, červená na."
-  },
   "soup_beanham_cnd_red_na_prep_wh2o_or_rts": {
     "name": "Polievka, fazuľa a šunka, konzervované, červená na, príprava s vodou alebo pripravená",
     "alternative_names": [],
@@ -1613,11 +1533,6 @@
     "name": "Polievka, čierna fazuľa, konzervované, príprava s ekvivalentným objemom vody",
     "alternative_names": [],
     "description": "Polievka, čierna fazuľa, konzervované, príprava s ekvivalentným objemom vody."
-  },
-  "soup_bean_w_pork_cnd_prep_w_eq_volume_h2o": {
-    "name": "Polievka, fazuľová s bravčovým mäsom, konzervované, príprava s rovnakým objemom vody",
-    "alternative_names": [],
-    "description": "Polievka, fazuľová s bravčovým mäsom, konzervované, príprava s rovnakým objemom vody."
   },
   "soup_bf_noodle_cnd_prep_w_eq_volume_h2o": {
     "name": "Polievka, hovädzie rezance, konzervované, príprava s rovnakým objemom vody",
@@ -1689,11 +1604,6 @@
     "alternative_names": [],
     "description": "Polievka, zelenina hovädzie, konzervované, príprava s rovnakým objemom vody."
   },
-  "soup_veg_w_bf_broth_cnd_prep_w_eq_volume_h2o": {
-    "name": "Polievka, zelenina s bujónom, konzervované, príprava s ekvivalentným objemom vody",
-    "alternative_names": [],
-    "description": "Polievka, zelenina s bujónom, konzervované, príprava s ekvivalentným objemom vody."
-  },
   "soup_bean_w_bacon_dry_mix_prep_w_h2o": {
     "name": "Polievka, fazuľa so slaninou, suchá, mix, príprava s vodou",
     "alternative_names": [],
@@ -1709,30 +1619,15 @@
     "alternative_names": [],
     "description": "Polievka, kuracia ryža, suchá, mix, príprava s vodou."
   },
-  "soup_mushroom_dry_mix_prep_w_h2o": {
-    "name": "Polievka, hubová, suchá, mix, príprava s vodou",
-    "alternative_names": [],
-    "description": "Polievka, hubová, suchá, mix, príprava s vodou."
-  },
   "soup_onion_dry_mix_prep_w_h2o": {
     "name": "Polievka, cibuľa, suchá, mix, príprava s vodou",
     "alternative_names": [],
     "description": "Polievka, cibuľa, suchá, mix, príprava s vodou."
   },
-  "soup_oxtail_dry_mix_prep_w_h2o": {
-    "name": "Polievka, hovädzí chvost, suchá, mix, príprava s vodou",
-    "alternative_names": [],
-    "description": "Polievka, hovädzí chvost, suchá, mix, príprava s vodou."
-  },
   "soup_tomato_dry_mix_prep_w_h2o": {
     "name": "Polievka, paradajková, suchá, mix, príprava s vodou",
     "alternative_names": [],
     "description": "Polievka, paradajková, suchá, mix, príprava s vodou."
-  },
-  "soup_tomato_veg_dry_mix_prep_w_h2o": {
-    "name": "Polievka, paradajková zelenina, suchá, mix, príprava s vodou",
-    "alternative_names": [],
-    "description": "Polievka, paradajková zelenina, suchá, mix, príprava s vodou."
   },
   "soup_veg_bf_dry_mix_prep_w_h2o": {
     "name": "Polievka, zelenina hovädzie, suchá, mix, príprava s vodou",
@@ -2189,11 +2084,6 @@
     "alternative_names": [],
     "description": "Cukríky, mars snackfood nás, kolky originálna veľkosť zahryznutia."
   },
-  "candies_fudge_choc_marshmllw_prepared_from_re": {
-    "name": "Cukríky, fudge, čokoláda marshmllw, pripravené podľa receptu",
-    "alternative_names": [],
-    "description": "Cukríky, fudge, čokoláda marshmllw, pripravené podľa receptu."
-  },
   "candies_taffy_prepared_from_recipe": {
     "name": "Cukríky, karamelové, pripravené podľa receptu",
     "alternative_names": [],
@@ -2369,16 +2259,6 @@
     "alternative_names": [],
     "description": "\"domino's 14\" syr pizza, chrumkavá tenká kôrka\"."
   },
-  "dominos_14_pepperoni_pizza_classic_hand_tosse": {
-    "name": "Domino's 14\" pepperoni pizza, klasická ručne hádzaná kôrka",
-    "alternative_names": [],
-    "description": "\"domino's 14\" pepperoni pizza, klasická ručne hádzaná kôrka\"."
-  },
-  "dominos_14_pepperoni_pizza_ultimate_deep_dish": {
-    "name": "Domino's 14\" pepperoni pizza, dokonalá hlboká kôrka",
-    "alternative_names": [],
-    "description": "\"domino's 14\" pepperoni pizza, dokonalá hlboká kôrka\"."
-  },
   "dominos_14_extravaganzza_fst_pizza_clssic_han": {
     "name": "Domino's 14\" extravaganzza fst pizza, clssic hand-hoed crst",
     "alternative_names": [],
@@ -2419,11 +2299,6 @@
     "alternative_names": [],
     "description": "\"little caesars 14\" syr pizza, lrg deep dish crust\"."
   },
-  "little_caesars_14_pepperoni_pizza_lrg_deep_di": {
-    "name": "Little caesars 14\" pepperoni pizza, lrg hlboká kôrka",
-    "alternative_names": [],
-    "description": "\"little caesars 14\" pepperoni pizza, lrg hlboká kôrka\"."
-  },
   "little_caesars_14_chs_pizza_thin_crust": {
     "name": "Malý caesars 14\" syr pizza, tenká kôrka",
     "alternative_names": [],
@@ -2438,16 +2313,6 @@
     "name": "Fast fd, pizza chain, 14\" pizza, syr topping, Hrubá kôrka",
     "alternative_names": [],
     "description": "\"fast fd, pizza chain, 14\" pizza, syr topping, Hrubá kôrka\"."
-  },
-  "fast_fd_pizza_chain_14_pizza_chs_topping_thin": {
-    "name": "Fast fd, pizza chain, 14\" pizza, syr topping, thin crust",
-    "alternative_names": [],
-    "description": "\"fast fd, pizza chain, 14\" pizza, syr topping, thin crust\"."
-  },
-  "fast_fd_pizza_chain_14_pizza_pepperoni_toppin": {
-    "name": "Fast fd, pizza chain, 14\" pizza, pepperoni topping, reg crust",
-    "alternative_names": [],
-    "description": "\"fast fd, pizza chain, 14\" pizza, pepperoni topping, reg crust\"."
   },
   "fast_fd_pizza_chain_14_pizza_meat_veg_topping": {
     "name": "Fast fd, pizza chain, 14\" pizza, meat & veget topping, reg crust",
@@ -2473,11 +2338,6 @@
     "name": "Digiorno pizza, syr topping, tenká chrumkavá kôrka, mrazené, pečené",
     "alternative_names": [],
     "description": "Digiorno pizza, syr topping, tenká chrumkavá kôrka, mrazené, pečené."
-  },
-  "digiorno_pizza_pepperoni_topping_chs_stuffed": {
-    "name": "Digiorno pizza, feferónkový toping, syr plnená kôrka, mrazené, pečené",
-    "alternative_names": [],
-    "description": "Digiorno pizza, feferónkový toping, syr plnená kôrka, mrazené, pečené."
   },
   "digiorno_pizza_pepperoni_topping_rising_crust": {
     "name": "Digiorno pizza, feferónkový toping, kysnutá kôrka, mrazené, pečené",
@@ -2729,25 +2589,10 @@
     "alternative_names": [],
     "description": "Šľahaný toping, mrazené, nízkotučný."
   },
-  "candies_mars_snackfood_us_mms_pnut_butter_cho": {
-    "name": "Cukríky, mars snackfood us, m&m's arašidové maslo čokoládový cukríky",
-    "alternative_names": [],
-    "description": "Cukríky, mars snackfood us, m&m's arašidové maslo čokoládový cukríky."
-  },
   "babyfood_appl_yogurt_dssrt_str": {
     "name": "Detská výživa, aplikovaný jogurt dezert, str",
     "alternative_names": [],
     "description": "Detská výživa, aplikovaný jogurt dezert, str."
-  },
-  "candies_mars_snackfood_us_milky_way_midnight": {
-    "name": "Cukríky, mars snackfood nás, mliečna dráha polnočný bar",
-    "alternative_names": [],
-    "description": "Cukríky, mars snackfood nás, mliečna dráha polnočný bar."
-  },
-  "candies_mars_snackfood_us_mms_almond_choc_can": {
-    "name": "Cukríky, mars snackfood us, m&m's mandľové čokoládové cukríky",
-    "alternative_names": [],
-    "description": "Cukríky, mars snackfood us, m&m's mandľové čokoládové cukríky."
   },
   "snacks_popcorn_home_prepared_oil_popped_unsal": {
     "name": "Občerstvenie, pukance, doma pripravené, máčené v oleji, nesolené",
@@ -3533,11 +3378,6 @@
     "name": "Fast food, hamburger, lrg, single patty, sochucovadlá",
     "alternative_names": [],
     "description": "Fast food, hamburger, lrg, single patty, sochucovadlá."
-  },
-  "wendys_classic_single_hamburger_no_chs": {
-    "name": "Wendy's, klasický single hamburger, bez syr",
-    "alternative_names": [],
-    "description": "Wendy's, klasický single hamburger, bez syr."
   },
   "wendys_classic_single_hamburger_w_chs": {
     "name": "Wendy's, klasický single hamburger, s syr",

@@ -74,7 +74,7 @@
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 16017), USDA SR28 (NDB No: 16317)",
       "tags": [
         "cooked",
         "k1",
@@ -2240,33 +2240,6 @@
       }
     },
     {
-      "id": "beans_black_turtle_mature_seeds_ckd_bld_wo_sa",
-      "category": "nuts_seeds",
-      "tags": [
-        "cooked",
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.1,
-          "gram_equivalent": 185
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16017), USDA SR28 (NDB No: 16317)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
       "id": "beans_great_northern_mature_seeds_raw",
       "category": "nuts_seeds",
       "tags": [
@@ -2582,7 +2555,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.7
+          "vitamin_k_mcg": 3.5
         },
         {
           "amount": 1.0,
@@ -2591,7 +2564,7 @@
           "gram_equivalent": 169
         }
       ],
-      "source": "USDA SR28 (NDB No: 16041), USDA SR28 (NDB No: 16341)",
+      "source": "USDA SR28 (NDB No: 16041), USDA SR28 (NDB No: 16341), USDA SR28 (NDB No: 16043), USDA SR28 (NDB No: 16050), USDA SR28 (NDB No: 16343)",
       "relations": {
         "group": "beans"
       }
@@ -2625,39 +2598,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 16042)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
-      "id": "beans_pinto_mature_seeds_ckd_bld_wosalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "cooked",
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 171
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 10
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16043), USDA SR28 (NDB No: 16050), USDA SR28 (NDB No: 16343)",
       "relations": {
         "group": "beans"
       }
@@ -3585,26 +3525,6 @@
       }
     },
     {
-      "id": "plant_based_burger_or_steak_from_lentil_soybean_and_vegetables_prepacked",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes",
-        "soy"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 13.5
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 25591)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
       "id": "plant_based_burger_or_steak_from_soybean_and_vegetables_prepacked",
       "category": "nuts_seeds",
       "tags": [
@@ -3619,7 +3539,7 @@
           "vitamin_k_mcg": 12.3
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 25596)",
+      "source": "Ciqual 2025 (Food Code: 25596), Ciqual 2025 (Food Code: 25591)",
       "relations": {
         "group": "soy"
       }

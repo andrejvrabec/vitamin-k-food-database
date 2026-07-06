@@ -171,11 +171,6 @@
     "alternative_names": [],
     "description": "Mlieko, cmar, sušené."
   },
-  "milk_canned_evaporated_with_added_vitami": {
-    "name": "Mlieko, konzervované, odparené, s pridaným vitamínom D a bez pridaného vitamínu A",
-    "alternative_names": [],
-    "description": "Mlieko, konzervované, odparené, s pridaným vitamínom D a bez pridaného vitamínu A."
-  },
   "potatoes_mashed_dehydrated_flakes_withou": {
     "name": "Zemiaky, kaše, dehydrované, vločky bez mlieka, suché",
     "alternative_names": [],
@@ -271,11 +266,6 @@
     "alternative_names": [],
     "description": "Syr, rímsky."
   },
-  "cheese_past_process_american_fort_w_vitamin_d": {
-    "name": "Syr, minulý proces, americký, pevnosť s vitamínom d",
-    "alternative_names": [],
-    "description": "Syr, minulý proces, americký, pevnosť s vitamínom d."
-  },
   "cheese_past_process_pimento": {
     "name": "Syr, predchádzajúci proces, korenie",
     "alternative_names": [],
@@ -285,11 +275,6 @@
     "name": "Syr, minulý proces, švajčiarsky",
     "alternative_names": [],
     "description": "Syr, minulý proces, švajčiarsky."
-  },
-  "cheese_fd_past_process_american_vitamin_d_for": {
-    "name": "Syr fd, minulý proces, americký, fort vitamínu D",
-    "alternative_names": [],
-    "description": "Syr fd, minulý proces, americký, fort vitamínu D."
   },
   "cheese_sprd_past_process_american": {
     "name": "Syr nátierka, minulý proces, americký",
@@ -351,20 +336,10 @@
     "alternative_names": [],
     "description": "Mlieko, konzervované, kondenzované, sladené."
   },
-  "milk_cnd_evap_w_added_vitamin_d_wo_added_vit": {
-    "name": "Mlieko, konzervované, evap, s pridaným vitamínom d & s / s prídavkom vitamínu",
-    "alternative_names": [],
-    "description": "Mlieko, konzervované, evap, s pridaným vitamínom d & s / s prídavkom vitamínu."
-  },
   "milk_choc_fluid_comm_whl_w_added_vit_a_vitami": {
     "name": "Mlieko, čokoláda, tekutina, comm, whl, s pridaným vitamínom a vitamínom d",
     "alternative_names": [],
     "description": "Mlieko, čokoláda, tekutina, comm, whl, s pridaným vitamínom a vitamínom d."
-  },
-  "milk_choc_fluid_comm_lowfat_w_added_vit_a_vit": {
-    "name": "Mlieko, čokoláda, tekutiny, comm, nízkotučné, s pridaným vitamínom A a vitamínom D",
-    "alternative_names": [],
-    "description": "Mlieko, čokoláda, tekutiny, comm, nízkotučné, s pridaným vitamínom A a vitamínom D."
   },
   "milk_choc_bev_hot_cocoa_homemade": {
     "name": "Mlieko, čokoládový nápoj, horúce kakao, domáce",
@@ -400,11 +375,6 @@
     "name": "Jogurt, pln, nízkotučný, 12 gramov prot na 8 oz",
     "alternative_names": [],
     "description": "Jogurt, pln, nízkotučný, 12 gramov prot na 8 oz."
-  },
-  "yogurt_vanilla_lofat_11_grams_prot_per_8_oz": {
-    "name": "Jogurt, vanilka, nízkotučný, 11 gramov prot na 8 oz",
-    "alternative_names": [],
-    "description": "Jogurt, vanilka, nízkotučný, 11 gramov prot na 8 oz."
   },
   "egg_whl_raw_frsh": {
     "name": "Vajcia, whl, surové, čerstvé",
@@ -676,11 +646,6 @@
     "alternative_names": [],
     "description": "Zemiaky, mshd, sušené, príprava z vločiek s mliekom, mliekom a ale."
   },
-  "potatoes_mshd_dehyd_granules_womilk_dry_form": {
-    "name": "Zemiaky, mshd, sušené, granule s mliekom, suchá forma",
-    "alternative_names": [],
-    "description": "Zemiaky, mshd, sušené, granule s mliekom, suchá forma."
-  },
   "potatoes_mshd_dehyd_granules_wmilk_dry_form": {
     "name": "Zemiaky, mshd, sušené, granule s mliekom, suchá forma",
     "alternative_names": [],
@@ -711,20 +676,10 @@
     "alternative_names": [],
     "description": "Zmes vaječného likéru, prášok, príprava s mliekom."
   },
-  "malted_drk_mix_nat_w_added_nutr_pdr_prep_w_wh": {
-    "name": "Sladový nápoj mix, nat, s prídavkom Nutramigen, prášok, príprava s mliekom",
-    "alternative_names": [],
-    "description": "Sladový nápoj mix, nat, s prídavkom Nutramigen, prášok, príprava s mliekom."
-  },
   "malted_drk_mix_nat_pdr_prep_w_whl_milk": {
     "name": "Sladový nápoj mix, nat, prášok, príprava s s/ whl mlieko",
     "alternative_names": [],
     "description": "Sladový nápoj mix, nat, prášok, príprava s s/ whl mlieko."
-  },
-  "malted_drk_mix_choc_w_added_nutr_pdr_prep_w_w": {
-    "name": "Sladový nápoj mix, čokoláda, s prídavkom Nutramigen, prášok, príprava s mliekom",
-    "alternative_names": [],
-    "description": "Sladový nápoj mix, čokoláda, s prídavkom Nutramigen, prášok, príprava s mliekom."
   },
   "crackers_milk": {
     "name": "Krekry, mlieko",
@@ -771,11 +726,6 @@
     "alternative_names": [],
     "description": "Pudingy, vanilka, suchá zmes, reg, príprava s mliekom."
   },
-  "puddings_banana_dry_mix_inst_prep_w_whl_milk": {
-    "name": "Pudingy, banán, suchá zmes, inšt., príprava s mliekom",
-    "alternative_names": [],
-    "description": "Pudingy, banán, suchá zmes, inšt., príprava s mliekom."
-  },
   "fast_foods_biscuit_weggbacon": {
     "name": "Rýchle občerstvenie, sušienky, s vajcom a slaninou",
     "alternative_names": [],
@@ -791,20 +741,10 @@
     "alternative_names": [],
     "description": "Raňajkové položky, sušienky s vajcom a klobásou."
   },
-  "fast_foods_biscuit_wegg_chs_bacon": {
-    "name": "Rýchle občerstvenie, sušienky, s vajcom, syr a slaninou",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, sušienky, s vajcom, syr a slaninou."
-  },
   "fast_foods_egg_scrambled": {
     "name": "Rýchle občerstvenie, vajcia, miešané",
     "alternative_names": [],
     "description": "Rýchle občerstvenie, vajcia, miešané."
-  },
-  "fast_foods_griddle_cake_sndwch_egg_chs_sausag": {
-    "name": "Rýchle občerstvenie, tortový sndwch, vajcia, syr a klobása",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, tortový sndwch, vajcia, syr a klobása."
   },
   "fast_foods_griddle_cake_sndwch_egg_chs_bacon": {
     "name": "Rýchle občerstvenie, tortový sndwch, vajcia, syr a slanina",
@@ -1131,11 +1071,6 @@
     "alternative_names": [],
     "description": "Hermelín, z kravského mlieka."
   },
-  "camembert_cheese_from_cows_milk_from_raw_milk_or_thermised_milk": {
-    "name": "Hermelín, z kravského mlieka, zo surového mlieka alebo termizovaného mlieka",
-    "alternative_names": [],
-    "description": "Hermelín, z kravského mlieka, zo surového mlieka alebo termizovaného mlieka."
-  },
   "camembert_cheese_from_cows_milk_from_pasteurized_milk": {
     "name": "Hermelín, z kravského mlieka, z pasterizovaného mlieka",
     "alternative_names": [],
@@ -1150,11 +1085,6 @@
     "name": "Syr Brie, z kravského mlieka",
     "alternative_names": [],
     "description": "Syr Brie, z kravského mlieka."
-  },
-  "brie_de_melun_cheese_from_cows_milk": {
-    "name": "Syr Brie de Melun, z kravského mlieka",
-    "alternative_names": [],
-    "description": "Syr Brie de Melun, z kravského mlieka."
   },
   "neufchtel_cheese_from_cows_milk": {
     "name": "Syr Neufchâtel, z kravského mlieka",
@@ -1191,11 +1121,6 @@
     "alternative_names": [],
     "description": "Syr Pont l'Evêque, z kravského mlieka."
   },
-  "saint_marcellin_cheese_from_cows_milk": {
-    "name": "Syr Saint-Marcellin, z kravského mlieka",
-    "alternative_names": [],
-    "description": "Syr Saint-Marcellin, z kravského mlieka."
-  },
   "saint_felicien_cheese_from_cows_milk": {
     "name": "Syr Saint-Felicien, z kravského mlieka",
     "alternative_names": [],
@@ -1205,11 +1130,6 @@
     "name": "Syr Boulette d'Avesnes z kravského mlieka",
     "alternative_names": [],
     "description": "Syr Boulette d'Avesnes z kravského mlieka."
-  },
-  "cheese_semi_dry_from_goats_milk": {
-    "name": "Syr, polosuchý, z kozieho mlieka",
-    "alternative_names": [],
-    "description": "Syr, polosuchý, z kozieho mlieka."
   },
   "cheese_dry_from_goats_milk": {
     "name": "Syr, suchý, z kozieho mlieka",
@@ -1335,11 +1255,6 @@
     "name": "Tavený syr, z kravského mlieka, trojhranný, neforkovaný",
     "alternative_names": [],
     "description": "Tavený syr, z kravského mlieka, trojhranný, neforkovaný."
-  },
-  "processed_cheese_from_cows_milk_triangle_fortified_with_vitamins": {
-    "name": "Tavený syr, z kravského mlieka, trojuholník, obohatený o vitamíny",
-    "alternative_names": [],
-    "description": "Tavený syr, z kravského mlieka, trojuholník, obohatený o vitamíny."
   },
   "processed_cheese_from_cows_milk_square_not_fortified_with_vitamins": {
     "name": "Tavený syr, z kravského mlieka, hranatý, neobohatený vitamínmi",

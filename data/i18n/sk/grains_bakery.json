@@ -9,11 +9,6 @@
     "alternative_names": [],
     "description": "Sušienky, hladké alebo cmar, chladené cesto, vyšší obsah tuku."
   },
-  "bread_french_or_vienna_toasted": {
-    "name": "Chlieb, francúzsky alebo viedenský, toastový (vrátane kysnutého cesta)",
-    "alternative_names": [],
-    "description": "Chlieb, francúzsky alebo viedenský, toastový (vrátane kysnutého cesta)."
-  },
   "bread_oat_bran": {
     "name": "Chlieb, ovsené otruby",
     "alternative_names": [],
@@ -98,11 +93,6 @@
     "name": "Cereálie na priamu spotrebu, POST, MEDOVÉ ZÁVESKY OVSA so zväzkami vanilky",
     "alternative_names": [],
     "description": "Cereálie na priamu spotrebu, POST, MEDOVÉ ZÁVESKY OVSA so zväzkami vanilky."
-  },
-  "cereals_ready_to_eat_post_honeycomb_cere": {
-    "name": "Cereálie na priamu spotrebu, POST, Honeycomb Cereal",
-    "alternative_names": [],
-    "description": "Cereálie na priamu spotrebu, POST, Honeycomb Cereal."
   },
   "cereals_ready_to_eat_post_shredded_wheat": {
     "name": "Cereálie na priamu spotrebu, POST, strúhaná pšenica, originálna veľkosť lyžice",
@@ -359,20 +349,10 @@
     "alternative_names": [],
     "description": "Raňajkové cereálie, quaker, cap'n crunch."
   },
-  "cereals_rte_quaker_capn_crunch_w_crunchberrie": {
-    "name": "Raňajkové cereálie, quaker, cap'n crunch s/ crunchberries",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, quaker, cap'n crunch s/ crunchberries."
-  },
   "cereals_rte_quaker_capn_crunchs_pnut_butter_c": {
     "name": "Cereálie ready-to-eat, quaker, cap'n crunch's arašidové maslo crunch",
     "alternative_names": [],
     "description": "Cereálie ready-to-eat, quaker, cap'n crunch's arašidové maslo crunch."
-  },
-  "cereals_rte_general_mills_cheerios": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, cheerios",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, cheerios."
   },
   "cereals_rte_kellogg_kelloggs_cocoa_krispies": {
     "name": "Raňajkové cereálie, kellogg, kelloggove kakaové krispies",
@@ -453,11 +433,6 @@
     "name": "Raňajkové cereálie, post, vločky z hroznových orechov",
     "alternative_names": [],
     "description": "Raňajkové cereálie, post, vločky z hroznových orechov."
-  },
-  "cereals_rte_general_mills_honey_nut_cheerios": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, medové orechy cheerios",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, medové orechy cheerios."
   },
   "cereals_rte_post_honeycomb_crl": {
     "name": "Cereálie ready-to-eat, post, plást crl",
@@ -569,11 +544,6 @@
     "alternative_names": [],
     "description": "Raňajkové cereálie, post, med orech strúhaná pšenica."
   },
-  "cereals_rte_general_mills_wheat_chex": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, pšenica chex",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, pšenica chex."
-  },
   "cereals_rte_malt_o_meal_corn_bursts": {
     "name": "Raňajkové cereálie, sladová krupica, kukuričné ​​šroty",
     "alternative_names": [],
@@ -583,16 +553,6 @@
     "name": "Raňajkové cereálie, pšeničné klíčky, opekané, pln",
     "alternative_names": [],
     "description": "Raňajkové cereálie, pšeničné klíčky, opekané, pln."
-  },
-  "cereals_rte_general_mills_multi_grain_cheerio": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, viaczrnné cheerios",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, viaczrnné cheerios."
-  },
-  "cereals_rte_general_mills_wheaties": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, pšenica",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, pšenica."
   },
   "cereals_quaker_corn_grits_inst_cheddar_chs_fl": {
     "name": "Obilniny, kvaker, kukuričná krupica, instantné, príchuť čedar syr, suché",
@@ -669,11 +629,6 @@
     "alternative_names": [],
     "description": "Obilniny, ovos, instantné, fort, s cinn & koren, prprava s vodou."
   },
-  "cereals_oats_inst_fort_w_raisins_spice_dry": {
-    "name": "Obilniny, ovos, instantné, fort, s hrozienkami a korením, suché",
-    "alternative_names": [],
-    "description": "Obilniny, ovos, instantné, fort, s hrozienkami a korením, suché."
-  },
   "cereals_rte_malt_o_meal_marshmllw_mateys": {
     "name": "Raňajkové cereálie, sladová múčka, marshmllw mateys",
     "alternative_names": [],
@@ -729,11 +684,6 @@
     "alternative_names": [],
     "description": "Obilniny, pšenica, varené s vodou, so soľou."
   },
-  "cereals_rte_post_shredded_wheat_lightly_frstd": {
-    "name": "Raňajkové cereálie, post, strúhaná pšenica, jemne frstd, veľkosť lyžice",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, post, strúhaná pšenica, jemne frstd, veľkosť lyžice."
-  },
   "cereals_rte_post_blueberry_morning": {
     "name": "Cereálie ready-to-eat, prášok čučoriedkové ráno",
     "alternative_names": [],
@@ -753,11 +703,6 @@
     "name": "Raňajkové cereálie, sladová múčka, kokos",
     "alternative_names": [],
     "description": "Raňajkové cereálie, sladová múčka, kokos."
-  },
-  "cereals_rte_quaker_quaker_oat_cinn_life": {
-    "name": "Raňajkové cereálie, quaker, quaker ovs cinn life",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, quaker, quaker ovs cinn life."
   },
   "cereals_rte_quaker_honey_graham_ohs": {
     "name": "Raňajkové cereálie, quaker, med graham oh!s",
@@ -804,11 +749,6 @@
     "alternative_names": [],
     "description": "Raňajkové cereálie, všeobecné mlyny, bobule burst cheerios, trojité bobule."
   },
-  "cereals_rte_general_mills_honey_nut_clusters": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, zhluky medových orechov",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, zhluky medových orechov."
-  },
   "cereals_rte_general_mills_fiber_one_bran_crl": {
     "name": "Raňajkové cereálie, všeobecné mlyny, vláknina one otrub crl",
     "alternative_names": [],
@@ -819,11 +759,6 @@
     "alternative_names": [],
     "description": "Raňajkové cereálie, všeobecné mlynčeky, ovsené vločky chrumkavé výdatné hrozienka."
   },
-  "cereals_rte_general_mills_total_raisin_bran": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, celkové hrozienkové otruby",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, celkové hrozienkové otruby."
-  },
   "cereals_rte_general_mills_raisin_nut_bran": {
     "name": "Raňajkové cereálie, všeobecné mlyny, otruby z hrozienok",
     "alternative_names": [],
@@ -833,16 +768,6 @@
     "name": "Raňajkové cereálie, všeobecné mlyny, jablkový cinn cheerios",
     "alternative_names": [],
     "description": "Raňajkové cereálie, všeobecné mlyny, jablkový cinn cheerios."
-  },
-  "cereals_rte_general_mills_frstd_cheerios": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, frstd cheerios",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, frstd cheerios."
-  },
-  "cereals_rte_general_mills_frankenberry": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, frankenberry",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, frankenberry."
   },
   "cereals_rte_general_mills_count_chocula": {
     "name": "Raňajkové cereálie, všeobecné mlyny, počítajte čokoládu",
@@ -924,20 +849,10 @@
     "alternative_names": [],
     "description": "Raňajkové cereálie, sladová múčka, kolosálne chrumkanie."
   },
-  "cereals_rte_malt_o_meal_berry_colossal_crunch": {
-    "name": "Raňajkové cereálie, sladová múčka, obrovské chrumkanie bobúľ",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, sladová múčka, obrovské chrumkanie bobúľ."
-  },
   "cereals_rte_malt_o_meal_tootie_fruities": {
     "name": "Raňajkové cereálie, sladová múčka, totie fruities",
     "alternative_names": [],
     "description": "Raňajkové cereálie, sladová múčka, totie fruities."
-  },
-  "cereals_rte_kellogg_kelloggs_marshmllw_froot": {
-    "name": "Cereálie ready-to-eat, kellogg, kellogg's marshmllw froot loops",
-    "alternative_names": [],
-    "description": "Cereálie ready-to-eat, kellogg, kellogg's marshmllw froot loops."
   },
   "cereals_rte_kellogg_kelloggs_raisin_bran_crun": {
     "name": "Raňajkové cereálie, kellogg, kellogg's, hrozienkové otruby chrumkavé",
@@ -988,11 +903,6 @@
     "name": "Raňajkové cereálie, sladová múčka, prvé vločky",
     "alternative_names": [],
     "description": "Raňajkové cereálie, sladová múčka, prvé vločky."
-  },
-  "cereals_quaker_inst_oatmeal_cinnamon_spice_dr": {
-    "name": "Obilniny, kvaker, instantné ovsené vločky, škorica-korenie, suché",
-    "alternative_names": [],
-    "description": "Obilniny, kvaker, instantné ovsené vločky, škorica-korenie, suché."
   },
   "cereals_quaker_inst_oatmeal_express_golden_br": {
     "name": "Cereálie, kvaker, instantné ovsené vločky expres, zlatohnedý cukor, suché",
@@ -1109,11 +1019,6 @@
     "alternative_names": [],
     "description": "Raňajkové cereálie, sladová múčka, kakaové dyno-bites."
   },
-  "cereals_rte_malt_o_meal_fruity_dyno_bites": {
-    "name": "Raňajkové cereálie, sladová múčka, ovocné dyno-kusy",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, sladová múčka, ovocné dyno-kusy."
-  },
   "cereals_rte_natures_path_optimum": {
     "name": "Raňajkové cereálie, prírodná cesta, optimum",
     "alternative_names": [],
@@ -1129,11 +1034,6 @@
     "alternative_names": [],
     "description": "Raňajkové cereálie, ralston obohatené otruby vločky."
   },
-  "cereals_rte_general_mills_choc_lucky_charms": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, čokoládové talizmany",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, čokoládové talizmany."
-  },
   "cereals_rte_kellogg_kelloggs_cinn_mini_swirlz": {
     "name": "Raňajkové cereálie, kellogg, kellogg's cinn mini swirlz",
     "alternative_names": [],
@@ -1148,11 +1048,6 @@
     "name": "Cereálie ready-to-eat, kellogg, pl k, ovocie a jogurt",
     "alternative_names": [],
     "description": "Cereálie ready-to-eat, kellogg, pl k, ovocie a jogurt."
-  },
-  "cereals_rte_kelloggs_spl_k_vanilla_almond": {
-    "name": "Raňajkové cereálie, kellogg's, pl k vanilka mandle",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, kellogg's, pl k vanilka mandle."
   },
   "cereals_rte_post_great_grains_cranberry_almon": {
     "name": "Cereálie ready-to-eat, post veľké zrná brusnice mandľové chrumkanie",
@@ -1194,11 +1089,6 @@
     "alternative_names": [],
     "description": "Raňajkové cereálie, všeobecné mlyny, dora the explorer."
   },
-  "cereals_rte_general_mills_fruity_cheerios": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, ovocné cheerios",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, ovocné cheerios."
-  },
   "cereals_rte_kelloggs_spl_k_chocolatey_delight": {
     "name": "Cereálie ready-to-eat, kellogg's Special K čokoládové potešenie",
     "alternative_names": [],
@@ -1208,11 +1098,6 @@
     "name": "Raňajkové cereálie, všeobecné mlyny, celkom, brusnicová chrumka",
     "alternative_names": [],
     "description": "Raňajkové cereálie, všeobecné mlyny, celkom, brusnicová chrumka."
-  },
-  "cereals_rte_general_mills_25_less_sugar_trix": {
-    "name": "Raňajkové cereálie, všeobecné mlyny, o 25 % menej cukru trix",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, všeobecné mlyny, o 25 % menej cukru trix."
   },
   "cereals_rte_kellogg_kelloggs_spl_k_cinn_pecan": {
     "name": "Raňajkové cereálie, kellogg, kellogg's Special K, cinn pekan",
@@ -1233,11 +1118,6 @@
     "name": "Kukurica, sladká, žltá, mrazené, zrná odrezané z klasu, neupravený",
     "alternative_names": [],
     "description": "Kukurica, sladká, žltá, mrazené, zrná odrezané z klasu, neupravený."
-  },
-  "corn_swt_yel_frz_krnls_cut_off_cob_bld_drnd_w": {
-    "name": "Kukurica, sladká, žltá, mrazené, zrná odrezané z klasu, varené, scedené, bez soli",
-    "alternative_names": [],
-    "description": "Kukurica, sladká, žltá, mrazené, zrná odrezané z klasu, varené, scedené, bez soli."
   },
   "corn_swt_yel_frz_krnls_on_cob_unprep": {
     "name": "Kukurica, sladká, žltá, mrazené, klasy, neupravené",
@@ -1309,11 +1189,6 @@
     "alternative_names": [],
     "description": "Nakladané uhorky, uhorky, sladké (zahŕňa chlieb a maslo)."
   },
-  "pickles_cucumber_swt_lo_na": {
-    "name": "Nakladané uhorky, uhorky, sladké, lo na (zahŕňa chlieb a maslo)",
-    "alternative_names": [],
-    "description": "Nakladané uhorky, uhorky, sladké, lo na (zahŕňa chlieb a maslo)."
-  },
   "cranberry_juc_cocktail_btld_lo_cal_wca_saccha": {
     "name": "Brusnicový džúsový kokteil, vo fľaši, lokálny, sca, sacharin & corn swtnr",
     "alternative_names": [],
@@ -1358,11 +1233,6 @@
     "name": "Bagely, škoricovo-hrozienkové",
     "alternative_names": [],
     "description": "Bagely, škoricovo-hrozienkové."
-  },
-  "bagels_cinnamon_raisin_tstd": {
-    "name": "Bagely, škoricovo-hrozienkové, opekané",
-    "alternative_names": [],
-    "description": "Bagely, škoricovo-hrozienkové, opekané."
   },
   "bagels_oat_bran": {
     "name": "Bagely, ovsené otruby",
@@ -1424,16 +1294,6 @@
     "alternative_names": [],
     "description": "Chlieb, viaczrnný (vrátane celozrnného)."
   },
-  "bread_multi_grain_tstd": {
-    "name": "Chlieb, viaczrnný, opekané (vrátane celozrnného)",
-    "alternative_names": [],
-    "description": "Chlieb, viaczrnný, opekané (vrátane celozrnného)."
-  },
-  "bread_oat_bran_toasted": {
-    "name": "Chlieb, ovsené otruby, opekané",
-    "alternative_names": [],
-    "description": "Chlieb, ovsené otruby, opekané."
-  },
   "bread_oatmeal": {
     "name": "Chlieb, ovsené vločky",
     "alternative_names": [],
@@ -1469,20 +1329,10 @@
     "alternative_names": [],
     "description": "Chlieb, hrozienka, obohatený."
   },
-  "bread_raisin_tstd_enr": {
-    "name": "Chlieb, hrozienka, opekané, obohatené",
-    "alternative_names": [],
-    "description": "Chlieb, hrozienka, opekané, obohatené."
-  },
   "bread_red_cal_oat_bran": {
     "name": "Chlieb, červený kal, ovsené otruby",
     "alternative_names": [],
     "description": "Chlieb, červený kal, ovsené otruby."
-  },
-  "bread_red_cal_oat_bran_tstd": {
-    "name": "Chlieb, červený kal, ovsené otruby, opekané",
-    "alternative_names": [],
-    "description": "Chlieb, červený kal, ovsené otruby, opekané."
   },
   "bread_reduced_calorie_rye": {
     "name": "Chlieb, nízkokalorický, raž",
@@ -1674,16 +1524,6 @@
     "alternative_names": [],
     "description": "Anglické muffiny, pšeničné."
   },
-  "english_muffins_wheat_tstd": {
-    "name": "Anglické muffiny, pšeničné, opekané",
-    "alternative_names": [],
-    "description": "Anglické muffiny, pšeničné, opekané."
-  },
-  "english_muffins_whole_wheat": {
-    "name": "Anglické muffiny, celozrnné",
-    "alternative_names": [],
-    "description": "Anglické muffiny, celozrnné."
-  },
   "english_muffins_whole_wheat_tstd": {
     "name": "Anglické muffiny, celozrnné, opekané",
     "alternative_names": [],
@@ -1779,11 +1619,6 @@
     "alternative_names": [],
     "description": "Koláčová kôra, štandardný typ, mrazené, rtb, obohatené."
   },
-  "pie_crust_standard_type_frz_rtb_enr_bkd": {
-    "name": "Koláčová kôra, štandardný typ, mrazené, rtb, obohatené, pečené",
-    "alternative_names": [],
-    "description": "Koláčová kôra, štandardný typ, mrazené, rtb, obohatené, pečené."
-  },
   "pie_crust_standard_type_prep_from_recipe_bkd": {
     "name": "Koláčová kôra, štandardný typ, príprava podľa receptu, pečené",
     "alternative_names": [],
@@ -1814,21 +1649,6 @@
     "alternative_names": [],
     "description": "Strúhanka, suchá, strúhaná, ochutená."
   },
-  "bread_rice_bran_toasted": {
-    "name": "Chlieb, ryžové otruby, opekané",
-    "alternative_names": [],
-    "description": "Chlieb, ryžové otruby, opekané."
-  },
-  "bread_wheat_germ_toasted": {
-    "name": "Chlieb, pšeničné klíčky, opečený",
-    "alternative_names": [],
-    "description": "Chlieb, pšeničné klíčky, opečený."
-  },
-  "muffins_wheat_bran_toaster_type_wraisins_tstd": {
-    "name": "Muffiny, pšeničné otruby, hriankovač s hrozienkami, opekané",
-    "alternative_names": [],
-    "description": "Muffiny, pšeničné otruby, hriankovač s hrozienkami, opekané."
-  },
   "pie_crust_cookie_type_prep_from_recipe_choc_w": {
     "name": "Koláčová kôra, sušienka, príprava podľa receptu, čokoládová oblátka, chladená",
     "alternative_names": [],
@@ -1838,11 +1658,6 @@
     "name": "Koláčová kôra, sušienka, recept na prípravu, grahamový rožok, chladený",
     "alternative_names": [],
     "description": "Koláčová kôra, sušienka, recept na prípravu, grahamový rožok, chladený."
-  },
-  "pie_crust_cookie_type_prep_from_recipe_vanill": {
-    "name": "Koláčová kôra, sušienka, príprava podľa receptu, vanilková oblátka, chladená",
-    "alternative_names": [],
-    "description": "Koláčová kôra, sušienka, príprava podľa receptu, vanilková oblátka, chladená."
   },
   "pie_crust_standard_type_prep_from_recipe_unba": {
     "name": "Koláčová kôra, štandardný typ, príprava podľa receptu, nepečená",
@@ -1963,11 +1778,6 @@
     "name": "Krekry, slané tyčinky, pšenica (vrátane viaczrnných)",
     "alternative_names": [],
     "description": "Krekry, slané tyčinky, pšenica (vrátane viaczrnných)."
-  },
-  "bread_wheat_white_wheat": {
-    "name": "Chlieb, pšenica, biela pšenica",
-    "alternative_names": [],
-    "description": "Chlieb, pšenica, biela pšenica."
   },
   "bagel_wheat": {
     "name": "Bagel, pšenica",
@@ -2539,11 +2349,6 @@
     "alternative_names": [],
     "description": "Denny's, macaroni & syr, z detského menu."
   },
-  "cereals_rte_marshmllw_alpha_bits": {
-    "name": "Raňajkové cereálie, marshmllw alfa-bity",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, marshmllw alfa-bity."
-  },
   "candies_mars_snackfood_us_twix_choc_fudge_coo": {
     "name": "Cukríky, mars snackfood us, twix čokoládový fudge cookies tyčinky",
     "alternative_names": [],
@@ -2624,11 +2429,6 @@
     "alternative_names": [],
     "description": "Zelenina, zmiešané (kukurica, lima bns, hrach, grn bns, crrt) konzervované, bez soli."
   },
-  "cereals_rte_post_shredded_wheat_n_bran_spoon": {
-    "name": "Raňajkové cereálie, post, strúhaná pšenica n' otruby, veľkosť lyžice",
-    "alternative_names": [],
-    "description": "Raňajkové cereálie, post, strúhaná pšenica n' otruby, veľkosť lyžice."
-  },
   "cereals_rte_oat_bran_flakes_health_valley": {
     "name": "Raňajkové cereálie, vločky ovsených otrúb, údolie zdravia",
     "alternative_names": [],
@@ -2689,11 +2489,6 @@
     "alternative_names": [],
     "description": "Sójový a pšeničný burger alebo bite (vegan), balené."
   },
-  "soy_and_wheat_burger_or_bite_not_vegan_prepacked": {
-    "name": "Sójový a pšeničný burger alebo sústo (nie vegánske), balené",
-    "alternative_names": [],
-    "description": "Sójový a pšeničný burger alebo sústo (nie vegánske), balené."
-  },
   "wheat_based_nuggets_breaded_croquette_wo_soybean_prepacked": {
     "name": "Pšeničné nugety, balené krokety (bez sójové bôby), balené",
     "alternative_names": [],
@@ -2748,11 +2543,6 @@
     "name": "Rastlinný burger alebo steak z pšenice a sóje (nie vegánsky), balené",
     "alternative_names": [],
     "description": "Rastlinný burger alebo steak z pšenice a sóje (nie vegánsky), balené."
-  },
-  "sandwich_club_wholemeal_bread_ham_and_cheese_prepacked": {
-    "name": "Sendviče, pečivo, celozrnný chlieb, šunka a syr, balené",
-    "alternative_names": [],
-    "description": "Sendviče, pečivo, celozrnný chlieb, šunka a syr, balené."
   },
   "sandwich_club_wholemeal_bread_chicken_and_raw_vegetables_prepacked": {
     "name": "Sendviče, pečivo, celozrnný chlieb, kuracie mäso a surová zelenina, balené",

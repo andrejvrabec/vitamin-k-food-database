@@ -158,7 +158,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.9
+          "vitamin_k_mcg": 3.5
         },
         {
           "amount": 3.0,
@@ -167,7 +167,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 05078)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 05078), USDA SR28 (NDB No: 05079), USDA SR28 (NDB No: 05082)",
       "tags": [
         "cooked",
         "k2",
@@ -194,7 +194,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 05007), USDA SR28 (NDB No: 05031), USDA SR28 (NDB No: 05036), USDA SR28 (NDB No: 05058), USDA SR28 (NDB No: 05063)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 05007), USDA SR28 (NDB No: 05031), USDA SR28 (NDB No: 05036), USDA SR28 (NDB No: 05058), USDA SR28 (NDB No: 05063), USDA SR28 (NDB No: 05012)",
       "tags": [
         "cooked",
         "k2",
@@ -546,34 +546,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 15244)",
-      "tags": [
-        "cooked",
-        "k2",
-        "meat",
-        "seafood"
-      ],
-      "relations": {
-        "group": "seafood"
-      }
-    },
-    {
-      "id": "mollusks_oyster_eastern_wild_cooked_mois",
-      "category": "meat_poultry",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.7,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 15169)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 15244), USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 15169)",
       "tags": [
         "cooked",
         "k2",
@@ -699,7 +672,7 @@
           "gram_equivalent": 460
         }
       ],
-      "source": "USDA SR28 (NDB No: 05006)",
+      "source": "USDA SR28 (NDB No: 05006), USDA SR28 (NDB No: 05011)",
       "relations": {
         "group": "chicken"
       }
@@ -765,73 +738,7 @@
           "gram_equivalent": 200
         }
       ],
-      "source": "USDA SR28 (NDB No: 05010)",
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
-      "id": "chicken_broilers_or_fryers_meat_only_raw",
-      "category": "meat_poultry",
-      "tags": [
-        "k2",
-        "meat",
-        "poultry",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.5,
-          "gram_equivalent": 197
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 329
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05011)",
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
-      "id": "chicken_broilers_or_fryers_meat_only_ckd_frie",
-      "category": "meat_poultry",
-      "tags": [
-        "cooked",
-        "k2",
-        "meat",
-        "poultry"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 3.9,
-          "gram_equivalent": 140
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.3,
-          "gram_equivalent": 155
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05012)",
+      "source": "USDA SR28 (NDB No: 05010), USDA SR28 (NDB No: 05074)",
       "relations": {
         "group": "chicken"
       }
@@ -1198,39 +1105,6 @@
       }
     },
     {
-      "id": "chicken_broilers_or_fryers_drumstk_meatskn_ck",
-      "category": "meat_poultry",
-      "tags": [
-        "cooked",
-        "k2",
-        "meat",
-        "poultry"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.4,
-          "gram_equivalent": 105
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.1,
-          "gram_equivalent": 97
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05069)",
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
       "id": "chicken_broilers_or_fryers_dk_meat_drumstk_me",
       "category": "meat_poultry",
       "tags": [
@@ -1264,39 +1138,6 @@
       }
     },
     {
-      "id": "chicken_broilers_or_fryers_drumstk_meat_only",
-      "category": "meat_poultry",
-      "tags": [
-        "cooked",
-        "k2",
-        "meat",
-        "poultry"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.4,
-          "gram_equivalent": 160
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05074)",
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
       "id": "chicken_broilers_or_fryers_leg_meatskn_raw",
       "category": "meat_poultry",
       "tags": [
@@ -1324,106 +1165,7 @@
           "gram_equivalent": 111
         }
       ],
-      "source": "USDA SR28 (NDB No: 05075)",
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
-      "id": "chicken_broilers_or_fryers_leg_meatskn_ckd_st",
-      "category": "meat_poultry",
-      "tags": [
-        "cooked",
-        "k2",
-        "meat",
-        "poultry"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.9,
-          "gram_equivalent": 140
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.6,
-          "gram_equivalent": 75
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05079)",
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
-      "id": "chicken_broilers_or_fryers_leg_meat_only_raw",
-      "category": "meat_poultry",
-      "tags": [
-        "k2",
-        "meat",
-        "poultry",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.4,
-          "gram_equivalent": 265
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.1,
-          "gram_equivalent": 147
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05080)",
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
-      "id": "chicken_broilers_or_fryers_leg_meat_only_ckd",
-      "category": "meat_poultry",
-      "tags": [
-        "cooked",
-        "k2",
-        "meat",
-        "poultry"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.2,
-          "gram_equivalent": 199
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.8,
-          "gram_equivalent": 105
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05082)",
+      "source": "USDA SR28 (NDB No: 05075), USDA SR28 (NDB No: 05080)",
       "relations": {
         "group": "chicken"
       }
@@ -1508,7 +1250,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.3
+          "vitamin_k_mcg": 3.2
         },
         {
           "amount": 1.0,
@@ -1523,7 +1265,7 @@
           "gram_equivalent": 116
         }
       ],
-      "source": "USDA SR28 (NDB No: 05094)",
+      "source": "USDA SR28 (NDB No: 05094), USDA SR28 (NDB No: 05069)",
       "relations": {
         "group": "chicken"
       }
@@ -1574,7 +1316,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3
+          "vitamin_k_mcg": 0.2
         },
         {
           "amount": 1.0,
@@ -1589,40 +1331,7 @@
           "gram_equivalent": 21
         }
       ],
-      "source": "USDA SR28 (NDB No: 05103), USDA SR28 (NDB No: 05107)",
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
-      "id": "chicken_broilers_or_fryers_wing_meatskn_ckd_s",
-      "category": "meat_poultry",
-      "tags": [
-        "cooked",
-        "k2",
-        "meat",
-        "poultry"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 140
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 24
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05104)",
+      "source": "USDA SR28 (NDB No: 05103), USDA SR28 (NDB No: 05107), USDA SR28 (NDB No: 05104)",
       "relations": {
         "group": "chicken"
       }
@@ -1706,7 +1415,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.4
+          "vitamin_k_mcg": 2.0
         },
         {
           "amount": 1.0,
@@ -1721,40 +1430,7 @@
           "gram_equivalent": 398
         }
       ],
-      "source": "USDA SR28 (NDB No: 05123)",
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
-      "id": "chicken_stewing_meat_only_raw",
-      "category": "meat_poultry",
-      "tags": [
-        "k2",
-        "meat",
-        "poultry",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.9,
-          "gram_equivalent": 194
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.7,
-          "gram_equivalent": 284
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05125)",
+      "source": "USDA SR28 (NDB No: 05123), USDA SR28 (NDB No: 05125)",
       "relations": {
         "group": "chicken"
       }
@@ -2010,39 +1686,6 @@
       }
     },
     {
-      "id": "turkey_all_classes_back_meatskn_ckd_rstd",
-      "category": "meat_poultry",
-      "tags": [
-        "cooked",
-        "k2",
-        "meat",
-        "poultry"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.3,
-          "gram_equivalent": 140
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 11.8,
-          "gram_equivalent": 262
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05190)",
-      "relations": {
-        "group": "turkey"
-      }
-    },
-    {
       "id": "turkey_all_classes_leg_meatskn_ckd_rstd",
       "category": "meat_poultry",
       "tags": [
@@ -2070,7 +1713,7 @@
           "gram_equivalent": 546
         }
       ],
-      "source": "USDA SR28 (NDB No: 05194)",
+      "source": "USDA SR28 (NDB No: 05194), USDA SR28 (NDB No: 05190)",
       "relations": {
         "group": "turkey"
       }
@@ -2088,7 +1731,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.8
+          "vitamin_k_mcg": 0.3
         },
         {
           "amount": 1.0,
@@ -2103,40 +1746,7 @@
           "gram_equivalent": 808
         }
       ],
-      "source": "USDA SR28 (NDB No: 05200)",
-      "relations": {
-        "group": "chicken"
-      }
-    },
-    {
-      "id": "turkey_fryer_roasters_wing_meat_only_ckd_rstd",
-      "category": "meat_poultry",
-      "tags": [
-        "cooked",
-        "k2",
-        "meat",
-        "poultry"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 17
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 60
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 05228)",
+      "source": "USDA SR28 (NDB No: 05200), USDA SR28 (NDB No: 05228)",
       "relations": {
         "group": "chicken"
       }
@@ -2929,13 +2539,14 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "poultry"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3
+          "vitamin_k_mcg": 0.1
         },
         {
           "amount": 3.527,
@@ -2944,7 +2555,7 @@
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA SR28 (NDB No: 07008)",
+      "source": "USDA SR28 (NDB No: 07008), USDA SR28 (NDB No: 07959)",
       "relations": {
         "group": "pork"
       }
@@ -4030,39 +3641,6 @@
       }
     },
     {
-      "id": "bologna_chick_pork_bf",
-      "category": "meat_poultry",
-      "tags": [
-        "high_sodium",
-        "k2",
-        "meat",
-        "poultry"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 07959)",
-      "relations": {
-        "group": "pork"
-      }
-    },
-    {
       "id": "bologna_chick_pork",
       "category": "meat_poultry",
       "tags": [
@@ -4365,7 +3943,8 @@
       "tags": [
         "cooked",
         "k2",
-        "meat"
+        "meat",
+        "organ_meat"
       ],
       "portions": [
         {
@@ -4386,34 +3965,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 13320)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
-      "id": "beef_var_meatsby_products_heart_ckd_simmrd",
-      "category": "meat_poultry",
-      "tags": [
-        "cooked",
-        "k2",
-        "meat",
-        "organ_meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.5
-        },
-        {
-          "amount": 3.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 85
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 13322)",
+      "source": "USDA SR28 (NDB No: 13320), USDA SR28 (NDB No: 13322)",
       "relations": {
         "group": "beef"
       }
@@ -5819,7 +5371,7 @@
           "gram_equivalent": 453
         }
       ],
-      "source": "USDA SR28 (NDB No: 17164)"
+      "source": "USDA SR28 (NDB No: 17164), USDA SR28 (NDB No: 17343)"
     },
     {
       "id": "veal_var_meatsby_products_liver_raw",
@@ -5971,35 +5523,6 @@
       "relations": {
         "group": "other_meat"
       }
-    },
-    {
-      "id": "game_meat_deer_ground_raw",
-      "category": "meat_poultry",
-      "tags": [
-        "k2",
-        "meat",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 17343)"
     },
     {
       "id": "game_meat_deer_ground_ckd_pan_broiled",
@@ -7299,32 +6822,6 @@
       }
     },
     {
-      "id": "chicken_nuggets_with_soybean_breaded_croquette_prepacked",
-      "category": "meat_poultry",
-      "tags": [
-        "bakery",
-        "k1",
-        "k2",
-        "legumes",
-        "meat",
-        "poultry",
-        "soy"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 10.8,
-          "vitamin_k1_100g_mcg": 1.2,
-          "vitamin_k2_100g_mcg": 9.6
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 1033)",
-      "relations": {
-        "group": "soy"
-      }
-    },
-    {
       "id": "meat_balls_beef_and_lamb_kefta_type_prepacked_cooked",
       "category": "meat_poultry",
       "tags": [
@@ -7391,19 +6888,21 @@
         "bakery",
         "k1",
         "k2",
+        "legumes",
         "meat",
-        "poultry"
+        "poultry",
+        "soy"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 11.6,
+          "vitamin_k_mcg": 10.8,
           "vitamin_k1_100g_mcg": 0.99,
           "vitamin_k2_100g_mcg": 10.6
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 36027)",
+      "source": "Ciqual 2025 (Food Code: 36027), Ciqual 2025 (Food Code: 1033)",
       "relations": {
         "group": "chicken"
       }
@@ -7789,30 +7288,10 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.6
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 21506)",
-      "relations": {
-        "group": "other_meat"
-      }
-    },
-    {
-      "id": "lamb_shoulder_lean_roastedbaked",
-      "category": "meat_poultry",
-      "tags": [
-        "cooked",
-        "k1",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
           "vitamin_k_mcg": 4.5
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 21507)",
+      "source": "Ciqual 2025 (Food Code: 21506), Ciqual 2025 (Food Code: 21507)",
       "relations": {
         "group": "other_meat"
       }

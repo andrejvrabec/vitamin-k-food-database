@@ -5629,7 +5629,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.9
+          "vitamin_k_mcg": 0.7
         },
         {
           "amount": 1.0,
@@ -5638,7 +5638,7 @@
           "gram_equivalent": 21
         }
       ],
-      "source": "USDA SR28 (NDB No: 14309)"
+      "source": "USDA SR28 (NDB No: 14309), USDA SR28 (NDB No: 14315)"
     },
     {
       "id": "malted_drk_mix_nat_pdr",
@@ -5660,33 +5660,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 14311)"
-    },
-    {
-      "id": "malted_drk_mix_choc_w_added_nutr_pdr",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 78
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 21
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14315)"
     },
     {
       "id": "malted_drk_mix_choc_pdr",
@@ -8273,7 +8246,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.4
+          "vitamin_k_mcg": 2.0
         },
         {
           "amount": 1.0,
@@ -8288,38 +8261,7 @@
           "gram_equivalent": 81
         }
       ],
-      "source": "USDA SR28 (NDB No: 16126)",
-      "relations": {
-        "group": "soy"
-      }
-    },
-    {
-      "id": "tofu_soft_prep_wca_sulfatemagnesium_chloride",
-      "category": "other",
-      "tags": [
-        "k1",
-        "soy"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.0,
-          "gram_equivalent": 248
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 18
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16127)",
+      "source": "USDA SR28 (NDB No: 16126), USDA SR28 (NDB No: 16127)",
       "relations": {
         "group": "soy"
       }
@@ -11483,28 +11425,6 @@
       "source": "USDA SR28 (NDB No: 19078)"
     },
     {
-      "id": "ice_creams_vanilla_lt",
-      "category": "other",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 76
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19088)"
-    },
-    {
       "id": "ice_creams_vanilla_rich",
       "category": "other",
       "tags": [
@@ -11596,7 +11516,7 @@
           "gram_equivalent": 66
         }
       ],
-      "source": "USDA SR28 (NDB No: 19095)"
+      "source": "USDA SR28 (NDB No: 19095), USDA SR28 (NDB No: 19088)"
     },
     {
       "id": "ice_creams_vanilla_lt_soft_serve",
@@ -11619,34 +11539,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 19096)"
-    },
-    {
-      "id": "ice_creams_choc_lt",
-      "category": "other",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 68
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19114)"
     },
     {
       "id": "baking_choc_mexican_squares",
@@ -12108,7 +12000,7 @@
           "gram_equivalent": 66
         }
       ],
-      "source": "USDA SR28 (NDB No: 19270)"
+      "source": "USDA SR28 (NDB No: 19270), USDA SR28 (NDB No: 19114)"
     },
     {
       "id": "frozen_yogurts_vanilla_soft_serve",
@@ -13233,30 +13125,6 @@
       }
     },
     {
-      "id": "burger_king_whopper_no_chs",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 19.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 56.7,
-          "gram_equivalent": 291
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21252)",
-      "relations": {
-        "group": "sandwich"
-      }
-    },
-    {
       "id": "burger_king_whopper_w_chs",
       "category": "other",
       "tags": [
@@ -13275,7 +13143,7 @@
           "gram_equivalent": 316
         }
       ],
-      "source": "USDA SR28 (NDB No: 21253)",
+      "source": "USDA SR28 (NDB No: 21253), USDA SR28 (NDB No: 21252)",
       "relations": {
         "group": "sandwich"
       }
@@ -15810,33 +15678,6 @@
       }
     },
     {
-      "id": "puddings_choc_flavor_lo_cal_inst_dry_mix",
-      "category": "other",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 40
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 44061)"
-    },
-    {
       "id": "jellies_red_sugar_home_preserved",
       "category": "other",
       "tags": [
@@ -15874,7 +15715,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.5
+          "vitamin_k_mcg": 0.4
         },
         {
           "amount": 1.0,
@@ -15889,7 +15730,7 @@
           "gram_equivalent": 40
         }
       ],
-      "source": "USDA SR28 (NDB No: 44258)"
+      "source": "USDA SR28 (NDB No: 44258), USDA SR28 (NDB No: 44061)"
     },
     {
       "id": "puddings_all_flavors_xcpt_choc_lo_cal_reg_dry",
@@ -17704,29 +17545,10 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 34.7
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 15054)",
-      "relations": {
-        "group": "nut"
-      }
-    },
-    {
-      "id": "cashew_nut_dry_grilled_no_added_salt",
-      "category": "other",
-      "tags": [
-        "cooked",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
           "vitamin_k_mcg": 31.3
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 15055)",
+      "source": "Ciqual 2025 (Food Code: 15054), Ciqual 2025 (Food Code: 15055)",
       "relations": {
         "group": "nut"
       }
@@ -17892,7 +17714,7 @@
       "source": "Ciqual 2025 (Food Code: 7403)"
     },
     {
-      "id": "meat_white_cooked_average",
+      "id": "meat_cooked_average",
       "category": "other",
       "tags": [
         "cooked",
@@ -17905,40 +17727,7 @@
           "vitamin_k_mcg": 1.4
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6584)"
-    },
-    {
-      "id": "meat_cooked_average",
-      "category": "other",
-      "tags": [
-        "cooked",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 6999)"
-    },
-    {
-      "id": "poultry_meat_cooked_average",
-      "category": "other",
-      "tags": [
-        "cooked",
-        "k1",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 36042)"
+      "source": "Ciqual 2025 (Food Code: 6999), Ciqual 2025 (Food Code: 6584)"
     },
     {
       "id": "poultry_cooked_average",
@@ -17952,10 +17741,10 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1
+          "vitamin_k_mcg": 1.8
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 36900)"
+      "source": "Ciqual 2025 (Food Code: 36900), Ciqual 2025 (Food Code: 36042)"
     },
     {
       "id": "venison_roebuck_roastedbaked",
@@ -18539,27 +18328,6 @@
       "source": "Ciqual 2025 (Food Code: 39220)"
     },
     {
-      "id": "soy_dessert_with_fruits_with_sugar_s_fortified_with_calcium_fermented_refrigerated",
-      "category": "other",
-      "tags": [
-        "k1",
-        "legumes",
-        "soy",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.2
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 19692)",
-      "relations": {
-        "group": "soy"
-      }
-    },
-    {
       "id": "soy_dessert_plain_no_added_sugars_not_fortified_fermented_refrigerated",
       "category": "other",
       "tags": [
@@ -18617,7 +18385,7 @@
           "vitamin_k_mcg": 4.1
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 19695)",
+      "source": "Ciqual 2025 (Food Code: 19695), Ciqual 2025 (Food Code: 19692)",
       "relations": {
         "group": "soy"
       }
@@ -18644,7 +18412,7 @@
       }
     },
     {
-      "id": "soy_dessert_flavoured_with_sugar_s_fortified_with_calcium_refrigerated",
+      "id": "soy_dessert_flavoured_with_sugar_s_not_fortified_refrigerated",
       "category": "other",
       "tags": [
         "k1",
@@ -18659,28 +18427,7 @@
           "vitamin_k_mcg": 3.1
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20911)",
-      "relations": {
-        "group": "soy"
-      }
-    },
-    {
-      "id": "soy_dessert_flavoured_with_sugar_s_not_fortified_refrigerated",
-      "category": "other",
-      "tags": [
-        "k1",
-        "legumes",
-        "soy",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.2
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 20921)",
+      "source": "Ciqual 2025 (Food Code: 20921), Ciqual 2025 (Food Code: 20911)",
       "relations": {
         "group": "soy"
       }

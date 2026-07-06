@@ -248,7 +248,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.2
+          "vitamin_k_mcg": 0.1
         },
         {
           "amount": 1.0,
@@ -257,7 +257,7 @@
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018), FDA Coumadin Prescribing Information",
+      "source": "USDA Database for Standard Reference Legacy (2018), FDA Coumadin Prescribing Information, USDA SR28 (NDB No: 09125)",
       "tags": [
         "affects_warfarin",
         "beverages",
@@ -1470,7 +1470,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4
+          "vitamin_k_mcg": 0.9
         },
         {
           "amount": 1.0,
@@ -1479,33 +1479,7 @@
           "gram_equivalent": 252
         }
       ],
-      "source": "USDA SR28 (NDB No: 09073)",
-      "relations": {
-        "group": "cherry"
-      }
-    },
-    {
-      "id": "cherries_swt_cnd_pitted_hvy_syrup_pk_sol_liqu",
-      "category": "fruits",
-      "tags": [
-        "k1",
-        "raw",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 2.3,
-          "gram_equivalent": 253
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09074)",
+      "source": "USDA SR28 (NDB No: 09073), USDA SR28 (NDB No: 09074)",
       "relations": {
         "group": "cherry"
       }
@@ -3875,7 +3849,7 @@
           "gram_equivalent": 33
         }
       ],
-      "source": "USDA SR28 (NDB No: 18277)",
+      "source": "USDA SR28 (NDB No: 18277), USDA SR28 (NDB No: 18386)",
       "relations": {
         "group": "blueberry"
       }
@@ -3909,43 +3883,6 @@
       "source": "USDA SR28 (NDB No: 18354)",
       "relations": {
         "group": "apple"
-      }
-    },
-    {
-      "id": "muffins_blueberry_toaster_type_tstd",
-      "category": "fruits",
-      "tags": [
-        "bakery",
-        "berries",
-        "cooked",
-        "fast_food",
-        "k1",
-        "processed",
-        "raw",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 20.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 31
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18386)",
-      "relations": {
-        "group": "blueberry"
       }
     },
     {
@@ -4973,31 +4910,6 @@
       "source": "USDA SR28 (NDB No: 09079)",
       "relations": {
         "group": "cranberry"
-      }
-    },
-    {
-      "id": "grapefruit_juc_white_frz_conc_unswtnd_undil",
-      "category": "fruits",
-      "tags": [
-        "k1",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 207
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09125)",
-      "relations": {
-        "group": "grapefruit"
       }
     },
     {

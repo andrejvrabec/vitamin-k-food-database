@@ -52,32 +52,6 @@
       }
     },
     {
-      "id": "bread_french_or_vienna_toasted",
-      "category": "grains_bakery",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "cooked",
-        "k1"
-      ],
-      "relations": {
-        "group": "bread"
-      }
-    },
-    {
       "id": "bread_oat_bran",
       "category": "grains_bakery",
       "portions": [
@@ -93,9 +67,10 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 18038)",
       "tags": [
         "bakery",
+        "cooked",
         "k1"
       ],
       "relations": {
@@ -311,7 +286,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 7.9
+          "vitamin_k_mcg": 7.7
         },
         {
           "amount": 1.0,
@@ -320,7 +295,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 18967)",
       "tags": [
         "bakery",
         "k1"
@@ -506,31 +481,6 @@
       }
     },
     {
-      "id": "cereals_ready_to_eat_post_honeycomb_cere",
-      "category": "grains_bakery",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
       "id": "cereals_ready_to_eat_post_shredded_wheat",
       "category": "grains_bakery",
       "portions": [
@@ -546,7 +496,7 @@
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 08191)",
       "tags": [
         "bakery",
         "k1"
@@ -824,8 +774,9 @@
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 11179), USDA SR28 (NDB No: 11911)",
       "tags": [
+        "bakery",
         "cooked",
         "k1"
       ],
@@ -1840,7 +1791,7 @@
           "gram_equivalent": 21
         }
       ],
-      "source": "USDA SR28 (NDB No: 08002)",
+      "source": "USDA SR28 (NDB No: 08002), USDA SR28 (NDB No: 42100)",
       "relations": {
         "group": "cereal"
       }
@@ -1906,7 +1857,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6
+          "vitamin_k_mcg": 0.5
         },
         {
           "amount": 1.0,
@@ -1915,32 +1866,7 @@
           "gram_equivalent": 27
         }
       ],
-      "source": "USDA SR28 (NDB No: 08010)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_rte_quaker_capn_crunch_w_crunchberrie",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 26
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08011)",
+      "source": "USDA SR28 (NDB No: 08010), USDA SR28 (NDB No: 08011)",
       "relations": {
         "group": "cereal"
       }
@@ -1969,31 +1895,6 @@
       "source": "USDA SR28 (NDB No: 08012)",
       "relations": {
         "group": "butter"
-      }
-    },
-    {
-      "id": "cereals_rte_general_mills_cheerios",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08013), USDA SR28 (NDB No: 08262)",
-      "relations": {
-        "group": "cereal"
       }
     },
     {
@@ -2253,7 +2154,7 @@
           "gram_equivalent": 29
         }
       ],
-      "source": "USDA SR28 (NDB No: 08030)",
+      "source": "USDA SR28 (NDB No: 08030), USDA SR28 (NDB No: 08376)",
       "relations": {
         "group": "cereal"
       }
@@ -2416,31 +2317,6 @@
       }
     },
     {
-      "id": "cereals_rte_general_mills_honey_nut_cheerios",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08045)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
       "id": "cereals_rte_post_honeycomb_crl",
       "category": "grains_bakery",
       "tags": [
@@ -2451,7 +2327,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6
+          "vitamin_k_mcg": 0.2
         },
         {
           "amount": 1.5,
@@ -2460,7 +2336,7 @@
           "gram_equivalent": 32
         }
       ],
-      "source": "USDA SR28 (NDB No: 08046)",
+      "source": "USDA SR28 (NDB No: 08046), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "cereal"
       }
@@ -2526,7 +2402,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.2
+          "vitamin_k_mcg": 1.1
         },
         {
           "amount": 1.0,
@@ -2541,7 +2417,7 @@
           "gram_equivalent": 21
         }
       ],
-      "source": "USDA SR28 (NDB No: 08049)",
+      "source": "USDA SR28 (NDB No: 08049), USDA SR28 (NDB No: 08210)",
       "relations": {
         "group": "cereal"
       }
@@ -2566,7 +2442,7 @@
           "gram_equivalent": 27
         }
       ],
-      "source": "USDA SR28 (NDB No: 08050)",
+      "source": "USDA SR28 (NDB No: 08050), USDA SR28 (NDB No: 08513)",
       "relations": {
         "group": "cereal"
       }
@@ -2616,7 +2492,7 @@
           "gram_equivalent": 32
         }
       ],
-      "source": "USDA SR28 (NDB No: 08057)",
+      "source": "USDA SR28 (NDB No: 08057), USDA SR28 (NDB No: 08243)",
       "relations": {
         "group": "cereal"
       }
@@ -2741,7 +2617,7 @@
           "gram_equivalent": 27
         }
       ],
-      "source": "USDA SR28 (NDB No: 08064)",
+      "source": "USDA SR28 (NDB No: 08064), USDA SR28 (NDB No: 08082)",
       "relations": {
         "group": "rice"
       }
@@ -2791,7 +2667,7 @@
           "gram_equivalent": 31
         }
       ],
-      "source": "USDA SR28 (NDB No: 08067)",
+      "source": "USDA SR28 (NDB No: 08067), USDA SR28 (NDB No: 08543)",
       "relations": {
         "group": "cereal"
       }
@@ -2970,13 +2846,14 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
-        "k1"
+        "k1",
+        "sweetened"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4
+          "vitamin_k_mcg": 1.0
         },
         {
           "amount": 1.0,
@@ -2985,7 +2862,7 @@
           "gram_equivalent": 32
         }
       ],
-      "source": "USDA SR28 (NDB No: 08078)",
+      "source": "USDA SR28 (NDB No: 08078), USDA SR28 (NDB No: 08013), USDA SR28 (NDB No: 08262), USDA SR28 (NDB No: 08045), USDA SR28 (NDB No: 08089), USDA SR28 (NDB No: 08586)",
       "relations": {
         "group": "cereal"
       }
@@ -3011,31 +2888,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 08081)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_rte_general_mills_wheat_chex",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 47
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08082)",
       "relations": {
         "group": "cereal"
       }
@@ -3092,56 +2944,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 08084)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_rte_general_mills_multi_grain_cheerio",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 29
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08087)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_rte_general_mills_wheaties",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 27
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08089)",
       "relations": {
         "group": "cereal"
       }
@@ -3550,7 +3352,7 @@
           "gram_equivalent": 45
         }
       ],
-      "source": "USDA SR28 (NDB No: 08128)",
+      "source": "USDA SR28 (NDB No: 08128), USDA SR28 (NDB No: 08132)",
       "relations": {
         "group": "cereal"
       }
@@ -3584,31 +3386,6 @@
       "source": "USDA SR28 (NDB No: 08129), USDA SR28 (NDB No: 08133)",
       "relations": {
         "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_oats_inst_fort_w_raisins_spice_dry",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 44
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08132)",
-      "relations": {
-        "group": "grape"
       }
     },
     {
@@ -3807,7 +3584,7 @@
           "gram_equivalent": 49
         }
       ],
-      "source": "USDA SR28 (NDB No: 08148)",
+      "source": "USDA SR28 (NDB No: 08148), USDA SR28 (NDB No: 43393)",
       "relations": {
         "group": "cereal"
       }
@@ -3940,31 +3717,6 @@
       }
     },
     {
-      "id": "cereals_rte_post_shredded_wheat_lightly_frstd",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 52
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08191)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
       "id": "cereals_rte_post_blueberry_morning",
       "category": "grains_bakery",
       "tags": [
@@ -4060,31 +3812,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 08206)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_rte_quaker_quaker_oat_cinn_life",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 32
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08210)",
       "relations": {
         "group": "cereal"
       }
@@ -4316,31 +4043,6 @@
       }
     },
     {
-      "id": "cereals_rte_general_mills_honey_nut_clusters",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 57
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08243)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
       "id": "cereals_rte_general_mills_fiber_one_bran_crl",
       "category": "grains_bakery",
       "tags": [
@@ -4391,7 +4093,7 @@
       }
     },
     {
-      "id": "cereals_rte_general_mills_total_raisin_bran",
+      "id": "cereals_rte_general_mills_raisin_nut_bran",
       "category": "grains_bakery",
       "tags": [
         "bakery",
@@ -4405,37 +4107,12 @@
         },
         {
           "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 53
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08247)",
-      "relations": {
-        "group": "grape"
-      }
-    },
-    {
-      "id": "cereals_rte_general_mills_raisin_nut_bran",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.2
-        },
-        {
-          "amount": 1.0,
           "unit": "piece",
           "vitamin_k_mcg": 1.1,
           "gram_equivalent": 49
         }
       ],
-      "source": "USDA SR28 (NDB No: 08261)",
+      "source": "USDA SR28 (NDB No: 08261), USDA SR28 (NDB No: 08247)",
       "relations": {
         "group": "grape"
       }
@@ -4461,56 +4138,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 08263)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_rte_general_mills_frstd_cheerios",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08267)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_rte_general_mills_frankenberry",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 33
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08268)",
       "relations": {
         "group": "cereal"
       }
@@ -4920,32 +4547,7 @@
           "gram_equivalent": 30
         }
       ],
-      "source": "USDA SR28 (NDB No: 08346)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_rte_malt_o_meal_berry_colossal_crunch",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 30
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08347)",
+      "source": "USDA SR28 (NDB No: 08346), USDA SR28 (NDB No: 08347)",
       "relations": {
         "group": "cereal"
       }
@@ -4971,31 +4573,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 08349)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_rte_kellogg_kelloggs_marshmllw_froot",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 30
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08376)",
       "relations": {
         "group": "cereal"
       }
@@ -5257,31 +4834,6 @@
       }
     },
     {
-      "id": "cereals_quaker_inst_oatmeal_cinnamon_spice_dr",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 43
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08410)",
-      "relations": {
-        "group": "cinnamon"
-      }
-    },
-    {
       "id": "cereals_quaker_inst_oatmeal_express_golden_br",
       "category": "grains_bakery",
       "tags": [
@@ -5418,7 +4970,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.3
+          "vitamin_k_mcg": 1.9
         },
         {
           "amount": 1.0,
@@ -5427,7 +4979,7 @@
           "gram_equivalent": 43
         }
       ],
-      "source": "USDA SR28 (NDB No: 08436)",
+      "source": "USDA SR28 (NDB No: 08436), USDA SR28 (NDB No: 08410)",
       "relations": {
         "group": "grape"
       }
@@ -5858,7 +5410,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4
+          "vitamin_k_mcg": 0.2
         },
         {
           "amount": 1.0,
@@ -5867,32 +5419,7 @@
           "gram_equivalent": 29
         }
       ],
-      "source": "USDA SR28 (NDB No: 08495)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
-      "id": "cereals_rte_malt_o_meal_fruity_dyno_bites",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 27
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08501)",
+      "source": "USDA SR28 (NDB No: 08495), USDA SR28 (NDB No: 08501)",
       "relations": {
         "group": "cereal"
       }
@@ -5979,31 +5506,6 @@
       }
     },
     {
-      "id": "cereals_rte_general_mills_choc_lucky_charms",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08513)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
       "id": "cereals_rte_kellogg_kelloggs_cinn_mini_swirlz",
       "category": "grains_bakery",
       "tags": [
@@ -6078,31 +5580,6 @@
       "source": "USDA SR28 (NDB No: 08531)",
       "relations": {
         "group": "yogurt"
-      }
-    },
-    {
-      "id": "cereals_rte_kelloggs_spl_k_vanilla_almond",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 30
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08543)",
-      "relations": {
-        "group": "cereal"
       }
     },
     {
@@ -6310,31 +5787,6 @@
       }
     },
     {
-      "id": "cereals_rte_general_mills_fruity_cheerios",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 27
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08583)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
       "id": "cereals_rte_kelloggs_spl_k_chocolatey_delight",
       "category": "grains_bakery",
       "tags": [
@@ -6383,32 +5835,6 @@
       "source": "USDA SR28 (NDB No: 08585)",
       "relations": {
         "group": "cranberry"
-      }
-    },
-    {
-      "id": "cereals_rte_general_mills_25_less_sugar_trix",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 21
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 08586)",
-      "relations": {
-        "group": "cereal"
       }
     },
     {
@@ -6527,38 +5953,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11178)",
-      "relations": {
-        "group": "corn"
-      }
-    },
-    {
-      "id": "corn_swt_yel_frz_krnls_cut_off_cob_bld_drnd_w",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "cooked",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 165
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 284
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11179), USDA SR28 (NDB No: 11911)",
       "relations": {
         "group": "corn"
       }
@@ -6973,38 +6367,7 @@
           "gram_equivalent": 153
         }
       ],
-      "source": "USDA SR28 (NDB No: 11940)",
-      "relations": {
-        "group": "cucumber"
-      }
-    },
-    {
-      "id": "pickles_cucumber_swt_lo_na",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 76.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 122.7,
-          "gram_equivalent": 160
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 130.4,
-          "gram_equivalent": 170
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11948)",
+      "source": "USDA SR28 (NDB No: 11940), USDA SR28 (NDB No: 11948)",
       "relations": {
         "group": "cucumber"
       }
@@ -7280,38 +6643,7 @@
           "gram_equivalent": 69
         }
       ],
-      "source": "USDA SR28 (NDB No: 18005)",
-      "relations": {
-        "group": "cinnamon"
-      }
-    },
-    {
-      "id": "bagels_cinnamon_raisin_tstd",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 24
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 65
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18006)",
+      "source": "USDA SR28 (NDB No: 18005), USDA SR28 (NDB No: 18006)",
       "relations": {
         "group": "cinnamon"
       }
@@ -7575,13 +6907,14 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
+        "cooked",
         "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6
+          "vitamin_k_mcg": 0.4
         },
         {
           "amount": 1.0,
@@ -7596,7 +6929,7 @@
           "gram_equivalent": 32
         }
       ],
-      "source": "USDA SR28 (NDB No: 18029)",
+      "source": "USDA SR28 (NDB No: 18029), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "bread"
       }
@@ -7689,70 +7022,7 @@
           "gram_equivalent": 26
         }
       ],
-      "source": "USDA SR28 (NDB No: 18035)",
-      "relations": {
-        "group": "bread"
-      }
-    },
-    {
-      "id": "bread_multi_grain_tstd",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 24
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18036)",
-      "relations": {
-        "group": "bread"
-      }
-    },
-    {
-      "id": "bread_oat_bran_toasted",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "cooked",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 27
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18038)",
+      "source": "USDA SR28 (NDB No: 18035), USDA SR28 (NDB No: 18036)",
       "relations": {
         "group": "bread"
       }
@@ -7969,38 +7239,7 @@
           "gram_equivalent": 32
         }
       ],
-      "source": "USDA SR28 (NDB No: 18047)",
-      "relations": {
-        "group": "grape"
-      }
-    },
-    {
-      "id": "bread_raisin_tstd_enr",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 29
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18048)",
+      "source": "USDA SR28 (NDB No: 18047), USDA SR28 (NDB No: 18048)",
       "relations": {
         "group": "grape"
       }
@@ -8031,38 +7270,7 @@
           "gram_equivalent": 23
         }
       ],
-      "source": "USDA SR28 (NDB No: 18049)",
-      "relations": {
-        "group": "bread"
-      }
-    },
-    {
-      "id": "bread_red_cal_oat_bran_tstd",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 19
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18050)",
+      "source": "USDA SR28 (NDB No: 18049), USDA SR28 (NDB No: 18050)",
       "relations": {
         "group": "bread"
       }
@@ -8165,6 +7373,7 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -8186,7 +7395,7 @@
           "gram_equivalent": 27
         }
       ],
-      "source": "USDA SR28 (NDB No: 18059)",
+      "source": "USDA SR28 (NDB No: 18059), USDA SR28 (NDB No: 18384)",
       "relations": {
         "group": "bread"
       }
@@ -8290,6 +7499,7 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -8311,7 +7521,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 18068)",
+      "source": "USDA SR28 (NDB No: 18068), USDA SR28 (NDB No: 18385)",
       "relations": {
         "group": "bread"
       }
@@ -9285,75 +8495,7 @@
           "gram_equivalent": 57
         }
       ],
-      "source": "USDA SR28 (NDB No: 18264)",
-      "relations": {
-        "group": "pastry"
-      }
-    },
-    {
-      "id": "english_muffins_wheat_tstd",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "fast_food",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 52
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18265)",
-      "relations": {
-        "group": "pastry"
-      }
-    },
-    {
-      "id": "english_muffins_whole_wheat",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "fast_food",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 66
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18266)",
+      "source": "USDA SR28 (NDB No: 18264), USDA SR28 (NDB No: 18265), USDA SR28 (NDB No: 18266)",
       "relations": {
         "group": "pastry"
       }
@@ -9456,7 +8598,7 @@
           "gram_equivalent": 36
         }
       ],
-      "source": "USDA SR28 (NDB No: 18286)",
+      "source": "USDA SR28 (NDB No: 18286), USDA SR28 (NDB No: 18388)",
       "relations": {
         "group": "pastry"
       }
@@ -9967,6 +9109,7 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
+        "cooked",
         "k1",
         "processed",
         "sweetened"
@@ -9984,35 +9127,7 @@
           "gram_equivalent": 173
         }
       ],
-      "source": "USDA SR28 (NDB No: 18334)",
-      "relations": {
-        "group": "pastry"
-      }
-    },
-    {
-      "id": "pie_crust_standard_type_frz_rtb_enr_bkd",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "cooked",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 12.0,
-          "gram_equivalent": 154
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18335)",
+      "source": "USDA SR28 (NDB No: 18334), USDA SR28 (NDB No: 18335)",
       "relations": {
         "group": "pastry"
       }
@@ -10199,105 +9314,6 @@
       }
     },
     {
-      "id": "bread_rice_bran_toasted",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "cooked",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 25
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18384)",
-      "relations": {
-        "group": "bread"
-      }
-    },
-    {
-      "id": "bread_wheat_germ_toasted",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "cooked",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 25
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18385)",
-      "relations": {
-        "group": "bread"
-      }
-    },
-    {
-      "id": "muffins_wheat_bran_toaster_type_wraisins_tstd",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "cooked",
-        "fast_food",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 17.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.9,
-          "gram_equivalent": 28
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 34
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18388)",
-      "relations": {
-        "group": "pastry"
-      }
-    },
-    {
       "id": "pie_crust_cookie_type_prep_from_recipe_choc_w",
       "category": "grains_bakery",
       "tags": [
@@ -10325,7 +9341,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 18398)",
+      "source": "USDA SR28 (NDB No: 18398), USDA SR28 (NDB No: 18401)",
       "relations": {
         "group": "cookie"
       }
@@ -10360,39 +9376,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 18399)",
-      "relations": {
-        "group": "cookie"
-      }
-    },
-    {
-      "id": "pie_crust_cookie_type_prep_from_recipe_vanill",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 34.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 43.9,
-          "gram_equivalent": 129
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 59.8,
-          "gram_equivalent": 176
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18401)",
       "relations": {
         "group": "cookie"
       }
@@ -11127,31 +10110,6 @@
       "source": "USDA SR28 (NDB No: 18966), USDA Database for Standard Reference Legacy (2018)",
       "relations": {
         "group": "cookie"
-      }
-    },
-    {
-      "id": "bread_wheat_white_wheat",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.2,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 18967)",
-      "relations": {
-        "group": "bread"
       }
     },
     {
@@ -14197,31 +13155,6 @@
       }
     },
     {
-      "id": "cereals_rte_marshmllw_alpha_bits",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 29
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 42100)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
       "id": "candies_mars_snackfood_us_twix_choc_fudge_coo",
       "category": "grains_bakery",
       "tags": [
@@ -14641,31 +13574,6 @@
       "source": "USDA SR28 (NDB No: 43312)"
     },
     {
-      "id": "cereals_rte_post_shredded_wheat_n_bran_spoon",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        },
-        {
-          "amount": 1.25,
-          "unit": "cup",
-          "vitamin_k_mcg": 1.2,
-          "gram_equivalent": 59
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 43393)",
-      "relations": {
-        "group": "cereal"
-      }
-    },
-    {
       "id": "cereals_rte_oat_bran_flakes_health_valley",
       "category": "grains_bakery",
       "tags": [
@@ -14944,31 +13852,10 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.7
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 25223)",
-      "relations": {
-        "group": "soy"
-      }
-    },
-    {
-      "id": "soy_and_wheat_burger_or_bite_not_vegan_prepacked",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "k1",
-        "legumes",
-        "soy"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
           "vitamin_k_mcg": 6.3
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 25224)",
+      "source": "Ciqual 2025 (Food Code: 25223), Ciqual 2025 (Food Code: 25224)",
       "relations": {
         "group": "soy"
       }
@@ -15205,28 +14092,6 @@
       }
     },
     {
-      "id": "sandwich_club_wholemeal_bread_ham_and_cheese_prepacked",
-      "category": "grains_bakery",
-      "tags": [
-        "bakery",
-        "dairy",
-        "fast_food",
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.6
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 25576)",
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
       "id": "sandwich_club_wholemeal_bread_chicken_and_raw_vegetables_prepacked",
       "category": "grains_bakery",
       "tags": [
@@ -15256,6 +14121,7 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
+        "dairy",
         "fast_food",
         "k2",
         "meat"
@@ -15264,10 +14130,10 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.7
+          "vitamin_k_mcg": 4.6
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 25599)",
+      "source": "Ciqual 2025 (Food Code: 25599), Ciqual 2025 (Food Code: 25576)",
       "relations": {
         "group": "bread"
       }

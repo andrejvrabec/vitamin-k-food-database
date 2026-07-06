@@ -9,11 +9,6 @@
     "alternative_names": [],
     "description": "Biscuits, plain or buttermilk, refrigerated dough, higher fat."
   },
-  "bread_french_or_vienna_toasted": {
-    "name": "Bread, french or vienna, toasted (includes sourdough)",
-    "alternative_names": [],
-    "description": "Bread, french or vienna, toasted (includes sourdough)."
-  },
   "bread_oat_bran": {
     "name": "Bread, oat bran",
     "alternative_names": [],
@@ -98,11 +93,6 @@
     "name": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS with vanilla bunches",
     "alternative_names": [],
     "description": "Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS with vanilla bunches."
-  },
-  "cereals_ready_to_eat_post_honeycomb_cere": {
-    "name": "Cereals ready-to-eat, POST, Honeycomb Cereal",
-    "alternative_names": [],
-    "description": "Cereals ready-to-eat, POST, Honeycomb Cereal."
   },
   "cereals_ready_to_eat_post_shredded_wheat": {
     "name": "Cereals ready-to-eat, POST, Shredded Wheat, original spoon-size",
@@ -359,20 +349,10 @@
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, quaker, cap'n crunch."
   },
-  "cereals_rte_quaker_capn_crunch_w_crunchberrie": {
-    "name": "Cereals, ready-to-eat, quaker, cap'n crunch with/ crunchberries",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, quaker, cap'n crunch with/ crunchberries."
-  },
   "cereals_rte_quaker_capn_crunchs_pnut_butter_c": {
     "name": "Cereals, ready-to-eat, quaker, cap'n crunch's peanut butter crunch",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, quaker, cap'n crunch's peanut butter crunch."
-  },
-  "cereals_rte_general_mills_cheerios": {
-    "name": "Cereals, ready-to-eat, general mills, cheerios",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, cheerios."
   },
   "cereals_rte_kellogg_kelloggs_cocoa_krispies": {
     "name": "Cereals, ready-to-eat, kellogg, kellogg's cocoa krispies",
@@ -453,11 +433,6 @@
     "name": "Cereals, ready-to-eat, post, grape-nuts flakes",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, post, grape-nuts flakes."
-  },
-  "cereals_rte_general_mills_honey_nut_cheerios": {
-    "name": "Cereals, ready-to-eat, general mills, honey nut cheerios",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, honey nut cheerios."
   },
   "cereals_rte_post_honeycomb_crl": {
     "name": "Cereals, ready-to-eat, post, honeycomb crl",
@@ -569,11 +544,6 @@
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, post, honey nut shredded wheat."
   },
-  "cereals_rte_general_mills_wheat_chex": {
-    "name": "Cereals, ready-to-eat, general mills, wheat chex",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, wheat chex."
-  },
   "cereals_rte_malt_o_meal_corn_bursts": {
     "name": "Cereals, ready-to-eat, malt-o-meal, corn bursts",
     "alternative_names": [],
@@ -583,16 +553,6 @@
     "name": "Cereals, ready-to-eat, wheat germ, tstd, pln",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, wheat germ, tstd, pln."
-  },
-  "cereals_rte_general_mills_multi_grain_cheerio": {
-    "name": "Cereals, ready-to-eat, general mills, multi-grain cheerios",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, multi-grain cheerios."
-  },
-  "cereals_rte_general_mills_wheaties": {
-    "name": "Cereals, ready-to-eat, general mills, wheaties",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, wheaties."
   },
   "cereals_quaker_corn_grits_inst_cheddar_chs_fl": {
     "name": "Cereals, quaker, corn grits, instant, cheddar cheese flavor, dry",
@@ -669,11 +629,6 @@
     "alternative_names": [],
     "description": "Cereals, oats, instant, fort, with/ cinn & spice, prepared with/ h2o."
   },
-  "cereals_oats_inst_fort_w_raisins_spice_dry": {
-    "name": "Cereals, oats, instant, fort, with/ raisins & spice, dry",
-    "alternative_names": [],
-    "description": "Cereals, oats, instant, fort, with/ raisins & spice, dry."
-  },
   "cereals_rte_malt_o_meal_marshmllw_mateys": {
     "name": "Cereals, ready-to-eat, malt-o-meal, marshmllw mateys",
     "alternative_names": [],
@@ -729,11 +684,6 @@
     "alternative_names": [],
     "description": "Cereals, wheatena, cooked with/ h2o, with/ salt."
   },
-  "cereals_rte_post_shredded_wheat_lightly_frstd": {
-    "name": "Cereals, ready-to-eat, post, shredded wheat, lightly frstd, spoon-size",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, post, shredded wheat, lightly frstd, spoon-size."
-  },
   "cereals_rte_post_blueberry_morning": {
     "name": "Cereals, ready-to-eat, post blueberry morning",
     "alternative_names": [],
@@ -753,11 +703,6 @@
     "name": "Cereals, ready-to-eat, malt-o-meal, coco-roos",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, malt-o-meal, coco-roos."
-  },
-  "cereals_rte_quaker_quaker_oat_cinn_life": {
-    "name": "Cereals, ready-to-eat, quaker, quaker oat cinn life",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, quaker, quaker oat cinn life."
   },
   "cereals_rte_quaker_honey_graham_ohs": {
     "name": "Cereals, ready-to-eat, quaker, honey graham oh!s",
@@ -804,11 +749,6 @@
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, general mills, berry burst cheerios, triple berry."
   },
-  "cereals_rte_general_mills_honey_nut_clusters": {
-    "name": "Cereals, ready-to-eat, general mills, honey nut clusters",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, honey nut clusters."
-  },
   "cereals_rte_general_mills_fiber_one_bran_crl": {
     "name": "Cereals, ready-to-eat, general mills, fiber one bran crl",
     "alternative_names": [],
@@ -819,11 +759,6 @@
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, general mills, oatmeal crisp hearty raisin."
   },
-  "cereals_rte_general_mills_total_raisin_bran": {
-    "name": "Cereals, ready-to-eat, general mills, total raisin bran",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, total raisin bran."
-  },
   "cereals_rte_general_mills_raisin_nut_bran": {
     "name": "Cereals, ready-to-eat, general mills, raisin nut bran",
     "alternative_names": [],
@@ -833,16 +768,6 @@
     "name": "Cereals, ready-to-eat, general mills, apple cinn cheerios",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, general mills, apple cinn cheerios."
-  },
-  "cereals_rte_general_mills_frstd_cheerios": {
-    "name": "Cereals, ready-to-eat, general mills, frstd cheerios",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, frstd cheerios."
-  },
-  "cereals_rte_general_mills_frankenberry": {
-    "name": "Cereals, ready-to-eat, general mills, frankenberry",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, frankenberry."
   },
   "cereals_rte_general_mills_count_chocula": {
     "name": "Cereals, ready-to-eat, general mills, count chocula",
@@ -924,20 +849,10 @@
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, malt-o-meal, colossal crunch."
   },
-  "cereals_rte_malt_o_meal_berry_colossal_crunch": {
-    "name": "Cereals, ready-to-eat, malt-o-meal, berry colossal crunch",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, malt-o-meal, berry colossal crunch."
-  },
   "cereals_rte_malt_o_meal_tootie_fruities": {
     "name": "Cereals, ready-to-eat, malt-o-meal, tootie fruities",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, malt-o-meal, tootie fruities."
-  },
-  "cereals_rte_kellogg_kelloggs_marshmllw_froot": {
-    "name": "Cereals, ready-to-eat, kellogg, kellogg's marshmllw froot loops",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, kellogg, kellogg's marshmllw froot loops."
   },
   "cereals_rte_kellogg_kelloggs_raisin_bran_crun": {
     "name": "Cereals, ready-to-eat, kellogg, kellogg's, raisin bran crunch",
@@ -988,11 +903,6 @@
     "name": "Cereals, ready-to-eat, malt-o-meal, frstd flakes",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, malt-o-meal, frstd flakes."
-  },
-  "cereals_quaker_inst_oatmeal_cinnamon_spice_dr": {
-    "name": "Cereals, quaker, instant oatmeal, cinnamon-spice, dry",
-    "alternative_names": [],
-    "description": "Cereals, quaker, instant oatmeal, cinnamon-spice, dry."
   },
   "cereals_quaker_inst_oatmeal_express_golden_br": {
     "name": "Cereals, quaker, instant oatmeal express, golden brown sugar, dry",
@@ -1109,11 +1019,6 @@
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, malt-o-meal, cocoa dyno-bites."
   },
-  "cereals_rte_malt_o_meal_fruity_dyno_bites": {
-    "name": "Cereals, ready-to-eat, malt-o-meal, fruity dyno-bites",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, malt-o-meal, fruity dyno-bites."
-  },
   "cereals_rte_natures_path_optimum": {
     "name": "Cereals, ready-to-eat, nature's path, optimum",
     "alternative_names": [],
@@ -1129,11 +1034,6 @@
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, ralston enriched bran flakes."
   },
-  "cereals_rte_general_mills_choc_lucky_charms": {
-    "name": "Cereals, ready-to-eat, general mills, chocolate lucky charms",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, chocolate lucky charms."
-  },
   "cereals_rte_kellogg_kelloggs_cinn_mini_swirlz": {
     "name": "Cereals, ready-to-eat, kellogg, kellogg's cinn mini swirlz",
     "alternative_names": [],
@@ -1148,11 +1048,6 @@
     "name": "Cereals, ready-to-eat, kellogg, Special K, fruit & yogurt",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, kellogg, Special K, fruit & yogurt."
-  },
-  "cereals_rte_kelloggs_spl_k_vanilla_almond": {
-    "name": "Cereals, ready-to-eat, kellogg's, Special K vanilla almond",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, kellogg's, Special K vanilla almond."
   },
   "cereals_rte_post_great_grains_cranberry_almon": {
     "name": "Cereals, ready-to-eat, post great grains cranberry almond crunch",
@@ -1194,11 +1089,6 @@
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, general mills, dora the explorer."
   },
-  "cereals_rte_general_mills_fruity_cheerios": {
-    "name": "Cereals, ready-to-eat, general mills, fruity cheerios",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, fruity cheerios."
-  },
   "cereals_rte_kelloggs_spl_k_chocolatey_delight": {
     "name": "Cereals, ready-to-eat, kellogg's Special K chocolatey delight",
     "alternative_names": [],
@@ -1208,11 +1098,6 @@
     "name": "Cereals, ready-to-eat, general mills, total, cranberry crunch",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, general mills, total, cranberry crunch."
-  },
-  "cereals_rte_general_mills_25_less_sugar_trix": {
-    "name": "Cereals, ready-to-eat, general mills, 25% less sugar trix",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, 25% less sugar trix."
   },
   "cereals_rte_kellogg_kelloggs_spl_k_cinn_pecan": {
     "name": "Cereals, ready-to-eat, kellogg, kellogg's Special K, cinn pecan",
@@ -1233,11 +1118,6 @@
     "name": "Corn, sweet, yellow, frozen, kernels cut off cob, unprepared",
     "alternative_names": [],
     "description": "Corn, sweet, yellow, frozen, kernels cut off cob, unprepared."
-  },
-  "corn_swt_yel_frz_krnls_cut_off_cob_bld_drnd_w": {
-    "name": "Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, withoutsalt."
   },
   "corn_swt_yel_frz_krnls_on_cob_unprep": {
     "name": "Corn, sweet, yellow, frozen, kernels on cob, unprepared",
@@ -1309,11 +1189,6 @@
     "alternative_names": [],
     "description": "Pickles, cucumber, sweet (includes bread & butter pickles)."
   },
-  "pickles_cucumber_swt_lo_na": {
-    "name": "Pickles, cucumber, sweet, lo na (includes bread & butter pickles)",
-    "alternative_names": [],
-    "description": "Pickles, cucumber, sweet, lo na (includes bread & butter pickles)."
-  },
   "cranberry_juc_cocktail_btld_lo_cal_wca_saccha": {
     "name": "Cranberry juice cocktail, bottled, lo cal, withca, saccharin&corn swtnr",
     "alternative_names": [],
@@ -1358,11 +1233,6 @@
     "name": "Bagels, cinnamon-raisin",
     "alternative_names": [],
     "description": "Bagels, cinnamon-raisin."
-  },
-  "bagels_cinnamon_raisin_tstd": {
-    "name": "Bagels, cinnamon-raisin, tstd",
-    "alternative_names": [],
-    "description": "Bagels, cinnamon-raisin, tstd."
   },
   "bagels_oat_bran": {
     "name": "Bagels, oat bran",
@@ -1424,16 +1294,6 @@
     "alternative_names": [],
     "description": "Bread, multi-grain (includes whole-grain)."
   },
-  "bread_multi_grain_tstd": {
-    "name": "Bread, multi-grain, tstd (includes whole-grain)",
-    "alternative_names": [],
-    "description": "Bread, multi-grain, tstd (includes whole-grain)."
-  },
-  "bread_oat_bran_toasted": {
-    "name": "Bread, oat bran, toasted",
-    "alternative_names": [],
-    "description": "Bread, oat bran, toasted."
-  },
   "bread_oatmeal": {
     "name": "Bread, oatmeal",
     "alternative_names": [],
@@ -1469,20 +1329,10 @@
     "alternative_names": [],
     "description": "Bread, raisin, enriched."
   },
-  "bread_raisin_tstd_enr": {
-    "name": "Bread, raisin, tstd, enriched",
-    "alternative_names": [],
-    "description": "Bread, raisin, tstd, enriched."
-  },
   "bread_red_cal_oat_bran": {
     "name": "Bread, red-cal, oat bran",
     "alternative_names": [],
     "description": "Bread, red-cal, oat bran."
-  },
-  "bread_red_cal_oat_bran_tstd": {
-    "name": "Bread, red-cal, oat bran, tstd",
-    "alternative_names": [],
-    "description": "Bread, red-cal, oat bran, tstd."
   },
   "bread_reduced_calorie_rye": {
     "name": "Bread, reduced-calorie, rye",
@@ -1674,16 +1524,6 @@
     "alternative_names": [],
     "description": "English muffins, wheat."
   },
-  "english_muffins_wheat_tstd": {
-    "name": "English muffins, wheat, tstd",
-    "alternative_names": [],
-    "description": "English muffins, wheat, tstd."
-  },
-  "english_muffins_whole_wheat": {
-    "name": "English muffins, whole-wheat",
-    "alternative_names": [],
-    "description": "English muffins, whole-wheat."
-  },
   "english_muffins_whole_wheat_tstd": {
     "name": "English muffins, whole-wheat, tstd",
     "alternative_names": [],
@@ -1779,11 +1619,6 @@
     "alternative_names": [],
     "description": "Pie crust, standard-type, frozen, rtb, enriched."
   },
-  "pie_crust_standard_type_frz_rtb_enr_bkd": {
-    "name": "Pie crust, standard-type, frozen, rtb, enriched, baked",
-    "alternative_names": [],
-    "description": "Pie crust, standard-type, frozen, rtb, enriched, baked."
-  },
   "pie_crust_standard_type_prep_from_recipe_bkd": {
     "name": "Pie crust, standard-type, prepared from recipe, baked",
     "alternative_names": [],
@@ -1814,21 +1649,6 @@
     "alternative_names": [],
     "description": "Bread crumbs, dry, grated, seasoned."
   },
-  "bread_rice_bran_toasted": {
-    "name": "Bread, rice bran, toasted",
-    "alternative_names": [],
-    "description": "Bread, rice bran, toasted."
-  },
-  "bread_wheat_germ_toasted": {
-    "name": "Bread, wheat germ, toasted",
-    "alternative_names": [],
-    "description": "Bread, wheat germ, toasted."
-  },
-  "muffins_wheat_bran_toaster_type_wraisins_tstd": {
-    "name": "Muffins, wheat bran, toaster-type withraisins, tstd",
-    "alternative_names": [],
-    "description": "Muffins, wheat bran, toaster-type withraisins, tstd."
-  },
   "pie_crust_cookie_type_prep_from_recipe_choc_w": {
     "name": "Pie crust, cookie-type, prepared from recipe, chocolate wafer, chilled",
     "alternative_names": [],
@@ -1838,11 +1658,6 @@
     "name": "Pie crust, cookie-type, prepared fr recipe, graham cracker, chilled",
     "alternative_names": [],
     "description": "Pie crust, cookie-type, prepared fr recipe, graham cracker, chilled."
-  },
-  "pie_crust_cookie_type_prep_from_recipe_vanill": {
-    "name": "Pie crust, cookie-type, prepared from recipe, vanilla wafer, chilled",
-    "alternative_names": [],
-    "description": "Pie crust, cookie-type, prepared from recipe, vanilla wafer, chilled."
   },
   "pie_crust_standard_type_prep_from_recipe_unba": {
     "name": "Pie crust, standard-type, prepared from recipe, unbaked",
@@ -1963,11 +1778,6 @@
     "name": "Crackers, saltines, whole wheat (includes multi-grain)",
     "alternative_names": [],
     "description": "Crackers, saltines, whole wheat (includes multi-grain)."
-  },
-  "bread_wheat_white_wheat": {
-    "name": "Bread, wheat, white wheat",
-    "alternative_names": [],
-    "description": "Bread, wheat, white wheat."
   },
   "bagel_wheat": {
     "name": "Bagel, wheat",
@@ -2539,11 +2349,6 @@
     "alternative_names": [],
     "description": "Denny's, macaroni & cheese, from kid's menu."
   },
-  "cereals_rte_marshmllw_alpha_bits": {
-    "name": "Cereals, ready-to-eat, marshmllw alpha-bits",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, marshmllw alpha-bits."
-  },
   "candies_mars_snackfood_us_twix_choc_fudge_coo": {
     "name": "Candies, mars snackfood us, twix chocolate fudge cookie bars",
     "alternative_names": [],
@@ -2624,11 +2429,6 @@
     "alternative_names": [],
     "description": "Vegetables, mixed (corn, lima bns, peas, grn bns, crrt) canned, no salt."
   },
-  "cereals_rte_post_shredded_wheat_n_bran_spoon": {
-    "name": "Cereals, ready-to-eat, post, shredded wheat n' bran, spoon-size",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, post, shredded wheat n' bran, spoon-size."
-  },
   "cereals_rte_oat_bran_flakes_health_valley": {
     "name": "Cereals, ready-to-eat, oat bran flakes, health valley",
     "alternative_names": [],
@@ -2689,11 +2489,6 @@
     "alternative_names": [],
     "description": "Soy and wheat burger or bite (vegan), prepacked."
   },
-  "soy_and_wheat_burger_or_bite_not_vegan_prepacked": {
-    "name": "Soy and wheat burger or bite (not vegan), prepacked",
-    "alternative_names": [],
-    "description": "Soy and wheat burger or bite (not vegan), prepacked."
-  },
   "wheat_based_nuggets_breaded_croquette_wo_soybean_prepacked": {
     "name": "Wheat-based nuggets, breaded croquette (without soybean), prepacked",
     "alternative_names": [],
@@ -2748,11 +2543,6 @@
     "name": "Plant-based burger or steak from wheat and soybean (not vegan), prepacked",
     "alternative_names": [],
     "description": "Plant-based burger or steak from wheat and soybean (not vegan), prepacked."
-  },
-  "sandwich_club_wholemeal_bread_ham_and_cheese_prepacked": {
-    "name": "Sandwich, club, wholemeal bread, ham and cheese, prepacked",
-    "alternative_names": [],
-    "description": "Sandwich, club, wholemeal bread, ham and cheese, prepacked."
   },
   "sandwich_club_wholemeal_bread_chicken_and_raw_vegetables_prepacked": {
     "name": "Sandwich, club, wholemeal bread, chicken and raw vegetables, prepacked",

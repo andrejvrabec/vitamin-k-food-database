@@ -1119,11 +1119,6 @@
     "alternative_names": [],
     "description": "Sladový nápoj mix, nat, prášok."
   },
-  "malted_drk_mix_choc_w_added_nutr_pdr": {
-    "name": "Sladový nápoj mix, čokoláda, s prídavkom Nutramigen, prášok",
-    "alternative_names": [],
-    "description": "Sladový nápoj mix, čokoláda, s prídavkom Nutramigen, prášok."
-  },
   "malted_drk_mix_choc_pdr": {
     "name": "Sladový nápoj mix, čokoládový, prášok",
     "alternative_names": [],
@@ -1588,11 +1583,6 @@
     "name": "Tofu, pevné, príprava so síranom a chloridom horečnatým (nigari)",
     "alternative_names": [],
     "description": "Tofu, pevné, príprava so síranom a chloridom horečnatým (nigari)."
-  },
-  "tofu_soft_prep_wca_sulfatemagnesium_chloride": {
-    "name": "Tofu, mäkké, príprava so síranom a chloridom horečnatým (nigari)",
-    "alternative_names": [],
-    "description": "Tofu, mäkké, príprava so síranom a chloridom horečnatým (nigari)."
   },
   "tofu_fried": {
     "name": "Tofu, vyprážané",
@@ -2124,11 +2114,6 @@
     "alternative_names": [],
     "description": "Čokoláda na pečenie, nesladené, squares."
   },
-  "ice_creams_vanilla_lt": {
-    "name": "Zmrzliny, vanilka, ľahké",
-    "alternative_names": [],
-    "description": "Zmrzliny, vanilka, ľahké."
-  },
   "ice_creams_vanilla_rich": {
     "name": "Zmrzliny, vanilkové, bohaté",
     "alternative_names": [],
@@ -2153,11 +2138,6 @@
     "name": "Zmrzliny, vanilkové, ľahké, mäkké",
     "alternative_names": [],
     "description": "Zmrzliny, vanilkové, ľahké, mäkké."
-  },
-  "ice_creams_choc_lt": {
-    "name": "Zmrzliny, čokoláda, ľahké",
-    "alternative_names": [],
-    "description": "Zmrzliny, čokoláda, ľahké."
   },
   "baking_choc_mexican_squares": {
     "name": "Čokoláda na pečenie, mexická, štvorčeky",
@@ -2478,11 +2458,6 @@
     "name": "Burger king, chsbrgr",
     "alternative_names": [],
     "description": "Burger king, chsbrgr."
-  },
-  "burger_king_whopper_no_chs": {
-    "name": "Burger king, super, bez syr",
-    "alternative_names": [],
-    "description": "Burger king, super, bez syr."
   },
   "burger_king_whopper_w_chs": {
     "name": "Burger king, kurva, s syr",
@@ -3024,11 +2999,6 @@
     "alternative_names": [],
     "description": "Šalát dresing, mayo dresing, diéta, no chol."
   },
-  "puddings_choc_flavor_lo_cal_inst_dry_mix": {
-    "name": "Pudingy, príchuť čokoláda, miestne, instantné, suchá zmes",
-    "alternative_names": [],
-    "description": "Pudingy, príchuť čokoláda, miestne, instantné, suchá zmes."
-  },
   "jellies_red_sugar_home_preserved": {
     "name": "Želé, červený cukor, doma konzervované",
     "alternative_names": [],
@@ -3537,11 +3507,6 @@
     "alternative_names": [],
     "description": "Kešu orechy, grilované, bez pridanej soli."
   },
-  "cashew_nut_dry_grilled_no_added_salt": {
-    "name": "Kešu orechy, nasucho grilované, bez pridania soli",
-    "alternative_names": [],
-    "description": "Kešu orechy, nasucho grilované, bez pridania soli."
-  },
   "spelt_raw": {
     "name": "Špalda, surová",
     "alternative_names": [],
@@ -3592,20 +3557,10 @@
     "alternative_names": [],
     "description": "Brioškový suchár, nakrájaný na plátky, balené."
   },
-  "meat_white_cooked_average": {
-    "name": "Mäso, biele, varené (priemer)",
-    "alternative_names": [],
-    "description": "Mäso, biele, varené (priemer)."
-  },
   "meat_cooked_average": {
     "name": "Mäso varené (priemerne)",
     "alternative_names": [],
     "description": "Mäso varené (priemerne)."
-  },
-  "poultry_meat_cooked_average": {
-    "name": "Hydina, mäso, varené (priemer)",
-    "alternative_names": [],
-    "description": "Hydina, mäso, varené (priemer)."
   },
   "poultry_cooked_average": {
     "name": "Hydina, varená (priemerne)",
@@ -3777,11 +3732,6 @@
     "alternative_names": [],
     "description": "Liegeois ovocie, chladené."
   },
-  "soy_dessert_with_fruits_with_sugar_s_fortified_with_calcium_fermented_refrigerated": {
-    "name": "Sójový dezert s ovocím, s cukrom, obohatený vápnikom, fermentovaný, chladený",
-    "alternative_names": [],
-    "description": "Sójový dezert s ovocím, s cukrom, obohatený vápnikom, fermentovaný, chladený."
-  },
   "soy_dessert_plain_no_added_sugars_not_fortified_fermented_refrigerated": {
     "name": "Sójový dezert, obyčajný, bez pridaného cukru, neobohatený, fermentovaný, chladený",
     "alternative_names": [],
@@ -3801,11 +3751,6 @@
     "name": "Sójový dezert, s mandľami, s cukrom, obohatený o vitamíny a minerály, chladený",
     "alternative_names": [],
     "description": "Sójový dezert, s mandľami, s cukrom, obohatený o vitamíny a minerály, chladený."
-  },
-  "soy_dessert_flavoured_with_sugar_s_fortified_with_calcium_refrigerated": {
-    "name": "Sójový dezert, ochutený, s cukrom (cukromi), obohatený vápnikom, chladený",
-    "alternative_names": [],
-    "description": "Sójový dezert, ochutený, s cukrom (cukromi), obohatený vápnikom, chladený."
   },
   "soy_dessert_flavoured_with_sugar_s_not_fortified_refrigerated": {
     "name": "Sójový dezert, ochutený, s cukrom (cukromi), neobohatený, chladený",

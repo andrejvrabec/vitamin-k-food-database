@@ -74,11 +74,6 @@
     "alternative_names": [],
     "description": "Candies, dark chocolate coated coffee beans."
   },
-  "candies_fudge_chocolate_with_nuts_prepar": {
-    "name": "Candies, fudge, chocolate, with nuts, prepared-from-recipe",
-    "alternative_names": [],
-    "description": "Candies, fudge, chocolate, with nuts, prepared-from-recipe."
-  },
   "candies_mars_snackfood_us_starburst_frui": {
     "name": "Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Original fruits",
     "alternative_names": [],
@@ -384,11 +379,6 @@
     "alternative_names": [],
     "description": "Babyfood, meat, chicken, jr."
   },
-  "babyfood_meat_chick_stks_jr": {
-    "name": "Babyfood, meat, chicken steaks, jr",
-    "alternative_names": [],
-    "description": "Babyfood, meat, chicken steaks, jr."
-  },
   "gerber_graduates_fruit_strips_real_fruit_bars": {
     "name": "Gerber graduates fruit strips real fruit bars",
     "alternative_names": [],
@@ -654,11 +644,6 @@
     "alternative_names": [],
     "description": "Babyfood, fruit, pears, jr."
   },
-  "babyfood_fruit_plums_wtapioca_wovit_c_str": {
-    "name": "Babyfood, fruit, plums withtapioca, withoutvit c, str",
-    "alternative_names": [],
-    "description": "Babyfood, fruit, plums withtapioca, withoutvit c, str."
-  },
   "babyfood_fruit_plums_wtapioca_wovit_c_jr": {
     "name": "Babyfood, fruit, plums withtapioca, withoutvit c, jr",
     "alternative_names": [],
@@ -683,16 +668,6 @@
     "name": "Babyfood, pears, dices, todd",
     "alternative_names": [],
     "description": "Babyfood, pears, dices, todd."
-  },
-  "babyfood_fruit_applsaucapricots_str": {
-    "name": "Babyfood, fruit, applsauc&apricots, str",
-    "alternative_names": [],
-    "description": "Babyfood, fruit, applsauc&apricots, str."
-  },
-  "babyfood_fruit_applsaucapricots_jr": {
-    "name": "Babyfood, fruit, applsauc&apricots, jr",
-    "alternative_names": [],
-    "description": "Babyfood, fruit, applsauc&apricots, jr."
   },
   "babyfood_fruit_applsauccherries_str": {
     "name": "Babyfood, fruit, applsauc&cherries, str",
@@ -719,11 +694,6 @@
     "alternative_names": [],
     "description": "Babyfood, fruit & vegetable, apple & sweet potato."
   },
-  "babyfood_fruit_bananaspnappl_wtapioca_jr": {
-    "name": "Babyfood, fruit, bananas&pnappl withtapioca, jr",
-    "alternative_names": [],
-    "description": "Babyfood, fruit, bananas&pnappl withtapioca, jr."
-  },
   "babyfood_fruit_bananaspnappl_wtapioca_str": {
     "name": "Babyfood, fruit, bananas&pnappl withtapioca, str",
     "alternative_names": [],
@@ -733,11 +703,6 @@
     "name": "Babyfood, fruit, pears&pnappl, str",
     "alternative_names": [],
     "description": "Babyfood, fruit, pears&pnappl, str."
-  },
-  "babyfood_fruit_pearspnappl_jr": {
-    "name": "Babyfood, fruit, pears&pnappl, jr",
-    "alternative_names": [],
-    "description": "Babyfood, fruit, pears&pnappl, jr."
   },
   "babyfood_peaches_dices_todd": {
     "name": "Babyfood, peaches, dices, todd",
@@ -1019,11 +984,6 @@
     "alternative_names": [],
     "description": "Babyfood, crl, mixed, prepared withwhl milk."
   },
-  "babyfood_crl_mxd_wbananas_prep_wwhl_milk": {
-    "name": "Babyfood, crl, mixed, withbananas, prepared withwhl milk",
-    "alternative_names": [],
-    "description": "Babyfood, crl, mixed, withbananas, prepared withwhl milk."
-  },
   "babyfood_crl_rice_prep_wwhl_milk": {
     "name": "Babyfood, crl, rice, prepared withwhl milk",
     "alternative_names": [],
@@ -1089,16 +1049,6 @@
     "alternative_names": [],
     "description": "Infant formula, mead johnson, prosobee, with iron, liquids cnc, not rec."
   },
-  "inf_formula_mead_johnson_enfamil_prosobee_iro": {
-    "name": "Infant formula, mead johnson, enfamil, prosobee, iron, powder, not recon",
-    "alternative_names": [],
-    "description": "Infant formula, mead johnson, enfamil, prosobee, iron, powder, not recon."
-  },
-  "inf_for_me_johns_enfamil_lactof_lipil_w_ir_pd": {
-    "name": "Infant formula, Mead Johnson, enfamil, Lactofree lipil, with iron, powder, with ARA and DHA",
-    "alternative_names": [],
-    "description": "Infant formula, Mead Johnson, enfamil, Lactofree lipil, with iron, powder, with ARA and DHA."
-  },
   "inf_formula_mead_johnson_enfamil_lipil_rtf_w": {
     "name": "Infant formula, mead johnson, enfamil, lipil, ready-to-feed, with ARA and DHA",
     "alternative_names": [],
@@ -1128,11 +1078,6 @@
     "name": "Infant formula, ab Nutramigen, similac, with iron, liquids concentrate, not recon",
     "alternative_names": [],
     "description": "Infant formula, ab Nutramigen, similac, with iron, liquids concentrate, not recon."
-  },
-  "inf_formula_abbott_nutr_similac_w_iron_pdr_no": {
-    "name": "Infant formula, abbott Nutramigen, similac, with iron, powder, not recon",
-    "alternative_names": [],
-    "description": "Infant formula, abbott Nutramigen, similac, with iron, powder, not recon."
   },
   "inffor_meadjohns_enfamil_prosobee_lipil_lc_no": {
     "name": "Inffor, meadjohns, enfamil, prosobee, lipil, lc, notrec, ara&dha",
@@ -1184,16 +1129,6 @@
     "alternative_names": [],
     "description": "Infant formula, pbm products, store brand, soy, ready-to-feed."
   },
-  "inf_formula_pbm_products_store_brand_soy_pdr": {
-    "name": "Infant formula, pbm products, store brand, soy, powder",
-    "alternative_names": [],
-    "description": "Infant formula, pbm products, store brand, soy, powder."
-  },
-  "inf_formula_mead_johnson_enfamil_ar_lipil_rtf": {
-    "name": "Infant formula, mead johnson, enfamil, ar lipil, ready-to-feed, with ARA and DHA",
-    "alternative_names": [],
-    "description": "Infant formula, mead johnson, enfamil, ar lipil, ready-to-feed, with ARA and DHA."
-  },
   "inf_form_abbott_similac_neosure_pdr_w_ara_dha": {
     "name": "Infant formula, abbott , similac, neosure, powder, with ARA and DHA",
     "alternative_names": [],
@@ -1203,11 +1138,6 @@
     "name": "Inf formu, abbo Nutramigen, similac, advan, with iron, liquids concentrate, not recon",
     "alternative_names": [],
     "description": "Inf formu, abbo Nutramigen, similac, advan, with iron, liquids concentrate, not recon."
-  },
-  "inf_formula_mead_johnson_enfamil_enfacare_lip": {
-    "name": "Infant formula, mead johnson, enfamil, enfacare lipil, ready-to-feed, ara&dha",
-    "alternative_names": [],
-    "description": "Infant formula, mead johnson, enfamil, enfacare lipil, ready-to-feed, ara&dha."
   },
   "babyfood_yogurt_whl_milk_w_fruit_multigrain_c": {
     "name": "Babyfood, yogurt, whole milk, with/ fruit, multigrain crl & added dha",
@@ -1384,11 +1314,6 @@
     "alternative_names": [],
     "description": "Soup, cream of potato, canned, condensed."
   },
-  "soup_tomato_rice_cnd_cond": {
-    "name": "Soup, tomato rice, canned, condensed",
-    "alternative_names": [],
-    "description": "Soup, tomato rice, canned, condensed."
-  },
   "soup_turkey_noodle_cnd_cond": {
     "name": "Soup, turkey noodle, canned, condensed",
     "alternative_names": [],
@@ -1544,11 +1469,6 @@
     "alternative_names": [],
     "description": "Soup, minestrone, canned, red na, rts."
   },
-  "soup_crm_of_mushroom_cnd_cond_red_na": {
-    "name": "Soup, cream of mushroom, canned, condensed, red na",
-    "alternative_names": [],
-    "description": "Soup, cream of mushroom, canned, condensed, red na."
-  },
   "soup_beanham_cnd_red_na_prep_wh2o_or_rts": {
     "name": "Soup, bean&ham, canned, red na, prepared withh2o or rts",
     "alternative_names": [],
@@ -1613,11 +1533,6 @@
     "name": "Soup, black bean, canned, prepared with/ eq volumes of water",
     "alternative_names": [],
     "description": "Soup, black bean, canned, prepared with/ eq volumes of water."
-  },
-  "soup_bean_w_pork_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, bean with/ pork, canned, prepared with/ eq volumes of water",
-    "alternative_names": [],
-    "description": "Soup, bean with/ pork, canned, prepared with/ eq volumes of water."
   },
   "soup_bf_noodle_cnd_prep_w_eq_volume_h2o": {
     "name": "Soup, beef noodle, canned, prepared with/ eq volumes of water",
@@ -1689,11 +1604,6 @@
     "alternative_names": [],
     "description": "Soup, vegetable beef, canned, prepared with/ eq volumes of water."
   },
-  "soup_veg_w_bf_broth_cnd_prep_w_eq_volume_h2o": {
-    "name": "Soup, vegetable with/ beef broth, canned, prepared with/ eq volumes of water",
-    "alternative_names": [],
-    "description": "Soup, vegetable with/ beef broth, canned, prepared with/ eq volumes of water."
-  },
   "soup_bean_w_bacon_dry_mix_prep_w_h2o": {
     "name": "Soup, bean with/ bacon, dry, mix, prepared with/ h2o",
     "alternative_names": [],
@@ -1709,30 +1619,15 @@
     "alternative_names": [],
     "description": "Soup, chicken rice, dry, mix, prepared with/ h2o."
   },
-  "soup_mushroom_dry_mix_prep_w_h2o": {
-    "name": "Soup, mushroom, dry, mix, prepared with/ h2o",
-    "alternative_names": [],
-    "description": "Soup, mushroom, dry, mix, prepared with/ h2o."
-  },
   "soup_onion_dry_mix_prep_w_h2o": {
     "name": "Soup, onion, dry, mix, prepared with/ h2o",
     "alternative_names": [],
     "description": "Soup, onion, dry, mix, prepared with/ h2o."
   },
-  "soup_oxtail_dry_mix_prep_w_h2o": {
-    "name": "Soup, oxtail, dry, mix, prepared with/ h2o",
-    "alternative_names": [],
-    "description": "Soup, oxtail, dry, mix, prepared with/ h2o."
-  },
   "soup_tomato_dry_mix_prep_w_h2o": {
     "name": "Soup, tomato, dry, mix, prepared with/ h2o",
     "alternative_names": [],
     "description": "Soup, tomato, dry, mix, prepared with/ h2o."
-  },
-  "soup_tomato_veg_dry_mix_prep_w_h2o": {
-    "name": "Soup, tomato vegetable, dry, mix, prepared with/ h2o",
-    "alternative_names": [],
-    "description": "Soup, tomato vegetable, dry, mix, prepared with/ h2o."
   },
   "soup_veg_bf_dry_mix_prep_w_h2o": {
     "name": "Soup, vegetable beef, dry, mix, prepared with/ h2o",
@@ -2189,11 +2084,6 @@
     "alternative_names": [],
     "description": "Candies, mars snackfood us, skittles original bite size cand."
   },
-  "candies_fudge_choc_marshmllw_prepared_from_re": {
-    "name": "Candies, fudge, chocolate marshmllw, prepared-from-recipe",
-    "alternative_names": [],
-    "description": "Candies, fudge, chocolate marshmllw, prepared-from-recipe."
-  },
   "candies_taffy_prepared_from_recipe": {
     "name": "Candies, taffy, prepared-from-recipe",
     "alternative_names": [],
@@ -2369,16 +2259,6 @@
     "alternative_names": [],
     "description": "\"domino's 14\" cheese pizza, crunchy thin crust\"."
   },
-  "dominos_14_pepperoni_pizza_classic_hand_tosse": {
-    "name": "Domino's 14\" pepperoni pizza, classic hand-tossed crust",
-    "alternative_names": [],
-    "description": "\"domino's 14\" pepperoni pizza, classic hand-tossed crust\"."
-  },
-  "dominos_14_pepperoni_pizza_ultimate_deep_dish": {
-    "name": "Domino's 14\" pepperoni pizza, ultimate deep dish crust",
-    "alternative_names": [],
-    "description": "\"domino's 14\" pepperoni pizza, ultimate deep dish crust\"."
-  },
   "dominos_14_extravaganzza_fst_pizza_clssic_han": {
     "name": "Domino's 14\" extravaganzza fst pizza, clssic hand-tossed crst",
     "alternative_names": [],
@@ -2419,11 +2299,6 @@
     "alternative_names": [],
     "description": "\"little caesars 14\" cheese pizza, lrg deep dish crust\"."
   },
-  "little_caesars_14_pepperoni_pizza_lrg_deep_di": {
-    "name": "Little caesars 14\" pepperoni pizza, lrg deep dish crust",
-    "alternative_names": [],
-    "description": "\"little caesars 14\" pepperoni pizza, lrg deep dish crust\"."
-  },
   "little_caesars_14_chs_pizza_thin_crust": {
     "name": "Little caesars 14\" cheese pizza, thin crust",
     "alternative_names": [],
@@ -2438,16 +2313,6 @@
     "name": "Fast fd, pizza chain, 14\" pizza, cheese topping, thick crust",
     "alternative_names": [],
     "description": "\"fast fd, pizza chain, 14\" pizza, cheese topping, thick crust\"."
-  },
-  "fast_fd_pizza_chain_14_pizza_chs_topping_thin": {
-    "name": "Fast fd, pizza chain, 14\" pizza, cheese topping, thin crust",
-    "alternative_names": [],
-    "description": "\"fast fd, pizza chain, 14\" pizza, cheese topping, thin crust\"."
-  },
-  "fast_fd_pizza_chain_14_pizza_pepperoni_toppin": {
-    "name": "Fast fd, pizza chain, 14\" pizza, pepperoni topping, regular crust",
-    "alternative_names": [],
-    "description": "\"fast fd, pizza chain, 14\" pizza, pepperoni topping, regular crust\"."
   },
   "fast_fd_pizza_chain_14_pizza_meat_veg_topping": {
     "name": "Fast fd, pizza chain, 14\" pizza, meat & vegetable topping, regular crust",
@@ -2473,11 +2338,6 @@
     "name": "Digiorno pizza, cheese topping, thin crispy crust, frozen, baked",
     "alternative_names": [],
     "description": "Digiorno pizza, cheese topping, thin crispy crust, frozen, baked."
-  },
-  "digiorno_pizza_pepperoni_topping_chs_stuffed": {
-    "name": "Digiorno pizza, pepperoni topping, cheese stuffed crust, frozen, baked",
-    "alternative_names": [],
-    "description": "Digiorno pizza, pepperoni topping, cheese stuffed crust, frozen, baked."
   },
   "digiorno_pizza_pepperoni_topping_rising_crust": {
     "name": "Digiorno pizza, pepperoni topping, rising crust, frozen, baked",
@@ -2729,25 +2589,10 @@
     "alternative_names": [],
     "description": "Whipped topping, frozen, low fat."
   },
-  "candies_mars_snackfood_us_mms_pnut_butter_cho": {
-    "name": "Candies, mars snackfood us, m&m's peanut butter chocolate candies",
-    "alternative_names": [],
-    "description": "Candies, mars snackfood us, m&m's peanut butter chocolate candies."
-  },
   "babyfood_appl_yogurt_dssrt_str": {
     "name": "Babyfood, apple yogurt dssrt, str",
     "alternative_names": [],
     "description": "Babyfood, apple yogurt dssrt, str."
-  },
-  "candies_mars_snackfood_us_milky_way_midnight": {
-    "name": "Candies, mars snackfood us, milky way midnight bar",
-    "alternative_names": [],
-    "description": "Candies, mars snackfood us, milky way midnight bar."
-  },
-  "candies_mars_snackfood_us_mms_almond_choc_can": {
-    "name": "Candies, mars snackfood us, m&m's almond chocolate candies",
-    "alternative_names": [],
-    "description": "Candies, mars snackfood us, m&m's almond chocolate candies."
   },
   "snacks_popcorn_home_prepared_oil_popped_unsal": {
     "name": "Snacks, popcorn, home-prepared, oil-popped, unsalted",
@@ -3533,11 +3378,6 @@
     "name": "Fast foods, hamburger, lrg, single patty, withcondmnt",
     "alternative_names": [],
     "description": "Fast foods, hamburger, lrg, single patty, withcondmnt."
-  },
-  "wendys_classic_single_hamburger_no_chs": {
-    "name": "Wendy's, classic single hamburger, no cheese",
-    "alternative_names": [],
-    "description": "Wendy's, classic single hamburger, no cheese."
   },
   "wendys_classic_single_hamburger_w_chs": {
     "name": "Wendy's, classic single hamburger, with/ cheese",

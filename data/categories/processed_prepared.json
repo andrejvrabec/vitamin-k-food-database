@@ -389,34 +389,6 @@
       }
     },
     {
-      "id": "candies_fudge_chocolate_with_nuts_prepar",
-      "category": "processed_prepared",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 19101)",
-      "tags": [
-        "chocolate",
-        "cooked",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
       "id": "candies_mars_snackfood_us_starburst_frui",
       "category": "processed_prepared",
       "portions": [
@@ -2048,37 +2020,6 @@
       }
     },
     {
-      "id": "babyfood_meat_chick_stks_jr",
-      "category": "processed_prepared",
-      "tags": [
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 10
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 71
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03014)",
-      "relations": {
-        "group": "baby_food"
-      }
-    },
-    {
       "id": "gerber_graduates_fruit_strips_real_fruit_bars",
       "category": "processed_prepared",
       "tags": [
@@ -2115,7 +2056,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.5
+          "vitamin_k_mcg": 0.4
         },
         {
           "amount": 1.0,
@@ -2130,7 +2071,7 @@
           "gram_equivalent": 71
         }
       ],
-      "source": "USDA SR28 (NDB No: 03021)",
+      "source": "USDA SR28 (NDB No: 03021), USDA SR28 (NDB No: 03014)",
       "relations": {
         "group": "baby_food"
       }
@@ -3371,7 +3312,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 03116)",
+      "source": "USDA SR28 (NDB No: 03116), USDA SR28 (NDB No: 03142)",
       "relations": {
         "group": "baby_food"
       }
@@ -3402,7 +3343,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 03117), USDA SR28 (NDB No: 03147)",
+      "source": "USDA SR28 (NDB No: 03117), USDA SR28 (NDB No: 03147), USDA SR28 (NDB No: 03143)",
       "relations": {
         "group": "baby_food"
       }
@@ -3666,7 +3607,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.4
+          "vitamin_k_mcg": 3.0
         },
         {
           "amount": 1.0,
@@ -3681,40 +3622,9 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 03133)",
+      "source": "USDA SR28 (NDB No: 03133), USDA SR28 (NDB No: 03159)",
       "relations": {
         "group": "pear"
-      }
-    },
-    {
-      "id": "babyfood_fruit_plums_wtapioca_wovit_c_str",
-      "category": "processed_prepared",
-      "tags": [
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 15
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03134)",
-      "relations": {
-        "group": "plum"
       }
     },
     {
@@ -3743,7 +3653,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 03135)",
+      "source": "USDA SR28 (NDB No: 03135), USDA SR28 (NDB No: 03134)",
       "relations": {
         "group": "plum"
       }
@@ -3871,68 +3781,6 @@
       "source": "USDA SR28 (NDB No: 03141)",
       "relations": {
         "group": "pear"
-      }
-    },
-    {
-      "id": "babyfood_fruit_applsaucapricots_str",
-      "category": "processed_prepared",
-      "tags": [
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 16
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03142)",
-      "relations": {
-        "group": "baby_food"
-      }
-    },
-    {
-      "id": "babyfood_fruit_applsaucapricots_jr",
-      "category": "processed_prepared",
-      "tags": [
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 16
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03143)",
-      "relations": {
-        "group": "baby_food"
       }
     },
     {
@@ -4085,37 +3933,6 @@
       }
     },
     {
-      "id": "babyfood_fruit_bananaspnappl_wtapioca_jr",
-      "category": "processed_prepared",
-      "tags": [
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 15
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03156)",
-      "relations": {
-        "group": "baby_food"
-      }
-    },
-    {
       "id": "babyfood_fruit_bananaspnappl_wtapioca_str",
       "category": "processed_prepared",
       "tags": [
@@ -4174,38 +3991,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 03158)",
-      "relations": {
-        "group": "baby_food"
-      }
-    },
-    {
-      "id": "babyfood_fruit_pearspnappl_jr",
-      "category": "processed_prepared",
-      "tags": [
-        "k1",
-        "legumes",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 16
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03159)",
       "relations": {
         "group": "baby_food"
       }
@@ -5428,7 +5213,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 03280)",
+      "source": "USDA SR28 (NDB No: 03280), USDA SR28 (NDB No: 03156)",
       "relations": {
         "group": "banana"
       }
@@ -5911,33 +5696,7 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 03685)",
-      "relations": {
-        "group": "milk"
-      }
-    },
-    {
-      "id": "babyfood_crl_mxd_wbananas_prep_wwhl_milk",
-      "category": "processed_prepared",
-      "tags": [
-        "dairy",
-        "k2",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03686), USDA SR28 (NDB No: 03690), USDA SR28 (NDB No: 03712)",
+      "source": "USDA SR28 (NDB No: 03685), USDA SR28 (NDB No: 03686), USDA SR28 (NDB No: 03690), USDA SR28 (NDB No: 03712)",
       "relations": {
         "group": "milk"
       }
@@ -6096,7 +5855,7 @@
           "gram_equivalent": 8
         }
       ],
-      "source": "USDA SR28 (NDB No: 03808), USDA SR28 (NDB No: 03817), USDA SR28 (NDB No: 03943)",
+      "source": "USDA SR28 (NDB No: 03808), USDA SR28 (NDB No: 03817), USDA SR28 (NDB No: 03943), USDA SR28 (NDB No: 03827)",
       "relations": {
         "group": "baby_food"
       }
@@ -6113,7 +5872,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 41.0
+          "vitamin_k_mcg": 40.0
         },
         {
           "amount": 1.0,
@@ -6122,7 +5881,7 @@
           "gram_equivalent": 8
         }
       ],
-      "source": "USDA SR28 (NDB No: 03809)",
+      "source": "USDA SR28 (NDB No: 03809), USDA SR28 (NDB No: 03826)",
       "relations": {
         "group": "baby_food"
       }
@@ -6284,55 +6043,6 @@
       }
     },
     {
-      "id": "inf_formula_mead_johnson_enfamil_prosobee_iro",
-      "category": "processed_prepared",
-      "tags": [
-        "baby_food",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 40.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.5,
-          "gram_equivalent": 8
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03826)",
-      "relations": {
-        "group": "baby_food"
-      }
-    },
-    {
-      "id": "inf_for_me_johns_enfamil_lactof_lipil_w_ir_pd",
-      "category": "processed_prepared",
-      "tags": [
-        "baby_food",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 42.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.6,
-          "gram_equivalent": 8
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03827)"
-    },
-    {
       "id": "inf_formula_mead_johnson_enfamil_lipil_rtf_w",
       "category": "processed_prepared",
       "tags": [
@@ -6359,7 +6069,7 @@
           "gram_equivalent": 30
         }
       ],
-      "source": "USDA SR28 (NDB No: 03832)",
+      "source": "USDA SR28 (NDB No: 03832), USDA SR28 (NDB No: 03942), USDA SR28 (NDB No: 03955)",
       "relations": {
         "group": "baby_food"
       }
@@ -6385,7 +6095,7 @@
           "gram_equivalent": 8
         }
       ],
-      "source": "USDA SR28 (NDB No: 03837)",
+      "source": "USDA SR28 (NDB No: 03837), USDA SR28 (NDB No: 03853), USDA SR28 (NDB No: 03858), USDA SR28 (NDB No: 03950)",
       "relations": {
         "group": "baby_food"
       }
@@ -6484,32 +6194,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 03851), USDA SR28 (NDB No: 03856)"
-    },
-    {
-      "id": "inf_formula_abbott_nutr_similac_w_iron_pdr_no",
-      "category": "processed_prepared",
-      "tags": [
-        "baby_food",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 42.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.6,
-          "gram_equivalent": 8
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03853), USDA SR28 (NDB No: 03858), USDA SR28 (NDB No: 03950)",
-      "relations": {
-        "group": "baby_food"
-      }
     },
     {
       "id": "inffor_meadjohns_enfamil_prosobee_lipil_lc_no",
@@ -6727,13 +6411,15 @@
       "tags": [
         "baby_food",
         "k1",
-        "processed"
+        "legumes",
+        "processed",
+        "soy"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 43.0
+          "vitamin_k_mcg": 41.6
         },
         {
           "amount": 1.0,
@@ -6742,7 +6428,7 @@
           "gram_equivalent": 8
         }
       ],
-      "source": "USDA SR28 (NDB No: 03938)",
+      "source": "USDA SR28 (NDB No: 03938), USDA SR28 (NDB No: 03941)",
       "relations": {
         "group": "baby_food"
       }
@@ -6773,66 +6459,6 @@
       "source": "USDA SR28 (NDB No: 03939)",
       "relations": {
         "group": "soy"
-      }
-    },
-    {
-      "id": "inf_formula_pbm_products_store_brand_soy_pdr",
-      "category": "processed_prepared",
-      "tags": [
-        "baby_food",
-        "k1",
-        "legumes",
-        "processed",
-        "soy"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 41.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.6,
-          "gram_equivalent": 8
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03941)",
-      "relations": {
-        "group": "soy"
-      }
-    },
-    {
-      "id": "inf_formula_mead_johnson_enfamil_ar_lipil_rtf",
-      "category": "processed_prepared",
-      "tags": [
-        "baby_food",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "ml",
-          "vitamin_k_mcg": 5.8,
-          "gram_equivalent": 106
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.7,
-          "gram_equivalent": 30
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03942)",
-      "relations": {
-        "group": "baby_food"
       }
     },
     {
@@ -6880,32 +6506,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 03951)"
-    },
-    {
-      "id": "inf_formula_mead_johnson_enfamil_enfacare_lip",
-      "category": "processed_prepared",
-      "tags": [
-        "baby_food",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.8,
-          "gram_equivalent": 30
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 03955)",
-      "relations": {
-        "group": "baby_food"
-      }
     },
     {
       "id": "babyfood_yogurt_whl_milk_w_fruit_multigrain_c",
@@ -8011,38 +7611,6 @@
       }
     },
     {
-      "id": "soup_tomato_rice_cnd_cond",
-      "category": "processed_prepared",
-      "tags": [
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.9,
-          "gram_equivalent": 129
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 9.4,
-          "gram_equivalent": 312
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 06063)",
-      "relations": {
-        "group": "tomato"
-      }
-    },
-    {
       "id": "soup_turkey_noodle_cnd_cond",
       "category": "processed_prepared",
       "tags": [
@@ -8667,7 +8235,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.2
+          "vitamin_k_mcg": 3.0
         },
         {
           "amount": 1.0,
@@ -8682,7 +8250,7 @@
           "gram_equivalent": 148
         }
       ],
-      "source": "USDA SR28 (NDB No: 06159)",
+      "source": "USDA SR28 (NDB No: 06159), USDA SR28 (NDB No: 06063)",
       "relations": {
         "group": "tomato"
       }
@@ -8977,33 +8545,6 @@
       "source": "USDA SR28 (NDB No: 06177)",
       "relations": {
         "group": "soup"
-      }
-    },
-    {
-      "id": "soup_crm_of_mushroom_cnd_cond_red_na",
-      "category": "processed_prepared",
-      "tags": [
-        "high_sodium",
-        "k1",
-        "mushrooms",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 1.0,
-          "gram_equivalent": 251
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 06182)",
-      "relations": {
-        "group": "mushroom"
       }
     },
     {
@@ -9344,7 +8885,9 @@
       "tags": [
         "high_sodium",
         "k1",
+        "k2",
         "legumes",
+        "meat",
         "processed"
       ],
       "portions": [
@@ -9366,41 +8909,7 @@
           "gram_equivalent": 600
         }
       ],
-      "source": "USDA SR28 (NDB No: 06402)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
-      "id": "soup_bean_w_pork_cnd_prep_w_eq_volume_h2o",
-      "category": "processed_prepared",
-      "tags": [
-        "high_sodium",
-        "k2",
-        "legumes",
-        "meat",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 3.2,
-          "gram_equivalent": 266
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 33
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 06404)",
+      "source": "USDA SR28 (NDB No: 06402), USDA SR28 (NDB No: 06404)",
       "relations": {
         "group": "beans"
       }
@@ -9823,7 +9332,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.8
+          "vitamin_k_mcg": 1.2
         },
         {
           "amount": 1.0,
@@ -9838,39 +9347,7 @@
           "gram_equivalent": 593
         }
       ],
-      "source": "USDA SR28 (NDB No: 06471)",
-      "relations": {
-        "group": "soup"
-      }
-    },
-    {
-      "id": "soup_veg_w_bf_broth_cnd_prep_w_eq_volume_h2o",
-      "category": "processed_prepared",
-      "tags": [
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 2.9,
-          "gram_equivalent": 241
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.0,
-          "gram_equivalent": 586
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 06472)",
+      "source": "USDA SR28 (NDB No: 06471), USDA SR28 (NDB No: 06472)",
       "relations": {
         "group": "soup"
       }
@@ -9968,39 +9445,6 @@
       }
     },
     {
-      "id": "soup_mushroom_dry_mix_prep_w_h2o",
-      "category": "processed_prepared",
-      "tags": [
-        "high_sodium",
-        "k1",
-        "mushrooms",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 2.8,
-          "gram_equivalent": 253
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.1,
-          "gram_equivalent": 194
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 06493)",
-      "relations": {
-        "group": "mushroom"
-      }
-    },
-    {
       "id": "soup_onion_dry_mix_prep_w_h2o",
       "category": "processed_prepared",
       "tags": [
@@ -10027,35 +9471,9 @@
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 06494)",
+      "source": "USDA SR28 (NDB No: 06494), USDA SR28 (NDB No: 06495)",
       "relations": {
         "group": "onion"
-      }
-    },
-    {
-      "id": "soup_oxtail_dry_mix_prep_w_h2o",
-      "category": "processed_prepared",
-      "tags": [
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 244
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 06495)",
-      "relations": {
-        "group": "soup"
       }
     },
     {
@@ -10064,6 +9482,7 @@
       "tags": [
         "high_sodium",
         "k1",
+        "mushrooms",
         "processed"
       ],
       "portions": [
@@ -10079,33 +9498,7 @@
           "gram_equivalent": 265
         }
       ],
-      "source": "USDA SR28 (NDB No: 06498)",
-      "relations": {
-        "group": "tomato"
-      }
-    },
-    {
-      "id": "soup_tomato_veg_dry_mix_prep_w_h2o",
-      "category": "processed_prepared",
-      "tags": [
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 2.9,
-          "gram_equivalent": 245
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 06499)",
+      "source": "USDA SR28 (NDB No: 06498), USDA SR28 (NDB No: 06493), USDA SR28 (NDB No: 06499)",
       "relations": {
         "group": "tomato"
       }
@@ -10290,13 +9683,14 @@
       "tags": [
         "high_sodium",
         "k1",
+        "mushrooms",
         "processed"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.7
+          "vitamin_k_mcg": 0.4
         },
         {
           "amount": 1.0,
@@ -10305,7 +9699,7 @@
           "gram_equivalent": 124
         }
       ],
-      "source": "USDA SR28 (NDB No: 06955)",
+      "source": "USDA SR28 (NDB No: 06955), USDA SR28 (NDB No: 06182)",
       "relations": {
         "group": "soup"
       }
@@ -11878,7 +11272,7 @@
           "gram_equivalent": 17
         }
       ],
-      "source": "USDA SR28 (NDB No: 19100)",
+      "source": "USDA SR28 (NDB No: 19100), USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 19101)",
       "relations": {
         "group": "candy"
       }
@@ -12295,7 +11689,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.6
+          "vitamin_k_mcg": 3.5
         },
         {
           "amount": 1.0,
@@ -12310,7 +11704,7 @@
           "gram_equivalent": 17
         }
       ],
-      "source": "USDA SR28 (NDB No: 19135)",
+      "source": "USDA SR28 (NDB No: 19135), USDA SR28 (NDB No: 42196)",
       "relations": {
         "group": "candy"
       }
@@ -12319,7 +11713,9 @@
       "id": "candies_mars_snackfood_us_mms_pnut_choc_candi",
       "category": "processed_prepared",
       "tags": [
+        "dairy",
         "k1",
+        "k2",
         "processed",
         "sweetened"
       ],
@@ -12342,7 +11738,7 @@
           "gram_equivalent": 18
         }
       ],
-      "source": "USDA SR28 (NDB No: 19140)",
+      "source": "USDA SR28 (NDB No: 19140), USDA SR28 (NDB No: 42148)",
       "relations": {
         "group": "candy"
       }
@@ -12352,6 +11748,7 @@
       "category": "processed_prepared",
       "tags": [
         "dairy",
+        "k1",
         "k2",
         "processed",
         "sweetened"
@@ -12360,7 +11757,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.0
+          "vitamin_k_mcg": 2.0
         },
         {
           "amount": 1.0,
@@ -12375,7 +11772,7 @@
           "gram_equivalent": 42
         }
       ],
-      "source": "USDA SR28 (NDB No: 19141), USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA SR28 (NDB No: 19141), USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 42227)",
       "relations": {
         "group": "milk"
       }
@@ -12862,40 +12259,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 19370)",
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
-      "id": "candies_fudge_choc_marshmllw_prepared_from_re",
-      "category": "processed_prepared",
-      "tags": [
-        "chocolate",
-        "cooked",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 20
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 28.3,
-          "gram_equivalent": 1229
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19379)",
       "relations": {
         "group": "candy"
       }
@@ -13883,7 +13246,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.4
+          "vitamin_k_mcg": 5.2
         },
         {
           "amount": 1.0,
@@ -13898,7 +13261,7 @@
           "gram_equivalent": 865
         }
       ],
-      "source": "USDA SR28 (NDB No: 21277)",
+      "source": "USDA SR28 (NDB No: 21277), USDA SR28 (NDB No: 21280)",
       "relations": {
         "group": "pizza"
       }
@@ -13917,7 +13280,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.1
+          "vitamin_k_mcg": 5.9
         },
         {
           "amount": 1.0,
@@ -13932,7 +13295,7 @@
           "gram_equivalent": 947
         }
       ],
-      "source": "USDA SR28 (NDB No: 21278)",
+      "source": "USDA SR28 (NDB No: 21278), USDA SR28 (NDB No: 21281)",
       "relations": {
         "group": "pastry"
       }
@@ -13969,72 +13332,6 @@
       "source": "USDA SR28 (NDB No: 21279)",
       "relations": {
         "group": "pastry"
-      }
-    },
-    {
-      "id": "dominos_14_pepperoni_pizza_classic_hand_tosse",
-      "category": "processed_prepared",
-      "tags": [
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.9,
-          "gram_equivalent": 113
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 47.2,
-          "gram_equivalent": 907
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21280)",
-      "relations": {
-        "group": "pizza"
-      }
-    },
-    {
-      "id": "dominos_14_pepperoni_pizza_ultimate_deep_dish",
-      "category": "processed_prepared",
-      "tags": [
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.3,
-          "gram_equivalent": 123
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 58.1,
-          "gram_equivalent": 984
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21281)",
-      "relations": {
-        "group": "pizza"
       }
     },
     {
@@ -14300,40 +13597,7 @@
           "gram_equivalent": 919
         }
       ],
-      "source": "USDA SR28 (NDB No: 21290)",
-      "relations": {
-        "group": "pizza"
-      }
-    },
-    {
-      "id": "little_caesars_14_pepperoni_pizza_lrg_deep_di",
-      "category": "processed_prepared",
-      "tags": [
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.4,
-          "gram_equivalent": 104
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 66.6,
-          "gram_equivalent": 938
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21291)",
+      "source": "USDA SR28 (NDB No: 21290), USDA SR28 (NDB No: 21291)",
       "relations": {
         "group": "pizza"
       }
@@ -14386,7 +13650,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.7
+          "vitamin_k_mcg": 6.4
         },
         {
           "amount": 1.0,
@@ -14401,7 +13665,7 @@
           "gram_equivalent": 853
         }
       ],
-      "source": "USDA SR28 (NDB No: 21299)",
+      "source": "USDA SR28 (NDB No: 21299), USDA SR28 (NDB No: 21302)",
       "relations": {
         "group": "pizza"
       }
@@ -14420,7 +13684,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 10.0
+          "vitamin_k_mcg": 9.7
         },
         {
           "amount": 1.0,
@@ -14435,74 +13699,7 @@
           "gram_equivalent": 922
         }
       ],
-      "source": "USDA SR28 (NDB No: 21300)",
-      "relations": {
-        "group": "pizza"
-      }
-    },
-    {
-      "id": "fast_fd_pizza_chain_14_pizza_chs_topping_thin",
-      "category": "processed_prepared",
-      "tags": [
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 9.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.4,
-          "gram_equivalent": 76
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 57.2,
-          "gram_equivalent": 590
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21301)",
-      "relations": {
-        "group": "pizza"
-      }
-    },
-    {
-      "id": "fast_fd_pizza_chain_14_pizza_pepperoni_toppin",
-      "category": "processed_prepared",
-      "tags": [
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.1,
-          "gram_equivalent": 111
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 57.3,
-          "gram_equivalent": 895
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21302)",
+      "source": "USDA SR28 (NDB No: 21300), USDA SR28 (NDB No: 21301)",
       "relations": {
         "group": "pizza"
       }
@@ -14583,7 +13780,7 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 8.4
+          "vitamin_k_mcg": 7.8
         },
         {
           "amount": 1.0,
@@ -14598,7 +13795,7 @@
           "gram_equivalent": 688
         }
       ],
-      "source": "USDA SR28 (NDB No: 21473)",
+      "source": "USDA SR28 (NDB No: 21473), USDA SR28 (NDB No: 21476)",
       "relations": {
         "group": "pastry"
       }
@@ -14675,41 +13872,6 @@
       "source": "USDA SR28 (NDB No: 21475)",
       "relations": {
         "group": "pastry"
-      }
-    },
-    {
-      "id": "digiorno_pizza_pepperoni_topping_chs_stuffed",
-      "category": "processed_prepared",
-      "tags": [
-        "cooked",
-        "fast_food",
-        "high_sodium",
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 14.0,
-          "gram_equivalent": 179
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 57.1,
-          "gram_equivalent": 732
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21476)",
-      "relations": {
-        "group": "pizza"
       }
     },
     {
@@ -16090,39 +15252,6 @@
       "source": "USDA SR28 (NDB No: 42135)"
     },
     {
-      "id": "candies_mars_snackfood_us_mms_pnut_butter_cho",
-      "category": "processed_prepared",
-      "tags": [
-        "dairy",
-        "k2",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.7,
-          "gram_equivalent": 46
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 12.0,
-          "gram_equivalent": 203
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 42148)",
-      "relations": {
-        "group": "butter"
-      }
-    },
-    {
       "id": "babyfood_appl_yogurt_dssrt_str",
       "category": "processed_prepared",
       "tags": [
@@ -16153,71 +15282,6 @@
       "source": "USDA SR28 (NDB No: 42150)",
       "relations": {
         "group": "yogurt"
-      }
-    },
-    {
-      "id": "candies_mars_snackfood_us_milky_way_midnight",
-      "category": "processed_prepared",
-      "tags": [
-        "dairy",
-        "k2",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.8,
-          "gram_equivalent": 50
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 19
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 42196)",
-      "relations": {
-        "group": "candy"
-      }
-    },
-    {
-      "id": "candies_mars_snackfood_us_mms_almond_choc_can",
-      "category": "processed_prepared",
-      "tags": [
-        "k1",
-        "processed",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 37
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 42
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 42227)",
-      "relations": {
-        "group": "candy"
       }
     },
     {
@@ -19837,7 +18901,7 @@
       }
     },
     {
-      "id": "wendys_classic_single_hamburger_no_chs",
+      "id": "wendys_classic_single_hamburger_w_chs",
       "category": "processed_prepared",
       "tags": [
         "k2",
@@ -19852,36 +18916,11 @@
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 19.6,
-          "gram_equivalent": 218
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21239)",
-      "relations": {
-        "group": "beef"
-      }
-    },
-    {
-      "id": "wendys_classic_single_hamburger_w_chs",
-      "category": "processed_prepared",
-      "tags": [
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 9.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
           "vitamin_k_mcg": 21.9,
           "gram_equivalent": 236
         }
       ],
-      "source": "USDA SR28 (NDB No: 21240)",
+      "source": "USDA SR28 (NDB No: 21240), USDA SR28 (NDB No: 21239)",
       "relations": {
         "group": "beef"
       }

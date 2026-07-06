@@ -1119,11 +1119,6 @@
     "alternative_names": [],
     "description": "Malted drink mix, nat, powder."
   },
-  "malted_drk_mix_choc_w_added_nutr_pdr": {
-    "name": "Malted drink mix, chocolate, with/ added Nutramigen, powder",
-    "alternative_names": [],
-    "description": "Malted drink mix, chocolate, with/ added Nutramigen, powder."
-  },
   "malted_drk_mix_choc_pdr": {
     "name": "Malted drink mix, chocolate, powder",
     "alternative_names": [],
@@ -1588,11 +1583,6 @@
     "name": "Tofu, firm, prepared withca sulfate&magnesium chloride (nigari)",
     "alternative_names": [],
     "description": "Tofu, firm, prepared withca sulfate&magnesium chloride (nigari)."
-  },
-  "tofu_soft_prep_wca_sulfatemagnesium_chloride": {
-    "name": "Tofu, soft, prepared withca sulfate&magnesium chloride (nigari)",
-    "alternative_names": [],
-    "description": "Tofu, soft, prepared withca sulfate&magnesium chloride (nigari)."
   },
   "tofu_fried": {
     "name": "Tofu, fried",
@@ -2124,11 +2114,6 @@
     "alternative_names": [],
     "description": "Baking chocolate, unswtnd, squares."
   },
-  "ice_creams_vanilla_lt": {
-    "name": "Ice creams, vanilla, light",
-    "alternative_names": [],
-    "description": "Ice creams, vanilla, light."
-  },
   "ice_creams_vanilla_rich": {
     "name": "Ice creams, vanilla, rich",
     "alternative_names": [],
@@ -2153,11 +2138,6 @@
     "name": "Ice creams, vanilla, light, soft-serve",
     "alternative_names": [],
     "description": "Ice creams, vanilla, light, soft-serve."
-  },
-  "ice_creams_choc_lt": {
-    "name": "Ice creams, chocolate, light",
-    "alternative_names": [],
-    "description": "Ice creams, chocolate, light."
   },
   "baking_choc_mexican_squares": {
     "name": "Baking chocolate, mexican, squares",
@@ -2478,11 +2458,6 @@
     "name": "Burger king, chsbrgr",
     "alternative_names": [],
     "description": "Burger king, chsbrgr."
-  },
-  "burger_king_whopper_no_chs": {
-    "name": "Burger king, whopper, no cheese",
-    "alternative_names": [],
-    "description": "Burger king, whopper, no cheese."
   },
   "burger_king_whopper_w_chs": {
     "name": "Burger king, whopper, with/ cheese",
@@ -3024,11 +2999,6 @@
     "alternative_names": [],
     "description": "Salad dressing, mayo dressing, diet, no chol."
   },
-  "puddings_choc_flavor_lo_cal_inst_dry_mix": {
-    "name": "Puddings, chocolate flavor, lo cal, instant, dry mix",
-    "alternative_names": [],
-    "description": "Puddings, chocolate flavor, lo cal, instant, dry mix."
-  },
   "jellies_red_sugar_home_preserved": {
     "name": "Jellies, red sugar, home preserved",
     "alternative_names": [],
@@ -3536,11 +3506,6 @@
     "alternative_names": [],
     "description": "Cashew nut, grilled, no added salt."
   },
-  "cashew_nut_dry_grilled_no_added_salt": {
-    "name": "Cashew nut, dry-grilled, no added salt",
-    "alternative_names": [],
-    "description": "Cashew nut, dry-grilled, no added salt."
-  },
   "spelt_raw": {
     "name": "Spelt, raw",
     "alternative_names": [],
@@ -3591,20 +3556,10 @@
     "alternative_names": [],
     "description": "Brioche rusk, sliced, prepacked."
   },
-  "meat_white_cooked_average": {
-    "name": "Meat, white, cooked (average)",
-    "alternative_names": [],
-    "description": "Meat, white, cooked (average)."
-  },
   "meat_cooked_average": {
     "name": "Meat, cooked (average)",
     "alternative_names": [],
     "description": "Meat, cooked (average)."
-  },
-  "poultry_meat_cooked_average": {
-    "name": "Poultry, meat, cooked (average)",
-    "alternative_names": [],
-    "description": "Poultry, meat, cooked (average)."
   },
   "poultry_cooked_average": {
     "name": "Poultry, cooked (average)",
@@ -3776,11 +3731,6 @@
     "alternative_names": [],
     "description": "Fruit liegeois, refrigerated."
   },
-  "soy_dessert_with_fruits_with_sugar_s_fortified_with_calcium_fermented_refrigerated": {
-    "name": "Soy dessert, with fruits, with sugar(s), fortified with calcium, fermented, refrigerated",
-    "alternative_names": [],
-    "description": "Soy dessert, with fruits, with sugar(s), fortified with calcium, fermented, refrigerated."
-  },
   "soy_dessert_plain_no_added_sugars_not_fortified_fermented_refrigerated": {
     "name": "Soy dessert, plain, no added sugars, not fortified, fermented, refrigerated",
     "alternative_names": [],
@@ -3800,11 +3750,6 @@
     "name": "Soy dessert, with almonds, with sugar(s), fortified with vitamins and minerals, refrigerated",
     "alternative_names": [],
     "description": "Soy dessert, with almonds, with sugar(s), fortified with vitamins and minerals, refrigerated."
-  },
-  "soy_dessert_flavoured_with_sugar_s_fortified_with_calcium_refrigerated": {
-    "name": "Soy dessert, flavoured, with sugar(s), fortified with calcium, refrigerated",
-    "alternative_names": [],
-    "description": "Soy dessert, flavoured, with sugar(s), fortified with calcium, refrigerated."
   },
   "soy_dessert_flavoured_with_sugar_s_not_fortified_refrigerated": {
     "name": "Soy dessert, flavoured, with sugar(s), not fortified, refrigerated",
