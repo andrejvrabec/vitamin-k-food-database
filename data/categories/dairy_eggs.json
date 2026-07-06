@@ -7528,7 +7528,7 @@
           "vitamin_k_mcg": 4.2
         }
       ],
-      "source": "Estimation based on similar fermented sheep milk cheeses (e.g. Feta)",
+      "source": "Estimation based on similar fermented sheep milk cheeses (e.g. Feta in CIQUAL 2025, Food Code: 12066)",
       "tags": [
         "dairy",
         "k2"
@@ -7547,7 +7547,7 @@
           "vitamin_k_mcg": 4.8
         }
       ],
-      "source": "Estimation based on scientific literature for mesophilic fermented milk kefir",
+      "source": "Estimation based on scientific literature for mesophilic fermented milk kefir (NIH, PMC5862215)",
       "tags": [
         "dairy",
         "k2"
@@ -7566,7 +7566,7 @@
           "vitamin_k_mcg": 2.0
         }
       ],
-      "source": "Estimation based on fermented milk K2 content",
+      "source": "Estimation based on typical fermented cow's milk K2 content in literature",
       "tags": [
         "dairy",
         "k2"
@@ -7585,7 +7585,7 @@
           "vitamin_k_mcg": 3.0
         }
       ],
-      "source": "Estimation based on fermented sheep milk products",
+      "source": "Estimation based on fermented sheep's milk products and whey fat content",
       "tags": [
         "dairy",
         "k2"
