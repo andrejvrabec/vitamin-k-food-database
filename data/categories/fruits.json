@@ -997,38 +997,7 @@
           "gram_equivalent": 40
         }
       ],
-      "source": "USDA SR28 (NDB No: 09026)",
-      "relations": {
-        "group": "apricot"
-      }
-    },
-    {
-      "id": "apricots_cnd_hvy_syrup_pk_wskn_solliquids",
-      "category": "fruits",
-      "tags": [
-        "k1",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.7,
-          "gram_equivalent": 258
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.3,
-          "gram_equivalent": 240
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09027)",
+      "source": "USDA SR28 (NDB No: 09026), USDA SR28 (NDB No: 09027)",
       "relations": {
         "group": "apricot"
       }
@@ -1445,31 +1414,7 @@
           "gram_equivalent": 248
         }
       ],
-      "source": "USDA SR28 (NDB No: 09071), USDA Database for Standard Reference Legacy (2018)",
-      "relations": {
-        "group": "cherry"
-      }
-    },
-    {
-      "id": "cherries_swt_cnd_juc_pk_solliquids",
-      "category": "fruits",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 3.5,
-          "gram_equivalent": 250
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09072)",
+      "source": "USDA SR28 (NDB No: 09071), USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 09072)",
       "relations": {
         "group": "cherry"
       }
@@ -2252,39 +2197,7 @@
           "gram_equivalent": 98
         }
       ],
-      "source": "USDA SR28 (NDB No: 09240), USDA Database for Standard Reference Legacy (2018)",
-      "relations": {
-        "group": "peach"
-      }
-    },
-    {
-      "id": "peaches_cnd_hvy_syrup_pk_solliquids",
-      "category": "fruits",
-      "tags": [
-        "k1",
-        "legumes",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.5,
-          "gram_equivalent": 262
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.7,
-          "gram_equivalent": 98
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09241)",
+      "source": "USDA SR28 (NDB No: 09240), USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 09241)",
       "relations": {
         "group": "peach"
       }
@@ -2525,39 +2438,7 @@
           "gram_equivalent": 76
         }
       ],
-      "source": "USDA SR28 (NDB No: 09256), USDA Database for Standard Reference Legacy (2018)",
-      "relations": {
-        "group": "pear"
-      }
-    },
-    {
-      "id": "pears_cnd_hvy_syrup_pk_solliquids",
-      "category": "fruits",
-      "tags": [
-        "k1",
-        "legumes",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 266
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 76
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09257)",
+      "source": "USDA SR28 (NDB No: 09256), USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 09257)",
       "relations": {
         "group": "pear"
       }
@@ -2728,37 +2609,7 @@
           "gram_equivalent": 46
         }
       ],
-      "source": "USDA SR28 (NDB No: 09281)",
-      "relations": {
-        "group": "plum"
-      }
-    },
-    {
-      "id": "plums_cnd_purple_juc_pk_solliquids",
-      "category": "fruits",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 10.8,
-          "gram_equivalent": 252
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 46
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09282)",
+      "source": "USDA SR28 (NDB No: 09281), USDA SR28 (NDB No: 09282)",
       "relations": {
         "group": "plum"
       }
@@ -2789,38 +2640,7 @@
           "gram_equivalent": 46
         }
       ],
-      "source": "USDA SR28 (NDB No: 09283)",
-      "relations": {
-        "group": "plum"
-      }
-    },
-    {
-      "id": "plums_cnd_purple_hvy_syrup_pk_solliquids",
-      "category": "fruits",
-      "tags": [
-        "k1",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 11.1,
-          "gram_equivalent": 258
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.0,
-          "gram_equivalent": 46
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09284)",
+      "source": "USDA SR28 (NDB No: 09283), USDA SR28 (NDB No: 09284)",
       "relations": {
         "group": "plum"
       }
@@ -3657,7 +3477,7 @@
           "gram_equivalent": 58
         }
       ],
-      "source": "USDA SR28 (NDB No: 11023)",
+      "source": "USDA SR28 (NDB No: 11023), USDA SR28 (NDB No: 11710)",
       "relations": {
         "group": "pear"
       }
@@ -3688,57 +3508,7 @@
           "gram_equivalent": 62
         }
       ],
-      "source": "USDA SR28 (NDB No: 11025)",
-      "relations": {
-        "group": "pear"
-      }
-    },
-    {
-      "id": "balsam_pear_leafy_tips_ckd_bld_drnd_wsalt",
-      "category": "fruits",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 163.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 94.6,
-          "gram_equivalent": 58
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11710)",
-      "relations": {
-        "group": "pear"
-      }
-    },
-    {
-      "id": "balsam_pear_pods_ckd_bld_drnd_wsalt",
-      "category": "fruits",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 124
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11711)",
+      "source": "USDA SR28 (NDB No: 11025), USDA SR28 (NDB No: 11711)",
       "relations": {
         "group": "pear"
       }
@@ -5283,7 +5053,7 @@
           "gram_equivalent": 31
         }
       ],
-      "source": "USDA SR28 (NDB No: 09207)",
+      "source": "USDA SR28 (NDB No: 09207), USDA SR28 (NDB No: 09217)",
       "relations": {
         "group": "orange"
       }
@@ -5346,36 +5116,6 @@
       "source": "USDA SR28 (NDB No: 09215)",
       "relations": {
         "group": "orange"
-      }
-    },
-    {
-      "id": "orange_grapefruit_juc_cnd_unswtnd",
-      "category": "fruits",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 247
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 30
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 09217)",
-      "relations": {
-        "group": "grapefruit"
       }
     },
     {

@@ -139,11 +139,6 @@
     "alternative_names": [],
     "description": "Dojčenská výživa, Mead Johnson, Enfamil, ProSobee Lipil, so železom, prášok, nepripravená, s ARA a DHA."
   },
-  "inf_for_mejohn_prosobee_lipil_w_iron_re_to_fe": {
-    "name": "Dojčenská výživa, Mead Johnson, ProSobee Lipil, so železom, pripravená na kŕmenie, s ARA a DHA",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, Mead Johnson, ProSobee Lipil, so železom, pripravená na kŕmenie, s ARA a DHA."
-  },
   "inf_form_mead_john_next_step_pros_lipil_pdr_w": {
     "name": "Dojčenská výživa, medovina john, dalsi krok, ProSobee Lipil, prášok, s ARA a DHA",
     "alternative_names": [],
@@ -293,16 +288,6 @@
     "name": "Šalát dresing, domáci recept, varené",
     "alternative_names": [],
     "description": "Šalát dresing, domáci recept, varené."
-  },
-  "salad_drsng_french_drsng_comm_reg_wo_salt": {
-    "name": "Šalát dresing, francúzsky dresing, comm, reg, bez soli",
-    "alternative_names": [],
-    "description": "Šalát dresing, francúzsky dresing, comm, reg, bez soli."
-  },
-  "salad_drsng_italian_drsng_comm_reg_wo_salt": {
-    "name": "Šalát dresing, taliansky dresing, comm, reg, bez soli",
-    "alternative_names": [],
-    "description": "Šalát dresing, taliansky dresing, comm, reg, bez soli."
   },
   "salad_drsng_blue_or_roquefort_chs_drsng_comm": {
     "name": "Šalát dresing, modrý alebo roquefort syr dresing, comm, reg",
@@ -454,20 +439,10 @@
     "alternative_names": [],
     "description": "Ovocný koktail, konzervované, balené vo vode, pevný podiel a tekutina."
   },
-  "fruit_cocktail_cnd_juc_pk_solliquids": {
-    "name": "Ovocný koktail, konzervované, balené v šťave, pevný podiel&liquids",
-    "alternative_names": [],
-    "description": "Ovocný koktail, konzervované, balené v šťave, pevný podiel&liquids."
-  },
   "fruit_cocktail_cnd_lt_syrup_solliquids": {
     "name": "Ovocný koktail, konzervované, v ľahkom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
     "description": "Ovocný koktail, konzervované, v ľahkom sirupe, pevný podiel a tekutina."
-  },
-  "fruit_cocktail_cnd_hvy_syrup_solliquids": {
-    "name": "Ovocný koktail, konzervované, v hustom sirupe, pevný podiel a tekutina",
-    "alternative_names": [],
-    "description": "Ovocný koktail, konzervované, v hustom sirupe, pevný podiel a tekutina."
   },
   "fruit_salad_cnd_hvy_syrup_solliquids": {
     "name": "Ovocný šalát, konzervované, v hustom sirupe, pevný podiel a tekutina",
@@ -518,11 +493,6 @@
     "name": "Ananás, konzervované, v ľahkom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
     "description": "Ananás, konzervované, v ľahkom sirupe, pevný podiel a tekutina."
-  },
-  "pineapple_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Ananás, konzervované, v hustom sirupe, pevný podiel a tekutina",
-    "alternative_names": [],
-    "description": "Ananás, konzervované, v hustom sirupe, pevný podiel a tekutina."
   },
   "pineapple_frz_chunks_swtnd": {
     "name": "Ananás, mrazené, kúsky, sladené",
@@ -583,16 +553,6 @@
     "name": "Ananás, konzervované, balené v šťave, scedené",
     "alternative_names": [],
     "description": "Ananás, konzervované, balené v šťave, scedené."
-  },
-  "applesauce_cnd_unswtnd_w_vit_c": {
-    "name": "Jablková omáčka, konzervované, nesladené, s vit c",
-    "alternative_names": [],
-    "description": "Jablková omáčka, konzervované, nesladené, s vit c."
-  },
-  "pineapple_juc_cnd_unswtnd_w_added_vit_c": {
-    "name": "Ananásový džús, konzervované, nesladené, s pridaným vit c",
-    "alternative_names": [],
-    "description": "Ananásový džús, konzervované, nesladené, s pridaným vit c."
   },
   "dates_medjool": {
     "name": "Datle, medjool",
@@ -879,16 +839,6 @@
     "alternative_names": [],
     "description": "Šalotka, surová."
   },
-  "artichokes_ckd_bld_drnd_wsalt": {
-    "name": "Artičoky, (globe alebo francúzske), varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Artičoky, (globe alebo francúzske), varené, scedené, so soľou."
-  },
-  "artichokes_frz_ckd_bld_drnd_wsalt": {
-    "name": "Artičoky, (globe alebo francúzske), mrazené, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Artičoky, (globe alebo francúzske), mrazené, varené, scedené, so soľou."
-  },
   "chrysanthemum_garland_ckd_bld_drnd_wsalt": {
     "name": "Chryzantéma, girlanda, varené, scedené, so soľou",
     "alternative_names": [],
@@ -903,11 +853,6 @@
     "name": "Baklažán, varené, scedené, so soľou",
     "alternative_names": [],
     "description": "Baklažán, varené, scedené, so soľou."
-  },
-  "gourd_dishcloth_ckd_bld_drnd_wsalt": {
-    "name": "Tekvica, utierka (utierka), varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Tekvica, utierka (utierka), varené, scedené, so soľou."
   },
   "drumstick_leaves_ckd_bld_drnd_w_salt": {
     "name": "Stehenné listy, varené, scedené, so soľou",
@@ -924,11 +869,6 @@
     "alternative_names": [],
     "description": "Horčica grns, varené, scedené, so soľou."
   },
-  "mustard_grns_frz_ckd_bld_drnd_wsalt": {
-    "name": "Horčica grns, mrazené, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Horčica grns, mrazené, varené, scedené, so soľou."
-  },
   "parsnips_ckd_bld_drnd_wsalt": {
     "name": "Paštrnák, varené, scedené, so soľou",
     "alternative_names": [],
@@ -944,20 +884,10 @@
     "alternative_names": [],
     "description": "Paprika, sladká, červené, surové."
   },
-  "peppers_swt_grn_ckd_bld_drnd_wsalt": {
-    "name": "Paprika, sladká, grn, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Paprika, sladká, grn, varené, scedené, so soľou."
-  },
   "peppers_swt_red_ckd_bld_drnd_wosalt": {
     "name": "Paprika, sladká, červená, varené, scedené, bez soli",
     "alternative_names": [],
     "description": "Paprika, sladká, červená, varené, scedené, bez soli."
-  },
-  "peppers_swt_red_ckd_bld_drnd_wsalt": {
-    "name": "Paprika, sladká, červená, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Paprika, sladká, červená, varené, scedené, so soľou."
   },
   "rutabagas_ckd_bld_drnd_wsalt": {
     "name": "Rutabagas, varené, scedené, so soľou",
@@ -973,16 +903,6 @@
     "name": "Taro, varené, so soľou",
     "alternative_names": [],
     "description": "Taro, varené, so soľou."
-  },
-  "vegetables_mxd_frz_ckd_bld_drnd_wsalt": {
-    "name": "Zelenina, zmiešané, mrazené, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Zelenina, zmiešané, mrazené, varené, scedené, so soľou."
-  },
-  "waxgourd_ckd_bld_drnd_wsalt": {
-    "name": "Waxgourd, (čínsky melón na zaváranie), varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Waxgourd, (čínsky melón na zaváranie), varené, scedené, so soľou."
   },
   "peppers_swt_red_frz_chopd_unprep": {
     "name": "Paprika, sladká, červená, mrazené, sekaná, nepripravená",
@@ -1143,16 +1063,6 @@
     "name": "Káva&kakao (mocha) prášok, swhtnr&local swtnr, bez kofeínu",
     "alternative_names": [],
     "description": "Káva&kakao (mocha) prášok, swhtnr&local swtnr, bez kofeínu."
-  },
-  "coffee_brewed_from_grounds_prep_w_tap_h2o": {
-    "name": "Káva uvarená z usadeniny, príprava s vodou z vodovodu",
-    "alternative_names": [],
-    "description": "Káva uvarená z usadeniny, príprava s vodou z vodovodu."
-  },
-  "coffee_brewed_espresso_rest_prep": {
-    "name": "Káva, varená, espresso, príprava na zvyšok",
-    "alternative_names": [],
-    "description": "Káva, varená, espresso, príprava na zvyšok."
   },
   "coffee_inst_reg_pdr": {
     "name": "Káva, instantné, reg, prášok",
@@ -1484,11 +1394,6 @@
     "alternative_names": [],
     "description": "Jeseter, zmiešané druhy, varený (teplom)."
   },
-  "sturgeon_mxd_sp_smoked": {
-    "name": "Jeseter, zmiešané druhy, údený",
-    "alternative_names": [],
-    "description": "Jeseter, zmiešané druhy, údený."
-  },
   "surimi": {
     "name": "Surimi",
     "alternative_names": [],
@@ -1513,11 +1418,6 @@
     "name": "Síh, zmiešané druhy, surový",
     "alternative_names": [],
     "description": "Síh, zmiešané druhy, surový."
-  },
-  "whitefish_mxd_sp_smoked": {
-    "name": "Síh, zmiešané druhy, údený",
-    "alternative_names": [],
-    "description": "Síh, zmiešané druhy, údený."
   },
   "whiting_mixed_species_raw": {
     "name": "Treska merlang, zmiešané druhy, surové",
@@ -1828,11 +1728,6 @@
     "name": "Zmes na koláče, angelfood, suché",
     "alternative_names": [],
     "description": "Zmes na koláče, angelfood, suché."
-  },
-  "cake_angelfood_dry_mix_prep": {
-    "name": "Torta, angelfood, suchá zmes, príprava",
-    "alternative_names": [],
-    "description": "Torta, angelfood, suchá zmes, príprava."
   },
   "cake_choc_commly_prep_w_choc_frstng_in_store": {
     "name": "Koláč, čokoláda, bežná príprava s čokoládou, pekáreň v obchode",
@@ -3946,11 +3841,6 @@
     "name": "Sójový nápoj, ochutený, s cukrom (cukromi), obohatený vápnikom, balené",
     "alternative_names": [],
     "description": "Sójový nápoj, ochutený, s cukrom (cukromi), obohatený vápnikom, balené."
-  },
-  "coffee_powder_instant": {
-    "name": "Káva, prášok, instantná",
-    "alternative_names": [],
-    "description": "Káva, prášok, instantná."
   },
   "cocoa_powder_no_added_sugars_powder_instant": {
     "name": "Kakaový prášok, bez pridaného cukru, prášok, instantný",

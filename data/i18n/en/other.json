@@ -139,11 +139,6 @@
     "alternative_names": [],
     "description": "Infant formula, Mead Johnson, en, ProSobee Lipil, with iron, powder, not reconstituted, with ARA and DHA."
   },
-  "inf_for_mejohn_prosobee_lipil_w_iron_re_to_fe": {
-    "name": "Infant formula, Mead Johnson, ProSobee Lipil, with iron, ready-to-feed, with ARA and DHA",
-    "alternative_names": [],
-    "description": "Infant formula, Mead Johnson, ProSobee Lipil, with iron, ready-to-feed, with ARA and DHA."
-  },
   "inf_form_mead_john_next_step_pros_lipil_pdr_w": {
     "name": "Infant formula, mead john, next step, ProSobee Lipil, powder, with ARA and DHA",
     "alternative_names": [],
@@ -293,16 +288,6 @@
     "name": "Salad dressing, home recipe, cooked",
     "alternative_names": [],
     "description": "Salad dressing, home recipe, cooked."
-  },
-  "salad_drsng_french_drsng_comm_reg_wo_salt": {
-    "name": "Salad dressing, french dressing, commercial, regular, without/ salt",
-    "alternative_names": [],
-    "description": "Salad dressing, french dressing, commercial, regular, without/ salt."
-  },
-  "salad_drsng_italian_drsng_comm_reg_wo_salt": {
-    "name": "Salad dressing, italian dressing, commercial, regular, without/ salt",
-    "alternative_names": [],
-    "description": "Salad dressing, italian dressing, commercial, regular, without/ salt."
   },
   "salad_drsng_blue_or_roquefort_chs_drsng_comm": {
     "name": "Salad dressing, blue or roquefort cheese dressing, commercial, regular",
@@ -454,20 +439,10 @@
     "alternative_names": [],
     "description": "Fruit cocktail, canned, water pack, solids&liquids."
   },
-  "fruit_cocktail_cnd_juc_pk_solliquids": {
-    "name": "Fruit cocktail, canned, juice pack, solids&liquids",
-    "alternative_names": [],
-    "description": "Fruit cocktail, canned, juice pack, solids&liquids."
-  },
   "fruit_cocktail_cnd_lt_syrup_solliquids": {
     "name": "Fruit cocktail, canned, light syrup, solids&liquids",
     "alternative_names": [],
     "description": "Fruit cocktail, canned, light syrup, solids&liquids."
-  },
-  "fruit_cocktail_cnd_hvy_syrup_solliquids": {
-    "name": "Fruit cocktail, canned, heavy syrup, solids&liquids",
-    "alternative_names": [],
-    "description": "Fruit cocktail, canned, heavy syrup, solids&liquids."
   },
   "fruit_salad_cnd_hvy_syrup_solliquids": {
     "name": "Fruit salad, canned, heavy syrup, solids&liquids",
@@ -518,11 +493,6 @@
     "name": "Pineapple, canned, light syrup pack, solids&liquids",
     "alternative_names": [],
     "description": "Pineapple, canned, light syrup pack, solids&liquids."
-  },
-  "pineapple_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Pineapple, canned, heavy syrup pack, solids&liquids",
-    "alternative_names": [],
-    "description": "Pineapple, canned, heavy syrup pack, solids&liquids."
   },
   "pineapple_frz_chunks_swtnd": {
     "name": "Pineapple, frozen, chunks, sweetened",
@@ -583,16 +553,6 @@
     "name": "Pineapple, canned, juice pack, drained",
     "alternative_names": [],
     "description": "Pineapple, canned, juice pack, drained."
-  },
-  "applesauce_cnd_unswtnd_w_vit_c": {
-    "name": "Applesauce, canned, unswtnd, with/ vit c",
-    "alternative_names": [],
-    "description": "Applesauce, canned, unswtnd, with/ vit c."
-  },
-  "pineapple_juc_cnd_unswtnd_w_added_vit_c": {
-    "name": "Pineapple juice, canned, unswtnd, with/ added vit c",
-    "alternative_names": [],
-    "description": "Pineapple juice, canned, unswtnd, with/ added vit c."
   },
   "dates_medjool": {
     "name": "Dates, medjool",
@@ -879,16 +839,6 @@
     "alternative_names": [],
     "description": "Shallots, raw."
   },
-  "artichokes_ckd_bld_drnd_wsalt": {
-    "name": "Artichokes, (globe or french), cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Artichokes, (globe or french), cooked, boiled, drained, withsalt."
-  },
-  "artichokes_frz_ckd_bld_drnd_wsalt": {
-    "name": "Artichokes, (globe or french), frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Artichokes, (globe or french), frozen, cooked, boiled, drained, withsalt."
-  },
   "chrysanthemum_garland_ckd_bld_drnd_wsalt": {
     "name": "Chrysanthemum, garland, cooked, boiled, drained, withsalt",
     "alternative_names": [],
@@ -903,11 +853,6 @@
     "name": "Eggplant, cooked, boiled, drained, withsalt",
     "alternative_names": [],
     "description": "Eggplant, cooked, boiled, drained, withsalt."
-  },
-  "gourd_dishcloth_ckd_bld_drnd_wsalt": {
-    "name": "Gourd, dishcloth (towelgourd), cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Gourd, dishcloth (towelgourd), cooked, boiled, drained, withsalt."
   },
   "drumstick_leaves_ckd_bld_drnd_w_salt": {
     "name": "Drumstick leaves, cooked, boiled, drained, with/ salt",
@@ -924,11 +869,6 @@
     "alternative_names": [],
     "description": "Mustard grns, cooked, boiled, drained, withsalt."
   },
-  "mustard_grns_frz_ckd_bld_drnd_wsalt": {
-    "name": "Mustard grns, frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Mustard grns, frozen, cooked, boiled, drained, withsalt."
-  },
   "parsnips_ckd_bld_drnd_wsalt": {
     "name": "Parsnips, cooked, boiled, drained, withsalt",
     "alternative_names": [],
@@ -944,20 +884,10 @@
     "alternative_names": [],
     "description": "Peppers, sweet, red, raw."
   },
-  "peppers_swt_grn_ckd_bld_drnd_wsalt": {
-    "name": "Peppers, sweet, grn, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Peppers, sweet, grn, cooked, boiled, drained, withsalt."
-  },
   "peppers_swt_red_ckd_bld_drnd_wosalt": {
     "name": "Peppers, sweet, red, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
     "description": "Peppers, sweet, red, cooked, boiled, drained, withoutsalt."
-  },
-  "peppers_swt_red_ckd_bld_drnd_wsalt": {
-    "name": "Peppers, sweet, red, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Peppers, sweet, red, cooked, boiled, drained, withsalt."
   },
   "rutabagas_ckd_bld_drnd_wsalt": {
     "name": "Rutabagas, cooked, boiled, drained, withsalt",
@@ -973,16 +903,6 @@
     "name": "Taro, cooked, with salt",
     "alternative_names": [],
     "description": "Taro, cooked, with salt."
-  },
-  "vegetables_mxd_frz_ckd_bld_drnd_wsalt": {
-    "name": "Vegetables, mixed, frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Vegetables, mixed, frozen, cooked, boiled, drained, withsalt."
-  },
-  "waxgourd_ckd_bld_drnd_wsalt": {
-    "name": "Waxgourd, (chinese preserving melon), cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Waxgourd, (chinese preserving melon), cooked, boiled, drained, withsalt."
   },
   "peppers_swt_red_frz_chopd_unprep": {
     "name": "Peppers, sweet, red, frozen, chopped, unprepared",
@@ -1143,16 +1063,6 @@
     "name": "Coffee&cocoa (mocha) powder, withwhtnr&lo cal swtnr, decaffeinated",
     "alternative_names": [],
     "description": "Coffee&cocoa (mocha) powder, withwhtnr&lo cal swtnr, decaffeinated."
-  },
-  "coffee_brewed_from_grounds_prep_w_tap_h2o": {
-    "name": "Coffee, brewed from grounds, prepared with/ tap h2o",
-    "alternative_names": [],
-    "description": "Coffee, brewed from grounds, prepared with/ tap h2o."
-  },
-  "coffee_brewed_espresso_rest_prep": {
-    "name": "Coffee, brewed, espresso, rest-prepared",
-    "alternative_names": [],
-    "description": "Coffee, brewed, espresso, rest-prepared."
   },
   "coffee_inst_reg_pdr": {
     "name": "Coffee, instant, regular, powder",
@@ -1484,11 +1394,6 @@
     "alternative_names": [],
     "description": "Sturgeon, mixed species, cooked, dry heat."
   },
-  "sturgeon_mxd_sp_smoked": {
-    "name": "Sturgeon, mixed species, smoked",
-    "alternative_names": [],
-    "description": "Sturgeon, mixed species, smoked."
-  },
   "surimi": {
     "name": "Surimi",
     "alternative_names": [],
@@ -1513,11 +1418,6 @@
     "name": "Whitefish, mixed species, raw",
     "alternative_names": [],
     "description": "Whitefish, mixed species, raw."
-  },
-  "whitefish_mxd_sp_smoked": {
-    "name": "Whitefish, mixed species, smoked",
-    "alternative_names": [],
-    "description": "Whitefish, mixed species, smoked."
   },
   "whiting_mixed_species_raw": {
     "name": "Whiting, mixed species, raw",
@@ -1828,11 +1728,6 @@
     "name": "Cake mix, angelfood, dry",
     "alternative_names": [],
     "description": "Cake mix, angelfood, dry."
-  },
-  "cake_angelfood_dry_mix_prep": {
-    "name": "Cake, angelfood, dry mix, prepared",
-    "alternative_names": [],
-    "description": "Cake, angelfood, dry mix, prepared."
   },
   "cake_choc_commly_prep_w_choc_frstng_in_store": {
     "name": "Cake, chocolate, commly prepared with/ chocolate frstng, in-store bakery",
@@ -3945,11 +3840,6 @@
     "name": "Soy drink, flavoured, with sugar(s), fortified in calcium, prepacked",
     "alternative_names": [],
     "description": "Soy drink, flavoured, with sugar(s), fortified in calcium, prepacked."
-  },
-  "coffee_powder_instant": {
-    "name": "Coffee, powder, instant",
-    "alternative_names": [],
-    "description": "Coffee, powder, instant."
   },
   "cocoa_powder_no_added_sugars_powder_instant": {
     "name": "Cocoa powder, no added sugars, powder, instant",

@@ -425,11 +425,6 @@
     "alternative_names": [],
     "description": "Broccoli, frozen, spears, unprepared."
   },
-  "broccoli_frz_spears_ckd_bld_drnd_wosalt": {
-    "name": "Broccoli, frozen, spears, cooked, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Broccoli, frozen, spears, cooked, boiled, drained, withoutsalt."
-  },
   "broccoli_raab_ckd": {
     "name": "Broccoli raab, cooked",
     "alternative_names": [],
@@ -669,11 +664,6 @@
     "name": "Onions, frozen, whole, unprepared",
     "alternative_names": [],
     "description": "Onions, frozen, whole, unprepared."
-  },
-  "onions_frz_whl_ckd_bld_drnd_wosalt": {
-    "name": "Onions, frozen, whole, cooked, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Onions, frozen, whole, cooked, boiled, drained, withoutsalt."
   },
   "onions_spring_or_scallions_raw": {
     "name": "Onions, spring or scallions (incl tops&bulb), raw",
@@ -1160,11 +1150,6 @@
     "alternative_names": [],
     "description": "Tomatoes, crushed, canned."
   },
-  "asparagus_ckd_bld_drnd_wsalt": {
-    "name": "Asparagus, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Asparagus, cooked, boiled, drained, withsalt."
-  },
   "asparagus_cnd_no_salt_solliquids": {
     "name": "Asparagus, canned, no salt, solids&liquids",
     "alternative_names": [],
@@ -1174,11 +1159,6 @@
     "name": "Asparagus, frozen, cooked, boiled, drained, withsalt",
     "alternative_names": [],
     "description": "Asparagus, frozen, cooked, boiled, drained, withsalt."
-  },
-  "beets_ckd_boiled_drnd_wsalt": {
-    "name": "Beets, cooked, boiled. drained, withsalt",
-    "alternative_names": [],
-    "description": "Beets, cooked, boiled. drained, withsalt."
   },
   "beets_cnd_no_salt_solliquids": {
     "name": "Beets, canned, no salt, solids&liquids",
@@ -1195,11 +1175,6 @@
     "alternative_names": [],
     "description": "Broccoli, cooked, boiled, drained, withsalt."
   },
-  "broccoli_frz_chopd_ckd_bld_drnd_wsalt": {
-    "name": "Broccoli, frozen, chopped, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Broccoli, frozen, chopped, cooked, boiled, drained, withsalt."
-  },
   "broccoli_frz_spears_ckd_bld_drnd_wsalt": {
     "name": "Broccoli, frozen, spears, cooked, boiled, drained, withsalt",
     "alternative_names": [],
@@ -1209,11 +1184,6 @@
     "name": "Brussels sprouts, cooked, boiled, drained, withsalt",
     "alternative_names": [],
     "description": "Brussels sprouts, cooked, boiled, drained, withsalt."
-  },
-  "brussels_sprouts_frz_ckd_bld_drnd_wsalt": {
-    "name": "Brussels sprouts, frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Brussels sprouts, frozen, cooked, boiled, drained, withsalt."
   },
   "burdock_root_ckd_bld_drnd_wsalt": {
     "name": "Burdock root, cooked, boiled, drained, withsalt",
@@ -1229,11 +1199,6 @@
     "name": "Cabbage, red, cooked, boiled, drained, withsalt",
     "alternative_names": [],
     "description": "Cabbage, red, cooked, boiled, drained, withsalt."
-  },
-  "cabbage_chinese_ckd_bld_drnd_wsalt": {
-    "name": "Cabbage, chinese (pak-choi), cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Cabbage, chinese (pak-choi), cooked, boiled, drained, withsalt."
   },
   "carrots_ckd_bld_drnd_wsalt": {
     "name": "Carrots, cooked, boiled, drained, withsalt",
@@ -1285,16 +1250,6 @@
     "alternative_names": [],
     "description": "Kale, frozen, cooked, boiled, drained, withsalt."
   },
-  "leeks_ckd_bld_drnd_wsalt": {
-    "name": "Leeks, (bulb&lower leaf-portion), cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Leeks, (bulb&lower leaf-portion), cooked, boiled, drained, withsalt."
-  },
-  "new_zealand_spinach_ckd_bld_drnd_wsalt": {
-    "name": "New zealand spinach, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "New zealand spinach, cooked, boiled, drained, withsalt."
-  },
   "okra_ckd_bld_drnd_wsalt": {
     "name": "Okra, cooked, boiled, drained, withsalt",
     "alternative_names": [],
@@ -1310,25 +1265,10 @@
     "alternative_names": [],
     "description": "Onions, cooked, boiled, drained, withsalt."
   },
-  "onions_frz_chopd_ckd_bld_drnd_wsalt": {
-    "name": "Onions, frozen, chopped, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Onions, frozen, chopped, cooked, boiled, drained, withsalt."
-  },
-  "onions_frz_whl_ckd_bld_drnd_wsalt": {
-    "name": "Onions, frozen, whole, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Onions, frozen, whole, cooked, boiled, drained, withsalt."
-  },
   "peas_edible_podded_ckd_bld_drnd_wsalt": {
     "name": "Peas, edible-podded, cooked, boiled, drained, withsalt",
     "alternative_names": [],
     "description": "Peas, edible-podded, cooked, boiled, drained, withsalt."
-  },
-  "peas_edible_podded_frz_ckd_bld_drnd_wsalt": {
-    "name": "Peas, edible-podded, frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Peas, edible-podded, frozen, cooked, boiled, drained, withsalt."
   },
   "peas_grn_ckd_bld_drnd_wsalt": {
     "name": "Peas, grn, cooked, boiled, drained, withsalt",
@@ -1345,30 +1285,10 @@
     "alternative_names": [],
     "description": "Peas, grn, canned, no salt, drained solids."
   },
-  "peas_grn_frz_ckd_bld_drnd_wsalt": {
-    "name": "Peas, grn, frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Peas, grn, frozen, cooked, boiled, drained, withsalt."
-  },
   "peascarrots_cnd_no_salt_solliquids": {
     "name": "Peas&carrots, canned, no salt, solids&liquids",
     "alternative_names": [],
     "description": "Peas&carrots, canned, no salt, solids&liquids."
-  },
-  "peascarrots_frz_ckd_bld_drnd_wsalt": {
-    "name": "Peas&carrots, frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Peas&carrots, frozen, cooked, boiled, drained, withsalt."
-  },
-  "peasonions_frz_ckd_bld_drnd_wsalt": {
-    "name": "Peas&onions, frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Peas&onions, frozen, cooked, boiled, drained, withsalt."
-  },
-  "pokeberry_shoots_ckd_bld_drnd_wsalt": {
-    "name": "Pokeberry shoots, (poke), cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Pokeberry shoots, (poke), cooked, boiled, drained, withsalt."
   },
   "potatoes_bkd_flesh_wsalt": {
     "name": "Potatoes, baked, flesh, withsalt",
@@ -1400,36 +1320,6 @@
     "alternative_names": [],
     "description": "Spinach, cooked, boiled, drained, withsalt."
   },
-  "spinach_frz_chopd_or_leaf_ckd_bld_drnd_wsalt": {
-    "name": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, withsalt."
-  },
-  "squash_smmr_all_var_ckd_bld_drnd_wsalt": {
-    "name": "Squash, summer, all var, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Squash, summer, all var, cooked, boiled, drained, withsalt."
-  },
-  "squash_smmr_crookneckstraightneck_ckd_bld_drn": {
-    "name": "Squash, summer, crookneck&straightneck, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Squash, summer, crookneck&straightneck, cooked, boiled, drained, withsalt."
-  },
-  "squash_smmr_scallop_ckd_bld_drnd_wsalt": {
-    "name": "Squash, summer, scallop, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Squash, summer, scallop, cooked, boiled, drained, withsalt."
-  },
-  "squash_smmr_zucchini_incl_skn_ckd_bld_drnd_ws": {
-    "name": "Squash, summer, zucchini, incl skin, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Squash, summer, zucchini, incl skin, cooked, boiled, drained, withsalt."
-  },
-  "squash_wntr_all_var_ckd_bkd_wsalt": {
-    "name": "Squash, winter, all var, cooked, baked, withsalt",
-    "alternative_names": [],
-    "description": "Squash, winter, all var, cooked, baked, withsalt."
-  },
   "squash_wntr_butternut_ckd_bkd_wsalt": {
     "name": "Squash, winter, butternut, cooked, baked, withsalt",
     "alternative_names": [],
@@ -1440,11 +1330,6 @@
     "alternative_names": [],
     "description": "Squash, winter, hubbard, baked, with/ salt."
   },
-  "squash_wntr_hubbard_ckd_bld_mshd_wsalt": {
-    "name": "Squash, winter, hubbard, cooked, boiled, mshd, withsalt",
-    "alternative_names": [],
-    "description": "Squash, winter, hubbard, cooked, boiled, mshd, withsalt."
-  },
   "sweet_potato_leaves_ckd_stmd_w_salt": {
     "name": "Sweet potato leaves, cooked, steamed, with/ salt",
     "alternative_names": [],
@@ -1454,16 +1339,6 @@
     "name": "Sweet potato, cooked, baked in skin, with/ salt",
     "alternative_names": [],
     "description": "Sweet potato, cooked, baked in skin, with/ salt."
-  },
-  "sweet_potato_ckd_bld_wo_skn_w_salt": {
-    "name": "Sweet potato, cooked, boiled, without skin, with/ salt",
-    "alternative_names": [],
-    "description": "Sweet potato, cooked, boiled, without skin, with/ salt."
-  },
-  "tomatoes_red_ripe_ckd_w_salt": {
-    "name": "Tomatoes, red, ripe, cooked, with/ salt",
-    "alternative_names": [],
-    "description": "Tomatoes, red, ripe, cooked, with/ salt."
   },
   "tomatoes_red_ripe_cnd_packed_in_tomato_juc_no": {
     "name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added",
@@ -1499,16 +1374,6 @@
     "name": "Turnip grns, cooked, boiled, drained, withsalt",
     "alternative_names": [],
     "description": "Turnip grns, cooked, boiled, drained, withsalt."
-  },
-  "turnip_grns_frz_ckd_bld_drnd_wsalt": {
-    "name": "Turnip grns, frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Turnip grns, frozen, cooked, boiled, drained, withsalt."
-  },
-  "turnip_grnsturnips_frz_ckd_bld_drnd_wsalt": {
-    "name": "Turnip grns&turnips, frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Turnip grns&turnips, frozen, cooked, boiled, drained, withsalt."
   },
   "yam_ckd_bld_drnd_or_bkd_wsalt": {
     "name": "Yam, cooked, boiled, drained, or baked, withsalt",
@@ -1584,11 +1449,6 @@
     "name": "Peas, split, mature seeds, cooked, boiled, withoutsalt",
     "alternative_names": [],
     "description": "Peas, split, mature seeds, cooked, boiled, withoutsalt."
-  },
-  "peas_split_mature_seeds_ckd_bld_wsalt": {
-    "name": "Peas, split, mature seeds, cooked, boiled, withsalt",
-    "alternative_names": [],
-    "description": "Peas, split, mature seeds, cooked, boiled, withsalt."
   },
   "fast_foods_potatoes_hashed_brown": {
     "name": "Fast foods, potatoes, hashed brown",
@@ -1924,11 +1784,6 @@
     "alternative_names": [],
     "description": "Tomato paste, concentrated, canned."
   },
-  "asparagus_canned_drained": {
-    "name": "Asparagus, canned, drained",
-    "alternative_names": [],
-    "description": "Asparagus, canned, drained."
-  },
   "red_cabbage_boiledcooked_in_water": {
     "name": "Red cabbage, boiled/cooked in water",
     "alternative_names": [],
@@ -2258,11 +2113,6 @@
     "name": "Collards, cooked, boiled, drained, withsalt",
     "alternative_names": [],
     "description": "Collards, cooked, boiled, drained, withsalt."
-  },
-  "collards_frz_chopd_ckd_bld_drnd_wsalt": {
-    "name": "Collards, frozen, chopped, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Collards, frozen, chopped, cooked, boiled, drained, withsalt."
   },
   "kohlrabi_ckd_bld_drnd_wsalt": {
     "name": "Kohlrabi, cooked, boiled, drained, withsalt",

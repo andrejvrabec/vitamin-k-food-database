@@ -402,20 +402,10 @@
     "alternative_names": [],
     "description": "Yogurt, pln, low fat, 12 grams prot per 8 oz."
   },
-  "yogurt_pln_skim_milk_13_grams_prot_per_8_oz": {
-    "name": "Yogurt, pln, skim milk, 13 grams prot per 8 oz",
-    "alternative_names": [],
-    "description": "Yogurt, pln, skim milk, 13 grams prot per 8 oz."
-  },
   "yogurt_vanilla_lofat_11_grams_prot_per_8_oz": {
     "name": "Yogurt, vanilla, low fat, 11 grams prot per 8 oz",
     "alternative_names": [],
     "description": "Yogurt, vanilla, low fat, 11 grams prot per 8 oz."
-  },
-  "yogurt_fruit_lofat_9_grams_prot_per_8_oz": {
-    "name": "Yogurt, fruit, low fat, 9 grams prot per 8 oz",
-    "alternative_names": [],
-    "description": "Yogurt, fruit, low fat, 9 grams prot per 8 oz."
   },
   "egg_whl_raw_frsh": {
     "name": "Egg, whole, raw, frsh",
@@ -431,11 +421,6 @@
     "name": "Egg, yolk, raw, frozen, past",
     "alternative_names": [],
     "description": "Egg, yolk, raw, frozen, past."
-  },
-  "egg_yolk_raw_frz_sugared_past": {
-    "name": "Egg, yolk, raw, frozen, sugared, past",
-    "alternative_names": [],
-    "description": "Egg, yolk, raw, frozen, sugared, past."
   },
   "egg_whl_ckd_fried": {
     "name": "Egg, whole, cooked, fried",
@@ -512,11 +497,6 @@
     "alternative_names": [],
     "description": "Cheese, goat, soft type."
   },
-  "egg_yolk_raw_frz_salted_past": {
-    "name": "Egg, yolk, raw, frozen, salted, past",
-    "alternative_names": [],
-    "description": "Egg, yolk, raw, frozen, salted, past."
-  },
   "cheese_sub_mozzarella": {
     "name": "Cheese sub, mozzarella",
     "alternative_names": [],
@@ -577,11 +557,6 @@
     "alternative_names": [],
     "description": "Egg mix, ."
   },
-  "milk_whl_325_milkfat_wo_added_vit_a_vitamin_d": {
-    "name": "Milk, whole, 3.25% milkfat, without/ added vit a & vitamin d",
-    "alternative_names": [],
-    "description": "Milk, whole, 3.25% milkfat, without/ added vit a & vitamin d."
-  },
   "milk_cnd_evap_wo_added_vit_a_vitamin_d": {
     "name": "Milk, canned, evaporated, without/ added vit a & vitamin d",
     "alternative_names": [],
@@ -611,11 +586,6 @@
     "name": "Protein supp, milk bsd, muscle milk, powder",
     "alternative_names": [],
     "description": "Protein supp, milk bsd, muscle milk, powder."
-  },
-  "protein_supp_milk_bsd_muscle_milk_lt_pdr": {
-    "name": "Protein supp, milk bsd, muscle milk light, powder",
-    "alternative_names": [],
-    "description": "Protein supp, milk bsd, muscle milk light, powder."
   },
   "cheese_dry_white_queso_seco": {
     "name": "Cheese, dry white, queso seco",
@@ -666,16 +636,6 @@
     "name": "Cheese, past process, american, without/ added vitamin d",
     "alternative_names": [],
     "description": "Cheese, past process, american, without/ added vitamin d."
-  },
-  "cheese_fd_past_process_american_wo_added_vita": {
-    "name": "Cheese fd, past process, american, without/ added vitamin d",
-    "alternative_names": [],
-    "description": "Cheese fd, past process, american, without/ added vitamin d."
-  },
-  "egg_whl_raw_frz_salted_past": {
-    "name": "Egg, whole, raw, frozen, salted, past",
-    "alternative_names": [],
-    "description": "Egg, whole, raw, frozen, salted, past."
   },
   "yogurt_greek_pln_nonfat": {
     "name": "Yogurt, greek, pln, nonfat",
@@ -767,11 +727,6 @@
     "alternative_names": [],
     "description": "Malted drink mix, chocolate, with/ added Nutramigen, powder, prepared with/ whole milk."
   },
-  "malted_drk_mix_choc_pdr_prep_w_whl_milk": {
-    "name": "Malted drink mix, chocolate, powder, prepared with/ whole milk",
-    "alternative_names": [],
-    "description": "Malted drink mix, chocolate, powder, prepared with/ whole milk."
-  },
   "crackers_milk": {
     "name": "Crackers, milk",
     "alternative_names": [],
@@ -812,11 +767,6 @@
     "alternative_names": [],
     "description": "Puddings, chocolate, dry mix, regular, prepared with/ 2% milk."
   },
-  "egg_custards_dry_mix_prep_w_2_milk": {
-    "name": "Egg custards, dry mix, prepared with/ 2% milk",
-    "alternative_names": [],
-    "description": "Egg custards, dry mix, prepared with/ 2% milk."
-  },
   "puddings_vanilla_dry_mix_reg_prep_w_whl_milk": {
     "name": "Puddings, vanilla, dry mix, regular, prepared with/ whole milk",
     "alternative_names": [],
@@ -826,11 +776,6 @@
     "name": "Puddings, banana, dry mix, instant, prepared with/ whole milk",
     "alternative_names": [],
     "description": "Puddings, banana, dry mix, instant, prepared with/ whole milk."
-  },
-  "puddings_banana_dry_mix_reg_prep_w_whl_milk": {
-    "name": "Puddings, banana, dry mix, regular, prepared with/ whole milk",
-    "alternative_names": [],
-    "description": "Puddings, banana, dry mix, regular, prepared with/ whole milk."
   },
   "fast_foods_biscuit_weggbacon": {
     "name": "Fast foods, biscuit, withegg&bacon",
@@ -871,11 +816,6 @@
     "name": "Burger king, croissan'wich with/ sausage, egg & cheese",
     "alternative_names": [],
     "description": "Burger king, croissan'wich with/ sausage, egg & cheese."
-  },
-  "burger_king_croissanwich_w_egg_chs": {
-    "name": "Burger king, croissan'wich with/ egg & cheese",
-    "alternative_names": [],
-    "description": "Burger king, croissan'wich with/ egg & cheese."
   },
   "yogurt_parfait_lowfat_w_fruit_granola": {
     "name": "Yogurt parfait, lowfat, with/ fruit & granola",
@@ -1406,11 +1346,6 @@
     "name": "Processed cheese, from cow's milk, square, not fortified with vitamins",
     "alternative_names": [],
     "description": "Processed cheese, from cow's milk, square, not fortified with vitamins."
-  },
-  "processed_cheese_from_cows_milk_square_or_on_stick_fortified_with_vitamins": {
-    "name": "Processed cheese, from cow's milk, square or on stick, fortified with vitamins",
-    "alternative_names": [],
-    "description": "Processed cheese, from cow's milk, square or on stick, fortified with vitamins."
   },
   "processed_cheese_with_fresh_cream_cheese_and_walnuts_from_cows_milk": {
     "name": "Processed cheese with fresh cream cheese and walnuts, from cow's milk",

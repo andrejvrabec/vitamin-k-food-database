@@ -205,11 +205,6 @@
     "alternative_names": [],
     "description": "Marhule, konzervované, v ľahkom sirupe, so šupkou, pevný podiel a tekutina."
   },
-  "apricots_cnd_hvy_syrup_pk_wskn_solliquids": {
-    "name": "Marhule, konzervované, v hustom sirupe, so šupkou, pevný podiel a tekutina",
-    "alternative_names": [],
-    "description": "Marhule, konzervované, v hustom sirupe, so šupkou, pevný podiel a tekutina."
-  },
   "apricots_dried_sulfured_unckd": {
     "name": "Marhule, sušené, sírené, nebalené",
     "alternative_names": [],
@@ -284,11 +279,6 @@
     "name": "Čerešne, sladké, konzervované, balené vo vode, pevný podiel&kvapaliny",
     "alternative_names": [],
     "description": "Čerešne, sladké, konzervované, balené vo vode, pevný podiel&kvapaliny."
-  },
-  "cherries_swt_cnd_juc_pk_solliquids": {
-    "name": "Čerešne, sladké, konzervované, balené v šťave, pevný podiel&kvapaliny",
-    "alternative_names": [],
-    "description": "Čerešne, sladké, konzervované, balené v šťave, pevný podiel&kvapaliny."
   },
   "cherries_swt_cnd_lt_syrup_pk_solliquids": {
     "name": "Čerešne, sladké, konzervované, v ľahkom sirupe, pevný podiel a tekutina",
@@ -425,11 +415,6 @@
     "alternative_names": [],
     "description": "Broskyne, konzervované, v ľahkom sirupe, pevný podiel a tekutina."
   },
-  "peaches_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Broskyne, konzervované, v hustom sirupe, pevný podiel a tekutina",
-    "alternative_names": [],
-    "description": "Broskyne, konzervované, v hustom sirupe, pevný podiel a tekutina."
-  },
   "peaches_spiced_cnd_hvy_syrup_pk_solliquids": {
     "name": "Broskyne, spiced, konzervované, v hustom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
@@ -470,11 +455,6 @@
     "alternative_names": [],
     "description": "Hrušky, konzervované, v ľahkom sirupe, pevný podiel a tekutina."
   },
-  "pears_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Hrušky, konzervované, v hustom sirupe, pevný podiel a tekutina",
-    "alternative_names": [],
-    "description": "Hrušky, konzervované, v hustom sirupe, pevný podiel a tekutina."
-  },
   "pears_dried_sulfured_unckd": {
     "name": "Hrušky, sušené, sírené, nebalené",
     "alternative_names": [],
@@ -505,20 +485,10 @@
     "alternative_names": [],
     "description": "Slivky, konzervované, fialové, balené vo vode, pevný podiel a tekutina."
   },
-  "plums_cnd_purple_juc_pk_solliquids": {
-    "name": "Slivky, konzervované, fialové, balené v šťave, pevný podiel a tekutina",
-    "alternative_names": [],
-    "description": "Slivky, konzervované, fialové, balené v šťave, pevný podiel a tekutina."
-  },
   "plums_cnd_purple_lt_syrup_pk_solliquids": {
     "name": "Slivky, konzervované, fialovy, v ľahkom sirupe, pevný podiel a tekutina",
     "alternative_names": [],
     "description": "Slivky, konzervované, fialovy, v ľahkom sirupe, pevný podiel a tekutina."
-  },
-  "plums_cnd_purple_hvy_syrup_pk_solliquids": {
-    "name": "Slivky, konzervované, fialovy, v hustom sirupe, pevný podiel a tekutina",
-    "alternative_names": [],
-    "description": "Slivky, konzervované, fialovy, v hustom sirupe, pevný podiel a tekutina."
   },
   "plums_dried_unckd": {
     "name": "Slivky, sušené (slivky), nebalené",
@@ -679,16 +649,6 @@
     "name": "Balzamovo-hruška (horká tekvica), struky, varené, scedené, bez soli",
     "alternative_names": [],
     "description": "Balzamovo-hruška (horká tekvica), struky, varené, scedené, bez soli."
-  },
-  "balsam_pear_leafy_tips_ckd_bld_drnd_wsalt": {
-    "name": "Balzamovo-hruška (horká tekvica), listové končeky, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Balzamovo-hruška (horká tekvica), listové končeky, varené, scedené, so soľou."
-  },
-  "balsam_pear_pods_ckd_bld_drnd_wsalt": {
-    "name": "Balzamovo-hruška (horká tekvica), struky, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Balzamovo-hruška (horká tekvica), struky, varené, scedené, so soľou."
   },
   "grape_leaves_raw": {
     "name": "Hroznové listy, surové",
@@ -1020,11 +980,6 @@
     "name": "Pomarančový džús, mrazené koncentrát, nesladené, riedené 3 dielmi vody",
     "alternative_names": [],
     "description": "Pomarančový džús, mrazené koncentrát, nesladené, riedené 3 dielmi vody."
-  },
-  "orange_grapefruit_juc_cnd_unswtnd": {
-    "name": "Pomarančovo-grapefruitový džús, konzervované, nesladené",
-    "alternative_names": [],
-    "description": "Pomarančovo-grapefruitový džús, konzervované, nesladené."
   },
   "pomegranates_raw": {
     "name": "Granátové jablká, surové",

@@ -131,11 +131,6 @@
     "alternative_names": [],
     "description": "Lima bns, immat semená, mrazené, fordhook, varené, scedené, bezsalt."
   },
-  "lima_bns_immat_seeds_frz_baby_ckd_bld_drnd_wo": {
-    "name": "Lima bns, immat semená, mrazené, baby, varené, scedené, bezsalt",
-    "alternative_names": [],
-    "description": "Lima bns, immat semená, mrazené, baby, varené, scedené, bezsalt."
-  },
   "mung_bns_mature_seeds_sprouted_raw": {
     "name": "Mung bns, zrelé semená, naklíčené, surové",
     "alternative_names": [],
@@ -261,11 +256,6 @@
     "alternative_names": [],
     "description": "Fazuľa, mungo, zrelé semená, naklíčené, konzervované, scedené pevný podiel."
   },
-  "lima_bns_immat_seeds_ckd_bld_drnd_wsalt": {
-    "name": "Lima bns, immat semená, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Lima bns, immat semená, varené, scedené, so soľou."
-  },
   "lima_bns_immat_seeds_cnd_no_salt_solliquids": {
     "name": "Lima bns, immat semená, konzervované, bez soli, sól a tekutín",
     "alternative_names": [],
@@ -276,16 +266,6 @@
     "alternative_names": [],
     "description": "Lima bns, immat semená, mrazené, baby, varené, scedené, so soľou."
   },
-  "beans_snap_grn_ckd_bld_drnd_wsalt": {
-    "name": "Fazuľa, lusk, grn, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Fazuľa, lusk, grn, varené, scedené, so soľou."
-  },
-  "beans_snap_yel_ckd_bld_drnd_wosalt": {
-    "name": "Fazuľa, lusk, žltý, varené, scedené, bez soli",
-    "alternative_names": [],
-    "description": "Fazuľa, lusk, žltý, varené, scedené, bez soli."
-  },
   "beans_snap_yel_ckd_bld_drnd_wsalt": {
     "name": "Fazuľa, lusk, žltý, varené, scedené, so soľou",
     "alternative_names": [],
@@ -295,16 +275,6 @@
     "name": "Fazuľa, snap, grn, konzervované, no salt, scedené pevný podiel",
     "alternative_names": [],
     "description": "Fazuľa, snap, grn, konzervované, no salt, scedené pevný podiel."
-  },
-  "beans_snap_grn_frz_ckd_bld_drnd_wsalt": {
-    "name": "Fazuľa, snap, grn, mrazené, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Fazuľa, snap, grn, mrazené, varené, scedené, so soľou."
-  },
-  "beans_snap_yel_frz_ckd_bld_drnd_wosalt": {
-    "name": "Fazuľa, lusk, žltý, mrazené, varené, scedené, bez soli",
-    "alternative_names": [],
-    "description": "Fazuľa, lusk, žltý, mrazené, varené, scedené, bez soli."
   },
   "beans_snap_yel_frz_ckd_bld_drnd_wsalt": {
     "name": "Fazuľa, lusk, žltý, mrazené, varené, scedené, so soľou",
@@ -320,11 +290,6 @@
     "name": "Paprika, pálivá čili, červená, konzervované, okrem semien, sóla a kvapalín",
     "alternative_names": [],
     "description": "Paprika, pálivá čili, červená, konzervované, okrem semien, sóla a kvapalín."
-  },
-  "pigeonpeas_immat_seeds_ckd_bld_drnd_wsalt": {
-    "name": "Pigeonpeas, immat semená, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Pigeonpeas, immat semená, varené, scedené, so soľou."
   },
   "pumpkin_ckd_bld_drnd_wsalt": {
     "name": "Tekvica, varené, scedené, so soľou",
@@ -521,11 +486,6 @@
     "alternative_names": [],
     "description": "Fazuľa, biela, zrelé semená, surová."
   },
-  "beans_white_mature_seeds_ckd_bld_wosalt": {
-    "name": "Fazuľa, biela, zrelé semená, varené, bez soli",
-    "alternative_names": [],
-    "description": "Fazuľa, biela, zrelé semená, varené, bez soli."
-  },
   "beans_white_mature_seeds_cnd": {
     "name": "Fazuľa, biela, zrelé semená, konzervované",
     "alternative_names": [],
@@ -601,11 +561,6 @@
     "alternative_names": [],
     "description": "Mung bns, zrelé semená, varené, bezsalt."
   },
-  "mungo_bns_mature_seeds_ckd_bld_wosalt": {
-    "name": "Mungo bns, zrelé semená, varené, bezsalt",
-    "alternative_names": [],
-    "description": "Mungo bns, zrelé semená, varené, bezsalt."
-  },
   "soybeans_mature_seeds_raw": {
     "name": "Sójové bôby, zrelé semená, surové",
     "alternative_names": [],
@@ -626,35 +581,10 @@
     "alternative_names": [],
     "description": "Sójové bôby, zrelé semená, suché."
   },
-  "beans_kidney_red_mature_seeds_ckd_bld_wsalt": {
-    "name": "Fazuľa, obličky, červená, zrelé semená, varené, so soľou",
-    "alternative_names": [],
-    "description": "Fazuľa, obličky, červená, zrelé semená, varené, so soľou."
-  },
-  "beans_navy_mature_seeds_ckd_bld_wsalt": {
-    "name": "Fazuľa, navy, zrelé semená, varené, so soľou",
-    "alternative_names": [],
-    "description": "Fazuľa, navy, zrelé semená, varené, so soľou."
-  },
-  "beans_pink_mature_seeds_ckd_bld_wsalt": {
-    "name": "Fazuľa, ružová, zrelé semená, varené, so soľou",
-    "alternative_names": [],
-    "description": "Fazuľa, ružová, zrelé semená, varené, so soľou."
-  },
-  "beans_pinto_mature_seeds_ckd_bld_wsalt": {
-    "name": "Fazuľa, pinto, zrelé semená, varené, so soľou",
-    "alternative_names": [],
-    "description": "Fazuľa, pinto, zrelé semená, varené, so soľou."
-  },
   "beans_white_mature_seeds_ckd_bld_w_salt": {
     "name": "Fazuľa, biela, zrelé semená, varené, so soľou",
     "alternative_names": [],
     "description": "Fazuľa, biela, zrelé semená, varené, so soľou."
-  },
-  "broadbeans_mature_seeds_ckd_bld_wsalt": {
-    "name": "Beans (fava bns), zrelé semená, varené, so soľou",
-    "alternative_names": [],
-    "description": "Beans (fava bns), zrelé semená, varené, so soľou."
   },
   "chickpeas_mature_seeds_ckd_bld_wsalt": {
     "name": "Cícer, zrelé semená, varené, so soľou",
@@ -670,16 +600,6 @@
     "name": "Šošovica, zrelé semená, varené, so soľou",
     "alternative_names": [],
     "description": "Šošovica, zrelé semená, varené, so soľou."
-  },
-  "lima_bns_lrg_mature_seeds_ckd_bld_wsalt": {
-    "name": "Lima bns, lrg, zrelé semená, varené, so soľou",
-    "alternative_names": [],
-    "description": "Lima bns, lrg, zrelé semená, varené, so soľou."
-  },
-  "mung_bns_mature_seeds_ckd_bld_wsalt": {
-    "name": "Mung bns, zrelé semená, varené, so soľou",
-    "alternative_names": [],
-    "description": "Mung bns, zrelé semená, varené, so soľou."
   },
   "mungo_bns_mature_seeds_ckd_bld_wsalt": {
     "name": "Mungo bns, zrelé semená, varené, so soľou",

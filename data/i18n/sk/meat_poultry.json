@@ -135,11 +135,6 @@
     "alternative_names": [],
     "description": "Kurčatá, brojlery alebo fritézy, mäso a koža, surové."
   },
-  "chicken_broilers_or_fryers_meatskn_ckd_fried": {
-    "name": "Kurčatá, brojlery alebo fritézy, mäso a koža, varené, vyprážané, v cestíčku",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, mäso a koža, varené, vyprážané, v cestíčku."
-  },
   "chicken_broilers_or_fryers_meatskn_ckd_rstd": {
     "name": "Kurčatá, brojlery alebo fritézy, mäso a koža, varené, pečené",
     "alternative_names": [],
@@ -185,30 +180,10 @@
     "alternative_names": [],
     "description": "Kurčatá, brojlery alebo fritézy, mäso, mäso a koža, surové."
   },
-  "chicken_broilers_or_fryers_lt_meat_meatskn_ck": {
-    "name": "Kurčatá, brojlery alebo fritézy, mäso, mäso a koža, varené, vyprážané, obalené v múke",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, mäso, mäso a koža, varené, vyprážané, obalené v múke."
-  },
   "chicken_broilers_or_fryers_dk_meat_meat_skn_r": {
     "name": "Kurčatá, brojlery alebo fritézy, tmavé mäso, mäso a koža, surové",
     "alternative_names": [],
     "description": "Kurčatá, brojlery alebo fritézy, tmavé mäso, mäso a koža, surové."
-  },
-  "chicken_broilers_or_fryers_dk_meat_meatskn_ck": {
-    "name": "Kurčatá, brojlery alebo fritézy, tmavé mäso, mäso a koža, varené, vyprážané, obalené v múke",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, tmavé mäso, mäso a koža, varené, vyprážané, obalené v múke."
-  },
-  "chicken_broilers_or_fryers_lt_meat_meat_only": {
-    "name": "Kurčatá, brojlery alebo fritézy, mäso, iba mäso, surové",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, mäso, iba mäso, surové."
-  },
-  "chicken_broilers_or_fryers_dk_meat_meat_only": {
-    "name": "Kurčatá, brojlery alebo fritézy, tmavé mäso, len mäso, surové",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, tmavé mäso, len mäso, surové."
   },
   "chicken_broilers_or_fryers_back_meatskn_raw": {
     "name": "Kurčatá, brojlery alebo fritézy, chrbát, mäso a koža, surové",
@@ -225,30 +200,10 @@
     "alternative_names": [],
     "description": "Kurčatá, brojlery alebo fritézy, chrbát, mäso a koža, varené, dusené."
   },
-  "chicken_broilers_or_fryers_back_meat_only_raw": {
-    "name": "Kurčatá, brojlery alebo fritézy, chrbát, iba mäso, surové",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, chrbát, iba mäso, surové."
-  },
-  "chicken_broilers_or_fryers_back_meat_only_ckd": {
-    "name": "Kurčatá, brojlery alebo fritézy, chrbát, len mäso, varené, pečené",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, chrbát, len mäso, varené, pečené."
-  },
-  "chicken_broilers_or_fryers_breast_meatskn_ckd": {
-    "name": "Kurčatá, brojlery alebo fritézy, prsia, mäso a koža, varené, vyprážané, v cestíčku",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, prsia, mäso a koža, varené, vyprážané, v cestíčku."
-  },
   "chicken_broilers_or_fryers_breast_meat_only_r": {
     "name": "Kurčatá, brojlery alebo fritézy, prsia, iba mäso, surové",
     "alternative_names": [],
     "description": "Kurčatá, brojlery alebo fritézy, prsia, iba mäso, surové."
-  },
-  "chicken_broilers_or_fryers_breast_meat_only_c": {
-    "name": "Kurčatá, brojlery alebo fritézy, prsia, len mäso, varené, vyprážané",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, prsia, len mäso, varené, vyprážané."
   },
   "chicken_broilers_or_fryers_drumstk_meatskn_ra": {
     "name": "Kurčatá, brojlery alebo fritézy, bubny, mäso a koža, surové",
@@ -274,11 +229,6 @@
     "name": "Kurčatá, brojlery alebo fritézy, stehno, mäso a mäso, surové",
     "alternative_names": [],
     "description": "Kurčatá, brojlery alebo fritézy, stehno, mäso a mäso, surové."
-  },
-  "chicken_broilers_or_fryers_leg_meatskn_ckd_rs": {
-    "name": "Kurčatá, brojlery alebo fritézy, stehno, mäso a koža, varené, pečené",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, stehno, mäso a koža, varené, pečené."
   },
   "chicken_broilers_or_fryers_leg_meatskn_ckd_st": {
     "name": "Kurčatá, brojlery alebo fritézy, stehno, mäso a koža, varené, dusené",
@@ -310,11 +260,6 @@
     "alternative_names": [],
     "description": "Kurčatá, brojlery alebo fritézy, stehná, mäso a koža, varené, pečené."
   },
-  "chicken_broilers_or_fryers_dk_meat_thigh_meat": {
-    "name": "Kurčatá, brojlery alebo fritézy, tmavé mäso, stehná, len mäso, surové",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, tmavé mäso, stehná, len mäso, surové."
-  },
   "chicken_broilers_or_fryers_thigh_meat_only_ck": {
     "name": "Kurčatá, brojlery alebo fritézy, stehná, len mäso, varené, pečené",
     "alternative_names": [],
@@ -330,17 +275,7 @@
     "alternative_names": [],
     "description": "Kurčatá, brojlery alebo fritézy, krídlo, mäso a koža, varené, dusené."
   },
-  "chicken_broilers_or_fryers_wing_meat_only_ckd": {
-    "name": "Kurčatá, brojlery alebo fritézy, krídlo, len mäso, varené, pečené",
-    "alternative_names": [],
-    "description": "Kurčatá, brojlery alebo fritézy, krídlo, len mäso, varené, pečené."
-  },
   "chicken_roasting_meat_only_raw": {
-    "name": "Kuracie mäso, pečenie, len mäso, surové",
-    "alternative_names": [],
-    "description": "Kuracie mäso, pečenie, len mäso, surové."
-  },
-  "chicken_roasting_lt_meat_meat_only_raw": {
     "name": "Kuracie mäso, pečenie, len mäso, surové",
     "alternative_names": [],
     "description": "Kuracie mäso, pečenie, len mäso, surové."
@@ -349,16 +284,6 @@
     "name": "Kuracie, pecenie, ľahké maso, len maso, varené, pečené",
     "alternative_names": [],
     "description": "Kuracie, pecenie, ľahké maso, len maso, varené, pečené."
-  },
-  "chicken_roasting_dk_meat_meat_only_raw": {
-    "name": "Kuracie mäso, pečenie, tmavé mäso, len mäso, surové",
-    "alternative_names": [],
-    "description": "Kuracie mäso, pečenie, tmavé mäso, len mäso, surové."
-  },
-  "chicken_stewing_meat_skn_giblets_neck_ckd_stw": {
-    "name": "Kuracie mäso, dusené mäso, mäso a droby a krkovička, mleté ​​mäso",
-    "alternative_names": [],
-    "description": "Kuracie mäso, dusené mäso, mäso a droby a krkovička, mleté ​​mäso."
   },
   "chicken_stewing_meatskn_raw": {
     "name": "Kuracie mäso, dusené mäso, surové",
@@ -459,16 +384,6 @@
     "name": "Kuracie, cornish diviny, mäso a koža, varené, pečené",
     "alternative_names": [],
     "description": "Kuracie, cornish diviny, mäso a koža, varené, pečené."
-  },
-  "chicken_cornish_game_hens_meat_only_raw": {
-    "name": "Kurčatá, cornish divina, len mäso, surové",
-    "alternative_names": [],
-    "description": "Kurčatá, cornish divina, len mäso, surové."
-  },
-  "chicken_cornish_game_hens_meat_only_ckd_rstd": {
-    "name": "Kurčatá, cornish divina, len mäso, varené, pečené",
-    "alternative_names": [],
-    "description": "Kurčatá, cornish divina, len mäso, varené, pečené."
   },
   "chicken_canned_no_broth": {
     "name": "Kuracie mäso, konzerva, bez vývaru",
@@ -925,11 +840,6 @@
     "alternative_names": [],
     "description": "Sleď, atlantický, varené, suché teplo."
   },
-  "herring_atlantic_pickled": {
-    "name": "Sleď atlantický, nakladaný",
-    "alternative_names": [],
-    "description": "Sleď atlantický, nakladaný."
-  },
   "herring_atlantic_kippered": {
     "name": "Sleď atlantický, morský",
     "alternative_names": [],
@@ -980,11 +890,6 @@
     "alternative_names": [],
     "description": "Ustrica, východná, divoká, surová."
   },
-  "oyster_eastern_wild_ckd_moist_heat": {
-    "name": "Ustrica, východná, divoká, varené, vlhké teplo",
-    "alternative_names": [],
-    "description": "Ustrica, východná, divoká, varené, vlhké teplo."
-  },
   "oyster_eastern_canned": {
     "name": "Ustrica, východná, konzervovaná",
     "alternative_names": [],
@@ -1000,11 +905,6 @@
     "alternative_names": [],
     "description": "Ustrice, pacific, varené, vlhké teplo."
   },
-  "oyster_eastern_wild_ckd_dry_heat": {
-    "name": "Ustrica, východná, divoká, varené, suché teplo",
-    "alternative_names": [],
-    "description": "Ustrica, východná, divoká, varené, suché teplo."
-  },
   "fish_salmon_pink_cnd_drnd_sol": {
     "name": "Ryby, losos, ružový, konzervované, scedené pevný podiel",
     "alternative_names": [],
@@ -1014,11 +914,6 @@
     "name": "Ryby, tilapia, varené, suché teplo",
     "alternative_names": [],
     "description": "Ryby, tilapia, varené, suché teplo."
-  },
-  "fish_salmon_pink_cnd_drnd_sol_wo_skn_bones": {
-    "name": "Ryby, losos, ružový, konzervované, scedené pevný podiel, bez kože & kosti",
-    "alternative_names": [],
-    "description": "Ryby, losos, ružový, konzervované, scedené pevný podiel, bez kože & kosti."
   },
   "beans_bkd_cnd_wporkswt_sau": {
     "name": "Fazuľa, pečené, konzervované, s bravčovým mäsom a sladkou omáčkou alebo",
@@ -1044,11 +939,6 @@
     "name": "Teľacie stehno (horné mäso), chudé, varené, vyprážané na panvici, obaľované",
     "alternative_names": [],
     "description": "Teľacie stehno (horné mäso), chudé, varené, vyprážané na panvici, obaľované."
-  },
-  "veal_leg_ln_ckd_pan_fried_not_breaded": {
-    "name": "Teľacie stehno (horné mäso), chudé, varené, vyprážané na panvici, bez obalu",
-    "alternative_names": [],
-    "description": "Teľacie stehno (horné mäso), chudé, varené, vyprážané na panvici, bez obalu."
   },
   "veal_loin_ln_ckd_brsd": {
     "name": "Teľacie mäso, karé, chudé, varené, brsd",
@@ -1190,11 +1080,6 @@
     "alternative_names": [],
     "description": "Kuracie mäso, nugety, tmavé & biele mäso, predvarené, mrazené, nie ohriate."
   },
-  "chicken_nuggets_white_meat_preckd_frz_not_reh": {
-    "name": "Kuracie mäso, nugety, biele mäso, predpečené, mrazené, nie ohriate",
-    "alternative_names": [],
-    "description": "Kuracie mäso, nugety, biele mäso, predpečené, mrazené, nie ohriate."
-  },
   "chicken_tenders_breaded_frz_prep": {
     "name": "Kuracie jemné, obaľované, mrazené, príprava",
     "alternative_names": [],
@@ -1234,11 +1119,6 @@
     "name": "Beef, rib eye steak, žemľa-in, s tukovým okrajom, chudé a tučné mäso, 1/8\" ft, všetky triedy, varené, grl",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, žemľa-in, s tukovým okrajom, chudé a tučné mäso, 1/8\" ft, všetky triedy, varené, grl\"."
-  },
-  "beef_rib_eye_rst_bne_in_lp_on_ln_ft_18_ft_al": {
-    "name": "Hovädzie, rib eye rst, bne-in, lp-on, chudé a tučné mäso, 1/8\" ft, všetky triedy, varené, rst",
-    "alternative_names": [],
-    "description": "\"hovädzie, rib eye rst, bne-in, lp-on, chudé a tučné mäso, 1/8\" ft, všetky triedy, varené, rst\"."
   },
   "beef_rib_eye_stkrst_bne_in_ip_on_ln_ft_18_ft": {
     "name": "Hovädzie mäso, rebrové oko steak/rst, bne-in, ip-on, chudé a tučné mäso, 1/8\" ft, al grds, rw",
@@ -1334,11 +1214,6 @@
     "name": "Morka, spodné stehno, údená, varené, s kožou, odstránená kosť",
     "alternative_names": [],
     "description": "Morka, spodné stehno, údená, varené, s kožou, odstránená kosť."
-  },
-  "pork_cured_bacon_ckd_brld_pan_fried_or_rstd_r": {
-    "name": "Bravčové mäso, nakladané, slanina, varené, grilované, vyprážané na panvici alebo pečené, červené",
-    "alternative_names": [],
-    "description": "Bravčové mäso, nakladané, slanina, varené, grilované, vyprážané na panvici alebo pečené, červené."
   },
   "beef_bologna_red_na": {
     "name": "Hovädzie, boloňské, červené",
@@ -1471,14 +1346,14 @@
     "description": "Kuracie mäso, mäso a koža, pečené/pečené."
   },
   "chicken_leg_meat_roastedbaked": {
-    "name": "Kuracie stehno, mäso, pečené/pečené",
+    "name": "Kuracie celé stehno, mäso, pečené",
     "alternative_names": [],
-    "description": "Kuracie stehno, mäso, pečené/pečené."
+    "description": "Kuracie celé stehno, mäso, pečené."
   },
   "chicken_leg_meat_boiledcooked_in_water": {
-    "name": "Kuracie stehno, mäso, varené/varené vo vode",
+    "name": "Kuracie celé stehno, mäso, varené",
     "alternative_names": [],
-    "description": "Kuracie stehno, mäso, varené/varené vo vode."
+    "description": "Kuracie celé stehno, mäso, varené."
   },
   "lamb_shoulder_roastedbaked": {
     "name": "Jahňacie, pliecko, pečené/pečené",
@@ -1591,19 +1466,19 @@
     "description": "Kuracie prsia, bez kože, surové."
   },
   "chicken_high_leg_meat_raw": {
-    "name": "Kuracie stehno, mäso, surové",
+    "name": "Kuracie horné stehno, mäso, surové",
     "alternative_names": [],
-    "description": "Kuracie stehno, mäso, surové."
+    "description": "Kuracie horné stehno, mäso, surové."
   },
   "chicken_drumstick_raw": {
-    "name": "Kuracie mäso, stehno, surové",
+    "name": "Kuracie spodné stehno, mäso, surové",
     "alternative_names": [],
-    "description": "Kuracie mäso, stehno, surové."
+    "description": "Kuracie spodné stehno, mäso, surové."
   },
   "chicken_leg_meat_raw": {
-    "name": "Kuracie stehno, mäso, surové",
+    "name": "Kuracie celé stehno, mäso, surové",
     "alternative_names": [],
-    "description": "Kuracie stehno, mäso, surové."
+    "description": "Kuracie celé stehno, mäso, surové."
   },
   "lamb_shoulder_raw": {
     "name": "Jahňacie, pliecko, surové",
@@ -1644,11 +1519,6 @@
     "name": "Varená šunka, vynikajúca kvalita, menej odtučnená kôra",
     "alternative_names": [],
     "description": "Varená šunka, vynikajúca kvalita, menej odtučnená kôra."
-  },
-  "corned_beef_canned": {
-    "name": "Konzervované hovädzie mäso",
-    "alternative_names": [],
-    "description": "Konzervované hovädzie mäso."
   },
   "plant_based_sausage_with_tofu_vegan_prepacked": {
     "name": "Rastlinná klobása s tofu (vegánska), balená",

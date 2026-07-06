@@ -669,11 +669,6 @@
     "alternative_names": [],
     "description": "Detská výživa, ovocie, sušené slivky s tapiokou, bezvit c, str."
   },
-  "babyfood_fruit_prunes_wtapioca_wovit_c_jr": {
-    "name": "Detská výživa, ovocie, sušené slivky s tapiokou, bezvit c, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, ovocie, sušené slivky s tapiokou, bezvit c, junior."
-  },
   "babyfood_prunes_wovit_c_str": {
     "name": "Detská výživa, sušené slivky, bezvit c, str",
     "alternative_names": [],
@@ -708,11 +703,6 @@
     "name": "Detská výživa, ovocie, jablkový šalát a čerešne, junior",
     "alternative_names": [],
     "description": "Detská výživa, ovocie, jablkový šalát a čerešne, junior."
-  },
-  "babyfood_fruit_applsauc_wbanana_jr": {
-    "name": "Detská výživa, ovocie, jablkový šalát s banánom, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, ovocie, jablkový šalát s banánom, junior."
   },
   "babyfood_fruit_appl_raspberry_str": {
     "name": "Detská výživa, ovocie, jablká a maliny, str",
@@ -1034,20 +1024,10 @@
     "alternative_names": [],
     "description": "Detská výživa, crl, zmiešané, s banánmi, príprava s mliekom."
   },
-  "babyfood_crl_oatmeal_wbananas_prep_wwhl_milk": {
-    "name": "Detská výživa, crl, ovsené vločky, s banánmi, príprava s mliekom",
-    "alternative_names": [],
-    "description": "Detská výživa, crl, ovsené vločky, s banánmi, príprava s mliekom."
-  },
   "babyfood_crl_rice_prep_wwhl_milk": {
     "name": "Detská výživa, crl, ryža, príprava s mliekom",
     "alternative_names": [],
     "description": "Detská výživa, crl, ryža, príprava s mliekom."
-  },
-  "babyfood_crl_rice_wbananas_prep_wwhl_milk": {
-    "name": "Detská výživa, crl, ryža, s banánmi, príprava s mliekom",
-    "alternative_names": [],
-    "description": "Detská výživa, crl, ryža, s banánmi, príprava s mliekom."
   },
   "inf_formula_nestle_good_start_supreme_w_iron": {
     "name": "Dojčenská výživa, nestle, good start supreme, so železom, pripravená na kŕmenie",
@@ -1069,11 +1049,6 @@
     "alternative_names": [],
     "description": "Dojčenská výživa, Mead Johnson, enfamil, so železom, prášok."
   },
-  "infant_formula_mead_johnson_enfamil_lo_iron_r": {
-    "name": "Dojčenská výživa, Mead Johnson, enfamil, s nízkym obsahom železa, pripravená na kŕmenie",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, Mead Johnson, enfamil, s nízkym obsahom železa, pripravená na kŕmenie."
-  },
   "inf_formula_mead_johnson_enfamillipil_wirn_pd": {
     "name": "Dojčenská výživa, Mead Johnson, Enfamil Lipil, so železom, prášok, s ARA a DHA",
     "alternative_names": [],
@@ -1084,11 +1059,6 @@
     "alternative_names": [],
     "description": "Dojčenská výživa, Mead Johnson, enfamil, s nízkym obsahom železa, prášok, nepripravená."
   },
-  "inf_formula_mead_johnson_enfamil_nutramigen_w": {
-    "name": "Dojčenská výživa, Mead Johnson, enfamil, nutramigen, so železom, pripravená na kŕmenie",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, Mead Johnson, enfamil, nutramigen, so železom, pripravená na kŕmenie."
-  },
   "inf_form_mead_johnson_enfamil_nutramigen_wiro": {
     "name": "Dojčenská výživa, Mead Johnson, enfamil, nutramigen, so železom, prášok, nepripravená",
     "alternative_names": [],
@@ -1098,11 +1068,6 @@
     "name": "Inf formmead john, enfamil lipil, so železom, pripravená na kŕmenie, s ARA a DHA",
     "alternative_names": [],
     "description": "Inf formmead john, enfamil lipil, so železom, pripravená na kŕmenie, s ARA a DHA."
-  },
-  "inf_form_me_johns_enfamil_lipil_lo_iron_pdr_w": {
-    "name": "Dojčenská výživa, Mead Johnson, enfamil, lipil, s nízkym obsahom železa, prášok, s ARA a DHA",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, Mead Johnson, enfamil, lipil, s nízkym obsahom železa, prášok, s ARA a DHA."
   },
   "child_formula_mead_johnson_portagen_w_iron_pd": {
     "name": "Detská výživa, Mead Johnson, portagen, so železom, prášok, nepripravená",
@@ -1118,11 +1083,6 @@
     "name": "Dojčenská výživa, Mead Johnson, pregestimil, so železom, prášok, nepripravená",
     "alternative_names": [],
     "description": "Dojčenská výživa, Mead Johnson, pregestimil, so železom, prášok, nepripravená."
-  },
-  "inf_formula_mead_johnson_prosobee_w_iron_rtf": {
-    "name": "Dojčenská výživa, Mead Johnson, prosobee, so železom, pripravená na kŕmenie",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, Mead Johnson, prosobee, so železom, pripravená na kŕmenie."
   },
   "infant_formula_mead_johnson_prosobee_wiron_li": {
     "name": "Dojčenská výživa, Mead Johnson, prosobee, so železom, tekutina cnc, nepripravená",
@@ -1179,21 +1139,6 @@
     "alternative_names": [],
     "description": "Inffor, meadjohns, enfamil, prosobee, lipil, lc, notrec, ara&dha."
   },
-  "inf_formula_abbott_nutr_similac_lo_iron_rtf": {
-    "name": "Inf formula, abbott Nutramigen, similac, s nízkym obsahom železa, pripravená na kŕmenie (predtým ross)",
-    "alternative_names": [],
-    "description": "Inf formula, abbott Nutramigen, similac, s nízkym obsahom železa, pripravená na kŕmenie (predtým ross)."
-  },
-  "inf_formula_abbott_nutr_similac_lo_iron_liq_c": {
-    "name": "Inf formula, abbott Nutramigen, similac, s nízkym obsahom železa, tekutina koncentrát, nepripravené",
-    "alternative_names": [],
-    "description": "Inf formula, abbott Nutramigen, similac, s nízkym obsahom železa, tekutina koncentrát, nepripravené."
-  },
-  "inf_formula_abbott_nutr_similac_lo_iron_pdr_n": {
-    "name": "Inf formula, abbott Nutramigen, similac, s nízkym obsahom železa, prášok, nepripravené",
-    "alternative_names": [],
-    "description": "Inf formula, abbott Nutramigen, similac, s nízkym obsahom železa, prášok, nepripravené."
-  },
   "inf_formula_nestle_good_start_soy_w_dha_ara_r": {
     "name": "Dojčenská výživa, nestle, good start soy, s dha & ara, pripravená na kŕmenie",
     "alternative_names": [],
@@ -1209,11 +1154,6 @@
     "alternative_names": [],
     "description": "Dojčenská výživa, nestle, good start soy, s ARA a DHA, prášok."
   },
-  "inf_formula_mead_johnson_enfamil_lactofree_rt": {
-    "name": "Inf formula, Mead Johnson, enfamil, lactofree, pripravená na kŕmenie",
-    "alternative_names": [],
-    "description": "Inf formula, Mead Johnson, enfamil, lactofree, pripravená na kŕmenie."
-  },
   "inf_formula_mead_johnson_enfamil_lactofree_w": {
     "name": "Inf formula, Mead Johnson, enfamil, lactofree, s/ irn, prášok, notrec",
     "alternative_names": [],
@@ -1223,16 +1163,6 @@
     "name": "Vzorec Inf, produkty pbm, ultra svetlé začiatky, prášok",
     "alternative_names": [],
     "description": "Vzorec Inf, produkty pbm, ultra svetlé začiatky, prášok."
-  },
-  "inf_formula_nestle_good_start_2_essentials_w": {
-    "name": "Dojčenská výživa, nestle, good start 2 essentials, so železom, pripravená na kŕmenie",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, nestle, good start 2 essentials, so železom, pripravená na kŕmenie."
-  },
-  "inf_formula_nestle_good_start_essentials_soy": {
-    "name": "Dojčenská výživa, nestle, dobrý začiatok základy sója, so železom, pripravená na kŕmenie",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, nestle, dobrý začiatok základy sója, so železom, pripravená na kŕmenie."
   },
   "inf_formula_mead_johnson_next_step_prosobee_p": {
     "name": "Dojčenská výživa, Mead Johnson, ďalší krok prosobee, prášok, nepripravená",
@@ -1264,25 +1194,10 @@
     "alternative_names": [],
     "description": "Dojčenská výživa, Mead Johnson, enfamil, ar lipil, pripravená na kŕmenie, s ARA a DHA."
   },
-  "inf_formula_mead_johnson_enfamil_ar_lipil_pdr": {
-    "name": "Dojčenská výživa, Mead Johnson, enfamil, ar lipil, prášok, s ARA a DHA",
-    "alternative_names": [],
-    "description": "Dojčenská výživa, Mead Johnson, enfamil, ar lipil, prášok, s ARA a DHA."
-  },
   "inf_form_abbott_similac_neosure_pdr_w_ara_dha": {
     "name": "Dojčenská výživa, abbott, similac, neosure, prášok, s ARA a DHA",
     "alternative_names": [],
     "description": "Dojčenská výživa, abbott, similac, neosure, prášok, s ARA a DHA."
-  },
-  "inf_formula_abbott_nutr_similac_advance_w_iro": {
-    "name": "Inf formula, abbott Nutramigen, similac, advance, so železom, pripravená na kŕmenie",
-    "alternative_names": [],
-    "description": "Inf formula, abbott Nutramigen, similac, advance, so železom, pripravená na kŕmenie."
-  },
-  "inf_formula_abbott_nutr_similac_advanc_w_iron": {
-    "name": "Inf formula, abbott Nutramigen, similac, advanc, so železom, prášok, nepripravené",
-    "alternative_names": [],
-    "description": "Inf formula, abbott Nutramigen, similac, advanc, so železom, prášok, nepripravené."
   },
   "inf_formu_abbo_nutr_similac_advan_w_iron_liq": {
     "name": "Inf formula, abbo Nutramigen, similac, advan, so železom, tekutina koncentrát, nepripravené",
@@ -1458,11 +1373,6 @@
     "name": "Polievka, cibuľa, konzervované, kondenzované",
     "alternative_names": [],
     "description": "Polievka, cibuľa, konzervované, kondenzované."
-  },
-  "soup_pea_grn_cnd_cond": {
-    "name": "Polievka, hrachová, grn, konzervované, kondenzované",
-    "alternative_names": [],
-    "description": "Polievka, hrachová, grn, konzervované, kondenzované."
   },
   "soup_pea_split_wham_cnd_chunky_rts": {
     "name": "Polievka, hrachová, štiepaná so šunkou, konzervované, hrubá, pripravená",
@@ -2329,11 +2239,6 @@
     "alternative_names": [],
     "description": "Občerstvenie, granola tyčinka, plnené ovocím, bez tuku."
   },
-  "potato_chips_fat_free_salted": {
-    "name": "Zemiakové lupienky, bez tuku, solené",
-    "alternative_names": [],
-    "description": "Zemiakové lupienky, bez tuku, solené."
-  },
   "snacks_kelloggs_nutri_grain_crl_bars_fruit": {
     "name": "Občerstvenie, kellogg's, nutri-grain crl tyčinky, ovocie",
     "alternative_names": [],
@@ -2393,11 +2298,6 @@
     "name": "Čokoláda, tmavé, 45-59% kakaový pevný podiel",
     "alternative_names": [],
     "description": "Čokoláda, tmavé, 45-59% kakaový pevný podiel."
-  },
-  "candies_choc_dk_nfs_45_59_cacao_sol_90_60_69": {
-    "name": "Cukríky, čokoláda, tmavé, nfs (45-59% kakaový roztok 90%; 60-69% kakaový roztok",
-    "alternative_names": [],
-    "description": "Cukríky, čokoláda, tmavé, nfs (45-59% kakaový roztok 90%; 60-69% kakaový roztok."
   },
   "candies_crispy_bar_w_pnut_butter_filling": {
     "name": "Cukríky, chrumkavá tyčinka s náplňou z orechového masla",
@@ -2509,11 +2409,6 @@
     "alternative_names": [],
     "description": "\"little caesars 14\" originál rnd syr pizza, reg crust\"."
   },
-  "little_caesars_14_original_rnd_pepperoni_pizz": {
-    "name": "Little caesars 14\" originál rnd pepperoni pizza, reg. kôra",
-    "alternative_names": [],
-    "description": "\"little caesars 14\" originál rnd pepperoni pizza, reg. kôra\"."
-  },
   "little_caesars_14_original_rnd_meat_veg_pizza": {
     "name": "Little caesars 14\" originál RND pizza s mäsom a zeleninou, reg. kôra",
     "alternative_names": [],
@@ -2593,11 +2488,6 @@
     "name": "Digiorno pizza, feferónkový toping, tenká chrumkavá kôrka, mrazené, pečené",
     "alternative_names": [],
     "description": "Digiorno pizza, feferónkový toping, tenká chrumkavá kôrka, mrazené, pečené."
-  },
-  "digiorno_pizza_supreme_topping_rising_crust_f": {
-    "name": "Digiorno pizza, supreme topping, kysnúca kôrka, mrazené, pečené",
-    "alternative_names": [],
-    "description": "Digiorno pizza, supreme topping, kysnúca kôrka, mrazené, pečené."
   },
   "digiorno_pizza_supreme_topping_thin_crispy_cr": {
     "name": "Pizza Digiorno, supreme topping, tenká chrumkavá kôrka, mrazené, pečené",
@@ -3599,11 +3489,6 @@
     "alternative_names": [],
     "description": "Šalát dresing, mayo, imitn, soybn."
   },
-  "salad_drsng_mayo_imitn_soybn_wochol": {
-    "name": "Šalát dresing, mayo, imitn, soybn bezchol",
-    "alternative_names": [],
-    "description": "Šalát dresing, mayo, imitn, soybn bezchol."
-  },
   "alcoholic_bev_wine_table_red": {
     "name": "Alkoholické pivo, víno, stolové, červené",
     "alternative_names": [],
@@ -3628,11 +3513,6 @@
     "name": "Kakaová zmes, bez pridaného cukru, prášok",
     "alternative_names": [],
     "description": "Kakaová zmes, bez pridaného cukru, prášok."
-  },
-  "cocoa_mix_w_asprt_pdr_prep_w_h2o": {
-    "name": "Kakaová zmes, s asprtom, prášok, príprava s vodou",
-    "alternative_names": [],
-    "description": "Kakaová zmes, s asprtom, prášok, príprava s vodou."
   },
   "alcoholic_bev_liqueur_coffee_wcrm_34_proof": {
     "name": "Alkoholické pivo, likér, káva scrm, 34 proof",

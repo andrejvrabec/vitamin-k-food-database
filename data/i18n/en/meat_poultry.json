@@ -135,11 +135,6 @@
     "alternative_names": [],
     "description": "Chicken, broilers or fryers, meat & skin, raw."
   },
-  "chicken_broilers_or_fryers_meatskn_ckd_fried": {
-    "name": "Chicken, broilers or fryers, meat&skin, cooked, fried, batter",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, meat&skin, cooked, fried, batter."
-  },
   "chicken_broilers_or_fryers_meatskn_ckd_rstd": {
     "name": "Chicken, broilers or fryers, meat&skin, cooked, rstd",
     "alternative_names": [],
@@ -185,30 +180,10 @@
     "alternative_names": [],
     "description": "Chicken, broilers or fryers, light meat, meat & skin, raw."
   },
-  "chicken_broilers_or_fryers_lt_meat_meatskn_ck": {
-    "name": "Chicken, broilers or fryers, light meat, meat&skin, cooked, fried, flour",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, light meat, meat&skin, cooked, fried, flour."
-  },
   "chicken_broilers_or_fryers_dk_meat_meat_skn_r": {
     "name": "Chicken, broilers or fryers, dark meat, meat & skin, raw",
     "alternative_names": [],
     "description": "Chicken, broilers or fryers, dark meat, meat & skin, raw."
-  },
-  "chicken_broilers_or_fryers_dk_meat_meatskn_ck": {
-    "name": "Chicken, broilers or fryers, dark meat, meat&skin, cooked, fried, flour",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, dark meat, meat&skin, cooked, fried, flour."
-  },
-  "chicken_broilers_or_fryers_lt_meat_meat_only": {
-    "name": "Chicken, broilers or fryers, light meat, meat only, raw",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, light meat, meat only, raw."
-  },
-  "chicken_broilers_or_fryers_dk_meat_meat_only": {
-    "name": "Chicken, broilers or fryers, dark meat, meat only, raw",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, dark meat, meat only, raw."
   },
   "chicken_broilers_or_fryers_back_meatskn_raw": {
     "name": "Chicken, broilers or fryers, back, meat&skin, raw",
@@ -225,30 +200,10 @@
     "alternative_names": [],
     "description": "Chicken, broilers or fryers, back, meat&skin, cooked, stwd."
   },
-  "chicken_broilers_or_fryers_back_meat_only_raw": {
-    "name": "Chicken, broilers or fryers, back, meat only, raw",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat only, raw."
-  },
-  "chicken_broilers_or_fryers_back_meat_only_ckd": {
-    "name": "Chicken, broilers or fryers, back, meat only, cooked, rstd",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, back, meat only, cooked, rstd."
-  },
-  "chicken_broilers_or_fryers_breast_meatskn_ckd": {
-    "name": "Chicken, broilers or fryers, breast, meat&skin, cooked, fried, batter",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, breast, meat&skin, cooked, fried, batter."
-  },
   "chicken_broilers_or_fryers_breast_meat_only_r": {
     "name": "Chicken, broilers or fryers, breast, meat only, raw",
     "alternative_names": [],
     "description": "Chicken, broilers or fryers, breast, meat only, raw."
-  },
-  "chicken_broilers_or_fryers_breast_meat_only_c": {
-    "name": "Chicken, broilers or fryers, breast, meat only, cooked, fried",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, breast, meat only, cooked, fried."
   },
   "chicken_broilers_or_fryers_drumstk_meatskn_ra": {
     "name": "Chicken, broilers or fryers, drumstk, meat&skin, raw",
@@ -274,11 +229,6 @@
     "name": "Chicken, broilers or fryers, leg, meat&skin, raw",
     "alternative_names": [],
     "description": "Chicken, broilers or fryers, leg, meat&skin, raw."
-  },
-  "chicken_broilers_or_fryers_leg_meatskn_ckd_rs": {
-    "name": "Chicken, broilers or fryers, leg, meat&skin, cooked, rstd",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, leg, meat&skin, cooked, rstd."
   },
   "chicken_broilers_or_fryers_leg_meatskn_ckd_st": {
     "name": "Chicken, broilers or fryers, leg, meat&skin, cooked, stwd",
@@ -310,11 +260,6 @@
     "alternative_names": [],
     "description": "Chicken, broilers or fryers, thigh, meat&skin, cooked, rstd."
   },
-  "chicken_broilers_or_fryers_dk_meat_thigh_meat": {
-    "name": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw."
-  },
   "chicken_broilers_or_fryers_thigh_meat_only_ck": {
     "name": "Chicken, broilers or fryers, thigh, meat only, cooked, rstd",
     "alternative_names": [],
@@ -330,35 +275,15 @@
     "alternative_names": [],
     "description": "Chicken, broilers or fryers, wing, meat&skin, cooked, stwd."
   },
-  "chicken_broilers_or_fryers_wing_meat_only_ckd": {
-    "name": "Chicken, broilers or fryers, wing, meat only, cooked, rstd",
-    "alternative_names": [],
-    "description": "Chicken, broilers or fryers, wing, meat only, cooked, rstd."
-  },
   "chicken_roasting_meat_only_raw": {
     "name": "Chicken, roasting, meat only, raw",
     "alternative_names": [],
     "description": "Chicken, roasting, meat only, raw."
   },
-  "chicken_roasting_lt_meat_meat_only_raw": {
-    "name": "Chicken, roasting, light meat, meat only, raw",
-    "alternative_names": [],
-    "description": "Chicken, roasting, light meat, meat only, raw."
-  },
   "chicken_roasting_lt_meat_meat_only_ckd_rstd": {
     "name": "Chicken, roasting, light meat, meat only, cooked, rstd",
     "alternative_names": [],
     "description": "Chicken, roasting, light meat, meat only, cooked, rstd."
-  },
-  "chicken_roasting_dk_meat_meat_only_raw": {
-    "name": "Chicken, roasting, dark meat, meat only, raw",
-    "alternative_names": [],
-    "description": "Chicken, roasting, dark meat, meat only, raw."
-  },
-  "chicken_stewing_meat_skn_giblets_neck_ckd_stw": {
-    "name": "Chicken, stewing, meat & skin, & giblets & neck, cooked, stwd",
-    "alternative_names": [],
-    "description": "Chicken, stewing, meat & skin, & giblets & neck, cooked, stwd."
   },
   "chicken_stewing_meatskn_raw": {
     "name": "Chicken, stewing, meat&skin, raw",
@@ -459,16 +384,6 @@
     "name": "Chicken, cornish game hens, meat&skin, cooked, rstd",
     "alternative_names": [],
     "description": "Chicken, cornish game hens, meat&skin, cooked, rstd."
-  },
-  "chicken_cornish_game_hens_meat_only_raw": {
-    "name": "Chicken, cornish game hens, meat only, raw",
-    "alternative_names": [],
-    "description": "Chicken, cornish game hens, meat only, raw."
-  },
-  "chicken_cornish_game_hens_meat_only_ckd_rstd": {
-    "name": "Chicken, cornish game hens, meat only, cooked, rstd",
-    "alternative_names": [],
-    "description": "Chicken, cornish game hens, meat only, cooked, rstd."
   },
   "chicken_canned_no_broth": {
     "name": "Chicken, canned, no broth",
@@ -925,11 +840,6 @@
     "alternative_names": [],
     "description": "Herring, atlantic, cooked, dry heat."
   },
-  "herring_atlantic_pickled": {
-    "name": "Herring, atlantic, pickled",
-    "alternative_names": [],
-    "description": "Herring, atlantic, pickled."
-  },
   "herring_atlantic_kippered": {
     "name": "Herring, atlantic, kippered",
     "alternative_names": [],
@@ -980,11 +890,6 @@
     "alternative_names": [],
     "description": "Oyster, eastern, wild, raw."
   },
-  "oyster_eastern_wild_ckd_moist_heat": {
-    "name": "Oyster, eastern, wild, cooked, moist heat",
-    "alternative_names": [],
-    "description": "Oyster, eastern, wild, cooked, moist heat."
-  },
   "oyster_eastern_canned": {
     "name": "Oyster, eastern, canned",
     "alternative_names": [],
@@ -1000,11 +905,6 @@
     "alternative_names": [],
     "description": "Oyster, pacific, cooked, moist heat."
   },
-  "oyster_eastern_wild_ckd_dry_heat": {
-    "name": "Oyster, eastern, wild, cooked, dry heat",
-    "alternative_names": [],
-    "description": "Oyster, eastern, wild, cooked, dry heat."
-  },
   "fish_salmon_pink_cnd_drnd_sol": {
     "name": "Fish, salmon, pink, canned, drained solids",
     "alternative_names": [],
@@ -1014,11 +914,6 @@
     "name": "Fish, tilapia, cooked, dry heat",
     "alternative_names": [],
     "description": "Fish, tilapia, cooked, dry heat."
-  },
-  "fish_salmon_pink_cnd_drnd_sol_wo_skn_bones": {
-    "name": "Fish, salmon, pink, canned, drained solids, without skin & bones",
-    "alternative_names": [],
-    "description": "Fish, salmon, pink, canned, drained solids, without skin & bones."
   },
   "beans_bkd_cnd_wporkswt_sau": {
     "name": "Beans, baked, canned, withpork&sweet sauce",
@@ -1044,11 +939,6 @@
     "name": "Veal, leg (top rnd), lean, cooked, pan-fried, breaded",
     "alternative_names": [],
     "description": "Veal, leg (top rnd), lean, cooked, pan-fried, breaded."
-  },
-  "veal_leg_ln_ckd_pan_fried_not_breaded": {
-    "name": "Veal, leg (top rnd), lean, cooked, pan-fried, not breaded",
-    "alternative_names": [],
-    "description": "Veal, leg (top rnd), lean, cooked, pan-fried, not breaded."
   },
   "veal_loin_ln_ckd_brsd": {
     "name": "Veal, loin, lean, cooked, brsd",
@@ -1190,11 +1080,6 @@
     "alternative_names": [],
     "description": "Chicken, nuggets, dark & white meat, precooked, frozen, not reheated."
   },
-  "chicken_nuggets_white_meat_preckd_frz_not_reh": {
-    "name": "Chicken, nuggets, white meat, precooked, frozen, not reheated",
-    "alternative_names": [],
-    "description": "Chicken, nuggets, white meat, precooked, frozen, not reheated."
-  },
   "chicken_tenders_breaded_frz_prep": {
     "name": "Chicken tenders, breaded, frozen, prepared",
     "alternative_names": [],
@@ -1234,11 +1119,6 @@
     "name": "Beef, rib eye steak, bun-in, lip-on, lean & fat, 1/8\" fat, all grades, cooked, grl",
     "alternative_names": [],
     "description": "\"beef, rib eye steak, bun-in, lip-on, lean & fat, 1/8\" fat, all grades, cooked, grl\"."
-  },
-  "beef_rib_eye_rst_bne_in_lp_on_ln_ft_18_ft_al": {
-    "name": "Beef, rib eye rst, bne-in, lp-on, lean & fat, 1/8\" fat, all grades, cooked, rst",
-    "alternative_names": [],
-    "description": "\"beef, rib eye rst, bne-in, lp-on, lean & fat, 1/8\" fat, all grades, cooked, rst\"."
   },
   "beef_rib_eye_stkrst_bne_in_ip_on_ln_ft_18_ft": {
     "name": "Beef, rib eye steak/rst, bne-in, ip-on, lean & fat, 1/8\" fat, al grades, rw",
@@ -1334,11 +1214,6 @@
     "name": "Turkey, drumstk, smoked, cooked, with skin, bone removed",
     "alternative_names": [],
     "description": "Turkey, drumstk, smoked, cooked, with skin, bone removed."
-  },
-  "pork_cured_bacon_ckd_brld_pan_fried_or_rstd_r": {
-    "name": "Pork, cured, bacon, cooked, broiled, pan-fried or rstd, red na",
-    "alternative_names": [],
-    "description": "Pork, cured, bacon, cooked, broiled, pan-fried or rstd, red na."
   },
   "beef_bologna_red_na": {
     "name": "Beef, bologna, red na",
@@ -1644,11 +1519,6 @@
     "name": "Cooked ham, superior quality, rind less defatted",
     "alternative_names": [],
     "description": "Cooked ham, superior quality, rind less defatted."
-  },
-  "corned_beef_canned": {
-    "name": "Corned-beef, canned",
-    "alternative_names": [],
-    "description": "Corned-beef, canned."
   },
   "plant_based_sausage_with_tofu_vegan_prepacked": {
     "name": "Plant-based sausage with tofu (vegan), prepacked",

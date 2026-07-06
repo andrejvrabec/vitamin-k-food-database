@@ -50,7 +50,7 @@
       "relations": {
         "group": "asparagus",
         "related_ids": [
-          "asparagus_canned_drained",
+          "asparagus_cnd_drnd_sol",
           "asparagus_raw"
         ]
       }
@@ -882,7 +882,7 @@
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 11290), USDA SR28 (NDB No: 11807)",
       "tags": [
         "cooked",
         "k1"
@@ -1117,13 +1117,13 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2970.3
+          "vitamin_k_mcg": 380.8
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "vitamin_k_mcg": 891.1,
-          "gram_equivalent": 30
+          "gram_equivalent": 234
         }
       ],
       "source": "USDA Database for Standard Reference Legacy (2018)",
@@ -1668,7 +1668,7 @@
       "relations": {
         "group": "asparagus",
         "related_ids": [
-          "asparagus_canned_drained",
+          "asparagus_cnd_drnd_sol",
           "asparagus_cooked"
         ]
       }
@@ -1699,7 +1699,7 @@
           "gram_equivalent": 60
         }
       ],
-      "source": "USDA SR28 (NDB No: 11012), USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA SR28 (NDB No: 11012), USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 11705)",
       "relations": {
         "group": "asparagus"
       }
@@ -1731,7 +1731,7 @@
           "gram_equivalent": 18
         }
       ],
-      "source": "USDA SR28 (NDB No: 11015), USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA SR28 (NDB No: 11015), USDA Database for Standard Reference Legacy (2018), Ciqual 2025 (Food Code: 20076)",
       "relations": {
         "group": "asparagus"
       }
@@ -1770,6 +1770,7 @@
       "id": "beets_ckd_bld_drnd",
       "category": "vegetables",
       "tags": [
+        "cooked",
         "k1"
       ],
       "portions": [
@@ -1791,7 +1792,7 @@
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA SR28 (NDB No: 11081)"
+      "source": "USDA SR28 (NDB No: 11081), USDA SR28 (NDB No: 11734)"
     },
     {
       "id": "beets_cnd_reg_pk_solliquids",
@@ -1936,7 +1937,8 @@
       "category": "vegetables",
       "tags": [
         "cruciferous",
-        "k1"
+        "k1",
+        "legumes"
       ],
       "portions": [
         {
@@ -1951,7 +1953,7 @@
           "gram_equivalent": 184
         }
       ],
-      "source": "USDA SR28 (NDB No: 11093)",
+      "source": "USDA SR28 (NDB No: 11093), USDA SR28 (NDB No: 11095), USDA SR28 (NDB No: 11743)",
       "relations": {
         "group": "broccoli"
       }
@@ -1984,38 +1986,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11094)",
-      "relations": {
-        "group": "broccoli"
-      }
-    },
-    {
-      "id": "broccoli_frz_spears_ckd_bld_drnd_wosalt",
-      "category": "vegetables",
-      "tags": [
-        "cruciferous",
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 88.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 220.2,
-          "gram_equivalent": 250
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 81.1,
-          "gram_equivalent": 92
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11095)",
       "relations": {
         "group": "broccoli"
       }
@@ -2102,7 +2072,7 @@
           "gram_equivalent": 155
         }
       ],
-      "source": "USDA SR28 (NDB No: 11101)",
+      "source": "USDA SR28 (NDB No: 11101), USDA SR28 (NDB No: 11746)",
       "relations": {
         "group": "cabbage"
       }
@@ -2336,7 +2306,7 @@
           "gram_equivalent": 170
         }
       ],
-      "source": "USDA SR28 (NDB No: 11117)",
+      "source": "USDA SR28 (NDB No: 11117), USDA SR28 (NDB No: 11754)",
       "relations": {
         "group": "cabbage"
       }
@@ -2930,7 +2900,7 @@
           "gram_equivalent": 26
         }
       ],
-      "source": "USDA SR28 (NDB No: 11247)",
+      "source": "USDA SR28 (NDB No: 11247), USDA SR28 (NDB No: 11795)",
       "relations": {
         "group": "onion"
       }
@@ -3164,7 +3134,7 @@
           "gram_equivalent": 180
         }
       ],
-      "source": "USDA SR28 (NDB No: 11277)",
+      "source": "USDA SR28 (NDB No: 11277), USDA SR28 (NDB No: 11802)",
       "relations": {
         "group": "spinach"
       }
@@ -3363,7 +3333,7 @@
           "gram_equivalent": 105
         }
       ],
-      "source": "USDA SR28 (NDB No: 11288)",
+      "source": "USDA SR28 (NDB No: 11288), USDA SR28 (NDB No: 11806)",
       "relations": {
         "group": "onion"
       }
@@ -3389,30 +3359,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11289), USDA Database for Standard Reference Legacy (2018)",
-      "relations": {
-        "group": "onion"
-      }
-    },
-    {
-      "id": "onions_frz_whl_ckd_bld_drnd_wosalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 210
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11290)",
       "relations": {
         "group": "onion"
       }
@@ -3581,7 +3527,7 @@
           "gram_equivalent": 253
         }
       ],
-      "source": "USDA SR28 (NDB No: 11303)",
+      "source": "USDA SR28 (NDB No: 11303), USDA SR28 (NDB No: 11810)",
       "relations": {
         "group": "peas"
       }
@@ -3730,7 +3676,7 @@
           "gram_equivalent": 253
         }
       ],
-      "source": "USDA SR28 (NDB No: 11313)",
+      "source": "USDA SR28 (NDB No: 11313), USDA SR28 (NDB No: 11814)",
       "relations": {
         "group": "peas"
       }
@@ -3761,7 +3707,7 @@
           "gram_equivalent": 80
         }
       ],
-      "source": "USDA SR28 (NDB No: 11323)"
+      "source": "USDA SR28 (NDB No: 11323), USDA SR28 (NDB No: 11817)"
     },
     {
       "id": "peasonions_frz_ckd_bld_drnd_wosalt",
@@ -3783,7 +3729,7 @@
           "gram_equivalent": 180
         }
       ],
-      "source": "USDA SR28 (NDB No: 11327)"
+      "source": "USDA SR28 (NDB No: 11327), USDA SR28 (NDB No: 11818)"
     },
     {
       "id": "pokeberry_shoots_ckd_bld_drnd_wosalt",
@@ -3810,7 +3756,7 @@
           "gram_equivalent": 10
         }
       ],
-      "source": "USDA SR28 (NDB No: 11351)"
+      "source": "USDA SR28 (NDB No: 11351), USDA SR28 (NDB No: 11827)"
     },
     {
       "id": "potato_flesh_skn_raw",
@@ -4542,7 +4488,7 @@
           "gram_equivalent": 95
         }
       ],
-      "source": "USDA SR28 (NDB No: 11464)",
+      "source": "USDA SR28 (NDB No: 11464), USDA SR28 (NDB No: 11856)",
       "relations": {
         "group": "spinach"
       }
@@ -4598,7 +4544,7 @@
           "gram_equivalent": 90
         }
       ],
-      "source": "USDA SR28 (NDB No: 11468)",
+      "source": "USDA SR28 (NDB No: 11468), USDA SR28 (NDB No: 11858)",
       "relations": {
         "group": "squash"
       }
@@ -4709,7 +4655,7 @@
           "gram_equivalent": 180
         }
       ],
-      "source": "USDA SR28 (NDB No: 11476)",
+      "source": "USDA SR28 (NDB No: 11476), USDA SR28 (NDB No: 11860)",
       "relations": {
         "group": "squash"
       }
@@ -4770,7 +4716,7 @@
           "gram_equivalent": 120
         }
       ],
-      "source": "USDA SR28 (NDB No: 11478)",
+      "source": "USDA SR28 (NDB No: 11478), USDA SR28 (NDB No: 11861)",
       "relations": {
         "group": "squash"
       }
@@ -4953,7 +4899,7 @@
           "gram_equivalent": 236
         }
       ],
-      "source": "USDA SR28 (NDB No: 11491)",
+      "source": "USDA SR28 (NDB No: 11491), USDA SR28 (NDB No: 11869)",
       "relations": {
         "group": "squash"
       }
@@ -5045,7 +4991,7 @@
           "gram_equivalent": 151
         }
       ],
-      "source": "USDA SR28 (NDB No: 11510)",
+      "source": "USDA SR28 (NDB No: 11510), USDA SR28 (NDB No: 11876)",
       "relations": {
         "group": "potato"
       }
@@ -5221,7 +5167,7 @@
           "gram_equivalent": 246
         }
       ],
-      "source": "USDA SR28 (NDB No: 11530)",
+      "source": "USDA SR28 (NDB No: 11530), USDA SR28 (NDB No: 11884)",
       "relations": {
         "group": "tomato"
       }
@@ -5621,7 +5567,7 @@
           "gram_equivalent": 220
         }
       ],
-      "source": "USDA SR28 (NDB No: 11575)"
+      "source": "USDA SR28 (NDB No: 11575), USDA SR28 (NDB No: 11892)"
     },
     {
       "id": "turnip_grnsturnips_frz_ckd_bld_drnd_wosalt",
@@ -5642,7 +5588,7 @@
           "gram_equivalent": 163
         }
       ],
-      "source": "USDA SR28 (NDB No: 11577)"
+      "source": "USDA SR28 (NDB No: 11577), USDA SR28 (NDB No: 11893)"
     },
     {
       "id": "watercress_raw",
@@ -5798,7 +5744,7 @@
           "gram_equivalent": 180
         }
       ],
-      "source": "USDA SR28 (NDB No: 11642)",
+      "source": "USDA SR28 (NDB No: 11642), USDA SR28 (NDB No: 11857)",
       "relations": {
         "group": "squash"
       }
@@ -5847,7 +5793,7 @@
           "gram_equivalent": 205
         }
       ],
-      "source": "USDA SR28 (NDB No: 11644)",
+      "source": "USDA SR28 (NDB No: 11644), USDA SR28 (NDB No: 11863)",
       "relations": {
         "group": "squash"
       }
@@ -6085,36 +6031,6 @@
       }
     },
     {
-      "id": "asparagus_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 50.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 45.5,
-          "gram_equivalent": 90
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 30.4,
-          "gram_equivalent": 60
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11705)",
-      "relations": {
-        "group": "asparagus"
-      }
-    },
-    {
       "id": "asparagus_cnd_no_salt_solliquids",
       "category": "vegetables",
       "tags": [
@@ -6173,34 +6089,6 @@
       "relations": {
         "group": "asparagus"
       }
-    },
-    {
-      "id": "beets_ckd_boiled_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "cooked",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11734)"
     },
     {
       "id": "beets_cnd_no_salt_solliquids",
@@ -6276,31 +6164,6 @@
       }
     },
     {
-      "id": "broccoli_frz_chopd_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "cruciferous",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 88.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 162.1,
-          "gram_equivalent": 184
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11743)",
-      "relations": {
-        "group": "broccoli"
-      }
-    },
-    {
       "id": "broccoli_frz_spears_ckd_bld_drnd_wsalt",
       "category": "vegetables",
       "tags": [
@@ -6359,31 +6222,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11745)",
-      "relations": {
-        "group": "cabbage"
-      }
-    },
-    {
-      "id": "brussels_sprouts_frz_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "cruciferous",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 193.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 299.9,
-          "gram_equivalent": 155
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11746)",
       "relations": {
         "group": "cabbage"
       }
@@ -6473,31 +6311,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11752)",
-      "relations": {
-        "group": "cabbage"
-      }
-    },
-    {
-      "id": "cabbage_chinese_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "cruciferous",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 34.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 57.8,
-          "gram_equivalent": 170
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11754)",
       "relations": {
         "group": "cabbage"
       }
@@ -6767,60 +6580,6 @@
       }
     },
     {
-      "id": "leeks_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 25.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 31.5,
-          "gram_equivalent": 124
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.6,
-          "gram_equivalent": 26
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11795)",
-      "relations": {
-        "group": "onion"
-      }
-    },
-    {
-      "id": "new_zealand_spinach_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 292.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 525.6,
-          "gram_equivalent": 180
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11802)",
-      "relations": {
-        "group": "spinach"
-      }
-    },
-    {
       "id": "okra_ckd_bld_drnd_wsalt",
       "category": "vegetables",
       "tags": [
@@ -6906,60 +6665,6 @@
       }
     },
     {
-      "id": "onions_frz_chopd_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 15
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 105
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11806)",
-      "relations": {
-        "group": "onion"
-      }
-    },
-    {
-      "id": "onions_frz_whl_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.6,
-          "gram_equivalent": 210
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11807)",
-      "relations": {
-        "group": "onion"
-      }
-    },
-    {
       "id": "peas_edible_podded_ckd_bld_drnd_wsalt",
       "category": "vegetables",
       "tags": [
@@ -6980,37 +6685,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11809)",
-      "relations": {
-        "group": "peas"
-      }
-    },
-    {
-      "id": "peas_edible_podded_frz_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 30.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 48.3,
-          "gram_equivalent": 160
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 76.4,
-          "gram_equivalent": 253
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11810)",
       "relations": {
         "group": "peas"
       }
@@ -7103,37 +6777,6 @@
       }
     },
     {
-      "id": "peas_grn_frz_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 24.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 19.2,
-          "gram_equivalent": 80
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 60.7,
-          "gram_equivalent": 253
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11814)",
-      "relations": {
-        "group": "peas"
-      }
-    },
-    {
       "id": "peascarrots_cnd_no_salt_solliquids",
       "category": "vegetables",
       "tags": [
@@ -7154,77 +6797,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11816)"
-    },
-    {
-      "id": "peascarrots_frz_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 18.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 52.3,
-          "gram_equivalent": 278
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 15.0,
-          "gram_equivalent": 80
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11817)"
-    },
-    {
-      "id": "peasonions_frz_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 12.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 21.8,
-          "gram_equivalent": 180
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11818)"
-    },
-    {
-      "id": "pokeberry_shoots_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 108.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 178.2,
-          "gram_equivalent": 165
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11827)"
     },
     {
       "id": "potatoes_bkd_flesh_wsalt",
@@ -7387,169 +6959,6 @@
       }
     },
     {
-      "id": "spinach_frz_chopd_or_leaf_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 540.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1189.5,
-          "gram_equivalent": 220
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 513.7,
-          "gram_equivalent": 95
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11856)",
-      "relations": {
-        "group": "spinach"
-      }
-    },
-    {
-      "id": "squash_smmr_all_var_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.3,
-          "gram_equivalent": 180
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11857)",
-      "relations": {
-        "group": "squash"
-      }
-    },
-    {
-      "id": "squash_smmr_crookneckstraightneck_ckd_bld_drn",
-      "category": "vegetables",
-      "tags": [
-        "cooked",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 7.9,
-          "gram_equivalent": 180
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11858)",
-      "relations": {
-        "group": "squash"
-      }
-    },
-    {
-      "id": "squash_smmr_scallop_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.2,
-          "gram_equivalent": 90
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.2,
-          "gram_equivalent": 120
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11860)",
-      "relations": {
-        "group": "squash"
-      }
-    },
-    {
-      "id": "squash_smmr_zucchini_incl_skn_ckd_bld_drnd_ws",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.8,
-          "gram_equivalent": 90
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 5.0,
-          "gram_equivalent": 120
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11861)",
-      "relations": {
-        "group": "squash"
-      }
-    },
-    {
-      "id": "squash_wntr_all_var_ckd_bkd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 9.0,
-          "gram_equivalent": 205
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11863)",
-      "relations": {
-        "group": "squash"
-      }
-    },
-    {
       "id": "squash_wntr_butternut_ckd_bkd_wsalt",
       "category": "vegetables",
       "tags": [
@@ -7595,30 +7004,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11868), USDA SR28 (NDB No: 11490), USDA Database for Standard Reference Legacy (2018)",
-      "relations": {
-        "group": "squash"
-      }
-    },
-    {
-      "id": "squash_wntr_hubbard_ckd_bld_mshd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 2.4,
-          "gram_equivalent": 236
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11869)",
       "relations": {
         "group": "squash"
       }
@@ -7675,66 +7060,6 @@
       "source": "USDA SR28 (NDB No: 11875), USDA SR28 (NDB No: 11508)",
       "relations": {
         "group": "potato"
-      }
-    },
-    {
-      "id": "sweet_potato_ckd_bld_wo_skn_w_salt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.9,
-          "gram_equivalent": 328
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.2,
-          "gram_equivalent": 151
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11876)",
-      "relations": {
-        "group": "potato"
-      }
-    },
-    {
-      "id": "tomatoes_red_ripe_ckd_w_salt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.7,
-          "gram_equivalent": 240
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.4,
-          "gram_equivalent": 120
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11884)",
-      "relations": {
-        "group": "tomato"
       }
     },
     {
@@ -7925,60 +7250,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11891)"
-    },
-    {
-      "id": "turnip_grns_frz_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 518.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1141.6,
-          "gram_equivalent": 220
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 425.5,
-          "gram_equivalent": 82
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11892)"
-    },
-    {
-      "id": "turnip_grnsturnips_frz_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 415.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 676.6,
-          "gram_equivalent": 163
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 357.0,
-          "gram_equivalent": 86
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11893)"
     },
     {
       "id": "yam_ckd_bld_drnd_or_bkd_wsalt",
@@ -8416,33 +7687,7 @@
           "gram_equivalent": 12
         }
       ],
-      "source": "USDA SR28 (NDB No: 16086)",
-      "relations": {
-        "group": "peas"
-      }
-    },
-    {
-      "id": "peas_split_mature_seeds_ckd_bld_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 9.8,
-          "gram_equivalent": 196
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16386)",
+      "source": "USDA SR28 (NDB No: 16086), USDA SR28 (NDB No: 16386)",
       "relations": {
         "group": "peas"
       }
@@ -9909,30 +9154,6 @@
       }
     },
     {
-      "id": "asparagus_canned_drained",
-      "category": "vegetables",
-      "tags": [
-        "cooked",
-        "high_sodium",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 41.3
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 20076)",
-      "relations": {
-        "group": "asparagus",
-        "related_ids": [
-          "asparagus_cooked",
-          "asparagus_raw"
-        ]
-      }
-    },
-    {
       "id": "red_cabbage_boiledcooked_in_water",
       "category": "vegetables",
       "tags": [
@@ -11182,7 +10403,7 @@
           "gram_equivalent": 170
         }
       ],
-      "source": "USDA SR28 (NDB No: 11164)",
+      "source": "USDA SR28 (NDB No: 11164), USDA SR28 (NDB No: 11769)",
       "relations": {
         "group": "kale"
       }
@@ -11263,31 +10484,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11768)",
-      "relations": {
-        "group": "kale"
-      }
-    },
-    {
-      "id": "collards_frz_chopd_ckd_bld_drnd_wsalt",
-      "category": "vegetables",
-      "tags": [
-        "cruciferous",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 623.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 1059.4,
-          "gram_equivalent": 170
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11769)",
       "relations": {
         "group": "kale"
       }

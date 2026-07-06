@@ -401,20 +401,10 @@
     "alternative_names": [],
     "description": "Jogurt, pln, nízkotučný, 12 gramov prot na 8 oz."
   },
-  "yogurt_pln_skim_milk_13_grams_prot_per_8_oz": {
-    "name": "Jogurt, pln, odstredené mlieko, 13 gramov prot na 8 oz",
-    "alternative_names": [],
-    "description": "Jogurt, pln, odstredené mlieko, 13 gramov prot na 8 oz."
-  },
   "yogurt_vanilla_lofat_11_grams_prot_per_8_oz": {
     "name": "Jogurt, vanilka, nízkotučný, 11 gramov prot na 8 oz",
     "alternative_names": [],
     "description": "Jogurt, vanilka, nízkotučný, 11 gramov prot na 8 oz."
-  },
-  "yogurt_fruit_lofat_9_grams_prot_per_8_oz": {
-    "name": "Jogurt, ovocie, nízkotučný, 9 gramov prot na 8 oz",
-    "alternative_names": [],
-    "description": "Jogurt, ovocie, nízkotučný, 9 gramov prot na 8 oz."
   },
   "egg_whl_raw_frsh": {
     "name": "Vajcia, whl, surové, čerstvé",
@@ -430,11 +420,6 @@
     "name": "Vajcia, žĺtok, surové, mrazené, minulé",
     "alternative_names": [],
     "description": "Vajcia, žĺtok, surové, mrazené, minulé."
-  },
-  "egg_yolk_raw_frz_sugared_past": {
-    "name": "Vajcia, žĺtok, surové, mrazené, s cukrom, minulé",
-    "alternative_names": [],
-    "description": "Vajcia, žĺtok, surové, mrazené, s cukrom, minulé."
   },
   "egg_whl_ckd_fried": {
     "name": "Vajcia, whl, varené, vyprážané",
@@ -511,11 +496,6 @@
     "alternative_names": [],
     "description": "Syr, kozí, mäkký typ."
   },
-  "egg_yolk_raw_frz_salted_past": {
-    "name": "Vajcia, žĺtok, surové, mrazené, solené, minulé",
-    "alternative_names": [],
-    "description": "Vajcia, žĺtok, surové, mrazené, solené, minulé."
-  },
   "cheese_sub_mozzarella": {
     "name": "Syr sub, mozzarella",
     "alternative_names": [],
@@ -576,11 +556,6 @@
     "alternative_names": [],
     "description": "Vaječná zmes, ."
   },
-  "milk_whl_325_milkfat_wo_added_vit_a_vitamin_d": {
-    "name": "Mlieko, whl, 3,25 % mliečneho tuku, s prídavkom vitamínu A a vitamínu D",
-    "alternative_names": [],
-    "description": "Mlieko, whl, 3,25 % mliečneho tuku, s prídavkom vitamínu A a vitamínu D."
-  },
   "milk_cnd_evap_wo_added_vit_a_vitamin_d": {
     "name": "Mlieko, konzervované, evap, bez/ pridaný vit a & vitamín d",
     "alternative_names": [],
@@ -610,11 +585,6 @@
     "name": "Proteínová výživa, mlieko bsd, svalové mlieko, prášok",
     "alternative_names": [],
     "description": "Proteínová výživa, mlieko bsd, svalové mlieko, prášok."
-  },
-  "protein_supp_milk_bsd_muscle_milk_lt_pdr": {
-    "name": "Protein supp, mlieko bsd, svalové mlieko ľahké, prášok",
-    "alternative_names": [],
-    "description": "Protein supp, mlieko bsd, svalové mlieko ľahké, prášok."
   },
   "cheese_dry_white_queso_seco": {
     "name": "Syr, suchý biely, queso seco",
@@ -665,16 +635,6 @@
     "name": "Syr, minulý proces, americký, s pridaným vitamínom d",
     "alternative_names": [],
     "description": "Syr, minulý proces, americký, s pridaným vitamínom d."
-  },
-  "cheese_fd_past_process_american_wo_added_vita": {
-    "name": "Syr fd, minulý proces, americký, bez/ pridaný vitamín d",
-    "alternative_names": [],
-    "description": "Syr fd, minulý proces, americký, bez/ pridaný vitamín d."
-  },
-  "egg_whl_raw_frz_salted_past": {
-    "name": "Vajcia, whl, surové, mrazené, solené, minulé",
-    "alternative_names": [],
-    "description": "Vajcia, whl, surové, mrazené, solené, minulé."
   },
   "yogurt_greek_pln_nonfat": {
     "name": "Jogurt, grécky, pln, nemastný",
@@ -766,11 +726,6 @@
     "alternative_names": [],
     "description": "Sladový nápoj mix, čokoláda, s prídavkom Nutramigen, prášok, príprava s mliekom."
   },
-  "malted_drk_mix_choc_pdr_prep_w_whl_milk": {
-    "name": "Sladový nápoj mix, čokoláda, prášok, príprava s s/ whl mlieko",
-    "alternative_names": [],
-    "description": "Sladový nápoj mix, čokoláda, prášok, príprava s s/ whl mlieko."
-  },
   "crackers_milk": {
     "name": "Krekry, mlieko",
     "alternative_names": [],
@@ -811,11 +766,6 @@
     "alternative_names": [],
     "description": "Pudingy, čokoláda, suchá zmes, reg, príprava s 2 % mlieka."
   },
-  "egg_custards_dry_mix_prep_w_2_milk": {
-    "name": "Vaječné pudingy, suchá zmes, príprava s 2 % mlieka",
-    "alternative_names": [],
-    "description": "Vaječné pudingy, suchá zmes, príprava s 2 % mlieka."
-  },
   "puddings_vanilla_dry_mix_reg_prep_w_whl_milk": {
     "name": "Pudingy, vanilka, suchá zmes, reg, príprava s mliekom",
     "alternative_names": [],
@@ -825,11 +775,6 @@
     "name": "Pudingy, banán, suchá zmes, inšt., príprava s mliekom",
     "alternative_names": [],
     "description": "Pudingy, banán, suchá zmes, inšt., príprava s mliekom."
-  },
-  "puddings_banana_dry_mix_reg_prep_w_whl_milk": {
-    "name": "Pudingy, banán, suchá zmes, reg, príprava s swhl mliekom",
-    "alternative_names": [],
-    "description": "Pudingy, banán, suchá zmes, reg, príprava s swhl mliekom."
   },
   "fast_foods_biscuit_weggbacon": {
     "name": "Rýchle občerstvenie, sušienky, s vajcom a slaninou",
@@ -870,11 +815,6 @@
     "name": "Burger king, croissan'wich s klobásou, vajcom a syr",
     "alternative_names": [],
     "description": "Burger king, croissan'wich s klobásou, vajcom a syr."
-  },
-  "burger_king_croissanwich_w_egg_chs": {
-    "name": "Burger king, croissan'wich s vajcom a syr",
-    "alternative_names": [],
-    "description": "Burger king, croissan'wich s vajcom a syr."
   },
   "yogurt_parfait_lowfat_w_fruit_granola": {
     "name": "Jogurtový parfait, nízkotučný, s ovocím a granolou",
@@ -1405,11 +1345,6 @@
     "name": "Tavený syr, z kravského mlieka, hranatý, neobohatený vitamínmi",
     "alternative_names": [],
     "description": "Tavený syr, z kravského mlieka, hranatý, neobohatený vitamínmi."
-  },
-  "processed_cheese_from_cows_milk_square_or_on_stick_fortified_with_vitamins": {
-    "name": "Tavený syr, z kravského mlieka, hranatý alebo na tyčinke, obohatený o vitamíny",
-    "alternative_names": [],
-    "description": "Tavený syr, z kravského mlieka, hranatý alebo na tyčinke, obohatený o vitamíny."
   },
   "processed_cheese_with_fresh_cream_cheese_and_walnuts_from_cows_milk": {
     "name": "Tavený syr s čerstvým smotanovým syrom a vlašskými orechmi, z kravského mlieka",

@@ -130,11 +130,6 @@
     "alternative_names": [],
     "description": "Lima bns, immat seeds, frozen, fordhook, cooked, boiled, drained, withoutsalt."
   },
-  "lima_bns_immat_seeds_frz_baby_ckd_bld_drnd_wo": {
-    "name": "Lima bns, immat seeds, frozen, baby, cooked, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Lima bns, immat seeds, frozen, baby, cooked, boiled, drained, withoutsalt."
-  },
   "mung_bns_mature_seeds_sprouted_raw": {
     "name": "Mung bns, mature seeds, sprouted, raw",
     "alternative_names": [],
@@ -260,11 +255,6 @@
     "alternative_names": [],
     "description": "Beans, mung, mature seeds, sprouted, canned, drained solids."
   },
-  "lima_bns_immat_seeds_ckd_bld_drnd_wsalt": {
-    "name": "Lima bns, immat seeds, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Lima bns, immat seeds, cooked, boiled, drained, withsalt."
-  },
   "lima_bns_immat_seeds_cnd_no_salt_solliquids": {
     "name": "Lima bns, immat seeds, canned, no salt, solids&liquids",
     "alternative_names": [],
@@ -275,16 +265,6 @@
     "alternative_names": [],
     "description": "Lima bns, immat seeds, frozen, baby, cooked, boiled, drained, withsalt."
   },
-  "beans_snap_grn_ckd_bld_drnd_wsalt": {
-    "name": "Beans, snap, grn, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Beans, snap, grn, cooked, boiled, drained, withsalt."
-  },
-  "beans_snap_yel_ckd_bld_drnd_wosalt": {
-    "name": "Beans, snap, yellow, cooked, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Beans, snap, yellow, cooked, boiled, drained, withoutsalt."
-  },
   "beans_snap_yel_ckd_bld_drnd_wsalt": {
     "name": "Beans, snap, yellow, cooked, boiled, drained, withsalt",
     "alternative_names": [],
@@ -294,16 +274,6 @@
     "name": "Beans, snap, grn, canned, no salt, drained solids",
     "alternative_names": [],
     "description": "Beans, snap, grn, canned, no salt, drained solids."
-  },
-  "beans_snap_grn_frz_ckd_bld_drnd_wsalt": {
-    "name": "Beans, snap, grn, frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Beans, snap, grn, frozen, cooked, boiled, drained, withsalt."
-  },
-  "beans_snap_yel_frz_ckd_bld_drnd_wosalt": {
-    "name": "Beans, snap, yellow, frozen, cooked, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Beans, snap, yellow, frozen, cooked, boiled, drained, withoutsalt."
   },
   "beans_snap_yel_frz_ckd_bld_drnd_wsalt": {
     "name": "Beans, snap, yellow, frozen, cooked, boiled, drained, withsalt",
@@ -319,11 +289,6 @@
     "name": "Peppers, hot chili, red, canned, excluding seeds, solids&liquids",
     "alternative_names": [],
     "description": "Peppers, hot chili, red, canned, excluding seeds, solids&liquids."
-  },
-  "pigeonpeas_immat_seeds_ckd_bld_drnd_wsalt": {
-    "name": "Pigeonpeas, immat seeds, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Pigeonpeas, immat seeds, cooked, boiled, drained, withsalt."
   },
   "pumpkin_ckd_bld_drnd_wsalt": {
     "name": "Pumpkin, cooked, boiled, drained, withsalt",
@@ -520,11 +485,6 @@
     "alternative_names": [],
     "description": "Beans, white, mature seeds, raw."
   },
-  "beans_white_mature_seeds_ckd_bld_wosalt": {
-    "name": "Beans, white, mature seeds, cooked, boiled, withoutsalt",
-    "alternative_names": [],
-    "description": "Beans, white, mature seeds, cooked, boiled, withoutsalt."
-  },
   "beans_white_mature_seeds_cnd": {
     "name": "Beans, white, mature seeds, canned",
     "alternative_names": [],
@@ -600,11 +560,6 @@
     "alternative_names": [],
     "description": "Mung bns, mature seeds, cooked, boiled, withoutsalt."
   },
-  "mungo_bns_mature_seeds_ckd_bld_wosalt": {
-    "name": "Mungo bns, mature seeds, cooked, boiled, withoutsalt",
-    "alternative_names": [],
-    "description": "Mungo bns, mature seeds, cooked, boiled, withoutsalt."
-  },
   "soybeans_mature_seeds_raw": {
     "name": "Soybeans, mature seeds, raw",
     "alternative_names": [],
@@ -625,35 +580,10 @@
     "alternative_names": [],
     "description": "Soybeans, mature seeds, dry rstd."
   },
-  "beans_kidney_red_mature_seeds_ckd_bld_wsalt": {
-    "name": "Beans, kidney, red, mature seeds, cooked, boiled, withsalt",
-    "alternative_names": [],
-    "description": "Beans, kidney, red, mature seeds, cooked, boiled, withsalt."
-  },
-  "beans_navy_mature_seeds_ckd_bld_wsalt": {
-    "name": "Beans, navy, mature seeds, cooked, boiled, withsalt",
-    "alternative_names": [],
-    "description": "Beans, navy, mature seeds, cooked, boiled, withsalt."
-  },
-  "beans_pink_mature_seeds_ckd_bld_wsalt": {
-    "name": "Beans, pink, mature seeds, cooked, boiled, withsalt",
-    "alternative_names": [],
-    "description": "Beans, pink, mature seeds, cooked, boiled, withsalt."
-  },
-  "beans_pinto_mature_seeds_ckd_bld_wsalt": {
-    "name": "Beans, pinto, mature seeds, cooked, boiled, withsalt",
-    "alternative_names": [],
-    "description": "Beans, pinto, mature seeds, cooked, boiled, withsalt."
-  },
   "beans_white_mature_seeds_ckd_bld_w_salt": {
     "name": "Beans, white, mature seeds, cooked, boiled, with/ salt",
     "alternative_names": [],
     "description": "Beans, white, mature seeds, cooked, boiled, with/ salt."
-  },
-  "broadbeans_mature_seeds_ckd_bld_wsalt": {
-    "name": "Broadbeans (fava bns), mature seeds, cooked, boiled, withsalt",
-    "alternative_names": [],
-    "description": "Broadbeans (fava bns), mature seeds, cooked, boiled, withsalt."
   },
   "chickpeas_mature_seeds_ckd_bld_wsalt": {
     "name": "Chickpeas, mature seeds, cooked, boiled, withsalt",
@@ -669,16 +599,6 @@
     "name": "Lentils, mature seeds, cooked, boiled, withsalt",
     "alternative_names": [],
     "description": "Lentils, mature seeds, cooked, boiled, withsalt."
-  },
-  "lima_bns_lrg_mature_seeds_ckd_bld_wsalt": {
-    "name": "Lima bns, lrg, mature seeds, cooked, boiled, withsalt",
-    "alternative_names": [],
-    "description": "Lima bns, lrg, mature seeds, cooked, boiled, withsalt."
-  },
-  "mung_bns_mature_seeds_ckd_bld_wsalt": {
-    "name": "Mung bns, mature seeds, cooked, boiled, withsalt",
-    "alternative_names": [],
-    "description": "Mung bns, mature seeds, cooked, boiled, withsalt."
   },
   "mungo_bns_mature_seeds_ckd_bld_wsalt": {
     "name": "Mungo bns, mature seeds, cooked, boiled, withsalt",

@@ -587,7 +587,7 @@
           "gram_equivalent": 170
         }
       ],
-      "source": "USDA SR28 (NDB No: 11032)",
+      "source": "USDA SR28 (NDB No: 11032), USDA SR28 (NDB No: 11714)",
       "relations": {
         "group": "seed"
       }
@@ -649,38 +649,7 @@
           "gram_equivalent": 311
         }
       ],
-      "source": "USDA SR28 (NDB No: 11038)",
-      "relations": {
-        "group": "seed"
-      }
-    },
-    {
-      "id": "lima_bns_immat_seeds_frz_baby_ckd_bld_drnd_wo",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 9.4,
-          "gram_equivalent": 180
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 16.2,
-          "gram_equivalent": 311
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11040)",
+      "source": "USDA SR28 (NDB No: 11038), USDA SR28 (NDB No: 11040)",
       "relations": {
         "group": "seed"
       }
@@ -822,7 +791,7 @@
           "gram_equivalent": 125
         }
       ],
-      "source": "USDA SR28 (NDB No: 11053)",
+      "source": "USDA SR28 (NDB No: 11053), USDA SR28 (NDB No: 11723), USDA SR28 (NDB No: 11724)",
       "relations": {
         "group": "beans"
       }
@@ -940,7 +909,7 @@
           "gram_equivalent": 135
         }
       ],
-      "source": "USDA SR28 (NDB No: 11061)",
+      "source": "USDA SR28 (NDB No: 11061), USDA SR28 (NDB No: 11731), USDA SR28 (NDB No: 11732)",
       "relations": {
         "group": "beans"
       }
@@ -1224,7 +1193,7 @@
           "gram_equivalent": 153
         }
       ],
-      "source": "USDA SR28 (NDB No: 11345)",
+      "source": "USDA SR28 (NDB No: 11345), USDA SR28 (NDB No: 11826)",
       "relations": {
         "group": "seed"
       }
@@ -1388,31 +1357,6 @@
       }
     },
     {
-      "id": "lima_bns_immat_seeds_ckd_bld_drnd_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 10.5,
-          "gram_equivalent": 170
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11714)",
-      "relations": {
-        "group": "seed"
-      }
-    },
-    {
       "id": "lima_bns_immat_seeds_cnd_no_salt_solliquids",
       "category": "nuts_seeds",
       "tags": [
@@ -1475,56 +1419,6 @@
       }
     },
     {
-      "id": "beans_snap_grn_ckd_bld_drnd_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 16.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 20.0,
-          "gram_equivalent": 125
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11723)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
-      "id": "beans_snap_yel_ckd_bld_drnd_wosalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 16.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 20.0,
-          "gram_equivalent": 125
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11724)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
       "id": "beans_snap_yel_ckd_bld_drnd_wsalt",
       "category": "nuts_seeds",
       "tags": [
@@ -1576,56 +1470,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 11729)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
-      "id": "beans_snap_grn_frz_ckd_bld_drnd_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 12.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 17.1,
-          "gram_equivalent": 135
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11731)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
-      "id": "beans_snap_yel_frz_ckd_bld_drnd_wosalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 12.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 17.1,
-          "gram_equivalent": 135
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11732)",
       "relations": {
         "group": "beans"
       }
@@ -1710,32 +1554,6 @@
       "source": "USDA SR28 (NDB No: 11820)",
       "relations": {
         "group": "pepper"
-      }
-    },
-    {
-      "id": "pigeonpeas_immat_seeds_ckd_bld_drnd_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 19.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 30.3,
-          "gram_equivalent": 153
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11826)",
-      "relations": {
-        "group": "seed"
       }
     },
     {
@@ -2605,7 +2423,7 @@
           "gram_equivalent": 11
         }
       ],
-      "source": "USDA SR28 (NDB No: 16033)",
+      "source": "USDA SR28 (NDB No: 16033), USDA SR28 (NDB No: 16333)",
       "relations": {
         "group": "beans"
       }
@@ -2693,7 +2511,7 @@
           "gram_equivalent": 182
         }
       ],
-      "source": "USDA SR28 (NDB No: 16038)",
+      "source": "USDA SR28 (NDB No: 16038), USDA SR28 (NDB No: 16338)",
       "relations": {
         "group": "beans"
       }
@@ -2748,7 +2566,7 @@
           "gram_equivalent": 169
         }
       ],
-      "source": "USDA SR28 (NDB No: 16041)",
+      "source": "USDA SR28 (NDB No: 16041), USDA SR28 (NDB No: 16341)",
       "relations": {
         "group": "beans"
       }
@@ -2813,7 +2631,7 @@
           "gram_equivalent": 10
         }
       ],
-      "source": "USDA SR28 (NDB No: 16043)",
+      "source": "USDA SR28 (NDB No: 16043), USDA SR28 (NDB No: 16050), USDA SR28 (NDB No: 16343)",
       "relations": {
         "group": "beans"
       }
@@ -2884,38 +2702,6 @@
         "related_ids": [
           "beans_white_mature_seeds_cnd"
         ]
-      }
-    },
-    {
-      "id": "beans_white_mature_seeds_ckd_bld_wosalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.3,
-          "gram_equivalent": 179
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.4,
-          "gram_equivalent": 11
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16050)",
-      "relations": {
-        "group": "beans"
       }
     },
     {
@@ -3001,7 +2787,7 @@
           "gram_equivalent": 170
         }
       ],
-      "source": "USDA SR28 (NDB No: 16053)",
+      "source": "USDA SR28 (NDB No: 16053), USDA SR28 (NDB No: 16353)",
       "relations": {
         "group": "seed"
       }
@@ -3275,7 +3061,7 @@
           "gram_equivalent": 11
         }
       ],
-      "source": "USDA SR28 (NDB No: 16072)",
+      "source": "USDA SR28 (NDB No: 16072), USDA SR28 (NDB No: 16372)",
       "relations": {
         "group": "seed"
       }
@@ -3358,38 +3144,7 @@
           "gram_equivalent": 202
         }
       ],
-      "source": "USDA SR28 (NDB No: 16081)",
-      "relations": {
-        "group": "seed"
-      }
-    },
-    {
-      "id": "mungo_bns_mature_seeds_ckd_bld_wosalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.9,
-          "gram_equivalent": 180
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.9,
-          "gram_equivalent": 69
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16084)",
+      "source": "USDA SR28 (NDB No: 16081), USDA SR28 (NDB No: 16084), USDA SR28 (NDB No: 16381)",
       "relations": {
         "group": "seed"
       }
@@ -3510,110 +3265,6 @@
       }
     },
     {
-      "id": "beans_kidney_red_mature_seeds_ckd_bld_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 8.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 14.9,
-          "gram_equivalent": 177
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16333)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
-      "id": "beans_navy_mature_seeds_ckd_bld_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 1.1,
-          "gram_equivalent": 182
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16338)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
-      "id": "beans_pink_mature_seeds_ckd_bld_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.3,
-          "gram_equivalent": 169
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16341)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
-      "id": "beans_pinto_mature_seeds_ckd_bld_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 6.0,
-          "gram_equivalent": 171
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16343)",
-      "relations": {
-        "group": "beans"
-      }
-    },
-    {
       "id": "beans_white_mature_seeds_ckd_bld_w_salt",
       "category": "nuts_seeds",
       "tags": [
@@ -3637,32 +3288,6 @@
       "source": "USDA SR28 (NDB No: 16350)",
       "relations": {
         "group": "beans"
-      }
-    },
-    {
-      "id": "broadbeans_mature_seeds_ckd_bld_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "legumes",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 4.9,
-          "gram_equivalent": 170
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16353)",
-      "relations": {
-        "group": "seed"
       }
     },
     {
@@ -3741,56 +3366,6 @@
       "source": "USDA SR28 (NDB No: 16370)",
       "relations": {
         "group": "beans"
-      }
-    },
-    {
-      "id": "lima_bns_lrg_mature_seeds_ckd_bld_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 3.8,
-          "gram_equivalent": 188
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16372)",
-      "relations": {
-        "group": "seed"
-      }
-    },
-    {
-      "id": "mung_bns_mature_seeds_ckd_bld_wsalt",
-      "category": "nuts_seeds",
-      "tags": [
-        "k1",
-        "seeds"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 5.5,
-          "gram_equivalent": 202
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 16381)",
-      "relations": {
-        "group": "seed"
       }
     },
     {

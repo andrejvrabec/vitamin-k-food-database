@@ -206,11 +206,6 @@
     "alternative_names": [],
     "description": "Apricots, canned, light syrup pack, with skin, solids&liquids."
   },
-  "apricots_cnd_hvy_syrup_pk_wskn_solliquids": {
-    "name": "Apricots, canned, heavy syrup pack, with skin, solids&liquids",
-    "alternative_names": [],
-    "description": "Apricots, canned, heavy syrup pack, with skin, solids&liquids."
-  },
   "apricots_dried_sulfured_unckd": {
     "name": "Apricots, dried, sulfured, uncooked",
     "alternative_names": [],
@@ -285,11 +280,6 @@
     "name": "Cherries, sweet, canned, water pack, solids&liquids",
     "alternative_names": [],
     "description": "Cherries, sweet, canned, water pack, solids&liquids."
-  },
-  "cherries_swt_cnd_juc_pk_solliquids": {
-    "name": "Cherries, sweet, canned, juice pack, solids&liquids",
-    "alternative_names": [],
-    "description": "Cherries, sweet, canned, juice pack, solids&liquids."
   },
   "cherries_swt_cnd_lt_syrup_pk_solliquids": {
     "name": "Cherries, sweet, canned, light syrup pack, solids&liquids",
@@ -426,11 +416,6 @@
     "alternative_names": [],
     "description": "Peaches, canned, light syrup pack, solids&liquids."
   },
-  "peaches_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Peaches, canned, heavy syrup pack, solids&liquids",
-    "alternative_names": [],
-    "description": "Peaches, canned, heavy syrup pack, solids&liquids."
-  },
   "peaches_spiced_cnd_hvy_syrup_pk_solliquids": {
     "name": "Peaches, spiced, canned, heavy syrup pack, solids&liquids",
     "alternative_names": [],
@@ -471,11 +456,6 @@
     "alternative_names": [],
     "description": "Pears, canned, light syrup pack, solids&liquids."
   },
-  "pears_cnd_hvy_syrup_pk_solliquids": {
-    "name": "Pears, canned, heavy syrup pack, solids&liquids",
-    "alternative_names": [],
-    "description": "Pears, canned, heavy syrup pack, solids&liquids."
-  },
   "pears_dried_sulfured_unckd": {
     "name": "Pears, dried, sulfured, uncooked",
     "alternative_names": [],
@@ -506,20 +486,10 @@
     "alternative_names": [],
     "description": "Plums, canned, purple, water pack, solids&liquids."
   },
-  "plums_cnd_purple_juc_pk_solliquids": {
-    "name": "Plums, canned, purple, juice pack, solids&liquids",
-    "alternative_names": [],
-    "description": "Plums, canned, purple, juice pack, solids&liquids."
-  },
   "plums_cnd_purple_lt_syrup_pk_solliquids": {
     "name": "Plums, canned, purple, light syrup pack, solids&liquids",
     "alternative_names": [],
     "description": "Plums, canned, purple, light syrup pack, solids&liquids."
-  },
-  "plums_cnd_purple_hvy_syrup_pk_solliquids": {
-    "name": "Plums, canned, purple, heavy syrup pack, solids&liquids",
-    "alternative_names": [],
-    "description": "Plums, canned, purple, heavy syrup pack, solids&liquids."
   },
   "plums_dried_unckd": {
     "name": "Plums, dried (prunes), uncooked",
@@ -680,16 +650,6 @@
     "name": "Balsam-pear (bitter gourd), pods, cooked, boiled, drained, withoutsalt",
     "alternative_names": [],
     "description": "Balsam-pear (bitter gourd), pods, cooked, boiled, drained, withoutsalt."
-  },
-  "balsam_pear_leafy_tips_ckd_bld_drnd_wsalt": {
-    "name": "Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, withsalt."
-  },
-  "balsam_pear_pods_ckd_bld_drnd_wsalt": {
-    "name": "Balsam-pear (bitter gourd), pods, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Balsam-pear (bitter gourd), pods, cooked, boiled, drained, withsalt."
   },
   "grape_leaves_raw": {
     "name": "Grape leaves, raw",
@@ -1021,11 +981,6 @@
     "name": "Orange juice, frozen concentrate, unswtnd, dil with3 volumes of water",
     "alternative_names": [],
     "description": "Orange juice, frozen concentrate, unswtnd, dil with3 volumes of water."
-  },
-  "orange_grapefruit_juc_cnd_unswtnd": {
-    "name": "Orange-grapefruit juice, canned, unswtnd",
-    "alternative_names": [],
-    "description": "Orange-grapefruit juice, canned, unswtnd."
   },
   "pomegranates_raw": {
     "name": "Pomegranates, raw",

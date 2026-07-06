@@ -669,11 +669,6 @@
     "alternative_names": [],
     "description": "Babyfood, fruit, prunes withtapioca, withoutvit c, str."
   },
-  "babyfood_fruit_prunes_wtapioca_wovit_c_jr": {
-    "name": "Babyfood, fruit, prunes withtapioca, withoutvit c, jr",
-    "alternative_names": [],
-    "description": "Babyfood, fruit, prunes withtapioca, withoutvit c, jr."
-  },
   "babyfood_prunes_wovit_c_str": {
     "name": "Babyfood, prunes, withoutvit c, str",
     "alternative_names": [],
@@ -708,11 +703,6 @@
     "name": "Babyfood, fruit, applsauc & cherries, jr",
     "alternative_names": [],
     "description": "Babyfood, fruit, applsauc & cherries, jr."
-  },
-  "babyfood_fruit_applsauc_wbanana_jr": {
-    "name": "Babyfood, fruit, applsauc withbanana, jr",
-    "alternative_names": [],
-    "description": "Babyfood, fruit, applsauc withbanana, jr."
   },
   "babyfood_fruit_appl_raspberry_str": {
     "name": "Babyfood, fruit, apple & raspberry, str",
@@ -1034,20 +1024,10 @@
     "alternative_names": [],
     "description": "Babyfood, crl, mixed, withbananas, prepared withwhl milk."
   },
-  "babyfood_crl_oatmeal_wbananas_prep_wwhl_milk": {
-    "name": "Babyfood, crl, oatmeal, withbananas, prepared withwhl milk",
-    "alternative_names": [],
-    "description": "Babyfood, crl, oatmeal, withbananas, prepared withwhl milk."
-  },
   "babyfood_crl_rice_prep_wwhl_milk": {
     "name": "Babyfood, crl, rice, prepared withwhl milk",
     "alternative_names": [],
     "description": "Babyfood, crl, rice, prepared withwhl milk."
-  },
-  "babyfood_crl_rice_wbananas_prep_wwhl_milk": {
-    "name": "Babyfood, crl, rice, withbananas, prepared withwhl milk",
-    "alternative_names": [],
-    "description": "Babyfood, crl, rice, withbananas, prepared withwhl milk."
   },
   "inf_formula_nestle_good_start_supreme_w_iron": {
     "name": "Infant formula, nestle, good start supreme, with iron, ready-to-feed",
@@ -1069,11 +1049,6 @@
     "alternative_names": [],
     "description": "Infant formula, mead johnson, enfamil, with iron, powder."
   },
-  "infant_formula_mead_johnson_enfamil_lo_iron_r": {
-    "name": "Infant formula, mead johnson, enfamil, lo iron, ready-to-feed",
-    "alternative_names": [],
-    "description": "Infant formula, mead johnson, enfamil, lo iron, ready-to-feed."
-  },
   "inf_formula_mead_johnson_enfamillipil_wirn_pd": {
     "name": "Infant formula, mead johnson, Enfamil Lipil, withirn, powder, with ARA and DHA",
     "alternative_names": [],
@@ -1084,11 +1059,6 @@
     "alternative_names": [],
     "description": "Infant formula, mead johnson, enfamil, lo iron, powder, not recon."
   },
-  "inf_formula_mead_johnson_enfamil_nutramigen_w": {
-    "name": "Infant formula, mead johnson, enfamil, nutramigen, with iron, ready-to-feed",
-    "alternative_names": [],
-    "description": "Infant formula, mead johnson, enfamil, nutramigen, with iron, ready-to-feed."
-  },
   "inf_form_mead_johnson_enfamil_nutramigen_wiro": {
     "name": "Infant formula, mead johnson, enfamil, nutramigen, with iron, powder, not reconstituted",
     "alternative_names": [],
@@ -1098,11 +1068,6 @@
     "name": "Inf formmead john, enfamil lipil, with iron, ready-to-feed, with ARA and DHA",
     "alternative_names": [],
     "description": "Inf formmead john, enfamil lipil, with iron, ready-to-feed, with ARA and DHA."
-  },
-  "inf_form_me_johns_enfamil_lipil_lo_iron_pdr_w": {
-    "name": "Infant formula, Mead Johnson, enfamil, lipil, lo iron, powder, with ARA and DHA",
-    "alternative_names": [],
-    "description": "Infant formula, Mead Johnson, enfamil, lipil, lo iron, powder, with ARA and DHA."
   },
   "child_formula_mead_johnson_portagen_w_iron_pd": {
     "name": "Toddler formula, mead johnson, portagen, with iron, powder, not recon",
@@ -1118,11 +1083,6 @@
     "name": "Infant formula, mead johnson, pregestimil, with iron, powder, not recon",
     "alternative_names": [],
     "description": "Infant formula, mead johnson, pregestimil, with iron, powder, not recon."
-  },
-  "inf_formula_mead_johnson_prosobee_w_iron_rtf": {
-    "name": "Infant formula, mead johnson, prosobee, with iron, ready-to-feed",
-    "alternative_names": [],
-    "description": "Infant formula, mead johnson, prosobee, with iron, ready-to-feed."
   },
   "infant_formula_mead_johnson_prosobee_wiron_li": {
     "name": "Infant formula, mead johnson, prosobee, with iron, liquids cnc, not rec",
@@ -1179,21 +1139,6 @@
     "alternative_names": [],
     "description": "Inffor, meadjohns, enfamil, prosobee, lipil, lc, notrec, ara&dha."
   },
-  "inf_formula_abbott_nutr_similac_lo_iron_rtf": {
-    "name": "Infant formula, abbott Nutramigen, similac, lo iron, ready-to-feed (formerly ross)",
-    "alternative_names": [],
-    "description": "Infant formula, abbott Nutramigen, similac, lo iron, ready-to-feed (formerly ross)."
-  },
-  "inf_formula_abbott_nutr_similac_lo_iron_liq_c": {
-    "name": "Infant formula, abbott Nutramigen, similac, lo iron, liquids concentrate, not recon",
-    "alternative_names": [],
-    "description": "Infant formula, abbott Nutramigen, similac, lo iron, liquids concentrate, not recon."
-  },
-  "inf_formula_abbott_nutr_similac_lo_iron_pdr_n": {
-    "name": "Infant formula, abbott Nutramigen, similac, lo iron, powder, not recon",
-    "alternative_names": [],
-    "description": "Infant formula, abbott Nutramigen, similac, lo iron, powder, not recon."
-  },
   "inf_formula_nestle_good_start_soy_w_dha_ara_r": {
     "name": "Infant formula, nestle, good start soy, with/ dha & ara, ready-to-feed",
     "alternative_names": [],
@@ -1209,11 +1154,6 @@
     "alternative_names": [],
     "description": "Infant formula, nestle, good start soy, with ARA and DHA, powder."
   },
-  "inf_formula_mead_johnson_enfamil_lactofree_rt": {
-    "name": "Infant formula, mead johnson, enfamil, lactofree, ready-to-feed",
-    "alternative_names": [],
-    "description": "Infant formula, mead johnson, enfamil, lactofree, ready-to-feed."
-  },
   "inf_formula_mead_johnson_enfamil_lactofree_w": {
     "name": "Infant formula, mead johnson, enfamil, lactofree, with/ irn, powder, notrec",
     "alternative_names": [],
@@ -1223,16 +1163,6 @@
     "name": "Infant formula, pbm products, ultra bright beginnings, powder",
     "alternative_names": [],
     "description": "Infant formula, pbm products, ultra bright beginnings, powder."
-  },
-  "inf_formula_nestle_good_start_2_essentials_w": {
-    "name": "Infant formula, nestle, good start 2 essentials, with iron, ready-to-feed",
-    "alternative_names": [],
-    "description": "Infant formula, nestle, good start 2 essentials, with iron, ready-to-feed."
-  },
-  "inf_formula_nestle_good_start_essentials_soy": {
-    "name": "Infant formula, nestle, good start essentials soy, with iron, ready-to-feed",
-    "alternative_names": [],
-    "description": "Infant formula, nestle, good start essentials soy, with iron, ready-to-feed."
   },
   "inf_formula_mead_johnson_next_step_prosobee_p": {
     "name": "Infant formula, mead johnson, next step prosobee, powder, not recon",
@@ -1264,25 +1194,10 @@
     "alternative_names": [],
     "description": "Infant formula, mead johnson, enfamil, ar lipil, ready-to-feed, with ARA and DHA."
   },
-  "inf_formula_mead_johnson_enfamil_ar_lipil_pdr": {
-    "name": "Infant formula, mead johnson, enfamil, ar lipil, powder, with ARA and DHA",
-    "alternative_names": [],
-    "description": "Infant formula, mead johnson, enfamil, ar lipil, powder, with ARA and DHA."
-  },
   "inf_form_abbott_similac_neosure_pdr_w_ara_dha": {
     "name": "Infant formula, abbott , similac, neosure, powder, with ARA and DHA",
     "alternative_names": [],
     "description": "Infant formula, abbott , similac, neosure, powder, with ARA and DHA."
-  },
-  "inf_formula_abbott_nutr_similac_advance_w_iro": {
-    "name": "Infant formula, abbott Nutramigen, similac, advance, with iron, ready-to-feed",
-    "alternative_names": [],
-    "description": "Infant formula, abbott Nutramigen, similac, advance, with iron, ready-to-feed."
-  },
-  "inf_formula_abbott_nutr_similac_advanc_w_iron": {
-    "name": "Infant formula, abbott Nutramigen, similac, advanc, with iron, powder, not recon",
-    "alternative_names": [],
-    "description": "Infant formula, abbott Nutramigen, similac, advanc, with iron, powder, not recon."
   },
   "inf_formu_abbo_nutr_similac_advan_w_iron_liq": {
     "name": "Inf formu, abbo Nutramigen, similac, advan, with iron, liquids concentrate, not recon",
@@ -1458,11 +1373,6 @@
     "name": "Soup, cream of onion, canned, condensed",
     "alternative_names": [],
     "description": "Soup, cream of onion, canned, condensed."
-  },
-  "soup_pea_grn_cnd_cond": {
-    "name": "Soup, pea, grn, canned, condensed",
-    "alternative_names": [],
-    "description": "Soup, pea, grn, canned, condensed."
   },
   "soup_pea_split_wham_cnd_chunky_rts": {
     "name": "Soup, pea, split withham, canned, chunky, rts",
@@ -2329,11 +2239,6 @@
     "alternative_names": [],
     "description": "Snacks, granola bar, fruit-filled, nonfat."
   },
-  "potato_chips_fat_free_salted": {
-    "name": "Potato chips, fat free, salted",
-    "alternative_names": [],
-    "description": "Potato chips, fat free, salted."
-  },
   "snacks_kelloggs_nutri_grain_crl_bars_fruit": {
     "name": "Snacks, kellogg's, nutri-grain crl bars, fruit",
     "alternative_names": [],
@@ -2393,11 +2298,6 @@
     "name": "Chocolate, dark, 45- 59% cacao solids",
     "alternative_names": [],
     "description": "Chocolate, dark, 45- 59% cacao solids."
-  },
-  "candies_choc_dk_nfs_45_59_cacao_sol_90_60_69": {
-    "name": "Candies, chocolate, dark, nfs (45-59% cacao solids 90%; 60-69% cacao solids",
-    "alternative_names": [],
-    "description": "Candies, chocolate, dark, nfs (45-59% cacao solids 90%; 60-69% cacao solids."
   },
   "candies_crispy_bar_w_pnut_butter_filling": {
     "name": "Candies, crispy bar with/ peanut butter filling",
@@ -2509,11 +2409,6 @@
     "alternative_names": [],
     "description": "\"little caesars 14\" original rnd cheese pizza, regular crust\"."
   },
-  "little_caesars_14_original_rnd_pepperoni_pizz": {
-    "name": "Little caesars 14\" original rnd pepperoni pizza, regular crust",
-    "alternative_names": [],
-    "description": "\"little caesars 14\" original rnd pepperoni pizza, regular crust\"."
-  },
   "little_caesars_14_original_rnd_meat_veg_pizza": {
     "name": "Little caesars 14\" original rnd meat & vegetable pizza, regular crust",
     "alternative_names": [],
@@ -2593,11 +2488,6 @@
     "name": "Digiorno pizza, pepperoni topping, thin crispy crust, frozen, baked",
     "alternative_names": [],
     "description": "Digiorno pizza, pepperoni topping, thin crispy crust, frozen, baked."
-  },
-  "digiorno_pizza_supreme_topping_rising_crust_f": {
-    "name": "Digiorno pizza, supreme topping, rising crust, frozen, baked",
-    "alternative_names": [],
-    "description": "Digiorno pizza, supreme topping, rising crust, frozen, baked."
   },
   "digiorno_pizza_supreme_topping_thin_crispy_cr": {
     "name": "Digiorno pizza, supreme topping, thin crispy crust, frozen, baked",
@@ -3599,11 +3489,6 @@
     "alternative_names": [],
     "description": "Salad dressing, mayo, imitn, soybn."
   },
-  "salad_drsng_mayo_imitn_soybn_wochol": {
-    "name": "Salad dressing, mayo, imitn, soybn withoutchol",
-    "alternative_names": [],
-    "description": "Salad dressing, mayo, imitn, soybn withoutchol."
-  },
   "alcoholic_bev_wine_table_red": {
     "name": "Alcoholic beverage, wine, table, red",
     "alternative_names": [],
@@ -3628,11 +3513,6 @@
     "name": "Cocoa mix, no sugar added, powder",
     "alternative_names": [],
     "description": "Cocoa mix, no sugar added, powder."
-  },
-  "cocoa_mix_w_asprt_pdr_prep_w_h2o": {
-    "name": "Cocoa mix, with/ asprt, powder, prepared with/ h2o",
-    "alternative_names": [],
-    "description": "Cocoa mix, with/ asprt, powder, prepared with/ h2o."
   },
   "alcoholic_bev_liqueur_coffee_wcrm_34_proof": {
     "name": "Alcoholic beverage, liqueur, coffee withcrm, 34 proof",

@@ -1800,7 +1800,7 @@
           "gram_equivalent": 15
         }
       ],
-      "source": "USDA SR28 (NDB No: 01077)",
+      "source": "USDA SR28 (NDB No: 01077), USDA SR28 (NDB No: 01211)",
       "relations": {
         "group": "milk"
       }
@@ -2239,7 +2239,7 @@
           "gram_equivalent": 227
         }
       ],
-      "source": "USDA SR28 (NDB No: 01116)",
+      "source": "USDA SR28 (NDB No: 01116), USDA SR28 (NDB No: 01118)",
       "relations": {
         "group": "yogurt"
       }
@@ -2277,38 +2277,6 @@
       }
     },
     {
-      "id": "yogurt_pln_skim_milk_13_grams_prot_per_8_oz",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "fermented",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 245
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.5,
-          "gram_equivalent": 227
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01118)",
-      "relations": {
-        "group": "yogurt"
-      }
-    },
-    {
       "id": "yogurt_vanilla_lofat_11_grams_prot_per_8_oz",
       "category": "dairy_eggs",
       "tags": [
@@ -2335,39 +2303,7 @@
           "gram_equivalent": 227
         }
       ],
-      "source": "USDA SR28 (NDB No: 01119)",
-      "relations": {
-        "group": "yogurt"
-      }
-    },
-    {
-      "id": "yogurt_fruit_lofat_9_grams_prot_per_8_oz",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "fermented",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 245
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.1,
-          "gram_equivalent": 125
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01120), USDA SR28 (NDB No: 01121)",
+      "source": "USDA SR28 (NDB No: 01119), USDA SR28 (NDB No: 01120), USDA SR28 (NDB No: 01121)",
       "relations": {
         "group": "yogurt"
       }
@@ -2441,32 +2377,7 @@
       "category": "dairy_eggs",
       "tags": [
         "egg",
-        "k2",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.6,
-          "gram_equivalent": 227
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01126)",
-      "relations": {
-        "group": "egg"
-      }
-    },
-    {
-      "id": "egg_yolk_raw_frz_sugared_past",
-      "category": "dairy_eggs",
-      "tags": [
-        "egg",
+        "high_sodium",
         "k2",
         "raw",
         "sweetened"
@@ -2484,7 +2395,7 @@
           "gram_equivalent": 227
         }
       ],
-      "source": "USDA SR28 (NDB No: 01127)",
+      "source": "USDA SR28 (NDB No: 01126), USDA SR28 (NDB No: 01127), USDA SR28 (NDB No: 01160)",
       "relations": {
         "group": "egg"
       }
@@ -2906,33 +2817,6 @@
       }
     },
     {
-      "id": "egg_yolk_raw_frz_salted_past",
-      "category": "dairy_eggs",
-      "tags": [
-        "egg",
-        "high_sodium",
-        "k2",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.6,
-          "gram_equivalent": 227
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01160)",
-      "relations": {
-        "group": "egg"
-      }
-    },
-    {
       "id": "cheese_sub_mozzarella",
       "category": "dairy_eggs",
       "tags": [
@@ -3123,6 +3007,7 @@
       "category": "dairy_eggs",
       "tags": [
         "egg",
+        "high_sodium",
         "k2",
         "raw"
       ],
@@ -3133,7 +3018,7 @@
           "vitamin_k_mcg": 0.3
         }
       ],
-      "source": "USDA SR28 (NDB No: 01171)",
+      "source": "USDA SR28 (NDB No: 01171), USDA SR28 (NDB No: 01255)",
       "relations": {
         "group": "egg"
       }
@@ -3280,37 +3165,6 @@
       "source": "USDA SR28 (NDB No: 01210)",
       "relations": {
         "group": "egg"
-      }
-    },
-    {
-      "id": "milk_whl_325_milkfat_wo_added_vit_a_vitamin_d",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 244
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 0.0,
-          "gram_equivalent": 15
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01211)",
-      "relations": {
-        "group": "milk"
       }
     },
     {
@@ -3492,32 +3346,7 @@
           "gram_equivalent": 11
         }
       ],
-      "source": "USDA SR28 (NDB No: 01223)",
-      "relations": {
-        "group": "milk"
-      }
-    },
-    {
-      "id": "protein_supp_milk_bsd_muscle_milk_lt_pdr",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.5
-        },
-        {
-          "amount": 2.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.2,
-          "gram_equivalent": 50
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01224)",
+      "source": "USDA SR28 (NDB No: 01223), USDA SR28 (NDB No: 01224)",
       "relations": {
         "group": "milk"
       }
@@ -3781,61 +3610,9 @@
           "gram_equivalent": 244
         }
       ],
-      "source": "USDA SR28 (NDB No: 01253)",
+      "source": "USDA SR28 (NDB No: 01253), USDA SR28 (NDB No: 01254)",
       "relations": {
         "group": "cheese"
-      }
-    },
-    {
-      "id": "cheese_fd_past_process_american_wo_added_vita",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 2.9,
-          "gram_equivalent": 113
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.7,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01254)",
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
-      "id": "egg_whl_raw_frz_salted_past",
-      "category": "dairy_eggs",
-      "tags": [
-        "egg",
-        "high_sodium",
-        "k2",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 01255)",
-      "relations": {
-        "group": "egg"
       }
     },
     {
@@ -4312,32 +4089,7 @@
           "gram_equivalent": 265
         }
       ],
-      "source": "USDA SR28 (NDB No: 14316)"
-    },
-    {
-      "id": "malted_drk_mix_choc_pdr_prep_w_whl_milk",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 0.8,
-          "gram_equivalent": 265
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 14318)",
-      "relations": {
-        "group": "milk"
-      }
+      "source": "USDA SR28 (NDB No: 14316), USDA SR28 (NDB No: 14318)"
     },
     {
       "id": "crackers_milk",
@@ -4517,7 +4269,7 @@
           "gram_equivalent": 141
         }
       ],
-      "source": "USDA SR28 (NDB No: 19170)",
+      "source": "USDA SR28 (NDB No: 19170), USDA SR28 (NDB No: 19205)",
       "relations": {
         "group": "egg"
       }
@@ -4579,31 +4331,6 @@
       }
     },
     {
-      "id": "egg_custards_dry_mix_prep_w_2_milk",
-      "category": "dairy_eggs",
-      "tags": [
-        "egg",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 141
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19205)",
-      "relations": {
-        "group": "egg"
-      }
-    },
-    {
       "id": "puddings_vanilla_dry_mix_reg_prep_w_whl_milk",
       "category": "dairy_eggs",
       "tags": [
@@ -4629,7 +4356,7 @@
           "gram_equivalent": 559
         }
       ],
-      "source": "USDA SR28 (NDB No: 19207)",
+      "source": "USDA SR28 (NDB No: 19207), USDA SR28 (NDB No: 19321)",
       "relations": {
         "group": "milk"
       }
@@ -4655,31 +4382,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 19319)",
-      "relations": {
-        "group": "banana"
-      }
-    },
-    {
-      "id": "puddings_banana_dry_mix_reg_prep_w_whl_milk",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 0.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.3,
-          "gram_equivalent": 127
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 19321)",
       "relations": {
         "group": "banana"
       }
@@ -4896,32 +4598,7 @@
           "gram_equivalent": 151
         }
       ],
-      "source": "USDA SR28 (NDB No: 21383)",
-      "relations": {
-        "group": "egg"
-      }
-    },
-    {
-      "id": "burger_king_croissanwich_w_egg_chs",
-      "category": "dairy_eggs",
-      "tags": [
-        "egg",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 9.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 10.4,
-          "gram_equivalent": 110
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21385)",
+      "source": "USDA SR28 (NDB No: 21383), USDA SR28 (NDB No: 21385)",
       "relations": {
         "group": "egg"
       }
@@ -7321,26 +6998,7 @@
           "vitamin_k_mcg": 2.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 12306)",
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
-      "id": "processed_cheese_from_cows_milk_square_or_on_stick_fortified_with_vitamins",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.0
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 12307)",
+      "source": "Ciqual 2025 (Food Code: 12306), Ciqual 2025 (Food Code: 12307)",
       "relations": {
         "group": "cheese"
       }

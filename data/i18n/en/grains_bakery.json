@@ -434,11 +434,6 @@
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, kellogg, kellogg's frstd rice krispies."
   },
-  "cereals_rte_post_fruity_pebbles": {
-    "name": "Cereals, ready-to-eat, post, fruity pebbles",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, post, fruity pebbles."
-  },
   "cereals_rte_general_mills_golden_grahams": {
     "name": "Cereals, ready-to-eat, general mills, golden grahams",
     "alternative_names": [],
@@ -679,11 +674,6 @@
     "alternative_names": [],
     "description": "Cereals, oats, instant, fort, with/ raisins & spice, dry."
   },
-  "cereals_oats_inst_fort_w_raisins_spice_prep_w": {
-    "name": "Cereals, oats, instant, fort, with/ raisins & spice, prepared with/ h2o",
-    "alternative_names": [],
-    "description": "Cereals, oats, instant, fort, with/ raisins & spice, prepared with/ h2o."
-  },
   "cereals_rte_malt_o_meal_marshmllw_mateys": {
     "name": "Cereals, ready-to-eat, malt-o-meal, marshmllw mateys",
     "alternative_names": [],
@@ -724,11 +714,6 @@
     "alternative_names": [],
     "description": "Cereals, corn grits, white, regular & quick, unenr, dry."
   },
-  "cereals_corn_grits_yel_reg_quick_unenr_dry": {
-    "name": "Cereals, corn grits, yellow, regular & quick, unenr, dry",
-    "alternative_names": [],
-    "description": "Cereals, corn grits, yellow, regular & quick, unenr, dry."
-  },
   "cereals_maltex_ckd_w_h2o_w_salt": {
     "name": "Cereals, maltex, cooked with/ h2o, with/ salt",
     "alternative_names": [],
@@ -738,11 +723,6 @@
     "name": "Cereals, maypo, cooked with/ h2o, with/ salt",
     "alternative_names": [],
     "description": "Cereals, maypo, cooked with/ h2o, with/ salt."
-  },
-  "cereals_oats_reg_quick_inst_unenr_ckd_w_h2o_w": {
-    "name": "Cereals, oats, regular & quick & instant, unenr, cooked with/ h2o, with/ salt",
-    "alternative_names": [],
-    "description": "Cereals, oats, regular & quick & instant, unenr, cooked with/ h2o, with/ salt."
   },
   "cereals_wheatena_ckd_w_h2o_w_salt": {
     "name": "Cereals, wheatena, cooked with/ h2o, with/ salt",
@@ -793,11 +773,6 @@
     "name": "Cereals, ready-to-eat, quaker, quaker oatmeal squares",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, quaker, quaker oatmeal squares."
-  },
-  "cereals_rte_quaker_quaker_cinn_oatmeal_square": {
-    "name": "Cereals, ready-to-eat, quaker, quaker cinn oatmeal squares",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, quaker, quaker cinn oatmeal squares."
   },
   "cereals_rte_quaker_quaker_oat_bran_crl": {
     "name": "Cereals, ready-to-eat, quaker, quaker oat bran crl",
@@ -853,11 +828,6 @@
     "name": "Cereals, ready-to-eat, general mills, raisin nut bran",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, general mills, raisin nut bran."
-  },
-  "cereals_rte_general_mills_basic_4": {
-    "name": "Cereals, ready-to-eat, general mills, basic 4",
-    "alternative_names": [],
-    "description": "Cereals, ready-to-eat, general mills, basic 4."
   },
   "cereals_rte_general_mills_appl_cinn_cheerios": {
     "name": "Cereals, ready-to-eat, general mills, apple cinn cheerios",
@@ -1309,35 +1279,10 @@
     "alternative_names": [],
     "description": "Potato pancakes."
   },
-  "corn_swt_yel_ckd_bld_drnd_wsalt": {
-    "name": "Corn, sweet, yellow, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Corn, sweet, yellow, cooked, boiled, drained, withsalt."
-  },
-  "corn_swt_yel_frz_krnls_on_cob_ckd_bld_drnd_ws": {
-    "name": "Corn, sweet, yellow, frozen, kernels on cob, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Corn, sweet, yellow, frozen, kernels on cob, cooked, boiled, drained, withsalt."
-  },
-  "squash_wntr_spaghetti_ckd_bld_drnd_or_bkd_wsa": {
-    "name": "Squash, winter, spaghetti, cooked, boiled, drained, or baked, withsalt",
-    "alternative_names": [],
-    "description": "Squash, winter, spaghetti, cooked, boiled, drained, or baked, withsalt."
-  },
-  "succotash_frz_ckd_bld_drnd_wsalt": {
-    "name": "Succotash, (corn&limas), frozen, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Succotash, (corn&limas), frozen, cooked, boiled, drained, withsalt."
-  },
   "corn_sweet_white_raw": {
     "name": "Corn, sweet, white, raw",
     "alternative_names": [],
     "description": "Corn, sweet, white, raw."
-  },
-  "corn_swt_white_ckd_bld_drnd_wosalt": {
-    "name": "Corn, sweet, white, cooked, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Corn, sweet, white, cooked, boiled, drained, withoutsalt."
   },
   "corn_swt_white_ckd_bld_drnd_wsalt": {
     "name": "Corn, sweet, white, cooked, boiled, drained, withsalt",
@@ -1358,11 +1303,6 @@
     "name": "Corn, sweet, white, canned, cream style, no salt",
     "alternative_names": [],
     "description": "Corn, sweet, white, canned, cream style, no salt."
-  },
-  "corn_swt_white_frz_krnls_cut_off_cob_bld_drnd": {
-    "name": "Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, withoutsalt."
   },
   "pickles_cucumber_swt": {
     "name": "Pickles, cucumber, sweet (includes bread & butter pickles)",
@@ -1624,11 +1564,6 @@
     "alternative_names": [],
     "description": "Bread sticks, plain."
   },
-  "bread_stuffing_bread_dry_mix": {
-    "name": "Bread stuffing, bread, dry mix",
-    "alternative_names": [],
-    "description": "Bread stuffing, bread, dry mix."
-  },
   "bread_stuffing_bread_dry_mix_prep": {
     "name": "Bread stuffing, bread, dry mix, prepared",
     "alternative_names": [],
@@ -1854,11 +1789,6 @@
     "alternative_names": [],
     "description": "Pie crust, standard-type, prepared from recipe, baked."
   },
-  "puff_pastry_frz_rtb": {
-    "name": "Puff pastry, frozen, rtb",
-    "alternative_names": [],
-    "description": "Puff pastry, frozen, rtb."
-  },
   "phyllo_dough": {
     "name": "Phyllo dough",
     "alternative_names": [],
@@ -1883,11 +1813,6 @@
     "name": "Bread crumbs, dry, grated, seasoned",
     "alternative_names": [],
     "description": "Bread crumbs, dry, grated, seasoned."
-  },
-  "bread_prot_tstd": {
-    "name": "Bread, prot, tstd (incl gluten)",
-    "alternative_names": [],
-    "description": "Bread, prot, tstd (incl gluten)."
   },
   "bread_rice_bran_toasted": {
     "name": "Bread, rice bran, toasted",
@@ -1933,11 +1858,6 @@
     "name": "Bread, white, commly prepared, lo na no salt",
     "alternative_names": [],
     "description": "Bread, white, commly prepared, lo na no salt."
-  },
-  "crackers_saltines_lo_salt": {
-    "name": "Crackers, saltines, lo salt (incl oyster, soda, soup)",
-    "alternative_names": [],
-    "description": "Crackers, saltines, lo salt (incl oyster, soda, soup)."
   },
   "crackers_wheat_low_salt": {
     "name": "Crackers, wheat, low salt",
@@ -2138,11 +2058,6 @@
     "name": "Cheese puffs & twists, corn bsd, baked, low fat",
     "alternative_names": [],
     "description": "Cheese puffs & twists, corn bsd, baked, low fat."
-  },
-  "rice_cakes_brown_rice_pln_unsalted": {
-    "name": "Rice cakes, brown rice, pln, unsalted",
-    "alternative_names": [],
-    "description": "Rice cakes, brown rice, pln, unsalted."
   },
   "barley_hulled": {
     "name": "Barley, hulled",
@@ -2369,11 +2284,6 @@
     "alternative_names": [],
     "description": "Rice, white, long-grain, regular, raw, unenr."
   },
-  "rice_white_long_grain_parbld_unenr_dry": {
-    "name": "Rice, white, long-grain, parbld, unenr, dry",
-    "alternative_names": [],
-    "description": "Rice, white, long-grain, parbld, unenr, dry."
-  },
   "wheat_flr_white_all_purpose_unenr": {
     "name": "Wheat flour, white, all-purpose, unenr",
     "alternative_names": [],
@@ -2384,30 +2294,10 @@
     "alternative_names": [],
     "description": "Macaroni, dry, unenriched."
   },
-  "wheat_flr_white_all_purpose_enr_unbleached": {
-    "name": "Wheat flour, white, all-purpose, enriched, unbleached",
-    "alternative_names": [],
-    "description": "Wheat flour, white, all-purpose, enriched, unbleached."
-  },
   "wheat_flr_white_9_prot_bleached_enr": {
     "name": "Wheat flour, white (industrial), 9% prot, bleached, enriched",
     "alternative_names": [],
     "description": "Wheat flour, white (industrial), 9% prot, bleached, enriched."
-  },
-  "wheat_flr_white_9_prot_bleached_unenr": {
-    "name": "Wheat flour, white (industrial), 9% prot, bleached, unenr",
-    "alternative_names": [],
-    "description": "Wheat flour, white (industrial), 9% prot, bleached, unenr."
-  },
-  "wheat_flr_white_10_prot_unbleached_enr": {
-    "name": "Wheat flour, white (industrial), 10% prot, unbleached, enriched",
-    "alternative_names": [],
-    "description": "Wheat flour, white (industrial), 10% prot, unbleached, enriched."
-  },
-  "wheat_flr_whole_grain_soft_wheat": {
-    "name": "Wheat flour, whole-grain, soft wheat",
-    "alternative_names": [],
-    "description": "Wheat flour, whole-grain, soft wheat."
   },
   "fast_foods_eng_muffin_wchssausage": {
     "name": "Fast foods, eng muffin, withchs&sausage",
