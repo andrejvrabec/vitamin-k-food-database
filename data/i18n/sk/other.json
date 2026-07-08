@@ -339,31 +339,6 @@
     "alternative_names": [],
     "description": "Kačica, domestikovaná, len mäso, surové."
   },
-  "chick_feet_boiled": {
-    "name": "Kurča, nohy, varené",
-    "alternative_names": [],
-    "description": "Kurča, nohy, varené."
-  },
-  "usda_cmdty_chick_cnd_meat_only_drnd": {
-    "name": "Kurča, konzervované, len maso, scedené",
-    "alternative_names": [],
-    "description": "Kurča, konzervované, len maso, scedené."
-  },
-  "usda_cmdty_chick_cnd_meat_only_w_h2o": {
-    "name": "Kurča, konzervované, len mäso, s vodou",
-    "alternative_names": [],
-    "description": "Kurča, konzervované, len mäso, s vodou."
-  },
-  "usda_cmdty_chick_cnd_meat_only_w_broth": {
-    "name": "Kurča, konzervované, len mäso, s vývarom",
-    "alternative_names": [],
-    "description": "Kurča, konzervované, len mäso, s vývarom."
-  },
-  "usda_cmdty_chick_fajita_strips_frz": {
-    "name": "Kuracie fajita strips, mrazené",
-    "alternative_names": [],
-    "description": "Kuracie fajita strips, mrazené."
-  },
   "emu_ground_ckd_pan_broiled": {
     "name": "Emu, mletý, varené, grilovaný na panvici",
     "alternative_names": [],
@@ -383,16 +358,6 @@
     "name": "Freska Adobo",
     "alternative_names": [],
     "description": "Freska Adobo."
-  },
-  "luncheon_meat_bf_thin_sliced": {
-    "name": "Obedové mäso, hovädzie, tenké plátky",
-    "alternative_names": [],
-    "description": "Obedové mäso, hovädzie, tenké plátky."
-  },
-  "oven_roasted_chick_breast_roll": {
-    "name": "Rolka z kuracích pŕs pečená v rúre",
-    "alternative_names": [],
-    "description": "Rolka z kuracích pŕs pečená v rúre."
   },
   "cerls_qukr_inst_otml_dnsr_egs_w_dnsr_bns_brn": {
     "name": "Cerls, qukr, instantné otml, dnsr egs s/ \"dnsr bns\", brn sgr cinn, dry",
@@ -1023,11 +988,6 @@
     "name": "Kokosové mäso, sušené (sušené), sušené, strúhané",
     "alternative_names": [],
     "description": "Kokosové mäso, sušené (sušené), sušené, strúhané."
-  },
-  "usda_cmdty_bf_cnd": {
-    "name": "Hovädzie, konzervované",
-    "alternative_names": [],
-    "description": "Hovädzie, konzervované."
   },
   "alcoholic_bev_daiquiri_prepared_from_recipe": {
     "name": "Alkoholické nápoj, daiquiri, pripravené podľa receptu",
@@ -1704,195 +1664,10 @@
     "alternative_names": [],
     "description": "Mäso z diviny, veverička, varené, pečené."
   },
-  "biscuits_pln_or_bttrmlk_frz_bkd": {
-    "name": "Sušienky, pln alebo cmar, mrazené, pečené",
-    "alternative_names": [],
-    "description": "Sušienky, pln alebo cmar, mrazené, pečené."
-  },
-  "biscuits_pln_or_bttrmlk_dry_mix": {
-    "name": "Sušienky, pln alebo cmar, suchá zmes",
-    "alternative_names": [],
-    "description": "Sušienky, pln alebo cmar, suchá zmes."
-  },
-  "cake_mix_angelfood_dry": {
-    "name": "Zmes na koláče, angelfood, suché",
-    "alternative_names": [],
-    "description": "Zmes na koláče, angelfood, suché."
-  },
-  "cake_choc_commly_prep_w_choc_frstng_in_store": {
-    "name": "Koláč, čokoláda, bežná príprava s čokoládou, pekáreň v obchode",
-    "alternative_names": [],
-    "description": "Koláč, čokoláda, bežná príprava s čokoládou, pekáreň v obchode."
-  },
-  "cake_choc_dry_mix_pudding_type": {
-    "name": "Koláč, čokoláda, suchá zmes, pudingový typ",
-    "alternative_names": [],
-    "description": "Koláč, čokoláda, suchá zmes, pudingový typ."
-  },
-  "cake_choc_dry_mix_reg": {
-    "name": "Koláč, čokoláda, suchá zmes, reg",
-    "alternative_names": [],
-    "description": "Koláč, čokoláda, suchá zmes, reg."
-  },
-  "cake_white_prep_from_recipe_wcocnt_frstng": {
-    "name": "Torta, biela, príprava podľa receptu s čerstvým",
-    "alternative_names": [],
-    "description": "Torta, biela, príprava podľa receptu s čerstvým."
-  },
-  "cake_fruitcake_commly_prep": {
-    "name": "Koláč, ovocný koláč, obyčajná príprava",
-    "alternative_names": [],
-    "description": "Koláč, ovocný koláč, obyčajná príprava."
-  },
-  "cake_mix_pudd_dry_german_choc": {
-    "name": "Zmes na koláč, puding, suchá, nemecká čokoláda",
-    "alternative_names": [],
-    "description": "Zmes na koláč, puding, suchá, nemecká čokoláda."
-  },
-  "cake_gingerbread_dry_mix": {
-    "name": "Koláč, perník, suchá zmes",
-    "alternative_names": [],
-    "description": "Koláč, perník, suchá zmes."
-  },
-  "cake_marble_dry_mix_pudding_type": {
-    "name": "Torta, mramor, suchá zmes, pudingový typ",
-    "alternative_names": [],
-    "description": "Torta, mramor, suchá zmes, pudingový typ."
-  },
-  "cake_snack_cakes_creme_filled_choc_w_frstng": {
-    "name": "Koláče, zákusky, plnené krémom, čokoláda s čerstvým",
-    "alternative_names": [],
-    "description": "Koláče, zákusky, plnené krémom, čokoláda s čerstvým."
-  },
-  "cake_sponge_commly_prep": {
-    "name": "Torta, piškóta, obyčajná príprava",
-    "alternative_names": [],
-    "description": "Torta, piškóta, obyčajná príprava."
-  },
-  "cake_white_dry_mix_pudding_type_enr": {
-    "name": "Koláč, biely, suchá zmes, pudingový typ, obohatené",
-    "alternative_names": [],
-    "description": "Koláč, biely, suchá zmes, pudingový typ, obohatené."
-  },
-  "cake_mix_dry_white_reg": {
-    "name": "Koláčová zmes, suchá, biela, reg",
-    "alternative_names": [],
-    "description": "Koláčová zmes, suchá, biela, reg."
-  },
-  "cake_white_prep_from_recipe_wofrstng": {
-    "name": "Torta, biela, príprava podľa receptu bezfrstng",
-    "alternative_names": [],
-    "description": "Torta, biela, príprava podľa receptu bezfrstng."
-  },
-  "cake_yel_commly_prep_w_choc_frstng_in_store_b": {
-    "name": "Torta, žltý, bežná príprava, s čokoládou, pekáreň v obchode",
-    "alternative_names": [],
-    "description": "Torta, žltý, bežná príprava, s čokoládou, pekáreň v obchode."
-  },
-  "cake_yel_dry_mix_pudding_type": {
-    "name": "Koláč, žlť, suchá zmes, pudingový typ",
-    "alternative_names": [],
-    "description": "Koláč, žlť, suchá zmes, pudingový typ."
-  },
-  "cake_yel_dry_mix_reg_enr": {
-    "name": "Koláč, žltý, suchá zmes, reg, obohatené",
-    "alternative_names": [],
-    "description": "Koláč, žltý, suchá zmes, reg, obohatené."
-  },
   "cheesecake_commly_prep": {
     "name": "Tvarohový koláč bežne pripravujeme",
     "alternative_names": [],
     "description": "Tvarohový koláč bežne pripravujeme."
-  },
-  "cookies_animal_crackers": {
-    "name": "Sušienky, sušienky pre zvieratá (vrátane marantových koreňov, čajových sušienok, )",
-    "alternative_names": [],
-    "description": "Sušienky, sušienky pre zvieratá (vrátane marantových koreňov, čajových sušienok, )."
-  },
-  "cookies_brownies_commly_prep": {
-    "name": "Sušienky, sušienky, obyčajná príprava",
-    "alternative_names": [],
-    "description": "Sušienky, sušienky, obyčajná príprava."
-  },
-  "cookies_choc_chip_commly_prep_soft_type": {
-    "name": "Sušienky, čokoláda, obyčajná príprava, mäkké",
-    "alternative_names": [],
-    "description": "Sušienky, čokoláda, obyčajná príprava, mäkké."
-  },
-  "cookies_choc_sndwch_wcreme_filling_reg": {
-    "name": "Sušienky, čokoládové sndwch, s krémovou náplňou, reg",
-    "alternative_names": [],
-    "description": "Sušienky, čokoládové sndwch, s krémovou náplňou, reg."
-  },
-  "cookies_choc_sndwch_wex_creme_filling": {
-    "name": "Sušienky, čokoládový sndwch, s krémovou náplňou",
-    "alternative_names": [],
-    "description": "Sušienky, čokoládový sndwch, s krémovou náplňou."
-  },
-  "cookies_cocnt_macaroons_prep_from_recipe": {
-    "name": "Sušienky, makrónky, príprava z receptu",
-    "alternative_names": [],
-    "description": "Sušienky, makrónky, príprava z receptu."
-  },
-  "cookies_fortune": {
-    "name": "Cookies, šťastie",
-    "alternative_names": [],
-    "description": "Cookies, šťastie."
-  },
-  "cookies_gingersnaps": {
-    "name": "Sušienky, zázvorníky",
-    "alternative_names": [],
-    "description": "Sušienky, zázvorníky."
-  },
-  "cookies_graham_crackers_pln_or_honey": {
-    "name": "Sušienky, grahamové sušienky, pln alebo med (vrátane cinn)",
-    "alternative_names": [],
-    "description": "Sušienky, grahamové sušienky, pln alebo med (vrátane cinn)."
-  },
-  "cookies_ladyfingers_wlemon_jucrind": {
-    "name": "Sušienky, lienky, s citrónovou šťavou a kôrou",
-    "alternative_names": [],
-    "description": "Sušienky, lienky, s citrónovou šťavou a kôrou."
-  },
-  "cookies_raisin_soft_type": {
-    "name": "Sušienky, hrozienka, mäkké",
-    "alternative_names": [],
-    "description": "Sušienky, hrozienka, mäkké."
-  },
-  "cookies_shortbread_commly_prep_pln": {
-    "name": "Sušienky, krehké pečivo, bežná príprava, pln",
-    "alternative_names": [],
-    "description": "Sušienky, krehké pečivo, bežná príprava, pln."
-  },
-  "cookies_choc_chip_commly_prep_spl_dietary": {
-    "name": "Sušienky, čokoláda, obyčajná príprava, diétne",
-    "alternative_names": [],
-    "description": "Sušienky, čokoláda, obyčajná príprava, diétne."
-  },
-  "cookies_choc_sndwch_wcreme_filling_spl_dietar": {
-    "name": "Sušienky, čokoládový sndwch, s krémovou náplňou, diétne",
-    "alternative_names": [],
-    "description": "Sušienky, čokoládový sndwch, s krémovou náplňou, diétne."
-  },
-  "cookies_sugar_commly_prep_spl_dietary": {
-    "name": "Sušienky, cukor, obyčajná príprava, diétne potraviny",
-    "alternative_names": [],
-    "description": "Sušienky, cukor, obyčajná príprava, diétne potraviny."
-  },
-  "cookies_sugar_commly_prep_reg": {
-    "name": "Sušienky, cukor, obyčajná príprava, reg (vrátane vanilky)",
-    "alternative_names": [],
-    "description": "Sušienky, cukor, obyčajná príprava, reg (vrátane vanilky)."
-  },
-  "cookies_sugar_wafers_wcreme_filling_reg": {
-    "name": "Sušienky, cukrové oblátky s krémovou náplňou, reg",
-    "alternative_names": [],
-    "description": "Sušienky, cukrové oblátky s krémovou náplňou, reg."
-  },
-  "cookies_vanilla_sndwch_wcreme_filling": {
-    "name": "Sušienky, vanilkový sndwch s krémovou náplňou",
-    "alternative_names": [],
-    "description": "Sušienky, vanilkový sndwch s krémovou náplňou."
   },
   "crackers_crispbread_rye": {
     "name": "Krekry, chrumkavý chlieb, raž",
@@ -1918,16 +1693,6 @@
     "name": "Krekry, štandardný snack typu, sndwch, s náplňou",
     "alternative_names": [],
     "description": "Krekry, štandardný snack typu, sndwch, s náplňou."
-  },
-  "doughnuts_cake_type_pln": {
-    "name": "Šišky, koláčové, pln (zahŕňa necukorené, staromódne)",
-    "alternative_names": [],
-    "description": "Šišky, koláčové, pln (zahŕňa necukorené, staromódne)."
-  },
-  "doughnuts_cake_type_choc_sugared_or_glazed": {
-    "name": "Šišky, koláčové, čokoláda, s cukrom alebo glazúrované",
-    "alternative_names": [],
-    "description": "Šišky, koláčové, čokoláda, s cukrom alebo glazúrované."
   },
   "doughnuts_french_crullers_glazed": {
     "name": "Šišky, francúzske valce, glazované",
@@ -1958,11 +1723,6 @@
     "name": "Hush šteniatka, príprava podľa receptu",
     "alternative_names": [],
     "description": "Hush šteniatka, príprava podľa receptu."
-  },
-  "ice_crm_cones_cake_or_wafer_type": {
-    "name": "Zmrzlinové kornútky, koláčové alebo oblátkové",
-    "alternative_names": [],
-    "description": "Zmrzlinové kornútky, koláčové alebo oblátkové."
   },
   "ice_crm_cones_sugar_rolled_type": {
     "name": "Kornútky na zmrzlinu, cukrové, rolované",
@@ -2194,16 +1954,6 @@
     "alternative_names": [],
     "description": "Pudingy, tapioka, ready-to-eat."
   },
-  "frostings_coconut_nut_rte": {
-    "name": "Poleva, kokosovo-orechová, ready-to-eat",
-    "alternative_names": [],
-    "description": "Poleva, kokosovo-orechová, ready-to-eat."
-  },
-  "frostings_vanilla_creamy_rte": {
-    "name": "Poleva, vanilková, krémová, ready-to-eat",
-    "alternative_names": [],
-    "description": "Poleva, vanilková, krémová, ready-to-eat."
-  },
   "ice_creams_vanilla_lt_no_sugar_added": {
     "name": "Zmrzliny, vanilka, ľahké, bez pridania cukru",
     "alternative_names": [],
@@ -2253,11 +2003,6 @@
     "name": "Polevy, ananás",
     "alternative_names": [],
     "description": "Polevy, ananás."
-  },
-  "frosting_glaz_chc_prep_frm_rcip_w_butr_nfsmi": {
-    "name": "Poleva, glazúra, chc, pripravené-frm-rcip, s maslom, nfsmi recept č. c-32",
-    "alternative_names": [],
-    "description": "Poleva, glazúra, chc, pripravené-frm-rcip, s maslom, nfsmi recept č. c-32."
   },
   "frozen_novelties_no_sugar_added_fudgesicle_po": {
     "name": "Mrazené novinky, bez pridaného cukru, fudgesicle pops",
@@ -2379,11 +2124,6 @@
     "alternative_names": [],
     "description": "Rýchle občerstvenie, burrito, s bns&syr."
   },
-  "fast_foods_burrito_w_bns_bf": {
-    "name": "Rýchle občerstvenie, burrito, s bns & hovädzie",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, burrito, s bns & hovädzie."
-  },
   "fast_foods_cheeseburger_single_reg_patty_w_co": {
     "name": "Rýchle občerstvenie, cheeseburger; single, reg patty, s/ ochucovadlá",
     "alternative_names": [],
@@ -2399,11 +2139,6 @@
     "alternative_names": [],
     "description": "Rýchle občerstvenie, ticho šteniatka."
   },
-  "fast_foods_chick_breaded_fried_bnless_pieces": {
-    "name": "Rýchle občerstvenie, kurčatá, obaľované a vyprážané, bez kúskov, pln",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, kurčatá, obaľované a vyprážané, bez kúskov, pln."
-  },
   "mcdonalds_flt_o_fsh": {
     "name": "Mcdonald's, Filet-O-Fish",
     "alternative_names": [],
@@ -2418,21 +2153,6 @@
     "name": "Wendy's, klasický dvojitý, s syr",
     "alternative_names": [],
     "description": "Wendy's, klasický dvojitý, s syr."
-  },
-  "wendys_homestyle_chick_fillet_sndwch": {
-    "name": "Wendy's, domáce kuracie filety sndwch",
-    "alternative_names": [],
-    "description": "Wendy's, domáce kuracie filety sndwch."
-  },
-  "wendys_ultimate_chick_grill_sndwch": {
-    "name": "Wendy's, ultimátny gril na kurčatá sndwch",
-    "alternative_names": [],
-    "description": "Wendy's, ultimátny gril na kurčatá sndwch."
-  },
-  "wendys_chick_nuggets": {
-    "name": "Wendy's, kuracie nugetky",
-    "alternative_names": [],
-    "description": "Wendy's, kuracie nugetky."
   },
   "wendys_french_fr": {
     "name": "Wendy's, francúzsky fr",
@@ -2474,16 +2194,6 @@
     "alternative_names": [],
     "description": "Burger king, double whopper, s/ syr."
   },
-  "burger_king_chick_strips": {
-    "name": "Burger king, kuracie prúžky",
-    "alternative_names": [],
-    "description": "Burger king, kuracie prúžky."
-  },
-  "burger_king_original_chick_sndwch": {
-    "name": "Burger king, original kuracie sndwch",
-    "alternative_names": [],
-    "description": "Burger king, original kuracie sndwch."
-  },
   "taco_bell_soft_taco_w_steak": {
     "name": "Taco bell, mäkké taco so steakom",
     "alternative_names": [],
@@ -2493,16 +2203,6 @@
     "name": "Taco bell, fazuľové burrito",
     "alternative_names": [],
     "description": "Taco bell, fazuľové burrito."
-  },
-  "taco_bell_burrito_supreme_w_bf": {
-    "name": "Taco bell, burrito supreme s/ hovädzie",
-    "alternative_names": [],
-    "description": "Taco bell, burrito supreme s/ hovädzie."
-  },
-  "taco_bell_burrito_supreme_w_chick": {
-    "name": "Taco bell, burrito supreme s kuriatkom",
-    "alternative_names": [],
-    "description": "Taco bell, burrito supreme s kuriatkom."
   },
   "taco_bell_burrito_supreme_w_steak": {
     "name": "Taco bell, burrito supreme so steakom",
@@ -2574,45 +2274,10 @@
     "alternative_names": [],
     "description": "Rýchle občerstvenie, cheeseburger; dvojitý, rg placka; dvojitá žemľa s/ ochucovadlá & špeciálna omáčka."
   },
-  "fast_foods_chick_tenders": {
-    "name": "Rýchle občerstvenie, kurčatá",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, kurčatá."
-  },
-  "kentucky_fried_chick_biscuit_analyzed_prior_t": {
-    "name": "Kentucky vyprážané kurča, sušienka, analyzované pred januárom 2007",
-    "alternative_names": [],
-    "description": "Kentucky vyprážané kurča, sušienka, analyzované pred januárom 2007."
-  },
-  "kentucky_fried_chick_coleslaw": {
-    "name": "Kentucky vyprážané kurča, kapustový šalát",
-    "alternative_names": [],
-    "description": "Kentucky vyprážané kurča, kapustový šalát."
-  },
-  "kentucky_fried_chick_crispy_chick_strips": {
-    "name": "Kentucky vyprážané kurča, chrumkavé kuracie prúžky",
-    "alternative_names": [],
-    "description": "Kentucky vyprážané kurča, chrumkavé kuracie prúžky."
-  },
-  "fast_foods_quesadilla_w_chick": {
-    "name": "Rýchle občerstvenie, quesadilla, s kuracím mäsom",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, quesadilla, s kuracím mäsom."
-  },
   "chili_con_carne_wbns_cnd_entree": {
     "name": "Chilli con carne s bns, konzervované predjedlo",
     "alternative_names": [],
     "description": "Chilli con carne s bns, konzervované predjedlo."
-  },
-  "burrito_bf_bean_frz": {
-    "name": "Burrito, hovädzie & fazuľa, mrazené",
-    "alternative_names": [],
-    "description": "Burrito, hovädzie & fazuľa, mrazené."
-  },
-  "burrito_bf_bean_microwaved": {
-    "name": "Burrito, hovädzie & bean, v mikrovlnnej rúre",
-    "alternative_names": [],
-    "description": "Burrito, hovädzie & bean, v mikrovlnnej rúre."
   },
   "chili_w_bns_microwavable_bowls": {
     "name": "Chilli s nádobami do mikrovlnnej rúry",
@@ -2744,45 +2409,20 @@
     "alternative_names": [],
     "description": "Applebee's, francúzsky fr."
   },
-  "applebees_chick_fingers_from_kids_menu": {
-    "name": "Applebee's, kuracie prsty, z detského menu",
-    "alternative_names": [],
-    "description": "Applebee's, kuracie prsty, z detského menu."
-  },
   "tgi_fridays_french_fr": {
     "name": "T.g.i. piatok, francúzsky fr",
     "alternative_names": [],
     "description": "T.g.i. piatok, francúzsky fr."
-  },
-  "tgi_fridays_chick_fingers_from_kids_menu": {
-    "name": "T.g.i. piatkové, kuracie, z detského menu",
-    "alternative_names": [],
-    "description": "T.g.i. piatkové, kuracie, z detského menu."
   },
   "restaurant_family_style_french_fr": {
     "name": "Reštaurácia, rodinný štýl, francúzska",
     "alternative_names": [],
     "description": "Reštaurácia, rodinný štýl, francúzska."
   },
-  "restaurant_family_style_chick_fingers_from_ki": {
-    "name": "Reštaurácia, rodinný štýl, kuracie prsty, z detského menu",
-    "alternative_names": [],
-    "description": "Reštaurácia, rodinný štýl, kuracie prsty, z detského menu."
-  },
-  "restaurant_latino_empanadas_bf_prep": {
-    "name": "Reštaurácia, latino, empanadas, hovädzie, príprava",
-    "alternative_names": [],
-    "description": "Reštaurácia, latino, empanadas, hovädzie, príprava."
-  },
   "restaurant_latino_pupusas_con_frijoles": {
     "name": "Reštaurácia, latino, pupusas con frijoles (pupusas, fazuľa)",
     "alternative_names": [],
     "description": "Reštaurácia, latino, pupusas con frijoles (pupusas, fazuľa)."
-  },
-  "restaurant_chinese_bf_veg": {
-    "name": "Reštaurácia, čínska, hovädzie & zelenina",
-    "alternative_names": [],
-    "description": "Reštaurácia, čínska, hovädzie & zelenina."
   },
   "dennys_french_fr": {
     "name": "Denny's, francúzsky fr",
@@ -2794,45 +2434,15 @@
     "alternative_names": [],
     "description": "Denny's, dozlatista vyprážané krevety."
   },
-  "dennys_moons_stars_chick_nuggets_from_kids_me": {
-    "name": "Kuracie nugetky Denny's, moons & stars, z detského menu",
-    "alternative_names": [],
-    "description": "Kuracie nugetky Denny's, moons & stars, z detského menu."
-  },
   "dennys_top_sirloin_steak": {
     "name": "Denny's, top sviečkovica",
     "alternative_names": [],
     "description": "Denny's, top sviečkovica."
   },
-  "restaurant_chinese_lemon_chick": {
-    "name": "Reštaurácia, čínska, citrónové kurča",
-    "alternative_names": [],
-    "description": "Reštaurácia, čínska, citrónové kurča."
-  },
-  "restaurant_chinese_general_tsos_chick": {
-    "name": "Reštaurácia, čínska, všeobecné tso's kuracie",
-    "alternative_names": [],
-    "description": "Reštaurácia, čínska, všeobecné tso's kuracie."
-  },
-  "restaurant_chinese_kung_pao_chick": {
-    "name": "Reštaurácia, čínska, kung pao kurča",
-    "alternative_names": [],
-    "description": "Reštaurácia, čínska, kung pao kurča."
-  },
   "restaurant_chinese_shrimp_veg": {
     "name": "Reštaurácia, čínska, krevety a zelenina",
     "alternative_names": [],
     "description": "Reštaurácia, čínska, krevety a zelenina."
-  },
-  "restaurant_chinese_swt_sour_chick": {
-    "name": "Reštaurácia, čínska, sladko-kyslé kuracie",
-    "alternative_names": [],
-    "description": "Reštaurácia, čínska, sladko-kyslé kuracie."
-  },
-  "restaurant_chinese_chick_chow_mein": {
-    "name": "Reštaurácia, čínska, kuracie chow mein",
-    "alternative_names": [],
-    "description": "Reštaurácia, čínska, kuracie chow mein."
   },
   "froz_novlt_ice_crm_van_ice_crm_lt_no_sugar_ad": {
     "name": "Mrazené novlt, ice krém, van ice krém, ľahké, bez pridaného cukru, čokoláda",
@@ -3028,11 +2638,6 @@
     "name": "Makrela, solená",
     "alternative_names": [],
     "description": "Makrela, solená."
-  },
-  "snail_raw": {
-    "name": "Slimák, surový",
-    "alternative_names": [],
-    "description": "Slimák, surový."
   },
   "turtle_green_raw": {
     "name": "Korytnačka, zelená, surová",
@@ -3307,11 +2912,6 @@
     "alternative_names": [],
     "description": "Flageolet fazuľa, varená/varená vo vode."
   },
-  "chick_pea_canned_drained": {
-    "name": "Cícer, konzervovaný, scedený",
-    "alternative_names": [],
-    "description": "Cícer, konzervovaný, scedený."
-  },
   "flageolet_bean_green_boiledcooked_in_water": {
     "name": "Flageolet fazuľa, zelená, varená/varená vo vode",
     "alternative_names": [],
@@ -3371,11 +2971,6 @@
     "name": "Hrach štiepaný, sušený",
     "alternative_names": [],
     "description": "Hrach štiepaný, sušený."
-  },
-  "chick_pea_dried": {
-    "name": "Cícer sušený",
-    "alternative_names": [],
-    "description": "Cícer sušený."
   },
   "broad_bean_dried": {
     "name": "Fazuľa, sušená",
@@ -3532,11 +3127,6 @@
     "alternative_names": [],
     "description": "Rusk."
   },
-  "brioche_rusk": {
-    "name": "Brioche rusk",
-    "alternative_names": [],
-    "description": "Brioche rusk."
-  },
   "rusk_multigrain": {
     "name": "Suchár, viaczrnný",
     "alternative_names": [],
@@ -3551,11 +3141,6 @@
     "name": "Chrumkavý chlieb s otrubami, zdroj alebo bohatý na vlákninu",
     "alternative_names": [],
     "description": "Chrumkavý chlieb s otrubami, zdroj alebo bohatý na vlákninu."
-  },
-  "brioche_rusk_sliced_prepacked": {
-    "name": "Brioškový suchár, nakrájaný na plátky, balené",
-    "alternative_names": [],
-    "description": "Brioškový suchár, nakrájaný na plátky, balené."
   },
   "meat_cooked_average": {
     "name": "Mäso varené (priemerne)",
@@ -3807,46 +3392,6 @@
     "alternative_names": [],
     "description": "Dulce de leche alebo confiture de lait."
   },
-  "brioche_filled_with_fruits_prepacked": {
-    "name": "Brioška, ​​plnená ovocím, balené",
-    "alternative_names": [],
-    "description": "Brioška, ​​plnená ovocím, balené."
-  },
-  "brioche_plain_prepacked": {
-    "name": "Brioška, ​​hladká, balené",
-    "alternative_names": [],
-    "description": "Brioška, ​​hladká, balené."
-  },
-  "brioche_average": {
-    "name": "Brioche (priemer)",
-    "alternative_names": [],
-    "description": "Brioche (priemer)."
-  },
-  "soja_biscuit_fortified_with_vitamins_and_minerals": {
-    "name": "Sójové sušienky obohatené o vitamíny a minerály",
-    "alternative_names": [],
-    "description": "Sójové sušienky obohatené o vitamíny a minerály."
-  },
-  "speculoos_biscuit": {
-    "name": "Speculoos sušienka",
-    "alternative_names": [],
-    "description": "Speculoos sušienka."
-  },
-  "biscuit_shortbread_with_fruits": {
-    "name": "Sušienky, s ovocím",
-    "alternative_names": [],
-    "description": "Sušienky, s ovocím."
-  },
-  "wafer_biscuit_with_vanilla_filling": {
-    "name": "Oblátková sušienka, s vanilkovou náplňou",
-    "alternative_names": [],
-    "description": "Oblátková sušienka, s vanilkovou náplňou."
-  },
-  "biscuit_sponge_cake_with_fruits_covering_pre_packed": {
-    "name": "Piškótová torta s ovocím, balené",
-    "alternative_names": [],
-    "description": "Piškótová torta s ovocím, balené."
-  },
   "muesli_average": {
     "name": "Müsli (priemer)",
     "alternative_names": [],
@@ -3867,35 +3412,10 @@
     "alternative_names": [],
     "description": "Müsli, neopevnené (priemerná potravina)."
   },
-  "cake_average": {
-    "name": "Koláč (priemer)",
-    "alternative_names": [],
-    "description": "Koláč (priemer)."
-  },
   "cheesecake_prepacked": {
     "name": "Tvarohový koláč, balené",
     "alternative_names": [],
     "description": "Tvarohový koláč, balené."
-  },
-  "dessert_opera_cake_type": {
-    "name": "Dezert, typ torty Opera",
-    "alternative_names": [],
-    "description": "Dezert, typ torty Opera."
-  },
-  "christmas_log_cake": {
-    "name": "Vianočná polenová torta",
-    "alternative_names": [],
-    "description": "Vianočná polenová torta."
-  },
-  "pound_cake_prepacked": {
-    "name": "Bábovka, balené",
-    "alternative_names": [],
-    "description": "Bábovka, balené."
-  },
-  "kouign_amann_buttered_and_caramelized_milkbread_cake_from_bakery": {
-    "name": "Kouign amann, maslový a karamelizovaný mliečny koláč, z pekárne",
-    "alternative_names": [],
-    "description": "Kouign amann, maslový a karamelizovaný mliečny koláč, z pekárne."
   },
   "eclair": {
     "name": "Eclair",
@@ -3912,11 +3432,6 @@
     "alternative_names": [],
     "description": "Palacinka s cukrom (cukromi), balené."
   },
-  "wafer_biscuit_thin_filled_with_honey_caramel_or_soft_brown_sugar_prepacked": {
-    "name": "Oblátková sušienka, tenká, plnená medom, karamelom alebo jemným hnedým cukrom, balené",
-    "alternative_names": [],
-    "description": "Oblátková sušienka, tenká, plnená medom, karamelom alebo jemným hnedým cukrom, balené."
-  },
   "waffle_from_bakery_plain_from_bakery": {
     "name": "Vafle, z pekárne, hladké, z pekárne",
     "alternative_names": [],
@@ -3931,31 +3446,6 @@
     "name": "Donut plnený ovocnou plnkou (napr. džem), balený-> ARCHÍV",
     "alternative_names": [],
     "description": "Donut plnený ovocnou plnkou (napr. džem), balený-> ARCHÍV."
-  },
-  "fruit_cake_candied_fruits_andor_raisins_prepacked": {
-    "name": "Ovocný koláč (kandizované ovocie a/alebo hrozienka), balené",
-    "alternative_names": [],
-    "description": "Ovocný koláč (kandizované ovocie a/alebo hrozienka), balené."
-  },
-  "marble_cake_prepacked": {
-    "name": "Mramorový koláč, balený",
-    "alternative_names": [],
-    "description": "Mramorový koláč, balený."
-  },
-  "soft_cake_filled_with_fruits_mini_sponge_roll_type_prepacked": {
-    "name": "Mäkká torta plnená ovocím, mini piškótový typ, balené",
-    "alternative_names": [],
-    "description": "Mäkká torta plnená ovocím, mini piškótový typ, balené."
-  },
-  "madeleine_cake_prepacked": {
-    "name": "Madeleine torta, balená",
-    "alternative_names": [],
-    "description": "Madeleine torta, balená."
-  },
-  "almond_cake_financier_prepacked": {
-    "name": "Mandľový koláč, finančník, balený",
-    "alternative_names": [],
-    "description": "Mandľový koláč, finančník, balený."
   },
   "iced_nougat": {
     "name": "Ľadový nugát",

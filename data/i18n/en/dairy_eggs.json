@@ -129,11 +129,6 @@
     "alternative_names": [],
     "description": "Cream, sour, cultured."
   },
-  "croissants_cheese": {
-    "name": "Croissants, cheese",
-    "alternative_names": [],
-    "description": "Croissants, cheese."
-  },
   "egg_whole_cooked_omelet": {
     "name": "Egg, whole, cooked, omelet",
     "alternative_names": [],
@@ -156,16 +151,6 @@
     "name": "Eggnog",
     "alternative_names": [],
     "description": "Eggnog."
-  },
-  "fast_foods_biscuit_with_egg_and_bacon": {
-    "name": "Fast foods, biscuit, with egg and bacon",
-    "alternative_names": [],
-    "description": "Fast foods, biscuit, with egg and bacon."
-  },
-  "fast_foods_biscuit_with_egg_and_sausage": {
-    "name": "Fast Foods, biscuit, with egg and sausage",
-    "alternative_names": [],
-    "description": "Fast Foods, biscuit, with egg and sausage."
   },
   "milk_buttermilk_dried": {
     "name": "Milk, buttermilk, dried",
@@ -612,30 +597,10 @@
     "alternative_names": [],
     "description": "Yogurt, greek, pln, nonfat."
   },
-  "kielbasa_kolbassy_pork_bf_nonfat_dry_milk": {
-    "name": "Kielbasa, kolbassy, pork, beef, nonfat dry milk",
-    "alternative_names": [],
-    "description": "Kielbasa, kolbassy, pork, beef, nonfat dry milk."
-  },
-  "smoked_link_sausage_porkbf_flrnonfat_dry_milk": {
-    "name": "Smoked link sausage, pork&beef, flour&nonfat dry milk",
-    "alternative_names": [],
-    "description": "Smoked link sausage, pork&beef, flour&nonfat dry milk."
-  },
   "milk_crl_bar": {
     "name": "Milk & crl bar",
     "alternative_names": [],
     "description": "Milk & crl bar."
-  },
-  "chard_swiss_raw": {
-    "name": "Chard, swiss, raw",
-    "alternative_names": [],
-    "description": "Chard, swiss, raw."
-  },
-  "chard_swiss_ckd_bld_drnd_wosalt": {
-    "name": "Chard, swiss, cooked, boiled, drained, withoutsalt",
-    "alternative_names": [],
-    "description": "Chard, swiss, cooked, boiled, drained, withoutsalt."
   },
   "potatoes_mshd_dehyd_flakes_womilk_dry_form": {
     "name": "Potatoes, mshd, dehydrated, flakes withoutmilk, dry form",
@@ -661,11 +626,6 @@
     "name": "Potatoes, mshd, home-prepared, whole milk added",
     "alternative_names": [],
     "description": "Potatoes, mshd, home-prepared, whole milk added."
-  },
-  "chard_swiss_ckd_bld_drnd_wsalt": {
-    "name": "Chard, swiss, cooked, boiled, drained, withsalt",
-    "alternative_names": [],
-    "description": "Chard, swiss, cooked, boiled, drained, withsalt."
   },
   "coconut_milk_raw": {
     "name": "Coconut milk, raw (liquids expressed from grated meat&h2o)",
@@ -727,35 +687,10 @@
     "alternative_names": [],
     "description": "Puddings, vanilla, dry mix, regular, prepared with/ whole milk."
   },
-  "fast_foods_biscuit_weggbacon": {
-    "name": "Fast foods, biscuit, withegg&bacon",
-    "alternative_names": [],
-    "description": "Fast foods, biscuit, withegg&bacon."
-  },
-  "fast_foods_biscuit_weggham": {
-    "name": "Fast foods, biscuit, withegg&ham",
-    "alternative_names": [],
-    "description": "Fast foods, biscuit, withegg&ham."
-  },
-  "breakfast_items_biscuit_weggsausage": {
-    "name": "Breakfast items, biscuit withegg&sausage",
-    "alternative_names": [],
-    "description": "Breakfast items, biscuit withegg&sausage."
-  },
   "fast_foods_egg_scrambled": {
     "name": "Fast foods, egg, scrambled",
     "alternative_names": [],
     "description": "Fast foods, egg, scrambled."
-  },
-  "fast_foods_griddle_cake_sndwch_egg_chs_bacon": {
-    "name": "Fast foods, griddle cake sndwch, egg, cheese, & bacon",
-    "alternative_names": [],
-    "description": "Fast foods, griddle cake sndwch, egg, cheese, & bacon."
-  },
-  "burger_king_croissanwich_w_sausage_egg_chs": {
-    "name": "Burger king, croissan'wich with/ sausage, egg & cheese",
-    "alternative_names": [],
-    "description": "Burger king, croissan'wich with/ sausage, egg & cheese."
   },
   "yogurt_parfait_lowfat_w_fruit_granola": {
     "name": "Yogurt parfait, lowfat, with/ fruit & granola",
@@ -777,35 +712,10 @@
     "alternative_names": [],
     "description": "Burrito, bean and cheese, frozen."
   },
-  "egg_rolls_pork_refr_htd": {
-    "name": "Egg rolls, pork, refrigerated, heated",
-    "alternative_names": [],
-    "description": "Egg rolls, pork, refrigerated, heated."
-  },
-  "egg_rolls_chick_refr_htd": {
-    "name": "Egg rolls, chicken, refrigerated, heated",
-    "alternative_names": [],
-    "description": "Egg rolls, chicken, refrigerated, heated."
-  },
   "egg_rolls_veg_refr_htd": {
     "name": "Egg rolls, vegetable, refrigerated, heated",
     "alternative_names": [],
     "description": "Egg rolls, vegetable, refrigerated, heated."
-  },
-  "hot_pockets_meatballs_mozzarella_stuffed_sndw": {
-    "name": "Hot pockets, meatballs & mozzarella stuffed sndwch, frozen",
-    "alternative_names": [],
-    "description": "Hot pockets, meatballs & mozzarella stuffed sndwch, frozen."
-  },
-  "lean_pockets_ham_n_cheddar": {
-    "name": "Lean pockets, ham n cheddar",
-    "alternative_names": [],
-    "description": "Lean pockets, ham n cheddar."
-  },
-  "lean_pockets_meatballs_mozzarella": {
-    "name": "Lean pockets, meatballs & mozzarella",
-    "alternative_names": [],
-    "description": "Lean pockets, meatballs & mozzarella."
   },
   "potato_salad_w_egg": {
     "name": "Potato salad with/ egg",
@@ -967,25 +877,10 @@
     "alternative_names": [],
     "description": "Plant-based burger or steak from soybean, cheese and vegetables, prepacked."
   },
-  "crepe_or_buckwheat_pancake_filled_with_egg_ham_and_cheese_prepacked": {
-    "name": "Crepe or buckwheat pancake, filled with egg, ham and cheese, prepacked",
-    "alternative_names": [],
-    "description": "Crepe or buckwheat pancake, filled with egg, ham and cheese, prepacked."
-  },
   "tart_goat_cheese_and_spinach_prepacked": {
     "name": "Tart, goat cheese and spinach, prepacked",
     "alternative_names": [],
     "description": "Tart, goat cheese and spinach, prepacked."
-  },
-  "egg_roll_or_nem_with_chicken_prepacked_cooked": {
-    "name": "Egg roll or nem, with chicken, prepacked, cooked",
-    "alternative_names": [],
-    "description": "Egg roll or nem, with chicken, prepacked, cooked."
-  },
-  "egg_roll_or_nem_with_pork_prepacked_cooked": {
-    "name": "Egg roll or nem, with pork, prepacked, cooked",
-    "alternative_names": [],
-    "description": "Egg roll or nem, with pork, prepacked, cooked."
   },
   "egg_roll_or_nem_with_shrimp_andor_crab_prepacked_cooked": {
     "name": "Egg roll or nem, with shrimp and/or crab, prepacked, cooked",
@@ -1001,11 +896,6 @@
     "name": "Carrots, seasoned puree with cream, prepacked",
     "alternative_names": [],
     "description": "Carrots, seasoned puree with cream, prepacked."
-  },
-  "swiss_chard_leaf_and_stalk_boiledcooked_in_water": {
-    "name": "Swiss chard, leaf and stalk, boiled/cooked in water",
-    "alternative_names": [],
-    "description": "Swiss chard, leaf and stalk, boiled/cooked in water."
   },
   "head_cheese_pt_or_brawn": {
     "name": "Head-cheese pâté or brawn",
@@ -1336,11 +1226,6 @@
     "name": "Milk roll, prepacked",
     "alternative_names": [],
     "description": "Milk roll, prepacked."
-  },
-  "brioche_filled_with_custard_cream_chinese_brioche_type_prepacked": {
-    "name": "Brioche, filled with custard cream (Chinese brioche type), prepacked",
-    "alternative_names": [],
-    "description": "Brioche, filled with custard cream (Chinese brioche type), prepacked."
   },
   "flan_tart_with_eggs": {
     "name": "Flan tart with eggs",

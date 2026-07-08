@@ -663,33 +663,6 @@
       }
     },
     {
-      "id": "croissants_cheese",
-      "category": "dairy_eggs",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 10.9
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.1,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "dairy",
-        "fast_food",
-        "k2"
-      ],
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
       "id": "egg_whole_cooked_omelet",
       "category": "dairy_eggs",
       "portions": [
@@ -792,62 +765,6 @@
       ],
       "relations": {
         "group": "cream"
-      }
-    },
-    {
-      "id": "fast_foods_biscuit_with_egg_and_bacon",
-      "category": "dairy_eggs",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 6.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.5,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "egg",
-        "high_sodium",
-        "k2",
-        "meat"
-      ],
-      "relations": {
-        "group": "egg"
-      }
-    },
-    {
-      "id": "fast_foods_biscuit_with_egg_and_sausage",
-      "category": "dairy_eggs",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 7.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.1,
-          "gram_equivalent": 100
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "egg",
-        "high_sodium",
-        "k2",
-        "meat"
-      ],
-      "relations": {
-        "group": "egg"
       }
     },
     {
@@ -3483,71 +3400,6 @@
       }
     },
     {
-      "id": "kielbasa_kolbassy_pork_bf_nonfat_dry_milk",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 2.1
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.6,
-          "gram_equivalent": 75
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 9.8,
-          "gram_equivalent": 467
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 07037)",
-      "relations": {
-        "group": "milk"
-      }
-    },
-    {
-      "id": "smoked_link_sausage_porkbf_flrnonfat_dry_milk",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "high_sodium",
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.1,
-          "gram_equivalent": 68
-        },
-        {
-          "amount": 2.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 0.9,
-          "gram_equivalent": 57
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 07076)",
-      "relations": {
-        "group": "milk"
-      }
-    },
-    {
       "id": "milk_crl_bar",
       "category": "dairy_eggs",
       "tags": [
@@ -3570,64 +3422,6 @@
       "source": "USDA SR28 (NDB No: 08510)",
       "relations": {
         "group": "milk"
-      }
-    },
-    {
-      "id": "chard_swiss_raw",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 830.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 298.8,
-          "gram_equivalent": 36
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 398.4,
-          "gram_equivalent": 48
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11147)",
-      "relations": {
-        "group": "kale"
-      }
-    },
-    {
-      "id": "chard_swiss_ckd_bld_drnd_wosalt",
-      "category": "dairy_eggs",
-      "tags": [
-        "cooked",
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 327.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 572.8,
-          "gram_equivalent": 175
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11148)",
-      "relations": {
-        "group": "kale"
       }
     },
     {
@@ -3754,32 +3548,6 @@
       "source": "USDA SR28 (NDB No: 11657)",
       "relations": {
         "group": "potato"
-      }
-    },
-    {
-      "id": "chard_swiss_ckd_bld_drnd_wsalt",
-      "category": "dairy_eggs",
-      "tags": [
-        "cooked",
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 327.3
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 572.8,
-          "gram_equivalent": 175
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11765)",
-      "relations": {
-        "group": "kale"
       }
     },
     {
@@ -4136,89 +3904,6 @@
       }
     },
     {
-      "id": "fast_foods_biscuit_weggbacon",
-      "category": "dairy_eggs",
-      "tags": [
-        "bakery",
-        "egg",
-        "high_sodium",
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.2
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 150
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21003), USDA SR28 (NDB No: 21007)",
-      "relations": {
-        "group": "cookie"
-      }
-    },
-    {
-      "id": "fast_foods_biscuit_weggham",
-      "category": "dairy_eggs",
-      "tags": [
-        "bakery",
-        "egg",
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.9,
-          "gram_equivalent": 192
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21004)",
-      "relations": {
-        "group": "cookie"
-      }
-    },
-    {
-      "id": "breakfast_items_biscuit_weggsausage",
-      "category": "dairy_eggs",
-      "tags": [
-        "bakery",
-        "egg",
-        "high_sodium",
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.4
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 7.1,
-          "gram_equivalent": 162
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21005)",
-      "relations": {
-        "group": "cookie"
-      }
-    },
-    {
       "id": "fast_foods_egg_scrambled",
       "category": "dairy_eggs",
       "tags": [
@@ -4239,61 +3924,6 @@
         }
       ],
       "source": "USDA SR28 (NDB No: 21018)",
-      "relations": {
-        "group": "egg"
-      }
-    },
-    {
-      "id": "fast_foods_griddle_cake_sndwch_egg_chs_bacon",
-      "category": "dairy_eggs",
-      "tags": [
-        "egg",
-        "high_sodium",
-        "k2",
-        "meat",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 3.4,
-          "gram_equivalent": 168
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21307), USDA SR28 (NDB No: 21305)",
-      "relations": {
-        "group": "egg"
-      }
-    },
-    {
-      "id": "burger_king_croissanwich_w_sausage_egg_chs",
-      "category": "dairy_eggs",
-      "tags": [
-        "egg",
-        "high_sodium",
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 9.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 14.3,
-          "gram_equivalent": 151
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 21383), USDA SR28 (NDB No: 21385)",
       "relations": {
         "group": "egg"
       }
@@ -4402,69 +4032,6 @@
       }
     },
     {
-      "id": "egg_rolls_pork_refr_htd",
-      "category": "dairy_eggs",
-      "tags": [
-        "egg",
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 22.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 19.2,
-          "gram_equivalent": 85
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.4,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 22953)",
-      "relations": {
-        "group": "egg"
-      }
-    },
-    {
-      "id": "egg_rolls_chick_refr_htd",
-      "category": "dairy_eggs",
-      "tags": [
-        "egg",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 23.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 19.0,
-          "gram_equivalent": 80
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 6.7,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 22954)",
-      "relations": {
-        "group": "egg"
-      }
-    },
-    {
       "id": "egg_rolls_veg_refr_htd",
       "category": "dairy_eggs",
       "tags": [
@@ -4493,88 +4060,6 @@
       "source": "USDA SR28 (NDB No: 22955)",
       "relations": {
         "group": "egg"
-      }
-    },
-    {
-      "id": "hot_pockets_meatballs_mozzarella_stuffed_sndw",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 10.8
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 13.7,
-          "gram_equivalent": 127
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 22961)",
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
-      "id": "lean_pockets_ham_n_cheddar",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.2,
-          "gram_equivalent": 127
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 2.2,
-          "gram_equivalent": 129
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 22962)",
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
-      "id": "lean_pockets_meatballs_mozzarella",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 3.5
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 4.5,
-          "gram_equivalent": 128
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 22963)",
-      "relations": {
-        "group": "cheese"
       }
     },
     {
@@ -5451,27 +4936,6 @@
       }
     },
     {
-      "id": "crepe_or_buckwheat_pancake_filled_with_egg_ham_and_cheese_prepacked",
-      "category": "dairy_eggs",
-      "tags": [
-        "egg",
-        "k1",
-        "meat",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 25562)",
-      "relations": {
-        "group": "cheese"
-      }
-    },
-    {
       "id": "tart_goat_cheese_and_spinach_prepacked",
       "category": "dairy_eggs",
       "tags": [
@@ -5488,48 +4952,6 @@
       "source": "Ciqual 2025 (Food Code: 26267)",
       "relations": {
         "group": "spinach"
-      }
-    },
-    {
-      "id": "egg_roll_or_nem_with_chicken_prepacked_cooked",
-      "category": "dairy_eggs",
-      "tags": [
-        "cooked",
-        "egg",
-        "k1",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.5
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 25582)",
-      "relations": {
-        "group": "egg"
-      }
-    },
-    {
-      "id": "egg_roll_or_nem_with_pork_prepacked_cooked",
-      "category": "dairy_eggs",
-      "tags": [
-        "cooked",
-        "egg",
-        "k1",
-        "meat"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1.6
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 25583)",
-      "relations": {
-        "group": "egg"
       }
     },
     {
@@ -5589,26 +5011,6 @@
       "source": "Ciqual 2025 (Food Code: 20298)",
       "relations": {
         "group": "carrot"
-      }
-    },
-    {
-      "id": "swiss_chard_leaf_and_stalk_boiledcooked_in_water",
-      "category": "dairy_eggs",
-      "tags": [
-        "cooked",
-        "dairy",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 8.3
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 20301)",
-      "relations": {
-        "group": "kale"
       }
     },
     {
@@ -6928,28 +6330,6 @@
       "source": "Ciqual 2025 (Food Code: 7711)",
       "relations": {
         "group": "milk"
-      }
-    },
-    {
-      "id": "brioche_filled_with_custard_cream_chinese_brioche_type_prepacked",
-      "category": "dairy_eggs",
-      "tags": [
-        "dairy",
-        "k1",
-        "k2"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 4.0,
-          "vitamin_k1_100g_mcg": 2.9,
-          "vitamin_k2_100g_mcg": 1.14
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 7739)",
-      "relations": {
-        "group": "cream"
       }
     },
     {

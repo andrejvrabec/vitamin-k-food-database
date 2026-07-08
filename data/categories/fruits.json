@@ -188,34 +188,6 @@
       }
     },
     {
-      "id": "cookies_fig_bars",
-      "category": "fruits",
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 5.6
-        },
-        {
-          "amount": 1.0,
-          "unit": "piece",
-          "vitamin_k_mcg": 1.6,
-          "gram_equivalent": 28
-        }
-      ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
-      "tags": [
-        "bakery",
-        "k1",
-        "processed",
-        "raw",
-        "sweetened"
-      ],
-      "relations": {
-        "group": "fig"
-      }
-    },
-    {
       "id": "fruit_cocktail_canned_heavy_syrup_solids",
       "category": "fruits",
       "portions": [
@@ -4650,26 +4622,6 @@
       "source": "Ciqual 2025 (Food Code: 31062)",
       "relations": {
         "group": "raspberry"
-      }
-    },
-    {
-      "id": "breton_pudding_cake_with_prunes",
-      "category": "fruits",
-      "tags": [
-        "k1",
-        "raw",
-        "sweetened"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 27.5
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 23121)",
-      "relations": {
-        "group": "plum"
       }
     },
     {

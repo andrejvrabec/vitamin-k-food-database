@@ -319,11 +319,6 @@
     "alternative_names": [],
     "description": "Shortening, industrial, soy (partially hydr )&corn for frying."
   },
-  "healthy_request_chick_w_rice_cond": {
-    "name": "Healthy request, chicken with/ rice, condensed",
-    "alternative_names": [],
-    "description": "Healthy request, chicken with/ rice, condensed."
-  },
   "cereals_rte_kellogg_kelloggs_all_bran_origina": {
     "name": "Cereals, ready-to-eat, kellogg, kellogg's all-bran original",
     "alternative_names": [],
@@ -2109,21 +2104,6 @@
     "alternative_names": [],
     "description": "Wheat flour, white (industrial), 9% prot, bleached, enriched."
   },
-  "fast_foods_eng_muffin_wchssausage": {
-    "name": "Fast foods, eng muffin, withchs&sausage",
-    "alternative_names": [],
-    "description": "Fast foods, eng muffin, withchs&sausage."
-  },
-  "fast_foods_eng_muffin_wegg_chs_canadian_bacon": {
-    "name": "Fast foods, eng muffin, withegg, cheese, &canadian bacon",
-    "alternative_names": [],
-    "description": "Fast foods, eng muffin, withegg, cheese, &canadian bacon."
-  },
-  "fast_foods_eng_muffin_wegg_chs_sausage": {
-    "name": "Fast foods, eng muffin, withegg, cheese, &sausage",
-    "alternative_names": [],
-    "description": "Fast foods, eng muffin, withegg, cheese, &sausage."
-  },
   "fast_foods_french_toast_stks": {
     "name": "Fast foods, french toast steaks",
     "alternative_names": [],
@@ -2134,16 +2114,6 @@
     "alternative_names": [],
     "description": "Burger king, french toast steaks."
   },
-  "fast_foods_bagel_w_ham_egg_chs": {
-    "name": "Fast foods, bagel, with/ ham, egg, & cheese",
-    "alternative_names": [],
-    "description": "Fast foods, bagel, with/ ham, egg, & cheese."
-  },
-  "fast_foods_bagel_w_egg_sausage_patty_chs_cond": {
-    "name": "Fast foods, bagel, with/ egg, sausage patty, cheese, & condmnt",
-    "alternative_names": [],
-    "description": "Fast foods, bagel, with/ egg, sausage patty, cheese, & condmnt."
-  },
   "fast_foods_bagel_w_brkfst_steak_egg_chs_condm": {
     "name": "Fast foods, bagel, with/ breakfast steak, egg, cheese, & condmnt",
     "alternative_names": [],
@@ -2153,11 +2123,6 @@
     "name": "Light ice cream, soft serve, blended with/ cookie pieces",
     "alternative_names": [],
     "description": "Light ice cream, soft serve, blended with/ cookie pieces."
-  },
-  "kentucky_fried_chick_popcorn_chick": {
-    "name": "Kentucky fried chicken, popcorn chicken",
-    "alternative_names": [],
-    "description": "Kentucky fried chicken, popcorn chicken."
   },
   "macaroni_chs_cnd_entree": {
     "name": "Macaroni & cheese, canned entree",
@@ -2174,11 +2139,6 @@
     "alternative_names": [],
     "description": "Pasta withsliced franks in tomato sauce, canned entree."
   },
-  "beef_pot_pie_frz_entree_prep": {
-    "name": "Beef pot pie, frozen entree, prepared",
-    "alternative_names": [],
-    "description": "Beef pot pie, frozen entree, prepared."
-  },
   "hot_pockets_croissant_pockts_chik_brocchdr_st": {
     "name": "Hot pockets, croissant pockts chik, broc&chdr stufd sndwch, frozen",
     "alternative_names": [],
@@ -2189,30 +2149,15 @@
     "alternative_names": [],
     "description": "Tortellini, pasta with/ cheese filling, fresh-refrigerated."
   },
-  "chicken_pot_pie_frz_entree_prep": {
-    "name": "Chicken pot pie, frozen entree, prepared",
-    "alternative_names": [],
-    "description": "Chicken pot pie, frozen entree, prepared."
-  },
   "pasta_wmeatballs_in_tomato_sau_cnd_entree": {
     "name": "Pasta withmeatballs in tomato sauce, canned entree",
     "alternative_names": [],
     "description": "Pasta withmeatballs in tomato sauce, canned entree."
   },
-  "spaghetti_w_meatballs_cnd": {
-    "name": "Spaghetti, with/ meatballs, canned",
-    "alternative_names": [],
-    "description": "Spaghetti, with/ meatballs, canned."
-  },
   "pasta_w_tomato_sau_no_meat_cnd": {
     "name": "Pasta with/ tomato sauce, no meat, canned",
     "alternative_names": [],
     "description": "Pasta with/ tomato sauce, no meat, canned."
-  },
-  "rice_bowl_w_chick_frz_entree_prep": {
-    "name": "Rice bowl with/ chicken, frozen entree, prepared",
-    "alternative_names": [],
-    "description": "Rice bowl with/ chicken, frozen entree, prepared."
   },
   "macaroni_chs_dinner_w_dry_sau_mix_boxed_unckd": {
     "name": "Macaroni & cheese dinner with/ dry sauce mix, boxed, uncooked",
@@ -2274,11 +2219,6 @@
     "alternative_names": [],
     "description": "Piki bread, made from blue cornmeal (hopi)."
   },
-  "restaurant_latino_chick_rice_entree_prep": {
-    "name": "Restaurant, latino, chicken & rice, entree, prepared",
-    "alternative_names": [],
-    "description": "Restaurant, latino, chicken & rice, entree, prepared."
-  },
   "restaurant_latino_arroz_con_frijoles_negros": {
     "name": "Restaurant, latino, arroz con frijoles negros (rice&black bns)",
     "alternative_names": [],
@@ -2313,11 +2253,6 @@
     "name": "Restaurant, chinese, fried rice",
     "alternative_names": [],
     "description": "Restaurant, chinese, fried rice."
-  },
-  "cracker_barrel_chick_tenderloin_platter_fried": {
-    "name": "Cracker barrel, chicken tenderloin platter, fried, frm kid's menu",
-    "alternative_names": [],
-    "description": "Cracker barrel, chicken tenderloin platter, fried, frm kid's menu."
   },
   "cracker_barrel_country_fried_shrimp_platter": {
     "name": "Cracker barrel, country fried shrimp platter",
@@ -2358,11 +2293,6 @@
     "name": "Cereals, ready-to-eat, muesli, dried fruit & nuts",
     "alternative_names": [],
     "description": "Cereals, ready-to-eat, muesli, dried fruit & nuts."
-  },
-  "pork_sausage_rice_links_brownserve_ckd": {
-    "name": "Pork sausage rice links, brown&serve, cooked",
-    "alternative_names": [],
-    "description": "Pork sausage rice links, brown&serve, cooked."
   },
   "rice_cake_cracker": {
     "name": "Rice cake, cracker (incl hain mini rice cakes)",
@@ -2684,11 +2614,6 @@
     "alternative_names": [],
     "description": "Millet flour."
   },
-  "chick_pea_flour": {
-    "name": "Chicken pea flour",
-    "alternative_names": [],
-    "description": "Chicken pea flour."
-  },
   "soya_flour_wholegrain": {
     "name": "Soya flour, wholegrain",
     "alternative_names": [],
@@ -2708,11 +2633,6 @@
     "name": "Shortbread dough, pure butter, prepacked, cooked",
     "alternative_names": [],
     "description": "Shortbread dough, pure butter, prepacked, cooked."
-  },
-  "plant_based_sausage_with_wheat_or_seitan_prepacked": {
-    "name": "Plant-based sausage with wheat or seitan, prepacked",
-    "alternative_names": [],
-    "description": "Plant-based sausage with wheat or seitan, prepacked."
   },
   "brioche_or_vienna_bread_from_bakery": {
     "name": "Brioche or Vienna bread, from bakery",
@@ -3023,5 +2943,640 @@
     "name": "Lasagna or cannelloni with vegetables, prepacked",
     "alternative_names": [],
     "description": "Lasagna or cannelloni with vegetables, prepacked."
+  },
+  "croissants_cheese": {
+    "name": "Croissants, cheese",
+    "alternative_names": [],
+    "description": "Croissants, cheese."
+  },
+  "fast_foods_biscuit_with_egg_and_bacon": {
+    "name": "Fast foods, biscuit, with egg and bacon",
+    "alternative_names": [],
+    "description": "Fast foods, biscuit, with egg and bacon."
+  },
+  "fast_foods_biscuit_with_egg_and_sausage": {
+    "name": "Fast Foods, biscuit, with egg and sausage",
+    "alternative_names": [],
+    "description": "Fast Foods, biscuit, with egg and sausage."
+  },
+  "fast_foods_biscuit_weggbacon": {
+    "name": "Fast foods, biscuit, withegg&bacon",
+    "alternative_names": [],
+    "description": "Fast foods, biscuit, withegg&bacon."
+  },
+  "fast_foods_biscuit_weggham": {
+    "name": "Fast foods, biscuit, withegg&ham",
+    "alternative_names": [],
+    "description": "Fast foods, biscuit, withegg&ham."
+  },
+  "breakfast_items_biscuit_weggsausage": {
+    "name": "Breakfast items, biscuit withegg&sausage",
+    "alternative_names": [],
+    "description": "Breakfast items, biscuit withegg&sausage."
+  },
+  "fast_foods_griddle_cake_sndwch_egg_chs_bacon": {
+    "name": "Fast foods, griddle cake sndwch, egg, cheese, & bacon",
+    "alternative_names": [],
+    "description": "Fast foods, griddle cake sndwch, egg, cheese, & bacon."
+  },
+  "brioche_filled_with_custard_cream_chinese_brioche_type_prepacked": {
+    "name": "Brioche, filled with custard cream (Chinese brioche type), prepacked",
+    "alternative_names": [],
+    "description": "Brioche, filled with custard cream (Chinese brioche type), prepacked."
+  },
+  "cookies_fig_bars": {
+    "name": "Cookies, fig bars",
+    "alternative_names": [],
+    "description": "Cookies, fig bars."
+  },
+  "breton_pudding_cake_with_prunes": {
+    "name": "Breton pudding cake with prunes",
+    "alternative_names": [],
+    "description": "Breton pudding cake with prunes."
+  },
+  "fast_foods_biscuit_wham": {
+    "name": "Fast foods, biscuit, withham",
+    "alternative_names": [],
+    "description": "Fast foods, biscuit, withham."
+  },
+  "fast_foods_biscuit_wsausage": {
+    "name": "Fast foods, biscuit, withsausage",
+    "alternative_names": [],
+    "description": "Fast foods, biscuit, withsausage."
+  },
+  "fast_foods_griddle_cake_sndwch_sausage": {
+    "name": "Fast foods, griddle cake sndwch, sausage",
+    "alternative_names": [],
+    "description": "Fast foods, griddle cake sndwch, sausage."
+  },
+  "cookies_peanut_butter_commercially_prepa": {
+    "name": "Cookies, peanut butter, commercially prepared, regular",
+    "alternative_names": [],
+    "description": "Cookies, peanut butter, commercially prepared, regular."
+  },
+  "croissants_butter": {
+    "name": "Croissants, butter",
+    "alternative_names": [],
+    "description": "Croissants, butter."
+  },
+  "shortening_cake_mix_soybn_cttnsd": {
+    "name": "Shortening cake mix, soybn (hydr)&cttnsd (hydr)",
+    "alternative_names": [],
+    "description": "Shortening cake mix, soybn (hydr)&cttnsd (hydr)."
+  },
+  "shortening_spl_purpose_for_cakesfrostings_soy": {
+    "name": "Shortening, special purpose for cakes&frostings, soybn (hydr)",
+    "alternative_names": [],
+    "description": "Shortening, special purpose for cakes&frostings, soybn (hydr)."
+  },
+  "cookies_butter_commly_prep_enr": {
+    "name": "Cookies, butter, commly prepared, enriched",
+    "alternative_names": [],
+    "description": "Cookies, butter, commly prepared, enriched."
+  },
+  "cookies_choc_chip_commly_prep_reg_higher_fat": {
+    "name": "Cookies, chocolate chip, commly prepared, regular, higher fat, enriched",
+    "alternative_names": [],
+    "description": "Cookies, chocolate chip, commly prepared, regular, higher fat, enriched."
+  },
+  "cookies_pnut_butter_commly_prep_reg": {
+    "name": "Cookies, peanut butter, commly prepared, regular",
+    "alternative_names": [],
+    "description": "Cookies, peanut butter, commly prepared, regular."
+  },
+  "cookies_pnut_butter_sndwch_reg": {
+    "name": "Cookies, peanut butter sndwch, regular",
+    "alternative_names": [],
+    "description": "Cookies, peanut butter sndwch, regular."
+  },
+  "cookies_sugar_prep_from_recipe_made_wmargarin": {
+    "name": "Cookies, sugar, prepared from recipe, made withmargarine",
+    "alternative_names": [],
+    "description": "Cookies, sugar, prepared from recipe, made withmargarine."
+  },
+  "cookies_vanilla_wafers_lower_fat": {
+    "name": "Cookies, vanilla wafers, lower fat",
+    "alternative_names": [],
+    "description": "Cookies, vanilla wafers, lower fat."
+  },
+  "cake_pound_commly_prep_fat_free": {
+    "name": "Cake, pound, commly prepared, fat-free",
+    "alternative_names": [],
+    "description": "Cake, pound, commly prepared, fat-free."
+  },
+  "frostings_choc_creamy_dry_mix_prep_w_butter": {
+    "name": "Frostings, chocolate, creamy, dry mix, prepared with/ butter",
+    "alternative_names": [],
+    "description": "Frostings, chocolate, creamy, dry mix, prepared with/ butter."
+  },
+  "frybread_made_w_lard": {
+    "name": "Frybread, made with/ lard (navajo)",
+    "alternative_names": [],
+    "description": "Frybread, made with/ lard (navajo)."
+  },
+  "brioche_pure_butter_plain_prepacked": {
+    "name": "Brioche, pure butter, plain, prepacked",
+    "alternative_names": [],
+    "description": "Brioche, pure butter, plain, prepacked."
+  },
+  "biscuit_shortbread_with_butter": {
+    "name": "Biscuit shortbread, with butter",
+    "alternative_names": [],
+    "description": "Biscuit shortbread, with butter."
+  },
+  "butter_pound_cake_traditional": {
+    "name": "Butter pound cake, traditional",
+    "alternative_names": [],
+    "description": "Butter pound cake, traditional."
+  },
+  "butter_pound_cake_prepacked": {
+    "name": "Butter pound cake, prepacked",
+    "alternative_names": [],
+    "description": "Butter pound cake, prepacked."
+  },
+  "madeleine_cake_pure_butter_prepacked": {
+    "name": "Madeleine cake, pure butter, prepacked",
+    "alternative_names": [],
+    "description": "Madeleine cake, pure butter, prepacked."
+  },
+  "biscuits_pln_or_bttrmlk_frz_bkd": {
+    "name": "Biscuits, pln or buttermilk, frozen, baked",
+    "alternative_names": [],
+    "description": "Biscuits, pln or buttermilk, frozen, baked."
+  },
+  "biscuits_pln_or_bttrmlk_dry_mix": {
+    "name": "Biscuits, pln or buttermilk, dry mix",
+    "alternative_names": [],
+    "description": "Biscuits, pln or buttermilk, dry mix."
+  },
+  "cake_mix_angelfood_dry": {
+    "name": "Cake mix, angelfood, dry",
+    "alternative_names": [],
+    "description": "Cake mix, angelfood, dry."
+  },
+  "cake_choc_commly_prep_w_choc_frstng_in_store": {
+    "name": "Cake, chocolate, commly prepared with/ chocolate frstng, in-store bakery",
+    "alternative_names": [],
+    "description": "Cake, chocolate, commly prepared with/ chocolate frstng, in-store bakery."
+  },
+  "cake_choc_dry_mix_pudding_type": {
+    "name": "Cake, chocolate, dry mix, pudding-type",
+    "alternative_names": [],
+    "description": "Cake, chocolate, dry mix, pudding-type."
+  },
+  "cake_choc_dry_mix_reg": {
+    "name": "Cake, chocolate, dry mix, regular",
+    "alternative_names": [],
+    "description": "Cake, chocolate, dry mix, regular."
+  },
+  "cake_white_prep_from_recipe_wcocnt_frstng": {
+    "name": "Cake, white, prepared from recipe withcocnt frstng",
+    "alternative_names": [],
+    "description": "Cake, white, prepared from recipe withcocnt frstng."
+  },
+  "cake_fruitcake_commly_prep": {
+    "name": "Cake, fruitcake, commly prepared",
+    "alternative_names": [],
+    "description": "Cake, fruitcake, commly prepared."
+  },
+  "cake_mix_pudd_dry_german_choc": {
+    "name": "Cake mix, pudd, dry, german chocolate",
+    "alternative_names": [],
+    "description": "Cake mix, pudd, dry, german chocolate."
+  },
+  "cake_gingerbread_dry_mix": {
+    "name": "Cake, gingerbread, dry mix",
+    "alternative_names": [],
+    "description": "Cake, gingerbread, dry mix."
+  },
+  "cake_marble_dry_mix_pudding_type": {
+    "name": "Cake, marble, dry mix, pudding-type",
+    "alternative_names": [],
+    "description": "Cake, marble, dry mix, pudding-type."
+  },
+  "cake_snack_cakes_creme_filled_choc_w_frstng": {
+    "name": "Cake, snack cakes, creme-filled, chocolate with/ frstng",
+    "alternative_names": [],
+    "description": "Cake, snack cakes, creme-filled, chocolate with/ frstng."
+  },
+  "cake_sponge_commly_prep": {
+    "name": "Cake, sponge, commly prepared",
+    "alternative_names": [],
+    "description": "Cake, sponge, commly prepared."
+  },
+  "cake_white_dry_mix_pudding_type_enr": {
+    "name": "Cake, white, dry mix, pudding-type, enriched",
+    "alternative_names": [],
+    "description": "Cake, white, dry mix, pudding-type, enriched."
+  },
+  "cake_mix_dry_white_reg": {
+    "name": "Cake mix, dry, white, regular",
+    "alternative_names": [],
+    "description": "Cake mix, dry, white, regular."
+  },
+  "cake_white_prep_from_recipe_wofrstng": {
+    "name": "Cake, white, prepared from recipe withoutfrstng",
+    "alternative_names": [],
+    "description": "Cake, white, prepared from recipe withoutfrstng."
+  },
+  "cake_yel_commly_prep_w_choc_frstng_in_store_b": {
+    "name": "Cake, yellow, commly prepared, with/ chocolate frstng, in-store bakery",
+    "alternative_names": [],
+    "description": "Cake, yellow, commly prepared, with/ chocolate frstng, in-store bakery."
+  },
+  "cake_yel_dry_mix_pudding_type": {
+    "name": "Cake, yellow, dry mix, pudding-type",
+    "alternative_names": [],
+    "description": "Cake, yellow, dry mix, pudding-type."
+  },
+  "cake_yel_dry_mix_reg_enr": {
+    "name": "Cake, yellow, dry mix, regular, enriched",
+    "alternative_names": [],
+    "description": "Cake, yellow, dry mix, regular, enriched."
+  },
+  "cookies_animal_crackers": {
+    "name": "Cookies, animal crackers (incl arrowroot, tea biscuits, )",
+    "alternative_names": [],
+    "description": "Cookies, animal crackers (incl arrowroot, tea biscuits, )."
+  },
+  "cookies_brownies_commly_prep": {
+    "name": "Cookies, brownies, commly prepared",
+    "alternative_names": [],
+    "description": "Cookies, brownies, commly prepared."
+  },
+  "cookies_choc_chip_commly_prep_soft_type": {
+    "name": "Cookies, chocolate chip, commly prepared, soft-type",
+    "alternative_names": [],
+    "description": "Cookies, chocolate chip, commly prepared, soft-type."
+  },
+  "cookies_choc_sndwch_wcreme_filling_reg": {
+    "name": "Cookies, chocolate sndwch, withcreme filling, regular",
+    "alternative_names": [],
+    "description": "Cookies, chocolate sndwch, withcreme filling, regular."
+  },
+  "cookies_choc_sndwch_wex_creme_filling": {
+    "name": "Cookies, chocolate sndwch, withex creme filling",
+    "alternative_names": [],
+    "description": "Cookies, chocolate sndwch, withex creme filling."
+  },
+  "cookies_cocnt_macaroons_prep_from_recipe": {
+    "name": "Cookies, cocnt macaroons, prepared from recipe",
+    "alternative_names": [],
+    "description": "Cookies, cocnt macaroons, prepared from recipe."
+  },
+  "cookies_fortune": {
+    "name": "Cookies, fortune",
+    "alternative_names": [],
+    "description": "Cookies, fortune."
+  },
+  "cookies_gingersnaps": {
+    "name": "Cookies, gingersnaps",
+    "alternative_names": [],
+    "description": "Cookies, gingersnaps."
+  },
+  "cookies_graham_crackers_pln_or_honey": {
+    "name": "Cookies, graham crackers, pln or honey (incl cinn)",
+    "alternative_names": [],
+    "description": "Cookies, graham crackers, pln or honey (incl cinn)."
+  },
+  "cookies_ladyfingers_wlemon_jucrind": {
+    "name": "Cookies, ladyfingers, withlemon juice&rind",
+    "alternative_names": [],
+    "description": "Cookies, ladyfingers, withlemon juice&rind."
+  },
+  "cookies_raisin_soft_type": {
+    "name": "Cookies, raisin, soft-type",
+    "alternative_names": [],
+    "description": "Cookies, raisin, soft-type."
+  },
+  "cookies_shortbread_commly_prep_pln": {
+    "name": "Cookies, shortbread, commly prepared, pln",
+    "alternative_names": [],
+    "description": "Cookies, shortbread, commly prepared, pln."
+  },
+  "cookies_choc_chip_commly_prep_spl_dietary": {
+    "name": "Cookies, chocolate chip, commly prepared, special dietary",
+    "alternative_names": [],
+    "description": "Cookies, chocolate chip, commly prepared, special dietary."
+  },
+  "cookies_choc_sndwch_wcreme_filling_spl_dietar": {
+    "name": "Cookies, chocolate sndwch, withcreme filling, special dietary",
+    "alternative_names": [],
+    "description": "Cookies, chocolate sndwch, withcreme filling, special dietary."
+  },
+  "cookies_sugar_commly_prep_spl_dietary": {
+    "name": "Cookies, sugar, commly prepared, special dietary",
+    "alternative_names": [],
+    "description": "Cookies, sugar, commly prepared, special dietary."
+  },
+  "cookies_sugar_commly_prep_reg": {
+    "name": "Cookies, sugar, commly prepared, regular (incl vanilla)",
+    "alternative_names": [],
+    "description": "Cookies, sugar, commly prepared, regular (incl vanilla)."
+  },
+  "cookies_sugar_wafers_wcreme_filling_reg": {
+    "name": "Cookies, sugar wafers withcreme filling, regular",
+    "alternative_names": [],
+    "description": "Cookies, sugar wafers withcreme filling, regular."
+  },
+  "cookies_vanilla_sndwch_wcreme_filling": {
+    "name": "Cookies, vanilla sndwch withcreme filling",
+    "alternative_names": [],
+    "description": "Cookies, vanilla sndwch withcreme filling."
+  },
+  "doughnuts_cake_type_pln": {
+    "name": "Doughnuts, cake-type, pln (includes unsugared, old-fashioned)",
+    "alternative_names": [],
+    "description": "Doughnuts, cake-type, pln (includes unsugared, old-fashioned)."
+  },
+  "doughnuts_cake_type_choc_sugared_or_glazed": {
+    "name": "Doughnuts, cake-type, chocolate, sugared or glazed",
+    "alternative_names": [],
+    "description": "Doughnuts, cake-type, chocolate, sugared or glazed."
+  },
+  "ice_crm_cones_cake_or_wafer_type": {
+    "name": "Ice cream cones, cake or wafer-type",
+    "alternative_names": [],
+    "description": "Ice cream cones, cake or wafer-type."
+  },
+  "frostings_coconut_nut_rte": {
+    "name": "Frostings, coconut-nut, ready-to-eat",
+    "alternative_names": [],
+    "description": "Frostings, coconut-nut, ready-to-eat."
+  },
+  "frostings_vanilla_creamy_rte": {
+    "name": "Frostings, vanilla, creamy, ready-to-eat",
+    "alternative_names": [],
+    "description": "Frostings, vanilla, creamy, ready-to-eat."
+  },
+  "frosting_glaz_chc_prep_frm_rcip_w_butr_nfsmi": {
+    "name": "Frosting, glaz, chc, prepared-frm-rcip, with/ butr, nfsmi recip no. c-32",
+    "alternative_names": [],
+    "description": "Frosting, glaz, chc, prepared-frm-rcip, with/ butr, nfsmi recip no. c-32."
+  },
+  "kentucky_fried_chick_biscuit_analyzed_prior_t": {
+    "name": "Kentucky fried chicken, biscuit, analyzed prior to january 2007",
+    "alternative_names": [],
+    "description": "Kentucky fried chicken, biscuit, analyzed prior to january 2007."
+  },
+  "brioche_rusk": {
+    "name": "Brioche rusk",
+    "alternative_names": [],
+    "description": "Brioche rusk."
+  },
+  "brioche_rusk_sliced_prepacked": {
+    "name": "Brioche rusk, sliced, prepacked",
+    "alternative_names": [],
+    "description": "Brioche rusk, sliced, prepacked."
+  },
+  "brioche_filled_with_fruits_prepacked": {
+    "name": "Brioche, filled with fruits, prepacked",
+    "alternative_names": [],
+    "description": "Brioche, filled with fruits, prepacked."
+  },
+  "brioche_plain_prepacked": {
+    "name": "Brioche, plain, prepacked",
+    "alternative_names": [],
+    "description": "Brioche, plain, prepacked."
+  },
+  "brioche_average": {
+    "name": "Brioche (average)",
+    "alternative_names": [],
+    "description": "Brioche (average)."
+  },
+  "soja_biscuit_fortified_with_vitamins_and_minerals": {
+    "name": "Soja biscuit, fortified with vitamins and minerals",
+    "alternative_names": [],
+    "description": "Soja biscuit, fortified with vitamins and minerals."
+  },
+  "speculoos_biscuit": {
+    "name": "Speculoos biscuit",
+    "alternative_names": [],
+    "description": "Speculoos biscuit."
+  },
+  "biscuit_shortbread_with_fruits": {
+    "name": "Biscuit shortbread, with fruits",
+    "alternative_names": [],
+    "description": "Biscuit shortbread, with fruits."
+  },
+  "wafer_biscuit_with_vanilla_filling": {
+    "name": "Wafer biscuit, with vanilla filling",
+    "alternative_names": [],
+    "description": "Wafer biscuit, with vanilla filling."
+  },
+  "biscuit_sponge_cake_with_fruits_covering_pre_packed": {
+    "name": "Biscuit sponge cake with fruits covering, pre-packed",
+    "alternative_names": [],
+    "description": "Biscuit sponge cake with fruits covering, pre-packed."
+  },
+  "cake_average": {
+    "name": "Cake (average)",
+    "alternative_names": [],
+    "description": "Cake (average)."
+  },
+  "dessert_opera_cake_type": {
+    "name": "Dessert, Opera cake type",
+    "alternative_names": [],
+    "description": "Dessert, Opera cake type."
+  },
+  "christmas_log_cake": {
+    "name": "Christmas log cake",
+    "alternative_names": [],
+    "description": "Christmas log cake."
+  },
+  "pound_cake_prepacked": {
+    "name": "Pound cake, prepacked",
+    "alternative_names": [],
+    "description": "Pound cake, prepacked."
+  },
+  "kouign_amann_buttered_and_caramelized_milkbread_cake_from_bakery": {
+    "name": "Kouign amann, Buttered and caramelized milkbread cake, from bakery",
+    "alternative_names": [],
+    "description": "Kouign amann, Buttered and caramelized milkbread cake, from bakery."
+  },
+  "wafer_biscuit_thin_filled_with_honey_caramel_or_soft_brown_sugar_prepacked": {
+    "name": "Wafer biscuit, thin, filled with honey, caramel or soft brown sugar, prepacked",
+    "alternative_names": [],
+    "description": "Wafer biscuit, thin, filled with honey, caramel or soft brown sugar, prepacked."
+  },
+  "fruit_cake_candied_fruits_andor_raisins_prepacked": {
+    "name": "Fruit cake (candied fruits and/or raisins), prepacked",
+    "alternative_names": [],
+    "description": "Fruit cake (candied fruits and/or raisins), prepacked."
+  },
+  "marble_cake_prepacked": {
+    "name": "Marble cake, prepacked",
+    "alternative_names": [],
+    "description": "Marble cake, prepacked."
+  },
+  "soft_cake_filled_with_fruits_mini_sponge_roll_type_prepacked": {
+    "name": "Soft cake filled with fruits, mini sponge roll type, prepacked",
+    "alternative_names": [],
+    "description": "Soft cake filled with fruits, mini sponge roll type, prepacked."
+  },
+  "madeleine_cake_prepacked": {
+    "name": "Madeleine cake, prepacked",
+    "alternative_names": [],
+    "description": "Madeleine cake, prepacked."
+  },
+  "almond_cake_financier_prepacked": {
+    "name": "Almond cake, financier, prepacked",
+    "alternative_names": [],
+    "description": "Almond cake, financier, prepacked."
+  },
+  "biscuits_plain_or_buttermilk_dry_mix": {
+    "name": "Biscuits, plain or buttermilk, dry mix",
+    "alternative_names": [],
+    "description": "Biscuits, plain or buttermilk, dry mix."
+  },
+  "biscuits_plain_or_buttermilk_frozen_bake": {
+    "name": "Biscuits, plain or buttermilk, frozen, baked",
+    "alternative_names": [],
+    "description": "Biscuits, plain or buttermilk, frozen, baked."
+  },
+  "cake_angelfood_dry_mix_prepared": {
+    "name": "Cake, angelfood, dry mix, prepared",
+    "alternative_names": [],
+    "description": "Cake, angelfood, dry mix, prepared."
+  },
+  "cake_cheesecake_commercially_prepared": {
+    "name": "Cake, cheesecake, commercially prepared",
+    "alternative_names": [],
+    "description": "Cake, cheesecake, commercially prepared."
+  },
+  "cake_cherry_fudge_with_chocolate_frostin": {
+    "name": "Cake, cherry fudge with chocolate frosting",
+    "alternative_names": [],
+    "description": "Cake, cherry fudge with chocolate frosting."
+  },
+  "cake_coffeecake_cinnamon_with_crumb_topp": {
+    "name": "Cake, coffeecake, cinnamon with crumb topping, dry mix,",
+    "alternative_names": [],
+    "description": "Cake, coffeecake, cinnamon with crumb topping, dry mix,."
+  },
+  "cake_snack_cakes_creme_filled_sponge": {
+    "name": "Cake, snack cakes, creme-filled, sponge",
+    "alternative_names": [],
+    "description": "Cake, snack cakes, creme-filled, sponge."
+  },
+  "cake_sponge_commercially_prepared": {
+    "name": "Cake, sponge, commercially prepared",
+    "alternative_names": [],
+    "description": "Cake, sponge, commercially prepared."
+  },
+  "cookies_molasses": {
+    "name": "Cookies, molasses",
+    "alternative_names": [],
+    "description": "Cookies, molasses."
+  },
+  "cookies_shortbread_commercially_prepared": {
+    "name": "Cookies, shortbread, commercially prepared, plain",
+    "alternative_names": [],
+    "description": "Cookies, shortbread, commercially prepared, plain."
+  },
+  "cookies_sugar_commercially_prepared_regu": {
+    "name": "Cookies, sugar, commercially prepared, regular (includes",
+    "alternative_names": [],
+    "description": "Cookies, sugar, commercially prepared, regular (includes."
+  },
+  "cookies_sugar_wafer_with_creme_filling_s": {
+    "name": "Cookies, sugar wafer, with creme filling, sugar free",
+    "alternative_names": [],
+    "description": "Cookies, sugar wafer, with creme filling, sugar free."
+  },
+  "frostings_coconut_nut_ready_to_eat": {
+    "name": "Frostings, coconut-nut, ready-to-eat",
+    "alternative_names": [],
+    "description": "Frostings, coconut-nut, ready-to-eat."
+  },
+  "frostings_glaze_chocolate_prepared_from": {
+    "name": "Frostings, glaze, chocolate, prepared-from-recipe, with butter, NFSMI Recipe No. C-32",
+    "alternative_names": [],
+    "description": "Frostings, glaze, chocolate, prepared-from-recipe, with butter, NFSMI Recipe No. C-32."
+  },
+  "babyfood_teething_biscuits": {
+    "name": "Babyfood, teething biscuits",
+    "alternative_names": [],
+    "description": "Babyfood, teething biscuits."
+  },
+  "cake_cherry_fudge_wchoc_frstng": {
+    "name": "Cake, cherry fudge withchoc frstng",
+    "alternative_names": [],
+    "description": "Cake, cherry fudge withchoc frstng."
+  },
+  "doughnuts_cake_type_pln_chocolate_coated_or_f": {
+    "name": "Doughnuts, cake-type, pln, chocolate-coated or frstd",
+    "alternative_names": [],
+    "description": "Doughnuts, cake-type, pln, chocolate-coated or frstd."
+  },
+  "chocolate_bar_with_biscuit": {
+    "name": "Chocolate bar with biscuit",
+    "alternative_names": [],
+    "description": "Chocolate bar with biscuit."
+  },
+  "brioche_with_chocolate_chips_or_filled_with_chocolate_prepacked": {
+    "name": "Brioche, with chocolate chips or filled with chocolate, prepacked",
+    "alternative_names": [],
+    "description": "Brioche, with chocolate chips or filled with chocolate, prepacked."
+  },
+  "biscuit_sponge_cake_with_chocolate_covering_pre_packed": {
+    "name": "Biscuit sponge cake, with chocolate covering, pre-packed",
+    "alternative_names": [],
+    "description": "Biscuit sponge cake, with chocolate covering, pre-packed."
+  },
+  "biscuit_small_tart_with_chocolate_covering_prepacked": {
+    "name": "Biscuit (small tart), with chocolate covering, prepacked",
+    "alternative_names": [],
+    "description": "Biscuit (small tart), with chocolate covering, prepacked."
+  },
+  "wafer_biscuit_filled_or_coated_with_chocolate": {
+    "name": "Wafer biscuit, filled or coated with chocolate",
+    "alternative_names": [],
+    "description": "Wafer biscuit, filled or coated with chocolate."
+  },
+  "wafer_biscuit_with_nuts_hazelnut_almond_pralin_etc_filling_with_chocolate_or_not_prep": {
+    "name": "Wafer biscuit, with nuts (hazelnut, almond, praliné, etc.) filling, with chocolate or not, prepacked",
+    "alternative_names": [],
+    "description": "Wafer biscuit, with nuts (hazelnut, almond, praliné, etc.) filling, with chocolate or not, prepacked."
+  },
+  "biscuit_sponge_cake_filled_with_fruits_and_with_chocolate_covering": {
+    "name": "Biscuit sponge cake, filled with fruits and with chocolate covering",
+    "alternative_names": [],
+    "description": "Biscuit sponge cake, filled with fruits and with chocolate covering."
+  },
+  "sponge_cake_with_chocolate_with_or_without_cherry_black_forest_cake": {
+    "name": "Sponge cake with chocolate with or without cherry \"black forest cake\"",
+    "alternative_names": [],
+    "description": "Sponge cake with chocolate with or without cherry \"black forest cake\"."
+  },
+  "brownie_chocolate_cake_prepacked": {
+    "name": "Brownie (chocolate cake), prepacked",
+    "alternative_names": [],
+    "description": "Brownie (chocolate cake), prepacked."
+  },
+  "chocolate_cake_prepacked": {
+    "name": "Chocolate cake, prepacked",
+    "alternative_names": [],
+    "description": "Chocolate cake, prepacked."
+  },
+  "soft_cake_filled_with_chocolate_prepacked": {
+    "name": "Soft cake filled with chocolate, prepacked",
+    "alternative_names": [],
+    "description": "Soft cake filled with chocolate, prepacked."
+  },
+  "soft_cake_with_chocolate_chips_prepacked": {
+    "name": "Soft cake, with chocolate chips, prepacked",
+    "alternative_names": [],
+    "description": "Soft cake, with chocolate chips, prepacked."
+  },
+  "soft_cake_filled_with_chocolate_and_with_chocolate_coating_prepacked": {
+    "name": "Soft cake filled with chocolate and with chocolate coating, prepacked",
+    "alternative_names": [],
+    "description": "Soft cake filled with chocolate and with chocolate coating, prepacked."
+  },
+  "madeleine_cake_with_chocolate_prepacked": {
+    "name": "Madeleine cake, with chocolate, prepacked",
+    "alternative_names": [],
+    "description": "Madeleine cake, with chocolate, prepacked."
   }
 }

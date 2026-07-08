@@ -31,10 +31,8 @@ release_manifest.json
 # Local TODO plan
 todo.md
 
-scratch/Table_Ciqual_2025_ENG.xlsx
+scratch/
 scripts/clean_translations.py
 scripts/import_ciqual.py
 scripts/merge_duplicates.py
 icons/
-scratch/chicken_details.txt
-scratch/print_chicken_details.py

@@ -1445,50 +1445,10 @@
     "alternative_names": [],
     "description": "Fast foods, potatoes, hashed brown."
   },
-  "fast_foods_taco_w_bf_chs_lettuce_hard_shell": {
-    "name": "Fast foods, taco with/ beef, cheese & lettuce, hard shell",
-    "alternative_names": [],
-    "description": "Fast foods, taco with/ beef, cheese & lettuce, hard shell."
-  },
   "fast_foods_potato_mashed": {
     "name": "Fast foods, potato, mashed",
     "alternative_names": [],
     "description": "Fast foods, potato, mashed."
-  },
-  "fast_foods_crispy_chick_filet_sndwch_w_lettuc": {
-    "name": "Fast foods, crispy chicken filet sndwch, with/ lettuce & mayo",
-    "alternative_names": [],
-    "description": "Fast foods, crispy chicken filet sndwch, with/ lettuce & mayo."
-  },
-  "taco_bell_original_taco_w_bf_chs_lettuce": {
-    "name": "Taco bell, original taco with/ beef, cheese & lettuce",
-    "alternative_names": [],
-    "description": "Taco bell, original taco with/ beef, cheese & lettuce."
-  },
-  "taco_bell_soft_taco_w_bf_chs_lettuce": {
-    "name": "Taco bell, soft taco with/ beef, cheese & lettuce",
-    "alternative_names": [],
-    "description": "Taco bell, soft taco with/ beef, cheese & lettuce."
-  },
-  "taco_bell_soft_taco_w_chick_chs_lettuce": {
-    "name": "Taco bell, soft taco with/ chicken, cheese & lettuce",
-    "alternative_names": [],
-    "description": "Taco bell, soft taco with/ chicken, cheese & lettuce."
-  },
-  "kentucky_fried_chick_potato_wedges_analyzed_p": {
-    "name": "Kentucky fried chicken, potato wedges, analyzed prior 2007",
-    "alternative_names": [],
-    "description": "Kentucky fried chicken, potato wedges, analyzed prior 2007."
-  },
-  "fast_foods_taco_w_bf_chs_lettuce_soft": {
-    "name": "Fast foods, taco with/ beef, cheese & lettuce, soft",
-    "alternative_names": [],
-    "description": "Fast foods, taco with/ beef, cheese & lettuce, soft."
-  },
-  "fast_fds_grilled_chick_filet_sndwch_w_lettuce": {
-    "name": "Fast fds, grilled chicken filet sndwch, with/ lettuce, tomato & spread",
-    "alternative_names": [],
-    "description": "Fast fds, grilled chicken filet sndwch, with/ lettuce, tomato & spread."
   },
   "ravioli_meat_filled_w_tomato_sau_or_meat_sau": {
     "name": "Ravioli, meat-filled, with/ tomato sauce or meat sauce, canned",
@@ -1499,11 +1459,6 @@
     "name": "Ravioli, cheese with/ tomato sauce, frozen, not prepared, incl regular & light entrees",
     "alternative_names": [],
     "description": "Ravioli, cheese with/ tomato sauce, frozen, not prepared, incl regular & light entrees."
-  },
-  "corned_bf_potatoes_in_tortilla": {
-    "name": "Corned beef & potatoes in tortilla (apache)",
-    "alternative_names": [],
-    "description": "Corned beef & potatoes in tortilla (apache)."
   },
   "radishes_hawaiian_style_pickled": {
     "name": "Radishes, hawaiian style, pickled",
@@ -2124,9 +2079,34 @@
     "alternative_names": [],
     "description": "Split pea, boiled/cooked in water."
   },
-  "chick_pea_boiledcooked_in_water": {
-    "name": "Chicken pea, boiled/cooked in water",
+  "chard_swiss_raw": {
+    "name": "Chard, swiss, raw",
     "alternative_names": [],
-    "description": "Chicken pea, boiled/cooked in water."
+    "description": "Chard, swiss, raw."
+  },
+  "chard_swiss_ckd_bld_drnd_wosalt": {
+    "name": "Chard, swiss, cooked, boiled, drained, withoutsalt",
+    "alternative_names": [],
+    "description": "Chard, swiss, cooked, boiled, drained, withoutsalt."
+  },
+  "chard_swiss_ckd_bld_drnd_wsalt": {
+    "name": "Chard, swiss, cooked, boiled, drained, withsalt",
+    "alternative_names": [],
+    "description": "Chard, swiss, cooked, boiled, drained, withsalt."
+  },
+  "swiss_chard_leaf_and_stalk_boiledcooked_in_water": {
+    "name": "Swiss chard, leaf and stalk, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Swiss chard, leaf and stalk, boiled/cooked in water."
+  },
+  "butter_bean_or_yellow_bean_canned_drained": {
+    "name": "Butter bean or yellow bean, canned, drained",
+    "alternative_names": [],
+    "description": "Butter bean or yellow bean, canned, drained."
+  },
+  "butter_bean_or_yellow_bean_boiledcooked_in_water": {
+    "name": "Butter bean or yellow bean, boiled/cooked in water",
+    "alternative_names": [],
+    "description": "Butter bean or yellow bean, boiled/cooked in water."
   }
 }

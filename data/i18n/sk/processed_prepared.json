@@ -9,50 +9,10 @@
     "alternative_names": [],
     "description": "Nápoje, UNILEVER, SLIMFAST, náhrada jedla, bežné, pripravené na pitie, plán 3-2-1."
   },
-  "biscuits_plain_or_buttermilk_dry_mix": {
-    "name": "Sušienky, obyčajné alebo cmar, suchá zmes",
-    "alternative_names": [],
-    "description": "Sušienky, obyčajné alebo cmar, suchá zmes."
-  },
-  "biscuits_plain_or_buttermilk_frozen_bake": {
-    "name": "Sušienky, obyčajné alebo cmar, mrazené, pečené",
-    "alternative_names": [],
-    "description": "Sušienky, obyčajné alebo cmar, mrazené, pečené."
-  },
   "boysenberries_frozen_unsweetened": {
     "name": "Boysenberries, mrazené, nenesladené",
     "alternative_names": [],
     "description": "Boysenberries, mrazené, nenesladené."
-  },
-  "cake_angelfood_dry_mix_prepared": {
-    "name": "Torta, angelfood, suchá zmes, pripravené",
-    "alternative_names": [],
-    "description": "Torta, angelfood, suchá zmes, pripravené."
-  },
-  "cake_cheesecake_commercially_prepared": {
-    "name": "Koláč, tvarohový koláč, komerčne pripravený",
-    "alternative_names": [],
-    "description": "Koláč, tvarohový koláč, komerčne pripravený."
-  },
-  "cake_cherry_fudge_with_chocolate_frostin": {
-    "name": "Torta, čerešňový fudge s čokoládovou polevou",
-    "alternative_names": [],
-    "description": "Torta, čerešňový fudge s čokoládovou polevou."
-  },
-  "cake_coffeecake_cinnamon_with_crumb_topp": {
-    "name": "Koláč, kávový koláč, škorica s strúhankovou polevou, suchá zmes,",
-    "alternative_names": [],
-    "description": "Koláč, kávový koláč, škorica s strúhankovou polevou, suchá zmes,."
-  },
-  "cake_snack_cakes_creme_filled_sponge": {
-    "name": "Koláč, zákusky, plnené krémom, piškóty",
-    "alternative_names": [],
-    "description": "Koláč, zákusky, plnené krémom, piškóty."
-  },
-  "cake_sponge_commercially_prepared": {
-    "name": "Koláč, piškót, komerčne pripravený",
-    "alternative_names": [],
-    "description": "Koláč, piškót, komerčne pripravený."
   },
   "candies_5th_avenue_candy_bar": {
     "name": "Cukríky, 5TH AVENUE Candy Bar",
@@ -104,26 +64,6 @@
     "alternative_names": [],
     "description": "Cukríky, hľuzovky, pripravené podľa receptu."
   },
-  "cookies_molasses": {
-    "name": "Sušienky, melasa",
-    "alternative_names": [],
-    "description": "Sušienky, melasa."
-  },
-  "cookies_shortbread_commercially_prepared": {
-    "name": "Sušienky, krehké pečivo, komerčne pripravené, obyčajné",
-    "alternative_names": [],
-    "description": "Sušienky, krehké pečivo, komerčne pripravené, obyčajné."
-  },
-  "cookies_sugar_commercially_prepared_regu": {
-    "name": "Sušienky, cukor, komerčne pripravované, bežné (vrátane",
-    "alternative_names": [],
-    "description": "Sušienky, cukor, komerčne pripravované, bežné (vrátane."
-  },
-  "cookies_sugar_wafer_with_creme_filling_s": {
-    "name": "Sušienky, cukrová oblátka, s krémovou náplňou, bez cukru",
-    "alternative_names": [],
-    "description": "Sušienky, cukrová oblátka, s krémovou náplňou, bez cukru."
-  },
   "crackers_standard_snack_type_regular": {
     "name": "Krekry, štandardné občerstvenie, bežné",
     "alternative_names": [],
@@ -159,25 +99,10 @@
     "alternative_names": [],
     "description": "Dezerty, pena, čokoláda, pripravené podľa receptu."
   },
-  "frostings_coconut_nut_ready_to_eat": {
-    "name": "Polevy, kokosovo-orechové, hotové na priamu konzumáciu",
-    "alternative_names": [],
-    "description": "Polevy, kokosovo-orechové, hotové na priamu konzumáciu."
-  },
-  "frostings_glaze_chocolate_prepared_from": {
-    "name": "Polevy, polevy, čokoláda, pripravené podľa receptu, s maslom, NFSMI Recept č. C-32",
-    "alternative_names": [],
-    "description": "Polevy, polevy, čokoláda, pripravené podľa receptu, s maslom, NFSMI Recept č. C-32."
-  },
   "frozen_novelties_no_sugar_added_fudgsicl": {
     "name": "Mrazené novinky, bez pridaného cukru, FUDGSICLE pop",
     "alternative_names": [],
     "description": "Mrazené novinky, bez pridaného cukru, FUDGSICLE pop."
-  },
-  "gravy_beef_canned_ready_to_serve": {
-    "name": "Omáčka, hovädzie mäso, konzerva, pripravené na servírovanie",
-    "alternative_names": [],
-    "description": "Omáčka, hovädzie mäso, konzerva, pripravené na servírovanie."
   },
   "ice_creams_vanilla_light_no_sugar_added": {
     "name": "Zmrzliny, vanilkové, svetlé, bez pridaného cukru",
@@ -294,30 +219,10 @@
     "alternative_names": [],
     "description": "Občerstvenie, tortilla chipsy, príchuť ranča."
   },
-  "soup_beef_and_vegetables_canned_ready_to": {
-    "name": "Polievka, hovädzie mäso a zelenina, konzervované, pripravené na servírovanie",
-    "alternative_names": [],
-    "description": "Polievka, hovädzie mäso a zelenina, konzervované, pripravené na servírovanie."
-  },
-  "soup_chicken_canned_chunky_ready_to_serv": {
-    "name": "Polievka, kuracie mäso, konzerva, hrubá, pripravená na servírovanie",
-    "alternative_names": [],
-    "description": "Polievka, kuracie mäso, konzerva, hrubá, pripravená na servírovanie."
-  },
-  "soup_cream_of_chicken_canned_condensed_r": {
-    "name": "Polievka, kurací krém, konzerva, kondenzovaná, redukovaná",
-    "alternative_names": [],
-    "description": "Polievka, kurací krém, konzerva, kondenzovaná, redukovaná."
-  },
   "soup_pea_green_canned_condensed": {
     "name": "Polievka, hrachová, zelená, konzervovaná, kondenzovaná",
     "alternative_names": [],
     "description": "Polievka, hrachová, zelená, konzervovaná, kondenzovaná."
-  },
-  "soup_pea_split_with_ham_canned_chunky_re": {
-    "name": "Polievka, hrášková, šunková, konzervovaná, hrubá, pripravená na servírovanie",
-    "alternative_names": [],
-    "description": "Polievka, hrášková, šunková, konzervovaná, hrubá, pripravená na servírovanie."
   },
   "soup_tomato_canned_condensed_reduced_sod": {
     "name": "Polievka, paradajková, konzervovaná, kondenzovaná, so zníženým obsahom sodíka",
@@ -359,25 +264,10 @@
     "alternative_names": [],
     "description": "Šľahaná poleva Reddi wip bez tuku."
   },
-  "babyfood_meat_bf_str": {
-    "name": "Detská výživa, mäso, hovädzie, str",
-    "alternative_names": [],
-    "description": "Detská výživa, mäso, hovädzie, str."
-  },
   "babyfood_meat_lamb_str": {
     "name": "Detská výživa, mäso, jahňacie, str",
     "alternative_names": [],
     "description": "Detská výživa, mäso, jahňacie, str."
-  },
-  "babyfood_meat_chick_str": {
-    "name": "Detská výživa, mäso, kuracie, str",
-    "alternative_names": [],
-    "description": "Detská výživa, mäso, kuracie, str."
-  },
-  "babyfood_meat_chick_jr": {
-    "name": "Detská výživa, mäso, kuracie, ml",
-    "alternative_names": [],
-    "description": "Detská výživa, mäso, kuracie, ml."
   },
   "gerber_graduates_fruit_strips_real_fruit_bars": {
     "name": "Gerber absolventov ovocných pásikov skutočné ovocné tyčinky",
@@ -389,25 +279,10 @@
     "alternative_names": [],
     "description": "Detská výživa, mäso, mäsové steaky, ml."
   },
-  "babyfood_dinner_macaronitomatobf_str": {
-    "name": "Detská výživa, večera, makaróny&paradajky&hovädzie, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, makaróny&paradajky&hovädzie, str."
-  },
-  "babyfood_dinner_macaronitomatobf_jr": {
-    "name": "Detská výživa, večera, makaróny&paradajky&hovädzie, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, makaróny&paradajky&hovädzie, junior."
-  },
   "babyfood_ravioli_chs_filled_wtomato_sau": {
     "name": "Detská výživa, ravioli, syr plnené, s paradajkovou omáčkou",
     "alternative_names": [],
     "description": "Detská výživa, ravioli, syr plnené, s paradajkovou omáčkou."
-  },
-  "babyfood_dinner_bf_noodle_str": {
-    "name": "Detská výživa, večera, hovädzie rezance, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, hovädzie rezance, str."
   },
   "babyfood_macaronichs_todd": {
     "name": "Detská výživa, makaróny&syr, todd",
@@ -419,95 +294,15 @@
     "alternative_names": [],
     "description": "Detská výživa, večera, špagety&paradajka&mäso, ml."
   },
-  "babyfood_dinner_bf_stew_todd": {
-    "name": "Detská výživa, večera, hovädzie guláš, todd",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, hovädzie guláš, todd."
-  },
-  "babyfood_dinner_vegbf_str": {
-    "name": "Detská výživa, večera, zelenina&hovädzie, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zelenina&hovädzie, str."
-  },
-  "babyfood_dinner_vegbf_jr": {
-    "name": "Detská výživa, večera, zelenina&hovädzie, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zelenina&hovädzie, junior."
-  },
-  "babyfood_dinner_bf_wveg": {
-    "name": "Detská výživa, večera, hovädzie so zeleninou",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, hovädzie so zeleninou."
-  },
-  "babyfood_dinner_vegbacon_str": {
-    "name": "Detská výživa, večera, zelenina a slanina, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zelenina a slanina, str."
-  },
-  "babyfood_dinner_vegham_str": {
-    "name": "Detská výživa, večera, zelenina a šunka, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zelenina a šunka, str."
-  },
-  "babyfood_dinner_vegham_jr": {
-    "name": "Detská výživa, večera, zelenina a šunka, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zelenina a šunka, junior."
-  },
   "babyfood_dinner_veglamb_str": {
     "name": "Detská výživa, večera, zelenina a jahňacie mäso, str",
     "alternative_names": [],
     "description": "Detská výživa, večera, zelenina a jahňacie mäso, str."
   },
-  "babyfood_dinner_chick_noodle_str": {
-    "name": "Detská výživa, večera, kuracie rezance, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, kuracie rezance, str."
-  },
-  "babyfood_dinner_chick_noodle_jr": {
-    "name": "Detská výživa, večera, kuracie rezance, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, kuracie rezance, junior."
-  },
-  "babyfood_dinner_chick_soup_str": {
-    "name": "Detská výživa, večera, kuracia polievka, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, kuracia polievka, str."
-  },
-  "babyfood_dinner_chick_stew_todd": {
-    "name": "Detská výživa večera kuracie guláš todd",
-    "alternative_names": [],
-    "description": "Detská výživa večera kuracie guláš todd."
-  },
-  "babyfood_dinner_veg_chick_str": {
-    "name": "Detská výživa, večera, zeleninové kurča, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zeleninové kurča, str."
-  },
   "babyfood_dinner_pasta_wveg": {
     "name": "Detská výživa, večera, cestoviny so zeleninou",
     "alternative_names": [],
     "description": "Detská výživa, večera, cestoviny so zeleninou."
-  },
-  "babyfood_dinner_turkeyrice_str": {
-    "name": "Detská výživa, večera, moriak a ryža, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, moriak a ryža, str."
-  },
-  "babyfood_dinner_turkeyrice_jr": {
-    "name": "Detská výživa, večera, moriak a ryža, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, moriak a ryža, junior."
-  },
-  "babyfood_dinner_vegturkey_str": {
-    "name": "Detská výživa, večera, zelenina a morka, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zelenina a morka, str."
-  },
-  "babyfood_dinner_vegturkey_jr": {
-    "name": "Detská výživa, večera, zelenina a moriak, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zelenina a moriak, junior."
   },
   "babyfood_dinner_macaronichs_str": {
     "name": "Detská výživa, večera, makaróny&syr, str",
@@ -834,11 +629,6 @@
     "alternative_names": [],
     "description": "Detská výživa, praclíky."
   },
-  "babyfood_teething_biscuits": {
-    "name": "Detská výživa, sušienky na prerezávanie zúbkov",
-    "alternative_names": [],
-    "description": "Detská výživa, sušienky na prerezávanie zúbkov."
-  },
   "babyfood_dssrt_dutch_appl_str": {
     "name": "Detská výživa, dezert, holandská aplikácia, str",
     "alternative_names": [],
@@ -894,11 +684,6 @@
     "alternative_names": [],
     "description": "Detská výživa, džús, jablko a čerešňa."
   },
-  "babyfood_dinner_vegchick_jr": {
-    "name": "Detská výživa, večera, zelenina&kuracie, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zelenina&kuracie, junior."
-  },
   "babyfood_fruit_bananas_wtapioca_jr": {
     "name": "Detská výživa, ovocie, banány s tapiokou, junior",
     "alternative_names": [],
@@ -919,40 +704,15 @@
     "alternative_names": [],
     "description": "Detská výživa, zelenina, zmes zeleniny str."
   },
-  "babyfood_dinner_bf_noodle_jr": {
-    "name": "Detská výživa, večera, hovädzie rezance, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, hovädzie rezance, junior."
-  },
   "babyfood_appls_wham_str": {
     "name": "Detská výživa, jablká so šunkou, str",
     "alternative_names": [],
     "description": "Detská výživa, jablká so šunkou, str."
   },
-  "babyfood_carrotsbf_str": {
-    "name": "Detská výživa, mrkva&hovädzie, str",
-    "alternative_names": [],
-    "description": "Detská výživa, mrkva&hovädzie, str."
-  },
   "babyfood_plums_bananasrice_str": {
     "name": "Detská výživa, slivky, banány a ryža, str",
     "alternative_names": [],
     "description": "Detská výživa, slivky, banány a ryža, str."
-  },
-  "babyfood_dinner_turkey_rice_and_veg_todd": {
-    "name": "Detská výživa, večera, morka, ryža a zelenina, todd",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, morka, ryža a zelenina, todd."
-  },
-  "babyfood_dinner_applschick_str": {
-    "name": "Detská výživa, večera, appls&kuracie, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, appls&kuracie, str."
-  },
-  "babyfood_dinner_broccoli_chick_jr": {
-    "name": "Detská výživa, večera, brokolica a kuracie, junior",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, brokolica a kuracie, junior."
   },
   "babyfood_beverage_gerber_graduate_fruit_splas": {
     "name": "Detská výživa, nápoje, gerberové postrekovače ovocia",
@@ -963,16 +723,6 @@
     "name": "Detská výživa, desiata, jogurt s gerberami",
     "alternative_names": [],
     "description": "Detská výživa, desiata, jogurt s gerberami."
-  },
-  "babyfood_dinner_swt_potatoeschick_str": {
-    "name": "Detská výživa, večera, zemiaky a kuracie mäso, str",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zemiaky a kuracie mäso, str."
-  },
-  "babyfood_dinner_potatoes_wchsham_todd": {
-    "name": "Detská výživa, večera, zemiaky s syr&ham, todd",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, zemiaky s syr&ham, todd."
   },
   "babyfood_crl_barley_prep_wwhl_milk": {
     "name": "Detská výživa, crl, jačmeň, príprava s mliekom",
@@ -1189,16 +939,6 @@
     "alternative_names": [],
     "description": "Polievka, čierna fazuľa, konzervované, kondenzované."
   },
-  "soup_bean_w_pork_cnd_cond": {
-    "name": "Polievka, fazuľová s bravčovým mäsom, konzervované, kond",
-    "alternative_names": [],
-    "description": "Polievka, fazuľová s bravčovým mäsom, konzervované, kond."
-  },
-  "soup_bf_noodle_cnd_cond": {
-    "name": "Polievka, hovädzie rezance, konzervované, kondenzované",
-    "alternative_names": [],
-    "description": "Polievka, hovädzie rezance, konzervované, kondenzované."
-  },
   "soup_crm_of_celery_cnd_cond": {
     "name": "Polievka, krém zeler, konzervované, kondenzované",
     "alternative_names": [],
@@ -1208,51 +948,6 @@
     "name": "Polievka, syr, konzervované, kondenzované",
     "alternative_names": [],
     "description": "Polievka, syr, konzervované, kondenzované."
-  },
-  "soup_chick_w_dumplings_cnd_cond": {
-    "name": "Polievka, kuracina s knedľou, konzervované, kond",
-    "alternative_names": [],
-    "description": "Polievka, kuracina s knedľou, konzervované, kond."
-  },
-  "soup_chick_cnd_chunky_rts": {
-    "name": "Polievka, kura, konzervované, chunky, pripravená",
-    "alternative_names": [],
-    "description": "Polievka, kura, konzervované, chunky, pripravená."
-  },
-  "soup_crm_of_chick_cnd_cond": {
-    "name": "Polievka, krém z kurčiat, konzervované, kondenzované",
-    "alternative_names": [],
-    "description": "Polievka, krém z kurčiat, konzervované, kondenzované."
-  },
-  "soup_chick_gumbo_cnd_cond": {
-    "name": "Polievka, kuracie gumbo, konzervované, kond",
-    "alternative_names": [],
-    "description": "Polievka, kuracie gumbo, konzervované, kond."
-  },
-  "soup_chunky_chick_noodle_cnd_rts": {
-    "name": "Polievka, hrubé kuracie rezance, konzervované, pripravená",
-    "alternative_names": [],
-    "description": "Polievka, hrubé kuracie rezance, konzervované, pripravená."
-  },
-  "soup_chick_rice_cnd_chunky_rts": {
-    "name": "Polievka, kuracia ryža, konzervované, chunky, pripravená",
-    "alternative_names": [],
-    "description": "Polievka, kuracia ryža, konzervované, chunky, pripravená."
-  },
-  "soup_chick_w_rice_cnd_cond": {
-    "name": "Polievka, kuracie mäso s ryžou, konzervované, ochucená",
-    "alternative_names": [],
-    "description": "Polievka, kuracie mäso s ryžou, konzervované, ochucená."
-  },
-  "soup_chick_veg_cnd_cond": {
-    "name": "Polievka, kuracia zelenina, konzervované, kond",
-    "alternative_names": [],
-    "description": "Polievka, kuracia zelenina, konzervované, kond."
-  },
-  "soup_chili_bf_cnd_cond": {
-    "name": "Polievka, chilli hovädzie, konzervované, kondenzované",
-    "alternative_names": [],
-    "description": "Polievka, chilli hovädzie, konzervované, kondenzované."
   },
   "soup_clam_chowder_manhattan_style_cnd_chunky": {
     "name": "Polievka, mušľová polievka, manhattan štýl, konzervované, chunky, pripravená",
@@ -1289,11 +984,6 @@
     "alternative_names": [],
     "description": "Polievka, krém z húb, konzervované, kondenzované."
   },
-  "soup_mushroom_w_bf_stock_cnd_cond": {
-    "name": "Polievka, hubová s vývarom, konzervované, ochucovadlo",
-    "alternative_names": [],
-    "description": "Polievka, hubová s vývarom, konzervované, ochucovadlo."
-  },
   "soup_onion_cnd_cond": {
     "name": "Polievka, cibuľa, konzervované, kondenzované",
     "alternative_names": [],
@@ -1314,16 +1004,6 @@
     "alternative_names": [],
     "description": "Polievka, krém zo zemiakov, konzervované, kond."
   },
-  "soup_turkey_noodle_cnd_cond": {
-    "name": "Polievka, morčacie rezance, konzervované, kond",
-    "alternative_names": [],
-    "description": "Polievka, morčacie rezance, konzervované, kond."
-  },
-  "soup_turkey_veg_cnd_cond": {
-    "name": "Polievka, morčacia zelenina, konzervované, kond",
-    "alternative_names": [],
-    "description": "Polievka, morčacia zelenina, konzervované, kond."
-  },
   "soup_chunky_veg_cnd_rts": {
     "name": "Polievka, hrubá zelenina, konzervované, pripravená",
     "alternative_names": [],
@@ -1333,31 +1013,6 @@
     "name": "Polievka, vegetariánska zelenina, konzervované, kondenzované",
     "alternative_names": [],
     "description": "Polievka, vegetariánska zelenina, konzervované, kondenzované."
-  },
-  "soup_chunky_bf_cnd_rts": {
-    "name": "Polievka, robustná hovädzie, konzervované, pripravená",
-    "alternative_names": [],
-    "description": "Polievka, robustná hovädzie, konzervované, pripravená."
-  },
-  "soup_veg_bf_cnd_cond": {
-    "name": "Polievka, zelenina hovädzie, konzervované, kondenzované",
-    "alternative_names": [],
-    "description": "Polievka, zelenina hovädzie, konzervované, kondenzované."
-  },
-  "soup_veg_w_bf_broth_cnd_cond": {
-    "name": "Polievka, zelenina s vývarom, konzervované, ochucovadlo",
-    "alternative_names": [],
-    "description": "Polievka, zelenina s vývarom, konzervované, ochucovadlo."
-  },
-  "soup_bf_broth_or_bouillon_pdr_dry": {
-    "name": "Polievka, hovädzie bujon alebo bujón, prášok, suché",
-    "alternative_names": [],
-    "description": "Polievka, hovädzie bujon alebo bujón, prášok, suché."
-  },
-  "soup_bf_noodle_dry_mix": {
-    "name": "Polievka, hovädzie rezance, suché, mix",
-    "alternative_names": [],
-    "description": "Polievka, hovädzie rezance, suché, mix."
   },
   "soup_onion_dry_mix": {
     "name": "Polievka, cibuľa, suchá, mix",
@@ -1379,35 +1034,10 @@
     "alternative_names": [],
     "description": "Omáčka, syr, suchá, prášok."
   },
-  "gravy_bf_cnd_rts": {
-    "name": "Omáčka, hovädzie, konzervované, pripravená",
-    "alternative_names": [],
-    "description": "Omáčka, hovädzie, konzervované, pripravená."
-  },
-  "gravy_chick_cnd_rts": {
-    "name": "Omáčka, kurča, konzervované, pripravená",
-    "alternative_names": [],
-    "description": "Omáčka, kurča, konzervované, pripravená."
-  },
   "gravy_mushroom_dry_pdr": {
     "name": "Omáčka, huba, suchá, prášok",
     "alternative_names": [],
     "description": "Omáčka, huba, suchá, prášok."
-  },
-  "gravy_pork_dry_pdr": {
-    "name": "Omáčka, bravčové, suché, prášok",
-    "alternative_names": [],
-    "description": "Omáčka, bravčové, suché, prášok."
-  },
-  "soup_chick_noodle_dry_mix": {
-    "name": "Polievka, kuracie rezance, suché, mix",
-    "alternative_names": [],
-    "description": "Polievka, kuracie rezance, suché, mix."
-  },
-  "soup_chick_mushroom_cnd_cond": {
-    "name": "Polievka, kuracia huba, konzervované, kondenzované",
-    "alternative_names": [],
-    "description": "Polievka, kuracia huba, konzervované, kondenzované."
   },
   "sauce_barbecue": {
     "name": "Omáčka, gril",
@@ -1449,16 +1079,6 @@
     "alternative_names": [],
     "description": "Omáčka, pripravená, korenie, tabasco."
   },
-  "soup_stock_beef_home_prepared": {
-    "name": "Polievka, vývar, hovädzie mäso, doma pripravené",
-    "alternative_names": [],
-    "description": "Polievka, vývar, hovädzie mäso, doma pripravené."
-  },
-  "soup_stock_chick_home_prepared": {
-    "name": "Polievka, vývar, kuracie mäso, doma pripravené",
-    "alternative_names": [],
-    "description": "Polievka, vývar, kuracie mäso, doma pripravené."
-  },
   "sauce_hoisin_rts": {
     "name": "Omáčka, hoisin, pripravená",
     "alternative_names": [],
@@ -1469,25 +1089,10 @@
     "alternative_names": [],
     "description": "Polievka, minestrone, konzervované, červená na, pripravená."
   },
-  "soup_beanham_cnd_red_na_prep_wh2o_or_rts": {
-    "name": "Polievka, fazuľa a šunka, konzervované, červená na, príprava s vodou alebo pripravená",
-    "alternative_names": [],
-    "description": "Polievka, fazuľa a šunka, konzervované, červená na, príprava s vodou alebo pripravená."
-  },
   "split_pea_soup_cnd_red_na_prep_w_h2o_or_ready": {
     "name": "Hrachová polievka, konzervované, červená na, príprava s vodou alebo pripravená na servírovanie",
     "alternative_names": [],
     "description": "Hrachová polievka, konzervované, červená na, príprava s vodou alebo pripravená na servírovanie."
-  },
-  "split_pea_w_ham_soup_cnd_red_na_prep_w_h2o_or": {
-    "name": "Hrášok so šunkovou polievkou, konzervované, červený na, príprava s vodou alebo pripravená",
-    "alternative_names": [],
-    "description": "Hrášok so šunkovou polievkou, konzervované, červený na, príprava s vodou alebo pripravená."
-  },
-  "soup_chick_veg_wpotatochs_chunky_rts": {
-    "name": "Polievka, kuracia zelenina so zemiakmi, hrubá, pripravená",
-    "alternative_names": [],
-    "description": "Polievka, kuracia zelenina so zemiakmi, hrubá, pripravená."
   },
   "soup_veg_cnd_lo_na_cond": {
     "name": "Polievka, zelenina, konzervované, lo na, kondenzované",
@@ -1534,36 +1139,6 @@
     "alternative_names": [],
     "description": "Polievka, čierna fazuľa, konzervované, príprava s ekvivalentným objemom vody."
   },
-  "soup_bf_noodle_cnd_prep_w_eq_volume_h2o": {
-    "name": "Polievka, hovädzie rezance, konzervované, príprava s rovnakým objemom vody",
-    "alternative_names": [],
-    "description": "Polievka, hovädzie rezance, konzervované, príprava s rovnakým objemom vody."
-  },
-  "soup_chick_w_dumplings_cnd_prep_w_eq_volume_h": {
-    "name": "Polievka, kuracie mäso s knedľou, konzervované, príprava s rovnakým objemom vody",
-    "alternative_names": [],
-    "description": "Polievka, kuracie mäso s knedľou, konzervované, príprava s rovnakým objemom vody."
-  },
-  "soup_chick_gumbo_cnd_prep_w_eq_volume_h2o": {
-    "name": "Polievka, kuracia guma, konzervované, príprava s ekvivalentným objemom vody",
-    "alternative_names": [],
-    "description": "Polievka, kuracia guma, konzervované, príprava s ekvivalentným objemom vody."
-  },
-  "soup_chick_w_rice_cnd_prep_w_eq_volume_h2o": {
-    "name": "Polievka, kuracie mäso s ryžou, konzervované, príprava s ekvivalentným objemom vody",
-    "alternative_names": [],
-    "description": "Polievka, kuracie mäso s ryžou, konzervované, príprava s ekvivalentným objemom vody."
-  },
-  "soup_chick_veg_cnd_prep_w_eq_volume_h2o": {
-    "name": "Polievka, kuracia zelenina, konzervované, príprava s ekvivalentným objemom vody",
-    "alternative_names": [],
-    "description": "Polievka, kuracia zelenina, konzervované, príprava s ekvivalentným objemom vody."
-  },
-  "soup_chili_bf_cnd_prep_w_eq_volume_h2o": {
-    "name": "Polievka, chilli hovädzie, konzervované, príprava s rovnakým objemom vody",
-    "alternative_names": [],
-    "description": "Polievka, chilli hovädzie, konzervované, príprava s rovnakým objemom vody."
-  },
   "soup_clam_chowder_manhattan_cnd_prep_weq_volu": {
     "name": "Polievka, mušľová polievka, manhattan, konzervované, príprava s objemom vody",
     "alternative_names": [],
@@ -1599,26 +1174,6 @@
     "alternative_names": [],
     "description": "Polievka, vegetariánska zelenina, konzervované, príprava s ekvivalentným objemom vody."
   },
-  "soup_veg_bf_cnd_prep_w_eq_volume_h2o": {
-    "name": "Polievka, zelenina hovädzie, konzervované, príprava s rovnakým objemom vody",
-    "alternative_names": [],
-    "description": "Polievka, zelenina hovädzie, konzervované, príprava s rovnakým objemom vody."
-  },
-  "soup_bean_w_bacon_dry_mix_prep_w_h2o": {
-    "name": "Polievka, fazuľa so slaninou, suchá, mix, príprava s vodou",
-    "alternative_names": [],
-    "description": "Polievka, fazuľa so slaninou, suchá, mix, príprava s vodou."
-  },
-  "soup_crm_of_chick_dry_mix_prep_w_h2o": {
-    "name": "Polievka, kuracia kaša, suchá, mix, príprava s vodou",
-    "alternative_names": [],
-    "description": "Polievka, kuracia kaša, suchá, mix, príprava s vodou."
-  },
-  "soup_chick_rice_dry_mix_prep_w_h2o": {
-    "name": "Polievka, kuracia ryža, suchá, mix, príprava s vodou",
-    "alternative_names": [],
-    "description": "Polievka, kuracia ryža, suchá, mix, príprava s vodou."
-  },
   "soup_onion_dry_mix_prep_w_h2o": {
     "name": "Polievka, cibuľa, suchá, mix, príprava s vodou",
     "alternative_names": [],
@@ -1628,16 +1183,6 @@
     "name": "Polievka, paradajková, suchá, mix, príprava s vodou",
     "alternative_names": [],
     "description": "Polievka, paradajková, suchá, mix, príprava s vodou."
-  },
-  "soup_veg_bf_dry_mix_prep_w_h2o": {
-    "name": "Polievka, zelenina hovädzie, suchá, mix, príprava s vodou",
-    "alternative_names": [],
-    "description": "Polievka, zelenina hovädzie, suchá, mix, príprava s vodou."
-  },
-  "soup_chick_noodle_dry_mix_prep_w_h2o": {
-    "name": "Polievka, kuracie rezance, suché, mix, príprava s vodou",
-    "alternative_names": [],
-    "description": "Polievka, kuracie rezance, suché, mix, príprava s vodou."
   },
   "soup_tomato_cnd_prep_weq_volume_h2o_comm": {
     "name": "Polievka, paradajka, konzervované, pripravené sekv. objem vody, comm",
@@ -1659,11 +1204,6 @@
     "alternative_names": [],
     "description": "Omáčka, cestoviny, špagety/marinara, pripravená."
   },
-  "soup_crm_of_chick_cnd_cond_red_na": {
-    "name": "Polievka, krém z kuracie, konzervované, kondenzované, červená na",
-    "alternative_names": [],
-    "description": "Polievka, krém z kuracie, konzervované, kondenzované, červená na."
-  },
   "soup_tomato_cnd_cond_red_na": {
     "name": "Polievka, paradajková, konzervované, kondenzované, červená na",
     "alternative_names": [],
@@ -1673,16 +1213,6 @@
     "name": "Omáčka, hnedá inšt., suchá",
     "alternative_names": [],
     "description": "Omáčka, hnedá inšt., suchá."
-  },
-  "gravy_inst_bf_dry": {
-    "name": "Omáčka, instantné hovädzie, suchá",
-    "alternative_names": [],
-    "description": "Omáčka, instantné hovädzie, suchá."
-  },
-  "gravy_inst_turkey_dry": {
-    "name": "Omáčka, instantné morka, suchá",
-    "alternative_names": [],
-    "description": "Omáčka, instantné morka, suchá."
   },
   "sauce_alfredo_mix_dry": {
     "name": "Omáčka, zmes alfredo, suchá",
@@ -1739,11 +1269,6 @@
     "alternative_names": [],
     "description": "Omáčka, paradajková čili omáčka, vo fľaši, bez soli, lo na."
   },
-  "soup_veg_chick_cnd_prep_w_h2o_lo_na": {
-    "name": "Polievka, zeleninové kurča, konzervované, príprava s vodou, na",
-    "alternative_names": [],
-    "description": "Polievka, zeleninové kurča, konzervované, príprava s vodou, na."
-  },
   "sauce_barbecue_lo_na": {
     "name": "Omáčka, gril, lo na",
     "alternative_names": [],
@@ -1754,25 +1279,10 @@
     "alternative_names": [],
     "description": "Omáčka, cestoviny, špagety/marinara, pripravená, atď."
   },
-  "soup_bf_mushroom_lo_na_chunk_style": {
-    "name": "Polievka, hovädzie & hub, lo na, kus štýl",
-    "alternative_names": [],
-    "description": "Polievka, hovädzie & hub, lo na, kus štýl."
-  },
-  "soup_bf_stroganoff_cnd_chunky_style_rts": {
-    "name": "Polievka, hovädzie stroganoff, konzervované, chunky style, pripravená",
-    "alternative_names": [],
-    "description": "Polievka, hovädzie stroganoff, konzervované, chunky style, pripravená."
-  },
   "soup_bouillon_cubesgranules_lo_na_dry": {
     "name": "Polievka, bujónové kocky a granule, suché",
     "alternative_names": [],
     "description": "Polievka, bujónové kocky a granule, suché."
-  },
-  "sandwich_spread_pork_beef": {
-    "name": "Nátierka na sendviče, bravčové, hovädzie",
-    "alternative_names": [],
-    "description": "Nátierka na sendviče, bravčové, hovädzie."
   },
   "cereals_rte_chocolate_flavored_frstd_puffed_c": {
     "name": "Cereálie ready-to-eat, frstd pufovaná kukurica s čokoládovou príchuťou",
@@ -1814,11 +1324,6 @@
     "alternative_names": [],
     "description": "Nápoj mix s príchuťou čokolády s prídavkom Nutramigen, príprava s mliekom."
   },
-  "cake_cherry_fudge_wchoc_frstng": {
-    "name": "Koláč, čerešňový fudge s čokoládou",
-    "alternative_names": [],
-    "description": "Koláč, čerešňový fudge s čokoládou."
-  },
   "coffeecake_cinn_wcrumb_topping_dry_mix": {
     "name": "Kávový koláč, polievka s strúhankou, suchá zmes",
     "alternative_names": [],
@@ -1828,11 +1333,6 @@
     "name": "Kávový koláč, polievka s strúhankou, suchá zmes, príprava",
     "alternative_names": [],
     "description": "Kávový koláč, polievka s strúhankou, suchá zmes, príprava."
-  },
-  "doughnuts_cake_type_pln_chocolate_coated_or_f": {
-    "name": "Šišky, tortové, plnkové, v čokoláde alebo frstd",
-    "alternative_names": [],
-    "description": "Šišky, tortové, plnkové, v čokoláde alebo frstd."
   },
   "corn_based_extruded_chips_pln": {
     "name": "Na báze kukurice, extrudované, štiepky, pln",
@@ -2354,11 +1854,6 @@
     "alternative_names": [],
     "description": "Pizza Digiorno, supreme topping, tenká chrumkavá kôrka, mrazené, pečené."
   },
-  "fast_fd_pizza_chain_14_pizza_sausage_topping": {
-    "name": "Fast fd, pizza chain, 14\" pizza, klobása topping, hustá kôrka",
-    "alternative_names": [],
-    "description": "\"fast fd, pizza chain, 14\" pizza, klobása topping, hustá kôrka\"."
-  },
   "tky_stuffing_mshd_potato_wgravy_assorted_veg": {
     "name": "Tky, plnka, mshd zemiak s omáčkou, rozmanitá zelenina, mrazené, mikrovlnka",
     "alternative_names": [],
@@ -2634,11 +2129,6 @@
     "alternative_names": [],
     "description": "Detská výživa, crl, hnedá ryža, suchá, instantné."
   },
-  "babyfood_grn_bnsturkey_str": {
-    "name": "Detská výživa, grn bns&turkey, str",
-    "alternative_names": [],
-    "description": "Detská výživa, grn bns&turkey, str."
-  },
   "babyfood_carrots_toddler": {
     "name": "Detská výživa, mrkva, batoľatá",
     "alternative_names": [],
@@ -2658,11 +2148,6 @@
     "name": "Detská výživa, ovocie, tutti frutti, junior",
     "alternative_names": [],
     "description": "Detská výživa, ovocie, tutti frutti, junior."
-  },
-  "babyfood_dinner_chickrice": {
-    "name": "Detská výživa, večera, kuracie mäso a ryža",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, kuracie mäso a ryža."
   },
   "candies_choc_covered_caramel_wnuts": {
     "name": "Cukríky, v čokoláde, karamel s orechmi",
@@ -2684,25 +2169,10 @@
     "alternative_names": [],
     "description": "Nápoj s čokoládovou príchuťou, srvátka a mlieko bsd."
   },
-  "babyfood_dinner_chicknoodle_wveg_todd": {
-    "name": "Detská výživa, večera, kuracie mäso a rezance so zeleninou, todd",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, kuracie mäso a rezance so zeleninou, todd."
-  },
   "babyfood_juice_pear": {
     "name": "Detská výživa, džús, hruška",
     "alternative_names": [],
     "description": "Detská výživa, džús, hruška."
-  },
-  "babyfood_meat_bf_wveg_todd": {
-    "name": "Detská výživa, mäso, hovädzie so zeleninou, todd",
-    "alternative_names": [],
-    "description": "Detská výživa, mäso, hovädzie so zeleninou, todd."
-  },
-  "babyfood_dinner_macaroni_bftomato_sau_todd": {
-    "name": "Detská výživa, večera, makaróny, hovädzie&paradajková omáčka, todd",
-    "alternative_names": [],
-    "description": "Detská výživa, večera, makaróny, hovädzie&paradajková omáčka, todd."
   },
   "snacks_corn_based_extruded_chips_unsalted": {
     "name": "Pochutiny, na báze kukurice, extrudované, čipsy, nesolené",
@@ -2759,11 +2229,6 @@
     "alternative_names": [],
     "description": "Miešaný zeleninový šalát nakrájaný na kocky, s omáčkou, balený."
   },
-  "caesars_salad_salad_chicken_crotons_sauce_prepacked": {
-    "name": "Caesarov šalát (šalát, kuracie mäso, krutóny, omáčka), balené",
-    "alternative_names": [],
-    "description": "Caesarov šalát (šalát, kuracie mäso, krutóny, omáčka), balené."
-  },
   "beetroot_salad_with_sauce_prepacked": {
     "name": "Cviklový šalát s omáčkou, balený",
     "alternative_names": [],
@@ -2788,21 +2253,6 @@
     "name": "Miešaný šalát na aljašku, so surimi, ananás, mrkva, s omáčkou, balené",
     "alternative_names": [],
     "description": "Miešaný šalát na aljašku, so surimi, ananás, mrkva, s omáčkou, balené."
-  },
-  "pasta_salad_with_chicken_cheese_and_raw_vegetables_with_sauce_prepacked": {
-    "name": "Cestovinový šalát, s kuracím mäsom, syrom a surovou zeleninou, s omáčkou, balené",
-    "alternative_names": [],
-    "description": "Cestovinový šalát, s kuracím mäsom, syrom a surovou zeleninou, s omáčkou, balené."
-  },
-  "pasta_salad_with_chicken_egg_cheese_and_raw_vegetables_with_sauce_prepacked": {
-    "name": "Cestovinový šalát, s kuracím mäsom, vajcom, syrom a surovou zeleninou, s omáčkou, balené",
-    "alternative_names": [],
-    "description": "Cestovinový šalát, s kuracím mäsom, vajcom, syrom a surovou zeleninou, s omáčkou, balené."
-  },
-  "pasta_salad_with_ham_cheese_and_raw_vegetables_with_sauce_prepacked": {
-    "name": "Cestovinový šalát, so šunkou, syrom a surovou zeleninou, s omáčkou, balené",
-    "alternative_names": [],
-    "description": "Cestovinový šalát, so šunkou, syrom a surovou zeleninou, s omáčkou, balené."
   },
   "soup_mixed_vegetables_prepacked_to_be_reheated": {
     "name": "Polievka, miešaná zelenina, balené, na ohrievanie",
@@ -2874,16 +2324,6 @@
     "alternative_names": [],
     "description": "Teľací guláš v bielej omáčke, balený."
   },
-  "chicken_with_curry_and_coconut_milk_sauce_prepacked": {
-    "name": "Kuracie mäso s kari a omáčkou z kokosového mlieka, balené",
-    "alternative_names": [],
-    "description": "Kuracie mäso s kari a omáčkou z kokosového mlieka, balené."
-  },
-  "pork_with_caramel_sauce_prepacked": {
-    "name": "Bravčové mäso s karamelovou omáčkou, balené",
-    "alternative_names": [],
-    "description": "Bravčové mäso s karamelovou omáčkou, balené."
-  },
   "white_fish_with_sorrel_sauce_prepacked": {
     "name": "Biela ryba so šťaveľovou omáčkou, balené",
     "alternative_names": [],
@@ -2928,26 +2368,6 @@
     "name": "Sendvič, bageta, tuniak, surová zelenina a majonéza, z rýchleho občerstvenia",
     "alternative_names": [],
     "description": "Sendvič, bageta, tuniak, surová zelenina a majonéza, z rýchleho občerstvenia."
-  },
-  "sandwich_baguette_ham_and_butter_takeaway": {
-    "name": "Sendvič, bageta, šunka a maslo, jedlo so sebou",
-    "alternative_names": [],
-    "description": "Sendvič, bageta, šunka a maslo, jedlo so sebou."
-  },
-  "sandwich_baguette_ham_and_emmental_cheese_takeaway": {
-    "name": "Sendvič, bageta, šunka a syr ementál, jedlo so sebou",
-    "alternative_names": [],
-    "description": "Sendvič, bageta, šunka a syr ementál, jedlo so sebou."
-  },
-  "sandwich_baguette_chicken_raw_vegetables_and_mayonnaise_takeaway": {
-    "name": "Sendvič, bageta, kuracie mäso, surová zelenina a majonéza, jedlo so sebou",
-    "alternative_names": [],
-    "description": "Sendvič, bageta, kuracie mäso, surová zelenina a majonéza, jedlo so sebou."
-  },
-  "sandwich_baguette_dry_sausage_and_butter_takeaway": {
-    "name": "Sendvič, bageta, suchá klobása a maslo, jedlo so sebou",
-    "alternative_names": [],
-    "description": "Sendvič, bageta, suchá klobása a maslo, jedlo so sebou."
   },
   "sandwich_baguette_camembert_cheese_and_butter_takeaway": {
     "name": "Sendvič, bageta, syr hermelín a maslo, jedlo so sebou",
@@ -3029,11 +2449,6 @@
     "alternative_names": [],
     "description": "Sladový kakaový alebo čokoládový prášok do nápojov s cukrom (cukrami), obohatený o vitamíny a minerály."
   },
-  "chocolate_bar_with_biscuit": {
-    "name": "Čokoládová tyčinka so sušienkami",
-    "alternative_names": [],
-    "description": "Čokoládová tyčinka so sušienkami."
-  },
   "milk_chocolate_bar": {
     "name": "Mliečna čokoláda, tyčinka",
     "alternative_names": [],
@@ -3089,40 +2504,10 @@
     "alternative_names": [],
     "description": "Mliečna roláda plnená čokoládovými lupienkami, balené."
   },
-  "brioche_with_chocolate_chips_or_filled_with_chocolate_prepacked": {
-    "name": "Brioše s čokoládovými lupienkami alebo plnené čokoládou, balené",
-    "alternative_names": [],
-    "description": "Brioše s čokoládovými lupienkami alebo plnené čokoládou, balené."
-  },
   "crispbread_extruded_and_grilled_chocolate_filling": {
     "name": "Knäckebrot, extrudovaný a grilovaný, čokoládová náplň",
     "alternative_names": [],
     "description": "Knäckebrot, extrudovaný a grilovaný, čokoládová náplň."
-  },
-  "biscuit_sponge_cake_with_chocolate_covering_pre_packed": {
-    "name": "Piškótová torta s čokoládovou polevou, balené",
-    "alternative_names": [],
-    "description": "Piškótová torta s čokoládovou polevou, balené."
-  },
-  "biscuit_small_tart_with_chocolate_covering_prepacked": {
-    "name": "Sušienka (malá tortička), s čokoládovou polevou, balené",
-    "alternative_names": [],
-    "description": "Sušienka (malá tortička), s čokoládovou polevou, balené."
-  },
-  "wafer_biscuit_filled_or_coated_with_chocolate": {
-    "name": "Oblátkové sušienky plnené alebo potiahnuté čokoládou",
-    "alternative_names": [],
-    "description": "Oblátkové sušienky plnené alebo potiahnuté čokoládou."
-  },
-  "wafer_biscuit_with_nuts_hazelnut_almond_pralin_etc_filling_with_chocolate_or_not_prep": {
-    "name": "Oblátkové sušienky, s orechovou (lieskovoorieškovou, mandľovou, pralinkovou atď.) plnkou, s čokoládou alebo bez čokolády, balené",
-    "alternative_names": [],
-    "description": "Oblátkové sušienky, s orechovou (lieskovoorieškovou, mandľovou, pralinkovou atď.) plnkou, s čokoládou alebo bez čokolády, balené."
-  },
-  "biscuit_sponge_cake_filled_with_fruits_and_with_chocolate_covering": {
-    "name": "Piškótová torta plnená ovocím a čokoládovou polevou",
-    "alternative_names": [],
-    "description": "Piškótová torta plnená ovocím a čokoládovou polevou."
   },
   "breakfast_cereals_with_chocolate_extruded_not_filled_fortified_with_vitamins_and_mine": {
     "name": "Raňajkové cereálie s čokoládou, extrudované, neplnené, obohatené o vitamíny a minerály",
@@ -3179,25 +2564,10 @@
     "alternative_names": [],
     "description": "Cereálna tyčinka s čokoládou."
   },
-  "sponge_cake_with_chocolate_with_or_without_cherry_black_forest_cake": {
-    "name": "Piškótová torta s čokoládou s višňou alebo bez čerešne \"black forest cake\"",
-    "alternative_names": [],
-    "description": "Piškótová torta s čokoládou s višňou alebo bez čerešne \"black forest cake\"."
-  },
-  "brownie_chocolate_cake_prepacked": {
-    "name": "Brownie (čokoládová torta), balené",
-    "alternative_names": [],
-    "description": "Brownie (čokoládová torta), balené."
-  },
   "chocolate_tart_from_bakery": {
     "name": "Čokoládový koláč z pekárne",
     "alternative_names": [],
     "description": "Čokoládový koláč z pekárne."
-  },
-  "chocolate_cake_prepacked": {
-    "name": "Čokoládová torta, balená",
-    "alternative_names": [],
-    "description": "Čokoládová torta, balená."
   },
   "crepe_filled_with_chocolate_prepacked": {
     "name": "Palačinka plnená čokoládou, balené",
@@ -3208,26 +2578,6 @@
     "name": "Šišky plnené alebo pokryté čokoládou alebo čokoládou a lieskovo-hnedou pastou, balené",
     "alternative_names": [],
     "description": "Šišky plnené alebo pokryté čokoládou alebo čokoládou a lieskovo-hnedou pastou, balené."
-  },
-  "soft_cake_filled_with_chocolate_prepacked": {
-    "name": "Mäkký koláč plnený čokoládou, balený",
-    "alternative_names": [],
-    "description": "Mäkký koláč plnený čokoládou, balený."
-  },
-  "soft_cake_with_chocolate_chips_prepacked": {
-    "name": "Mäkký koláč s čokoládovými kúskami, balené",
-    "alternative_names": [],
-    "description": "Mäkký koláč s čokoládovými kúskami, balené."
-  },
-  "soft_cake_filled_with_chocolate_and_with_chocolate_coating_prepacked": {
-    "name": "Mäkký koláč plnený čokoládou a čokoládovou polevou, balený",
-    "alternative_names": [],
-    "description": "Mäkký koláč plnený čokoládou a čokoládovou polevou, balený."
-  },
-  "madeleine_cake_with_chocolate_prepacked": {
-    "name": "Madeleine torta s čokoládou, balená",
-    "alternative_names": [],
-    "description": "Madeleine torta s čokoládou, balená."
   },
   "sauce_average": {
     "name": "Omáčka (priemerná)",

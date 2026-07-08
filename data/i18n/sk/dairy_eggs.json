@@ -129,11 +129,6 @@
     "alternative_names": [],
     "description": "Smotanové, kyslé, kultivované."
   },
-  "croissants_cheese": {
-    "name": "Croissanty, syry",
-    "alternative_names": [],
-    "description": "Croissanty, syry."
-  },
   "egg_whole_cooked_omelet": {
     "name": "Vajcia, celé, varené, omeleta",
     "alternative_names": [],
@@ -155,16 +150,6 @@
     "name": "Vaječný likér",
     "alternative_names": [],
     "description": "Vaječný likér."
-  },
-  "fast_foods_biscuit_with_egg_and_bacon": {
-    "name": "Rýchle občerstvenie, sušienka, s vajcom a slaninou",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, sušienka, s vajcom a slaninou."
-  },
-  "fast_foods_biscuit_with_egg_and_sausage": {
-    "name": "Rýchle občerstvenie, sušienky, s vajcom a klobásou",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, sušienky, s vajcom a klobásou."
   },
   "milk_buttermilk_dried": {
     "name": "Mlieko, cmar, sušené",
@@ -611,30 +596,10 @@
     "alternative_names": [],
     "description": "Jogurt, grécky, pln, nemastný."
   },
-  "kielbasa_kolbassy_pork_bf_nonfat_dry_milk": {
-    "name": "Kielbasa, kolbassy, ​​bravčové mäso, hovädzie, odtučnené sušené mlieko",
-    "alternative_names": [],
-    "description": "Kielbasa, kolbassy, ​​bravčové mäso, hovädzie, odtučnené sušené mlieko."
-  },
-  "smoked_link_sausage_porkbf_flrnonfat_dry_milk": {
-    "name": "Údená klobása, bravčové mäso, nízkotučné sušené mlieko",
-    "alternative_names": [],
-    "description": "Údená klobása, bravčové mäso, nízkotučné sušené mlieko."
-  },
   "milk_crl_bar": {
     "name": "Milk & crl bar",
     "alternative_names": [],
     "description": "Milk & crl bar."
-  },
-  "chard_swiss_raw": {
-    "name": "Mangold, švajčiarsky, surový",
-    "alternative_names": [],
-    "description": "Mangold, švajčiarsky, surový."
-  },
-  "chard_swiss_ckd_bld_drnd_wosalt": {
-    "name": "Mangold, swiss, varené, scedené, bez soli",
-    "alternative_names": [],
-    "description": "Mangold, swiss, varené, scedené, bez soli."
   },
   "potatoes_mshd_dehyd_flakes_womilk_dry_form": {
     "name": "Zemiaky, mshd, sušené, vločky s mliekom, suchá forma",
@@ -660,11 +625,6 @@
     "name": "Zemiaky, mshd, doma pripravené, s prídavkom mlieka",
     "alternative_names": [],
     "description": "Zemiaky, mshd, doma pripravené, s prídavkom mlieka."
-  },
-  "chard_swiss_ckd_bld_drnd_wsalt": {
-    "name": "Mangold, swiss, varené, scedené, so soľou",
-    "alternative_names": [],
-    "description": "Mangold, swiss, varené, scedené, so soľou."
   },
   "coconut_milk_raw": {
     "name": "Kokosové mlieko, surové (tekutina získaná z strúhaného mäsa a vody)",
@@ -726,35 +686,10 @@
     "alternative_names": [],
     "description": "Pudingy, vanilka, suchá zmes, reg, príprava s mliekom."
   },
-  "fast_foods_biscuit_weggbacon": {
-    "name": "Rýchle občerstvenie, sušienky, s vajcom a slaninou",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, sušienky, s vajcom a slaninou."
-  },
-  "fast_foods_biscuit_weggham": {
-    "name": "Rýchle občerstvenie, sušienky, s vajcom a šunkou",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, sušienky, s vajcom a šunkou."
-  },
-  "breakfast_items_biscuit_weggsausage": {
-    "name": "Raňajkové položky, sušienky s vajcom a klobásou",
-    "alternative_names": [],
-    "description": "Raňajkové položky, sušienky s vajcom a klobásou."
-  },
   "fast_foods_egg_scrambled": {
     "name": "Rýchle občerstvenie, vajcia, miešané",
     "alternative_names": [],
     "description": "Rýchle občerstvenie, vajcia, miešané."
-  },
-  "fast_foods_griddle_cake_sndwch_egg_chs_bacon": {
-    "name": "Rýchle občerstvenie, tortový sndwch, vajcia, syr a slanina",
-    "alternative_names": [],
-    "description": "Rýchle občerstvenie, tortový sndwch, vajcia, syr a slanina."
-  },
-  "burger_king_croissanwich_w_sausage_egg_chs": {
-    "name": "Burger king, croissan'wich s klobásou, vajcom a syr",
-    "alternative_names": [],
-    "description": "Burger king, croissan'wich s klobásou, vajcom a syr."
   },
   "yogurt_parfait_lowfat_w_fruit_granola": {
     "name": "Jogurtový parfait, nízkotučný, s ovocím a granolou",
@@ -776,35 +711,10 @@
     "alternative_names": [],
     "description": "Burrito, fazuľa a syr, mrazené."
   },
-  "egg_rolls_pork_refr_htd": {
-    "name": "Vaječné rolky, bravčové, chladené, ohriate",
-    "alternative_names": [],
-    "description": "Vaječné rolky, bravčové, chladené, ohriate."
-  },
-  "egg_rolls_chick_refr_htd": {
-    "name": "Vaječné rolky, kuracie, chladené, ohriate",
-    "alternative_names": [],
-    "description": "Vaječné rolky, kuracie, chladené, ohriate."
-  },
   "egg_rolls_veg_refr_htd": {
     "name": "Vaječné rolky, zelenina, chladené, ohriate",
     "alternative_names": [],
     "description": "Vaječné rolky, zelenina, chladené, ohriate."
-  },
-  "hot_pockets_meatballs_mozzarella_stuffed_sndw": {
-    "name": "Hot pockets, fašírky a mozzarellou plnené sndwch, mrazené",
-    "alternative_names": [],
-    "description": "Hot pockets, fašírky a mozzarellou plnené sndwch, mrazené."
-  },
-  "lean_pockets_ham_n_cheddar": {
-    "name": "Chudé vrecká, šunka n čedar",
-    "alternative_names": [],
-    "description": "Chudé vrecká, šunka n čedar."
-  },
-  "lean_pockets_meatballs_mozzarella": {
-    "name": "Chudé vrecká, mäsové guľky a mozzarella",
-    "alternative_names": [],
-    "description": "Chudé vrecká, mäsové guľky a mozzarella."
   },
   "potato_salad_w_egg": {
     "name": "Zemiakový šalát s vajcom",
@@ -966,25 +876,10 @@
     "alternative_names": [],
     "description": "Rastlinný burger alebo steak zo sóje, syra a zeleniny, balené."
   },
-  "crepe_or_buckwheat_pancake_filled_with_egg_ham_and_cheese_prepacked": {
-    "name": "Palacinka krepová alebo pohánková, plnená vajcom, šunkou a syrom, balené",
-    "alternative_names": [],
-    "description": "Palacinka krepová alebo pohánková, plnená vajcom, šunkou a syrom, balené."
-  },
   "tart_goat_cheese_and_spinach_prepacked": {
     "name": "Koláč, kozí syr a špenát, balené",
     "alternative_names": [],
     "description": "Koláč, kozí syr a špenát, balené."
-  },
-  "egg_roll_or_nem_with_chicken_prepacked_cooked": {
-    "name": "Vaječná roláda alebo nem, s kuracím mäsom, balené, varené",
-    "alternative_names": [],
-    "description": "Vaječná roláda alebo nem, s kuracím mäsom, balené, varené."
-  },
-  "egg_roll_or_nem_with_pork_prepacked_cooked": {
-    "name": "Vaječná roláda alebo nem, s bravčovým mäsom, balené, varené",
-    "alternative_names": [],
-    "description": "Vaječná roláda alebo nem, s bravčovým mäsom, balené, varené."
   },
   "egg_roll_or_nem_with_shrimp_andor_crab_prepacked_cooked": {
     "name": "Vaječné rolky alebo nem, s krevetami a/alebo krabmi, balené, varené",
@@ -1000,11 +895,6 @@
     "name": "Mrkva, ochutené pyré so smotanou, balené",
     "alternative_names": [],
     "description": "Mrkva, ochutené pyré so smotanou, balené."
-  },
-  "swiss_chard_leaf_and_stalk_boiledcooked_in_water": {
-    "name": "Švajčiarsky mangold, list a stonka, varené/varené vo vode",
-    "alternative_names": [],
-    "description": "Švajčiarsky mangold, list a stonka, varené/varené vo vode."
   },
   "head_cheese_pt_or_brawn": {
     "name": "Paštéta s hlavovým syrom alebo tlačenka",
@@ -1335,11 +1225,6 @@
     "name": "Mliečna rolka, balené",
     "alternative_names": [],
     "description": "Mliečna rolka, balené."
-  },
-  "brioche_filled_with_custard_cream_chinese_brioche_type_prepacked": {
-    "name": "Brioška, ​​plnená pudingovým krémom (čínsky typ briošky), balené",
-    "alternative_names": [],
-    "description": "Brioška, ​​plnená pudingovým krémom (čínsky typ briošky), balené."
   },
   "flan_tart_with_eggs": {
     "name": "Flat torta s vajcami",
