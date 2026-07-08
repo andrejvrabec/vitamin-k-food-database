@@ -57,6 +57,8 @@ The database aggregates and cross-references data from the following verified da
 - **MSKCC "About Herbs":** Memorial Sloan Kettering Cancer Center database for herbal and botanical components.
 - **NIH NCCIH:** National Center for Complementary and Integrative Health resources.
 
+For detailed licensing information, usage rights, and official citations of these sources, please see [ATTRIBUTIONS.md](file:///f:/Projects/VitaminK/VitaminKDataSource/ATTRIBUTIONS.md).
+
 ---
 
 ## Data Schema & Rules
