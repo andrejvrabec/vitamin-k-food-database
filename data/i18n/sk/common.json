@@ -68,5 +68,37 @@
     "warfarin_keep_consistent": "Udržiavajte stabilný príjem. Náhle nemeňte množstvo v strave.",
     "warfarin_limit_excessive": "Obmedzte nadmernú konzumáciu. Vyhnite sa náhlym zmenám v príjme.",
     "warfarin_avoid": "Úplne sa vyhnite konzumácii počas liečby Warfarínom."
+  },
+  "sources": {
+    "usda": {
+      "name": "USDA FoodData Central / SR28",
+      "license_description": "Voľné dielo (Public Domain) / CC0 1.0 Universal",
+      "attribution": "Ministerstvo poľnohospodárstva USA, Úrad pre poľnohospodársky výskum"
+    },
+    "ciqual": {
+      "name": "ANSES CIQUAL 2025",
+      "license_description": "Open Licence 2.0 (Etalab)",
+      "attribution": "Anses. Francúzska databáza nutričného zloženia potravín Ciqual."
+    },
+    "fda": {
+      "name": "FDA Prescribing Information",
+      "license_description": "Voľné dielo (Public Domain)",
+      "attribution": "Oficiálne informácie o liekoch vydané Úradom pre kontrolu potravín a liečiv USA (FDA)."
+    },
+    "stockley": {
+      "name": "Stockley's Drug Interactions",
+      "license_description": "Chránené autorským právom (citované vedecké fakty)",
+      "attribution": "Stockleyho kniha liekových interakcií, Pharmaceutical Press."
+    },
+    "mskcc": {
+      "name": "MSKCC About Herbs Database",
+      "license_description": "Chránené autorským právom (citované vedecké fakty)",
+      "attribution": "Onkologické centrum Memorial Sloan Kettering (MSKCC)."
+    },
+    "nih": {
+      "name": "NIH NCCIH",
+      "license_description": "Voľné dielo (Public Domain)",
+      "attribution": "Národné centrum pre doplnkovú a integratívnu medicínu USA."
+    }
   }
 }

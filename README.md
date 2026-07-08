@@ -64,15 +64,24 @@ For detailed licensing information, usage rights, and official citations of thes
 ## Data Schema & Rules
 
 ### 1. Root Metadata (`data/metadata.json`)
-Defines the global `data_version`, supported translation languages, valid categories, valid tags, and valid relations groups.
+Defines the supported translation languages, valid categories, valid tags, valid relations groups, and data sources.
 - Example:
   ```json
   {
-    "data_version": "0.1.0",
     "languages": ["en", "sk"],
     "tags": ["green_leaves", "berries"],
     "categories": ["vegetables", "fruits"],
-    "groups": ["broccoli", "spinach", "blueberry"]
+    "groups": ["broccoli", "spinach", "blueberry"],
+    "sources": {
+      "usda": {
+        "url": "https://fdc.nal.usda.gov/",
+        "license": "CC0-1.0"
+      },
+      "ciqual": {
+        "url": "https://ciqual.anses.fr/",
+        "license": "Open Licence 2.0"
+      }
+    }
   }
   ```
 

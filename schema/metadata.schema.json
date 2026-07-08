@@ -22,8 +22,20 @@
       "type": "array",
       "items": { "type": "string", "pattern": "^[a-z0-9_]+$" },
       "uniqueItems": true
+    },
+    "sources": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "url": { "type": "string" },
+          "license": { "type": "string" }
+        },
+        "required": ["url", "license"],
+        "additionalProperties": false
+      }
     }
   },
-  "required": ["languages", "tags", "categories", "groups"],
+  "required": ["languages", "tags", "categories", "groups", "sources"],
   "additionalProperties": false
 }

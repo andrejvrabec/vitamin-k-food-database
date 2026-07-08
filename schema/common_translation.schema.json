@@ -18,8 +18,21 @@
     "interactions": {
       "type": "object",
       "additionalProperties": { "type": "string" }
+    },
+    "sources": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "license_description": { "type": "string" },
+          "attribution": { "type": "string" }
+        },
+        "required": ["name", "license_description", "attribution"],
+        "additionalProperties": false
+      }
     }
   },
-  "required": ["categories", "tags", "units", "interactions"],
+  "required": ["categories", "tags", "units", "interactions", "sources"],
   "additionalProperties": false
 }

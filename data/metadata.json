@@ -142,5 +142,31 @@
     "thyme",
     "mayonnaise",
     "other_herbs_spices"
-  ]
+  ],
+  "sources": {
+    "usda": {
+      "url": "https://fdc.nal.usda.gov/",
+      "license": "CC0-1.0"
+    },
+    "ciqual": {
+      "url": "https://ciqual.anses.fr/",
+      "license": "Open Licence 2.0"
+    },
+    "fda": {
+      "url": "https://www.fda.gov/",
+      "license": "Public Domain"
+    },
+    "stockley": {
+      "url": "https://www.pharmaceuticalpress.com/",
+      "license": "Copyrighted"
+    },
+    "mskcc": {
+      "url": "https://www.mskcc.org/cancer-care/diagnosis-treatment/symptom-management/integrative-medicine/herbs",
+      "license": "Copyrighted"
+    },
+    "nih": {
+      "url": "https://www.nccih.nih.gov/",
+      "license": "Public Domain"
+    }
+  }
 }

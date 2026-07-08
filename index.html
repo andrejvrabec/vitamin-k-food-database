@@ -732,14 +732,9 @@
             <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 0.75rem;">
               The database aggregates and cross-references data from the following verified databases:
             </p>
-            <ul style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; padding-left: 1.2rem; margin: 0;">
-              <li><strong>USDA SR28 / FoodData Central:</strong> The primary source for raw food components and portions (US Department of Agriculture).</li>
-              <li><strong>CIQUAL 2025:</strong> The French food composition table managed by ANSES, providing detailed Vitamin K1 and K2 measurements.</li>
-              <li><strong>FDA Prescribing Information:</strong> Official US Food and Drug Administration drug labels (e.g. Coumadin/Warfarin).</li>
-              <li><strong>Stockley's Drug Interactions:</strong> Standard reference handbook for clinical drug-drug and food-drug interactions.</li>
-              <li><strong>MSKCC "About Herbs":</strong> Memorial Sloan Kettering Cancer Center database for herbal and botanical components.</li>
-              <li><strong>NIH NCCIH:</strong> National Center for Complementary and Integrative Health resources.</li>
-            </ul>
+            <div id="sources-container">
+              <p style="color: var(--text-muted); font-size: 0.9rem;">Loading sources...</p>
+            </div>
           </div>
         </div>
       </section>
@@ -1170,6 +1165,7 @@
         renderCategories();
         renderTags();
         renderGroups();
+        renderSources();
         renderSystemFiles();
       } catch (err) {
         console.error("Failed to initialize API portal dashboard", err);
@@ -1269,6 +1265,48 @@
       });
       container.innerHTML = html;
     }
+
+    function renderSources() {
+      const container = document.getElementById('sources-container');
+      if (!databaseMetadata || !databaseMetadata.sources) {
+        container.innerHTML = `<p style="color: var(--text-muted); font-size: 0.9rem;">No sources found.</p>`;
+        return;
+      }
+
+      let html = '<ul style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; padding-left: 1.2rem; margin: 0; display: flex; flex-direction: column; gap: 0.75rem;">';
+      
+      Object.keys(databaseMetadata.sources).forEach(key => {
+        const srcMeta = databaseMetadata.sources[key];
+        
+        let name = key.toUpperCase();
+        let licenseDesc = srcMeta.license;
+        let attribution = '';
+        
+        if (englishCommonTranslations && englishCommonTranslations.sources && englishCommonTranslations.sources[key]) {
+          const trans = englishCommonTranslations.sources[key];
+          name = trans.name;
+          licenseDesc = trans.license_description;
+          attribution = trans.attribution;
+        }
+        
+        html += `
+          <li>
+            <strong style="color: #ffffff;">${name}:</strong> 
+            ${attribution ? attribution + ' — ' : ''}
+            <span style="font-size: 0.75rem; background: rgba(255, 255, 255, 0.04); padding: 0.15rem 0.4rem; border-radius: 6px; border: 1px solid var(--border-color); color: var(--text-muted); margin-left: 0.25rem;">
+              ${licenseDesc}
+            </span>
+            <a href="${srcMeta.url}" target="_blank" style="color: var(--accent-color); text-decoration: none; margin-left: 0.5rem; font-size: 0.8rem;" title="Visit Source website">
+              Visit &rarr;
+            </a>
+          </li>
+        `;
+      });
+      
+      html += '</ul>';
+      container.innerHTML = html;
+    }
+
 
     function renderSystemFiles() {
       const container = document.getElementById('system-files-container');
