@@ -24,11 +24,10 @@
       "additionalProperties": {
         "type": "object",
         "properties": {
-          "name": { "type": "string" },
           "license_description": { "type": "string" },
           "attribution": { "type": "string" }
         },
-        "required": ["name", "license_description", "attribution"],
+        "required": ["license_description", "attribution"],
         "additionalProperties": false
       }
     }

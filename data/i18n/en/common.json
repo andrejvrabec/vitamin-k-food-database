@@ -71,32 +71,26 @@
   },
   "sources": {
     "usda": {
-      "name": "USDA FoodData Central / SR28",
       "license_description": "Public Domain / CC0 1.0 Universal",
       "attribution": "U.S. Department of Agriculture, Agricultural Research Service"
     },
     "ciqual": {
-      "name": "ANSES CIQUAL 2025",
       "license_description": "Open Licence 2.0",
       "attribution": "Anses. Ciqual French food composition table."
     },
     "fda": {
-      "name": "FDA Prescribing Information",
       "license_description": "Public Domain / U.S. Government Work",
       "attribution": "Official drug labels published by the US Food and Drug Administration."
     },
     "stockley": {
-      "name": "Stockley's Drug Interactions",
       "license_description": "Copyrighted (Scientific Facts Referenced)",
       "attribution": "Stockley's Drug Interactions, Pharmaceutical Press."
     },
     "mskcc": {
-      "name": "MSKCC About Herbs Database",
       "license_description": "Copyrighted (Scientific Facts Referenced)",
       "attribution": "Memorial Sloan Kettering Cancer Center."
     },
     "nih": {
-      "name": "NIH NCCIH",
       "license_description": "Public Domain / U.S. Government Work",
       "attribution": "National Center for Complementary and Integrative Health."
     }
