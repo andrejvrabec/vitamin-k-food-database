@@ -74,10 +74,12 @@ Defines the supported translation languages, valid categories, valid tags, valid
     "groups": ["broccoli", "spinach", "blueberry"],
     "sources": {
       "usda": {
+        "name": "USDA FoodData Central / SR28",
         "url": "https://fdc.nal.usda.gov/",
         "license": "CC0-1.0"
       },
       "ciqual": {
+        "name": "ANSES CIQUAL 2025",
         "url": "https://ciqual.anses.fr/",
         "license": "Open Licence 2.0"
       }

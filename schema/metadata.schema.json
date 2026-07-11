@@ -28,10 +28,11 @@
       "additionalProperties": {
         "type": "object",
         "properties": {
+          "name": { "type": "string" },
           "url": { "type": "string" },
           "license": { "type": "string" }
         },
-        "required": ["url", "license"],
+        "required": ["name", "url", "license"],
         "additionalProperties": false
       }
     }

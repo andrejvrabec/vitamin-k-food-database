@@ -145,26 +145,32 @@
   ],
   "sources": {
     "usda": {
+      "name": "USDA FoodData Central / SR28",
       "url": "https://fdc.nal.usda.gov/",
       "license": "CC0-1.0"
     },
     "ciqual": {
+      "name": "ANSES CIQUAL 2025",
       "url": "https://ciqual.anses.fr/",
       "license": "Open Licence 2.0"
     },
     "fda": {
+      "name": "FDA Prescribing Information",
       "url": "https://www.fda.gov/",
       "license": "Public Domain"
     },
     "stockley": {
+      "name": "Stockley's Drug Interactions",
       "url": "https://www.pharmaceuticalpress.com/",
       "license": "Copyrighted"
     },
     "mskcc": {
+      "name": "MSKCC About Herbs Database",
       "url": "https://www.mskcc.org/cancer-care/diagnosis-treatment/symptom-management/integrative-medicine/herbs",
       "license": "Copyrighted"
     },
     "nih": {
+      "name": "NIH NCCIH",
       "url": "https://www.nccih.nih.gov/",
       "license": "Public Domain"
     }

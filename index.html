@@ -1278,7 +1278,7 @@
       Object.keys(databaseMetadata.sources).forEach(key => {
         const srcMeta = databaseMetadata.sources[key];
         
-        let name = key.toUpperCase();
+        let name = srcMeta.name || key.toUpperCase();
         let licenseDesc = srcMeta.license;
         let attribution = '';
         
