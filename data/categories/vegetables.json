@@ -27,6 +27,35 @@
       }
     },
     {
+      "id": "parsley_root",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 50.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "gram_equivalent": 100.0,
+          "vitamin_k_mcg": 50.0
+        }
+      ],
+      "source": "BLSDB (Bundeslebensmittelschlüssel), Danish FRIDA Food Database (ID: 976)",
+      "relations": {
+        "group": "parsley",
+        "related_ids": [
+          "parsley_fresh",
+          "parsley_dried"
+        ]
+      }
+    },
+    {
       "id": "asparagus_cooked",
       "category": "vegetables",
       "portions": [

@@ -69,13 +69,19 @@
           "vitamin_k_mcg": 1640.0
         },
         {
+          "amount": 1.0,
+          "unit": "cup",
+          "vitamin_k_mcg": 984.0,
+          "gram_equivalent": 60
+        },
+        {
           "amount": 1,
           "unit": "tbsp",
           "gram_equivalent": 4,
           "vitamin_k_mcg": 65.6
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 170416), FDA Coumadin Prescribing Information",
+      "source": "USDA FoodData Central (FDC ID: 170416), USDA SR28 (NDB No: 11297), FDA Coumadin Prescribing Information",
       "relations": {
         "group": "parsley"
       }
@@ -553,36 +559,7 @@
         "group": "basil"
       }
     },
-    {
-      "id": "parsley_frsh",
-      "category": "herbs_spices",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1640.0
-        },
-        {
-          "amount": 1.0,
-          "unit": "cup",
-          "vitamin_k_mcg": 984.0,
-          "gram_equivalent": 60
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 62.3,
-          "gram_equivalent": 3
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 11297)",
-      "relations": {
-        "group": "parsley"
-      }
-    },
+
     {
       "id": "english_muffins_raisin_cinnamon",
       "category": "herbs_spices",
