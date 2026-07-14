@@ -35,4 +35,10 @@ scratch/
 scripts/clean_translations.py
 scripts/import_ciqual.py
 scripts/merge_duplicates.py
+scripts/enrich_k2_bls.py
+scripts/fix_and_import.py
+scripts/import_all_bls_missing.py
+scripts/rebuild_bls_translations.py
+scripts/revert_bls_imports.py
+scripts/import_bls_specialties.py
 icons/

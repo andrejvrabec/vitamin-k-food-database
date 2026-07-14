@@ -5799,28 +5799,31 @@
       "category": "other",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 0.26,
+          "vitamin_k1_100g_mcg": 0.19,
+          "vitamin_k2_100g_mcg": 0.07
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 0.57,
           "gram_equivalent": 218
         },
         {
           "amount": 3.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 0.22,
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 15008)"
+      "source": "USDA SR28 (NDB No: 15008), BLS 4.0 (Code: T501100)"
     },
     {
       "id": "caviar_blackred_granular",
@@ -6090,18 +6093,21 @@
       "category": "other",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 0.12,
+          "vitamin_k1_100g_mcg": 0.03,
+          "vitamin_k2_100g_mcg": 0.09
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 0.23,
           "gram_equivalent": 193
         },
         {
@@ -6111,7 +6117,7 @@
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 15033)",
+      "source": "USDA SR28 (NDB No: 15033), BLS 4.0 (Code: T206100)",
       "relations": {
         "group": "fish"
       }
@@ -6151,28 +6157,31 @@
       "id": "haddock_smoked",
       "category": "other",
       "tags": [
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 0.12,
+          "vitamin_k1_100g_mcg": 0.03,
+          "vitamin_k2_100g_mcg": 0.09
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.03,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.02,
           "gram_equivalent": 17
         }
       ],
-      "source": "USDA SR28 (NDB No: 15035)",
+      "source": "USDA SR28 (NDB No: 15035), BLS 4.0 (Code: T206600)",
       "relations": {
         "group": "fish"
       }
@@ -6979,28 +6988,31 @@
       "tags": [
         "k2",
         "raw",
-        "seafood"
+        "seafood",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 1.0,
+          "vitamin_k1_100g_mcg": 0.1,
+          "vitamin_k2_100g_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 1.36,
           "gram_equivalent": 136
         },
         {
           "amount": 3.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 0.85,
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 15110)"
+      "source": "USDA SR28 (NDB No: 15110), BLS 4.0 (Code: T612100)"
     },
     {
       "id": "swordfish_cooked_dry_heat",
@@ -15743,16 +15755,19 @@
       "id": "salami",
       "category": "other",
       "tags": [
-        "k2"
+        "k2",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.0
+          "vitamin_k_mcg": 11.3,
+          "vitamin_k1_100g_mcg": 2.3,
+          "vitamin_k2_100g_mcg": 9.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 30350)",
+      "source": "Ciqual 2025 (Food Code: 30350), BLS 4.0 (Code: W140000)",
       "relations": {
         "group": "other_meat"
       }

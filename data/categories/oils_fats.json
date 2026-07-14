@@ -7,20 +7,23 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3
+          "vitamin_k_mcg": 26.0,
+          "vitamin_k1_100g_mcg": 8.0,
+          "vitamin_k2_100g_mcg": 18.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 26.0,
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: Q6A4000)",
       "tags": [
         "dairy",
         "high_sodium",
-        "k2"
+        "k2",
+        "k1"
       ],
       "relations": {
         "group": "butter",

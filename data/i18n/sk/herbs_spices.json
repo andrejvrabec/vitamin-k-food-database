@@ -52,9 +52,9 @@
   "thyme_dried": {
     "name": "Tymian, sušený",
     "alternative_names": [
-      "Sušený tymián"
+      "Dúška tymianová sušená"
     ],
-    "description": "Sušené lístky tymianu, vysoko aromatická bylina mimoriadne bohatá na vitamín K1."
+    "description": "Sušené listy tymianu. Koncentrovaná bylinka s veľmi vysokým obsahom vitamínu K1."
   },
   "spices_basil_dried": {
     "name": "Korenie, bazalka, sušené",
@@ -78,8 +78,10 @@
   },
   "marjoram_dried": {
     "name": "Majorán, sušený",
-    "alternative_names": [],
-    "description": "Majorán, sušený."
+    "alternative_names": [
+      "Majorán záhradný sušený"
+    ],
+    "description": "Sušené listy majoránu záhradného."
   },
   "spices_mustard_sd_ground": {
     "name": "Korenie, horčica sd, mletá",
@@ -210,19 +212,25 @@
     "description": "Šalvia, čerstvá."
   },
   "basil_dried": {
-    "name": "Bazalka sušená",
-    "alternative_names": [],
-    "description": "Bazalka sušená."
+    "name": "Bazalka, sušená",
+    "alternative_names": [
+      "Bazalka pravá sušená"
+    ],
+    "description": "Sušené listy bazalky pravej."
   },
   "oregano_dried": {
     "name": "Oregano, sušené",
-    "alternative_names": [],
-    "description": "Oregano, sušené."
+    "alternative_names": [
+      "Pamajorán obyčajný sušený"
+    ],
+    "description": "Sušené listy oregana (pamajoránu obyčajného)."
   },
   "sage_dried": {
     "name": "Šalvia, sušená",
-    "alternative_names": [],
-    "description": "Šalvia, sušená."
+    "alternative_names": [
+      "Šalvia lekárska sušená"
+    ],
+    "description": "Sušené listy šalvie lekárskej."
   },
   "cloves_ground": {
     "name": "Klinčeky, mleté",
@@ -258,5 +266,29 @@
     "name": "Klinčeky",
     "alternative_names": [],
     "description": "Klinčeky."
+  },
+  "chives_dried": {
+    "name": "Pažítka, sušená",
+    "alternative_names": [],
+    "description": "Sušená, krájaná pažítka. Koncentrovaná bylinka s mimoriadne vysokým obsahom vitamínu K1."
+  },
+  "rosemary_dried": {
+    "name": "Rozmarín, sušený",
+    "alternative_names": [],
+    "description": "Sušené ihličie rozmarínu lekárskeho."
+  },
+  "savory_dried": {
+    "name": "Saturejka, sušená",
+    "alternative_names": [
+      "Saturejka záhradná sušená"
+    ],
+    "description": "Sušené listy saturejky záhradnej."
+  },
+  "tarragon_dried": {
+    "name": "Estragón, sušený",
+    "alternative_names": [
+      "Palina estragónová sušená"
+    ],
+    "description": "Sušené listy paliny estragónovej."
   }
 }

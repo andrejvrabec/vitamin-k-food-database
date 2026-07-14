@@ -1288,5 +1288,48 @@
       "Ovčia žinčica"
     ],
     "description": "Tradičný slovenský nápoj z ovčieho mlieka vyrobený zo srvátky vzniknutej pri výrobe ovčieho syra."
+  },
+  "danablu_cheese": {
+    "name": "Danablu syr (min. 50 % tuku v sušine)",
+    "alternative_names": [
+      "Dánsky modrý syr"
+    ],
+    "description": "Dánsky modrý pleseňový syr Danablu. Výrazný syr s modrou plesňou, bohatý na vitamín K2."
+  },
+  "tilsit_cheese": {
+    "name": "Tilsitský syr (min. 45 % tuku v sušine)",
+    "alternative_names": [
+      "Tilsiter"
+    ],
+    "description": "Polotvrdý európsky syr Tilsiter, pôvodom z Východného Pruska. Bohatý na vitamín K2."
+  },
+  "havarti_cheese": {
+    "name": "Havarti syr (min. 45 % tuku v sušine)",
+    "alternative_names": [],
+    "description": "Polotvrdý dánsky syr Havarti s jemnou maslovou príchuťou, bohatý na vitamín K2."
+  },
+  "butterkase_cheese": {
+    "name": "Maslový syr (Butterkäse, polotvrdý)",
+    "alternative_names": [
+      "Butterkäse"
+    ],
+    "description": "Polotvrdý maslový syr (Butterkäse) s min. 50 % tuku v sušine. Veľmi jemný syr obľúbený v Nemecku a Rakúsku."
+  },
+  "limburger_cheese": {
+    "name": "Limburský syr (mäkký, min. 45 % tuku v sušine)",
+    "alternative_names": [
+      "Limburger"
+    ],
+    "description": "Mäkký limburský syr s typickou prenikavou vôňou a umývanou kôrou, bohatý na vitamín K2."
+  },
+  "sheep_soft_cheese": {
+    "name": "Mäkký ovčí syr (min. 45 % tuku v sušine)",
+    "alternative_names": [],
+    "description": "Mäkký syr vyrobený z ovčieho mlieka."
+  },
+  "goat_soft_cheese": {
+    "name": "Mäkký kozí syr (min. 45 % tuku v sušine)",
+    "alternative_names": [],
+    "description": "Mäkký syr vyrobený z kozieho mlieka."
   }
 }

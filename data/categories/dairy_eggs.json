@@ -748,20 +748,23 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.5
+          "vitamin_k_mcg": 5.0,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 4.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 0.8,
+          "vitamin_k_mcg": 7.5,
           "gram_equivalent": 150
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: P8A3000)",
       "tags": [
         "beverages",
         "egg",
-        "k2"
+        "k2",
+        "k1"
       ],
       "relations": {
         "group": "cream"
@@ -6544,6 +6547,201 @@
       ],
       "relations": {
         "group": "milk"
+      }
+    },
+    {
+      "id": "danablu_cheese",
+      "category": "dairy_eggs",
+      "tags": [
+        "k1",
+        "k2",
+        "dairy",
+        "fermented",
+        "aged_cheese"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 73.0,
+          "vitamin_k1_100g_mcg": 1.5,
+          "vitamin_k2_100g_mcg": 72.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "gram_equivalent": 30.0,
+          "vitamin_k_mcg": 21.9
+        }
+      ],
+      "source": "BLS 4.0 (Code: M516700)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "tilsit_cheese",
+      "category": "dairy_eggs",
+      "tags": [
+        "k1",
+        "k2",
+        "dairy",
+        "fermented",
+        "aged_cheese"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 68.4,
+          "vitamin_k1_100g_mcg": 3.9,
+          "vitamin_k2_100g_mcg": 64.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "gram_equivalent": 30.0,
+          "vitamin_k_mcg": 20.52
+        }
+      ],
+      "source": "BLS 4.0 (Code: M403600)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "havarti_cheese",
+      "category": "dairy_eggs",
+      "tags": [
+        "k1",
+        "k2",
+        "dairy",
+        "fermented",
+        "aged_cheese"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 68.4,
+          "vitamin_k1_100g_mcg": 3.9,
+          "vitamin_k2_100g_mcg": 64.5
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "gram_equivalent": 30.0,
+          "vitamin_k_mcg": 20.52
+        }
+      ],
+      "source": "BLS 4.0 (Code: M508600)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "butterkase_cheese",
+      "category": "dairy_eggs",
+      "tags": [
+        "k1",
+        "k2",
+        "dairy",
+        "fermented"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 70.0,
+          "vitamin_k1_100g_mcg": 4.0,
+          "vitamin_k2_100g_mcg": 66.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "gram_equivalent": 30.0,
+          "vitamin_k_mcg": 21.0
+        }
+      ],
+      "source": "BLS 4.0 (Code: M400700)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "limburger_cheese",
+      "category": "dairy_eggs",
+      "tags": [
+        "k1",
+        "k2",
+        "dairy",
+        "fermented",
+        "aged_cheese"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 43.0,
+          "vitamin_k1_100g_mcg": 1.2,
+          "vitamin_k2_100g_mcg": 42.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "gram_equivalent": 30.0,
+          "vitamin_k_mcg": 12.9
+        }
+      ],
+      "source": "BLS 4.0 (Code: M600600)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "sheep_soft_cheese",
+      "category": "dairy_eggs",
+      "tags": [
+        "k1",
+        "k2",
+        "dairy",
+        "fermented"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 51.4,
+          "vitamin_k1_100g_mcg": 1.9,
+          "vitamin_k2_100g_mcg": 49.5
+        }
+      ],
+      "source": "BLS 4.0 (Code: M6a5700)",
+      "relations": {
+        "group": "cheese"
+      }
+    },
+    {
+      "id": "goat_soft_cheese",
+      "category": "dairy_eggs",
+      "tags": [
+        "k1",
+        "k2",
+        "dairy",
+        "fermented"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 51.4,
+          "vitamin_k1_100g_mcg": 1.9,
+          "vitamin_k2_100g_mcg": 49.5
+        }
+      ],
+      "source": "BLS 4.0 (Code: M6a9600)",
+      "relations": {
+        "group": "cheese"
       }
     }
   ]

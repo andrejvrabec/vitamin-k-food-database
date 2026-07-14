@@ -52,10 +52,8 @@
   },
   "thyme_dried": {
     "name": "Thyme, dried",
-    "alternative_names": [
-      "Dried thyme leaves"
-    ],
-    "description": "Dried thyme leaves, a highly aromatic herb extremely rich in Vitamin K1."
+    "alternative_names": [],
+    "description": "Dried thyme leaves. A highly concentrated herb with extremely high Vitamin K1 content."
   },
   "spices_basil_dried": {
     "name": "Spices, basil, dried",
@@ -80,7 +78,7 @@
   "marjoram_dried": {
     "name": "Marjoram, dried",
     "alternative_names": [],
-    "description": "Marjoram, dried."
+    "description": "Dried marjoram leaves. High in Vitamin K1."
   },
   "spices_mustard_sd_ground": {
     "name": "Spices, mustard sd, ground",
@@ -212,17 +210,19 @@
   "basil_dried": {
     "name": "Basil, dried",
     "alternative_names": [],
-    "description": "Basil, dried."
+    "description": "Dried basil leaves. High in Vitamin K1."
   },
   "oregano_dried": {
     "name": "Oregano, dried",
-    "alternative_names": [],
-    "description": "Oregano, dried."
+    "alternative_names": [
+      "Wild marjoram dried"
+    ],
+    "description": "Dried oregano leaves. Rich in Vitamin K1."
   },
   "sage_dried": {
     "name": "Sage, dried",
     "alternative_names": [],
-    "description": "Sage, dried."
+    "description": "Dried, rubbed sage leaves. High in Vitamin K1."
   },
   "cloves_ground": {
     "name": "Cloves, ground",
@@ -258,5 +258,27 @@
     "name": "Cloves",
     "alternative_names": [],
     "description": "Cloves."
+  },
+  "chives_dried": {
+    "name": "Chives, dried",
+    "alternative_names": [],
+    "description": "Dried, chopped chives. A highly concentrated herb with extremely high Vitamin K1 content."
+  },
+  "rosemary_dried": {
+    "name": "Rosemary, dried",
+    "alternative_names": [],
+    "description": "Dried rosemary needles. High in Vitamin K1."
+  },
+  "savory_dried": {
+    "name": "Savory, dried",
+    "alternative_names": [
+      "Summer savory dried"
+    ],
+    "description": "Dried summer savory leaves. High in Vitamin K1."
+  },
+  "tarragon_dried": {
+    "name": "Tarragon, dried",
+    "alternative_names": [],
+    "description": "Dried tarragon leaves. High in Vitamin K1."
   }
 }

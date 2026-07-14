@@ -6971,26 +6971,6 @@
       }
     },
     {
-      "id": "lambs_lettuce_raw",
-      "category": "meat_poultry",
-      "tags": [
-        "k1",
-        "meat",
-        "raw"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 48.9
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 20099)",
-      "relations": {
-        "group": "lettuce"
-      }
-    },
-    {
       "id": "beef_rib_steak_lean_grilledpan_fried",
       "category": "meat_poultry",
       "tags": [
@@ -7532,16 +7512,19 @@
       "tags": [
         "k1",
         "meat",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.6
+          "vitamin_k_mcg": 3.57,
+          "vitamin_k1_100g_mcg": 1.03,
+          "vitamin_k2_100g_mcg": 2.54
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6513)",
+      "source": "Ciqual 2025 (Food Code: 6513), BLS 4.0 (Code: U421100)",
       "relations": {
         "group": "beef"
       }
@@ -19375,6 +19358,55 @@
       "source": "Ciqual 2025 (Food Code: 20507)",
       "relations": {
         "group": "peas"
+      }
+    },
+    {
+      "id": "liver_sausage",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat",
+        "organ_meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 34.2,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 34.2
+        },
+        {
+          "amount": 1.0,
+          "unit": "piece",
+          "gram_equivalent": 30.0,
+          "vitamin_k_mcg": 10.26
+        }
+      ],
+      "source": "BLS 4.0 (Code: W151300)",
+      "relations": {
+        "group": "other_meat"
+      }
+    },
+    {
+      "id": "blood_sausage",
+      "category": "meat_poultry",
+      "tags": [
+        "k2",
+        "meat"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 10.6,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 10.6
+        }
+      ],
+      "source": "BLS 4.0 (Code: W153100)",
+      "relations": {
+        "group": "other_meat"
       }
     }
   ]

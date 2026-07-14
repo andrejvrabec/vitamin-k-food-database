@@ -1205,11 +1205,6 @@
     "alternative_names": [],
     "description": "Kurací burger, z rýchleho občerstvenia."
   },
-  "lambs_lettuce_raw": {
-    "name": "Jahňací šalát, surový",
-    "alternative_names": [],
-    "description": "Jahňací šalát, surový."
-  },
   "beef_rib_steak_lean_grilledpan_fried": {
     "name": "Hovädzie mäso, rebierkový steak, chudé, grilované/vyprážané",
     "alternative_names": [],
@@ -3469,5 +3464,19 @@
     "name": "Cícer varený/varený vo vode",
     "alternative_names": [],
     "description": "Cícer varený/varený vo vode."
+  },
+  "liver_sausage": {
+    "name": "Pečeňová klobása (Leberwurst / pečeňový syr)",
+    "alternative_names": [
+      "Leberwurst"
+    ],
+    "description": "Pečeňová klobása alebo rozotierateľná pečeňová paštéta. Obsahuje vysoké množstvo vitamínu K2 vďaka podielu pečene."
+  },
+  "blood_sausage": {
+    "name": "Krvavnica",
+    "alternative_names": [
+      "Jaternica krvavá"
+    ],
+    "description": "Tradičná mäsová krvavnica (Blutwurst). Obsahuje vitamín K2."
   }
 }

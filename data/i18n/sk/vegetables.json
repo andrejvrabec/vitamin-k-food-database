@@ -2111,5 +2111,38 @@
     "name": "Maslová fazuľa alebo žltá fazuľa, varená/varená vo vode",
     "alternative_names": [],
     "description": "Maslová fazuľa alebo žltá fazuľa, varená/varená vo vode."
+  },
+  "lambs_lettuce_raw": {
+    "name": "Poľníček, surový",
+    "alternative_names": [
+      "Kozlíček poľný"
+    ],
+    "description": "Čerstvý poľníček (kozlíček poľný) – listový šalát."
+  },
+  "sorrel_raw": {
+    "name": "Šťavel, surový",
+    "alternative_names": [
+      "Kyslička"
+    ],
+    "description": "Čerstvé listy šťaveľa obyčajného. Kyslá, osviežujúca listová zelenina s veľmi vysokým obsahom vitamínu K1."
+  },
+  "purslane_raw": {
+    "name": "Portulaka zeleninová, surová",
+    "alternative_names": [
+      "Portulaka"
+    ],
+    "description": "Čerstvá vňať a listy portulaky zeleninovej. Chrumkavá listová zelenina s jemne kyslastou chuťou, bohatá na omega-3 a vitamín K1."
+  },
+  "wild_garlic_raw": {
+    "name": "Medvedí cesnak, surový",
+    "alternative_names": [
+      "Cesnak medvedí"
+    ],
+    "description": "Čerstvé listy medvedieho cesnaku. Populárna jarná bylina s jemnou cesnakovou chuťou."
+  },
+  "wild_garlic_cooked": {
+    "name": "Medvedí cesnak, varený",
+    "alternative_names": [],
+    "description": "Varené listy medvedieho cesnaku."
   }
 }

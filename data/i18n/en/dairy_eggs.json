@@ -1289,5 +1289,46 @@
       "Zincica"
     ],
     "description": "Traditional Slovak sheep's milk drink made from whey during sheep cheese production."
+  },
+  "danablu_cheese": {
+    "name": "Danish Blue cheese (Danablu)",
+    "alternative_names": [
+      "Danish Blue"
+    ],
+    "description": "Danish Blue cheese (Danablu) with min. 50% fat in dry matter. A strong, blue-veined cheese rich in Vitamin K2."
+  },
+  "tilsit_cheese": {
+    "name": "Tilsit cheese",
+    "alternative_names": [
+      "Tilsiter"
+    ],
+    "description": "Tilsit cheese with min. 45% fat in dry matter. A semi-hard European cheese with significant Vitamin K2."
+  },
+  "havarti_cheese": {
+    "name": "Havarti cheese",
+    "alternative_names": [],
+    "description": "Havarti cheese with min. 45% fat in dry matter. A semi-hard Danish cheese rich in Vitamin K2."
+  },
+  "butterkase_cheese": {
+    "name": "Butter cheese (Butterkäse)",
+    "alternative_names": [
+      "Butter cheese"
+    ],
+    "description": "Semi-hard butter cheese (Butterkäse) with min. 50% fat in dry matter. A very mild, buttery cheese popular in Germany and Austria."
+  },
+  "limburger_cheese": {
+    "name": "Limburger cheese",
+    "alternative_names": [],
+    "description": "Soft Limburger cheese with min. 45% fat in dry matter. Stinky rind-washed cheese with substantial Vitamin K2."
+  },
+  "sheep_soft_cheese": {
+    "name": "Sheep's milk soft cheese",
+    "alternative_names": [],
+    "description": "Soft cheese made from sheep's milk with min. 45% fat in dry matter."
+  },
+  "goat_soft_cheese": {
+    "name": "Goat's milk soft cheese",
+    "alternative_names": [],
+    "description": "Soft cheese made from goat's milk with min. 45% fat in dry matter."
   }
 }

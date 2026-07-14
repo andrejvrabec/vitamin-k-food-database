@@ -232,31 +232,6 @@
       }
     },
     {
-      "id": "thyme_dried",
-      "category": "herbs_spices",
-      "tags": [
-        "herbs",
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1710.0
-        },
-        {
-          "amount": 1,
-          "unit": "tsp",
-          "gram_equivalent": 1,
-          "vitamin_k_mcg": 17.1
-        }
-      ],
-      "source": "USDA FDC (derived from PDF page 2)",
-      "relations": {
-        "group": "thyme"
-      }
-    },
-    {
       "id": "spices_basil_dried",
       "category": "herbs_spices",
       "tags": [
@@ -372,36 +347,6 @@
       "source": "USDA SR28 (NDB No: 02020)",
       "relations": {
         "group": "garlic"
-      }
-    },
-    {
-      "id": "marjoram_dried",
-      "category": "herbs_spices",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 621.7
-        },
-        {
-          "amount": 1.0,
-          "unit": "tbsp",
-          "vitamin_k_mcg": 10.6,
-          "gram_equivalent": 1
-        },
-        {
-          "amount": 1.0,
-          "unit": "tsp",
-          "vitamin_k_mcg": 3.7,
-          "gram_equivalent": 0
-        }
-      ],
-      "source": "USDA SR28 (NDB No: 02023)",
-      "relations": {
-        "group": "other_herbs_spices"
       }
     },
     {
@@ -559,7 +504,6 @@
         "group": "basil"
       }
     },
-
     {
       "id": "english_muffins_raisin_cinnamon",
       "category": "herbs_spices",
@@ -858,60 +802,6 @@
       }
     },
     {
-      "id": "basil_dried",
-      "category": "herbs_spices",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1710.0
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 11032)",
-      "relations": {
-        "group": "basil"
-      }
-    },
-    {
-      "id": "oregano_dried",
-      "category": "herbs_spices",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 622.0
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 11035)",
-      "relations": {
-        "group": "other_herbs_spices"
-      }
-    },
-    {
-      "id": "sage_dried",
-      "category": "herbs_spices",
-      "tags": [
-        "k1"
-      ],
-      "portions": [
-        {
-          "amount": 100,
-          "unit": "g",
-          "vitamin_k_mcg": 1710.0
-        }
-      ],
-      "source": "Ciqual 2025 (Food Code: 11037)",
-      "relations": {
-        "group": "other_herbs_spices"
-      }
-    },
-    {
       "id": "cloves_ground",
       "category": "herbs_spices",
       "tags": [
@@ -1110,6 +1000,258 @@
         }
       ],
       "source": "Ciqual 2025 (Food Code: 11052)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "chives_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "herbs"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1720.0,
+          "vitamin_k1_100g_mcg": 1720.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tbsp",
+          "gram_equivalent": 3.0,
+          "vitamin_k_mcg": 51.6
+        }
+      ],
+      "source": "BLS 4.0 (Code: G081400)",
+      "relations": {
+        "group": "other_herbs_spices",
+        "related_ids": [
+          "chives_raw"
+        ]
+      }
+    },
+    {
+      "id": "thyme_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "herbs"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1100.0,
+          "vitamin_k1_100g_mcg": 1100.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "gram_equivalent": 1.0,
+          "vitamin_k_mcg": 11.0
+        }
+      ],
+      "source": "BLS 4.0 (Code: K224008)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "sage_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "herbs"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1100.0,
+          "vitamin_k1_100g_mcg": 1100.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "gram_equivalent": 0.7,
+          "vitamin_k_mcg": 7.7
+        }
+      ],
+      "source": "BLS 4.0 (Code: K225008)",
+      "relations": {
+        "group": "other_herbs_spices",
+        "related_ids": [
+          "sage_ground"
+        ]
+      }
+    },
+    {
+      "id": "rosemary_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "herbs"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 900.0,
+          "vitamin_k1_100g_mcg": 900.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "gram_equivalent": 1.2,
+          "vitamin_k_mcg": 10.8
+        }
+      ],
+      "source": "BLS 4.0 (Code: K222008)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "oregano_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "herbs"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 900.0,
+          "vitamin_k1_100g_mcg": 900.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "gram_equivalent": 1.0,
+          "vitamin_k_mcg": 9.0
+        }
+      ],
+      "source": "BLS 4.0 (Code: K219008)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "basil_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "herbs"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 900.0,
+          "vitamin_k1_100g_mcg": 900.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "gram_equivalent": 0.7,
+          "vitamin_k_mcg": 6.3
+        }
+      ],
+      "source": "BLS 4.0 (Code: K214008)",
+      "relations": {
+        "group": "basil",
+        "related_ids": [
+          "basil_fresh"
+        ]
+      }
+    },
+    {
+      "id": "marjoram_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "herbs"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1100.0,
+          "vitamin_k1_100g_mcg": 1100.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "gram_equivalent": 0.6,
+          "vitamin_k_mcg": 6.6
+        }
+      ],
+      "source": "BLS 4.0 (Code: K218008)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "savory_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "herbs"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 1100.0,
+          "vitamin_k1_100g_mcg": 1100.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "gram_equivalent": 1.0,
+          "vitamin_k_mcg": 11.0
+        }
+      ],
+      "source": "BLS 4.0 (Code: K215008)",
+      "relations": {
+        "group": "other_herbs_spices"
+      }
+    },
+    {
+      "id": "tarragon_dried",
+      "category": "herbs_spices",
+      "tags": [
+        "k1",
+        "herbs"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 970.0,
+          "vitamin_k1_100g_mcg": 970.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "tsp",
+          "gram_equivalent": 0.6,
+          "vitamin_k_mcg": 5.82
+        }
+      ],
+      "source": "BLS 4.0 (Code: K220008)",
       "relations": {
         "group": "other_herbs_spices"
       }

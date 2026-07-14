@@ -9171,16 +9171,19 @@
       "id": "carrots_puree",
       "category": "vegetables",
       "tags": [
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.7
+          "vitamin_k_mcg": 7.0,
+          "vitamin_k1_100g_mcg": 6.0,
+          "vitamin_k2_100g_mcg": 0.55
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20261)",
+      "source": "Ciqual 2025 (Food Code: 20261), BLS 4.0 (Code: X562463)",
       "relations": {
         "group": "carrot"
       }
@@ -10644,6 +10647,124 @@
       "source": "Ciqual 2025 (Food Code: 20318)",
       "relations": {
         "group": "beans"
+      }
+    },
+    {
+      "id": "lambs_lettuce_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 48.9
+        }
+      ],
+      "source": "Ciqual 2025 (Food Code: 20099)",
+      "relations": {
+        "group": "lettuce"
+      }
+    },
+    {
+      "id": "sorrel_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 700.0,
+          "vitamin_k1_100g_mcg": 700.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "gram_equivalent": 133.0,
+          "vitamin_k_mcg": 931.0
+        }
+      ],
+      "source": "BLS 4.0 (Code: K234100)"
+    },
+    {
+      "id": "purslane_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 381.0,
+          "vitamin_k1_100g_mcg": 381.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "gram_equivalent": 43.0,
+          "vitamin_k_mcg": 163.83
+        }
+      ],
+      "source": "BLS 4.0 (Code: K235100)"
+    },
+    {
+      "id": "wild_garlic_raw",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "raw"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 54.0,
+          "vitamin_k1_100g_mcg": 54.0,
+          "vitamin_k2_100g_mcg": 0.0
+        },
+        {
+          "amount": 1.0,
+          "unit": "cup",
+          "gram_equivalent": 50.0,
+          "vitamin_k_mcg": 27.0
+        }
+      ],
+      "source": "BLS 4.0 (Code: G492100)",
+      "relations": {
+        "group": "garlic"
+      }
+    },
+    {
+      "id": "wild_garlic_cooked",
+      "category": "vegetables",
+      "tags": [
+        "k1",
+        "cooked"
+      ],
+      "portions": [
+        {
+          "amount": 100,
+          "unit": "g",
+          "vitamin_k_mcg": 48.0,
+          "vitamin_k1_100g_mcg": 48.0,
+          "vitamin_k2_100g_mcg": 0.0
+        }
+      ],
+      "source": "BLS 4.0 (Code: G492132)",
+      "relations": {
+        "group": "garlic",
+        "related_ids": [
+          "wild_garlic_raw"
+        ]
       }
     }
   ]

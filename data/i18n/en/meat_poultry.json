@@ -1205,11 +1205,6 @@
     "alternative_names": [],
     "description": "Chicken burger, from fast food."
   },
-  "lambs_lettuce_raw": {
-    "name": "Lamb's lettuce, raw",
-    "alternative_names": [],
-    "description": "Lamb's lettuce, raw."
-  },
   "beef_rib_steak_lean_grilledpan_fried": {
     "name": "Beef, rib steak, lean, grilled/pan-fried",
     "alternative_names": [],
@@ -3469,5 +3464,19 @@
     "name": "Chicken pea, boiled/cooked in water",
     "alternative_names": [],
     "description": "Chicken pea, boiled/cooked in water."
+  },
+  "liver_sausage": {
+    "name": "Liver sausage (Leberwurst)",
+    "alternative_names": [
+      "Leberwurst"
+    ],
+    "description": "German liver sausage (Leberwurst) with min. 35% fat. A spreadable sausage rich in Vitamin K2 due to liver content."
+  },
+  "blood_sausage": {
+    "name": "Blood sausage (Black pudding)",
+    "alternative_names": [
+      "Blutwurst"
+    ],
+    "description": "Traditional blood sausage (Blutwurst). Contains Vitamin K2."
   }
 }

@@ -2116,5 +2116,41 @@
     "name": "Butter bean or yellow bean, boiled/cooked in water",
     "alternative_names": [],
     "description": "Butter bean or yellow bean, boiled/cooked in water."
+  },
+  "lambs_lettuce_raw": {
+    "name": "Lamb's lettuce, raw",
+    "alternative_names": [],
+    "description": "Lamb's lettuce, raw."
+  },
+  "sorrel_raw": {
+    "name": "Sorrel, raw",
+    "alternative_names": [
+      "Common sorrel",
+      "Garden sorrel"
+    ],
+    "description": "Sorrel leaves, raw. A sharp, tangy green vegetable with very high Vitamin K1 content."
+  },
+  "purslane_raw": {
+    "name": "Purslane, raw",
+    "alternative_names": [
+      "Common purslane",
+      "Verdolaga"
+    ],
+    "description": "Purslane leaves and stems, raw. A succulent leafy green with a slightly sour and salty taste, rich in omega-3 and Vitamin K1."
+  },
+  "wild_garlic_raw": {
+    "name": "Wild garlic, raw",
+    "alternative_names": [
+      "Ramsons",
+      "Wood garlic"
+    ],
+    "description": "Wild garlic leaves (ramsons), raw. A popular wild spring herb with mild garlic flavor."
+  },
+  "wild_garlic_cooked": {
+    "name": "Wild garlic, boiled",
+    "alternative_names": [
+      "Ramsons boiled"
+    ],
+    "description": "Wild garlic leaves, boiled."
   }
 }
