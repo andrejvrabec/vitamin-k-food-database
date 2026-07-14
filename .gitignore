@@ -41,4 +41,6 @@ scripts/import_all_bls_missing.py
 scripts/rebuild_bls_translations.py
 scripts/revert_bls_imports.py
 scripts/import_bls_specialties.py
+scripts/merge_bls_database.py
+scripts/fix_slovak_translations.py
 icons/

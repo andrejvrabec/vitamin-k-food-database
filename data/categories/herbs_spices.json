@@ -7,21 +7,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.5
+          "vitamin_k_mcg": 23.0,
+          "vitamin_k1_100g_mcg": 23.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 2.3,
+          "vitamin_k_mcg": 34.5,
           "gram_equivalent": 150
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018), NIH NCCIH, MSKCC About Herbs",
+      "source": "USDA Database for Standard Reference Legacy (2018), NIH NCCIH, MSKCC About Herbs, BLS 4.0 (Code: G490100)",
       "tags": [
         "k1",
         "raw",
         "affects_coagulation",
-        "affects_warfarin"
+        "affects_warfarin",
+        "k2"
       ],
       "relations": {
         "group": "garlic"
@@ -38,16 +41,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1350.0
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 4.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "gram_equivalent": 2,
-          "vitamin_k_mcg": 27.0
+          "vitamin_k_mcg": 0.08
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 170932)",
+      "source": "USDA FoodData Central (FDC ID: 170932), BLS 4.0 (Code: G250400)",
       "relations": {
         "group": "parsley"
       }
@@ -329,22 +334,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4
+          "vitamin_k_mcg": 0.189,
+          "vitamin_k1_100g_mcg": 0.189,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.02,
           "gram_equivalent": 9
         },
         {
           "amount": 1.0,
           "unit": "tsp",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.01,
           "gram_equivalent": 3
         }
       ],
-      "source": "USDA SR28 (NDB No: 02020)",
+      "source": "USDA SR28 (NDB No: 02020), BLS 4.0 (Code: G490500)",
       "relations": {
         "group": "garlic"
       }
@@ -484,22 +491,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 414.8
+          "vitamin_k_mcg": 415.0,
+          "vitamin_k1_100g_mcg": 415.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 2.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 22.0,
+          "vitamin_k_mcg": 20.75,
           "gram_equivalent": 5
         },
         {
           "amount": 5.0,
           "unit": "piece",
-          "vitamin_k_mcg": 10.4,
+          "vitamin_k_mcg": 8.3,
           "gram_equivalent": 2
         }
       ],
-      "source": "USDA SR28 (NDB No: 02044), FDA Coumadin Prescribing Information",
+      "source": "USDA SR28 (NDB No: 02044), FDA Coumadin Prescribing Information, BLS 4.0 (Code: G061000)",
       "relations": {
         "group": "basil"
       }
@@ -619,16 +628,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.7
+          "vitamin_k_mcg": 0.254,
+          "vitamin_k1_100g_mcg": 0.254,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.034,
+          "vitamin_k_mcg": 0.01,
           "gram_equivalent": 2
         }
       ],
-      "source": "USDA FoodData Central, NIH NCCIH, MSKCC About Herbs",
+      "source": "USDA FoodData Central, NIH NCCIH, MSKCC About Herbs, BLS 4.0 (Code: N315000)",
       "relations": {
         "group": "ginger"
       }
@@ -699,16 +710,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 30.5
+          "vitamin_k_mcg": 30.5,
+          "vitamin_k1_100g_mcg": 30.5,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 10.1,
+          "vitamin_k_mcg": 10.06,
           "gram_equivalent": 33
         }
       ],
-      "source": "USDA FoodData Central, Stockley's Drug Interactions"
+      "source": "USDA FoodData Central, Stockley's Drug Interactions, BLS 4.0 (Code: H640100)"
     },
     {
       "id": "piperade_basque_style_fondue_of_sweet_peppers_and_tomatoes_with_onions_and_garlic_pre",
@@ -966,22 +979,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 0.483,
+          "vitamin_k1_100g_mcg": 0.483,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tsp",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.01,
           "gram_equivalent": 2
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.12,
           "gram_equivalent": 24
         }
       ],
-      "source": "USDA SR28 (NDB No: 11216)",
+      "source": "USDA SR28 (NDB No: 11216), BLS 4.0 (Code: R211200)",
       "relations": {
         "group": "ginger"
       }
@@ -1156,15 +1171,15 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 900.0,
-          "vitamin_k1_100g_mcg": 900.0,
+          "vitamin_k_mcg": 1710.0,
+          "vitamin_k1_100g_mcg": 1710.0,
           "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tsp",
           "gram_equivalent": 0.7,
-          "vitamin_k_mcg": 6.3
+          "vitamin_k_mcg": 11.97
         }
       ],
       "source": "BLS 4.0 (Code: K214008)",

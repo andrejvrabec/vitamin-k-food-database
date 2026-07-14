@@ -36,20 +36,23 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 13.0
+          "vitamin_k_mcg": 29.3,
+          "vitamin_k1_100g_mcg": 24.6,
+          "vitamin_k2_100g_mcg": 4.7
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 150,
-          "vitamin_k_mcg": 19.5
+          "vitamin_k_mcg": 43.95
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 173846)",
+      "source": "USDA FoodData Central (FDC ID: 173846), BLS 4.0 (Code: G345902)",
       "tags": [
         "fermented",
         "high_sodium",
-        "k2"
+        "k2",
+        "k1"
       ],
       "relations": {
         "group": "cabbage",

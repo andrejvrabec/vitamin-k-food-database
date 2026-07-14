@@ -37,7 +37,9 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.0
+          "vitamin_k_mcg": 1.0,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
@@ -62,16 +64,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 50.6
+          "vitamin_k_mcg": 135.8,
+          "vitamin_k1_100g_mcg": 135.8,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "gram_equivalent": 90,
-          "vitamin_k_mcg": 45.5
+          "vitamin_k_mcg": 122.22
         }
       ],
-      "source": "USDA FDC (derived from PDF page 2)",
+      "source": "USDA FDC (derived from PDF page 2), BLS 4.0 (Code: G450162)",
       "tags": [
         "cooked",
         "k1"
@@ -91,16 +95,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 66.1
+          "vitamin_k_mcg": 114.0,
+          "vitamin_k1_100g_mcg": 114.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 144.0,
+          "vitamin_k_mcg": 248.52,
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: X545612)",
       "tags": [
         "cooked",
         "k1"
@@ -184,16 +190,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 141.1
+          "vitamin_k_mcg": 226.0,
+          "vitamin_k1_100g_mcg": 226.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 150,
-          "vitamin_k_mcg": 211.7
+          "vitamin_k_mcg": 339.0
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 169966)",
+      "source": "USDA FoodData Central (FDC ID: 169966), BLS 4.0 (Code: G312182)",
       "relations": {
         "group": "broccoli",
         "related_ids": [
@@ -274,16 +282,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 101.6
+          "vitamin_k_mcg": 69.0,
+          "vitamin_k1_100g_mcg": 66.0,
+          "vitamin_k2_100g_mcg": 3.0
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 91,
-          "vitamin_k_mcg": 92.5
+          "vitamin_k_mcg": 62.79
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 170379), FDA Coumadin Prescribing Information",
+      "source": "USDA FoodData Central (FDC ID: 170379), FDA Coumadin Prescribing Information, BLS 4.0 (Code: G312100)",
       "relations": {
         "group": "broccoli",
         "related_ids": [
@@ -298,7 +308,8 @@
         "k1",
         "raw",
         "affects_warfarin",
-        "affects_coagulation"
+        "affects_coagulation",
+        "k2"
       ]
     },
     {
@@ -308,22 +319,25 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 177.0
+          "vitamin_k_mcg": 140.0,
+          "vitamin_k1_100g_mcg": 140.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 88,
-          "vitamin_k_mcg": 155.8
+          "vitamin_k_mcg": 123.2
         }
       ],
-      "source": "USDA FDC (derived from PDF page 1), FDA Coumadin Prescribing Information, Ciqual 2025 (Food Code: 20058)",
+      "source": "USDA FDC (derived from PDF page 1), FDA Coumadin Prescribing Information, Ciqual 2025 (Food Code: 20058), BLS 4.0 (Code: G332100)",
       "tags": [
         "affects_coagulation",
         "affects_warfarin",
         "cruciferous",
         "k1",
-        "raw"
+        "raw",
+        "k2"
       ],
       "relations": {
         "group": "cabbage"
@@ -358,16 +372,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 57.8
+          "vitamin_k_mcg": 67.0,
+          "vitamin_k1_100g_mcg": 67.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 57.8,
+          "vitamin_k_mcg": 67.0,
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: X572612)",
       "tags": [
         "cooked",
         "cruciferous",
@@ -410,22 +426,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.4
+          "vitamin_k_mcg": 5.0,
+          "vitamin_k1_100g_mcg": 5.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 100,
           "unit": "ml",
           "gram_equivalent": 100,
-          "vitamin_k_mcg": 9.4
+          "vitamin_k_mcg": 5.0
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 240,
-          "vitamin_k_mcg": 22.6
+          "vitamin_k_mcg": 12.0
         }
       ],
-      "source": "USDA FDC ID: 170487",
+      "source": "USDA FDC ID: 170487, BLS 4.0 (Code: G620600)",
       "tags": [
         "beverages",
         "k1"
@@ -521,19 +539,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 13.2
+          "vitamin_k_mcg": 11.0,
+          "vitamin_k1_100g_mcg": 11.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 128,
-          "vitamin_k_mcg": 16.9
+          "vitamin_k_mcg": 14.08
         }
       ],
-      "source": "USDA FDC (derived from PDF page 2), Ciqual 2025 (Food Code: 20009)",
+      "source": "USDA FDC (derived from PDF page 2), Ciqual 2025 (Food Code: 20009), BLS 4.0 (Code: G620100)",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "k2"
       ],
       "relations": {
         "group": "carrot"
@@ -597,16 +618,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 56.7
+          "vitamin_k_mcg": 37.0,
+          "vitamin_k1_100g_mcg": 37.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 56.7,
+          "vitamin_k_mcg": 37.0,
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: X573212)",
       "tags": [
         "cooked",
         "k1"
@@ -622,16 +645,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 903.0
+          "vitamin_k_mcg": 542.0,
+          "vitamin_k1_100g_mcg": 542.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 270.9,
+          "vitamin_k_mcg": 162.6,
           "gram_equivalent": 30
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018), USDA FDC (derived from PDF page 1)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA FDC (derived from PDF page 1), BLS 4.0 (Code: G280100)",
       "tags": [
         "green_leaves",
         "k1",
@@ -653,16 +678,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 231.2
+          "vitamin_k_mcg": 116.0,
+          "vitamin_k1_100g_mcg": 116.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "gram_equivalent": 25,
-          "vitamin_k_mcg": 57.8
+          "vitamin_k_mcg": 29.0
         }
       ],
-      "source": "USDA FDC (derived from PDF page 1)",
+      "source": "USDA FDC (derived from PDF page 1), BLS 4.0 (Code: G102100)",
       "relations": {
         "group": "lettuce"
       }
@@ -752,16 +779,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 25.4
+          "vitamin_k_mcg": 56.0,
+          "vitamin_k1_100g_mcg": 56.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1,
           "unit": "piece",
           "gram_equivalent": 124,
-          "vitamin_k_mcg": 31.5
+          "vitamin_k_mcg": 69.44
         }
       ],
-      "source": "USDA FDC (derived from PDF page 2)",
+      "source": "USDA FDC (derived from PDF page 2), BLS 4.0 (Code: G470042)",
       "tags": [
         "cooked",
         "k1"
@@ -835,16 +864,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 55.0
+          "vitamin_k_mcg": 25.6,
+          "vitamin_k1_100g_mcg": 25.6,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "gram_equivalent": 80,
-          "vitamin_k_mcg": 44.0
+          "vitamin_k_mcg": 20.48
         }
       ],
-      "source": "USDA FDC (derived from PDF page 2)",
+      "source": "USDA FDC (derived from PDF page 2), BLS 4.0 (Code: G530142)",
       "tags": [
         "cooked",
         "k1"
@@ -903,19 +934,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3
+          "vitamin_k_mcg": 14.0,
+          "vitamin_k1_100g_mcg": 14.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 0.6,
+          "vitamin_k_mcg": 30.52,
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 11290), USDA SR28 (NDB No: 11807)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 11290), USDA SR28 (NDB No: 11807), BLS 4.0 (Code: X548163)",
       "tags": [
         "cooked",
-        "k1"
+        "k1",
+        "k2"
       ],
       "relations": {
         "group": "onion"
@@ -928,19 +962,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6
+          "vitamin_k_mcg": 9.0,
+          "vitamin_k1_100g_mcg": 8.0,
+          "vitamin_k2_100g_mcg": 1.01
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 0.6,
+          "vitamin_k_mcg": 9.0,
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: G480100)",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "k2"
       ],
       "relations": {
         "group": "onion",
@@ -956,16 +993,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 52.3
+          "vitamin_k_mcg": 9.0,
+          "vitamin_k1_100g_mcg": 9.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 52.3,
+          "vitamin_k_mcg": 9.0,
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: X562043)",
       "tags": [
         "cooked",
         "k1",
@@ -1008,16 +1047,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 24.8
+          "vitamin_k_mcg": 23.0,
+          "vitamin_k1_100g_mcg": 23.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 145,
-          "vitamin_k_mcg": 36.0
+          "vitamin_k_mcg": 33.35
         }
       ],
-      "source": "USDA FDC (derived from PDF page 2)",
+      "source": "USDA FDC (derived from PDF page 2), BLS 4.0 (Code: G760100)",
       "tags": [
         "k1",
         "legumes",
@@ -1175,22 +1216,25 @@
       "tags": [
         "cooked",
         "green_leaves",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 493.6
+          "vitamin_k_mcg": 527.0,
+          "vitamin_k1_100g_mcg": 527.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 180,
-          "vitamin_k_mcg": 888.5
+          "vitamin_k_mcg": 948.6
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 170566)",
+      "source": "USDA FoodData Central (FDC ID: 170566), BLS 4.0 (Code: G211152)",
       "relations": {
         "group": "spinach",
         "related_ids": [
@@ -1208,22 +1252,25 @@
         "k1",
         "raw",
         "affects_coagulation",
-        "affects_warfarin"
+        "affects_warfarin",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 482.9
+          "vitamin_k_mcg": 70.0,
+          "vitamin_k1_100g_mcg": 67.0,
+          "vitamin_k2_100g_mcg": 3.0
         },
         {
           "amount": 1,
           "unit": "cup",
           "gram_equivalent": 30,
-          "vitamin_k_mcg": 144.9
+          "vitamin_k_mcg": 21.0
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 168462)",
+      "source": "USDA FoodData Central (FDC ID: 168462), BLS 4.0 (Code: G211100)",
       "relations": {
         "group": "spinach",
         "related_ids": [
@@ -1446,16 +1493,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2255.3
+          "vitamin_k_mcg": 193.0,
+          "vitamin_k1_100g_mcg": 193.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 676.6,
+          "vitamin_k_mcg": 57.9,
           "gram_equivalent": 30
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: G614132)",
       "tags": [
         "cooked",
         "cruciferous",
@@ -1503,16 +1552,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 529.3
+          "vitamin_k_mcg": 11.0,
+          "vitamin_k1_100g_mcg": 11.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 529.3,
+          "vitamin_k_mcg": 11.0,
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: X987712)",
       "tags": [
         "cooked",
         "cruciferous",
@@ -1557,16 +1608,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 9.0,
+          "vitamin_k1_100g_mcg": 9.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 19.62,
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: X573612)",
       "tags": [
         "cooked",
         "cruciferous",
@@ -1583,22 +1636,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.1
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 4.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 0.24,
           "gram_equivalent": 6
         },
         {
           "amount": 1.0,
           "unit": "tsp",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 0.08,
           "gram_equivalent": 2
         }
       ],
-      "source": "USDA SR28 (NDB No: 02026)",
+      "source": "USDA SR28 (NDB No: 02026), BLS 4.0 (Code: G480500)",
       "relations": {
         "group": "onion"
       }
@@ -1614,22 +1669,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.7
+          "vitamin_k_mcg": 0.7,
+          "vitamin_k1_100g_mcg": 0.7,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 1.0,
+          "vitamin_k_mcg": 1.04,
           "gram_equivalent": 148
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.3,
+          "vitamin_k_mcg": 1.25,
           "gram_equivalent": 179
         }
       ],
-      "source": "USDA SR28 (NDB No: 09277)"
+      "source": "USDA SR28 (NDB No: 09277), BLS 4.0 (Code: F545100)"
     },
     {
       "id": "plantains_cooked",
@@ -1642,22 +1699,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.7
+          "vitamin_k_mcg": 0.3,
+          "vitamin_k1_100g_mcg": 0.3,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 1.4,
+          "vitamin_k_mcg": 0.6,
           "gram_equivalent": 200
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 1.1,
+          "vitamin_k_mcg": 0.46,
           "gram_equivalent": 154
         }
       ],
-      "source": "USDA SR28 (NDB No: 09278)"
+      "source": "USDA SR28 (NDB No: 09278), BLS 4.0 (Code: F545182)"
     },
     {
       "id": "plantains_yel_fried_latino_restaurant",
@@ -1686,28 +1745,31 @@
       "category": "vegetables",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 41.6
+          "vitamin_k_mcg": 86.5,
+          "vitamin_k1_100g_mcg": 86.5,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 55.7,
+          "vitamin_k_mcg": 115.91,
           "gram_equivalent": 134
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 5.0,
+          "vitamin_k_mcg": 10.38,
           "gram_equivalent": 12
         }
       ],
-      "source": "USDA SR28 (NDB No: 11011)",
+      "source": "USDA SR28 (NDB No: 11011), BLS 4.0 (Code: G450100)",
       "relations": {
         "group": "asparagus",
         "related_ids": [
@@ -2075,28 +2137,31 @@
       "tags": [
         "cooked",
         "cruciferous",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 140.3
+          "vitamin_k_mcg": 244.0,
+          "vitamin_k1_100g_mcg": 244.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 29.5,
+          "vitamin_k_mcg": 51.24,
           "gram_equivalent": 21
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 109.4,
+          "vitamin_k_mcg": 190.32,
           "gram_equivalent": 78
         }
       ],
-      "source": "USDA SR28 (NDB No: 11099)",
+      "source": "USDA SR28 (NDB No: 11099), BLS 4.0 (Code: X536053)",
       "relations": {
         "group": "cabbage"
       }
@@ -2197,22 +2262,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 76.0
+          "vitamin_k_mcg": 90.0,
+          "vitamin_k1_100g_mcg": 90.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 67.6,
+          "vitamin_k_mcg": 80.1,
           "gram_equivalent": 89
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 53.2,
+          "vitamin_k_mcg": 63.0,
           "gram_equivalent": 70
         }
       ],
-      "source": "USDA SR28 (NDB No: 11109), FDA Coumadin Prescribing Information",
+      "source": "USDA SR28 (NDB No: 11109), FDA Coumadin Prescribing Information, BLS 4.0 (Code: G344100)",
       "relations": {
         "group": "cabbage"
       }
@@ -2261,22 +2328,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 38.2
+          "vitamin_k_mcg": 5.62,
+          "vitamin_k1_100g_mcg": 5.62,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 34.0,
+          "vitamin_k_mcg": 5.0,
           "gram_equivalent": 89
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 26.7,
+          "vitamin_k_mcg": 3.93,
           "gram_equivalent": 70
         }
       ],
-      "source": "USDA SR28 (NDB No: 11112), Ciqual 2025 (Food Code: 20014)",
+      "source": "USDA SR28 (NDB No: 11112), Ciqual 2025 (Food Code: 20014), BLS 4.0 (Code: G341100)",
       "relations": {
         "group": "cabbage"
       }
@@ -2293,22 +2362,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 47.6
+          "vitamin_k_mcg": 45.0,
+          "vitamin_k1_100g_mcg": 45.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 10.5,
+          "vitamin_k_mcg": 9.9,
           "gram_equivalent": 22
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 35.7,
+          "vitamin_k_mcg": 33.75,
           "gram_equivalent": 75
         }
       ],
-      "source": "USDA SR28 (NDB No: 11113)",
+      "source": "USDA SR28 (NDB No: 11113), BLS 4.0 (Code: X537063)",
       "relations": {
         "group": "cabbage"
       }
@@ -2325,16 +2396,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 68.8
+          "vitamin_k_mcg": 64.9,
+          "vitamin_k1_100g_mcg": 64.9,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 48.2,
+          "vitamin_k_mcg": 45.43,
           "gram_equivalent": 70
         }
       ],
-      "source": "USDA SR28 (NDB No: 11114)",
+      "source": "USDA SR28 (NDB No: 11114), BLS 4.0 (Code: G343100)",
       "relations": {
         "group": "cabbage"
       }
@@ -2487,28 +2560,31 @@
       "tags": [
         "cruciferous",
         "k1",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 15.5
+          "vitamin_k_mcg": 18.0,
+          "vitamin_k1_100g_mcg": 18.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 16.6,
+          "vitamin_k_mcg": 19.26,
           "gram_equivalent": 107
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 2.0,
+          "vitamin_k_mcg": 2.34,
           "gram_equivalent": 13
         }
       ],
-      "source": "USDA SR28 (NDB No: 11135)"
+      "source": "USDA SR28 (NDB No: 11135), BLS 4.0 (Code: G311100)"
     },
     {
       "id": "cauliflower_ckd_bld_drnd_wosalt",
@@ -2689,22 +2765,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 212.7
+          "vitamin_k_mcg": 375.0,
+          "vitamin_k1_100g_mcg": 375.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 6.4,
+          "vitamin_k_mcg": 11.25,
           "gram_equivalent": 3
         },
         {
           "amount": 1.0,
           "unit": "tsp",
-          "vitamin_k_mcg": 2.1,
+          "vitamin_k_mcg": 3.75,
           "gram_equivalent": 1
         }
       ],
-      "source": "USDA SR28 (NDB No: 11156)",
+      "source": "USDA SR28 (NDB No: 11156), BLS 4.0 (Code: G081100)",
       "relations": {
         "group": "onion"
       }
@@ -2783,22 +2861,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 7.2
+          "vitamin_k_mcg": 32.0,
+          "vitamin_k1_100g_mcg": 32.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 9.6,
+          "vitamin_k_mcg": 42.56,
           "gram_equivalent": 133
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 8.6,
+          "vitamin_k_mcg": 38.08,
           "gram_equivalent": 119
         }
       ],
-      "source": "USDA SR28 (NDB No: 11206)",
+      "source": "USDA SR28 (NDB No: 11206), BLS 4.0 (Code: G520100)",
       "relations": {
         "group": "cucumber"
       }
@@ -3018,22 +3098,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 102.5
+          "vitamin_k_mcg": 103.0,
+          "vitamin_k1_100g_mcg": 103.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 48.2,
+          "vitamin_k_mcg": 48.41,
           "gram_equivalent": 47
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 6.1,
+          "vitamin_k_mcg": 6.18,
           "gram_equivalent": 6
         }
       ],
-      "source": "USDA SR28 (NDB No: 11251), Ciqual 2025 (Food Code: 20171)",
+      "source": "USDA SR28 (NDB No: 11251), Ciqual 2025 (Food Code: 20171), BLS 4.0 (Code: G107100)",
       "relations": {
         "group": "lettuce"
       }
@@ -3174,16 +3256,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 337.0
+          "vitamin_k_mcg": 456.0,
+          "vitamin_k1_100g_mcg": 456.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 188.7,
+          "vitamin_k_mcg": 255.36,
           "gram_equivalent": 56
         }
       ],
-      "source": "USDA SR28 (NDB No: 11276)",
+      "source": "USDA SR28 (NDB No: 11276), BLS 4.0 (Code: G213100)",
       "relations": {
         "group": "spinach",
         "related_ids": [
@@ -3228,22 +3312,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 31.3
+          "vitamin_k_mcg": 20.5,
+          "vitamin_k1_100g_mcg": 20.5,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 31.3,
+          "vitamin_k_mcg": 20.5,
           "gram_equivalent": 100
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 29.7,
+          "vitamin_k_mcg": 19.48,
           "gram_equivalent": 95
         }
       ],
-      "source": "USDA SR28 (NDB No: 11278)"
+      "source": "USDA SR28 (NDB No: 11278), BLS 4.0 (Code: G530100)"
     },
     {
       "id": "okra_ckd_bld_drnd_wosalt",
@@ -4347,16 +4433,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.9
+          "vitamin_k_mcg": 1.4,
+          "vitamin_k1_100g_mcg": 1.4,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.5,
+          "vitamin_k_mcg": 2.55,
           "gram_equivalent": 182
         }
       ],
-      "source": "USDA SR28 (NDB No: 11400)",
+      "source": "USDA SR28 (NDB No: 11400), BLS 4.0 (Code: K110100)",
       "relations": {
         "group": "potato"
       }
@@ -4495,16 +4583,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 493.6
+          "vitamin_k_mcg": 536.0,
+          "vitamin_k1_100g_mcg": 536.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 888.5,
+          "vitamin_k_mcg": 964.8,
           "gram_equivalent": 180
         }
       ],
-      "source": "USDA SR28 (NDB No: 11458)",
+      "source": "USDA SR28 (NDB No: 11458), BLS 4.0 (Code: X522012)",
       "relations": {
         "group": "spinach"
       }
@@ -5145,16 +5235,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.5
+          "vitamin_k_mcg": 8.0,
+          "vitamin_k1_100g_mcg": 8.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 4.4,
+          "vitamin_k_mcg": 14.08,
           "gram_equivalent": 176
         }
       ],
-      "source": "USDA SR28 (NDB No: 11517)",
+      "source": "USDA SR28 (NDB No: 11517), BLS 4.0 (Code: X699312)",
       "relations": {
         "group": "potato"
       }
@@ -5318,22 +5410,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.3
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 4.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 5.6,
+          "vitamin_k_mcg": 9.72,
           "gram_equivalent": 243
         },
         {
           "amount": 6.0,
           "unit": "piece",
-          "vitamin_k_mcg": 4.2,
+          "vitamin_k_mcg": 7.28,
           "gram_equivalent": 182
         }
       ],
-      "source": "USDA SR28 (NDB No: 11540)",
+      "source": "USDA SR28 (NDB No: 11540), BLS 4.0 (Code: G560600)",
       "relations": {
         "group": "tomato"
       }
@@ -5378,7 +5472,9 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.4
+          "vitamin_k_mcg": 3.4,
+          "vitamin_k1_100g_mcg": 3.4,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
@@ -5389,11 +5485,11 @@
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 27.9,
+          "vitamin_k_mcg": 27.95,
           "gram_equivalent": 822
         }
       ],
-      "source": "USDA SR28 (NDB No: 11547)",
+      "source": "USDA SR28 (NDB No: 11547), BLS 4.0 (Code: R161200)",
       "relations": {
         "group": "tomato"
       }
@@ -5408,10 +5504,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 48.8
+          "vitamin_k_mcg": 5.0,
+          "vitamin_k1_100g_mcg": 5.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "USDA SR28 (NDB No: 11548)",
+      "source": "USDA SR28 (NDB No: 11548), BLS 4.0 (Code: G561100)",
       "relations": {
         "group": "tomato"
       }
@@ -5420,22 +5518,25 @@
       "id": "tomato_products_cnd_sau",
       "category": "vegetables",
       "tags": [
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.8
+          "vitamin_k_mcg": 15.0,
+          "vitamin_k1_100g_mcg": 15.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 6.9,
+          "vitamin_k_mcg": 36.75,
           "gram_equivalent": 245
         }
       ],
-      "source": "USDA SR28 (NDB No: 11549)",
+      "source": "USDA SR28 (NDB No: 11549), BLS 4.0 (Code: T813900)",
       "relations": {
         "group": "tomato"
       }
@@ -5507,22 +5608,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 2.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 2.6,
           "gram_equivalent": 130
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 3.66,
           "gram_equivalent": 183
         }
       ],
-      "source": "USDA SR28 (NDB No: 11564)"
+      "source": "USDA SR28 (NDB No: 11564), BLS 4.0 (Code: G614100)"
     },
     {
       "id": "turnips_ckd_bld_drnd_wosalt",
@@ -5591,16 +5694,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 251.0
+          "vitamin_k_mcg": 129.0,
+          "vitamin_k1_100g_mcg": 129.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 138.0,
+          "vitamin_k_mcg": 70.95,
           "gram_equivalent": 55
         }
       ],
-      "source": "USDA SR28 (NDB No: 11568), FDA Coumadin Prescribing Information",
+      "source": "USDA SR28 (NDB No: 11568), FDA Coumadin Prescribing Information, BLS 4.0 (Code: G420100)",
       "relations": {
         "group": "kale",
         "related_ids": [
@@ -5724,16 +5829,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.3
+          "vitamin_k_mcg": 2.3,
+          "vitamin_k1_100g_mcg": 2.3,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.4,
+          "vitamin_k_mcg": 3.45,
           "gram_equivalent": 150
         }
       ],
-      "source": "USDA SR28 (NDB No: 11601)",
+      "source": "USDA SR28 (NDB No: 11601), BLS 4.0 (Code: K440100)",
       "relations": {
         "group": "potato"
       }
@@ -5749,22 +5856,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.3
+          "vitamin_k_mcg": 2.9,
+          "vitamin_k1_100g_mcg": 2.9,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.1,
+          "vitamin_k_mcg": 3.94,
           "gram_equivalent": 136
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.6,
+          "vitamin_k_mcg": 1.97,
           "gram_equivalent": 68
         }
       ],
-      "source": "USDA SR28 (NDB No: 11602)",
+      "source": "USDA SR28 (NDB No: 11602), BLS 4.0 (Code: K440132)",
       "relations": {
         "group": "potato"
       }
@@ -6705,22 +6814,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 47.8
+          "vitamin_k_mcg": 32.0,
+          "vitamin_k1_100g_mcg": 32.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 121.9,
+          "vitamin_k_mcg": 81.6,
           "gram_equivalent": 255
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 44.0,
+          "vitamin_k_mcg": 29.44,
           "gram_equivalent": 92
         }
       ],
-      "source": "USDA SR28 (NDB No: 11804), USDA Database for Standard Reference Legacy (2018)"
+      "source": "USDA SR28 (NDB No: 11804), USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: X573412)"
     },
     {
       "id": "onions_ckd_bld_drnd_wsalt",
@@ -6962,22 +7073,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1
+          "vitamin_k_mcg": 1.4,
+          "vitamin_k1_100g_mcg": 1.4,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 6.3,
+          "vitamin_k_mcg": 4.2,
           "gram_equivalent": 300
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 3.5,
+          "vitamin_k_mcg": 2.34,
           "gram_equivalent": 167
         }
       ],
-      "source": "USDA SR28 (NDB No: 11833), USDA SR28 (NDB No: 11367), USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA SR28 (NDB No: 11833), USDA SR28 (NDB No: 11367), USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: X610042)",
       "relations": {
         "group": "potato"
       }
@@ -7231,22 +7344,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 11.4
+          "vitamin_k_mcg": 3.4,
+          "vitamin_k1_100g_mcg": 3.4,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 14.9,
+          "vitamin_k_mcg": 4.45,
           "gram_equivalent": 131
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 19.4,
+          "vitamin_k_mcg": 5.78,
           "gram_equivalent": 170
         }
       ],
-      "source": "USDA SR28 (NDB No: 11887)",
+      "source": "USDA SR28 (NDB No: 11887), BLS 4.0 (Code: R160000)",
       "relations": {
         "group": "tomato"
       }
@@ -8245,10 +8360,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.9
+          "vitamin_k_mcg": 29.0,
+          "vitamin_k1_100g_mcg": 29.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20023)",
+      "source": "Ciqual 2025 (Food Code: 20023), BLS 4.0 (Code: G220100)",
       "relations": {
         "group": "celery"
       }
@@ -8265,10 +8382,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 123.0
+          "vitamin_k_mcg": 116.0,
+          "vitamin_k1_100g_mcg": 116.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20031)",
+      "source": "Ciqual 2025 (Food Code: 20031), BLS 4.0 (Code: G105100)",
       "relations": {
         "group": "lettuce"
       }
@@ -8284,10 +8403,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 47.0
+          "vitamin_k_mcg": 60.0,
+          "vitamin_k1_100g_mcg": 60.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20039)",
+      "source": "Ciqual 2025 (Food Code: 20039), BLS 4.0 (Code: G470100)",
       "relations": {
         "group": "onion"
       }
@@ -8421,10 +8542,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.6
+          "vitamin_k_mcg": 54.0,
+          "vitamin_k1_100g_mcg": 54.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20116)",
+      "source": "Ciqual 2025 (Food Code: 20116), BLS 4.0 (Code: G342100)",
       "relations": {
         "group": "cabbage"
       }
@@ -8539,10 +8662,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 24.1
+          "vitamin_k_mcg": 39.0,
+          "vitamin_k1_100g_mcg": 39.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20200)",
+      "source": "Ciqual 2025 (Food Code: 20200), BLS 4.0 (Code: G103100)",
       "relations": {
         "group": "lettuce"
       }
@@ -8630,10 +8755,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 705.0
+          "vitamin_k_mcg": 1129.0,
+          "vitamin_k1_100g_mcg": 1129.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20218)",
+      "source": "Ciqual 2025 (Food Code: 20218), BLS 4.0 (Code: G322100)",
       "relations": {
         "group": "kale",
         "related_ids": [
@@ -8715,10 +8842,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 20.2
+          "vitamin_k_mcg": 21.0,
+          "vitamin_k1_100g_mcg": 21.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20280)",
+      "source": "Ciqual 2025 (Food Code: 20280), BLS 4.0 (Code: G350100)",
       "relations": {
         "group": "broccoli",
         "related_ids": [
@@ -8839,10 +8968,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.8
+          "vitamin_k_mcg": 11.0,
+          "vitamin_k1_100g_mcg": 11.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20007)",
+      "source": "Ciqual 2025 (Food Code: 20007), BLS 4.0 (Code: G620152)",
       "relations": {
         "group": "carrot",
         "related_ids": [
@@ -8887,10 +9018,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 13.8
+          "vitamin_k_mcg": 27.0,
+          "vitamin_k1_100g_mcg": 27.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20017)"
+      "source": "Ciqual 2025 (Food Code: 20017), BLS 4.0 (Code: G311182)"
     },
     {
       "id": "courgette_or_zucchini_flesh_and_skin_cooked",
@@ -8980,10 +9113,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.6
+          "vitamin_k_mcg": 7.0,
+          "vitamin_k1_100g_mcg": 7.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20048)",
+      "source": "Ciqual 2025 (Food Code: 20048), BLS 4.0 (Code: G561132)",
       "relations": {
         "group": "tomato"
       }
@@ -9001,10 +9136,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 462.0
+          "vitamin_k_mcg": 290.0,
+          "vitamin_k1_100g_mcg": 290.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20060)",
+      "source": "Ciqual 2025 (Food Code: 20060), BLS 4.0 (Code: G210902)",
       "relations": {
         "group": "spinach",
         "related_ids": [
@@ -9113,10 +9250,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 292.0
+          "vitamin_k_mcg": 681.0,
+          "vitamin_k1_100g_mcg": 681.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20158)",
+      "source": "Ciqual 2025 (Food Code: 20158), BLS 4.0 (Code: G213132)",
       "relations": {
         "group": "spinach",
         "related_ids": [
@@ -9131,16 +9270,19 @@
         "cooked",
         "cruciferous",
         "green_leaves",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 817.0
+          "vitamin_k_mcg": 646.0,
+          "vitamin_k1_100g_mcg": 646.0,
+          "vitamin_k2_100g_mcg": 0.3
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20219)",
+      "source": "Ciqual 2025 (Food Code: 20219), BLS 4.0 (Code: X572712)",
       "relations": {
         "group": "kale",
         "related_ids": [
@@ -9219,10 +9361,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 12.4
+          "vitamin_k_mcg": 18.0,
+          "vitamin_k1_100g_mcg": 18.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20290)",
+      "source": "Ciqual 2025 (Food Code: 20290), BLS 4.0 (Code: G350162)",
       "relations": {
         "group": "broccoli",
         "related_ids": [
@@ -9408,10 +9552,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 13.0
+          "vitamin_k_mcg": 106.0,
+          "vitamin_k1_100g_mcg": 106.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20308)",
+      "source": "Ciqual 2025 (Food Code: 20308), BLS 4.0 (Code: X530143)",
       "relations": {
         "group": "cabbage"
       }
@@ -9468,10 +9614,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 8.1
+          "vitamin_k_mcg": 20.0,
+          "vitamin_k1_100g_mcg": 20.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20312)"
+      "source": "Ciqual 2025 (Food Code: 20312), BLS 4.0 (Code: G311142)"
     },
     {
       "id": "courgette_or_zucchini_flesh_and_skin_roastedbaked",
@@ -9503,10 +9651,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.3
+          "vitamin_k_mcg": 55.0,
+          "vitamin_k1_100g_mcg": 55.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20314)",
+      "source": "Ciqual 2025 (Food Code: 20314), BLS 4.0 (Code: G220152)",
       "relations": {
         "group": "celery"
       }
@@ -9777,10 +9927,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.8
+          "vitamin_k_mcg": 3.7,
+          "vitamin_k1_100g_mcg": 3.7,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20180)",
+      "source": "Ciqual 2025 (Food Code: 20180), BLS 4.0 (Code: G480400)",
       "relations": {
         "group": "onion"
       }
@@ -9795,10 +9947,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 43.0
+          "vitamin_k_mcg": 46.0,
+          "vitamin_k1_100g_mcg": 46.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20189)",
+      "source": "Ciqual 2025 (Food Code: 20189), BLS 4.0 (Code: G560400)",
       "relations": {
         "group": "tomato"
       }
@@ -9863,16 +10017,19 @@
       "category": "vegetables",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.9
+          "vitamin_k_mcg": 15.0,
+          "vitamin_k1_100g_mcg": 14.0,
+          "vitamin_k2_100g_mcg": 1.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 4008)",
+      "source": "Ciqual 2025 (Food Code: 4008), BLS 4.0 (Code: X614213)",
       "relations": {
         "group": "potato"
       }
@@ -10000,10 +10157,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.8
+          "vitamin_k_mcg": 1.8,
+          "vitamin_k1_100g_mcg": 1.8,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 4101)",
+      "source": "Ciqual 2025 (Food Code: 4101), BLS 4.0 (Code: K420100)",
       "relations": {
         "group": "potato",
         "related_ids": [
@@ -10022,10 +10181,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1
+          "vitamin_k_mcg": 2.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 4102), USDA SR28 (NDB No: 11510), USDA SR28 (NDB No: 11876)",
+      "source": "Ciqual 2025 (Food Code: 4102), USDA SR28 (NDB No: 11510), USDA SR28 (NDB No: 11876), BLS 4.0 (Code: K420162)",
       "relations": {
         "group": "potato",
         "related_ids": [
@@ -10317,22 +10478,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 6.0,
+          "vitamin_k1_100g_mcg": 6.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 8.1,
           "gram_equivalent": 135
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.96,
           "gram_equivalent": 16
         }
       ],
-      "source": "USDA SR28 (NDB No: 11241)",
+      "source": "USDA SR28 (NDB No: 11241), BLS 4.0 (Code: G331100)",
       "relations": {
         "group": "cabbage"
       }
@@ -10349,16 +10512,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 7.0,
+          "vitamin_k1_100g_mcg": 7.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 11.55,
           "gram_equivalent": 165
         }
       ],
-      "source": "USDA SR28 (NDB No: 11242)",
+      "source": "USDA SR28 (NDB No: 11242), BLS 4.0 (Code: G331132)",
       "relations": {
         "group": "cabbage"
       }
@@ -10654,16 +10819,19 @@
       "category": "vegetables",
       "tags": [
         "k1",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 48.9
+          "vitamin_k_mcg": 97.0,
+          "vitamin_k1_100g_mcg": 97.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20099)",
+      "source": "Ciqual 2025 (Food Code: 20099), BLS 4.0 (Code: G104100)",
       "relations": {
         "group": "lettuce"
       }
@@ -10679,15 +10847,15 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 700.0,
-          "vitamin_k1_100g_mcg": 700.0,
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
           "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
           "gram_equivalent": 133.0,
-          "vitamin_k_mcg": 931.0
+          "vitamin_k_mcg": 0.0
         }
       ],
       "source": "BLS 4.0 (Code: K234100)"
@@ -10754,8 +10922,8 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 48.0,
-          "vitamin_k1_100g_mcg": 48.0,
+          "vitamin_k_mcg": 0.075,
+          "vitamin_k1_100g_mcg": 0.075,
           "vitamin_k2_100g_mcg": 0.0
         }
       ],

@@ -43,16 +43,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 71.4
+          "vitamin_k_mcg": 121.0,
+          "vitamin_k1_100g_mcg": 121.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "gram_equivalent": 14,
-          "vitamin_k_mcg": 10.0
+          "vitamin_k_mcg": 16.94
         }
       ],
-      "source": "USDA FDC (derived from PDF page 3), USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA FDC (derived from PDF page 3), USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: Q180000)",
       "relations": {
         "group": "oil"
       }
@@ -476,19 +478,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 160.7
+          "vitamin_k_mcg": 39.0,
+          "vitamin_k1_100g_mcg": 34.0,
+          "vitamin_k2_100g_mcg": 5.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 22.5,
+          "vitamin_k_mcg": 5.46,
           "gram_equivalent": 14
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: X344060)",
       "tags": [
         "high_sodium",
-        "k1"
+        "k1",
+        "k2"
       ],
       "relations": {
         "group": "mayonnaise"
@@ -1251,28 +1256,31 @@
       "id": "salad_drsng_french_drsng_red_fat",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 17.8
+          "vitamin_k_mcg": 67.0,
+          "vitamin_k1_100g_mcg": 59.0,
+          "vitamin_k2_100g_mcg": 8.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 2.8,
+          "vitamin_k_mcg": 10.72,
           "gram_equivalent": 16
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 46.3,
+          "vitamin_k_mcg": 174.2,
           "gram_equivalent": 260
         }
       ],
-      "source": "USDA SR28 (NDB No: 04020)",
+      "source": "USDA SR28 (NDB No: 04020), BLS 4.0 (Code: X359712)",
       "relations": {
         "group": "fat"
       }
@@ -1281,28 +1289,31 @@
       "id": "salad_drsng_italian_drsng_comm_red_fat",
       "category": "oils_fats",
       "tags": [
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 12.5
+          "vitamin_k_mcg": 35.0,
+          "vitamin_k1_100g_mcg": 35.0,
+          "vitamin_k2_100g_mcg": 0.1
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 1.9,
+          "vitamin_k_mcg": 5.25,
           "gram_equivalent": 15
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 30.0,
+          "vitamin_k_mcg": 84.0,
           "gram_equivalent": 240
         }
       ],
-      "source": "USDA SR28 (NDB No: 04021)",
+      "source": "USDA SR28 (NDB No: 04021), BLS 4.0 (Code: X359912)",
       "relations": {
         "group": "fat"
       }
@@ -1782,22 +1793,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 24.7
+          "vitamin_k_mcg": 1.5,
+          "vitamin_k1_100g_mcg": 1.5,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 3.4,
+          "vitamin_k_mcg": 0.2,
           "gram_equivalent": 13
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 53.8,
+          "vitamin_k_mcg": 3.27,
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA SR28 (NDB No: 04513)",
+      "source": "USDA SR28 (NDB No: 04513), BLS 4.0 (Code: Q570000)",
       "relations": {
         "group": "oil"
       }
@@ -1813,12 +1826,14 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 15.0
+          "vitamin_k_mcg": 15.0,
+          "vitamin_k1_100g_mcg": 15.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 2.0,
+          "vitamin_k_mcg": 1.95,
           "gram_equivalent": 13
         },
         {
@@ -1828,7 +1843,7 @@
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA SR28 (NDB No: 04528), Ciqual 2025 (Food Code: 17220)",
+      "source": "USDA SR28 (NDB No: 04528), Ciqual 2025 (Food Code: 17220), BLS 4.0 (Code: H120100)",
       "relations": {
         "group": "oil"
       }
@@ -1844,22 +1859,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 7.0
+          "vitamin_k_mcg": 8.7,
+          "vitamin_k1_100g_mcg": 8.7,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 1.0,
+          "vitamin_k_mcg": 1.13,
           "gram_equivalent": 13
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 15.3,
+          "vitamin_k_mcg": 18.97,
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA SR28 (NDB No: 04529), Ciqual 2025 (Food Code: 17030)",
+      "source": "USDA SR28 (NDB No: 04529), Ciqual 2025 (Food Code: 17030), BLS 4.0 (Code: Q190000)",
       "relations": {
         "group": "oil"
       }
@@ -4144,28 +4161,31 @@
       "tags": [
         "k1",
         "legumes",
-        "vegetable_oils"
+        "vegetable_oils",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 12.1
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 0.6
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 3.4,
+          "vitamin_k_mcg": 1.12,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.5,
+          "vitamin_k_mcg": 0.16,
           "gram_equivalent": 4
         }
       ],
-      "source": "USDA SR28 (NDB No: 15002)",
+      "source": "USDA SR28 (NDB No: 15002), BLS 4.0 (Code: T104702)",
       "relations": {
         "group": "oil"
       }
@@ -4214,22 +4234,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 44.0
+          "vitamin_k_mcg": 5.0,
+          "vitamin_k1_100g_mcg": 4.0,
+          "vitamin_k2_100g_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 64.2,
+          "vitamin_k_mcg": 7.3,
           "gram_equivalent": 146
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 12.5,
+          "vitamin_k_mcg": 1.4,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 15119)",
+      "source": "USDA SR28 (NDB No: 15119), BLS 4.0 (Code: T121702)",
       "relations": {
         "group": "oil"
       }
@@ -4336,16 +4358,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6
+          "vitamin_k_mcg": 0.53,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 2.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 0.19,
           "gram_equivalent": 36
         }
       ],
-      "source": "USDA SR28 (NDB No: 16150)",
+      "source": "USDA SR28 (NDB No: 16150), BLS 4.0 (Code: H880200)",
       "relations": {
         "group": "butter"
       }
@@ -5302,22 +5326,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.6
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.3,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 20.9,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 453
         }
       ],
-      "source": "USDA SR28 (NDB No: 17116)",
+      "source": "USDA SR28 (NDB No: 17116), BLS 4.0 (Code: U461132)",
       "relations": {
         "group": "beef"
       }
@@ -5368,22 +5394,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.6
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.3,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 14.0,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 304
         }
       ],
-      "source": "USDA SR28 (NDB No: 17122)",
+      "source": "USDA SR28 (NDB No: 17122), BLS 4.0 (Code: U461100)",
       "relations": {
         "group": "beef"
       }
@@ -5954,28 +5982,31 @@
       "tags": [
         "high_sodium",
         "k1",
-        "soy"
+        "soy",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 53.4
+          "vitamin_k_mcg": 45.9,
+          "vitamin_k1_100g_mcg": 43.3,
+          "vitamin_k2_100g_mcg": 2.6
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 8.0,
+          "vitamin_k_mcg": 6.88,
           "gram_equivalent": 15
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 128.2,
+          "vitamin_k_mcg": 110.16,
           "gram_equivalent": 240
         }
       ],
-      "source": "USDA SR28 (NDB No: 42178)",
+      "source": "USDA SR28 (NDB No: 42178), BLS 4.0 (Code: Q991000)",
       "relations": {
         "group": "soy"
       }
@@ -6660,10 +6691,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.0
+          "vitamin_k_mcg": 86.0,
+          "vitamin_k1_100g_mcg": 86.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 20323)",
+      "source": "Ciqual 2025 (Food Code: 20323), BLS 4.0 (Code: G482182)",
       "relations": {
         "group": "onion"
       }
@@ -7288,10 +7321,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 24.7
+          "vitamin_k_mcg": 15.0,
+          "vitamin_k1_100g_mcg": 15.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 16030)",
+      "source": "Ciqual 2025 (Food Code: 16030), BLS 4.0 (Code: Q530000)",
       "relations": {
         "group": "butter"
       }
@@ -7307,10 +7342,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 12.1
+          "vitamin_k_mcg": 8.0,
+          "vitamin_k1_100g_mcg": 8.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 16128)",
+      "source": "Ciqual 2025 (Food Code: 16128), BLS 4.0 (Code: Q940000)",
       "relations": {
         "group": "oil"
       }
@@ -7326,10 +7363,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 8.0
+          "vitamin_k_mcg": 5.0,
+          "vitamin_k1_100g_mcg": 5.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 16150)",
+      "source": "Ciqual 2025 (Food Code: 16150), BLS 4.0 (Code: Q150000)",
       "relations": {
         "group": "oil"
       }
@@ -7423,10 +7462,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.3
+          "vitamin_k_mcg": 121.0,
+          "vitamin_k1_100g_mcg": 121.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 17180)",
+      "source": "Ciqual 2025 (Food Code: 17180), BLS 4.0 (Code: Q160000)",
       "relations": {
         "group": "oil"
       }
@@ -7443,10 +7484,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 189.0
+          "vitamin_k_mcg": 280.0,
+          "vitamin_k1_100g_mcg": 280.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 17350)",
+      "source": "Ciqual 2025 (Food Code: 17350), BLS 4.0 (Code: Q330000)",
       "relations": {
         "group": "oil"
       }
@@ -7463,10 +7506,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 13.6
+          "vitamin_k_mcg": 15.5,
+          "vitamin_k1_100g_mcg": 15.5,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 17400)",
+      "source": "Ciqual 2025 (Food Code: 17400), BLS 4.0 (Code: Q230000)",
       "relations": {
         "group": "oil"
       }
@@ -7615,10 +7660,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.1
+          "vitamin_k_mcg": 5.0,
+          "vitamin_k1_100g_mcg": 5.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 25970)",
+      "source": "Ciqual 2025 (Food Code: 25970), BLS 4.0 (Code: X423153)",
       "relations": {
         "group": "fat"
       }
@@ -7630,10 +7677,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 112.0
+          "vitamin_k_mcg": 2.36,
+          "vitamin_k1_100g_mcg": 2.36,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Estimation based on scientific literature and databases for cold-pressed pumpkin seed oil (phylloquinone content)",
+      "source": "Estimation based on scientific literature and databases for cold-pressed pumpkin seed oil (phylloquinone content), BLS 4.0 (Code: H310100)",
       "tags": [
         "vegetable_oils",
         "k1"

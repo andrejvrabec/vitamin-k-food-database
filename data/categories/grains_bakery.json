@@ -7,7 +7,9 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2
+          "vitamin_k_mcg": 2.2,
+          "vitamin_k1_100g_mcg": 2.2,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
@@ -16,7 +18,7 @@
           "gram_equivalent": 150
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: C242000)",
       "tags": [
         "bakery",
         "k1"
@@ -110,16 +112,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4
+          "vitamin_k_mcg": 10.0,
+          "vitamin_k1_100g_mcg": 10.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.4,
+          "vitamin_k_mcg": 2.8,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: B881100)",
       "tags": [
         "bakery",
         "k1"
@@ -185,19 +189,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.1
+          "vitamin_k_mcg": 8.2,
+          "vitamin_k1_100g_mcg": 8.2,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 2.3,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: B121000)",
       "tags": [
         "bakery",
-        "k1"
+        "k1",
+        "k2"
       ],
       "relations": {
         "group": "bread"
@@ -235,19 +242,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.0
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.4,
+          "vitamin_k_mcg": 0.84,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: B111400)",
       "tags": [
         "bakery",
-        "k1"
+        "k1",
+        "k2"
       ],
       "relations": {
         "group": "bread"
@@ -286,19 +296,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 7.7
+          "vitamin_k_mcg": 12.0,
+          "vitamin_k1_100g_mcg": 10.0,
+          "vitamin_k2_100g_mcg": 2.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 2.2,
+          "vitamin_k_mcg": 3.36,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 18967)",
+      "source": "USDA Database for Standard Reference Legacy (2018), USDA SR28 (NDB No: 18967), BLS 4.0 (Code: B311000)",
       "tags": [
         "bakery",
-        "k1"
+        "k1",
+        "k2"
       ],
       "relations": {
         "group": "bread"
@@ -623,22 +636,25 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.5
+          "vitamin_k_mcg": 8.0,
+          "vitamin_k1_100g_mcg": 4.0,
+          "vitamin_k2_100g_mcg": 4.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.7,
+          "vitamin_k_mcg": 2.24,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: D710800)",
       "tags": [
         "bakery",
         "chocolate",
         "k1",
         "processed",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "relations": {
         "group": "cookie"
@@ -892,21 +908,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 7.0
+          "vitamin_k_mcg": 5.0,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 4.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 2.0,
+          "vitamin_k_mcg": 1.4,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: D771600)",
       "tags": [
         "bakery",
         "dairy",
         "k2",
-        "sweetened"
+        "sweetened",
+        "k1"
       ],
       "relations": {
         "group": "cheese"
@@ -1019,16 +1038,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 4.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.3,
+          "vitamin_k_mcg": 6.0,
           "gram_equivalent": 150
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: C233000)",
       "tags": [
         "bakery",
         "k1"
@@ -1255,19 +1276,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.1
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 2.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 0.84,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: S341000)",
       "tags": [
         "k1",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "relations": {
         "group": "fat"
@@ -1571,22 +1595,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 24.7
+          "vitamin_k_mcg": 24.0,
+          "vitamin_k1_100g_mcg": 24.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 3.4,
+          "vitamin_k_mcg": 3.12,
           "gram_equivalent": 13
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 53.8,
+          "vitamin_k_mcg": 52.32,
           "gram_equivalent": 218
         }
       ],
-      "source": "USDA SR28 (NDB No: 04038), Ciqual 2025 (Food Code: 17110)",
+      "source": "USDA SR28 (NDB No: 04038), Ciqual 2025 (Food Code: 17110), BLS 4.0 (Code: Q220000)",
       "relations": {
         "group": "oil"
       }
@@ -6139,22 +6165,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.7
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.6,
+          "vitamin_k_mcg": 0.66,
           "gram_equivalent": 22
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.0,
+          "vitamin_k_mcg": 1.11,
           "gram_equivalent": 37
         }
       ],
-      "source": "USDA SR28 (NDB No: 11672)",
+      "source": "USDA SR28 (NDB No: 11672), BLS 4.0 (Code: K260200)",
       "relations": {
         "group": "potato"
       }
@@ -6171,22 +6199,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 73
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 90
         }
       ],
-      "source": "USDA SR28 (NDB No: 11900)",
+      "source": "USDA SR28 (NDB No: 11900), BLS 4.0 (Code: P231000)",
       "relations": {
         "group": "corn"
       }
@@ -6418,7 +6448,9 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 70.0
+          "vitamin_k_mcg": 70.0,
+          "vitamin_k1_100g_mcg": 70.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
@@ -6429,11 +6461,11 @@
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 3.6,
+          "vitamin_k_mcg": 3.5,
           "gram_equivalent": 5
         }
       ],
-      "source": "USDA SR28 (NDB No: 16115)",
+      "source": "USDA SR28 (NDB No: 16115), BLS 4.0 (Code: H764400)",
       "relations": {
         "group": "soy"
       }
@@ -6516,16 +6548,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.1
+          "vitamin_k_mcg": 170.0,
+          "vitamin_k1_100g_mcg": 170.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 8.4,
+          "vitamin_k_mcg": 156.4,
           "gram_equivalent": 92
         }
       ],
-      "source": "USDA SR28 (NDB No: 16157)",
+      "source": "USDA SR28 (NDB No: 16157), BLS 4.0 (Code: H720400)",
       "relations": {
         "group": "flour"
       }
@@ -6818,28 +6852,31 @@
       "tags": [
         "bakery",
         "egg",
-        "k2"
+        "k2",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.9
+          "vitamin_k_mcg": 0.091,
+          "vitamin_k1_100g_mcg": 0.091,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 0.03,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.4,
+          "vitamin_k_mcg": 0.04,
           "gram_equivalent": 40
         }
       ],
-      "source": "USDA SR28 (NDB No: 18027)",
+      "source": "USDA SR28 (NDB No: 18027), BLS 4.0 (Code: D6A7000)",
       "relations": {
         "group": "egg"
       }
@@ -7137,22 +7174,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.8
+          "vitamin_k_mcg": 0.691,
+          "vitamin_k1_100g_mcg": 0.691,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 0.19,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 0.18,
           "gram_equivalent": 26
         }
       ],
-      "source": "USDA SR28 (NDB No: 18044)",
+      "source": "USDA SR28 (NDB No: 18044), BLS 4.0 (Code: B780500)",
       "relations": {
         "group": "bread"
       }
@@ -7700,22 +7739,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.6
+          "vitamin_k_mcg": 0.839,
+          "vitamin_k1_100g_mcg": 0.839,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.9,
+          "vitamin_k_mcg": 0.23,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 7.1,
+          "vitamin_k_mcg": 0.91,
           "gram_equivalent": 108
         }
       ],
-      "source": "USDA SR28 (NDB No: 18079)",
+      "source": "USDA SR28 (NDB No: 18079), BLS 4.0 (Code: B821000)",
       "relations": {
         "group": "bread"
       }
@@ -8088,28 +8129,31 @@
         "bakery",
         "cooked",
         "k1",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 16.3
+          "vitamin_k_mcg": 9.0,
+          "vitamin_k1_100g_mcg": 8.0,
+          "vitamin_k2_100g_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 4.6,
+          "vitamin_k_mcg": 2.52,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 39.9,
+          "vitamin_k_mcg": 22.05,
           "gram_equivalent": 245
         }
       ],
-      "source": "USDA SR28 (NDB No: 18211), USDA SR28 (NDB No: 18337)",
+      "source": "USDA SR28 (NDB No: 18211), USDA SR28 (NDB No: 18337), BLS 4.0 (Code: D490300)",
       "relations": {
         "group": "pastry"
       }
@@ -8283,28 +8327,31 @@
       "tags": [
         "bakery",
         "k1",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.3
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.5,
+          "vitamin_k_mcg": 0.84,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 7.5,
+          "vitamin_k_mcg": 4.26,
           "gram_equivalent": 142
         }
       ],
-      "source": "USDA SR28 (NDB No: 18246)",
+      "source": "USDA SR28 (NDB No: 18246), BLS 4.0 (Code: D7A7410)",
       "relations": {
         "group": "pastry"
       }
@@ -9174,22 +9221,25 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.7
+          "vitamin_k_mcg": 0.4,
+          "vitamin_k1_100g_mcg": 0.4,
+          "vitamin_k2_100g_mcg": 0.03
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.8,
+          "vitamin_k_mcg": 0.11,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 18347)",
+      "source": "USDA SR28 (NDB No: 18347), BLS 4.0 (Code: B511000)",
       "relations": {
         "group": "bread"
       }
@@ -10150,16 +10200,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 32.4
+          "vitamin_k_mcg": 9.0,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 8.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 15.6,
+          "vitamin_k_mcg": 4.32,
           "gram_equivalent": 48
         }
       ],
-      "source": "USDA SR28 (NDB No: 18972), USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA SR28 (NDB No: 18972), USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: Y782613)",
       "relations": {
         "group": "bread"
       }
@@ -10405,22 +10457,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.9
+          "vitamin_k_mcg": 0.2,
+          "vitamin_k1_100g_mcg": 0.2,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 0.02,
           "gram_equivalent": 9
         },
         {
           "amount": 2.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 0.04,
           "gram_equivalent": 18
         }
       ],
-      "source": "USDA SR28 (NDB No: 19051), USDA SR28 (NDB No: 19816)",
+      "source": "USDA SR28 (NDB No: 19051), USDA SR28 (NDB No: 19816), BLS 4.0 (Code: C351000)",
       "relations": {
         "group": "rice",
         "related_ids": []
@@ -10826,16 +10880,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6
+          "vitamin_k_mcg": 0.1,
+          "vitamin_k1_100g_mcg": 0.1,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 1.2,
+          "vitamin_k_mcg": 0.2,
           "gram_equivalent": 195
         }
       ],
-      "source": "USDA SR28 (NDB No: 20037)",
+      "source": "USDA SR28 (NDB No: 20037), BLS 4.0 (Code: C351032)",
       "relations": {
         "group": "rice"
       }
@@ -10953,16 +11009,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.9
+          "vitamin_k_mcg": 1.565,
+          "vitamin_k1_100g_mcg": 1.565,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 7.6,
+          "vitamin_k_mcg": 2.0,
           "gram_equivalent": 128
         }
       ],
-      "source": "USDA SR28 (NDB No: 20063)",
+      "source": "USDA SR28 (NDB No: 20063), BLS 4.0 (Code: C223100)",
       "relations": {
         "group": "flour"
       }
@@ -11094,16 +11152,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.9
+          "vitamin_k_mcg": 0.296,
+          "vitamin_k1_100g_mcg": 0.296,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.2,
+          "vitamin_k_mcg": 0.5,
           "gram_equivalent": 168
         }
       ],
-      "source": "USDA SR28 (NDB No: 20075)"
+      "source": "USDA SR28 (NDB No: 20075), BLS 4.0 (Code: C218000)"
     },
     {
       "id": "wheat_bran_crude",
@@ -11138,16 +11198,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.9
+          "vitamin_k_mcg": 1.95,
+          "vitamin_k1_100g_mcg": 1.95,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 2.3,
+          "vitamin_k_mcg": 2.34,
           "gram_equivalent": 120
         }
       ],
-      "source": "USDA SR28 (NDB No: 20080), USDA SR28 (NDB No: 20649)",
+      "source": "USDA SR28 (NDB No: 20080), USDA SR28 (NDB No: 20649), BLS 4.0 (Code: C211000)",
       "relations": {
         "group": "flour"
       }
@@ -11281,16 +11343,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.9
+          "vitamin_k_mcg": 0.2,
+          "vitamin_k1_100g_mcg": 0.2,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.0,
+          "vitamin_k_mcg": 0.32,
           "gram_equivalent": 160
         }
       ],
-      "source": "USDA SR28 (NDB No: 20088), Ciqual 2025 (Food Code: 9108)",
+      "source": "USDA SR28 (NDB No: 20088), Ciqual 2025 (Food Code: 9108), BLS 4.0 (Code: C353100)",
       "relations": {
         "group": "rice",
         "related_ids": [
@@ -11310,16 +11374,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.5
+          "vitamin_k_mcg": 0.1,
+          "vitamin_k1_100g_mcg": 0.1,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 0.8,
+          "vitamin_k_mcg": 0.16,
           "gram_equivalent": 164
         }
       ],
-      "source": "USDA SR28 (NDB No: 20089)",
+      "source": "USDA SR28 (NDB No: 20089), BLS 4.0 (Code: X891412)",
       "relations": {
         "group": "rice",
         "related_ids": [
@@ -11638,16 +11704,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.6,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 162
         }
       ],
-      "source": "USDA SR28 (NDB No: 20131)"
+      "source": "USDA SR28 (NDB No: 20131), BLS 4.0 (Code: C549000)"
     },
     {
       "id": "corn_flr_whole_grain_white",
@@ -13002,22 +13070,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 42.2
+          "vitamin_k_mcg": 2.6,
+          "vitamin_k1_100g_mcg": 2.6,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 5.9,
+          "vitamin_k_mcg": 0.36,
           "gram_equivalent": 14
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 94.5,
+          "vitamin_k_mcg": 5.82,
           "gram_equivalent": 224
         }
       ],
-      "source": "USDA SR28 (NDB No: 42289)",
+      "source": "USDA SR28 (NDB No: 42289), BLS 4.0 (Code: Q260000)",
       "relations": {
         "group": "corn"
       }
@@ -13297,28 +13367,31 @@
       "tags": [
         "bakery",
         "k1",
-        "legumes"
+        "legumes",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 21.0
+          "vitamin_k_mcg": 1.1,
+          "vitamin_k1_100g_mcg": 1.1,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 2.9,
+          "vitamin_k_mcg": 0.15,
           "gram_equivalent": 14
         },
         {
           "amount": 1.0,
           "unit": "tsp",
-          "vitamin_k_mcg": 0.9,
+          "vitamin_k_mcg": 0.04,
           "gram_equivalent": 4
         }
       ],
-      "source": "USDA SR28 (NDB No: 44005)",
+      "source": "USDA SR28 (NDB No: 44005), BLS 4.0 (Code: Q120000)",
       "relations": {
         "group": "corn"
       }
@@ -13800,10 +13873,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2
+          "vitamin_k_mcg": 2.2,
+          "vitamin_k1_100g_mcg": 2.2,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9320)"
+      "source": "Ciqual 2025 (Food Code: 9320), BLS 4.0 (Code: C141000)"
     },
     {
       "id": "durum_wheat_semolina_raw",
@@ -13817,10 +13892,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 30.0
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9610)",
+      "source": "Ciqual 2025 (Food Code: 9610), BLS 4.0 (Code: C219300)",
       "relations": {
         "group": "flour"
       }
@@ -13837,10 +13914,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.9
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9690)"
+      "source": "Ciqual 2025 (Food Code: 9690), BLS 4.0 (Code: C119100)"
     },
     {
       "id": "bread_french_bread_with_yeast",
@@ -13892,10 +13971,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.1
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 7130)",
+      "source": "Ciqual 2025 (Food Code: 7130), BLS 4.0 (Code: B8A9000)",
       "relations": {
         "group": "bread"
       }
@@ -14116,16 +14197,19 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.9
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 2.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9480)",
+      "source": "Ciqual 2025 (Food Code: 9480), BLS 4.0 (Code: C235000)",
       "relations": {
         "group": "flour"
       }
@@ -14141,10 +14225,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.8
+          "vitamin_k_mcg": 0.1,
+          "vitamin_k1_100g_mcg": 0.1,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9520)",
+      "source": "Ciqual 2025 (Food Code: 9520), BLS 4.0 (Code: C453000)",
       "relations": {
         "group": "rice"
       }
@@ -14173,16 +14259,19 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 7.0
+          "vitamin_k_mcg": 1.3,
+          "vitamin_k1_100g_mcg": 0.9,
+          "vitamin_k2_100g_mcg": 0.41
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9540)",
+      "source": "Ciqual 2025 (Food Code: 9540), BLS 4.0 (Code: C322000)",
       "relations": {
         "group": "flour"
       }
@@ -14198,10 +14287,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2
+          "vitamin_k_mcg": 2.2,
+          "vitamin_k1_100g_mcg": 2.2,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9550)",
+      "source": "Ciqual 2025 (Food Code: 9550), BLS 4.0 (Code: C243000)",
       "relations": {
         "group": "flour"
       }
@@ -14218,12 +14309,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.1,
-          "vitamin_k1_100g_mcg": 2.93,
-          "vitamin_k2_100g_mcg": 0.2
+          "vitamin_k_mcg": 1.942,
+          "vitamin_k1_100g_mcg": 1.942,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9555)",
+      "source": "Ciqual 2025 (Food Code: 9555), BLS 4.0 (Code: C433100)",
       "relations": {
         "group": "flour"
       }
@@ -14892,16 +14983,19 @@
         "chocolate",
         "k1",
         "processed",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.3
+          "vitamin_k_mcg": 6.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 3.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 24056)",
+      "source": "Ciqual 2025 (Food Code: 24056), BLS 4.0 (Code: D6A4000)",
       "relations": {
         "group": "cookie"
       }
@@ -15328,10 +15422,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.9
+          "vitamin_k_mcg": 1.959,
+          "vitamin_k1_100g_mcg": 1.959,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9621)"
+      "source": "Ciqual 2025 (Food Code: 9621), BLS 4.0 (Code: C217000)"
     },
     {
       "id": "rice_bran",
@@ -15344,10 +15440,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.9
+          "vitamin_k_mcg": 4.432,
+          "vitamin_k1_100g_mcg": 4.432,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9643)",
+      "source": "Ciqual 2025 (Food Code: 9643), BLS 4.0 (Code: C457000)",
       "relations": {
         "group": "rice"
       }
@@ -15357,16 +15455,19 @@
       "category": "grains_bakery",
       "tags": [
         "bakery",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.9
+          "vitamin_k_mcg": 1.0,
+          "vitamin_k1_100g_mcg": 0.1,
+          "vitamin_k2_100g_mcg": 1.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9660)"
+      "source": "Ciqual 2025 (Food Code: 9660), BLS 4.0 (Code: C114000)"
     },
     {
       "id": "dairy_and_cereal_based_beverage_for_babys_dinner_with_vegetables_from_46_months",
@@ -15518,16 +15619,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.2
+          "vitamin_k_mcg": 2.1,
+          "vitamin_k1_100g_mcg": 2.1,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.0,
+          "vitamin_k_mcg": 1.97,
           "gram_equivalent": 94
         }
       ],
-      "source": "USDA SR28 (NDB No: 20033), Ciqual 2025 (Food Code: 9640)",
+      "source": "USDA SR28 (NDB No: 20033), Ciqual 2025 (Food Code: 9640), BLS 4.0 (Code: C138000)",
       "relations": {
         "group": "cereal"
       }
@@ -16451,10 +16554,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1
+          "vitamin_k_mcg": 1.7,
+          "vitamin_k1_100g_mcg": 1.7,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 24049)",
+      "source": "Ciqual 2025 (Food Code: 24049), BLS 4.0 (Code: D630400)",
       "relations": {
         "group": "butter"
       }
@@ -16649,28 +16754,31 @@
       "category": "grains_bakery",
       "tags": [
         "k1",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.2
+          "vitamin_k_mcg": 1.3,
+          "vitamin_k1_100g_mcg": 0.4,
+          "vitamin_k2_100g_mcg": 0.948
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.6,
+          "vitamin_k_mcg": 0.36,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 11.4,
+          "vitamin_k_mcg": 6.72,
           "gram_equivalent": 517
         }
       ],
-      "source": "USDA SR28 (NDB No: 18097)",
+      "source": "USDA SR28 (NDB No: 18097), BLS 4.0 (Code: Y8A4090)",
       "relations": {
         "group": "pastry"
       }
@@ -16805,28 +16913,31 @@
       "tags": [
         "bakery",
         "k1",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.4
+          "vitamin_k_mcg": 1.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.8,
+          "vitamin_k_mcg": 0.28,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 26.3,
+          "vitamin_k_mcg": 4.11,
           "gram_equivalent": 411
         }
       ],
-      "source": "USDA SR28 (NDB No: 18114)",
+      "source": "USDA SR28 (NDB No: 18114), BLS 4.0 (Code: D401400)",
       "relations": {
         "group": "pastry"
       }
@@ -16898,28 +17009,31 @@
       "category": "grains_bakery",
       "tags": [
         "k1",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.2
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 0.5,
+          "vitamin_k2_100g_mcg": 4.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 1.12,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 1.52,
           "gram_equivalent": 38
         }
       ],
-      "source": "USDA SR28 (NDB No: 18133)",
+      "source": "USDA SR28 (NDB No: 18133), BLS 4.0 (Code: D077002)",
       "relations": {
         "group": "pastry"
       }
@@ -17183,22 +17297,25 @@
         "bakery",
         "k1",
         "processed",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.2
+          "vitamin_k_mcg": 6.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 4.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.6,
+          "vitamin_k_mcg": 0.72,
           "gram_equivalent": 12
         }
       ],
-      "source": "USDA SR28 (NDB No: 18160)",
+      "source": "USDA SR28 (NDB No: 18160), BLS 4.0 (Code: D7A2000)",
       "relations": {
         "group": "cookie"
       }
@@ -17768,28 +17885,31 @@
       "category": "grains_bakery",
       "tags": [
         "k1",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.8
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 2.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.5,
+          "vitamin_k_mcg": 1.12,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 0.16,
           "gram_equivalent": 4
         }
       ],
-      "source": "USDA SR28 (NDB No: 18271)",
+      "source": "USDA SR28 (NDB No: 18271), BLS 4.0 (Code: D621100)",
       "relations": {
         "group": "cookie"
       }
@@ -18050,10 +18170,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1
+          "vitamin_k_mcg": 2.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 24313)",
+      "source": "Ciqual 2025 (Food Code: 24313), BLS 4.0 (Code: D630700)",
       "relations": {
         "group": "cookie"
       }
@@ -18143,16 +18265,19 @@
       "category": "grains_bakery",
       "tags": [
         "k1",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 18.2
+          "vitamin_k_mcg": 7.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 5.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 23082)",
+      "source": "Ciqual 2025 (Food Code: 23082), BLS 4.0 (Code: D422600)",
       "relations": {
         "group": "pastry"
       }
@@ -18222,16 +18347,19 @@
       "category": "grains_bakery",
       "tags": [
         "k1",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 37.3
+          "vitamin_k_mcg": 7.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 5.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 23925)",
+      "source": "Ciqual 2025 (Food Code: 23925), BLS 4.0 (Code: D431100)",
       "relations": {
         "group": "pastry"
       }
@@ -18773,16 +18901,19 @@
         "bakery",
         "chocolate",
         "k1",
-        "processed"
+        "processed",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.0
+          "vitamin_k_mcg": 5.0,
+          "vitamin_k1_100g_mcg": 1.2,
+          "vitamin_k2_100g_mcg": 4.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 31000)",
+      "source": "Ciqual 2025 (Food Code: 31000), BLS 4.0 (Code: D710100)",
       "relations": {
         "group": "cookie"
       }
@@ -18815,16 +18946,19 @@
         "chocolate",
         "k1",
         "processed",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 26.9
+          "vitamin_k_mcg": 6.0,
+          "vitamin_k1_100g_mcg": 1.7,
+          "vitamin_k2_100g_mcg": 4.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 24051)",
+      "source": "Ciqual 2025 (Food Code: 24051), BLS 4.0 (Code: D7A1200)",
       "relations": {
         "group": "cookie"
       }
@@ -18900,16 +19034,19 @@
         "chocolate",
         "k1",
         "processed",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.8
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 2.1,
+          "vitamin_k2_100g_mcg": 1.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 24686)",
+      "source": "Ciqual 2025 (Food Code: 24686), BLS 4.0 (Code: D7A1000)",
       "relations": {
         "group": "cookie"
       }
@@ -18921,16 +19058,19 @@
         "chocolate",
         "k1",
         "processed",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.1
+          "vitamin_k_mcg": 6.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 3.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 23006)",
+      "source": "Ciqual 2025 (Food Code: 23006), BLS 4.0 (Code: D300600)",
       "relations": {
         "group": "cherry"
       }
@@ -18963,16 +19103,19 @@
         "chocolate",
         "k1",
         "processed",
-        "sweetened"
+        "sweetened",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 27.3
+          "vitamin_k_mcg": 7.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 5.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 23585)",
+      "source": "Ciqual 2025 (Food Code: 23585), BLS 4.0 (Code: D433300)",
       "relations": {
         "group": "pastry"
       }

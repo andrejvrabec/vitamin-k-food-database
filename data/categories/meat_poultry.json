@@ -33,15 +33,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.3
+          "vitamin_k_mcg": 12.0,
+          "vitamin_k1_100g_mcg": 12.0,
+          "vitamin_k2_100g_mcg": 0.1
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 168626)",
+      "source": "USDA FoodData Central (FDC ID: 168626), BLS 4.0 (Code: Y173113)",
       "tags": [
         "cooked",
         "k2",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "k1"
       ],
       "relations": {
         "group": "beef"
@@ -81,20 +84,23 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.8
+          "vitamin_k_mcg": 10.7,
+          "vitamin_k1_100g_mcg": 0.6,
+          "vitamin_k2_100g_mcg": 10.1
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.5,
+          "vitamin_k_mcg": 3.0,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: W320000)",
       "tags": [
         "k2",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "k1"
       ],
       "relations": {
         "group": "pork"
@@ -107,16 +113,19 @@
         "cooked",
         "k2",
         "meat",
-        "poultry"
+        "poultry",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 8.5
+          "vitamin_k_mcg": 12.0,
+          "vitamin_k1_100g_mcg": 8.0,
+          "vitamin_k2_100g_mcg": 4.0
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 171477)",
+      "source": "USDA FoodData Central (FDC ID: 171477), BLS 4.0 (Code: V4A6182)",
       "relations": {
         "group": "chicken",
         "related_ids": [
@@ -1575,28 +1584,31 @@
         "meat",
         "organ_meat",
         "poultry",
-        "raw"
+        "raw",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4
+          "vitamin_k_mcg": 33.2,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 32.2
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.6,
+          "vitamin_k_mcg": 52.12,
           "gram_equivalent": 157
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 7.97,
           "gram_equivalent": 24
         }
       ],
-      "source": "USDA SR28 (NDB No: 05171)",
+      "source": "USDA SR28 (NDB No: 05171), BLS 4.0 (Code: V488100)",
       "relations": {
         "group": "turkey"
       }
@@ -1609,22 +1621,25 @@
         "k2",
         "meat",
         "organ_meat",
-        "poultry"
+        "poultry",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.5
+          "vitamin_k_mcg": 51.9,
+          "vitamin_k1_100g_mcg": 1.6,
+          "vitamin_k2_100g_mcg": 50.3
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.5,
+          "vitamin_k_mcg": 49.3,
           "gram_equivalent": 95
         }
       ],
-      "source": "USDA SR28 (NDB No: 05172)",
+      "source": "USDA SR28 (NDB No: 05172), BLS 4.0 (Code: V488142)",
       "relations": {
         "group": "turkey"
       }
@@ -1789,22 +1804,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.7
+          "vitamin_k_mcg": 5.83,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 5.83
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 0.9,
+          "vitamin_k_mcg": 7.87,
           "gram_equivalent": 135
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.0,
+          "vitamin_k_mcg": 8.28,
           "gram_equivalent": 142
         }
       ],
-      "source": "USDA SR28 (NDB No: 05284)",
+      "source": "USDA SR28 (NDB No: 05284), BLS 4.0 (Code: V484100)",
       "relations": {
         "group": "turkey"
       }
@@ -2178,22 +2195,25 @@
         "k2",
         "meat",
         "poultry",
-        "raw"
+        "raw",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.8
+          "vitamin_k_mcg": 5.0,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 4.0
         },
         {
           "amount": 4.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.9,
+          "vitamin_k_mcg": 5.6,
           "gram_equivalent": 112
         }
       ],
-      "source": "USDA SR28 (NDB No: 05332)",
+      "source": "USDA SR28 (NDB No: 05332), BLS 4.0 (Code: Q830000)",
       "relations": {
         "group": "chicken"
       }
@@ -2238,16 +2258,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.7
+          "vitamin_k_mcg": 4.58,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 4.58
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 1.3,
+          "vitamin_k_mcg": 8.38,
           "gram_equivalent": 183
         }
       ],
-      "source": "USDA SR28 (NDB No: 05354)",
+      "source": "USDA SR28 (NDB No: 05354), BLS 4.0 (Code: V481162)",
       "relations": {
         "group": "turkey"
       }
@@ -2292,28 +2314,31 @@
         "k2",
         "meat",
         "poultry",
-        "raw"
+        "raw",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4
+          "vitamin_k_mcg": 30.0,
+          "vitamin_k1_100g_mcg": 1.5,
+          "vitamin_k2_100g_mcg": 28.5
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 8.4,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.8,
+          "vitamin_k_mcg": 135.9,
           "gram_equivalent": 453
         }
       ],
-      "source": "USDA SR28 (NDB No: 05674), USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA SR28 (NDB No: 05674), USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: V4A5100)",
       "relations": {
         "group": "chicken"
       }
@@ -2481,22 +2506,25 @@
       "tags": [
         "k2",
         "meat",
-        "raw"
+        "raw",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 70.2
+          "vitamin_k_mcg": 4.1,
+          "vitamin_k1_100g_mcg": 0.8,
+          "vitamin_k2_100g_mcg": 3.32
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 63.9,
+          "vitamin_k_mcg": 3.73,
           "gram_equivalent": 91
         }
       ],
-      "source": "USDA SR28 (NDB No: 07006)",
+      "source": "USDA SR28 (NDB No: 07006), BLS 4.0 (Code: W207000)",
       "relations": {
         "group": "beef"
       }
@@ -2507,28 +2535,31 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.4
+          "vitamin_k_mcg": 0.666,
+          "vitamin_k1_100g_mcg": 0.05,
+          "vitamin_k2_100g_mcg": 0.616
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.7,
+          "vitamin_k_mcg": 0.2,
           "gram_equivalent": 30
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.7,
+          "vitamin_k_mcg": 0.19,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 07007)",
+      "source": "USDA SR28 (NDB No: 07007), BLS 4.0 (Code: W234000)",
       "relations": {
         "group": "other_meat"
       }
@@ -2540,22 +2571,25 @@
         "high_sodium",
         "k2",
         "meat",
-        "poultry"
+        "poultry",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 8.0,
+          "vitamin_k1_100g_mcg": 6.0,
+          "vitamin_k2_100g_mcg": 2.0
         },
         {
           "amount": 3.527,
           "unit": "piece",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 8.0,
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA SR28 (NDB No: 07008), USDA SR28 (NDB No: 07959)",
+      "source": "USDA SR28 (NDB No: 07008), USDA SR28 (NDB No: 07959), BLS 4.0 (Code: U051100)",
       "relations": {
         "group": "pork"
       }
@@ -2566,28 +2600,31 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3
+          "vitamin_k_mcg": 5.97,
+          "vitamin_k1_100g_mcg": 0.65,
+          "vitamin_k2_100g_mcg": 5.32
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 1.67,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 1.37,
           "gram_equivalent": 23
         }
       ],
-      "source": "USDA SR28 (NDB No: 07010)",
+      "source": "USDA SR28 (NDB No: 07010), BLS 4.0 (Code: W231700)",
       "relations": {
         "group": "pork"
       }
@@ -2631,22 +2668,25 @@
       "tags": [
         "cooked",
         "k2",
-        "meat"
+        "meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.4
+          "vitamin_k_mcg": 14.0,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 13.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 2.9,
+          "vitamin_k_mcg": 11.9,
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 07013)",
+      "source": "USDA SR28 (NDB No: 07013), BLS 4.0 (Code: Y021312)",
       "relations": {
         "group": "pork"
       }
@@ -2896,28 +2936,31 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.8
+          "vitamin_k_mcg": 9.7,
+          "vitamin_k1_100g_mcg": 0.497,
+          "vitamin_k2_100g_mcg": 9.2
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.5,
+          "vitamin_k_mcg": 2.72,
           "gram_equivalent": 28
         },
         {
           "amount": 2.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.0,
+          "vitamin_k_mcg": 5.53,
           "gram_equivalent": 57
         }
       ],
-      "source": "USDA SR28 (NDB No: 07042)",
+      "source": "USDA SR28 (NDB No: 07042), BLS 4.0 (Code: W255600)",
       "relations": {
         "group": "beef"
       }
@@ -3110,22 +3153,25 @@
         "high_sodium",
         "k2",
         "meat",
-        "raw"
+        "raw",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4
+          "vitamin_k_mcg": 10.0,
+          "vitamin_k1_100g_mcg": 0.2,
+          "vitamin_k2_100g_mcg": 9.79
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 4.8,
           "gram_equivalent": 48
         }
       ],
-      "source": "USDA SR28 (NDB No: 07063)",
+      "source": "USDA SR28 (NDB No: 07063), BLS 4.0 (Code: U065100)",
       "relations": {
         "group": "pork"
       }
@@ -3137,22 +3183,25 @@
         "cooked",
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4
+          "vitamin_k_mcg": 14.35,
+          "vitamin_k1_100g_mcg": 0.526,
+          "vitamin_k2_100g_mcg": 13.82
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 6.89,
           "gram_equivalent": 48
         }
       ],
-      "source": "USDA SR28 (NDB No: 07064)",
+      "source": "USDA SR28 (NDB No: 07064), BLS 4.0 (Code: U065132)",
       "relations": {
         "group": "pork"
       }
@@ -3368,22 +3417,25 @@
       "tags": [
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.6
+          "vitamin_k_mcg": 9.0,
+          "vitamin_k1_100g_mcg": 6.0,
+          "vitamin_k2_100g_mcg": 2.75
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.4,
+          "vitamin_k_mcg": 2.52,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 07921)",
+      "source": "USDA SR28 (NDB No: 07921), BLS 4.0 (Code: U216100)",
       "relations": {
         "group": "pork"
       }
@@ -3686,16 +3738,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 2.69,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 2.69
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.22,
           "gram_equivalent": 8
         }
       ],
-      "source": "USDA SR28 (NDB No: 10124), USDA SR28 (NDB No: 43378)",
+      "source": "USDA SR28 (NDB No: 10124), USDA SR28 (NDB No: 43378), BLS 4.0 (Code: W410482)",
       "relations": {
         "group": "pork"
       }
@@ -3707,22 +3761,25 @@
         "cooked",
         "high_sodium",
         "k2",
-        "meat"
+        "meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 2.56,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 2.56
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.2,
           "gram_equivalent": 8
         }
       ],
-      "source": "USDA SR28 (NDB No: 10860)",
+      "source": "USDA SR28 (NDB No: 10860), BLS 4.0 (Code: W424000)",
       "relations": {
         "group": "pork"
       }
@@ -3769,22 +3826,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3
+          "vitamin_k_mcg": 7.71,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 7.66
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.3,
+          "vitamin_k_mcg": 32.77,
           "gram_equivalent": 425
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 6.55,
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 10938)",
+      "source": "USDA SR28 (NDB No: 10938), BLS 4.0 (Code: U681700)",
       "relations": {
         "group": "pork"
       }
@@ -4220,22 +4279,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.6
+          "vitamin_k_mcg": 5.18,
+          "vitamin_k1_100g_mcg": 0.964,
+          "vitamin_k2_100g_mcg": 4.22
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.5,
+          "vitamin_k_mcg": 1.45,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 1.09,
           "gram_equivalent": 21
         }
       ],
-      "source": "USDA SR28 (NDB No: 13348), Ciqual 2025 (Food Code: 28505)",
+      "source": "USDA SR28 (NDB No: 13348), Ciqual 2025 (Food Code: 28505), BLS 4.0 (Code: W520032)",
       "relations": {
         "group": "beef"
       }
@@ -4495,28 +4556,31 @@
         "k2",
         "meat",
         "raw",
-        "seafood"
+        "seafood",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 0.2,
+          "vitamin_k1_100g_mcg": 0.1,
+          "vitamin_k2_100g_mcg": 0.12
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.06,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 0.37,
           "gram_equivalent": 184
         }
       ],
-      "source": "USDA SR28 (NDB No: 15039)",
+      "source": "USDA SR28 (NDB No: 15039), BLS 4.0 (Code: T102100)",
       "relations": {
         "group": "fish"
       }
@@ -4593,28 +4657,31 @@
         "cooked",
         "k2",
         "meat",
-        "seafood"
+        "seafood",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 14.0,
+          "vitamin_k1_100g_mcg": 13.0,
+          "vitamin_k2_100g_mcg": 0.9
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 8.4,
           "gram_equivalent": 60
         },
         {
           "amount": 3.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 11.9,
           "gram_equivalent": 85
         }
       ],
-      "source": "USDA SR28 (NDB No: 15067)",
+      "source": "USDA SR28 (NDB No: 15067), BLS 4.0 (Code: T213152)",
       "relations": {
         "group": "fish"
       }
@@ -4786,28 +4853,31 @@
         "k2",
         "meat",
         "raw",
-        "seafood"
+        "seafood",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 1.0,
+          "vitamin_k1_100g_mcg": 0.1,
+          "vitamin_k2_100g_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.28,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.16,
           "gram_equivalent": 16
         }
       ],
-      "source": "USDA SR28 (NDB No: 15127)",
+      "source": "USDA SR28 (NDB No: 15127), BLS 4.0 (Code: T124100)",
       "relations": {
         "group": "fish"
       }
@@ -5067,22 +5137,25 @@
         "cooked",
         "k2",
         "legumes",
-        "meat"
+        "meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.5
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 1.2,
+          "vitamin_k_mcg": 7.38,
           "gram_equivalent": 246
         }
       ],
-      "source": "USDA SR28 (NDB No: 16011)",
+      "source": "USDA SR28 (NDB No: 16011), BLS 4.0 (Code: X571453)",
       "relations": {
         "group": "beans"
       }
@@ -5815,22 +5888,25 @@
       "category": "meat_poultry",
       "tags": [
         "k2",
-        "meat"
+        "meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.8
+          "vitamin_k_mcg": 6.02,
+          "vitamin_k1_100g_mcg": 1.118,
+          "vitamin_k2_100g_mcg": 4.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 4.2,
+          "vitamin_k_mcg": 14.21,
           "gram_equivalent": 236
         }
       ],
-      "source": "USDA SR28 (NDB No: 22908)",
+      "source": "USDA SR28 (NDB No: 22908), BLS 4.0 (Code: W520000)",
       "relations": {
         "group": "potato"
       }
@@ -6996,16 +7072,19 @@
       "tags": [
         "cooked",
         "k1",
-        "meat"
+        "meat",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.6
+          "vitamin_k_mcg": 3.53,
+          "vitamin_k1_100g_mcg": 1.02,
+          "vitamin_k2_100g_mcg": 2.51
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6110)",
+      "source": "Ciqual 2025 (Food Code: 6110), BLS 4.0 (Code: U131182)",
       "relations": {
         "group": "beef"
       }
@@ -7016,16 +7095,19 @@
       "tags": [
         "cooked",
         "k1",
-        "meat"
+        "meat",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.4
+          "vitamin_k_mcg": 4.2,
+          "vitamin_k1_100g_mcg": 1.21,
+          "vitamin_k2_100g_mcg": 2.99
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6123)",
+      "source": "Ciqual 2025 (Food Code: 6123), BLS 4.0 (Code: U235142)",
       "relations": {
         "group": "beef"
       }
@@ -7036,16 +7118,19 @@
       "tags": [
         "cooked",
         "k2",
-        "meat"
+        "meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 11.4
+          "vitamin_k_mcg": 5.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 1.88
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6207)",
+      "source": "Ciqual 2025 (Food Code: 6207), BLS 4.0 (Code: Y134022)",
       "relations": {
         "group": "beef"
       }
@@ -7079,16 +7164,19 @@
       "tags": [
         "cooked",
         "k1",
-        "meat"
+        "meat",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.6
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6271)",
+      "source": "Ciqual 2025 (Food Code: 6271), BLS 4.0 (Code: U281142)",
       "relations": {
         "group": "beef"
       }
@@ -7099,16 +7187,19 @@
       "tags": [
         "cooked",
         "k1",
-        "meat"
+        "meat",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.5
+          "vitamin_k_mcg": 6.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 2.58
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6531)",
+      "source": "Ciqual 2025 (Food Code: 6531), BLS 4.0 (Code: Y211022)",
       "relations": {
         "group": "beef"
       }
@@ -7120,16 +7211,19 @@
         "cooked",
         "k1",
         "meat",
-        "poultry"
+        "poultry",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.4
+          "vitamin_k_mcg": 4.11,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 4.11
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 36005)",
+      "source": "Ciqual 2025 (Food Code: 36005), BLS 4.0 (Code: V413182)",
       "relations": {
         "group": "chicken"
       }
@@ -7188,10 +7282,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.5
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 21506), Ciqual 2025 (Food Code: 21507)",
+      "source": "Ciqual 2025 (Food Code: 21506), Ciqual 2025 (Food Code: 21507), BLS 4.0 (Code: U867162)",
       "relations": {
         "group": "other_meat"
       }
@@ -7230,12 +7326,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.2,
-          "vitamin_k1_100g_mcg": 1.6,
-          "vitamin_k2_100g_mcg": 3.55
+          "vitamin_k_mcg": 0.5,
+          "vitamin_k1_100g_mcg": 0.2,
+          "vitamin_k2_100g_mcg": 0.3
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 40103)",
+      "source": "Ciqual 2025 (Food Code: 40103), BLS 4.0 (Code: V535182)",
       "relations": {
         "group": "other_meat",
         "related_ids": [
@@ -7291,16 +7387,19 @@
         "k2",
         "meat",
         "organ_meat",
-        "poultry"
+        "poultry",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.7
+          "vitamin_k_mcg": 48.9,
+          "vitamin_k1_100g_mcg": 1.5,
+          "vitamin_k2_100g_mcg": 47.4
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 40116)",
+      "source": "Ciqual 2025 (Food Code: 40116), BLS 4.0 (Code: Y5A3000)",
       "relations": {
         "group": "chicken"
       }
@@ -7312,16 +7411,19 @@
         "cooked",
         "k1",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.2
+          "vitamin_k_mcg": 8.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 6.07
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 40203)",
+      "source": "Ciqual 2025 (Food Code: 40203), BLS 4.0 (Code: V591800)",
       "relations": {
         "group": "beef"
       }
@@ -7338,10 +7440,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.5
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6002)",
+      "source": "Ciqual 2025 (Food Code: 6002), BLS 4.0 (Code: U261100)",
       "relations": {
         "group": "beef"
       }
@@ -7352,16 +7456,19 @@
       "tags": [
         "k1",
         "meat",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6102)",
+      "source": "Ciqual 2025 (Food Code: 6102), BLS 4.0 (Code: U281100)",
       "relations": {
         "group": "beef"
       }
@@ -7452,16 +7559,19 @@
       "tags": [
         "k1",
         "meat",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.5
+          "vitamin_k_mcg": 3.57,
+          "vitamin_k1_100g_mcg": 1.03,
+          "vitamin_k2_100g_mcg": 2.54
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6206)",
+      "source": "Ciqual 2025 (Food Code: 6206), BLS 4.0 (Code: U284100)",
       "relations": {
         "group": "beef"
       }
@@ -7498,10 +7608,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.5
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6270)",
+      "source": "Ciqual 2025 (Food Code: 6270), BLS 4.0 (Code: U231100)",
       "relations": {
         "group": "beef"
       }
@@ -7519,9 +7631,9 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.57,
-          "vitamin_k1_100g_mcg": 1.03,
-          "vitamin_k2_100g_mcg": 2.54
+          "vitamin_k_mcg": 3.89,
+          "vitamin_k1_100g_mcg": 1.12,
+          "vitamin_k2_100g_mcg": 2.77
         }
       ],
       "source": "Ciqual 2025 (Food Code: 6513), BLS 4.0 (Code: U421100)",
@@ -7535,16 +7647,19 @@
       "tags": [
         "k1",
         "meat",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.9
+          "vitamin_k_mcg": 3.57,
+          "vitamin_k1_100g_mcg": 1.03,
+          "vitamin_k2_100g_mcg": 2.54
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6522)",
+      "source": "Ciqual 2025 (Food Code: 6522), BLS 4.0 (Code: U333100)",
       "relations": {
         "group": "beef"
       }
@@ -7561,10 +7676,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.2
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 3.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 28100)",
+      "source": "Ciqual 2025 (Food Code: 28100), BLS 4.0 (Code: U522100)",
       "relations": {
         "group": "pork"
       }
@@ -7576,16 +7693,19 @@
         "k1",
         "meat",
         "poultry",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1
+          "vitamin_k_mcg": 7.45,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 7.45
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 36003), Ciqual 2025 (Food Code: 36016)",
+      "source": "Ciqual 2025 (Food Code: 36003), Ciqual 2025 (Food Code: 36016), BLS 4.0 (Code: V413000)",
       "relations": {
         "group": "chicken"
       }
@@ -7604,12 +7724,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 10.2,
-          "vitamin_k1_100g_mcg": 1.3,
-          "vitamin_k2_100g_mcg": 8.9
+          "vitamin_k_mcg": 4.9,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 3.9
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 36017)",
+      "source": "Ciqual 2025 (Food Code: 36017), BLS 4.0 (Code: V416100)",
       "relations": {
         "group": "chicken",
         "related_ids": [
@@ -7645,18 +7765,19 @@
         "k1",
         "meat",
         "poultry",
-        "raw"
+        "raw",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1,
-          "vitamin_k1_100g_mcg": 1.7,
-          "vitamin_k2_100g_mcg": 0.4
+          "vitamin_k_mcg": 23.0,
+          "vitamin_k1_100g_mcg": 5.0,
+          "vitamin_k2_100g_mcg": 17.6
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 36022)",
+      "source": "Ciqual 2025 (Food Code: 36022), BLS 4.0 (Code: V4B5100)",
       "relations": {
         "group": "chicken"
       }
@@ -7697,10 +7818,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.4
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 21504)",
+      "source": "Ciqual 2025 (Food Code: 21504), BLS 4.0 (Code: U867100)",
       "relations": {
         "group": "other_meat"
       }
@@ -7717,10 +7840,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.4
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 21505)",
+      "source": "Ciqual 2025 (Food Code: 21505), BLS 4.0 (Code: U861100)",
       "relations": {
         "group": "other_meat"
       }
@@ -7739,12 +7864,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.0,
-          "vitamin_k1_100g_mcg": 1.0,
-          "vitamin_k2_100g_mcg": 5.0
+          "vitamin_k_mcg": 0.5,
+          "vitamin_k1_100g_mcg": 0.2,
+          "vitamin_k2_100g_mcg": 0.3
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 40102)",
+      "source": "Ciqual 2025 (Food Code: 40102), BLS 4.0 (Code: V535100)",
       "relations": {
         "group": "other_meat",
         "related_ids": [
@@ -7787,12 +7912,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 13.9,
-          "vitamin_k1_100g_mcg": 10.5,
-          "vitamin_k2_100g_mcg": 3.44
+          "vitamin_k_mcg": 0.5,
+          "vitamin_k1_100g_mcg": 0.2,
+          "vitamin_k2_100g_mcg": 0.3
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 40119)",
+      "source": "Ciqual 2025 (Food Code: 40119), BLS 4.0 (Code: V533100)",
       "relations": {
         "group": "pork"
       }
@@ -7812,12 +7937,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 379.9,
-          "vitamin_k1_100g_mcg": 10.9,
-          "vitamin_k2_100g_mcg": 369.0
+          "vitamin_k_mcg": 41.2,
+          "vitamin_k1_100g_mcg": 1.5,
+          "vitamin_k2_100g_mcg": 39.7
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 40120)",
+      "source": "Ciqual 2025 (Food Code: 40120), BLS 4.0 (Code: V636100)",
       "relations": {
         "group": "other_poultry"
       }
@@ -8002,16 +8127,19 @@
         "high_sodium",
         "k1",
         "meat",
-        "seafood"
+        "seafood",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.3
+          "vitamin_k_mcg": 1.0,
+          "vitamin_k1_100g_mcg": 0.1,
+          "vitamin_k2_100g_mcg": 1.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 26181)",
+      "source": "Ciqual 2025 (Food Code: 26181), BLS 4.0 (Code: T124182)",
       "relations": {
         "group": "fish"
       }
@@ -8267,12 +8395,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.4,
-          "vitamin_k1_100g_mcg": 2.8,
-          "vitamin_k2_100g_mcg": 3.6
+          "vitamin_k_mcg": 10.0,
+          "vitamin_k1_100g_mcg": 6.0,
+          "vitamin_k2_100g_mcg": 3.9
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 36201)",
+      "source": "Ciqual 2025 (Food Code: 36201), BLS 4.0 (Code: V334100)",
       "relations": {
         "group": "other_poultry"
       }
@@ -8291,12 +8419,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 35.1,
-          "vitamin_k1_100g_mcg": 4.1,
-          "vitamin_k2_100g_mcg": 31.0
+          "vitamin_k_mcg": 6.55,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 6.55
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 36500)",
+      "source": "Ciqual 2025 (Food Code: 36500), BLS 4.0 (Code: V471100)",
       "relations": {
         "group": "other_poultry"
       }
@@ -9021,10 +9149,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.1
+          "vitamin_k_mcg": 170.0,
+          "vitamin_k1_100g_mcg": 170.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 9580)",
+      "source": "Ciqual 2025 (Food Code: 9580), BLS 4.0 (Code: H710400)",
       "relations": {
         "group": "peas"
       }
@@ -15198,11 +15328,11 @@
           "amount": 100,
           "unit": "g",
           "vitamin_k_mcg": 3.0,
-          "vitamin_k1_100g_mcg": 1.3,
-          "vitamin_k2_100g_mcg": 1.7
+          "vitamin_k1_100g_mcg": 0.4,
+          "vitamin_k2_100g_mcg": 3.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6251), Ciqual 2025 (Food Code: 6253), Ciqual 2025 (Food Code: 6255), Ciqual 2025 (Food Code: 6257)",
+      "source": "Ciqual 2025 (Food Code: 6251), Ciqual 2025 (Food Code: 6253), Ciqual 2025 (Food Code: 6255), Ciqual 2025 (Food Code: 6257), BLS 4.0 (Code: U063182)",
       "relations": {
         "group": "fat",
         "related_ids": [
@@ -15223,12 +15353,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.2,
+          "vitamin_k_mcg": 2.0,
           "vitamin_k1_100g_mcg": 0.3,
-          "vitamin_k2_100g_mcg": 4.9
+          "vitamin_k2_100g_mcg": 2.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 6250), Ciqual 2025 (Food Code: 6252), Ciqual 2025 (Food Code: 6254), Ciqual 2025 (Food Code: 6256)",
+      "source": "Ciqual 2025 (Food Code: 6250), Ciqual 2025 (Food Code: 6252), Ciqual 2025 (Food Code: 6254), Ciqual 2025 (Food Code: 6256), BLS 4.0 (Code: U063100)",
       "relations": {
         "group": "fat",
         "related_ids": [
@@ -15445,28 +15575,31 @@
       "id": "usda_cmdty_bf_cnd",
       "category": "meat_poultry",
       "tags": [
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 9.6
+          "vitamin_k_mcg": 4.1,
+          "vitamin_k1_100g_mcg": 1.3,
+          "vitamin_k2_100g_mcg": 2.8
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 4.3,
+          "vitamin_k_mcg": 1.84,
           "gram_equivalent": 45
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 76.9,
+          "vitamin_k_mcg": 32.84,
           "gram_equivalent": 801
         }
       ],
-      "source": "USDA SR28 (NDB No: 13166)"
+      "source": "USDA SR28 (NDB No: 13166), BLS 4.0 (Code: Q890000)"
     },
     {
       "id": "fast_foods_burrito_w_bns_bf",
@@ -15596,28 +15729,31 @@
       "id": "burger_king_chick_strips",
       "category": "meat_poultry",
       "tags": [
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 6.3
+          "vitamin_k_mcg": 11.0,
+          "vitamin_k1_100g_mcg": 9.0,
+          "vitamin_k2_100g_mcg": 2.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.9,
+          "vitamin_k_mcg": 1.54,
           "gram_equivalent": 14
         },
         {
           "amount": 3.0,
           "unit": "piece",
-          "vitamin_k_mcg": 2.7,
+          "vitamin_k_mcg": 4.73,
           "gram_equivalent": 43
         }
       ],
-      "source": "USDA SR28 (NDB No: 21256)",
+      "source": "USDA SR28 (NDB No: 21256), BLS 4.0 (Code: Y9A1000)",
       "relations": {
         "group": "sandwich"
       }
@@ -17264,28 +17400,31 @@
         "k2",
         "legumes",
         "meat",
-        "processed"
+        "processed",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.4
+          "vitamin_k_mcg": 20.0,
+          "vitamin_k1_100g_mcg": 20.0,
+          "vitamin_k2_100g_mcg": 0.42
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 7.8,
+          "vitamin_k_mcg": 65.2,
           "gram_equivalent": 326
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 3.1,
+          "vitamin_k_mcg": 26.0,
           "gram_equivalent": 130
         }
       ],
-      "source": "USDA SR28 (NDB No: 06004)",
+      "source": "USDA SR28 (NDB No: 06004), BLS 4.0 (Code: X465033)",
       "relations": {
         "group": "beans"
       }
@@ -17389,28 +17528,31 @@
       "tags": [
         "high_sodium",
         "k1",
-        "processed"
+        "processed",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.1
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 3.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 5.2,
+          "vitamin_k_mcg": 3.78,
           "gram_equivalent": 126
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 12.5,
+          "vitamin_k_mcg": 9.15,
           "gram_equivalent": 305
         }
       ],
-      "source": "USDA SR28 (NDB No: 06016)",
+      "source": "USDA SR28 (NDB No: 06016), BLS 4.0 (Code: X458143)",
       "relations": {
         "group": "soup"
       }
@@ -17529,22 +17671,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 1.33
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.4,
+          "vitamin_k_mcg": 3.57,
           "gram_equivalent": 119
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.9,
+          "vitamin_k_mcg": 8.94,
           "gram_equivalent": 298
         }
       ],
-      "source": "USDA SR28 (NDB No: 06023), USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA SR28 (NDB No: 06023), USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: X453023)",
       "relations": {
         "group": "rice"
       }
@@ -17555,28 +17699,31 @@
       "tags": [
         "high_sodium",
         "k1",
-        "processed"
+        "processed",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.3
+          "vitamin_k_mcg": 25.0,
+          "vitamin_k1_100g_mcg": 24.0,
+          "vitamin_k2_100g_mcg": 0.95
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 4.0,
+          "vitamin_k_mcg": 30.25,
           "gram_equivalent": 121
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 10.0,
+          "vitamin_k_mcg": 75.75,
           "gram_equivalent": 303
         }
       ],
-      "source": "USDA SR28 (NDB No: 06025)",
+      "source": "USDA SR28 (NDB No: 06025), BLS 4.0 (Code: X416713)",
       "relations": {
         "group": "soup"
       }
@@ -17756,22 +17903,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.6
+          "vitamin_k_mcg": 7.0,
+          "vitamin_k1_100g_mcg": 7.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 7.1,
+          "vitamin_k_mcg": 8.82,
           "gram_equivalent": 126
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 17.1,
+          "vitamin_k_mcg": 21.35,
           "gram_equivalent": 305
         }
       ],
-      "source": "USDA SR28 (NDB No: 06071)",
+      "source": "USDA SR28 (NDB No: 06071), BLS 4.0 (Code: X462063)",
       "relations": {
         "group": "soup"
       }
@@ -17820,22 +17969,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.2
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 3
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 6
         }
       ],
-      "source": "USDA SR28 (NDB No: 06075)",
+      "source": "USDA SR28 (NDB No: 06075), BLS 4.0 (Code: R811000)",
       "relations": {
         "group": "soup"
       }
@@ -17943,7 +18094,9 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
@@ -17952,7 +18105,7 @@
           "gram_equivalent": 6
         }
       ],
-      "source": "USDA SR28 (NDB No: 06124)",
+      "source": "USDA SR28 (NDB No: 06124), BLS 4.0 (Code: R910000)",
       "relations": {
         "group": "pork"
       }
@@ -17996,28 +18149,31 @@
         "high_sodium",
         "k1",
         "mushrooms",
-        "processed"
+        "processed",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.1
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 1.4,
+          "vitamin_k_mcg": 5.04,
           "gram_equivalent": 126
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 3.4,
+          "vitamin_k_mcg": 12.2,
           "gram_equivalent": 305
         }
       ],
-      "source": "USDA SR28 (NDB No: 06149)",
+      "source": "USDA SR28 (NDB No: 06149), BLS 4.0 (Code: X448353)",
       "relations": {
         "group": "mushroom"
       }
@@ -18379,22 +18535,25 @@
         "k2",
         "legumes",
         "meat",
-        "processed"
+        "processed",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.6
+          "vitamin_k_mcg": 22.0,
+          "vitamin_k1_100g_mcg": 22.0,
+          "vitamin_k2_100g_mcg": 0.2
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 1.6,
+          "vitamin_k_mcg": 58.3,
           "gram_equivalent": 265
         }
       ],
-      "source": "USDA SR28 (NDB No: 06474)",
+      "source": "USDA SR28 (NDB No: 06474), BLS 4.0 (Code: X469113)",
       "relations": {
         "group": "beans"
       }
@@ -19011,16 +19170,19 @@
       "tags": [
         "k1",
         "meat",
-        "processed"
+        "processed",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.5
+          "vitamin_k_mcg": 4.0,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 3.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 25207)",
+      "source": "Ciqual 2025 (Food Code: 25207), BLS 4.0 (Code: X363143)",
       "relations": {
         "group": "pork"
       }
@@ -19366,21 +19528,22 @@
       "tags": [
         "k2",
         "meat",
-        "organ_meat"
+        "organ_meat",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 34.2,
-          "vitamin_k1_100g_mcg": 0.0,
-          "vitamin_k2_100g_mcg": 34.2
+          "vitamin_k_mcg": 11.3,
+          "vitamin_k1_100g_mcg": 0.6,
+          "vitamin_k2_100g_mcg": 10.7
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "gram_equivalent": 30.0,
-          "vitamin_k_mcg": 10.26
+          "vitamin_k_mcg": 3.39
         }
       ],
       "source": "BLS 4.0 (Code: W151300)",

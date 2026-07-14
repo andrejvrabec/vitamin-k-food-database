@@ -33,16 +33,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.5
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.7,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: M502700)",
       "tags": [
         "aged_cheese",
         "dairy",
@@ -59,20 +61,23 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1
+          "vitamin_k_mcg": 43.0,
+          "vitamin_k1_100g_mcg": 1.21,
+          "vitamin_k2_100g_mcg": 42.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.6,
+          "vitamin_k_mcg": 12.04,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: M602600)",
       "tags": [
         "aged_cheese",
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "relations": {
         "group": "cheese"
@@ -161,19 +166,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.1
+          "vitamin_k_mcg": 15.0,
+          "vitamin_k1_100g_mcg": 4.0,
+          "vitamin_k2_100g_mcg": 10.8
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 2.1,
           "gram_equivalent": 14
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: M710800)",
       "tags": [
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "relations": {
         "group": "cheese"
@@ -286,19 +294,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.3
+          "vitamin_k_mcg": 17.0,
+          "vitamin_k1_100g_mcg": 2.3,
+          "vitamin_k2_100g_mcg": 14.68
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.3,
+          "vitamin_k_mcg": 17.0,
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: M604600)",
       "tags": [
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "relations": {
         "group": "cheese"
@@ -413,20 +424,23 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.9
+          "vitamin_k_mcg": 20.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 18.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 2.9,
+          "vitamin_k_mcg": 20.0,
           "gram_equivalent": 100
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: M313600)",
       "tags": [
         "aged_cheese",
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "relations": {
         "group": "cheese"
@@ -644,19 +658,22 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.4
+          "vitamin_k_mcg": 22.4,
+          "vitamin_k1_100g_mcg": 2.49,
+          "vitamin_k2_100g_mcg": 19.91
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 0.2,
+          "vitamin_k_mcg": 3.14,
           "gram_equivalent": 14
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: M172900)",
       "tags": [
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "relations": {
         "group": "cream"
@@ -695,20 +712,23 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 32.0
+          "vitamin_k_mcg": 8.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 5.0
         },
         {
           "amount": 1,
           "unit": "piece",
           "gram_equivalent": 17,
-          "vitamin_k_mcg": 5.4
+          "vitamin_k_mcg": 1.36
         }
       ],
-      "source": "USDA FoodData Central (FDC ID: 172184)",
+      "source": "USDA FoodData Central (FDC ID: 172184), BLS 4.0 (Code: E112100)",
       "tags": [
         "egg",
         "k2",
-        "raw"
+        "raw",
+        "k1"
       ],
       "relations": {
         "group": "egg"
@@ -828,16 +848,18 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.1
+          "vitamin_k_mcg": 2.5,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 2.5
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 3.75,
           "gram_equivalent": 150
         }
       ],
-      "source": "USDA Database for Standard Reference Legacy (2018)",
+      "source": "USDA Database for Standard Reference Legacy (2018), BLS 4.0 (Code: M887000)",
       "tags": [
         "dairy",
         "k2"
@@ -883,28 +905,31 @@
       "tags": [
         "aged_cheese",
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.3
+          "vitamin_k_mcg": 43.0,
+          "vitamin_k1_100g_mcg": 1.21,
+          "vitamin_k2_100g_mcg": 42.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 5.5,
+          "vitamin_k_mcg": 103.2,
           "gram_equivalent": 240
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.3,
+          "vitamin_k_mcg": 61.92,
           "gram_equivalent": 144
         }
       ],
-      "source": "USDA SR28 (NDB No: 01006)",
+      "source": "USDA SR28 (NDB No: 01006), BLS 4.0 (Code: M601800)",
       "relations": {
         "group": "cheese"
       }
@@ -978,28 +1003,31 @@
       "tags": [
         "aged_cheese",
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.3
+          "vitamin_k_mcg": 68.4,
+          "vitamin_k1_100g_mcg": 3.9,
+          "vitamin_k2_100g_mcg": 64.5
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.7,
+          "vitamin_k_mcg": 19.15,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 4.6,
+          "vitamin_k_mcg": 135.43,
           "gram_equivalent": 198
         }
       ],
-      "source": "USDA SR28 (NDB No: 01018)",
+      "source": "USDA SR28 (NDB No: 01018), BLS 4.0 (Code: M401700)",
       "relations": {
         "group": "cheese"
       }
@@ -1016,22 +1044,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.6
+          "vitamin_k_mcg": 1.14,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 1.14
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.4,
+          "vitamin_k_mcg": 1.5,
           "gram_equivalent": 132
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 2.8,
+          "vitamin_k_mcg": 1.23,
           "gram_equivalent": 108
         }
       ],
-      "source": "USDA SR28 (NDB No: 01020)",
+      "source": "USDA SR28 (NDB No: 01020), BLS 4.0 (Code: M406700)",
       "relations": {
         "group": "cheese"
       }
@@ -1042,28 +1072,31 @@
       "tags": [
         "aged_cheese",
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.3
+          "vitamin_k_mcg": 68.4,
+          "vitamin_k1_100g_mcg": 3.9,
+          "vitamin_k2_100g_mcg": 64.5
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.7,
+          "vitamin_k_mcg": 19.15,
           "gram_equivalent": 28
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 4.6,
+          "vitamin_k_mcg": 135.43,
           "gram_equivalent": 198
         }
       ],
-      "source": "USDA SR28 (NDB No: 01022), USDA FoodData Central (FDC ID: 172166)",
+      "source": "USDA SR28 (NDB No: 01022), USDA FoodData Central (FDC ID: 172166), BLS 4.0 (Code: M402600)",
       "relations": {
         "group": "cheese"
       }
@@ -1105,28 +1138,31 @@
       "category": "dairy_eggs",
       "tags": [
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.3
+          "vitamin_k_mcg": 17.0,
+          "vitamin_k1_100g_mcg": 2.3,
+          "vitamin_k2_100g_mcg": 14.68
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 3.1,
+          "vitamin_k_mcg": 22.78,
           "gram_equivalent": 134
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.7,
+          "vitamin_k_mcg": 4.76,
           "gram_equivalent": 28
         }
       ],
-      "source": "USDA SR28 (NDB No: 01024)",
+      "source": "USDA SR28 (NDB No: 01024), BLS 4.0 (Code: M603500)",
       "relations": {
         "group": "cheese"
       }
@@ -2160,22 +2196,25 @@
       "tags": [
         "cooked",
         "egg",
-        "k2"
+        "k2",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.6
+          "vitamin_k_mcg": 0.09,
+          "vitamin_k1_100g_mcg": 0.09,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 2.6,
+          "vitamin_k_mcg": 0.04,
           "gram_equivalent": 46
         }
       ],
-      "source": "USDA SR28 (NDB No: 01128)",
+      "source": "USDA SR28 (NDB No: 01128), BLS 4.0 (Code: E151132)",
       "relations": {
         "group": "egg"
       }
@@ -2281,22 +2320,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.2
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 1.0,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 85
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 5
         }
       ],
-      "source": "USDA SR28 (NDB No: 01133)",
+      "source": "USDA SR28 (NDB No: 01133), BLS 4.0 (Code: E113400)",
       "relations": {
         "group": "egg"
       }
@@ -2312,22 +2353,24 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.5
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 1.0,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 67
         },
         {
           "amount": 1.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 4
         }
       ],
-      "source": "USDA SR28 (NDB No: 01137)",
+      "source": "USDA SR28 (NDB No: 01137), BLS 4.0 (Code: E112400)",
       "relations": {
         "group": "egg"
       }
@@ -2338,22 +2381,25 @@
       "tags": [
         "egg",
         "k2",
-        "raw"
+        "raw",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 2.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 2.1,
           "gram_equivalent": 70
         }
       ],
-      "source": "USDA SR28 (NDB No: 01138)",
+      "source": "USDA SR28 (NDB No: 01138), BLS 4.0 (Code: E131100)",
       "relations": {
         "group": "egg"
       }
@@ -2364,22 +2410,25 @@
       "tags": [
         "egg",
         "k2",
-        "raw"
+        "raw",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4
+          "vitamin_k_mcg": 8.0,
+          "vitamin_k1_100g_mcg": 0.6,
+          "vitamin_k2_100g_mcg": 7.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.6,
+          "vitamin_k_mcg": 11.52,
           "gram_equivalent": 144
         }
       ],
-      "source": "USDA SR28 (NDB No: 01139)",
+      "source": "USDA SR28 (NDB No: 01139), BLS 4.0 (Code: E141100)",
       "relations": {
         "group": "egg"
       }
@@ -2390,22 +2439,25 @@
       "tags": [
         "egg",
         "k2",
-        "raw"
+        "raw",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.3
+          "vitamin_k_mcg": 8.0,
+          "vitamin_k1_100g_mcg": 0.6,
+          "vitamin_k2_100g_mcg": 7.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.0,
+          "vitamin_k_mcg": 0.72,
           "gram_equivalent": 9
         }
       ],
-      "source": "USDA SR28 (NDB No: 01140)",
+      "source": "USDA SR28 (NDB No: 01140), BLS 4.0 (Code: E106100)",
       "relations": {
         "group": "egg"
       }
@@ -2421,7 +2473,9 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.4
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
@@ -2432,11 +2486,11 @@
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.1,
+          "vitamin_k_mcg": 0.0,
           "gram_equivalent": 20
         }
       ],
-      "source": "USDA SR28 (NDB No: 01144)",
+      "source": "USDA SR28 (NDB No: 01144), BLS 4.0 (Code: N500900)",
       "relations": {
         "group": "egg"
       }
@@ -2609,28 +2663,31 @@
       "category": "dairy_eggs",
       "tags": [
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 0.9
+          "vitamin_k_mcg": 10.0,
+          "vitamin_k1_100g_mcg": 1.0,
+          "vitamin_k2_100g_mcg": 9.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 2.2,
+          "vitamin_k_mcg": 24.3,
           "gram_equivalent": 243
         },
         {
           "amount": 2.0,
           "unit": "tbsp",
-          "vitamin_k_mcg": 0.3,
+          "vitamin_k_mcg": 3.0,
           "gram_equivalent": 30
         }
       ],
-      "source": "USDA SR28 (NDB No: 01164)",
+      "source": "USDA SR28 (NDB No: 01164), BLS 4.0 (Code: X327143)",
       "relations": {
         "group": "cheese"
       }
@@ -3643,28 +3700,31 @@
         "bakery",
         "dairy",
         "k2",
-        "processed"
+        "processed",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.8
+          "vitamin_k_mcg": 8.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 5.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.5,
+          "vitamin_k_mcg": 1.12,
           "gram_equivalent": 14
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 0.4,
+          "vitamin_k_mcg": 0.88,
           "gram_equivalent": 11
         }
       ],
-      "source": "USDA SR28 (NDB No: 18223)",
+      "source": "USDA SR28 (NDB No: 18223), BLS 4.0 (Code: D050000)",
       "relations": {
         "group": "milk"
       }
@@ -4070,22 +4130,25 @@
       "category": "dairy_eggs",
       "tags": [
         "egg",
-        "k2"
+        "k2",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 14.3
+          "vitamin_k_mcg": 20.0,
+          "vitamin_k1_100g_mcg": 19.0,
+          "vitamin_k2_100g_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
-          "vitamin_k_mcg": 17.9,
+          "vitamin_k_mcg": 25.0,
           "gram_equivalent": 125
         }
       ],
-      "source": "USDA SR28 (NDB No: 22971)",
+      "source": "USDA SR28 (NDB No: 22971), BLS 4.0 (Code: X1A2020)",
       "relations": {
         "group": "potato"
       }
@@ -4410,22 +4473,25 @@
       "category": "dairy_eggs",
       "tags": [
         "dairy",
-        "k2"
+        "k2",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 11.0
+          "vitamin_k_mcg": 16.1,
+          "vitamin_k1_100g_mcg": 0.2,
+          "vitamin_k2_100g_mcg": 15.9
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 24.9,
+          "vitamin_k_mcg": 36.39,
           "gram_equivalent": 226
         }
       ],
-      "source": "USDA SR28 (NDB No: 43273)",
+      "source": "USDA SR28 (NDB No: 43273), BLS 4.0 (Code: M711100)",
       "relations": {
         "group": "cheese"
       }
@@ -4761,22 +4827,25 @@
         "dairy",
         "fermented",
         "k2",
-        "soy"
+        "soy",
+        "k1"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.5
+          "vitamin_k_mcg": 16.2,
+          "vitamin_k1_100g_mcg": 16.2,
+          "vitamin_k2_100g_mcg": 0.0
         },
         {
           "amount": 1.0,
           "unit": "cup",
-          "vitamin_k_mcg": 9.2,
+          "vitamin_k_mcg": 42.44,
           "gram_equivalent": 262
         }
       ],
-      "source": "USDA SR28 (NDB No: 43476)",
+      "source": "USDA SR28 (NDB No: 43476), BLS 4.0 (Code: H861000)",
       "relations": {
         "group": "soy"
       }
@@ -4842,16 +4911,19 @@
       "category": "dairy_eggs",
       "tags": [
         "egg",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 44.3
+          "vitamin_k_mcg": 3.0,
+          "vitamin_k1_100g_mcg": 2.0,
+          "vitamin_k2_100g_mcg": 1.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 8297)",
+      "source": "Ciqual 2025 (Food Code: 8297), BLS 4.0 (Code: X416313)",
       "relations": {
         "group": "egg"
       }
@@ -5092,12 +5164,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 5.9,
-          "vitamin_k1_100g_mcg": 0.3,
-          "vitamin_k2_100g_mcg": 5.6
+          "vitamin_k_mcg": 6.0,
+          "vitamin_k1_100g_mcg": 0.5,
+          "vitamin_k2_100g_mcg": 5.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 22000)",
+      "source": "Ciqual 2025 (Food Code: 22000), BLS 4.0 (Code: E432000)",
       "relations": {
         "group": "egg"
       }
@@ -5113,10 +5185,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.5
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 22003)",
+      "source": "Ciqual 2025 (Food Code: 22003), BLS 4.0 (Code: E112500)",
       "relations": {
         "group": "egg"
       }
@@ -5132,10 +5206,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 1.2
+          "vitamin_k_mcg": 0.0,
+          "vitamin_k1_100g_mcg": 0.0,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 22013)",
+      "source": "Ciqual 2025 (Food Code: 22013), BLS 4.0 (Code: E111500)",
       "relations": {
         "group": "egg"
       }
@@ -5279,10 +5355,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 4.0
+          "vitamin_k_mcg": 27.7,
+          "vitamin_k1_100g_mcg": 1.67,
+          "vitamin_k2_100g_mcg": 26.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 12001)",
+      "source": "Ciqual 2025 (Food Code: 12001), BLS 4.0 (Code: M052000)",
       "relations": {
         "group": "cheese"
       }
@@ -5525,16 +5603,19 @@
       "category": "dairy_eggs",
       "tags": [
         "dairy",
-        "k1"
+        "k1",
+        "k2"
       ],
       "portions": [
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 2.5
+          "vitamin_k_mcg": 38.0,
+          "vitamin_k1_100g_mcg": 21.0,
+          "vitamin_k2_100g_mcg": 17.3
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 12815), Ciqual 2025 (Food Code: 12810)",
+      "source": "Ciqual 2025 (Food Code: 12815), Ciqual 2025 (Food Code: 12810), BLS 4.0 (Code: M053000)",
       "relations": {
         "group": "cheese"
       }
@@ -6286,10 +6367,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 18.3
+          "vitamin_k_mcg": 24.8,
+          "vitamin_k1_100g_mcg": 24.8,
+          "vitamin_k2_100g_mcg": 0.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 1028)",
+      "source": "Ciqual 2025 (Food Code: 1028), BLS 4.0 (Code: H882000)",
       "relations": {
         "group": "cheese"
       }
@@ -6366,12 +6449,12 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 3.2,
-          "vitamin_k1_100g_mcg": 0.59,
-          "vitamin_k2_100g_mcg": 2.6
+          "vitamin_k_mcg": 7.0,
+          "vitamin_k1_100g_mcg": 3.0,
+          "vitamin_k2_100g_mcg": 4.0
         }
       ],
-      "source": "Ciqual 2025 (Food Code: 39515)",
+      "source": "Ciqual 2025 (Food Code: 39515), BLS 4.0 (Code: S242300)",
       "relations": {
         "group": "cream"
       }
@@ -6564,7 +6647,7 @@
           "amount": 100,
           "unit": "g",
           "vitamin_k_mcg": 73.0,
-          "vitamin_k1_100g_mcg": 1.5,
+          "vitamin_k1_100g_mcg": 1.47,
           "vitamin_k2_100g_mcg": 72.0
         },
         {
@@ -6712,7 +6795,7 @@
           "amount": 100,
           "unit": "g",
           "vitamin_k_mcg": 51.4,
-          "vitamin_k1_100g_mcg": 1.9,
+          "vitamin_k1_100g_mcg": 1.94,
           "vitamin_k2_100g_mcg": 49.5
         }
       ],
