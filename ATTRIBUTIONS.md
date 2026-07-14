@@ -11,7 +11,6 @@ Data on food composition from French sources is sourced from the **CIQUAL French
 * **Official Citation:** Anses. 2025. Ciqual French food composition table. [ciqual.anses.fr](https://ciqual.anses.fr/)
 * **License:** Reused under the **Open Licence 2.0** (*Licence Ouverte 2.0*) established by the French government (Etalab).
 * **Usage Rights:** This license allows copying, modifying, translating, and distributing the data for both commercial and non-commercial purposes, provided the source is credited.
-* **Slovak Translation (Atribúcia):** Dáta pochádzajú z francúzskej národnej databázy **CIQUAL 2025** spravovanej úradom **ANSES** a sú použité v súlade s licenciou **Open Licence 2.0**.
 
 ---
 
@@ -22,7 +21,6 @@ Nutritional values and food portion measures are sourced from the **USDA Databas
 * **Official Citation:** U.S. Department of Agriculture, Agricultural Research Service. FoodData Central. [fdc.nal.usda.gov](https://fdc.nal.usda.gov/)
 * **License:** Public Domain / **CC0 1.0 Universal (CC0 1.0)**.
 * **Usage Rights:** USDA data is in the public domain and not subject to copyright protection within the United States. It can be freely used, modified, and redistributed, including for commercial software and mobile applications.
-* **Slovak Translation (Atribúcia):** Nutričné hodnoty a miery porcií sú čerpané z databáz **USDA SR28 / FoodData Central** spravovaných Ministerstvom poľnohospodárstva USA a sú voľným dielom (Public Domain).
 
 ---
 
@@ -39,11 +37,11 @@ Factual medical information, drug interactions, and natural coagulation properti
 
 ---
 
-## 3. Max Rubner-Institut BLS 4.0 (Germany)
+## 4. Max Rubner-Institut BLS 4.0 (Germany)
 
 Data on food composition and specific Vitamin K1 and K2 menaquinone distributions is sourced from the **Bundeslebensmittelschlüssel (BLS 4.0)**, compiled and published by the **Max Rubner-Institut (MRI)**.
 
 * **Official Citation:** Max Rubner-Institut. Bundeslebensmittelschlüssel (BLS). [mri.bund.de](https://www.mri.bund.de/)
 * **License:** Reused under the **Max Rubner-Institut Data Use Agreement**.
 * **Usage Rights:** The BLS data is used for scientific and database lookup purposes.
-* **Slovak Translation (Atribúcia):** Nutričné hodnoty a detailné rozloženie vitamínov K1 a K2 sú čerpané z nemeckej databázy **BLS 4.0** spravovanej inštitútom **Max Rubner-Institut (MRI)**.
+
