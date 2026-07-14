@@ -173,6 +173,11 @@
       "name": "NIH NCCIH",
       "url": "https://www.nccih.nih.gov/",
       "license": "Public Domain"
+    },
+    "bls": {
+      "name": "BLS 4.0",
+      "url": "https://www.mri.bund.de/en/services/databases/german-food-composition-database-bls/",
+      "license": "Scientific Database"
     }
   }
 }

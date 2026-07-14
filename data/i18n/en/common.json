@@ -93,6 +93,10 @@
     "nih": {
       "license_description": "Public Domain / U.S. Government Work",
       "attribution": "National Center for Complementary and Integrative Health."
+    },
+    "bls": {
+      "license_description": "Max Rubner-Institut Data Use Agreement",
+      "attribution": "German Food Composition Database BLS 4.0, compiled by the Max Rubner-Institut (MRI)."
     }
   }
 }

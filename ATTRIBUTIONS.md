@@ -36,3 +36,14 @@ Factual medical information, drug interactions, and natural coagulation properti
 * **NIH National Center for Complementary and Integrative Health (NCCIH).**
 
 *Note: Factual medical and scientific data are not subject to copyright. The structured JSON schemas and synthesized recommendation keys are custom creations of this repository, released under the MIT License.*
+
+---
+
+## 3. Max Rubner-Institut BLS 4.0 (Germany)
+
+Data on food composition and specific Vitamin K1 and K2 menaquinone distributions is sourced from the **Bundeslebensmittelschlüssel (BLS 4.0)**, compiled and published by the **Max Rubner-Institut (MRI)**.
+
+* **Official Citation:** Max Rubner-Institut. Bundeslebensmittelschlüssel (BLS). [mri.bund.de](https://www.mri.bund.de/)
+* **License:** Reused under the **Max Rubner-Institut Data Use Agreement**.
+* **Usage Rights:** The BLS data is used for scientific and database lookup purposes.
+* **Slovak Translation (Atribúcia):** Nutričné hodnoty a detailné rozloženie vitamínov K1 a K2 sú čerpané z nemeckej databázy **BLS 4.0** spravovanej inštitútom **Max Rubner-Institut (MRI)**.
