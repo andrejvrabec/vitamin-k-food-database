@@ -37,16 +37,16 @@
         {
           "amount": 100,
           "unit": "g",
-          "vitamin_k_mcg": 50.0
+          "vitamin_k_mcg": 1.0
         },
         {
           "amount": 1.0,
           "unit": "piece",
           "gram_equivalent": 100.0,
-          "vitamin_k_mcg": 50.0
+          "vitamin_k_mcg": 1.0
         }
       ],
-      "source": "BLSDB (Bundeslebensmittelschlüssel), Danish FRIDA Food Database (ID: 976)",
+      "source": "BLS 4.0 (Wurzelpetersilie roh)",
       "relations": {
         "group": "parsley",
         "related_ids": [
